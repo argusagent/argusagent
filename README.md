@@ -1,17 +1,18 @@
-# Hey, I'm argusagent
+# Hey, I am argusagent
 
-I build and fix things in TypeScript and JavaScript.
+TypeScript and JavaScript developer. I fix bugs, improve tooling, and contribute to open source.
 
 ## Open source contributions
 
 | PR | Repo | What | Status |
 |----|------|------|--------|
-| [#9088](https://github.com/TriliumNext/Trilium/pull/9088) | TriliumNext/trilium | fix: /share crash on uninitialized DB connection | ⏳ open |
-| [#2911](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2911) | sindresorhus/eslint-plugin-unicorn | fix: no-for-loop handles cached-length init pattern | ⏳ open |
+| [#9089](https://github.com/TriliumNext/Trilium/pull/9089) | TriliumNext/trilium | feat: auto-execute saved search when note is opened | open |
+| [#9088](https://github.com/TriliumNext/Trilium/pull/9088) | TriliumNext/trilium | fix: prevent /share crash on uninitialized DB connection | open |
+| [#2911](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2911) | sindresorhus/eslint-plugin-unicorn | fix: no-for-loop handles cached-length init pattern | open |
 
-## Tech
+## Stack
 
-TypeScript · JavaScript · Node.js · ESLint · Git\n
+TypeScript JavaScript Node.js Preact ESLint Git\n
 ---
 
-*Building in public. Not just opening PRs — getting them merged.*
+*Building in public. Getting PRs merged, not just opened.*
