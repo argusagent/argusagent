@@ -476,16 +476,15 @@ export function runMultifamily(input) {
     const principalPaid = row.principal;
     const endingBalance = row.endingBalance;
 
-    // CapEx draws (value-add): assume drawn evenly across reno period
-    const renoMonthsTotal = totalUnits / Math.max(renoPerMonth, 0.01);
+    // CapEx draws (value-add): evenly distributed across the renovation period.
+    // Months of renovation activity falling inside this year:
+    const renoMonthsTotal = renoPerMonth > 0 ? totalUnits / renoPerMonth : 0;
     const yearStartMonth = (y - 1) * 12;
     const yearEndMonth = y * 12;
-    const renoYearStartFrac = Math.max(0, Math.min(1, (renoMonthsTotal - yearStartMonth) / 12));
-    const renoYearEndFrac = Math.max(0, Math.min(1, (renoMonthsTotal - yearEndMonth) / 12));
-    const renoFracThisYear = Math.max(0, Math.min(1,
-      Math.min(1, Math.max(0, (renoMonthsTotal - yearStartMonth) / 12)) -
-      Math.max(0, Math.min(1, (renoMonthsTotal - yearEndMonth) / 12))
-    ));
+    const monthsInYear = renoMonthsTotal <= 0
+      ? 0
+      : Math.max(0, Math.min(renoMonthsTotal, yearEndMonth) - Math.max(0, yearStartMonth));
+    const renoFracThisYear = renoMonthsTotal > 0 ? monthsInYear / renoMonthsTotal : 0;
     const renoCapEx = totalRenoCost * renoFracThisYear;
 
     const cfBeforeTax = noi - debtService - renoCapEx;
