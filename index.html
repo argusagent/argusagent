@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=5" />
+  <meta name="theme-color" content="#0a0d10" />
+  <meta name="color-scheme" content="dark" />
+  <meta name="description" content="Institutional real-estate underwriting — single-family and multifamily value-add pro forma, fully offline." />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="UnderWrite Pro" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="./icons/icon-192.png" />
+  <link rel="icon" href="./icons/icon-192.png" type="image/png" />
+  <title>UnderWrite Pro · Institutional Real-Estate Underwriting</title>
+  <link rel="stylesheet" href="./css/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <span class="mark">Under<em>Write</em> Pro</span>
+        <span class="tag">v1.0</span>
+      </div>
+      <div class="mode-toggle" role="tablist" aria-label="Mode">
+        <button data-mode="sf" class="active">SF</button>
+        <button data-mode="mf">Multifamily</button>
+      </div>
+    </header>
+
+    <nav class="tabs">
+      <ul>
+        <li><button data-tab="dashboard" class="active">Dashboard</button></li>
+        <li><button data-tab="inputs">Inputs</button></li>
+        <li><button data-tab="proforma">Pro Forma</button></li>
+        <li><button data-tab="waterfall">Waterfall</button></li>
+        <li><button data-tab="sensitivity">Sensitivity</button></li>
+        <li><button data-tab="saved">Saved</button></li>
+      </ul>
+    </nav>
+
+    <main id="main"></main>
+
+    <footer class="footer">
+      <button class="btn primary" id="save-deal" style="margin-bottom:14px">Save underwriting</button>
+      <div>UnderWrite Pro · Local-first · No backend</div>
+    </footer>
+  </div>
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

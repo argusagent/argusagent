@@ -1,0 +1,13 @@
+{
+  "name": "underwrite-pro",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "verify": "node tests/verify.js",
+    "serve": "python3 -m http.server 8080"
+  },
+  "devDependencies": {
+    "playwright": "^1.60.0"
+  }
+}

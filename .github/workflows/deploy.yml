@@ -1,0 +1,52 @@
+name: Deploy UnderWrite Pro to GitHub Pages
+
+on:
+  push:
+    branches: [main, "claude/build-underwrite-pwa-*"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run calculation verification
+        run: node tests/verify.js
+
+  build:
+    needs: verify
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Package static site
+        run: |
+          mkdir -p _site
+          rsync -av --exclude='_site' --exclude='node_modules' --exclude='tests' \
+                    --exclude='.github' --exclude='.git' --exclude='package*.json' \
+                    --exclude='.gitignore' ./ _site/
+      - uses: actions/configure-pages@v4
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

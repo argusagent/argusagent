@@ -1,0 +1,18 @@
+{
+  "name": "UnderWrite Pro",
+  "short_name": "UnderWrite",
+  "description": "Institutional real-estate underwriting — single-family and multifamily value-add pro forma, fully offline.",
+  "id": "/underwrite-pro/",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0d10",
+  "theme_color": "#0a0d10",
+  "categories": ["finance", "business", "productivity"],
+  "icons": [
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
