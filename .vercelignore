@@ -1,0 +1,4 @@
+tools/
+transcripts/
+app/
+**/__pycache__/
