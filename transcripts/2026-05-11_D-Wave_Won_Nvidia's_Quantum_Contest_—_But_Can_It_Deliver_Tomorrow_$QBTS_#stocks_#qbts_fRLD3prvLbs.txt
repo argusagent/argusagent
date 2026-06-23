@@ -7,9 +7,25 @@ Type: short
 Duration: 0:34 (34s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 17
+Transcript characters: 598
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] D-Wave earnings drop tomorrow. The
+[00:02] quantum hype is real, but do the
+[00:04] fundamentals match?
+[00:05] >> Well, you know I love D-Wave mostly cuz
+[00:07] it won the video quantum computing
+[00:09] contest. Their sales are actually
+[00:11] forecast to decline. Their earnings
+[00:13] estimates are pretty flat. Now, the
+[00:15] other reason I like D-Wave is they had a
+[00:17] big surprise back in the third quarter,
+[00:19] but in the fourth quarter they missed.
+[00:21] So, this one's a little bit more
+[00:23] chaotic, but if they can beat analyst
+[00:25] estimates and and provide good guidance,
+[00:27] I think that would be wonderful. And
+[00:29] they don't have the sales growth that
+[00:31] IonQ or Rigetti has at this moment.

@@ -7,9 +7,44 @@ Type: short
 Duration: 1:14 (74s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 36
+Transcript characters: 1240
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Super Micro is the most volatile AI
+[00:02] stock out there. I know you seem to be
+[00:04] still bullish on this one, but what is
+[00:06] going to happen this week?
+[00:07] >> Well, their sales are supposed to be up
+[00:08] 171%.
+[00:10] Their earnings are supposed to be up
+[00:11] 101.5%.
+[00:14] We have positive analyst revisions from
+[00:17] uh 53 cents to 62 cents in the last 90
+[00:19] days. And last quarter they beat by
+[00:22] 41.4%.
+[00:24] Super Micro is an order backlog story.
+[00:26] They're 9% of Nvidia sales. They make
+[00:29] the best water-cooled rack systems out
+[00:31] there for all my cloud computing
+[00:33] contacts. The shorts tried to attack
+[00:35] them asserting that Oracle was going to
+[00:37] pull some orders, but it didn't show up
+[00:39] in the analyst estimates. You can have
+[00:41] all these rumors out there, but all I
+[00:43] I'm just focused on earnings and the
+[00:45] analyst revisions and everything looks
+[00:47] positive. Now, the distraction from its
+[00:49] founder who was charged by the just the
+[00:51] just department for apparently selling
+[00:54] some water-cooled rack uh systems to
+[00:56] China via Taiwan. Well, that gentleman's
+[00:59] not at the company anymore. So, we don't
+[01:00] have to worry about him. He he's a
+[01:02] brilliant engineer, but they have other
+[01:04] engineers that are basically fulfilling
+[01:06] his missions. This is why I hold Super
+[01:08] Micro. It's going to be my second second
+[01:11] strongest sales growth this quarter.
+[01:12] Micron will be the strongest.

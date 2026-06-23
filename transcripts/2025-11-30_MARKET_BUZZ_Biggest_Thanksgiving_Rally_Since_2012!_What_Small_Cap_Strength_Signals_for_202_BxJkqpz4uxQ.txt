@@ -7,9 +7,562 @@ Type: video
 Duration: 20:05 (1205s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 554
+Transcript characters: 17886
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The rally during Thanksgiving week was
+[00:02] the biggest since 2012. And at the same
+[00:05] time, small cap stocks joined the party.
+[00:07] Multiple Fed officials have now
+[00:09] confirmed that a key interest rate cut
+[00:11] is coming on December 10th. So it looks
+[00:13] like a Santa Claus rally is officially
+[00:15] underway. Let's break it down. Welcome
+[00:17] back to Navellier Market Buzz.
+[00:22] >> [music]
+[00:28] [music]
+[00:32] >> So dad, what does this small cap
+[00:34] resurgence signal for investors?
+[00:37] Well, it signals we've had an early
+[00:38] January effect, which is
+[00:40] small cap stocks are hypersensitive
+[00:42] volume.
+[00:43] And they benefited from the the surge
+[00:46] just before Thanksgiving.
+[00:48] And that means the real January effect
+[00:50] in January will be spectacular. So this
+[00:53] is the first phase of a of a rally that
+[00:56] will uh
+[00:57] explode the upside on the New York cons.
+[01:00] But how can the market flip so fast?
+[01:03] Well, probably because the short sellers
+[01:06] went home and um they probably had
+[01:08] apologized to their mothers for being
+[01:10] horrible human beings and negative
+[01:12] people because that's what they are.
+[01:14] They're evil people. You know, people
+[01:16] are happy during the holidays while
+[01:18] volume gets light and then the market
+[01:20] tends to just gravitate to the natural
+[01:23] flow, which is
+[01:25] a lot of money pouring in the US markets
+[01:27] right now. We're at and you look around
+[01:29] the world, we're the only country that's
+[01:30] really growing.
+[01:32] And we have one stock, namely Nvidia,
+[01:35] that's worth more than the British stock
+[01:37] exchange, the French stock exchange, the
+[01:39] German stock exchange, the Italian stock
+[01:41] exchange.
+[01:42] And uh you know, it's Christine Lagarde
+[01:45] gave a little talk to the bankers in
+[01:47] Europe today and she basically said
+[01:50] we're not poised for growth anymore in
+[01:52] Europe because they're not embracing
+[01:55] all the AI and stuff that's driving
+[01:57] American growth.
+[01:58] >> Speaking of Nvidia, Meta may consider
+[02:01] buying Google's AI chip, so Nvidia might
+[02:03] finally be facing a real AI chip
+[02:06] competition.
+[02:07] Yeah, I should clarify this. This is not
+[02:09] Google's Willow chip, which is is
+[02:11] associated with quantum computing. This
+[02:13] is another chip and the order hasn't
+[02:15] been placed. It's not in Google's
+[02:17] forecast of sales and earnings.
+[02:19] So Nvidia's forecast sales and earnings
+[02:21] are much stronger than Google.
+[02:23] And it was just
+[02:25] another rumor to hit Nvidia. And Nvidia
+[02:28] does regenerative AI, which is machine
+[02:31] learning. They look at everything.
+[02:32] That's why it takes so much power and
+[02:35] from the data centers and all. There are
+[02:37] lower grade AI chips. Like we've had
+[02:40] Paul DeLugish on Navellier Market Buzz
+[02:42] and he's his firm is Natural
+[02:44] Intelligence in Boise, Idaho.
+[02:46] And they look at correlated bits of
+[02:49] data. And their
+[02:51] AI is based on, you know, how humans
+[02:54] think, okay? So it's there are going to
+[02:57] be a lot of lower grade AI applications,
+[03:00] okay? And I have no idea if that's what
+[03:02] Google's doing and Meta's considering.
+[03:05] But right now Nvidia still dominates and
+[03:08] to my knowledge Google doesn't have a
+[03:10] lot of orders for this yet because it's
+[03:12] not showing up in the analyst estimates.
+[03:13] >> Bespoke also highlighted weakening labor
+[03:16] trends and softening retail sales. Is
+[03:18] that why the Fed is preparing to cut
+[03:20] rates?
+[03:21] It's largely due to labor and also we
+[03:24] had a very very poor consumer confidence
+[03:26] report from the Conference Board.
+[03:28] They're very credible. I don't like the
+[03:30] University of Michigan survey.
+[03:32] So it just it just added up. Everybody
+[03:35] needs to cut now. It's as simple as
+[03:37] that. And Mary Daly from the San
+[03:40] Francisco Fed was the the last one to
+[03:42] join the party. So we're definitely
+[03:43] going to get a cut, but we have got big
+[03:46] Fed people speaking out for it. John
+[03:48] Williams, the New York Fed guy. We got
+[03:50] Christopher Waller, of course. And and
+[03:53] Stephen Moran wants to cut. So yeah,
+[03:56] it's it's mounting and I don't think
+[03:58] they can stop it.
+[04:00] So it's going to be fascinating. The
+[04:02] next question are we going to get
+[04:03] another cut in January? This is going to
+[04:05] be very very interesting.
+[04:07] And the New York Times and Wall Street
+[04:08] Journal all say that Kevin Hassett is
+[04:11] emerging as President Trump's pick for
+[04:13] the next Fed chair. What would that
+[04:15] mean? Well, that's going to be
+[04:16] fascinating because Kevin Hassett, who's
+[04:19] the head of the Council of Economic
+[04:20] Advisers, is the happiest person on
+[04:22] earth.
+[04:23] He's just internally happy. He can only
+[04:26] smile, okay? He can only be upbeat.
+[04:29] So it'll be really really interesting if
+[04:31] we had an upbeat Fed chairman, okay?
+[04:33] Because normally the Fed says something
+[04:35] and then they have then they have to do
+[04:37] something called double speak and and
+[04:39] hedge everything they just said.
+[04:41] So I think it would be great. He he's
+[04:43] going to be a cheerleader for the
+[04:45] American economy, which is kind of his
+[04:46] job now as is the Commerce Secretary
+[04:49] Howard Lutnick.
+[04:50] But um
+[04:51] I think it'll be fascinating to have
+[04:53] Kevin because I don't think we've ever
+[04:55] ever again have such a happy Fed
+[04:57] chairman. So if he's the pick, I'm all
+[05:00] for it. It's going to be interesting
+[05:01] interesting experiment. But you know, we
+[05:04] are going to be heading 5% GDP growth
+[05:05] next year. There's going to be a lot of
+[05:06] reasons to be happy. And the Fed's job
+[05:09] is to keep that incredible growth going
+[05:12] without inflation.
+[05:14] So um
+[05:15] right now it looks like our economic
+[05:17] growth isn't causing what we call demand
+[05:18] push inflation. That's where we all
+[05:20] fight for things and make drive prices
+[05:22] higher.
+[05:23] Uh we are importing deflation from uh
+[05:26] from China. There are other
+[05:28] economies around the world that are
+[05:29] soft, so they're discounting their goods
+[05:31] so we can buy them.
+[05:33] I think
+[05:34] Hassett is just going to be a
+[05:37] very very interesting Fed chairman.
+[05:40] Uh he's um
+[05:42] it's I think it's going to be a a
+[05:43] welcome relief.
+[05:45] Now let's dive into some companies that
+[05:47] are reporting this week. Let's start out
+[05:48] with cybersecurity. CrowdStrike has been
+[05:51] a standout performer this year, but what
+[05:53] should investors expect for their
+[05:54] upcoming results?
+[05:56] Well, you know, CrowdStrike sales are
+[05:58] supposed to be up 20.3. Their earnings
+[06:00] are only supposed to be up 1.2. The
+[06:02] analysts have not revised their
+[06:04] estimates.
+[06:05] So
+[06:07] they have an excellent earnings surprise
+[06:09] history. I think CrowdStrike still has
+[06:11] the overhang of the Microsoft Azure
+[06:14] crash that happened in Europe and shut
+[06:16] down the airlines for a while. They had
+[06:18] a quick fix to it, but the crash
+[06:20] happened on a Friday and I guess no
+[06:21] one's there to upload this upgrade. But
+[06:24] I think you really need a
+[06:26] cyber attack or something to get
+[06:28] CrowdStrike going, but they are the
+[06:30] biggest company out there putting up the
+[06:31] firewalls and everything to protect our
+[06:33] data. Next up is Marvell, which has been
+[06:35] riding the data center and connectivity
+[06:37] boom. What are you looking for in their
+[06:39] earnings? They're going to be good.
+[06:40] Sales are going to be up 36.2%.
+[06:43] Earnings are forecast to be up 71.6%.
+[06:47] Uh the analyst revisions have been
+[06:49] positive to the upside. The only issue
+[06:51] is Marvell missed last quarter. So they
+[06:54] better provide some upbeat beat guidance
+[06:56] with these spectacular sales and
+[06:57] earnings. And um you know, it's you you
+[06:59] just can't miss. Hopefully they'll do
+[07:01] that and they'll be up up and away for
+[07:03] them.
+[07:04] Turning to discount retail, Dollar Tree
+[07:07] has been facing some real headwinds.
+[07:09] Could this quarter offer any other
+[07:10] surprises?
+[07:12] Yeah.
+[07:13] Their sales of course are forecast to
+[07:15] decline 38%. That's not good. Earnings
+[07:17] forecast to drop 3.8.
+[07:20] There have been some recent analyst
+[07:21] cuts. Um
+[07:23] but they had a huge 87.7% earnings
+[07:26] surprise in previous quarter.
+[07:28] So maybe they can do shock and awe
+[07:31] again, but yeah, this stock's off my
+[07:33] radar because I like positive sales and
+[07:35] earnings growth.
+[07:37] But when you have a surprise that big,
+[07:39] hopefully they can do it again and
+[07:41] provide some decent guidance.
+[07:42] >> Staying in the discount space, Dollar
+[07:44] General has been the steadier operator.
+[07:47] How do their prospects look heading into
+[07:49] earnings? Pretty darn good. Their sales
+[07:52] are supposed to be up
+[07:53] 4.1%. Earnings are supposed to be up
+[07:55] 3.8.
+[07:57] The analyst earnings revisions have been
+[07:59] positive and they have a very good
+[08:01] consistent strong record for surprises.
+[08:04] So I'm expecting them to have another
+[08:06] good report. Now on to one of the big
+[08:09] enterprise software names, Salesforce.
+[08:12] What should we expect for their report?
+[08:14] Well, their sales are supposed to be up
+[08:16] 8.8%. Their earnings are supposed to be
+[08:18] up 18.7%.
+[08:20] The analyst community has been pretty
+[08:22] steady with their estimates, but they
+[08:23] have to deliver upbeat guidance.
+[08:26] Salesforce is enterprise software. It
+[08:28] used to be, you know, mostly managing
+[08:30] your your client lists and for the all
+[08:33] the sales reps and all, but they've
+[08:34] expanded all kinds of other areas, kind
+[08:37] of like a Workday.
+[08:39] Um
+[08:40] so
+[08:41] let's see let's see if they can give us
+[08:43] some good guidance and then I think the
+[08:44] stock will pick up. Switching over to
+[08:46] packaged foods, Hormel has been
+[08:48] struggling lately. Is there any sign of
+[08:50] a turnaround this quarter? I don't see
+[08:52] it. Their sales are supposed to be up
+[08:53] 3.4, so that's an improvement, but
+[08:56] earnings are supposed to drop 25.7.
+[08:58] There have been significant analyst
+[09:00] cuts.
+[09:01] Uh this company has a very poor earnings
+[09:04] surprise history. So their guidance will
+[09:06] be critical. And let's face it, Spam is
+[09:08] not the healthiest thing
+[09:10] for us and um
+[09:12] they're going to have to find a new
+[09:14] product to to beat their image, you
+[09:16] know, maybe something a little healthier
+[09:18] that sells better.
+[09:20] Now for groceries, Kroger is always a
+[09:23] closely watched bellwether. What are you
+[09:25] anticipating for them this time? Well,
+[09:27] their sales are supposed to be up 1.8.
+[09:29] Earnings are supposed to be up 5.4.
+[09:32] There some minor analyst trims, but
+[09:34] they're
+[09:35] earnings surprise history is awesome and
+[09:37] this is a very well-run company.
+[09:40] Hopefully they can provide some decent
+[09:42] guidance.
+[09:43] Let's talk retail apparel. Lululemon has
+[09:46] been dealing with slow momentum. But
+[09:48] what are you expecting from their
+[09:49] results?
+[09:51] Well, their sales are supposed to be up
+[09:52] 3.3. Earnings are supposed to drop 23.
+[09:55] There have been significant analyst but
+[09:58] Lululemon has an an incredibly good
+[10:01] earnings surprise history.
+[10:03] And
+[10:04] and it's a it's a retail bellwether, you
+[10:06] know, a lot of people don't realize
+[10:08] Lulu sells to men
+[10:11] have been driving their growth. They
+[10:14] pretty much got the gals cornered and in
+[10:16] fact the gals are buying for the men at
+[10:17] their stores. So,
+[10:19] you know, I think they're they're a good
+[10:21] bellwether for this holiday shopping
+[10:23] season. So, I have hope for them, but
+[10:26] obviously doesn't have the earnings
+[10:27] growth I need. I I'm I would not be
+[10:30] surprised if they give us good guidance.
+[10:32] And finally, beauty retailer Ulta has a
+[10:35] strong surprise history. Do you think
+[10:37] they can keep up that streak?
+[10:40] I hope so. Their sales are supposed to
+[10:42] be up 6.8% earnings is supposed to
+[10:44] decline 11.3. Analyst revisions have
+[10:47] been positive.
+[10:48] But this stock has an excellent earnings
+[10:50] surprise history. Elf Beauty, you know,
+[10:52] isn't as good as it once was, okay? I
+[10:54] mean, it's it's a innovative company. I
+[10:56] I don't own anymore, but it's a very
+[10:58] innovative company and it was competing
+[11:00] with Ulta and Sephora. So, so we'll
+[11:03] we'll see. We'll see, but they're you
+[11:05] know, the analysts like them. They
+[11:07] revise estimates higher, so maybe
+[11:09] they'll surprise. But again, anything
+[11:10] that has negative forecasts at earnings
+[11:12] I'm I'm not going to be in, but I have
+[11:14] hope for all these companies, you know,
+[11:16] the market should be broadening out here
+[11:18] and it just can't put all its money in
+[11:20] AI.
+[11:21] But that's
+[11:22] the growth is right now.
+[11:24] Now, I want to switch over to some
+[11:25] subscriber questions. One of our
+[11:27] subscribers said, "How should we
+[11:28] calculate our personal compute stock
+[11:30] percentage? Which companies count and
+[11:32] which should be excluded?"
+[11:33] >> Well, if you subscribe to the platinum
+[11:36] service, which is a premium service we
+[11:38] offer,
+[11:40] we have
+[11:41] an asset allocator there where you can
+[11:44] key in your risk tolerance, whether
+[11:46] you're conservative, moderately
+[11:46] aggressive, or aggressive,
+[11:48] and it'll tell you exactly how to
+[11:50] allocate how many shares you need based
+[11:52] on the amount of money in your account.
+[11:54] So, I would refer you to that, but yeah,
+[11:57] the you know, I like you to have at
+[11:59] least 60% of your money normally in
+[12:01] conservative stocks,
+[12:03] about 30% moderately aggressive stocks,
+[12:06] and only 10% in the most volatile
+[12:08] stocks.
+[12:09] The thing that's so confusing for
+[12:11] investors is what's safe today often
+[12:13] becomes more volatile down the road.
+[12:15] What makes a stock safe is money flowing
+[12:17] into it.
+[12:18] So, as the flow of funds get more
+[12:20] erratic, okay, for whatever reason, it's
+[12:23] the analysts discovered it years ago and
+[12:25] there's not as much money going in or
+[12:27] there's the short sellers trying to ruin
+[12:29] the party and the flow of funds gets
+[12:31] more sporadic. Now, the stock gets more
+[12:33] volatile. So, what makes a stock safe is
+[12:36] money flow, okay?
+[12:38] And risk isn't the angle of ascent, it's
+[12:40] the dispersion.
+[12:42] So, we calculate that. We also calculate
+[12:44] something called residual variance,
+[12:46] which is basically risk we can't
+[12:47] diversify away.
+[12:49] And as you go down the capitalization
+[12:50] ladder,
+[12:52] residual variance grows.
+[12:54] Um larger stocks are inherently safer
+[12:56] than the smaller ones,
+[12:58] but
+[12:59] I I wouldn't discourage you from buying
+[13:01] small smaller stocks cuz they have
+[13:03] better valuations. But yeah, uh try our
+[13:05] asset allocator in the platinum club. I
+[13:08] think you'll uh
+[13:09] you'll find that's a a phenomenal tool.
+[13:12] >> Another one of our subscribers wanted to
+[13:14] know, "What do you think oil will do
+[13:15] following the Ukraine-Russia refinery
+[13:17] strikes?" Well, it's already meandering
+[13:19] lower. It's below $60 a barrel and what
+[13:22] the Trump administration did is they got
+[13:24] India to buy oil from Guyana.
+[13:27] Guyana is the big find off of Venezuela.
+[13:29] Guyana is its own country, of course,
+[13:31] and that field keeps getting more and
+[13:33] more productive and Exxon is now
+[13:35] shipping some of that oil to India, so
+[13:37] they are can buy less Russian oil.
+[13:40] And so, Russia may want to hurry up and
+[13:43] do the peace deal because, you know,
+[13:45] their infrastructure has been really
+[13:47] hurt. As has Ukraine's infrastructure.
+[13:49] So, you know, it gets to a point where
+[13:52] no one wins in a war, okay?
+[13:54] And hopefully we will get a a peace
+[13:56] agreement. They're pushing pretty hard
+[13:58] for it. Europe's not too happy because I
+[14:00] guess we didn't involve them in the
+[14:02] negotiations,
+[14:03] but you know, President Trump really
+[14:05] doesn't like to see all those people
+[14:06] dying and so, we'll see. But the one
+[14:09] thing that they haven't done is they
+[14:11] haven't
+[14:13] bombed the pipelines from the Russian
+[14:15] Arctic because it would be an
+[14:17] environmental disaster.
+[14:19] Those pipelines would freeze up. The
+[14:21] spill would be hard to contain and you
+[14:24] have to fix those things when it's
+[14:26] warmer. You know, it's hard to do it
+[14:28] when it's cold. So, the other thing is
+[14:31] when you have oil coming from the
+[14:33] Arctic, the if the oil stops flowing, it
+[14:35] will freeze. So, yeah, that's it has to
+[14:38] keep going. It's um
+[14:40] it's a kind of the
+[14:41] the latent effect of things moving don't
+[14:43] freeze. So, um
+[14:46] I've always found it interesting they've
+[14:47] been very reserved not hitting those
+[14:49] pipelines and but they've been hitting
+[14:52] refineries and terminals and all kinds
+[14:54] of stuff.
+[14:56] Mess up Moscow and stuff and and also
+[14:59] the supply lines to the Russian troops.
+[15:01] So,
+[15:03] I I think most of the damage has been
+[15:05] done. Obviously, there's
+[15:07] bigger sanctions on the shadow tankers
+[15:10] that Russia was using to ship oil
+[15:11] around.
+[15:13] So, it'll be interesting, but yeah, oil
+[15:15] is going to be below $60 a barrel
+[15:18] until the spring arrives and then
+[15:19] worldwide demand might pick up a bit as
+[15:21] the weather warms.
+[15:23] Another one of our subscribers wanted
+[15:25] you to talk about SMCI and what should
+[15:27] they be focusing on in regarding
+[15:29] upcoming guidance? Well, the company
+[15:31] provided incredible guidance for the the
+[15:33] current quarter, okay? And they have a
+[15:37] ridiculous order backlog and they said
+[15:40] that some of their customers wanted the
+[15:42] upgraded chips and uh
+[15:45] you know, so we'll see if if they can
+[15:48] just how much it increases.
+[15:51] SMCI's guidance has been sloppy, to be
+[15:53] candid with you.
+[15:54] But you know, I'm still up over 700% in
+[15:57] the stock and I don't want to pay the
+[15:59] capital gains and I know they have that
+[16:01] huge order backlog.
+[16:03] So, I'm sticking with it, but it is a a
+[16:05] volatile stock. It wasn't the best
+[16:06] performer in November,
+[16:09] but it's pretty rock bottom now. And but
+[16:12] that's what they got to do. They got to
+[16:13] deliver on guidance. We did have Dell,
+[16:15] you know, give an upbeat report. They're
+[16:19] finally starting to capture more market
+[16:20] share from the data center business. The
+[16:23] data center boom is now developing more
+[16:25] and more companies. Lastly, any quick
+[16:27] thoughts on Bloom Energy? Yeah, Bloom
+[16:29] Energy is very simple. They make
+[16:32] hydrogen fuel cells for the data
+[16:34] centers. The tech industry wants clean
+[16:36] energy. So, that's geothermal in Reno
+[16:38] where we have a home.
+[16:40] That's hydroelectric, Columbia River
+[16:43] Gorge, Boise, Idaho, Sioux Falls, South
+[16:46] Dakota,
+[16:47] Chattanooga. So, they want green energy.
+[16:51] Obviously, Microsoft talked
+[16:52] Constellation into restarting Three Mile
+[16:54] Island because they view that as zero
+[16:57] carbon energy.
+[16:58] So,
+[17:00] and then there's a bunch of data centers
+[17:01] going in Georgia. Georgia added a new
+[17:04] nuclear plant next to the other plant. I
+[17:06] think they have five now. They went from
+[17:07] four to five. But every data center has
+[17:10] these diesel generators outside. A lot
+[17:13] of them, big ones.
+[17:15] Because if the power goes out, they got
+[17:16] to keep running the data centers. They
+[17:17] can't have a break.
+[17:19] So, Bloom Energy's fuel cells are
+[17:22] greener than running the diesel
+[17:23] generator.
+[17:25] And Bloom Energy is mostly with
+[17:27] Brookfield, which is a Canadian company,
+[17:30] but they're big landlords for pretty
+[17:32] much everything and they're huge
+[17:34] landlords in the data center business
+[17:35] and Oracle.
+[17:37] Oracle will be the second biggest cloud
+[17:39] provider once they're done with their
+[17:40] expansion.
+[17:42] So, Bloom Energy is is volatile. It did
+[17:45] make a transition from negative to
+[17:46] positive earnings. It's pricey, but
+[17:49] it is the green backup energy for all
+[17:52] the data centers. So, my dad is actually
+[17:54] going to be speaking on a Forbes cruise
+[17:56] next week. So, we're going to do a
+[17:57] special episode talking about what to
+[17:59] look for for the rest of the year and
+[18:01] heading into January. Please let us know
+[18:03] if there's any specific questions that
+[18:05] you want us to address in the comments
+[18:06] below.
+[18:07] Do you want to talk about the cruise a
+[18:08] little bit? Yeah, I I speak on Forbes
+[18:10] cruises every few years and um
+[18:13] our friends at the Money Show help
+[18:15] coordinate all this and it's always an
+[18:16] honor to be there.
+[18:18] You know, Steve Forbes was very kind to
+[18:19] me, endorsed my
+[18:21] first book and I appreciate that very,
+[18:23] very much.
+[18:24] But yeah, I'll be on with Mark Mills and
+[18:27] some other good speakers.
+[18:30] Uh it's always an honor to to be
+[18:32] invited. Uh you were on one. Remember we
+[18:34] did the one in the Baltic Sea, you know,
+[18:36] uh right after COVID. So, we kind of had
+[18:39] the cruise ship to ourselves.
+[18:41] Um the the if you do want to go on one
+[18:45] of these cruises, I would strongly
+[18:46] encourage it. They usually have a great
+[18:47] line of speakers. Yep, great. Well,
+[18:50] thank you so much. Thank you to you all
+[18:52] for watching. We hope you had a
+[18:53] wonderful Thanksgiving. Make sure to
+[18:54] subscribe and like if you haven't
+[18:56] already. We will see you all next week
+[18:57] for a special video. Thanks so much,
+[18:59] everyone.
+[19:33] >> [music]
+[20:01] [music]
+[20:05] >> Mhm.

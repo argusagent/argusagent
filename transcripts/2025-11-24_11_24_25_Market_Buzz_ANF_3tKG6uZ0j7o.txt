@@ -7,9 +7,37 @@ Type: short
 Duration: 0:57 (57s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 29
+Transcript characters: 1069
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] I'm going to bet they surprise again.
+[00:01] >> Now, for Abbercomi and Finch, they just
+[00:03] announced their early Black Friday
+[00:05] deals, but what do you expect for them
+[00:06] in terms of their sales and margin?
+[00:08] >> Well, this is a a leading retailer.
+[00:10] Their sales are supposed to be up 5.8%.
+[00:13] Their uh earnings are supposed to be
+[00:15] down 14%, earnings are going to drop 14.
+[00:17] Analysts have trimmed estimates. They've
+[00:19] gone from uh 256 3 months ago to 216
+[00:22] today. So, I think this one could
+[00:24] surprise. They've had two big surprises
+[00:26] the past two quarters. You know,
+[00:28] Abberhamry has expanded its demographic
+[00:30] group and they're very very good
+[00:32] retailer. We have had some um signals um
+[00:35] if you cater the right demographic group
+[00:37] sales are pretty good. So, I'm going to
+[00:39] I'm going to bet they surprise again.
+[00:40] >> Yeah. Well, especially on the heels of
+[00:42] what Walmart did last week. I mean,
+[00:44] blowout numbers, they raised guidance. I
+[00:46] know we had the uptick in unemployment
+[00:48] from 4.3 to 4.4. Fine. But there are a
+[00:51] lot of people out there making money and
+[00:53] they're spending it and that's in part
+[00:54] why by earnings. So yeah, I'm with you
+[00:56] on retail right

@@ -7,9 +7,591 @@ Type: video
 Duration: 20:27 (1227s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 583
+Transcript characters: 19762
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Earnings are overpowering Wall Street
+[00:02] with five of the Magnificent Seven
+[00:04] announcing this week. However, Germany
+[00:07] is blaming the US for its economic woes
+[00:09] and private credit concerns persist.
+[00:12] We'll make sense of all of it. Welcome
+[00:14] back to Navellier Market Buzz.
+[00:21] Now Dad, before we dive into earnings,
+[00:23] I've got to ask about all this noise
+[00:25] that we're hearing. Germany's Chancellor
+[00:28] is out there criticizing the US and
+[00:30] we've got these private credit warnings
+[00:32] making headlines. Are investors actually
+[00:35] going to let this derail the bull
+[00:37] market?
+[00:37] >> No, because the earnings in America are
+[00:40] just unbelievable and we're obviously a
+[00:43] capitalist country driven by
+[00:45] the bottom line results and we're an
+[00:48] economical oasis around the world. So,
+[00:50] Germany's problems don't affect us at
+[00:52] all to be candid with you. You know,
+[00:54] politics 101 is you got to blame
+[00:57] somebody else when your country has
+[00:59] problems. So, obviously German
+[01:02] Chancellor Merkel decided to blame the
+[01:04] US for Germany not being able to get
+[01:06] enough energy from the Middle East even
+[01:08] though Trump offered him to come to
+[01:10] America, you know, we'll sell you all
+[01:12] the oil you need. So, that's
+[01:14] unfortunate.
+[01:15] Germany has a long history of doing
+[01:17] business with Iran and so I don't know
+[01:19] if that's part of the what's going on,
+[01:22] but there is this blockade on Iran until
+[01:26] they
+[01:27] decide to to do a permanent cease-fire
+[01:30] with the US and that's going to persist
+[01:33] until until there's an agreement. The
+[01:35] biggest risk with Iran is that the oil
+[01:37] wells would have to be capped and if
+[01:39] they do that, they'll be offline for
+[01:40] months. So, it's panic time in Iran
+[01:43] economically and it's panic time for
+[01:45] Germany whoever buys from Iran. So, I
+[01:48] think German Chancellor Merkel should
+[01:50] maybe
+[01:51] decide to buy some more stuff from
+[01:53] America so he doesn't have these
+[01:54] problems.
+[01:55] >> So, Germany's problems are Germany's
+[01:56] problems and we should be ignoring all
+[01:58] this noise.
+[01:59] >> Correct. And everyone else that's hurt
+[02:02] by the blockade of the Strait of Hormuz,
+[02:04] it is what it is. Now, we've gone from a
+[02:06] military war to an economic war. And
+[02:09] that's where we are now. And economic
+[02:10] wars are a lot better, and you know, cuz
+[02:12] they're not killing people. So,
+[02:14] let's just let the economic war play
+[02:16] out, and we'll see who prevails.
+[02:17] >> Okay, so we're going to brush off all
+[02:19] the distractions, but this week is
+[02:20] actually packed with some economic data.
+[02:23] We've got the durable goods, the first
+[02:24] quarter GDP, the March trade deficit,
+[02:27] PCE, ISM manufacturing. Is any of this
+[02:30] actually going to move the markets?
+[02:32] >> Not really. I do think the
+[02:35] durable goods will be good. A lot of it
+[02:36] depends on Boeing, but we've had when we
+[02:38] throw out transportation orders, it's
+[02:40] been good. PCE is always important
+[02:42] because that's the Fed's favorite
+[02:44] inflation indicator. Now, we'll have a
+[02:45] new Fed chairman soon. We'll see how
+[02:47] important PCE will be moving forward.
+[02:49] But, you know, I'm expecting ISM to be
+[02:51] positive. So, I I just think it's we're
+[02:54] going to focus more and more on
+[02:55] earnings, but the economic news has been
+[02:58] largely positive. Now, as far as GDP
+[02:59] goes, the trade deficit is going to be
+[03:01] interesting because it should continue
+[03:03] to shrink because of all the energy
+[03:05] exports. Not only is it natural gas and
+[03:07] crude oil, it's refined product. And of
+[03:09] course, energy prices are way up. So,
+[03:11] I'm anticipating that the trade deficit
+[03:12] will be shrinking dramatically. And that
+[03:15] will be boosting GDP. So, I will
+[03:18] personally be very interested in that
+[03:19] statistic.
+[03:20] >> So, are we essentially playing
+[03:21] Whac-A-Mole with the trade deficit?
+[03:23] >> Somewhat. You know, what will happen is
+[03:26] when oil prices go back down, that may
+[03:28] not happen till October, then the trade
+[03:30] deficit will go back up. And then, you
+[03:32] know,
+[03:32] the shipping and and all that around the
+[03:36] world is all disrupted right now. So,
+[03:38] that could have an effect on the
+[03:39] imports. But, by and large, our exports
+[03:43] should be up, our imports should be
+[03:44] down, and that's what we're expecting
+[03:46] this month. But, eventually then, it'll
+[03:50] counter balance itself. So, Whac-A-Mole
+[03:52] is a good good exclamation explanation
+[03:55] of what's happening.
+[03:56] >> All right, let's get into the main
+[03:57] event. Five of the Magnificent Seven are
+[03:59] reporting this week. Walk me through
+[04:01] what you're expecting starting out with
+[04:03] Amazon.
+[04:03] >> Amazon's an amazing company. They
+[04:05] dominate retail. They're very dominant
+[04:07] cloud computing. They have professional
+[04:09] managers running everything. We just
+[04:12] expect them to be continue to automate,
+[04:15] be very proud of their robotics efforts,
+[04:17] and when they do have layoffs, they tend
+[04:20] to hire temp workers. So, you know, they
+[04:22] it's like they're reshuffling their
+[04:23] workforce just a bit to find the best
+[04:25] and brightest they can pull from the
+[04:26] temp people. But,
+[04:29] you know, I'm expecting good results
+[04:30] from Amazon. It's not strong enough for
+[04:32] my criteria at all, but it is a a
+[04:35] monopoly and it will continue to do
+[04:37] well. Google's another monopoly. Google,
+[04:40] obviously, under the Biden
+[04:42] administration was supposed to be broken
+[04:44] up by an FTC decision. The judge threw
+[04:46] that out. Google's advertising like
+[04:49] crazy. They should be making lots of ad
+[04:51] revenue. So, I I'm sure that they're
+[04:53] going to be increasingly dominant.
+[04:55] Gemini's pretty darn good AI software.
+[04:58] So, Google has a lot to be proud of. The
+[05:00] problem with Google is they don't give
+[05:01] us guidance, but they have a very good
+[05:03] surprise history.
+[05:04] >> Now, Meta has been all over the place
+[05:06] with their strategy. What are we
+[05:07] watching for with them?
+[05:09] >> Actual results. They've already
+[05:12] telegraphed that
+[05:13] they're going to be laying off 10% of
+[05:15] the workforce. Existing 6,000 job
+[05:17] openings are not going to be filled, so
+[05:19] that's 14,000 jobs are disappearing.
+[05:21] But, everybody's going to be looking at
+[05:22] just how much money they're spending as
+[05:23] margins are under compression
+[05:25] while they do this AI buildout. And
+[05:27] eventually, the margins are going to
+[05:28] have to
+[05:29] re-expand. So, Meta is in the doghouse a
+[05:33] bit because it just cannot have the
+[05:35] growth of the the other Magnificent
+[05:37] Seven stocks.
+[05:38] >> Now, Microsoft was supposed to be the AI
+[05:40] winner, right? They got in early with
+[05:42] OpenAI, but how are they doing?
+[05:44] >> They didn't monetize ChatGPT properly.
+[05:47] So, they're in the doghouse, too. Uh
+[05:49] they're they're de-rated in stock rate,
+[05:50] or but they do have a a pretty good
+[05:53] dividend yield that'll hold them up. So,
+[05:55] I think they're going to remain in the
+[05:56] doghouse until they better monetize AI.
+[05:59] They are also trying to offer early
+[06:01] retirement to a fair number of their
+[06:03] workers, so that might boost the stock
+[06:05] because most companies that shrink their
+[06:07] workforce that are tech companies uh
+[06:09] rally on that news.
+[06:10] >> And finally, we have Apple. They're
+[06:12] always the wild card because they don't
+[06:13] really play the same game as everyone
+[06:15] else.
+[06:16] >> Yeah, they're obviously their services
+[06:18] are expanding like crazy. They have
+[06:19] credit cards, they have news, they want
+[06:22] everybody to use their storage, and
+[06:25] their service revenue continues to
+[06:26] steadily rise. But, to be candid with
+[06:28] you, Apple's going to be all about the
+[06:31] new iPhone that'll be announced in
+[06:33] September. They will finally have a
+[06:35] folding phone, and I'm sure it'll be
+[06:36] over $2,000. And uh I think the
+[06:39] excitement of that
+[06:41] will be just driving the stock. So, um
+[06:44] if you own Apple like your mom does,
+[06:47] their results are not perfect. I
+[06:48] wouldn't sell it. I would wait for the
+[06:50] September announcement. And they'll get
+[06:52] all those pre-orders for the new folding
+[06:54] iPhone. And as you know, you know,
+[06:56] spending $2,000 on a phone is
+[06:59] is considered normal to some people. So,
+[07:02] I'm sure they really want the latest and
+[07:03] greatest from Apple, and that folding
+[07:05] iPhone's going to be a huge hit.
+[07:07] >> Let's talk about some names outside of
+[07:09] tech. Caterpillar has been kind of on an
+[07:11] invetair recently. Can they keep this
+[07:13] going?
+[07:13] >> Yeah, Caterpillar's been exhibiting a
+[07:15] lot of relative strength, and um
+[07:18] they look very, very good in our
+[07:20] quantitative models. Fundamentally,
+[07:22] they're not quite as strong, but they're
+[07:23] not bad, okay? So, let's uh give them a
+[07:26] break here. Their sales are supposed to
+[07:27] be up 15. Uh
+[07:29] 3%. Their earnings are supposed to be up
+[07:32] 9.3.
+[07:34] Uh we do have positive analyst revisions
+[07:36] underneath Caterpillar, and they have
+[07:37] surprised for the last two quarters. So,
+[07:39] I'm I'm that they'll um continue to
+[07:41] surprise. I'd like to see their margins
+[07:43] start to expand, but yeah, Caterpillar
+[07:45] is on its way back.
+[07:46] >> Fair enough. Now, oil has been strong
+[07:48] like you've been mentioning. Should we
+[07:50] expect big numbers from Chevron and
+[07:52] Exxon?
+[07:53] >> Yeah, I'm sure they're going to surprise
+[07:55] cuz they have some windfalls. Chevron,
+[07:57] their sales are supposed to be up um
+[07:59] 10.7. Their earnings are supposed to be
+[08:01] down 55.6.
+[08:04] Uh we have some analyst cuts, but I
+[08:06] suspect they're going to surprise and
+[08:08] they have historically surprised.
+[08:10] Chevron is big in Venezuela. Now, Exxon
+[08:13] is all about Guyana and Guyana's the
+[08:16] most exciting find in America in a long
+[08:18] time. But their um sales are supposed to
+[08:20] be up 2.6%.
+[08:23] Their earnings are supposed to be down
+[08:24] 42. uh 8. Uh and uh they have some
+[08:28] analyst trims in the last month. So,
+[08:30] this is going to be very, very
+[08:32] interesting.
+[08:33] Uh
+[08:34] you know, these companies both have to
+[08:35] guide higher. They're going to be
+[08:37] reaping windfalls for a couple months uh
+[08:39] a couple quarters, I'm sorry, while oil
+[08:41] prices are high and then prices will go
+[08:43] back down in the fall. So, uh their
+[08:45] guidance will be absolutely crucial both
+[08:47] these companies.
+[08:48] >> Okay, final question before we get to
+[08:50] viewers' questions. Out of everything
+[08:52] reporting this week, what is the one
+[08:54] earning announcement that you're most
+[08:56] excited about?
+[08:57] >> Well, we had Coherent this morning,
+[08:59] okay, and that came out better than
+[09:01] expected. They beat, but the stock is
+[09:04] down cuz it it got hit with
+[09:05] profit-taking, but I'm very happy with
+[09:07] everything it did. I think this the one
+[09:09] stock that I'm most excited about is one
+[09:12] that was in the doghouse. It was CECO
+[09:15] and they are up sharply. Just so you
+[09:18] know, they um
+[09:19] uh beat analyst expectations by almost
+[09:22] 200% and uh they have a big order
+[09:25] backlog. So, I'm pretty happy with CECO
+[09:28] and they gapped up um as I talked to
+[09:30] they gapped up 14%. So, it just shows
+[09:32] that earnings work, but even when you
+[09:34] surprise, you have to buy that good
+[09:36] guidance. The order backlogs for all
+[09:38] these companies is becoming a big big
+[09:40] deal. So not only must you beat guide
+[09:44] higher, then you must also say my order
+[09:46] backlogs getting bigger. That's the
+[09:48] CECO's big order backlog resulting in
+[09:51] great quarterly earnings.
+[09:52] >> I actually was expecting you to say
+[09:54] Seagate Technology.
+[09:55] >> Yeah, Seagate's fine. That's one of our
+[09:57] memory stocks, obviously. You know, they
+[10:00] they have no problem beating to be
+[10:02] honest with you. The stock is up after
+[10:05] hours as I talked to you.
+[10:07] Should be up more in the morning.
+[10:09] Yeah, no they they also beat. Micron's
+[10:11] going to be the biggest winner in the
+[10:14] memory news. So but Seagate's no slouch.
+[10:17] >> But let me guess, guidance is key.
+[10:19] >> Yes. The memory companies usually don't
+[10:21] say they have a
+[10:23] is
+[10:24] a hundred million dollar order backlog,
+[10:26] but they normally do up their guidance.
+[10:28] So as I talked to you, Seagate is up
+[10:30] after market. So obviously it's
+[10:33] responded very very well. And a lot of
+[10:35] companies are revising their price
+[10:37] targets higher. So yeah, Seagate was a
+[10:40] good one there.
+[10:41] >> All right, we've got some great
+[10:42] questions from subscribers this week.
+[10:44] Let's jump right in to the first one.
+[10:46] Dad, what is your opinion on HPE?
+[10:49] >> Okay, this is Hewlett Packard. Gosh, how
+[10:51] do I say this in a nice way? This has
+[10:53] been
+[10:54] a dog with fleas for some time. But with
+[10:57] that said, their sales are supposed to
+[10:58] be up 27.9%.
+[11:02] Their earnings are supposed to be up
+[11:03] 40.5%.
+[11:06] There are no changes in analyst
+[11:08] estimates and they do have a good
+[11:09] surprise history. So even though this is
+[11:12] known as the printer company, they are
+[11:14] making more and more rack servers and
+[11:16] they are participating in the cloud
+[11:18] buildout. So that's good. And but
+[11:21] you know, it just doesn't excite me even
+[11:24] though they have good sales and earnings
+[11:26] growth. This
+[11:27] have to provide very very strong
+[11:29] guidance for me to to excited about it.
+[11:31] But with that said, it does have
+[11:32] positive sales and earnings and shows
+[11:34] that any company that makes anything for
+[11:36] the AI build-out is prospering.
+[11:38] >> We got a question about Boston
+[11:40] Scientific and Medtronic. Both have been
+[11:42] strong historically, but now they're
+[11:44] showing C grades in Stock Grader. These
+[11:47] stocks have dropped. Is this a buying
+[11:49] opportunity or a value trap?
+[11:51] >> These stocks are trading water. Boston
+[11:53] Scientific's uh sales are supposed to be
+[11:55] up 6.6%.
+[11:57] Uh their earnings are supposed to be up
+[11:59] uh 11%.
+[12:01] Um the analysts have trimmed their
+[12:03] estimates just a bit. It is just boring,
+[12:06] and that is my main comment about Boston
+[12:08] Scientific. And then as far as Medtronic
+[12:11] goes, Medtronic's a pretty big company.
+[12:13] You know, they buy a lot of other
+[12:15] medical device companies, and their
+[12:17] sales are supposed to be up 7.8%.
+[12:19] Their earnings are supposed to be down
+[12:20] 4.6.
+[12:22] Uh the analysts have been trimming their
+[12:23] estimates, and they they don't have big
+[12:25] surprises.
+[12:27] So, uh no, uh neither one gets me
+[12:29] excited at all.
+[12:31] >> That makes sense. Now, we've got a
+[12:32] question about Power Integrations. The
+[12:35] ticker is P O W I. Heading into their
+[12:38] upcoming earnings report, what are your
+[12:40] thoughts there?
+[12:41] >> Well, this stock sales are supposed to
+[12:42] be up 1.1%. Their earnings are supposed
+[12:45] to be down 27.8.
+[12:48] It has been very tight with their
+[12:49] estimates. They did have a 19.5%
+[12:52] surprise in the fourth quarter. That's a
+[12:54] good sign. They have historically
+[12:56] surprised, but this is a company that,
+[12:58] you know, looks like their margins are
+[13:00] under compression. So, they're going to
+[13:01] have to beat, they're going to have to
+[13:03] guide higher, and until then, it's going
+[13:05] to
+[13:06] not do much.
+[13:07] >> And we got a question on Tempus, an
+[13:10] AI-powered precision medicine company.
+[13:12] What are your thoughts on them?
+[13:14] >> Sales are supposed to be up 35.1%.
+[13:16] The operating earnings are supposed to
+[13:18] be up 16.2.
+[13:20] However, the overall earnings are
+[13:22] supposed to be down 20 cents. So, that's
+[13:24] a loss of 20 cents a share. Usually,
+[13:26] when a company makes a transition from
+[13:28] negative to positive earnings, it's
+[13:29] going to have its upper its operating
+[13:31] earnings and its overall earnings. The
+[13:33] analysts have increased their estimates
+[13:36] from minus 15 cents a share to minus 20
+[13:38] cents a share in the last 60 days. But
+[13:41] this company has has a very good
+[13:43] surprise history. Last quarter was 22%.
+[13:46] Before that it was
+[13:47] uh 37.3%. So, their sales are growing.
+[13:50] It's surprising, but it'd be nice for
+[13:52] these earnings to catch up. So, I'll buy
+[13:54] stocks like this when they go from
+[13:56] negative to positive earnings. But uh
+[13:58] right now their earnings are forecast to
+[13:59] be negative through 2027.
+[14:02] So, that's going to hold the stock back
+[14:03] and keep it off my radar.
+[14:04] >> Let's switch gears to shipping. A viewer
+[14:06] wants to know your thoughts on Starbulk
+[14:08] Carriers.
+[14:09] >> Starbulk
+[14:10] um
+[14:12] looks pretty good. Sales are supposed to
+[14:13] be up 28.2.
+[14:16] Earnings is supposed to be up 778.7.
+[14:19] Analysts revised estimates higher from
+[14:21] 34 cents to 48 cents
+[14:24] in the last 60 days. So, and it has a
+[14:27] good surprise history. So, this company
+[14:29] is clearly profiting from the chaos
+[14:32] uh when the straight of Hormuz closed.
+[14:34] Obviously, they're still shipping.
+[14:36] They're They got longer routes. That's
+[14:38] uh That's it's doing very good.
+[14:41] >> All right, we've got a few questions
+[14:42] about the ETFs. What's going on with
+[14:45] them?
+[14:45] >> Yeah, you're showing a bespoke chart for
+[14:48] SPY and GLD. So, that's SPY is the S&P
+[14:52] 500 ETF and GLD is the gold ETF. And
+[14:58] these are bespoke charts. You know, we
+[14:59] had Paul Hickey on the show not that
+[15:01] long ago. And it shows performance if
+[15:03] you bought at the opening, sold at the
+[15:05] close versus if you bought at the close
+[15:08] and sold at the opening. And both these
+[15:09] ETFs have dramatically better
+[15:11] performance after market hours. So, that
+[15:14] says two things. Please, please, please,
+[15:17] when you buy an ETF, go to
+[15:19] morningstar.com and make sure whatever
+[15:21] you're paying is close to the intraday
+[15:24] indicative value. That's essentially the
+[15:25] net asset value. But I'm disappointed
+[15:28] that these ETFs um don't have the best
+[15:31] pricing during market hours. For lack of
+[15:33] a better word, that's what those charts
+[15:35] show. So, always always be careful when
+[15:38] you buy and sell an ETF. In my opinion,
+[15:40] you have to wait to buy and sell ETFs uh
+[15:42] cuz sometimes the spreads are wide,
+[15:44] especially in the middle of the day. But
+[15:46] most of these professional um traders
+[15:49] make money trading these ETFs the last
+[15:51] 15 minutes after the market closes. And
+[15:54] the same thing exists for QQQ, which is
+[15:57] the Nasdaq 100. People have to realize
+[16:00] that when you buy and sell an ETF, you
+[16:02] are usually paying a premium and selling
+[16:04] at a discount. So, you just have to know
+[16:06] that that's going on and that's what
+[16:08] that's what those graphs show. So,
+[16:10] please be careful. It's like anything in
+[16:12] life, proper execution, it's a good
+[16:14] investment. Without good execution, you
+[16:16] can really really get hurt. Now, the
+[16:18] other thing is I prefer gold stocks
+[16:20] versus the gold bullion. So, GLD is um a
+[16:25] company an ETF that mimics gold bullion
+[16:28] prices. I'd rather you actually own the
+[16:29] gold stocks with very strong sales and
+[16:31] earnings.
+[16:32] >> Now, oil has been quite the hot topic
+[16:34] recently. One of our viewers wanted us
+[16:37] to compare Suncor Energy versus BP and
+[16:40] other US oil companies.
+[16:43] >> Well, first of all, um full disclosure,
+[16:45] I recommend Suncor Energy in um
+[16:49] Growth Investor.
+[16:50] It is also um
+[16:52] been added to our managed accounts. It
+[16:54] is a oil company based in Calgary and I
+[16:58] like its forecast of sales and earnings.
+[17:00] I just so you guys get a little feel for
+[17:01] what's going on here. And also we we had
+[17:04] a three energy special show we did a
+[17:06] while ago and I mentioned Suncor.
+[17:09] Their sales are supposed to be up 3.2.
+[17:11] Their earnings are supposed to be up
+[17:13] 63.2.
+[17:15] Their analysts revised their estimates
+[17:17] from cents 90 days ago to $0.55
+[17:21] recently. That's a big upward revision.
+[17:23] And uh they've had very big surprises.
+[17:25] When we did that energy special, we were
+[17:27] trying to explain that the Canadian
+[17:29] energy stocks look better than some of
+[17:31] the American energy stocks. And I think
+[17:33] a one reason is they're less volatile.
+[17:36] They don't have the big ESG anti-fossil
+[17:39] fuel push up in up in Canada that that
+[17:42] that we still have in many many blue
+[17:44] states in Cali- fornia. So, obviously,
+[17:47] you know, the California uh government
+[17:49] pension funds, the universities actually
+[17:51] still don't invest in fossil fuels. So,
+[17:53] they're shunning uh Well, we don't have
+[17:55] that problem in Canada. BP is also
+[17:58] looking pretty good. Uh it's highly
+[18:00] ranked in our system. Their uh sales are
+[18:02] supposed to be down 2.5%.
+[18:05] Earnings are supposed to be up 75.6%.
+[18:08] Uh we have very strong analyst revisions
+[18:10] from $0.60 to $0.93 in the last 90 days.
+[18:13] But they did miss slightly last quarter.
+[18:15] So, BP's definitely on our radar to
+[18:17] watch. And uh they seem to be profiting
+[18:20] um from the situation in the Strait of
+[18:22] Hormuz and not in their and it's not
+[18:24] affecting their business. But I would
+[18:26] like them to surprise.
+[18:27] >> And last up, can you compare Comfort
+[18:29] Systems and Bloom Energy? Should they be
+[18:32] buying either of them for the long term?
+[18:34] >> Well, they're totally totally different
+[18:36] companies. Comfort Systems is
+[18:39] HVAC air conditioning for the data
+[18:41] centers, okay? And they have a huge
+[18:43] order backlog. Sales are supposed to be
+[18:45] up um 37%. Earnings are supposed to be
+[18:48] up 50 um
+[18:51] uh 8.8%.
+[18:52] Uh very strong upward analyst revisions.
+[18:55] They just beat. They uh they posted
+[18:57] earnings that were 54.4%
+[19:00] better than analysts expected. And they
+[19:01] have a very strong order backlog. Bloom
+[19:04] Energy, totally different business. They
+[19:06] do the natural gas fuel cells for the
+[19:08] data centers. So, again, uh they're
+[19:10] putting data centers where there's no
+[19:12] electric grid. So, what they have to do
+[19:14] is they have to get a natural gas line
+[19:15] in and generate their own electricity.
+[19:17] They have to use one of Bloom Energy's
+[19:19] fuel cells and or
+[19:21] uh the GE Vernova net gas turbines.
+[19:24] Anyway, Bloom Energy cells are supposed
+[19:26] to be up
+[19:27] 65.6%
+[19:29] Their earnings is supposed to be up
+[19:31] 328.3%.
+[19:34] Uh
+[19:35] analysts have revised their estimates
+[19:36] from 6 cents to 13 cents in the last 90
+[19:38] days. They're They're more than raised
+[19:41] their earnings estimates over 100%
+[19:43] higher and their lot surprise was 50.4.
+[19:46] Uh so, um Bloom Energy is is phenomenal.
+[19:50] They're in totally different businesses.
+[19:52] So, rather than pick one or the other,
+[19:54] I'd rather you just pick them both. And
+[19:56] uh Bloom Energy is is more involved.
+[19:58] >> Well, great. That's all that we have for
+[20:00] you for this midweek update. As always,
+[20:02] if you enjoyed this video, please give
+[20:03] it a like. Also, hit that subscribe
+[20:05] button if you haven't already. We'll see
+[20:06] you this Sunday with a special guest,
+[20:08] but also let us know if there's anything
+[20:10] in specific that you want us to cover in
+[20:12] the next few weeks. I know that there's
+[20:13] a lot going on right now, so we want to
+[20:15] make sure that we're giving you content
+[20:16] that you all enjoy. Thank you so much
+[20:18] for watching everyone.

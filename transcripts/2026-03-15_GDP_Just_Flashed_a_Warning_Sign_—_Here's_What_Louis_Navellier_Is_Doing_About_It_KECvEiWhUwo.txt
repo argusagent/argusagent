@@ -7,9 +7,352 @@ Type: video
 Duration: 12:49 (769s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 344
+Transcript characters: 11507
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] From oil tankers in the Strait of Hormuz
+[00:02] to slowing US GDP growth and questions
+[00:04] about consumer spending, markets have a
+[00:07] lot to digest today. Welcome back to
+[00:09] Navellier Market Buzz.
+[00:12] >> [music]
+[00:19] [music]
+[00:23] >> So, India has secured passage for 23 oil
+[00:26] tankers through the Strait of Hormuz. Is
+[00:28] that a sign that tensions might be
+[00:30] easing?
+[00:31] >> It's a sign that Iran needs money. India
+[00:34] controls 40% of the shipping through the
+[00:36] Strait of Hormuz. They want 23 oil
+[00:38] tankers to go through. France and Italy
+[00:40] are also reaching out to Tehran to get
+[00:42] their tankers through. So, this blockade
+[00:45] really hurts them economically. And
+[00:47] obviously, they're going to have to
+[00:48] rebuild because of what's happening.
+[00:50] It's still very fluid, but that's why
+[00:52] oil prices started to calm down a bit
+[00:54] and the markets firmed up.
+[00:56] >> So, now the US fourth quarter GDP was
+[00:58] revised down to just 0.7%.
+[01:02] What drove such a sharp downgrade?
+[01:04] >> It was the government layoffs, you know,
+[01:07] with the federal government shutdown.
+[01:09] And we had the um
+[01:11] uh
+[01:12] the the big uh jump in uh the trade
+[01:15] deficit in um
+[01:17] uh
+[01:18] November and December. Uh fortunately
+[01:20] though, uh in January the trade deficit
+[01:22] uh
+[01:23] uh fell 25% due to booming gold exports.
+[01:26] So, that bodes well for all those gold
+[01:28] stocks we own. So, that the first
+[01:30] quarter GDP growth is going to be a lot
+[01:31] better. The trade has an incredible
+[01:34] impact on GDP. And also, in February
+[01:36] we're clearly exporting a lot of uh
+[01:38] natural gas at a high price cuz it got
+[01:42] cold in Europe and here. And then we're
+[01:44] exporting uh crude oil and refined
+[01:46] products.
+[01:47] I'm expecting the trade to really help
+[01:49] boost first quarter GDP. We won't get to
+[01:51] that 5%, but we are uh first quarter is
+[01:54] going to be a a better. In fact, the Fed
+[01:56] just revised it up to 2.7
+[01:58] percent. So, that's a good sign.
+[02:00] >> So, consumer spending also slowed in
+[02:02] that report. Are the American consumers
+[02:04] starting to pull back?
+[02:05] >> Well, they're fickle. There's no doubt
+[02:07] that consumers are fickle and they
+[02:10] they're not really spending money on
+[02:11] durable goods. They're spending money on
+[02:13] comfort things, bars and restaurants and
+[02:15] things like that.
+[02:17] I think it's just a weather thing. I
+[02:19] mean, you know, I'm I'm here with you in
+[02:21] New York. You just told me it was 70 and
+[02:23] when I got here it was snowing and and
+[02:25] obviously spring is is right around the
+[02:27] corner. The daffodils and tulips will be
+[02:29] popping up and everybody get out and
+[02:31] about and and spend.
+[02:33] The weather
+[02:34] has a big impact and it is holding back
+[02:36] first quarter GDP, but as we get into
+[02:39] April the second quarter GDP is going to
+[02:41] be much much better.
+[02:42] >> And Canada lost nearly 84,000 jobs in
+[02:45] February and unemployment rose to 6.7%.
+[02:49] Is the economy starting to stall?
+[02:50] >> That's Yeah, that's a big number for
+[02:52] Canada and in January they lost 25,000
+[02:55] jobs and apparently it's a lot of the
+[02:56] youth in Canada. So, Canada is
+[02:58] definitely headed into a recession and
+[03:01] that's going to be Prime Minister
+[03:02] Carney's problem. I'm sure he's going to
+[03:04] blame Trump for the issues. I know
+[03:06] they're mad at Stellantis, the big
+[03:07] automotive company, cuz
+[03:09] they're hurting. They had to do a lot of
+[03:11] cutbacks and Canada took a lot of those
+[03:13] those those hits and that's that's going
+[03:15] to affect Ontario. So, that just means
+[03:18] the Bank of Canada is going to be
+[03:19] cutting rates to stimulate the economy.
+[03:22] And
+[03:23] and but that's that's our neighbor and
+[03:25] that's a lot of job losses for them. You
+[03:27] know, they're just a tenth the size of
+[03:28] America. That's that's like us losing a
+[03:30] a million jobs this year. So, yeah, it's
+[03:33] um
+[03:34] it's going to put downward pressure on
+[03:35] interest rates and and they're just one
+[03:37] of many central banks that will be
+[03:39] continuing to cut rates and doing
+[03:41] quantitative easing.
+[03:42] >> Now, let's preview some earnings. Let's
+[03:44] start out with Alibaba, China's
+[03:46] e-commerce giant. Are the consumers
+[03:48] finally getting back into shopping mode?
+[03:50] >> No, they're not happy in China.
+[03:52] deflation is been rampant for almost 4
+[03:54] years since May of 2022. They want to
+[03:57] postpone their purchases. They're not
+[03:59] buying big ticket items, you know, their
+[04:01] EVs sales in in China are very poor.
+[04:04] Alibaba's sales are forecast to be at
+[04:05] 4.2%.
+[04:08] Their earnings are forecast to decline
+[04:10] 48.9%.
+[04:12] Uh and we do have analyst cuts pretty
+[04:14] severe in the last 90 days. My other
+[04:17] comment about Alibaba, it has missed the
+[04:19] last three quarters. So, I have bought
+[04:22] Chinese re- internet retailers in the
+[04:24] past. The last one I bought was Vipshop
+[04:27] Holdings, that's VIPS. I'm not
+[04:29] recommending that, just so you know. Um
+[04:31] but Alibaba has never hit my model.
+[04:34] Never fit it. And of course, their
+[04:36] founder now lives in Japan cuz he had
+[04:38] some issues with it. He was criticizing
+[04:40] the leadership in China, so now he lives
+[04:42] in Japan. So, I wish them well, but it's
+[04:45] not looking good.
+[04:46] >> Next up, Jabil Technologies, a smaller
+[04:48] cybersecurity and data firm. Is this one
+[04:51] of those under the radar tech names that
+[04:53] could surprise investors?
+[04:54] >> It's definitely under the radar, and
+[04:56] I've recommended the stock in the past.
+[04:58] I'm not recommending now, but they do
+[04:59] have explosive sales growth. They have
+[05:01] uh beaten uh um
+[05:03] uh analyst estimates for the last four
+[05:05] quarters, but their earnings have been a
+[05:07] little bit too erratic, and that's why
+[05:08] I'm not in it right now. Just so you
+[05:10] know, their sales are forecast to be at
+[05:11] 52.9%.
+[05:13] Uh their earnings are forecast to
+[05:14] decline 90% though. That's the problem.
+[05:17] And but they are surprising big time.
+[05:20] Their smallest surprise is 249%. Okay?
+[05:23] So,
+[05:26] >> [laughter]
+[05:27] >> So, this is a wild card. You know, this
+[05:28] is the problem with small capital. The
+[05:30] analysts just can't get a handle on
+[05:31] this.
+[05:32] As soon as it has earnings, I'll be all
+[05:34] over it, but it says their earnings are
+[05:36] going to drop. I'm not in it.
+[05:37] >> Jabil reports next week, the company
+[05:39] that quietly builds electronics for many
+[05:41] of the world's biggest brands. What does
+[05:43] it tell us about the tech supply chain?
+[05:45] >> Well, this company's uh business is
+[05:47] steadily growing. They have beaten last
+[05:49] four quarters. Their sales supposed to
+[05:51] be up about 15.2%
+[05:53] earnings supposed to be up 28.5
+[05:57] and we do have positive analyst
+[05:58] revisions uh and it has again a good
+[06:00] surprise history. So, this is a circuit
+[06:02] board company. Uh it's not quite as
+[06:04] spectacular as my other stocks as far as
+[06:06] sales earnings grow, but it is
+[06:08] definitely being lifted by the entire
+[06:09] tech sector.
+[06:10] >> And then we hear from Micron, a key
+[06:12] player in memory chips and AI hardware.
+[06:14] Is the AI chip boom still going strong?
+[06:17] >> Absolutely. Micron makes uh memory
+[06:19] devices or missing a lot of money. They
+[06:21] are having a conference next week that's
+[06:23] going to help all the storage companies,
+[06:25] the optical companies. Just you know,
+[06:27] Micron sales are forecast to be up about
+[06:29] 37.4%.
+[06:31] Their earnings are forecast be up 451.4.
+[06:35] We have very very strong analyst
+[06:36] revisions more than double in the last
+[06:39] 90 days and huge earnings surprises. It
+[06:41] was 20.7% last quarter. This stock is
+[06:44] recommended in our newsletters. The
+[06:45] stock is under management and must go
+[06:47] higher cuz we own it.
+[06:49] >> Williams Sonoma reports as well high-end
+[06:51] home goods for people who apparently
+[06:53] have $300 to spend on an air fryer. How
+[06:56] is the upscale consumer holding up?
+[06:58] >> Not good. Their sales supposed to be
+[07:00] down uh 2.2% earnings supposed to be
+[07:03] down 11.5%.
+[07:06] Uh the analyst estimates are steady
+[07:08] though uh and it does have a good
+[07:09] surprise history. But, if you look at
+[07:11] its revenue, it's dropped off quite
+[07:13] dramatically in the last four quarters.
+[07:15] Yeah, this is a this is a a luxury item
+[07:18] and this is just people just don't have
+[07:20] the disposable income right now to buy
+[07:21] all these wonderful things at Williams
+[07:23] Sonoma. Nice store though.
+[07:24] >> I actually went there the other day to
+[07:26] try and find cupcake liners and that's
+[07:28] the one thing that they don't sell.
+[07:30] >> They will but they charge a lot for it.
+[07:32] >> Yeah.
+[07:32] >> Yeah, they only sell expensive stuff.
+[07:34] >> Yeah, not not the small stuff. Lululemon
+[07:37] is also on deck, premium yoga wear with
+[07:39] very premium margins. Is the athleisure
+[07:42] trend still running strong?
+[07:43] >> I know. Lululemon, well, let's just go
+[07:46] over their sales. Their sales are
+[07:47] supposed to be down 0.8%. The earnings
+[07:50] are supposed to be down 22.1.
+[07:52] We do have some analyst trims, but it
+[07:55] does have a pretty good surprise
+[07:57] history. And last quarter, it did
+[07:59] surprise by 16.9%.
+[08:02] So, they're all about guidance, okay?
+[08:04] And the other thing about Lululemon is
+[08:06] they sell a lot of men's clothes, okay?
+[08:08] That women buy for them. So, this
+[08:10] stock's going to be all about guidance.
+[08:12] And that surprise last quarter got
+[08:13] everybody's attention. So, let's just
+[08:15] see if they can keep that up.
+[08:16] >> Next is Dollar Tree, where the name
+[08:18] hasn't quite matched the prices lately.
+[08:21] How is the budget-conscious shopper
+[08:22] doing?
+[08:23] >> Not good at all. Sales are supposed to
+[08:25] be down 33.9. That's a big one. Earnings
+[08:28] are supposed to be up though, 10.5.
+[08:30] No
+[08:31] estimate changes from the analyst
+[08:33] community, and it does have a good
+[08:35] surprise history. Uh last quarter was
+[08:37] 11.8. So,
+[08:40] it's pretty hard to to have your
+[08:42] earnings improve when your sales are
+[08:43] declining. So, we'll see if they can
+[08:46] pull this one off, okay? But, um yeah, I
+[08:50] it's not strong enough for me. If they
+[08:52] surprise guide higher, I I take it all
+[08:54] back.
+[08:54] >> Darden Restaurants also reports, the
+[08:56] parent of Olive Garden. Are people still
+[08:59] going out for the unlimited breadsticks?
+[09:01] >> I don't think so. They have other
+[09:02] franchises, you know. And we actually
+[09:04] when you went to school, we there was a
+[09:06] guy I met that designs the restaurants
+[09:08] and all the themes. So, but uh their
+[09:10] sales are supposed to be um
+[09:13] up 5.6%.
+[09:15] Their earnings are supposed to be up
+[09:16] 5.3.
+[09:18] The analyst community's held their
+[09:20] estimates steady for the last couple
+[09:21] months. They did not surprise the last
+[09:23] two quarters. Uh you know, this this is
+[09:26] comfort food, uh
+[09:27] not expensive restaurants out there,
+[09:30] high volume ones. So, we'll see if
+[09:32] things cheer up. I'm a little worried
+[09:33] the weather might have held them back,
+[09:34] too, cuz you know, the severe winter uh
+[09:37] winter we had in the Northeast uh
+[09:39] might have impeded them just a tad.
+[09:41] We'll see what happens, okay? Uh but uh
+[09:44] they're going to have to start
+[09:44] surprising cuz they missed last two.
+[09:46] >> FedEx is also reporting, often seen as a
+[09:49] bellwether for global trade. What will
+[09:51] shipping demand tell us about the
+[09:52] economy?
+[09:53] >> Yeah, FedEx had a pretty good surprise
+[09:55] last quarter. Their sales are supposed
+[09:56] to be up 5.9, earnings are supposed to
+[09:59] be down 9. uh
+[10:01] 2. And the analysts have trimmed their
+[10:03] estimates a bit, although the last
+[10:06] 2 months they started rising back up.
+[10:08] So, they're all over the place, but last
+[10:10] quarter they had a 17.2% surprise. So,
+[10:12] FedEx is going to have to guide higher.
+[10:14] Now, obviously the aviation fuel is very
+[10:17] sensitive to what's going on in the
+[10:19] Middle East right now. So is the the
+[10:21] cost of diesel. So, that could start to
+[10:23] impact their bottom line and then
+[10:25] curtail their guidance. But uh they
+[10:27] always give good guidance. I mean I
+[10:28] mean, they just always tell the truth is
+[10:30] what I'm trying to say. So, whether it's
+[10:32] good, bad, or ugly, they'll tell us. And
+[10:33] I think the stock will react to it. But
+[10:35] uh
+[10:36] they are they have been doing better.
+[10:38] >> And finally, Carnival cruise ships,
+[10:40] buffets, and a vacation demand, are
+[10:42] travelers still eager to set sail?
+[10:44] >> Well, yeah, I I recommend Royal
+[10:46] Caribbean RCL, but uh this one their
+[10:49] sales are supposed to be up 5.6
+[10:52] for Carnival. Earnings are supposed to
+[10:53] be up 39.8. That's all those extras they
+[10:56] charge you on the Carnival boat. And no
+[10:58] analyst changes, and last quarter
+[11:01] it had a 38.6% surprise. So, this stock
+[11:04] has had massive surprises in the past
+[11:06] four quarters. So, I suspect it'll be
+[11:09] it'll do okay. The only thing that can
+[11:11] impede them is, you know, the the cost
+[11:13] for the diesel for the boat. Um so, um
+[11:16] yeah, I think this one will be okay. I'm
+[11:19] again, I'm not recommending it's not in
+[11:21] my portfolio. So, I like RCL a little
+[11:23] better. But um it's a it's a good group.
+[11:25] >> Perfect. Well, thank you so much for
+[11:27] joining us this Sunday. We hope you
+[11:29] enjoyed today's video. If you have any
+[11:31] questions that you want us to answer in
+[11:33] Wednesday's midweek update, please leave
+[11:35] them in the comments below. Until then,
+[11:36] we'll see you all for a new video.
+[11:48] >> [music]
+[12:15] [music]
+[12:42] [music]

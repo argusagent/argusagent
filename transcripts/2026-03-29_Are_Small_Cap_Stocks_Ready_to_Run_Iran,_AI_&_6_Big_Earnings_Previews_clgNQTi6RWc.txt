@@ -7,9 +7,487 @@ Type: video
 Duration: 18:49 (1129s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 479
+Transcript characters: 16814
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Missiles, negotiations, a market that
+[00:02] can't make up its mind, but luckily
+[00:04] there is opportunity hiding in plain
+[00:06] sight. We will break it all down.
+[00:08] Welcome back to Navellier Market Buzz.
+[00:24] We have a really exciting show today.
+[00:26] Dad, would you like to introduce our
+[00:27] special guest? Sure. Michael Borgen is a
+[00:30] five-star manager. He's a specialist in
+[00:32] small mid-cap stocks. He's actually
+[00:34] sub-advisor
+[00:35] to Navellier small and mid-cap
+[00:37] portfolios. And he works behind the
+[00:40] scenes with breakthrough stocks. That
+[00:42] letter was up 62.
+[00:44] 4% last year. So, I'm really excited to
+[00:48] have Michael on the show and he's been
+[00:49] kind of one of our secrets.
+[00:51] >> Thank you. I'm honored to be here on
+[00:52] Market Buzz. It's always great to be
+[00:54] with both of you. So, before we dive
+[00:56] into stocks, I think we have to address
+[00:58] the elephant in the room. Trump has put
+[01:01] military action on pause until April 6th
+[01:04] and says that the Iran talks are going
+[01:07] well, but the situation changes by the
+[01:09] hour. What are you watching for next?
+[01:11] Well, I think officially he paused his
+[01:14] threat to take out the electrical
+[01:17] plants. As we're recording now, there's
+[01:19] I guess some steel facilities got
+[01:21] destroyed and it's unclear whether it
+[01:23] was us or Israel, but it obviously
+[01:25] Israel's continuing to to try to thwart
+[01:27] the Iranian missile threat cuz they're
+[01:29] coming over Israel. But, you know, he
+[01:32] keeps saying the the negotiations are
+[01:33] going well. You know, 10 oil tankers
+[01:35] went through the Strait of Hormuz the
+[01:37] other day. So, we shall see. And J.D.
+[01:40] Vance with Steve Witkoff and Jared
+[01:43] Kushner are all involved in this and
+[01:45] there might be a meeting in Pakistan.
+[01:47] We'll see. So, we all have hope and in
+[01:50] the meantime traders like to clean out
+[01:51] their inventory when you head into a
+[01:53] weekend. I'm happy to see that gold is
+[01:55] firmed up here immensely.
+[01:57] Obviously, we have all those gold
+[01:59] stocks. And then the data center stocks
+[02:01] are exhibiting tremendous relative
+[02:02] strength, as well. So, you know, the
+[02:04] your your oasis as an investor is
+[02:06] anything that earns money. So, uh all
+[02:08] those all those stocks will be bouncing
+[02:11] and uh if not exhibiting relative
+[02:12] strength.
+[02:13] >> So, speaking of that, Michael, my dad
+[02:15] always says that small cap stocks behave
+[02:17] like bunnies. They sit and then they
+[02:18] hop. Given everything going on right
+[02:20] now, what is the liquidity environment
+[02:22] telling you about when these bunnies are
+[02:24] ready to run? You know, Crystal, that is
+[02:26] a fantastic analogy. I love I love that
+[02:29] analogy because small cap stocks often
+[02:31] do behave much like bunnies. Uh you'll
+[02:33] often notice periods where they just
+[02:35] simply sit with little price movement or
+[02:38] trading activity. This inactivity can
+[02:40] sometimes strain investor patience,
+[02:44] particularly when the broader market is
+[02:47] so dynamic. Oftentimes, however, like
+[02:49] bunnies, small cap stocks unexpectedly,
+[02:52] after say a a catalyst like earnings. I
+[02:56] would also add that Michael's portfolios
+[02:58] are extremely diversified. And he always
+[03:02] has stocks that try to zig when other
+[03:03] stocks zag. Uh and um he is an expert in
+[03:06] covariance. And that is really the key
+[03:08] to getting the volatility down. And so,
+[03:11] that And And of course, when you have
+[03:12] good earnings, you just wait for them to
+[03:13] come out, so the stocks hop.
+[03:14] >> Now, I have to ask about two names that
+[03:17] are in your portfolio. They get a lot of
+[03:19] buzz. D-Wave and IonQ. Are we at a point
+[03:22] where quantum computing is truly
+[03:24] investable or are we still in the early
+[03:27] innings? You know, Crystal, that is a
+[03:28] great question. And when it comes to
+[03:31] quantum computing, I'm uh I'm very
+[03:33] excited, but in a very measured way.
+[03:36] Quantum is still early, but the progress
+[03:38] is real and it's accelerating. What I
+[03:41] like about the names Qubits and IonQ is
+[03:45] that they're moving beyond the theory
+[03:47] towards commercial relevance. These
+[03:50] aren't trades. They're actually for
+[03:52] long-term duration ideas and volatility
+[03:55] is part of the process. So, in the
+[03:58] portfolio they are
+[04:00] a couple of our smaller weights because
+[04:02] they are more volatile. Yeah, and I
+[04:04] would add those stocks do have good
+[04:06] sales. So, as quantum computing unfolds
+[04:09] they will
+[04:10] be the leaders. IonQ, of course,
+[04:12] packages Qubit's and uh
+[04:15] D-Wave uh QBTS won the Nvidia uh
+[04:18] programming contest for quantum
+[04:20] computing. And then
+[04:22] the third player, which is a little
+[04:23] weaker, is Rigetti. They're the
+[04:25] encryption experts. But, uh
+[04:28] you know, Nvidia may win the whole thing
+[04:30] cuz they seem to be controlling it. But,
+[04:32] at least they have strong sales in the
+[04:34] meantime. Staying on the cutting edge,
+[04:36] Credo Technology has been quietly riding
+[04:38] the optical computing wave. What keeps
+[04:41] you excited about Credo in this
+[04:42] environment? You know, Credo basically
+[04:45] sits right at the intersection of data
+[04:48] center data center scale, moving data
+[04:51] efficiently, and becoming more important
+[04:53] as processing it. The optical computing
+[04:56] thing here is being driven by one thing.
+[04:58] It's big data movement. And that is why
+[05:02] uh one of the reasons why I remain
+[05:04] exceedingly optimistic about Credo. This
+[05:07] is another infrastructure where
+[05:09] computing is going, not where it's been.
+[05:11] Yeah, and I think the Nvidia's
+[05:13] conference the other week helped them a
+[05:15] lot, too, cuz I think they were the
+[05:16] strongest optical stock, but Corning and
+[05:19] Ciena and
+[05:21] uh Ubiquity also did well. Digging a
+[05:24] little bit deeper into your portfolio,
+[05:26] Rocket Lab is another fascinating one.
+[05:28] Is space becoming a serious investment
+[05:30] theme beyond just the headline names?
+[05:33] You know, when it when it comes down to
+[05:34] space, we are very selective. This is
+[05:38] really our only um holding in in this
+[05:41] space. Rocket Lab is a very different
+[05:43] type of space company. They're not just
+[05:45] about the launches, They're about
+[05:47] building a vertical integrated space
+[05:50] platform. That combination of launch
+[05:52] capability plus space systems is what's
+[05:54] making them compelling right now. So,
+[05:56] Michael, I want to ask you something a
+[05:58] little different here. Uranium Energy,
+[06:00] that's one of your holdings. With all
+[06:02] the talk about small modular reactors
+[06:04] and the energy demands for AI, is that
+[06:07] your thesis behind Uranium Energy? It
+[06:10] absolutely is. The SMR story is a big
+[06:13] part of why we own Uranium Energy. The
+[06:16] small modular reactions change the
+[06:18] conversation because they are scalable
+[06:20] and to be honest, more politically
+[06:22] feasible. This is less about a single
+[06:25] year and more about a multi-year energy
+[06:28] transition that we're looking at here.
+[06:30] You know, I keep looking at the the
+[06:31] fission reactors and uh
+[06:34] they the goal with fission is to have
+[06:37] this plasma run around that never ends
+[06:39] and recreate the sun.
+[06:41] It looks kind of like a water slide, you
+[06:43] know, got all these
+[06:44] weird twists and turns with a bunch of
+[06:46] magnets on it. And so, they're hoping
+[06:48] that AI can finally solve fission cuz it
+[06:51] doesn't usually last for more than 20
+[06:53] seconds. So, but that's that's probably
+[06:55] way off. But, boy, if we ever get that
+[06:57] going, that would be exciting. That
+[06:59] leads perfectly into your data center
+[07:01] holdings. Argan, Premortus, and OGE
+[07:04] Energy. With AI driving such a massive
+[07:07] infrastructure buildout, how much runway
+[07:10] do you see in these names? We see an
+[07:12] incredible amount of runway. And
+[07:14] actually, going back to the analogy
+[07:16] about bunny stocks, small caps being
+[07:19] like bunnies that need a catalyst, Argan
+[07:21] actually reported earnings yesterday and
+[07:24] absolutely blew out earnings and revenue
+[07:26] expectations. And this morning, they are
+[07:28] up about 30%. So, we are still very much
+[07:31] excited about all three holdings. Uh the
+[07:33] AI cloud buildout is isn't just about
+[07:36] chips. It's about physical
+[07:38] infrastructure. And these three
+[07:40] companies are at the forefront of that
+[07:43] building that infrastructure. Yeah, and
+[07:44] they're going to have a lot of positive
+[07:46] analysts revisions on their Argan.
+[07:48] Obviously, we were static, but you know,
+[07:50] I was getting calls before their
+[07:51] earnings came out cuz the stock was
+[07:53] selling off. So
+[07:55] So, welcome to the small cap world.
+[07:56] That's what they do. They sell, they
+[07:58] hop, and Argan is lifting the entire
+[08:00] data center a sector right now. So,
+[08:02] that's a lot of relative strength as
+[08:04] today.
+[08:05] Another thing about Argan, in the last 9
+[08:08] months, we've actually trimmed Argan
+[08:10] twice because it's grown so much. Yep.
+[08:12] Yep. So, Michael, you're up in
+[08:14] Washington state. You live in the the
+[08:16] heart of Amazon and Microsoft country.
+[08:18] What's the mood like on the ground? Are
+[08:20] are people in these companies excited?
+[08:23] Are Are they believers in all their new
+[08:25] projects? You know, that's a That's a
+[08:27] great question. Because you mentioned
+[08:29] Microsoft, I do have to mention that my
+[08:31] my wife does work for Microsoft for full
+[08:33] full disclosure.
+[08:35] I would say that the mood is very
+[08:36] pragmatic, but still optimistic. So, I
+[08:40] mean, the the saying, you could say that
+[08:41] they are cautiously optimistic. You
+[08:44] don't hear a lot of euphoria. However,
+[08:47] their actions really do tell you a lot
+[08:50] about what they're doing, and they are
+[08:51] in continuing to invest heavily in AI
+[08:54] and the AI infrastructure. So, that
+[08:56] tells me that they definitely see a long
+[09:00] runway when it comes to that that new
+[09:03] technology, that burgeoning technology.
+[09:05] So, Michael, I know you've gone way out
+[09:07] to Spokane in Eastern Washington. A lot
+[09:09] of those data centers are all along the
+[09:11] Columbia River Gorge because they got
+[09:14] the hydroelectric cheap electricity,
+[09:15] plus it's cold out there, they can vent
+[09:17] them at night. Have you seen the data
+[09:19] centers getting more massive in that
+[09:20] part of the world? Oh, we have. We We
+[09:23] have absolutely seen the data centers
+[09:25] getting larger and larger.
+[09:27] And you are absolutely right, Louie.
+[09:29] When it comes to those data centers,
+[09:31] cooling those data centers is definitely
+[09:34] key. And so, being out in areas that do
+[09:38] have cooler climates is is is very
+[09:41] beneficial for those companies. And one
+[09:43] weird question, I think Eastern
+[09:45] Washington was in a 30-year drought, but
+[09:47] then you had all those atmospheric
+[09:48] rivers. Is the drought concerns over cuz
+[09:51] I guess that affects the hydroelectric
+[09:53] output on the dams? That's a great
+[09:54] question and it really depends on who
+[09:56] you ask. If you actually look if you
+[09:59] listen to the local news, they they will
+[10:02] more often than not say that we are in
+[10:05] continue to be in a drought. However, at
+[10:07] the University of Washington, there's
+[10:09] Cliff Mass who is a meteorologist and he
+[10:11] basically comes out and says, "No, we're
+[10:13] out of the drought now." Yeah, yeah,
+[10:15] kind of like California. Yeah, the
+[10:16] atmospheric rivers help a lot, you know.
+[10:19] Yes, they do. In fact, during the last
+[10:21] one that we just had this past weekend
+[10:23] and last week, he he frankly said the
+[10:26] rain that came the storm that came was a
+[10:28] typical pineapple express. It came right
+[10:30] from Hawaii and obviously I'm sure you
+[10:33] and all your subscribers know what what
+[10:34] happened to Maui and what's happened to
+[10:36] Oahu with all the flooding and what not.
+[10:38] Yeah, and the Eastern been devastated.
+[10:39] Yeah, that just kept going to Washington
+[10:41] state, you got a lot of rain, yeah. And
+[10:42] hopefully hopefully you have a good
+[10:43] salmon run, too, and steelhead run.
+[10:45] That'll be great. All right, let's look
+[10:47] ahead at some really interesting
+[10:48] earnings coming up this week. First up
+[10:50] is McCormick. This is a steady name, but
+[10:53] with tariffs and input costs still a
+[10:55] factor, pricing power and margins are
+[10:58] going to be up front and center. Dad,
+[11:00] what are you expecting? It's better.
+[11:02] Their sales are supposed to be up by
+[11:04] 11.4%
+[11:06] Um
+[11:07] their earnings are supposed to be down
+[11:09] 0.9
+[11:11] uh and there are minor minor analyst
+[11:14] trims on it. It did miss last quarter by
+[11:16] 1.8.
+[11:18] Um
+[11:19] so you know, if they surprise, I take it
+[11:21] all back. But uh
+[11:23] they do have very good sales growth, so
+[11:25] that's encouraging. Yeah, and I just
+[11:27] wanted to add when it comes to
+[11:28] McCormick, it's amazing how much
+[11:29] resilience they're showing. What stands
+[11:31] out to me is they're still growing
+[11:33] volumes. They're just not It's not just
+[11:36] pushing price, which tells you that
+[11:38] demand for like core brands like Franks
+[11:41] and Old Bay are still holding up. I
+[11:43] think the debate right now when it comes
+[11:45] to McCormick is margins. Commodity
+[11:47] costs, tariffs are all a headwind. So,
+[11:51] in 2026, uh it's really about converting
+[11:53] the volume strength back into margin
+[11:56] recovery. Next is FactSet Research, a
+[11:58] quieter name, but I'd say the numbers
+[12:01] look good. Yeah, first of all,
+[12:03] disclosure, both me and Michael use
+[12:05] FactSet data systems for our research.
+[12:08] That's the engine behind Stock Raider,
+[12:10] just so you know. Their sales are
+[12:11] supposed to be up 6%.
+[12:14] Uh their earnings are supposed to be up
+[12:16] 2.2.
+[12:18] Uh
+[12:19] the analyst community is really, really
+[12:20] quiet on this stock, but they did have a
+[12:22] 3 and 1/2% surprise last quarter. So,
+[12:25] you know, it's not exciting enough for
+[12:27] me to invest in, but we do like the
+[12:29] company's these products, and do use it
+[12:31] religiously. And so, if there's there's
+[12:34] going to be more quants out there,
+[12:35] FactSet will do good.
+[12:36] >> And what's what's interesting for me
+[12:38] with with FactSet, other than I've been
+[12:41] a user of FactSet since 1995, is it's
+[12:44] really just a it's a steady
+[12:46] subscription-based business. Like like
+[12:48] you said, Louie, it's it's nothing sexy,
+[12:51] no explosive growth, but just kind of a
+[12:53] stalwart. One of the things, though, I
+[12:55] think that might be a catalyst when it
+[12:57] comes to FactSet, is that they are
+[12:59] really diving heavily into AI, and
+[13:02] they're starting to push those models. I
+[13:03] don't know if you've seen those emails
+[13:05] coming from your FactSet representative,
+[13:07] but I know I have. Yeah, you know, uh
+[13:10] we are experimenting with uh Claude and
+[13:13] Stock Raider.
+[13:15] And uh the Claude database goes into the
+[13:19] all the Stock Raider database, and uh
+[13:22] it's interesting. So, yeah, there's a
+[13:24] lot of ways to tweak it, and then you
+[13:25] can ask a lot of interesting questions.
+[13:28] So, uh yeah, it I would be
+[13:31] fascinated to see uh
+[13:33] what facts its AI enhancements might be.
+[13:35] Moving on to Conagra, a packaged food
+[13:38] giant. Dad, what are you watching here?
+[13:40] Well, their sales are supposed to be uh
+[13:42] down 2.8%. Um
+[13:44] their earnings are supposed to be down
+[13:46] 21.6.
+[13:47] Obviously, they're going to be fighting
+[13:49] higher prices for uh grains and things
+[13:51] like that and obviously the fertilizer
+[13:54] shortage probably is going to hurt them.
+[13:56] But, um you know, this is a a very, very
+[13:59] boring stock. This would be considered a
+[14:01] value stock that neither me or Michael
+[14:03] would go near. But, uh with that said,
+[14:05] they did surprise the last two quarters.
+[14:07] If they keep surprising, I'll take I'll
+[14:09] take it all back. Yeah, uh when it comes
+[14:10] to Conagra, this is this is not
+[14:13] something that uh is in our wheelhouse.
+[14:15] It's very much a value-oriented
+[14:17] uh staple. Uh and they're unfortunately,
+[14:20] they're dealing with inflation and the
+[14:21] tariff headwinds, as you mentioned. Lamb
+[14:23] Weston has had a very rough stretch in
+[14:26] the frozen potato category. Dad, what
+[14:29] are you forecasting? Okay, Lamb and
+[14:30] Weston sales are supposed to be down uh
+[14:33] 2.3%.
+[14:34] Uh their earnings are supposed to be
+[14:36] down 44.3.
+[14:38] Uh there's a minor analyst trims in the
+[14:40] last 7 days, but they have surprised for
+[14:43] four quarters in a row. So, this is the
+[14:46] frozen french fry king, okay? And where
+[14:49] Michael lives, I think he can get french
+[14:51] fries that are not frozen and those are
+[14:53] the best. So, Utah, Washington have
+[14:57] better french fries than everybody else.
+[14:59] But, I don't want to invest in it till I
+[15:01] see their earnings growth. And uh it's
+[15:03] just not there right now. I couldn't
+[15:04] agree more, Louie. Right now, they're
+[15:06] with their margins under such pressure,
+[15:08] uh this isn't something that we would uh
+[15:10] be looking to to touch, either. Next up
+[15:13] is Cal-Maine Foods. With egg prices
+[15:15] still elevated, is this one going to be
+[15:17] watched closely? Not really, because egg
+[15:20] prices are coming down. So, their sales
+[15:22] are supposed to
+[15:23] fall uh 50 um
+[15:26] 4.7% their earnings are supposed to um
+[15:30] uh decline uh quite dramatically. Just
+[15:32] so you know uh 90 days ago analysts were
+[15:34] estimating uh
+[15:35] 258, now they're estimating uh 78 cents.
+[15:38] So, as egg prices come down, uh there
+[15:40] goes uh Cal-Maine's earnings, but it has
+[15:43] a big fat dividend yield. So, most
+[15:44] people who buy Cal-Maine want the
+[15:46] dividend yield. So, that's why we're um
+[15:49] that's why it it gets held in dividend
+[15:50] accounts. Yeah, one of one of the things
+[15:52] with uh Cal-Maine is the specialty eggs
+[15:55] and prepared foods are becoming a larger
+[15:56] part of their sales, which is helping
+[15:59] fuel that dividend. Uh so, the story
+[16:02] from our perspective is a little bit
+[16:04] less about the spot egg prices and more
+[16:06] about how the mix
+[16:08] shifts and stabilizes earnings over
+[16:10] time. And then the big one everyone is
+[16:12] waiting for, Nike. Tariff headwinds,
+[16:15] China exposure, and a brand turnaround
+[16:17] story all in the mix. This could be a
+[16:20] real market mover. Dad, walk us through
+[16:23] it. Well, sales are supposed to be down
+[16:24] 4/10 of a percent. Uh earnings are
+[16:26] supposed to be down 48%.
+[16:29] But, there's hardly any change in
+[16:30] analysts' estimates, and they have had
+[16:33] huge surprises
+[16:34] for the last uh four quarters.
+[16:36] So, as as long as they surprise,
+[16:39] it might firm up. Uh obviously, they
+[16:41] make a lot of things in Vietnam and all,
+[16:43] and
+[16:44] those tariffs are settled now, so
+[16:47] you know, we'll see. And then uh
+[16:49] where where Michael lives, uh Oregon
+[16:51] always plays uh Washington, and it's a
+[16:54] it's the big game every year. And when
+[16:56] the Ducks come into town, of course the
+[16:57] Ducks are backed by the Nike founder. I
+[17:00] have hope for Nike, but I'm not going to
+[17:01] invest until I see their earnings. We
+[17:03] feel the exact same way. Uh you know,
+[17:04] with demand in North America st-
+[17:07] stabilizing right now, it really comes
+[17:09] down to the tariffs and the discounting.
+[17:11] I think it comes down to we have to
+[17:13] watch their execution and and their
+[17:14] inventory discipline over the next
+[17:16] several quarters. Well, perfect. Thank
+[17:18] you, Michael, so much and thank you for
+[17:20] allowing us to walk through your
+[17:22] wonderful portfolio. Thank you so much
+[17:24] for having me.
+[17:26] Thanks for coming on, Michael. And as
+[17:27] always, thank you all to everyone for
+[17:29] watching. Please hit subscribe and drop
+[17:31] any questions you have in the comments
+[17:32] below, but we will see you this
+[17:33] Wednesday for a midweek update.

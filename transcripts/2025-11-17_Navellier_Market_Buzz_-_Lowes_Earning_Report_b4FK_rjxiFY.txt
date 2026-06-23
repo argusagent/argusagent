@@ -7,9 +7,17 @@ Type: short
 Duration: 0:18 (18s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 9
+Transcript characters: 296
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] bit better for Lowe's. Their sales are
+[00:02] supposed to be up 3.6. Earning is
+[00:04] supposed to be up 3.2.
+[00:06] Minor analyst trims, but they are
+[00:08] surprising. So, that's good. I think uh
+[00:10] Lowe's is less dependent upon
+[00:11] contractors. I think Home Depot really
+[00:13] caters to contractors. So, I would bet
+[00:16] that Lowe's would surprise

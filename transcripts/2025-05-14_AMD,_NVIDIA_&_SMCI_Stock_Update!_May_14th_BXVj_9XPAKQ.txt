@@ -7,9 +7,27 @@ Type: short
 Duration: 0:50 (50s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 19
+Transcript characters: 649
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Well, the big winners from President
+[00:03] Trump's Saudi Arabia trip are the
+[00:06] semiconductors, specifically AMD,
+[00:10] Nvidia, they got a big big uh data
+[00:14] center contract announced and so did
+[00:16] super micro
+[00:17] computer. So, Saudi Arabia will be one
+[00:20] of the big uh data centers um powering
+[00:24] um AI for Europe and elsewhere. You
+[00:28] know, data centers go where there's
+[00:29] cheap electricity. By the way, uh Nvidia
+[00:32] and Super Micro are core Holdings in our
+[00:34] manage accounts. And if you've been
+[00:36] following my newsletters, uh you you
+[00:38] hopefully you're up over 3,000% in
+[00:40] Nvidia, and you should be up over 800%
+[00:43] in Super Micro. So, enjoy the ride.
+[00:45] These stocks are still very, very
+[00:47] strong. Take care, everybody.

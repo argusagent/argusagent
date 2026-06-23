@@ -7,9 +7,435 @@ Type: video
 Duration: 19:06 (1146s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 427
+Transcript characters: 15203
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:14] hello everyone welcome back to navier
+[00:15] Market Buzz episode 29 I'm chryst navier
+[00:18] and I'm joined again this week with my
+[00:19] father Lou navier so Dad let's first off
+[00:23] talking about China can you explain to
+[00:24] our viewers why China now has a
+[00:26] deflation it's a variety of reasons uh
+[00:29] there interest rates have been declining
+[00:31] for some time but they overproduce they
+[00:34] overproduce batteries solar panels uh
+[00:37] EVS uh they're trying to crack the TV
+[00:41] market via company called TCL they'll
+[00:43] probably be out producing those soon and
+[00:46] they they like to overproduce wipe out
+[00:50] their competition and then dump their
+[00:53] goods but the other problem is they are
+[00:55] shrinking in population they're losing
+[00:58] millions of people each year they have
+[01:00] shrinking households the average person
+[01:03] in China invested heavily in real estate
+[01:06] uh China unfortunately has ghost towns
+[01:08] ghost T Tower Condominiums and all as
+[01:12] any society gets older it's hard to grow
+[01:15] the last comment I have is President Chi
+[01:18] is an authoritarian fellow he had a
+[01:21] bunch of reformers that were helping
+[01:24] China you know be more capitalistic and
+[01:26] grow and be part of the world community
+[01:29] got rid of all those people so he's very
+[01:33] authoritarian and it's very hard to uh
+[01:36] figure out exactly what's going on in
+[01:38] China so they are from what we can tell
+[01:40] the New Japan their 30-year bond yields
+[01:43] fell below uh Japan's long-term bond
+[01:46] yields not that long ago we expect them
+[01:49] to be at um or near zero zero to
+[01:52] negative interest rates for 20 plus
+[01:54] years again all driven by demographics
+[01:57] okay and when you look at
+[02:00] Asia the uh you would think that you
+[02:04] know Indonesia
+[02:06] Malaysia uh Vietnam would have the
+[02:08] highest birth rates but it's actually
+[02:10] Japan so all of Asia is shrinking okay
+[02:14] and uh it's um it's
+[02:18] it's the the deflation is real and we
+[02:21] will be importing that deflation and
+[02:24] that's why I think the 10% tariff new
+[02:26] new excuse me the 10% new tariffs on
+[02:29] China we will not see it all now there
+[02:31] are some Market strategists that are now
+[02:34] cutting their price targets for the S&P
+[02:36] 500 can you explain what's going
+[02:38] on sure um obviously the S&P went into
+[02:42] correction um it bounced it's trying to
+[02:45] retest its lows uh what's essentially
+[02:48] going on is um they're just adjusting
+[02:51] their price targets that's all um there
+[02:54] have been some warnings from Airlines
+[02:56] about uh things slowing down uh there
+[03:00] have been some warnings uh from some
+[03:02] retailers that consumers are
+[03:05] fickle but from what I can tell the what
+[03:08] we call the bottomup analyst that
+[03:09] companies actually cover the cover the
+[03:11] companies things just still look fine
+[03:14] it's the top- down strategist that're
+[03:17] that pretend they're an expert in
+[03:18] everything when they're really an expert
+[03:19] in
+[03:20] nothing those are cutting estimates so
+[03:24] um we're going to be okay okay now why
+[03:27] does the stock market like to retest its
+[03:29] lows
+[03:31] it's just human nature um the market is
+[03:34] a manic
+[03:35] crowd and basically a selloff is a is
+[03:39] panic selling so everybody's running for
+[03:40] the door at the same time no one's
+[03:42] thinking they're just reacting and then
+[03:44] after we run out of the door it says
+[03:46] well do we do the right thing and then
+[03:47] there's some buying and then um after we
+[03:51] bounce and it likes to pull back and
+[03:54] make sure the low is really the low the
+[03:56] key on any retest is for the volume to
+[03:58] dry up now we can have several retests
+[04:02] okay but usually we just need one on
+[04:04] light volume but uh we are retesting um
+[04:09] late this week and uh um I'm not worried
+[04:12] about it it's perfectly normal I have
+[04:14] some very wise clients asked me to
+[04:17] invest some cash they had um in the in
+[04:20] the middle of the week when the market
+[04:22] looked pretty dire and I didn't I talked
+[04:25] him out of it because I I was waiting
+[04:26] for the retest so I think uh nidia's AI
+[04:30] Conference next week will help lift the
+[04:32] market we do have a important retail
+[04:34] sales report on Monday so we just got to
+[04:37] look at the data the inflation news this
+[04:39] week was phenomenal uh CPI was lower
+[04:43] than expected PPI was uh uh flat and uh
+[04:49] the um uh core rate exing food energy
+[04:52] was negative and uh so clearly things
+[04:57] are cooling off and again this is all
+[04:59] due to a strong dollar we we're not
+[05:02] going to have inflation uh there are
+[05:04] people worried about sag inflation which
+[05:07] is um an anemic economy with inflation
+[05:11] they are not going to have that problem
+[05:12] now moving on to stocks can you talk
+[05:14] about what's happening with
+[05:16] Nidia sure Nvidia bounce it's holding up
+[05:19] relatively well the developers
+[05:21] conference um next week is very exciting
+[05:25] uh you're showing a revenue chart of
+[05:27] Nidia and a um uh earnings chart from
+[05:31] our friends at bepoke and they have a
+[05:34] little arrow there that when chat GPT
+[05:36] came out and what Nvidia has been doing
+[05:39] since so the AI race is real uh anyone
+[05:44] who uses chat GPT or artificial
+[05:46] intelligence is sucking a lot of power
+[05:49] from the data centers and all and of
+[05:51] course we have to double our power grid
+[05:53] in America and this um data center
+[05:56] expansion is is real of course there was
+[05:59] this um as we've discussed in previous
+[06:02] Market Buzz episodes there was a uh that
+[06:06] deep seek incident which frankly looks
+[06:09] more like a plant from the Chinese
+[06:10] Communist party it's a Jason Bodner
+[06:13] refer to it and um uh that deep seek is
+[06:18] has been the number one seller on on the
+[06:20] app Apple Store but it's not working
+[06:22] very well it's crashing a lot seems to
+[06:24] have some cyber security problems so I'm
+[06:27] not too too worried about it the US LG
+[06:29] Capac capacity just surged why was
+[06:32] that well we open up a new terminal uh
+[06:35] you know there had been a a ban since
+[06:37] January of
+[06:40] 2024 on uh adding new LG Terminals and
+[06:45] um they uh there was by Administration
+[06:47] it was
+[06:48] overturned by the fifth circuit after 16
+[06:51] State sued by Administration was
+[06:53] appealing but uh it's all over now
+[06:56] there's Trump's going to allow l& to
+[06:58] expand he wants the us to dominate it um
+[07:01] you know it's it's interesting the
+[07:04] Europe has spent more on Russian LNG
+[07:07] than they have on aiding Ukraine in the
+[07:09] war so uh and obviously the US wants to
+[07:13] replace that Russian LG with our LNG so
+[07:17] uh it's fascinating times we're in and
+[07:20] uh but we are the Saudi Arabia natural
+[07:23] gas and and uh and it's been cold this
+[07:26] winter and it's been cold in Europe so
+[07:29] natural gas prices are abnormally high
+[07:31] so what are your favorite stocks that
+[07:33] are benefiting from this LG boom yeah
+[07:35] that's a a good comment uh it's mostly
+[07:38] what we call master limited
+[07:41] Partnerships um these are ones we
+[07:43] recommend in our Elite dividend list on
+[07:46] growth investor that's our biggest
+[07:49] newsletter uh but things like Hess
+[07:51] that's
+[07:52] hm uh please excuse me I'm better with
+[07:55] symbols than with names uh mplx is
+[07:58] another one
+[08:00] P GP and West
+[08:03] Wes those are all uh Midstream uh
+[08:07] pipeline plays that will benefit from
+[08:10] the l&g boom I have H had l&g tanker
+[08:13] stocks in the past I will probably add
+[08:15] some back but right now I'm playing the
+[08:17] Midstream in the pipeline companies
+[08:20] obviously oil prices are at a three-year
+[08:23] low um because of drill baby drill and
+[08:26] weak economies around the world uh oil
+[08:29] normally does pick up in the spring but
+[08:32] uh the um the main beneficiary of of
+[08:36] trump getting elected is natural gas and
+[08:39] you can play that with pipelines and
+[08:41] mid-stream companies retail sales are
+[08:43] being announced on Monday what do you
+[08:46] expect I I do expect them to be okay I
+[08:49] mean I want to look at the categories uh
+[08:51] I think the weather has disrupt them in
+[08:53] the past uh I know one month that was
+[08:56] not very good uh there was everybody
+[08:59] still out and about at bars and
+[09:01] restaurants so that means uh consumers
+[09:03] have disposable income if they're out
+[09:06] and about drinking and going to
+[09:07] restaurants so we shall see um but I
+[09:11] want to see the categories uh really
+[09:14] improve uh you know we keep talking
+[09:16] about there's two types of consumers
+[09:18] there's the Boomers the people with
+[09:20] homes and stock portfolios those people
+[09:22] are spending up a storm and then there's
+[09:24] people um in your Camp under 30 that are
+[09:28] struggling to make meet and uh uh so um
+[09:33] we really do I right now I cater to
+[09:36] mostly a fluent
+[09:37] retailers um because uh their spending
+[09:41] is more consistent but we hope that um
+[09:45] overall consumer spending picks up and I
+[09:47] do expect to pick up in the spring so uh
+[09:50] I'm expecting a positive report but I I
+[09:53] I would like it if uh 10 of the 13
+[09:56] categories are up and I I'm not sure
+[09:58] I'll get that so well I get seven or
+[10:00] eight categories up we shall see can you
+[10:02] share what some of your favorite
+[10:04] retailers are yeah the safe ones are
+[10:06] Costco uh Costco did Miss on earnings by
+[10:09] 2.1% but their sales were stunning their
+[10:11] same store sales are even more
+[10:13] impressive Costco's a major gas retailer
+[10:15] and they're still same for sales growth
+[10:17] well is well over 7% we love uh Sprouts
+[10:20] Farmers Markets they're expanding uh
+[10:23] Nationwide that's obviously a safe play
+[10:26] you profit from high food prices and
+[10:28] then Walmart Mt um Walmart is uh
+[10:32] increasingly catering to more um uh
+[10:36] middle and oper income people that are
+[10:38] literally going there to shop for
+[10:40] groceries uh and then their online
+[10:42] delivery services are very good uh and
+[10:45] Costco uh again caters to very fluent
+[10:48] households just look at all the vehicles
+[10:50] on the average Costco parking lot and
+[10:52] they're pretty pretty darn nice so again
+[10:55] Costco Sprouts Farmers Market and
+[10:58] Walmart
+[11:00] um all are benefiting from ping to more
+[11:02] influent customers and what do you
+[11:04] expect from the FC and the dotplot on
+[11:07] Wednesday sure the uh FMC of course is
+[11:09] the Federal Open Market Committee uh and
+[11:11] they are going to have announcement and
+[11:13] we expect it to be super dobish uh you
+[11:15] know the Bank of Canada cut on um this
+[11:19] week uh the European Central Bank has
+[11:22] cut uh twice um so we're very very um
+[11:27] excited about that and um and so they
+[11:30] are going to have to be cutting because
+[11:31] Market rates have come down the Dot Plot
+[11:34] will tell tell us the survey of all the
+[11:37] fomc members and it'll probably show uh
+[11:41] uh the consensus of being two rate Cuts
+[11:44] but there'll be a fringe minority of up
+[11:46] to three rate Cuts uh I'm still in the
+[11:48] camp of four but I'm expecting a global
+[11:51] interest rate collapse and again the
+[11:54] reason I'm so adamant about that is the
+[11:58] only countries that are growing in the
+[12:00] world in population are the US Brazil
+[12:03] and India and Brazil is going to stop
+[12:05] growing soon so all these other
+[12:08] countries you know I'll name them you
+[12:10] know uh Canada uh Mexico uh Britain uh
+[12:16] France Germany they're all in
+[12:18] recession okay and uh they don't have
+[12:21] household formation and so what's
+[12:24] happening is it's really hard to grow
+[12:27] your economy when you're not creating
+[12:29] new
+[12:30] households so
+[12:32] um uh that is a big big deal and um and
+[12:37] the inflation we've had in America is
+[12:38] all real estate related because we
+[12:41] needed more households and now that now
+[12:43] we're cooling off you know they're
+[12:44] cutting home prices and stuff I'm sorry
+[12:47] that Bloomberg had an article that rents
+[12:49] in New York are still going higher so I
+[12:51] do you happen to be in in a bubble
+[12:53] Market but everywhere else Mark prices
+[12:56] are SS and finally I'd like to end on
+[12:58] subscribing questions what are your
+[13:00] thoughts on CLS and sezzle both have
+[13:03] stunning forecast of sales and earnings
+[13:05] I'm very comfortable with them uh sezzle
+[13:08] does uh cater to people that are
+[13:11] struggling uh gives them loan payment
+[13:13] plans but they're sales and earnings
+[13:16] growth is ridiculous uh this is an
+[13:19] explosive stock a very volatile stock um
+[13:23] and uh CLS is a celestica is a more of a
+[13:27] medium RIS St but both of them hit my
+[13:30] criteria fine so it's it's very hard for
+[13:33] me to explain this to people but it's
+[13:35] probably a good thing to close
+[13:37] on I am obsessed with my fundamentals
+[13:40] okay and as long as I've had a good
+[13:44] earnings announcement season as long as
+[13:46] the analysts aren't cutting the
+[13:49] estimates uh as long as the uh the
+[13:53] companies are largely guiding higher at
+[13:55] margin
+[13:56] expansion I don't panic okay
+[13:59] now if I see any sign of weakness like
+[14:01] an analyst cut or uh margins starting to
+[14:04] come under pressure I'll go in and I'll
+[14:06] find you in the portfolio and I have
+[14:08] sold some stocks recently and I've sold
+[14:10] stocks that have gone higher okay so
+[14:13] because uh and had good results because
+[14:16] I'm just selling something good to buy
+[14:17] something better so the way we grade
+[14:20] stocks um and we have this eight Factor
+[14:22] fundamental model is absolutely
+[14:24] imperative right now and that eight
+[14:25] Factor fundamental model which is online
+[14:27] available to you guys free
+[14:29] is sales growth margin expansion
+[14:31] earnings stability earnings momentum
+[14:34] cash flow return Equity allance earnings
+[14:36] revisions uh and uh earning surprises
+[14:40] and the stocks that score the highest in
+[14:42] that model are look are doing good we
+[14:45] just retested it the top 45% which are
+[14:48] the predominantly a andb rated stocks
+[14:51] look wonderful so uh uh that's why I
+[14:55] ride through all the ups and downs and
+[14:57] don't worry about daily gation
+[14:59] I don't want to worry about all the the
+[15:01] Tariff gossip you know that's
+[15:03] distracting the market right now um and
+[15:07] uh but you know it's uh it's not
+[15:10] affecting my stocks another one of our
+[15:11] subscribers wanted to know if Zia is
+[15:14] going to go up in the next four to five
+[15:17] years well the longer you look the
+[15:20] fuzzier gets but I'll tell you near term
+[15:22] there sales are forecasted decline
+[15:26] 4.2% uh the uh earnings are operating
+[15:29] earnings only supposed to up two and a
+[15:31] half the analysts have actually cut
+[15:33] their earnings estimates from uh minus 7
+[15:37] 90 days ago to minus 10
+[15:39] cents and they did miss last quarter uh
+[15:43] wasn't a big Miss but they missed so
+[15:46] this stock is dead in the water until
+[15:49] they are positive sales positive
+[15:51] earnings positive an revisions and and
+[15:54] real absolute earnings growth so I don't
+[15:57] mean to be a buzz kill
+[16:00] but uh zvia doesn't hit my criteria at
+[16:03] all and finally what is your opinion on
+[16:05] attaching a stop loss to each stock
+[16:08] purchased as a safety well that's an
+[16:10] outstanding question um it's very hard
+[16:13] for me to explain this but if you put a
+[16:16] physical stop order in the specialist
+[16:19] will probably run the stock down and
+[16:21] clean you out and then the stock will go
+[16:22] back up so if you do a stop you should
+[16:27] do a mental stop not a physical
+[16:30] stop but I don't like to do that because
+[16:34] we have these things called flash
+[16:36] crashes on Wall Street they don't happen
+[16:39] every year but when they happen they can
+[16:41] wipe you out the last really bad one was
+[16:44] in August
+[16:47] 2015 just so you know there were some
+[16:49] circuit breakers that hit and stocks
+[16:52] didn't open but they let the ETFs trade
+[16:54] even though they couldn't price the
+[16:55] stocks so big safe um ETFs like dvy
+[17:00] which is iar's dividend ETF fell 34.95
+[17:04] per that morning and stayed there for a
+[17:07] couple hours and at the end of the day
+[17:08] it was unchanged so if you had a
+[17:10] physical stop order in okay you they
+[17:15] would have blown through your order
+[17:16] let's say you had a 10% stop you would
+[17:18] have gotten out at a 35% loss at the end
+[17:22] of the day you would have been unchanged
+[17:24] so I do not like physical stop orders
+[17:26] okay and I do like to tell people that
+[17:29] markets are IL liquid and after earning
+[17:33] season we have mean reversion so what I
+[17:37] do is I buy in dips I sell on the
+[17:39] strengths I did have some clients that
+[17:43] were slightly stressed when the market
+[17:45] was going down this week and I said I'll
+[17:48] get you out but I just want you to know
+[17:50] I might have a 6% spread in the middle
+[17:52] of the day towards the close I'll
+[17:54] probably only have a 3% spread so people
+[17:57] have to realize stocks have spreads
+[18:00] and uh I think it makes a lot more sense
+[18:02] to sell stocks good stocks in the
+[18:05] bounces and then buy in dips uh this
+[18:08] oscillation we get the market is
+[18:09] perfectly normal and it's been around
+[18:12] for a long time and it will continue for
+[18:13] a long time so stop losses are not my
+[18:16] thing I'm actually doing the opposite of
+[18:18] what most people are doing with that
+[18:20] said I do respect the Investors Business
+[18:22] Daily um uh I know they've recommended
+[18:25] stops in the past but uh I do like the
+[18:29] search uh and I agree with pretty much
+[18:31] everything they do except for stops well
+[18:33] thank you so much for answering all my
+[18:34] questions and thank you to you all again
+[18:36] for liking commenting and subscribing we
+[18:38] really appreciate your viewership also
+[18:41] thank you so much again for all your
+[18:42] support on Louis's new book if you do
+[18:44] want to purchase it it will be in the
+[18:46] description below but until then we will
+[18:48] see you all next week for a new video
+[18:50] thank you
+[18:51] [Applause]
+[18:52] [Music]

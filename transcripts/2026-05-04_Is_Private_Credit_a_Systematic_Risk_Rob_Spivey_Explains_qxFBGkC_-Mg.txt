@@ -7,9 +7,36 @@ Type: short
 Duration: 0:51 (51s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 28
+Transcript characters: 1039
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The point that we've made everybody is
+[00:01] first off, private credit is not a
+[00:03] systematic risk. There's a whole lot of
+[00:05] reasons that could be a whole entire
+[00:06] other conversation for us to have as to
+[00:07] why it's not, but the reason why private
+[00:09] credit part of it is the reason why it
+[00:11] isn't a risk is because we are starting
+[00:13] to see all of the other general
+[00:15] traditional sources of capital and
+[00:17] sources of credit, right? Banks, broadly
+[00:19] syndicated loans, broader corporate debt
+[00:21] actually really open up a lot as you're
+[00:24] seeing private credit have to step back.
+[00:26] We monitor things like the Chicago Fed's
+[00:29] um financial basically uh financial
+[00:30] indicator in terms of how much credit is
+[00:32] being and capital is being made
+[00:33] available, it still has really healthy
+[00:35] trends. You look at real liquidity being
+[00:37] injected in the system, it has healthy
+[00:39] trends. And those bond spreads being
+[00:41] that tight, they should be because the
+[00:43] fact that we've got When you've got 19%
+[00:45] earnings growth being thrown off by
+[00:46] these companies that are doing the
+[00:47] investment, the ability for them to
+[00:49] actually handle the debt is real.

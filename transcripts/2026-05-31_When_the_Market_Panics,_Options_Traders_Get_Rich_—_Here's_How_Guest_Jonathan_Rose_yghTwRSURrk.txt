@@ -7,9 +7,542 @@ Type: video
 Duration: 19:34 (1174s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 534
+Transcript characters: 19213
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Have you ever watched someone make 100%,
+[00:02] 200%, even 500% on an options trade and
+[00:06] wondered, what am I missing? Because for
+[00:08] most investors, options feel like a
+[00:10] secret language spoken by Wall Street
+[00:13] insiders. Today, we're changing that. We
+[00:15] are joined today by Jonathan Rose,
+[00:17] options expert at InvestorPlace.
+[00:19] Jonathan, it is so good to have you
+[00:21] today.
+[00:21] >> I'm so excited to be here. Thanks for
+[00:23] having me.
+[00:23] >> You know, Jonathan, you have a
+[00:24] phenomenal reputation for making options
+[00:27] accessible to everyday investors and we
+[00:30] really want to educate our viewers
+[00:32] today. So, this is going to be a lot of
+[00:33] fun.
+[00:34] >> Let's start with a question most
+[00:35] beginners have. When people buy a call
+[00:37] option, what exactly are they paying for
+[00:40] and why does that premium seem to change
+[00:42] so dramatically as expiration gets
+[00:44] closer?
+[00:45] >> That's That's a great question. You
+[00:46] know, overall, it seems that people are
+[00:49] intimidated by options or afraid of
+[00:51] options. What's really important to me
+[00:54] is to get people to understand that
+[00:56] options are just stock and stock are
+[00:59] options. Options are just a derivative
+[01:01] of stock. There's very little difference
+[01:04] between them. So, if a stock's trading
+[01:06] at $10, the $12 call, if you buy that
+[01:09] call, you just have the option to be
+[01:11] long that stock from 12. With the stock
+[01:14] trading at 10, why would you want to be
+[01:16] long from 12? Because you get a bunch of
+[01:18] leverage. It doesn't cost nearly as
+[01:20] much. And if the stock is not above 12
+[01:24] by the expiration of your option, you
+[01:27] have You just decide, "Hey, I no longer
+[01:29] want to be long stock from 12." And you
+[01:32] just lose whatever the principal that
+[01:34] you put into it. If that stock gets
+[01:36] above 12, those $12 calls, it's the
+[01:38] exact same thing as being long stock
+[01:41] from 12. So, the biggest thing that I
+[01:43] want people to realize is that options
+[01:46] are just a derivative of stock.
+[01:48] >> That's well said. You know, Jonathan, I
+[01:50] really want to start showing option
+[01:52] premiums on the the buy list of the
+[01:54] stocks I recommend in my newsletters.
+[01:56] Specifically,
+[01:58] you know, whether we go out a year or
+[02:00] several months, we have to figure out a
+[02:02] a window to show those premiums. But I
+[02:04] do know that when stocks are running
+[02:06] like this week, you know, the software
+[02:08] stocks are running and the the storage
+[02:10] stocks are running. I do know that if we
+[02:13] sell options at this moment that we can
+[02:16] get, you know, 20 plus percent premiums.
+[02:18] But then when the market sells off,
+[02:20] those premiums collapse to like 5 or 6%.
+[02:24] So what I want to do on my buy list is
+[02:26] actually show the an option premium at
+[02:29] that at every every given point in time.
+[02:33] >> Mhm.
+[02:34] >> So hopefully we can link up to your
+[02:35] database and we our publisher to do all
+[02:38] this. But can you give us people some
+[02:40] guidance how the the premiums oscillate
+[02:43] based on sentiment and and market
+[02:44] activity?
+[02:45] >> Yeah. So people use and it's a it's a
+[02:48] great question and it it's so important
+[02:50] for retail investors to learn this
+[02:52] because they're really leaving money on
+[02:54] the table, especially for some of your
+[02:56] phenomenal holdings with your Nvidias
+[02:58] and your MUs. To be able to to slowly
+[03:01] take money for for profit is great. So
+[03:05] what Louis talking about is being long a
+[03:07] stock and being able to sell some upside
+[03:10] calls and benefit of that is you get to
+[03:13] take in that income. But it also gives
+[03:15] you a little bit of a hedge because when
+[03:16] the market really turns, you can buy
+[03:18] back that premium and and maybe buy some
+[03:22] more of that long stock. Now why that
+[03:24] premium on those calls just gets crushed
+[03:26] on the downside is because people expect
+[03:29] stocks to bounce. People are are
+[03:31] planning for stocks to rally, so they're
+[03:33] not going to give you those juicy
+[03:35] premiums. Right now, it's it's an
+[03:37] interesting time because the market's
+[03:39] rallying, but there's still volatility
+[03:41] in the market. It's still these are high
+[03:43] risk rallies because of the pace these
+[03:45] stocks are moving at. That's why it's a
+[03:47] good time sell some upside premium.
+[03:50] >> So it seems like timing is everything
+[03:52] with options. So if someone wants to buy
+[03:54] calls, what's kind of that sweet spot?
+[03:56] >> Well, I always think like what's the
+[03:59] reason why you're going to be into a
+[04:00] trade. So potentially maybe somebody
+[04:03] wants to get into a trade because
+[04:05] earnings are coming out or they're
+[04:07] bullish the solar sector and solar's
+[04:09] running and they want to buy a cheap
+[04:10] solar name. How how long do you want to
+[04:12] own solar? Do you want to own it in
+[04:14] perpetuity or do you think it's a
+[04:16] three-month trade or a six-month trade?
+[04:19] The cool thing about options is they
+[04:21] really really give you so many different
+[04:24] options. And ideally, you don't want to
+[04:26] pay 12 months for an option and be in it
+[04:29] for one week because you wasted a whole
+[04:32] bunch of unnecessary money. If you want
+[04:35] something to move in the next day,
+[04:37] that's a reason to do a one-day option.
+[04:39] We don't do that. That's too high risk,
+[04:41] but ideally, whatever your thesis is,
+[04:44] that's where you want to match your
+[04:46] option trade to as well. So the perfect
+[04:48] example of maybe a biotech has a PDUFA
+[04:51] date when the when the FDA comes out
+[04:54] with something on their drug. And so you
+[04:57] know that's the date that you're playing
+[04:59] for. So for your option trade, you just
+[05:01] want to include that date, but not much
+[05:03] more after that because that's the event
+[05:06] that you're really playing for. So to
+[05:08] back into it, whatever your thesis is is
+[05:10] on your trade, make sure the time that
+[05:12] you're in your option matches that.
+[05:14] >> So Jonathan, I wanted to ask you about
+[05:16] your record. Obviously, I know you've
+[05:18] had lots of 100 plus percent winners and
+[05:21] I've seen your 500% winners as well. So
+[05:24] but what is the win-loss ratio? It seems
+[05:27] to me like you hit a lot of home runs,
+[05:30] okay? And but I'm sure you you strike
+[05:32] out just a little bit sometimes, too. So
+[05:35] what is that win-loss ratio?
+[05:36] >> Well, as a as a baseball
+[05:38] aficionado, those those are best home
+[05:41] run hitters, they do strike out quite a
+[05:43] bit. So yeah, I don't trade at 99%. When
+[05:46] you do see option strategies that do
+[05:48] trade at 99%, which are very easy to do,
+[05:52] watch out for that 1% because that 1% is
+[05:55] a very, very scary percent. Uh
+[05:56] historically, over the last 3 years, I
+[05:59] think I've been trading in our base
+[06:01] unusual option activity service at about
+[06:03] 58%, but it's really binary because the
+[06:07] cool part about trading out how how I do
+[06:11] and and I look for option premium to buy
+[06:13] is that we're risking 100%. So, if an
+[06:16] option's trading at a dollar and I could
+[06:18] buy 10 of those is a thousand dollars,
+[06:21] my risk, my stop is a thousand dollars.
+[06:24] There is no second place. It's very
+[06:26] difficult to try to stop yourself out of
+[06:29] options. People end up just churning
+[06:31] their account. It's a bad deal. So, how
+[06:34] I teach is whatever you're comfortable
+[06:36] risking, that's that's your trade. So,
+[06:38] if you want to risk a thousand dollars
+[06:40] in a trade, you buy 10 options for a
+[06:43] dollar, that's a thousand dollars. Now
+[06:44] you're in. Now, when these trades work
+[06:47] out, yeah, we can make 300, 500, once in
+[06:50] a while over a thousand percent. But,
+[06:52] when we get into trades, I want people
+[06:54] to have a really strong reason of why
+[06:56] they're in that trade. And then,
+[06:58] whatever they risk, they risk. If
+[07:00] they're in the option for 65 days, we're
+[07:02] in it until expiration or until we get
+[07:04] taken out a really big, nice profit.
+[07:06] But, at that, we're trading, yeah, 58%
+[07:09] when things are going good, 60, 61. If
+[07:12] the trade is tough, we might pull back
+[07:14] to 54, 55.
+[07:15] >> Wonderful.
+[07:16] >> Everything you described sounds very
+[07:17] powerful, but it also sounds like a lot
+[07:19] of moving parts. We have premiums,
+[07:21] volatility, expiration dates, entry
+[07:23] timing. How does your newsletter
+[07:25] simplify that process for someone who
+[07:27] say has a full-time job and can't watch
+[07:29] the market all day?
+[07:30] >> Yeah. Well, for instance, I'm very, very
+[07:33] bullish copper. I'm very bullish FCX,
+[07:36] the the main copper name. I'm bullish
+[07:40] Teck, t e T E C k, we're long a little
+[07:43] company called Hero, e r o. So, we end
+[07:47] up having a thesis where I'll present an
+[07:50] idea of we're long we're long copper.
+[07:52] AI, the AI trade, is it a bubble? Is it
+[07:55] not a bubble? I have no idea. I just
+[07:57] know as a AI needs copper really badly
+[08:00] and there's not enough of it. So, a
+[08:02] trade like that, I might suggest, "Hey,
+[08:05] you could buy the stock or a 60-day
+[08:07] option in FCX we can look to buy." We'll
+[08:10] also share maybe a 90-day in Tech. So,
+[08:14] we'll stagger along so we have copper
+[08:17] exposure, but again, once you're in the
+[08:19] trade, you're there's nothing you could
+[08:21] do. We're we're in it. Sometimes we
+[08:23] lose, sometimes we make a whole bunch of
+[08:25] money, but once you're in it, there's no
+[08:27] you don't have to stare at it. You know,
+[08:29] if you could, if you want, but it's like
+[08:30] watching that watching that pot boil.
+[08:32] It's not really going to help you very
+[08:33] much. If anything, it's probably going
+[08:34] to hurt you.
+[08:35] >> That's well said. So, in any given
+[08:37] month, how many trades will an investor
+[08:39] typically make following your service?
+[08:41] >> Yeah. So, something I'll always tell
+[08:43] people when they come into the community
+[08:45] is working with retail traders, what I
+[08:47] found is that retail trades too much and
+[08:50] trades too big and that hurts how long
+[08:53] you can actually hold positions. So, we
+[08:55] share a trade a week on average. Yeah,
+[08:58] I'd say four to eight per month, but
+[09:00] that doesn't mean you have to take every
+[09:02] trade, right? We always say education
+[09:05] mitigates risk. Start slow. We want to
+[09:07] give people different exposure, but if
+[09:09] we do share three copper trades, you
+[09:11] don't need three copper trades. It's
+[09:14] really the same trade just expressed in
+[09:17] a little bit different way. So, you have
+[09:19] to be careful careful about that as
+[09:20] well.
+[09:20] >> So, most people think of options as a
+[09:22] way to speculate, but what about
+[09:24] protection? If we're heading into a a
+[09:25] volatile market, can options help
+[09:27] investors reduce downside risk without
+[09:29] selling everything?
+[09:30] >> So, the great thing about options is
+[09:32] options are a way to trade volatility.
+[09:35] Volatility is uncertainty. So, whenever
+[09:38] you're long options, you buy a call or
+[09:40] you buy a put, you're long volatility.
+[09:43] So, especially right now, market's doing
+[09:46] great. Long-term portfolios are
+[09:48] absolutely crushing it. We encourage
+[09:51] people in our community to look for
+[09:53] companies to buy puts because what ends
+[09:56] up happening in any kind of pullback, we
+[09:59] like to say everything has a beta of
+[10:01] one. So, not only do we want longs, when
+[10:04] the market goes down, option traders
+[10:06] perform even better, especially if
+[10:08] they're long volatility, because
+[10:10] volatility explodes higher. So,
+[10:13] absolutely a huge benefit of trading
+[10:16] options and trading it from the long
+[10:19] side, which is long premium, is it
+[10:20] protects you because if something really
+[10:23] bad happens, the market gets hit, that's
+[10:26] uncertainty spikes, and our options do
+[10:28] really well.
+[10:29] >> Before we let you go, I want to talk
+[10:31] about what's moving markets right now.
+[10:33] There's been a lot of disruptions in
+[10:35] regards to the Strait of Hormuz, yet oil
+[10:37] prices have actually moved lower. How do
+[10:40] option traders interpret situations like
+[10:42] this when the headlines and the market
+[10:44] reaction don't seem to match?
+[10:46] >> Well, geopolitical risk right now is
+[10:49] it's absolutely moving the market, and
+[10:51] it's been tough. It's been tricky with
+[10:53] oil moving over 100. You know, people
+[10:55] who have been in the markets for a
+[10:56] while, that's historically been pretty
+[10:58] bearish, but the market has reacted in a
+[11:01] different way.
+[11:02] What options can tell you is that
+[11:05] volatility is being sucked out of this
+[11:07] market right now. So, as much as there's
+[11:09] still geopolitical risk, the options
+[11:12] market is saying that there's not very
+[11:14] much risk going into the summer. The
+[11:16] option market right now is extremely,
+[11:19] extremely bullish. So, I would watch
+[11:21] your risk measures, and for us, watching
+[11:24] the VIX, we also closely watch the VVIX.
+[11:27] It's the VVIX,
+[11:29] and that's the volatility of the VIX and
+[11:32] it's a really great way to anticipate
+[11:36] just risk coming into the market. Right
+[11:38] now it's trading at 86. If it gets above
+[11:40] 100, that's when you really, really want
+[11:43] to be careful and you can start hedging
+[11:46] your holdings or taking a little bit of
+[11:48] money off the table. Or as Louie
+[11:50] suggested earlier, selling some of some
+[11:52] upside calls, taking some income on
+[11:55] those longer-term holdings.
+[11:56] >> So, Jonathan, the the June is when
+[11:58] Russell likes to rebalance their indices
+[12:00] all this year. I think they'll do it in
+[12:01] June and and November. But the annual
+[12:05] Russell rebalance as typically
+[12:07] historically happened in June is a big
+[12:09] deal. And it really does affect a lot of
+[12:11] small caps. I know Russell likes it leak
+[12:13] out the information slowly week by week.
+[12:15] But I'm already thinking about the
+[12:17] stocks I'm going to get added to the the
+[12:19] 1,000 2,000 indices. Is there any way to
+[12:22] play that with options? You know, there
+[12:24] this does create institutional buying
+[12:26] pressure on all those stocks being added
+[12:27] to the indices.
+[12:28] >> I get very excited when I hear when I
+[12:30] hear good ideas and and I sometimes
+[12:32] curse on my live show and I always I try
+[12:34] not to, but I feel like doing that now
+[12:36] because it's a phenomenal opportunity.
+[12:38] And the opportunity is for those who can
+[12:42] anticipate, like yourself, which names
+[12:45] are going to get into the Russell, who
+[12:49] understand that information gets leaked
+[12:51] and that's edge. So, that is a
+[12:54] phenomenal opportunity. It makes me want
+[12:56] to build a tool with you so we can know
+[13:00] the rebalancing, we can know a
+[13:02] probability of these names going through
+[13:04] and then how much buying and what their
+[13:06] expected price would be and then we
+[13:08] could back into an options price. And
+[13:10] with AI, things are so much easier to
+[13:14] build that an idea like this, I'm going
+[13:16] to reach out to Louie after the show and
+[13:18] this is something that we should
+[13:19] definitely try it out try to build a
+[13:21] little widget for going into the
+[13:22] rebalancing. It's a no-brainer. If you
+[13:24] could figure out those small caps, you
+[13:26] can make 200, 300% buying out of the
+[13:29] money options in days.
+[13:31] >> Yeah. Yeah, just so everybody knows,
+[13:32] we'll be talking a little bit more about
+[13:33] this in future episodes, but uh
+[13:36] essentially Russell has a preliminary
+[13:37] list they announce on Fridays. When they
+[13:40] do that a few weeks in a row, and then
+[13:42] they have the final rebalancing towards
+[13:44] end of month, and uh so they're refining
+[13:47] their list as the month goes. We know if
+[13:49] the stock's gone up a lot and it has a
+[13:51] higher market cap, it's probably going
+[13:53] to get added to to Russell 1000, and
+[13:56] then if it's a micro cap that's gone up,
+[13:58] it'll probably get added to the Russell
+[13:59] 2000. So, it's exciting. It's a it's a
+[14:02] it's big movers for small cap in June,
+[14:04] I'll tell you.
+[14:05] >> Just to jump in there, that is a a
+[14:07] phenomenal idea, and that's the
+[14:09] difference between a professional
+[14:11] investor and a retail trader, being able
+[14:14] to anticipate that that those stocks are
+[14:16] going to jump, and then being able to
+[14:18] amplify your return using options is a
+[14:21] really, really clever idea.
+[14:23] >> Thanks.
+[14:24] >> Shifting gears, Ferrari shares took a
+[14:25] hit after announcing plans for a
+[14:27] high-end electric vehicle. I know that
+[14:30] my dad might have some opinions on its
+[14:32] stylistic choice, which I would also be
+[14:35] curious to hear your thoughts on that.
+[14:36] But, is this a overreaction creating an
+[14:39] opportunity, or does the options market
+[14:41] seem more downside ahead?
+[14:43] >> I actually just looked at at Ferrari
+[14:45] before we hopped on, and I was surprised
+[14:48] at how much volatility is priced into
+[14:50] that stock. I feel like with the release
+[14:53] of the car and with the discussion of it
+[14:55] online, that there is added premium to
+[14:58] the stock, and I think there's
+[14:59] definitely more downside risk, but I
+[15:02] also think that it's going to be
+[15:03] volatile because it's being discussed a
+[15:06] lot more than normally would.
+[15:07] >> I would add that Ferrari has ridiculous
+[15:09] operating margins. I think 38% on a lot
+[15:13] of its cars, and it's hard to sustain
+[15:15] those kind of margins, and
+[15:17] the European Union's making them change
+[15:19] how cars are built. They're forcing them
+[15:21] to be hybrids, for emissions. They have
+[15:24] to put particulate filters on the
+[15:26] exhaust, so now you the Ferraris are a
+[15:28] lot quieter cuz there's no noise
+[15:30] regulations. And and of course they want
+[15:32] them all EV by 2035. And so I can I feel
+[15:37] sorry for Ferrari. I think
+[15:39] the EU's forced them to do this. And if
+[15:42] I was running Ferrari, I would just pick
+[15:44] it up and move it to America and build
+[15:46] the kind of cars you without all these
+[15:48] rules, okay? So you can make them loud
+[15:50] and obnoxious and and get everybody
+[15:52] excited. And then of course when you
+[15:53] export them back to Europe, you'll have
+[15:55] to cram the exhaust with all the filters
+[15:57] to make them quiet again. But uh
+[15:59] you know, this is a this is an example
+[16:01] how the EU is systematically destroying
+[16:04] the auto industry in Europe. And you
+[16:06] know, Alfa Romeo's probably going to go
+[16:08] under, so is Maserati. Obviously Jaguar,
+[16:11] which is
+[16:12] the Brits are following the same rules
+[16:13] as the EU, might go under soon. And
+[16:16] you know, just pick it up and move it to
+[16:18] America. You know, I I I know how our
+[16:20] lightning speed our commerce secretary
+[16:21] has actually encouraged Mercedes to do
+[16:23] that. There's a guy at Porsche who
+[16:25] designs all the GT cars and he actually
+[16:28] was complimenting Corvette because they
+[16:31] don't have to follow the rules he has to
+[16:33] follow. So
+[16:35] So it's cuz you know, you
+[16:37] a Corvette in Europe is quiet. A
+[16:39] Corvette here is loud and obnoxious. And
+[16:41] so you know, it's
+[16:43] hopefully that they can push back on the
+[16:45] on the rules. But I feel sorry for
+[16:47] Ferrari. That said, it's I guess it's
+[16:49] the Apple EV. Remember Apple was
+[16:51] building an EV and they have the Apple
+[16:53] designer for So that
+[16:55] finally exists via Ferrari.
+[16:58] >> They were working on that for a while.
+[17:00] Yeah. Who knows how much money they they
+[17:01] pummeled into these businesses before
+[17:03] before they close them
+[17:04] >> Oh, I know. I know. And between the
+[17:05] Apple premium and the Ferrari premium,
+[17:07] it now costs $650,000. So there you go.
+[17:10] That's a problem. I mean, obviously if
+[17:11] it sold for $100,000, it would probably
+[17:14] be a bigger hit. But anyway, that's my
+[17:16] automotive commentary.
+[17:17] >> Well, before we wrap up, Jonathan,
+[17:19] what's one thing you wish more investors
+[17:21] understood about options trading?
+[17:23] >> Just going back to what I said earlier
+[17:25] that that options are just stock.
+[17:27] Options are just a derivative of stock.
+[17:30] It's a phenomenal way to get exposure to
+[17:32] stock with fixed risk. You could also,
+[17:35] using that example earlier, stocks at
+[17:37] 10, buy the $12 calls, stock goes
+[17:39] higher, exercise your calls, and now
+[17:41] you're long the stock from 12. So,
+[17:44] they're not intimidating. They're
+[17:45] they're they're just literally providing
+[17:48] you more options. It's like you know, I
+[17:50] always feel it's like going to play
+[17:52] craps, and you can only do one bet if
+[17:54] you're just playing stocks. But, they
+[17:55] have all these other bets that you can
+[17:57] do, and that's the options market. Now,
+[18:00] to the uneducated, they're probably best
+[18:02] just playing that one bet, but to the
+[18:05] educated, that's where you can really
+[18:07] get edge. Going back to anticipating the
+[18:10] Russell type trade, those stocks are
+[18:12] absolutely going to going to jump. So,
+[18:14] that's my my one takeaway, options are
+[18:16] just like stock.
+[18:17] >> Okay, Jonathan,
+[18:18] how do people follow you? How do how do
+[18:20] they get started? Um, why don't you give
+[18:22] us a a tour of your service?
+[18:23] >> No, that's that's awesome. Well, I'm
+[18:25] live every single day. I have a daily
+[18:28] live show. It's Masters in Trading Live.
+[18:31] It's on our YouTube channel. Uh, on
+[18:33] YouTube, you could just search Jonathan
+[18:35] Rose. The YouTube channel is called JR
+[18:37] Option Trades, but Jonathan Rose will
+[18:39] get you there, and we're live every
+[18:41] single day the market's open, 11:00 a.m.
+[18:43] Eastern time. And I have a a little deal
+[18:46] with the community. Whenever we get over
+[18:48] 150 likes, I always share a trade. So,
+[18:52] once I said that, I had to be careful
+[18:53] because now we get over 200 likes, and
+[18:56] we've shared, I think, 22 straight shows
+[18:59] of sharing a trade. So, come come check
+[19:01] out the live show, and check out a
+[19:03] trade. Do it on paper, maybe not jump in
+[19:06] the market right away, but hopefully,
+[19:08] uh, you'll have some fun.
+[19:09] >> Perfect. Well, thank you, Jonathan, so
+[19:10] much for joining us today. We really
+[19:12] appreciate it.
+[19:13] >> Thanks for having me.
+[19:14] >> We're going to be dropping Jonathan's
+[19:16] newsletter in the description below, so
+[19:17] make sure to check that out. And if you
+[19:19] enjoyed today's conversation, please
+[19:21] give this video a like and subscribe if
+[19:23] you haven't already. We're breaking down
+[19:25] the biggest opportunities and risks in
+[19:27] today's markets, so stay tuned for our
+[19:29] Wednesday's update. But thank you so
+[19:31] much for watching, and we'll see you in
+[19:32] our next video.

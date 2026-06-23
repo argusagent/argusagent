@@ -7,9 +7,18 @@ Type: short
 Duration: 0:23 (23s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 10
+Transcript characters: 337
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Naval Market Buzz episode 35 is out now.
+[00:03] In this uh episode, we talk a lot about
+[00:06] there's a lot of economic evidence
+[00:07] coming out that's going to cause the Fed
+[00:09] to cut rates in May. Furthermore, we
+[00:12] talk about how all the negative economic
+[00:15] headlines
+[00:16] uh and magazine covers are going to
+[00:19] basically trigger a huge stock market
+[00:20] rally. Click on our channel

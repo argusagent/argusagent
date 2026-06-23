@@ -7,9 +7,803 @@ Type: video
 Duration: 28:48 (1728s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 795
+Transcript characters: 26968
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Happy Superbowl Sunday. Today, we are
+[00:02] joined with one of the most trusted
+[00:04] voices on the Federal Reserve and the
+[00:06] global economy. Economist Ed Yardeni,
+[00:09] welcome back to Navellier Market Buzz.
+[00:14] >> [music]
+[00:21] [music]
+[00:25] >> Ed, it's great to have you with us. Few
+[00:27] people understand the Federal Reserve
+[00:29] and the global economy as well as you do
+[00:31] and we're looking forward to your
+[00:33] insights. Thank you. And I should add,
+[00:35] Ed offered to do the job of the entire
+[00:37] Federal Open Market Committee for half
+[00:39] the price. And that would save taxpayers
+[00:42] a lot of money, especially from that big
+[00:44] Fed building that has the cost overruns
+[00:46] in DC.
+[00:47] >> I would I would do it from home so that
+[00:48] no no reason for renovations.
+[00:50] Outstanding. So, Ed, Kevin Warsh has
+[00:53] been a sharp critic of quantitative
+[00:55] easing and wants a smaller Fed. Do you
+[00:57] expect a smooth Senate confirmation or
+[01:00] real pushback?
+[01:01] >> I think he'll get confirmed. He's a
+[01:02] solid citizen. He's he's got a great
+[01:04] resume. I think there's the
+[01:05] administration's going to have to back
+[01:06] off on the judicial attack on Powell and
+[01:09] I think that'll happen. I think it'll
+[01:11] Warsh will be uh
+[01:13] appointed rather quickly. So, is Warsh
+[01:16] going to push for real-time economic
+[01:18] modeling at the Fed like Christopher
+[01:20] Waller's excellent work on the labor
+[01:22] market? Because it seems like the Fed's
+[01:24] always behind the curve and I think I
+[01:26] think Steve Moore's has been calling for
+[01:27] better economic modeling, too. Well, I I
+[01:30] don't know that models are going to get
+[01:31] us ahead of the curve any more than
+[01:33] humans will. I mean, the reality is we
+[01:36] all respond to recent economic and
+[01:39] political domestic political and
+[01:40] geopolitical events and the models
+[01:43] probably do that as well and you know,
+[01:44] the models are pretty rigid. I mean,
+[01:46] once you kind of model it, the only way
+[01:48] you're you're going to know if it's
+[01:50] close to reality is if it gets it right
+[01:52] and more often than not, it's it's not
+[01:54] going to get it right and so then you're
+[01:55] going to go back and
+[01:57] you know rejigger the equations and
+[02:00] suddenly it'll work for another month or
+[02:01] two and then it won't. So I don't have a
+[02:04] problem with the way things are actually
+[02:06] being done now. It's it's run by humans.
+[02:08] It's not perfect and I'm not sure that a
+[02:10] model or a rule-based Fed is going to be
+[02:14] any better. You know, I should add that
+[02:16] I used to work for the Federal Home Loan
+[02:18] Bank back when um
+[02:21] Volcker was the chairman and he was
+[02:23] doing all that monetization. I still
+[02:25] remember, you know, going from 8 and 1/2
+[02:27] to 20 to
+[02:28] the
+[02:29] the back all the way down in 1 year.
+[02:31] Yeah.
+[02:33] I think they were trying to let the the
+[02:35] models run everything and despite what
+[02:37] Rieman called for
+[02:39] that one didn't work. Early on in my
+[02:41] career as I developed a distaste for
+[02:43] econometric models uh
+[02:45] I I don't I don't think they're very
+[02:47] useful. Well, that helps a lot. So if
+[02:49] Warsh takes over, do you expect Jerome
+[02:51] Powell to stay on the FOMC? And if so,
+[02:53] does that force Steven Mnuchin out?
+[02:55] Well,
+[02:56] I think that Powell probably deserves a
+[03:00] a break from all this and should spend
+[03:02] more time with his family and in the sun
+[03:05] on vacation. I suspect
+[03:07] he'll leave. Well, that's going to be
+[03:09] exciting for President Trump then
+[03:10] because Steven Mnuchin wants 150 basis
+[03:13] points in cuts. Well, yeah, but as you
+[03:15] know, there's 12
+[03:17] voting members on the FOMC and Warsh is
+[03:20] just going to be one of them.
+[03:22] Yeah. And I don't know that Mnuchin
+[03:23] wants to
+[03:24] hang around at the Fed
+[03:26] much longer. He already resigned from
+[03:29] the Council of Economic Advisers and I
+[03:31] don't know my hunch is
+[03:33] Washington's probably not a happy place
+[03:35] for him. He probably wants to go back to
+[03:38] to New York in the financial markets. By
+[03:39] the way, is your is your analyst still
+[03:41] on the Council of Economic Advisers?
+[03:43] Yeah.
+[03:44] Eric Wallerstein worked for me for about
+[03:46] a year and
+[03:48] this last May in 2024 he got a a great
+[03:52] offer to work for Moran at the Council
+[03:54] of Economic Advisers and when Moran went
+[03:57] over to the Fed Eric went along with him
+[04:01] and all of a sudden he's sitting in the
+[04:03] FOMC meetings.
+[04:05] He
+[04:05] said quite quite a career for
+[04:08] a fellow who I think last I remember was
+[04:09] about 27 years old.
+[04:13] Very impressive and I taught him
+[04:15] everything I know in a year or so.
+[04:18] I I hope that rubs off on our
+[04:20] government. So that's why you're not Fed
+[04:22] chairman because he's going to be. He's
+[04:24] going to be it absolutely. All right.
+[04:26] You know, rents have been falling for
+[04:27] the last several months is the shelter
+[04:29] inflation in the CPI and the PCE
+[04:32] has been a sore spot.
+[04:34] Is it going to cool off so inflation
+[04:36] finally falls? Well, the the the real
+[04:38] hot area of inflation
+[04:41] over the past few years has been durable
+[04:43] goods inflation and during the pandemic
+[04:45] we had the the two-month lockdown when
+[04:48] it was lifted everybody had cabin fever
+[04:50] and to relieve that everybody wanted to
+[04:52] go shopping. They couldn't really buy
+[04:54] much in the way of services because of
+[04:55] social distancing restrictions but they
+[04:58] could buy goods and so we went on a
+[05:00] buying binge for goods particularly
+[05:01] durable goods and at the same time the
+[05:03] pandemic caused the supply chain
+[05:05] disruptions. So put it all together we
+[05:07] had this huge increase in durable goods
+[05:09] inflation whether you look at the CPI or
+[05:12] other measures of consumer prices.
+[05:14] That's where the real heat was. Also
+[05:17] clearly other areas like like rent as
+[05:19] you mentioned heated up but not like
+[05:21] durable goods and I think inflation
+[05:23] would have been down to 2% by now if it
+[05:25] hadn't been for the tariffs of last year
+[05:27] and again you just have to look at the
+[05:29] durable goods inflation rate. It had
+[05:32] been back to negative which is what
+[05:34] usually we have deflation in durable
+[05:36] goods before the pandemic anyways and we
+[05:39] were kind of back in that territory
+[05:41] until uh
+[05:42] about when the the tariffs were
+[05:44] introduced and that led to durable goods
+[05:46] inflation being high again. So, I think
+[05:48] we're on on track here to get down to 2%
+[05:50] this year. I'm I'm not particularly
+[05:52] concerned about inflation making a
+[05:53] comeback. Well, that's good. Well, at
+[05:55] least Pepsi cut the price of Doritos for
+[05:57] the Super Bowl. So, yeah. So, at Davos,
+[06:00] the ECB President Christine Lagarde
+[06:02] reportedly walked out during Howard
+[06:04] Lutnick's dinner speech. Was that
+[06:06] symbolic or a sign of a strained US-EU
+[06:08] relations? Well, look, I think the
+[06:11] geopolitical landscape has changed
+[06:13] pretty dramatically since uh Trump has
+[06:16] come into office. Uh the US is being
+[06:18] much more assertive about its uh
+[06:19] self-interest, and they seem to
+[06:21] sometimes collide uh maybe even often
+[06:23] collide with what our allies have been
+[06:26] doing. But, it's still Trump's style.
+[06:28] It's all a matter of the art of the deal
+[06:29] and how Trump negotiates. I think that
+[06:33] uh the the Europeans have been called
+[06:35] out properly by American officials on
+[06:38] some of the areas where they need to
+[06:40] make some progress, such as spending
+[06:42] more on defense, having a more credible
+[06:45] military, and deregulating their
+[06:47] economy, creating a an environment where
+[06:51] there is venture capital that wants to
+[06:53] uh finance um techno- technological
+[06:56] innovation. So, there's room for
+[06:57] improvement in Europe, but, you know,
+[06:59] there's room for improvement here as
+[07:00] well. So, it's it's okay for allies to
+[07:03] uh to have little shouting matches every
+[07:04] now and then, but think we're think
+[07:06] we're still very good allies. We'll
+[07:07] we'll come to each other's defense if
+[07:09] necessary. I I have to add I personally
+[07:12] was amused when Howard Lutnick asked
+[07:14] Mercedes to move to America.
+[07:16] Uh you know, they have the huge
+[07:17] operations in Alabama, and uh they
+[07:19] politely wanted to stick to their German
+[07:21] roots. But, let's face it, they have
+[07:23] that plant in Alabama cuz, you know,
+[07:25] they can make them a lot cheaper. Our
+[07:27] energy's a fourth of their cost, and,
+[07:28] you know, I I think we even offered to
+[07:30] give their workers visas, you know, in
+[07:32] case we didn't have enough. But, it's
+[07:35] just fascinating to watch what's going
+[07:37] on. So, let's talk about China. You
+[07:39] know, they have this hideous deflation
+[07:41] problem over there, and um obviously a
+[07:44] lot of it's caused by their demographic
+[07:46] decline, but it looks like that
+[07:48] demographic problem that China has is
+[07:51] obviously now enveloped in Britain and
+[07:54] France and the bond vigilantes are seem
+[07:57] to be really focused on Japan, Britain
+[07:58] and and France. So I assume they're
+[08:00] going to have to do quantitative easing.
+[08:02] Do you think we're going to import
+[08:04] any of this deflation and do you do you
+[08:05] think the quantitative easing's going to
+[08:07] spread which would weaken those
+[08:09] currencies? Well, look, the big problem
+[08:11] is China's is exporting deflation. They
+[08:14] have a lot of excess production that
+[08:16] they are dumping into global markets. So
+[08:19] all these countries that are reaching
+[08:21] out to work with China as sort of a an
+[08:24] offset to the less amicable relations
+[08:26] they're having with the United States
+[08:27] under Trump right now. All that I think
+[08:30] begs the problem which is China's
+[08:33] consumers aren't very good consumers and
+[08:35] China's workers are very good producers
+[08:37] and they've got automation and they've
+[08:39] got great supply chains and that's
+[08:41] creating deflation. So China is a source
+[08:43] of deflation for the global economy, not
+[08:45] just for the
+[08:47] for the US, but all in all, I think that
+[08:50] the outlook is not for deflation in the
+[08:52] United States, but I think we'll we'll
+[08:54] see inflation stabilizing around 2%.
+[08:56] >> Well, that's good news. You know, I
+[08:58] guess Canada just approved the BYD cars
+[09:00] coming into Canada.
+[09:02] Yeah. I think there's a limit limit of
+[09:04] what 40,000 or something like that on
+[09:06] those.
+[09:06] >> Yeah. Yeah, and they're already in in
+[09:08] >> the whole the whole the whole deal was
+[09:10] kind of an odd one-off deal. I think
+[09:12] Canada can export more
+[09:14] as a canola oil or Yeah. more more more
+[09:18] oil and we and they can buy more cars,
+[09:20] so it's it's it's it's not a grand slam
+[09:23] a trade deal. I mean India's so far on a
+[09:25] global basis have been getting the the
+[09:26] big deals with Europe with the EU and
+[09:28] with the United States and so India, I
+[09:31] think is a contender for being a real
+[09:34] alternative to to China. Yeah, the the
+[09:37] India trade deal is a big deal. I It's
+[09:38] going to be I'm shocked that they they
+[09:41] promised not to buy oil from Russia cuz
+[09:42] they're Yeah, that was a stunner. That
+[09:44] was totally amazing. They have all the
+[09:46] refineries set up for that heavy sour
+[09:49] crude and uh we'll see what I guess
+[09:51] they'll go to the Middle East. I don't
+[09:52] know where else they're going to go or
+[09:53] or to China.
+[09:55] President said, you know, we we are an
+[09:56] exporter of oil. So uh some of it may be
+[09:58] from the US and uh some of it from
+[10:00] Venezuela. Yep. Yep. Yep. So, Ed, you
+[10:03] called gold at $5,000 early. Do you
+[10:06] think $10,000 by the end of the decade
+[10:08] is possible? Yeah, I I have to say I'm
+[10:10] not a an expert on gold. I I've never
+[10:13] had an opinion on gold un- until uh 2024
+[10:17] when it rose above 2,000. I had an
+[10:20] opinion that uh it just broke out to a
+[10:22] new record high and I could explain it
+[10:24] with central banks buying more gold
+[10:26] because of Russia invading Ukraine and
+[10:28] then we froze the foreign exchange
+[10:30] reserves of Russia. So did the
+[10:32] Europeans. And so
+[10:34] uh several central banks uh said, "Well,
+[10:36] in that case, let's let's buy gold." Th-
+[10:39] That That was an easy call that we were
+[10:41] in a bull market on on gold. And then
+[10:43] when it got to 3,000 at the beginning of
+[10:45] 2025, I looked at the charts, which is
+[10:48] kind of the only tool I had. Said, "You
+[10:50] know, this could get to 4,000 uh by the
+[10:52] end of 2025." Well, it got to 4,500 like
+[10:55] uh in a jiffy. That's So then I raised
+[10:57] my target uh for this year from 5,000 to
+[11:00] 6,000. And I'm going to stick with it.
+[11:02] Gold's gotten a lot more volatile, but
+[11:04] uh I'm not in the camp that thinks that
+[11:07] uh
+[11:07] uh you know, gold has topped out here. I
+[11:09] think it's going to go still still
+[11:11] higher. And I've got 10,000 uh uh
+[11:13] $10,000 per ounce by the end of the
+[11:15] decade, by the end of 2029. I I I think
+[11:18] we we kind of share that uh that
+[11:20] opinion. Yeah, I said that on uh Maria's
+[11:22] show on on So, uh it better come true,
+[11:25] Ed.
+[11:26] Well, well, it's uh I do have I I do
+[11:29] have one chart that I I'm kind of
+[11:31] relying on and that is if you put the
+[11:33] the price of gold on the same chart as
+[11:35] the S&P 500 using the same scale. So,
+[11:38] you know, gold is now just south of
+[11:40] $5,000 uh an ounce uh and the stock
+[11:43] market is just south of $7,000. So, put
+[11:46] them on the same scale on the same chart
+[11:48] with a ratio scale and you see that
+[11:50] they're inversely correlated, which
+[11:51] makes gold a way to uh diversify your
+[11:54] portfolio. But, they have the same trend
+[11:56] and so I do think that the S&P 500 is
+[12:00] going to get to 10,000 by the end of the
+[12:02] decade and that's based on my belief
+[12:04] that we're not going to have a recession
+[12:05] and that earnings can get up to $500 a
+[12:07] share by the beginning of the next
+[12:09] decade uh 2030s and that the market will
+[12:12] be discounting that in of $500 a share
+[12:15] at times, let's say a multiple of 20,
+[12:17] which is high, but it's certainly
+[12:19] plausible given where we are now. Uh
+[12:21] that would get you to 10,000. And if the
+[12:23] S&P 500 gets to 10,000, I think uh
+[12:26] there'll be a lot of people nervous
+[12:27] about how much money they're making and
+[12:29] there'll be a diversification into into
+[12:32] gold. Yeah, yeah.
+[12:33] I just hope all the crypto people just
+[12:35] shift to gold. I don't know why they're
+[12:38] tormenting themselves right now with
+[12:39] crypto.
+[12:40] >> well well they said that Bitcoin is
+[12:42] digital gold, but gold is physical
+[12:45] Bitcoin and uh yeah, I've never been a
+[12:48] big fan of Bitcoin, but you but you
+[12:50] couldn't say that too loud too often cuz
+[12:52] they get really mad at you and say
+[12:54] you're an idiot and didn't know anything
+[12:56] about how things really worked. Looks
+[12:58] Looks like the old fashioned way of
+[13:00] looking at assets might actually be
+[13:02] working here. Yeah, yeah. Well, you
+[13:04] know, we've talked about how some of the
+[13:07] crypto ETFs aren't pricing are are
+[13:10] actually falling faster than the price
+[13:12] of the
+[13:13] cryptocurrencies. There seems to be um
+[13:16] big spreads on those ETFs and that's not
+[13:18] helping confidence. Yeah.
+[13:21] Even though, you know, the SEC chair is
+[13:23] trying to
+[13:24] um
+[13:25] you know, get everything going and so
+[13:28] all the crypto tradings in America,
+[13:30] well, it's it's compound complex like a
+[13:33] lot of things. Your observation that
+[13:35] gold and
+[13:36] the S&P are moving in the in the same
+[13:38] channel is is
+[13:39] very important.
+[13:41] You know, I can tell you if just
+[13:42] internally it
+[13:44] if you have gold with your tech stocks,
+[13:46] so one things one zags, it does cut the
+[13:49] intraday volatility even though they're
+[13:50] moving in the same channel. So, there is
+[13:52] a a place for gold in the portfolios. As
+[13:54] long as all that process. I'm actually
+[13:57] out in Nevada now and you know, the
+[13:59] mining here is just unbelievable. You
+[14:01] know, they they have this heap leach
+[14:02] method just to move mountains to get how
+[14:04] many ounces of gold and now they have
+[14:06] new technologies or
+[14:08] they're they're adopting some of the
+[14:09] fracking technologies. So, it's going to
+[14:12] be interesting uh how much gold we can
+[14:14] mine and and how much we export. So,
+[14:17] that leads me to the next question. So,
+[14:19] we have a situation where a lot of our
+[14:22] GDP growth seems to be coming from the
+[14:25] trade deficit that was for a while
+[14:26] shrinking, but with
+[14:28] all the onshoring and the
+[14:30] and obviously our energy exports are are
+[14:32] rising. Now that natural gas prices are
+[14:34] so high and
+[14:35] you know, we we're the
+[14:37] Saudi Arabia natural gas and we export a
+[14:39] lot of crude oil and refined product.
+[14:41] Are we going to be able to actually
+[14:43] close the trade deficit?
+[14:44] >> Kind of doubt that anytime soon.
+[14:47] I mean, the the president wants to go in
+[14:49] that direction, but I'm not really
+[14:52] particularly troubled by the trade
+[14:53] deficit as long as it's balanced as as
+[14:56] it always is by capital inflows, but in
+[14:58] a way that doesn't depress the dollar.
+[15:00] I'm not bearish on the dollar. I I'm not
+[15:03] super bullish, but uh
+[15:04] I think I think the dollar's going to
+[15:06] hold its own, but
+[15:08] I I don't see any time soon that the
+[15:10] trade deficit's going to go away, but
+[15:13] the president's doing his best to make
+[15:15] make it
+[15:16] If housing rebounds, can the US sustain
+[15:18] a 5% GDP growth and is a brief move to
+[15:22] 6% realistic? Well, I think a much
+[15:25] obviously will depend on productivity
+[15:26] and productivity last year was a great
+[15:28] year for productivity. It looks like it
+[15:30] increased by
+[15:32] 2 and 1/2 to 3 to to to 3%. May maybe
+[15:35] even more than that. We'll see how the
+[15:36] fourth quarter pans out, but it it does
+[15:39] look as though the technologies we have
+[15:41] including AI, but not only AI are
+[15:44] increasing productivity. I think every
+[15:45] company over the past couple of years
+[15:48] has basically decided to
+[15:50] freeze their head count, their their
+[15:52] payrolls while they assess how AI can
+[15:55] make a difference to you or their
+[15:56] operations. And I think they're going to
+[15:58] find that it it you know, it's kind of
+[16:01] hit and miss. Some areas it can really
+[16:03] be helpful, other areas it's not ready
+[16:04] for prime time, but everybody's looked
+[16:06] at their operation top to bottom and I
+[16:09] think that's
+[16:10] that's a good thing to do every now and
+[16:12] then if you want to increase
+[16:13] productivity. So, I think productivity
+[16:15] growth could be 3% to maybe 3 and 1/2%
+[16:21] this year and the next couple of years.
+[16:23] I've been calling it the roaring 20s
+[16:24] based on the idea that productivity
+[16:26] would in fact increase because
+[16:28] technological innovations would allow us
+[16:30] to augment the productivity of workers
+[16:33] and workers with the skills we need are
+[16:35] in short supply. So, we need the the
+[16:38] productivity tools to make our our
+[16:40] workers more more efficient and I think
+[16:42] it's it's starting to happen. So,
+[16:44] consumer confidence just hit a 12-year
+[16:46] low according to Conference Board and
+[16:48] according to Challenger um
+[16:50] the January layoffs, corporate layoffs
+[16:52] were the highest since 2009.
+[16:55] Is for a January? Yes. What's the
+[16:57] significance of January? I mean, I know
+[16:59] there's some the Labor Department has
+[17:00] seasonal adjustments, but the Challenger
+[17:02] report
+[17:03] >> No, it's not. Yeah.
+[17:04] That that's they're a temp they're a
+[17:07] placement firm. So, I think those were
+[17:09] real layoffs. Or do you think that there
+[17:11] was a seasonal distortion there? I think
+[17:13] if you look at the chart, it's just been
+[17:14] very choppy and volatile. Um I mean, I I
+[17:17] tend to focus more on initial
+[17:18] unemployment claims, which are available
+[17:20] weekly. They give you a much broader
+[17:22] sense of whether there's widespread
+[17:24] layoffs going on.
+[17:26] Uh you know, these are announcements,
+[17:28] and I think they're kind of global
+[17:29] announcements. They're not just uh
+[17:30] limited to the US. And we have had some
+[17:33] rather major global firms, like Amazon,
+[17:36] announce that they're they were cut
+[17:38] reducing their head count. But, I think
+[17:41] the labor market's kind of
+[17:43] quiet or stable.
+[17:45] You know, we're not seeing a lot of
+[17:47] layoffs, and we're not seeing a lot of
+[17:49] hirings. People aren't quitting their
+[17:51] jobs. You know, if a lot of people were
+[17:52] quitting their jobs, there would be more
+[17:54] job openings. So, it's it's actually
+[17:56] kind of relatively calm. We're not
+[17:58] hiring a lot of people on a net basis.
+[18:01] And yet, the economy is booming. All the
+[18:03] more reason, I mean, clearly that
+[18:05] implies that productivity is doing
+[18:06] extremely well. So, do you think
+[18:08] consumer confidence can improve? It's
+[18:10] you know, it's a big part of our
+[18:11] economy.
+[18:12] I don't know if some of it's
+[18:13] weather-related, cuz you know, a lot of
+[18:15] people in the United States are
+[18:16] popsicles right now. I think I think a
+[18:18] lot of it's actually related to
+[18:19] demography. Young people
+[18:21] are not happy. It's it's hard for them
+[18:23] to find a job. Many of them are coming
+[18:25] out of
+[18:27] colleges with degrees that with the same
+[18:30] kind of degrees, business,
+[18:31] communications, marketing. They're kind
+[18:33] of competing with each other, and uh
+[18:36] and they they don't have the kind of
+[18:38] specific skills that are needed in the
+[18:41] labor market right now. There's a
+[18:43] relatively high unemployment rate for
+[18:45] people coming out of college. And then,
+[18:47] they're also saddled with student loans.
+[18:49] But, I think there's a lot of
+[18:51] intergenerational transfers of income
+[18:53] going on here. I think a lot of the baby
+[18:55] boomers have done extremely well.
+[18:58] Collectively, they're sitting on $85
+[18:59] trillion
+[19:01] of net worth. And I think they're
+[19:02] helping their younger adult children and
+[19:04] grandchildren financially. I think
+[19:07] that's a a big part of why we're seeing
+[19:09] such a depressed consumer when you look
+[19:12] at the surveys, but when you actually
+[19:14] look at consumers, people are actually
+[19:16] spending. I've always said that we
+[19:18] Americans are amazing. When we're happy,
+[19:20] we spend money. When we're depressed, we
+[19:21] spend even more. And maybe some of the
+[19:23] younger folks who are getting some
+[19:26] significant financial assistance from
+[19:28] their their parents. I see that
+[19:30] personally. I see that going on with
+[19:32] with my friends. I've seen some data
+[19:35] like that that uh confirms that's that's
+[19:38] what's happening. But, you know, my my
+[19:39] attitude towards data that doesn't
+[19:41] support my story is it's not good data.
+[19:44] Ignore it. It'll be revised to show I
+[19:46] was right after all. But, seriously, I
+[19:48] mean, a lot of these surveys have been
+[19:50] pretty useless. I mean, the ISM
+[19:53] manufacturing survey has been too
+[19:55] pessimistic. Consumer sentiment uh
+[19:57] survey has been too pessimistic. Uh
+[19:59] the economy has done a lot better than
+[20:01] you would think based on the surveys.
+[20:03] Well, that's why we have to everybody
+[20:05] has to subscribe to you to know the
+[20:07] truth. Well, thank you so much, Ed, for
+[20:09] being here. I'll now ask Louie about
+[20:10] some key upcoming earnings. Let's start
+[20:12] out with AEM. How is gold pricing
+[20:15] shaping expectations this quarter? Well,
+[20:17] I've owned this gold stock for a long
+[20:19] time. This is one of 20 gold stocks I
+[20:20] own. And gold prices are still very
+[20:22] high. In fact, as we record this today,
+[20:25] you know, gold's going up, silver's
+[20:26] going down. So, gold is is a much better
+[20:29] investment than silver, in my opinion.
+[20:31] Silver did go up on demand, but it's
+[20:33] just inherently volatile. I think a lot
+[20:35] of the options speculating silver kind
+[20:37] of
+[20:38] caused a lot of its gyrations. We call
+[20:40] that the tail wagging the dog, cuz a lot
+[20:42] of people were were in leverage options
+[20:44] or or ETFs.
+[20:46] AEM's sales are supposed to be up 55.1%.
+[20:50] Their earnings are supposed to be up
+[20:51] 109.8%.
+[20:54] Uh we do have positive analyst
+[20:56] revisions. Uh
+[20:58] We've had analyst revisions the last 3
+[20:59] months, and this company has a very good
+[21:01] earnings surprise history. So, uh this
+[21:03] stock should rally on uh
+[21:05] on its earnings. Now, for AppLovin, what
+[21:08] should investors watch in ad demand and
+[21:10] monetization? Well, there are two AI
+[21:12] appliers out there at
+[21:14] AppLovin, APP of course, and then
+[21:17] Palantir. And you know, they both are
+[21:19] just spectacular companies and Palantir
+[21:21] already beat, but AppLovin sales are
+[21:23] supposed to be up 17.4%.
+[21:26] Their earnings are supposed to be up uh
+[21:28] uh
+[21:28] uh 48.1%.
+[21:30] Uh we do have uh slightly positive
+[21:33] analyst revisions to the upside and I
+[21:35] own this stock. It's in my portfolios.
+[21:38] Uh I'm expecting great things. The stock
+[21:39] has a good surprise history. Last
+[21:41] quarter, the surprise is only 2.6. Uh I
+[21:44] would like to see a much bigger surprise
+[21:46] and of course good guidance. Um
+[21:48] uh but you know, uh from what I see,
+[21:51] it's it's going to blow it out of the
+[21:52] park.
+[21:53] >> Now, for Ford, what are the key drivers
+[21:54] to watch in this earnings report?
+[21:57] >> Well, Ford their sales are supposed to
+[21:59] be down 7%.
+[22:02] Their earnings are supposed to be down
+[22:03] 51%, uh but the analysts have revised
+[22:06] their estimates higher. So, in the last
+[22:08] uh 90 days, they were estimating 6 cents
+[22:10] and now they're estimating 19 cents.
+[22:12] That's a huge huge upward revision. And
+[22:15] last quarter, Ford posted a 25.4%
+[22:18] surprise. So, I expect them to surprise
+[22:21] and I expect them to guide higher. You
+[22:23] know, obviously all the money's made in
+[22:24] trucks. Obviously, they've had the
+[22:25] write-downs in the EVs, but um yeah, I'm
+[22:28] expecting a nice surprise from Ford. I I
+[22:30] don't have it in my portfolios, but uh I
+[22:32] wish them well. Heico Aerospace, can
+[22:35] strong aerospace demand support margins?
+[22:37] Oh, yeah. I mean, just look at all the
+[22:39] orders Boeing has. It's ridiculous. In
+[22:41] fact, um just got Boeing more orders
+[22:43] from India. Uh we just did this trade
+[22:45] deal with India. But Heico's a big
+[22:47] supplier. We have this under management.
+[22:49] I recommend our newsletters. Their sales
+[22:50] are supposed to be up uh 12.4%.
+[22:53] Uh earnings are supposed to be up 30.5%.
+[22:56] We do have positive analyst revisions on
+[22:58] the stock in the last uh 3 months and
+[23:00] then I I would add that it does have a
+[23:03] very good surprise history, not
+[23:04] spectacular, but you know, you know, you
+[23:06] know, it should post at least a 4%
+[23:08] surprise if not more. So, this is a
+[23:10] great stock. Now, for McDonald's, what
+[23:12] are you watching in global comps and
+[23:14] traffic?
+[23:14] >> Well, this is an extremely well-run
+[23:16] company, and they um
+[23:18] I think one of the things that helps
+[23:19] them is they
+[23:21] listen to their customers.
+[23:23] And you know, when their customers are
+[23:24] struggling, they have more happy meals
+[23:26] or or more special meal deals.
+[23:29] Their sales are supposed to be up uh
+[23:31] 6.9%.
+[23:32] The analyst committee has been steady
+[23:34] with their earnings virtually unchanged
+[23:36] for the last 90 days, and they're
+[23:39] expecting that um
+[23:41] they'll earn 7.8% uh earnings growth.
+[23:43] So, the only issue is they didn't
+[23:45] surprise last quarter. And uh in fact,
+[23:47] they haven't surprised three of the last
+[23:48] four quarters. So, I think it's time for
+[23:50] them to surprise, and like a lot of uh
+[23:53] consumer related companies, they're
+[23:54] going to have to provide positive
+[23:56] guidance. On semiconductor, what matters
+[23:58] most in guidance this quarter? Well, um
+[24:01] we've had good news uh this week of all
+[24:04] the orders for
+[24:06] semiconductor equipment, and so prices
+[24:08] are going up.
+[24:09] So, ON should um
+[24:11] should benefit, but believe it or not,
+[24:14] their sales are forecast to decline
+[24:16] 10.8%, and their earnings are supposed
+[24:19] to decline
+[24:20] 30.4,
+[24:22] but the analysts haven't changed their
+[24:23] estimates in the last 90 days, and last
+[24:26] quarter they did have a 5.5% surprise.
+[24:28] I'm betting they'll probably surprise,
+[24:30] but obviously with
+[24:32] negative forecast of sales and earnings,
+[24:34] it's not going to be in my portfolio,
+[24:36] but uh it'll be interesting if they can
+[24:38] um
+[24:39] uh continue to surprise. All these
+[24:41] companies have to give good guidance,
+[24:43] otherwise
+[24:44] they'll be ignored.
+[24:45] >> For Ferrari, does pricing power remain
+[24:47] intact?
+[24:48] >> Yeah, I mean, the way Ferrari what
+[24:50] Ferrari does is they introduce a model,
+[24:52] and they collect the orders, and then
+[24:54] within 4 years you might get your car.
+[24:56] And, um,
+[24:57] the only problem is their recent models
+[25:00] aren't maintaining their value as well
+[25:02] as they used to, especially the hybrid
+[25:04] ones. So, that's thrown a little, um,
+[25:07] cloud over their cars. The other thing
+[25:09] is their styling isn't as, uh,
+[25:11] innovative as it used to be. And the the
+[25:14] cars now have more squarish fronts
+[25:15] instead of beautiful rounded fronts.
+[25:17] And, um,
+[25:18] they just look a little busy from, uh,
+[25:20] design point of view. You know, Italians
+[25:22] are famous for their design. So, I am
+[25:25] not that optimistic on Ferrari. Uh,
+[25:27] their sales are supposed to be up 2.3%.
+[25:31] Their earnings are supposed to go up
+[25:33] 2.9. Uh, the analysts have actually
+[25:35] trimmed their estimates slightly. Uh,
+[25:37] they have surprised for the past, uh,
+[25:40] four quarters. Last quarter was a 4. uh,
+[25:43] 8% surprise. So, I think they will
+[25:45] surprise, but I think they are
+[25:46] struggling. And of course, they have an
+[25:47] electric car coming out now, too. And
+[25:50] that might sell in Europe or or other
+[25:52] markets. I'm sure it'll sell in
+[25:53] California. Um, you know,
+[25:56] normally EVs, uh, don't maintain their
+[25:59] value. You know, an old EV is kind of
+[26:01] like an old cell phone. So, uh, we'll
+[26:03] see if Ferrari can change that. Uh, so,
+[26:06] there's just a lot of
+[26:07] things changing for Ferrari. So, but I'm
+[26:09] not that optimistic on them, period. I
+[26:11] just They just too many complications
+[26:12] lately. Now, for Shopify, what is the
+[26:14] key metric to watch this quarter? Well,
+[26:17] they've, um, been raising their, uh,
+[26:19] guidance and they have to continue to do
+[26:21] that. Their sales are supposed to be up
+[26:23] a whopping, uh, 27.7%.
+[26:27] Uh, their earnings are supposed to be up
+[26:28] only 15.7.
+[26:30] Uh, the analysts' estimates are
+[26:32] unchanged for this one last, um, 90
+[26:35] days. But, they do have a good, um,
+[26:39] surprise history. Now, last quarter, it
+[26:41] was only a 0.6% surprise. So, I think
+[26:44] Shopify's all going to be about
+[26:45] guidance. And lastly, for Vertiv, can
+[26:48] data center demand drive another strong
+[26:50] report?
+[26:50] >> It better. We own the stock, under
+[26:52] management, we recommend it. So, their
+[26:54] sales are supposed to be up 23.1.
+[26:58] Earnings supposed to be up um 31%.
+[27:01] We have positive announcements revisions
+[27:02] last 90 days. Last quarter was a 25%
+[27:06] surprise. This company uh competes with
+[27:09] Supermicro on the water-cooled rack
+[27:10] systems, and Supermicro just announced
+[27:12] 123% sales growth. So, I I'm sure this
+[27:16] one will blow it out of the park. Um
+[27:19] and uh I have extremely high
+[27:21] expectations for this stock. Of
+[27:23] everything we've talked about, this one
+[27:25] should have the biggest surprise. Well,
+[27:26] great. Thank you so much to you all for
+[27:28] joining us this Sunday. We hope that you
+[27:30] enjoyed our special guest. Please give
+[27:33] this video a like and subscribe if you
+[27:34] haven't already, but we will see you
+[27:36] this Wednesday for a midweek update.
+[28:00] >> [music]
+[28:20] [music]
+[28:39] [music]
+[28:44] [music]

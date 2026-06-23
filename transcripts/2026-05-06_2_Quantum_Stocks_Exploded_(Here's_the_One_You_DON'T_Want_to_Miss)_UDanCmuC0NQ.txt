@@ -7,9 +7,383 @@ Type: video
 Duration: 13:15 (795s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 375
+Transcript characters: 13437
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The markets remain nervous because of
+[00:02] the Iran conflict, but you're telling me
+[00:04] that there's one corner of tech that
+[00:05] just exploded.
+[00:06] >> Yeah, those are the quantum computing
+[00:08] stocks. They've had an incredible month
+[00:10] over the last four or five weeks and
+[00:12] they're about to start announcing. So,
+[00:14] we're going to be scrutinizing that
+[00:16] very, very carefully. So, while everyone
+[00:18] panicked about geopolitics, how come
+[00:20] quantum stocks already ripped?
+[00:22] >> I think it's just enthusiasm over AI in
+[00:24] general. Quantum computing is the next
+[00:27] phase of AI folding in 2030 to 2032.
+[00:31] Specifically, what's going on is
+[00:33] Nvidia's of course now making the Vera
+[00:34] Rubin chip and then they'll have a new
+[00:37] chip, a grand finale, in 2028.
+[00:40] And then beyond that, Nvidia doesn't
+[00:42] think it can make its chips faster
+[00:44] because they've approached the atomic
+[00:46] level on the circuit board. So, it's
+[00:48] kind of hard to split atoms to make a a
+[00:50] GPU faster. So, quantum computing will
+[00:53] be the next phase and what's special
+[00:55] about quantum computing, it uses a one
+[00:57] and a zero instead of a one or a zero.
+[01:00] So, it's totally different and the the
+[01:02] quantum computing stocks have surged
+[01:04] involved how to program a quantum
+[01:06] computer, how to encrypt it. It's kind
+[01:08] of like when I went to school, Fortran
+[01:11] was big but everybody was discovering C
+[01:13] programming. So, we're not sure who's
+[01:15] going to win, okay, the programming wars
+[01:17] and encryption wars, but there is one
+[01:20] stock that definitely is a big winner
+[01:22] because they're going to announce very
+[01:23] strong sales growth here. Well, we'll
+[01:24] get to those in a second, but before we
+[01:26] dive into quantum, speaking of stocks
+[01:29] that exploded, GameStop CEO just did
+[01:31] this really bizarre interview that
+[01:33] everyone's talking about. Did you catch
+[01:35] that? Yeah, he was on CNBC for some time
+[01:38] and GameStop's proposing and buying eBay
+[01:41] and Andrew Ross Sorkin was questioning
+[01:43] him on how he could finance this deal,
+[01:45] you know, it was half stock, half cash
+[01:48] and Andrew was asserting that he didn't
+[01:49] have the money and he wasn't very happy
+[01:52] with that question and really didn't
+[01:54] want to answer. And then Becky Quick
+[01:56] finally had a chip in, say, "Can you
+[01:58] answer Andrew's question?" And he said,
+[02:00] "It's It's on our website. You can read
+[02:02] the proposal." So, it was long, it was
+[02:05] awkward, it was painful. Apparently,
+[02:08] this CEO has a history of with They
+[02:11] didn't like CNBC's comments on
+[02:13] GameStock. So, there was already tension
+[02:16] before he started the interview. Yeah,
+[02:17] that seemed rough. And then, on top of
+[02:19] that, Michael Burry just dumped his
+[02:21] entire GameStop position, and now he's
+[02:24] shorting Palantir of all things. What do
+[02:26] you make of that move? Well, first of
+[02:28] all, I think Burry's been shorting
+[02:30] Palantir for a while. It's confusing
+[02:32] whether they own puts or Now, he's
+[02:34] outright short the stock. Burry's also
+[02:36] been very emphatic that Anduril
+[02:39] is, quote and quote, eating Palantir's
+[02:41] lunch. The problem is is Anduril led by
+[02:45] a gentleman who can be caustic and, you
+[02:47] know, these are very smart people, and
+[02:49] they're not very good answering very
+[02:50] good questions sometimes. So, they've
+[02:52] had a couple issues with the Trump
+[02:54] administration. But, I think they worked
+[02:56] that out. The other thing is, Palantir,
+[02:58] of course, just announced record
+[03:00] results. Their sales are up 84.7%.
+[03:03] That's an acceleration of the previous
+[03:05] quarter. Their operating earnings were
+[03:07] up 153.8%.
+[03:09] Their overall earnings were up even
+[03:11] more.
+[03:12] And they posted 6% revenue surprise and
+[03:15] and a
+[03:15] 13.8% earnings surprise. So, for two
+[03:18] quarters in a row, Palantir has had
+[03:20] perfect results. They beat on sales,
+[03:23] they beat on earnings, they guided
+[03:25] higher above analyst estimates, and
+[03:27] after each of the last two quarters, the
+[03:30] stock gets hit with profit taking. So,
+[03:32] sometimes these big stocks go up in
+[03:34] anticipation of their earnings
+[03:36] announcement, and then there's some
+[03:38] profit taking. So, I don't want that
+[03:40] profit taking to bother anyone. The The
+[03:43] truth of the matter is I own Palantir,
+[03:45] it's a major holding. I respectfully
+[03:47] disagree with Michael Burry. He thinks
+[03:49] the its valuation is high, the P is very
+[03:52] high, which is, but I always look at
+[03:53] forecast of P's. When you look at
+[03:55] forecast of P's, Palantir is trading
+[03:58] under 30 times forecast earnings. It's
+[04:00] fine, and I Mr. Burry wants to lose his
+[04:02] money shorting Palantir, good luck to
+[04:04] him. So, with Burry making big bets
+[04:07] against high flyers like Palantir, that
+[04:09] actually brings me to a question we got
+[04:10] from one of our subscribers that's
+[04:12] probably on a lot of people's minds
+[04:13] right now. They're asking, are the
+[04:15] markets overbought? Are we in for a big
+[04:18] pullback? You're going to get a pullback
+[04:20] at the end of any earnings announcement
+[04:21] season. Um
+[04:23] it's um it's been stunning. It was
+[04:25] stunning before it even started with
+[04:27] positive earnings revisions. Those are
+[04:28] the strongest revisions in 5 years.
+[04:30] These are the strongest earnings in
+[04:31] several years. And uh we're not finished
+[04:34] yet. Normally, the good earnings come
+[04:35] out early, bad earnings come out a
+[04:37] little later, but there's a couple
+[04:38] stocks that'll come out late that will
+[04:40] be unbelievable. One is, of course,
+[04:42] Nvidia, uh who still has accelerating
+[04:44] sales earnings momentum. And the one
+[04:45] that will have the strongest uh sales
+[04:47] and earnings will be uh Micron
+[04:49] Technology. So, we're going to end this
+[04:51] earnings announcement season on a big
+[04:54] exclamation point. But yeah, profit
+[04:55] taking is normal. If a stock goes up 12%
+[04:58] off an asset retraces at least a third,
+[05:00] 4%.
+[05:02] So, you should look for those
+[05:03] retracements, but you know, what I've
+[05:05] noticed is every retracement's a buying
+[05:07] opportunity. So, I wouldn't worry too,
+[05:09] too much about it. I think the best way
+[05:11] to to explain this earnings announcement
+[05:13] season, it's like a great party. As far
+[05:15] as where we are at the party, it's
+[05:17] probably 10:00, okay? But eventually,
+[05:20] it'll be 1:00 a.m. and somebody will
+[05:22] have a lampshade on their head, and
+[05:23] that's when the profit taking can it get
+[05:25] hit. Uh but right now, it's still time
+[05:27] to party, and uh let's just enjoy it.
+[05:29] Okay, so with all that as a backdrop,
+[05:31] you mentioned that quantum computing
+[05:33] stocks have exploded. Can you share
+[05:35] which stocks exactly? Yeah, the flagship
+[05:37] is definitely IONQ. This is the company
+[05:40] that invented the qubit, which is how to
+[05:42] package data for quantum computing. Of
+[05:44] course, they're now um having an
+[05:46] enhanced qubit. So, everybody's getting
+[05:48] excited, but they've set the standard to
+[05:50] program how to package data to go in the
+[05:52] quantum computers. Now, their sales are
+[05:55] supposed to be up 556.7%.
+[05:58] They are not earning money, but they had
+[06:00] a big beat in the in the fourth quarter
+[06:03] and they they beat analysts' assessments
+[06:05] by 16.7%.
+[06:07] So that was a very very good sign. So we
+[06:10] will see if they can you know continue
+[06:13] to beat and I think the stock will
+[06:14] continue to get
+[06:16] rewarded. It is the leader. Now, just
+[06:18] for disclosure, we wrote all these
+[06:20] reports on quantum computing over a year
+[06:22] ago at our publisher and because we like
+[06:24] to write about new technology. We know
+[06:25] we write about small modular reactors
+[06:27] and all kinds of technology. Did write a
+[06:29] lot about quantum computing over a year
+[06:31] ago. Now, they are not supposed to earn
+[06:33] money again till maybe 2030, 2032. In
+[06:37] addition to IonQ, the other one that is
+[06:39] very very interesting to me and the one
+[06:41] I I would talk about a lot was D-Wave.
+[06:43] That's QBTS. Now, they won the Nvidia
+[06:46] quantum computing contest. They had a
+[06:48] quantum day and and and they went how to
+[06:50] program, but their sales are not very
+[06:52] strong right now. Their earnings are
+[06:54] still negative. So we'll see. Now,
+[06:56] Rigetti's the encryption company. They
+[06:58] apparently got a a defense department
+[07:00] contract. That's interesting because I
+[07:02] know the guy that his company has the
+[07:04] encryption contracts right now for the
+[07:05] Air Force. Okay. But Rigetti's
+[07:08] apparently going to try to get encrypted
+[07:10] when it when they make the shift to
+[07:12] quantum computing and Rigetti's RGTI. So
+[07:15] those three stocks are the leaders.
+[07:16] There's other quantum stocks out there,
+[07:18] but at this moment IonQ has to beat and
+[07:21] if they beat, maybe they'll get rewarded
+[07:23] a bit more. But
+[07:25] when you buy these stocks, you know,
+[07:27] you're taking a flyer. You're betting on
+[07:28] technology and I don't own them unless a
+[07:31] client either asked me to buy them or it
+[07:33] was transferred in and and I was letting
+[07:35] the profits run here for a while. So you
+[07:37] know, you have to take a leap of faith
+[07:39] with the quantum stocks, but it's
+[07:40] coming. It'll be a big deal sooner than
+[07:42] later. So, if someone's watching this
+[07:44] and thinking, "Damn, I I missed these
+[07:46] moves, but I still want quantum
+[07:47] exposure. Do you have any near-term
+[07:50] buys?" Not on the quantum computing
+[07:52] level, cuz all those exploded, but I
+[07:54] have a personal other stocks that didn't
+[07:56] rally as much as my whole portfolio. You
+[07:59] know, we're up over 20% in the past
+[08:00] month, but I have one here that was up
+[08:03] only 11% and it was it was lagging last
+[08:06] couple days. Uh it's starting to firm
+[08:08] up. It's called um Carpenter Technology,
+[08:10] CRS. Their sales are supposed to be up
+[08:13] 14.1%.
+[08:14] Uh their earnings are supposed to be up
+[08:16] 39.9%.
+[08:19] Uh we have positive analyst revisions on
+[08:20] the stock, especially in the last 7
+[08:22] days. The analysts have gone from 2.98
+[08:24] to 3.09. That's a very good sign and the
+[08:26] stock has a very good surprise history.
+[08:29] Um Carpenter Technology is essentially
+[08:32] involved in aerospace and things, like
+[08:34] um all kinds of specialty alloys,
+[08:36] especially titanium. And but you know,
+[08:38] they make stainless steel and all kinds
+[08:39] of other things and stuff. And you know,
+[08:41] titanium's a a big deal right now for
+[08:44] aerospace. So, they have very good
+[08:46] business. So, I expect them to beat. I
+[08:48] expect them to guide higher and I expect
+[08:50] the stock to uh catch up with my other
+[08:52] stocks. And if someone wants a safe way
+[08:54] to play quantum exposure, what would you
+[08:56] recommend for them? Well, the only safe
+[08:58] play is is uh Nvidia. You could also buy
+[09:01] Google, cuz they're making a big fuss
+[09:03] over quantum computing, but right now I
+[09:04] would put definitely pick Nvidia. They
+[09:07] again have a quantum cloud simulator up
+[09:09] there. Google's working on quantum
+[09:11] computing. I don't know if they'll be
+[09:12] successful, but uh those are two big
+[09:15] companies that are are safe plays. Um
+[09:19] but if you want a second play, you could
+[09:20] definitely buy Google. And of course,
+[09:22] you you're also going to profit from uh
+[09:24] their existing businesses, which are
+[09:26] very helpful. Now, let's move on to
+[09:27] subscriber questions. One of our
+[09:28] subscribers wanted to know, "Would you
+[09:30] buy Netflix at this low price now?"
+[09:32] Well, that's a very good question. Um I
+[09:35] would be asking your mother, cuz she
+[09:37] owns it in her personal account. I don't
+[09:39] own Netflix, but it is a monopoly and
+[09:42] clearly I like monopolies, but they've
+[09:44] missed
+[09:45] uh in two of the last three quarters,
+[09:47] but they did get this windfall on the
+[09:50] Warner Brothers deal because they got a
+[09:52] big cash payment for backing out of the
+[09:53] deal. Their sales are forecast to be up
+[09:55] about 13.6%.
+[09:58] Earnings are forecast to be up 9.8.
+[10:01] Um, but there are is an analyst trim in
+[10:03] the past 7 days about bothers me. And I
+[10:06] think the problem is Netflix made a
+[10:08] pivot to sports, but they weren't
+[10:10] streaming fast enough. So, you weren't
+[10:12] getting the the sports in 4K, which I'm
+[10:15] sure you know any guy that watch sports
+[10:17] wants his 4K TV and wants to see it in
+[10:20] great detail. And so, that really hurt
+[10:22] them. I think they were doing Thursday
+[10:23] night football one time. Or maybe that
+[10:25] was or maybe that was Prime. But anyway,
+[10:28] whatever they were streaming didn't
+[10:29] work, okay? And Apple, of course, is
+[10:31] heavy in the sports now mostly via
+[10:33] Formula 1, soccer, and things like that.
+[10:36] So, they
+[10:37] they need to figure out what they want
+[10:39] to be when they grow up. Obviously,
+[10:41] their current model works great. All the
+[10:42] series of people do for Netflix. And but
+[10:45] I I don't want to buy the stock while
+[10:47] the analysts are trimming estimates. One
+[10:49] of our subscribers wanted to know about
+[10:50] HPE. Is it a strong company to invest
+[10:53] in? Well, we talked about this a few
+[10:55] weeks ago and it's definitely doing
+[10:57] better. Our sales are supposed to be up
+[10:59] 27.9%.
+[11:01] Uh their earnings are supposed to be up
+[11:02] 40.5. Um the analysts have had held
+[11:06] steady on their estimates. And uh my
+[11:09] only issue with this stock is it didn't
+[11:11] surprise the last quarter. And when it
+[11:13] did surprise, it was a 47.9%
+[11:16] surprise. Before that, they disappointed
+[11:17] three quarters in a row. So, um I am uh
+[11:21] very, very skeptical of of
+[11:23] Hewlett-Packard. So, they are definitely
+[11:26] building rack systems for the data
+[11:27] centers, so is Dell. And uh that whole
+[11:30] AI construction is helping them. It's
+[11:33] not strong enough for me, but it's
+[11:34] getting there. And if they have a big
+[11:36] beat, guide higher, even I will
+[11:39] might have to buy it. But right now,
+[11:41] it's just under my radar. And lastly,
+[11:43] what are your thoughts on the stock TKO?
+[11:46] Okay, TKO Group Holdings is supposed to
+[11:49] announce a 25.9% sales growth. Their
+[11:52] earnings are supposed to decline 20
+[11:55] 5.9%. Again, sales go up 25.9, earnings
+[11:58] go down 25.9. I'm not exaggerating.
+[12:01] That's the analyst estimates. We have
+[12:03] analyst cuts.
+[12:05] As an example, 2 months ago, the
+[12:07] analysts were estimating $1.63. Now,
+[12:09] they're estimating $1.08. Those are big
+[12:11] cuts. And they've disappointed for two
+[12:14] quarters in a row, but unfortunately,
+[12:15] the previous quarter the latest quarter,
+[12:17] their earnings missed by 113.7%.
+[12:21] So, this stock is off my radar until
+[12:24] they surprise and guide higher. And I
+[12:27] should add they have a revenue issue.
+[12:30] Okay? So, that's the problem with this
+[12:32] stock at this moment. It is not on my
+[12:34] radar. Now, of course, this is a a
+[12:36] sports entertainment company. They they
+[12:39] run the WFC, the WWE.
+[12:42] I actually met Linda McMahon. Uh very
+[12:45] competent lady. She works for Trump now.
+[12:47] But, you know, maybe that that ultimate
+[12:50] fighting thing at the White House will
+[12:52] help them. I don't know. I don't I don't
+[12:53] I don't know if that's going on or not.
+[12:55] It's They were they were trying to set
+[12:57] it up on that the White House. So, but
+[12:58] yeah, no, it's not I'm not excited about
+[13:00] this stock. Well, great. Thank you so
+[13:02] much, everyone, for all your questions.
+[13:03] We hope you enjoyed today's video.
+[13:05] Please give this video a like and
+[13:06] subscribe if you haven't already. As
+[13:08] always, comment anything that you want
+[13:10] us to talk about or any questions that
+[13:11] you have, but we'll see you this Sunday
+[13:13] for a new video.

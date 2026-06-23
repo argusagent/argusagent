@@ -7,9 +7,448 @@ Type: video
 Duration: 15:15 (915s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 440
+Transcript characters: 15796
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] What if the biggest investing mistake of
+[00:02] 2026 isn't buying the wrong stock? What
+[00:05] if it's staying too bearish? A famous
+[00:07] short seller has been convicted,
+[00:09] manufacturing is picking up, oil prices
+[00:12] are falling, and investors are piling
+[00:14] into stories like SpaceX while
+[00:16] potentially missing a much bigger trend.
+[00:25] Brad, are the pieces falling into place
+[00:27] for the next major move in the stock
+[00:29] market?
+[00:29] >> Unquestionably, this is definitely a
+[00:32] FOMO market, a fear of missing out
+[00:34] market. And I am shocked by just the
+[00:37] relentless buying pressure. There are a
+[00:39] lot more AI-related stocks now
+[00:41] prospering. Probably started with Cisco
+[00:43] Systems a few weeks ago, you know,
+[00:45] they're a networking company. They had
+[00:47] their best results ever. And then we had
+[00:50] Dell. We just had Hewlett-Packard. These
+[00:53] are stocks that weren't really
+[00:55] benefiting like some of my other stocks,
+[00:57] but they're they're all joining the
+[00:58] party. And uh the AI AI build-out is
+[01:01] real. There's a 3-year order backlog.
+[01:03] And so either you get on board or you
+[01:05] you get left behind. And that's that's
+[01:08] what's driving this market at this
+[01:09] moment.
+[01:10] >> Let's start with the conviction of
+[01:11] Andrew Left. Most people see this as a
+[01:14] legal story, but you've argued for years
+[01:16] that activist short sellers have had an
+[01:19] outsized influence on investor
+[01:21] sentiment. Does this change anything for
+[01:23] the market going forward?
+[01:25] >> I think it does because it's going to
+[01:27] neuter them. Just so you know what
+[01:29] Andrew Left of Citron Research did, he's
+[01:32] the one that tried to prick the Super
+[01:34] Micro Computer bubble and alleged that
+[01:36] they weren't booking their orders
+[01:38] properly. And they were, by the way, and
+[01:40] there was nothing wrong with what they
+[01:42] were doing. But, you know, it started a
+[01:44] narrative that really held Super Micro
+[01:46] back for a couple years. And I never
+[01:48] sold it cuz I had such low cost basis,
+[01:50] and I kept looking at the fundamentals,
+[01:52] and I couldn't find anything wrong. And
+[01:55] either it to analysts, they They good at
+[01:56] estimates. So, you know, I feel
+[01:58] vindicated that I stuck with the
+[01:59] fundamentals and didn't let a market
+[02:01] manipulator like Andrew Left succeed.
+[02:04] Now, the other stock he hit that's that
+[02:07] I still own to this day is Cassava, and
+[02:09] Cassava was going parabolic and then
+[02:11] they hit that as well. Now, Citron has
+[02:13] since shut down, but the problem is when
+[02:16] someone starts a narrative, it has a
+[02:18] life of its own. Other people will pick
+[02:19] it up and rebroadcast it or have
+[02:22] different twists or or
+[02:24] angles to the story. And so I I I I
+[02:27] think that the biggest short seller out
+[02:29] there has been convicted. He's looking
+[02:32] at, you know, 20-plus years in jail, you
+[02:34] know, is a big deal. I think it's
+[02:36] scaring the entire industry.
+[02:38] >> If short sellers become less aggressive
+[02:39] because regulators are watching more
+[02:41] closely, does that remove one of the
+[02:43] biggest sources of fear that has waited
+[02:45] on stocks?
+[02:46] >> Somewhat, but, you know, you can you can
+[02:47] write a book like Andrew did. Andrew
+[02:49] Left was using social media and I don't
+[02:52] think the regulators really like people
+[02:54] out there in that domain. I mean, it's
+[02:55] not you can't stop it, but it's out
+[02:58] there. The former SEC before Trump took
+[03:01] over was handing out hundreds of
+[03:03] millions of dollars fines for what
+[03:05] WhatsApp, so it's known in our industry
+[03:07] to use WhatsApp because you get fined.
+[03:09] And so, there has been a bit of a war on
+[03:11] social media. I suspect the the SEC
+[03:14] under Paul Aiken will just ask for more
+[03:16] disclosure, you know, just kind of like
+[03:18] you put disclosure on everything,
+[03:19] whether we own the stock or not. And I
+[03:21] think that's probably going to be the
+[03:22] solution going forward. But, yeah,
+[03:24] they're they're going to be running
+[03:25] scared for a while. And people have to
+[03:28] realize that there isn't a lot of
+[03:29] inventory of stock. We we have these
+[03:31] algorithmic trading firms, Citadel, Jane
+[03:34] Street, Hudson Valley, Virtu Financial.
+[03:37] And so, any news can hit the stock, even
+[03:39] if if the news is wrong, okay? And and
+[03:42] the short sellers were saying "advantage
+[03:45] of that." Not only did did Andrew Left
+[03:48] shut his firm down and run for cover, I
+[03:50] think others are going to be running for
+[03:51] cover more and more.
+[03:52] >> Now, we've been talking a lot about
+[03:54] SpaceX, but the Wall Street Journal
+[03:56] highlighted that SpaceX now makes up
+[03:58] almost 30% of one of Ron Baron's funds.
+[04:01] It feels like SpaceX excitement is
+[04:04] reaching another level. Are investors
+[04:06] chasing the right story here?
+[04:08] >> Well, you know, I wanted to clarify this
+[04:10] cuz even we divert people to Ron Baron
+[04:12] if you want to buy it pre-IPO. But what
+[04:15] the the Wall Street Journal said is Ron
+[04:17] Baron's having a horrible year. You
+[04:18] know, he he has one fund where SpaceX is
+[04:21] almost 30% of the fund. Tesla's 19%, so
+[04:24] I guess he's got 49% invested in Elon.
+[04:27] And his funds have just done very poorly
+[04:29] this year. One's down almost 10%. So,
+[04:32] clearly Ron Baron isn't investing in
+[04:35] Johnson Wong and the AI boom cuz
+[04:37] otherwise he'd have a lot better
+[04:39] performance. So, I I think this makes
+[04:42] buying
+[04:44] the Baron fund to get in SpaceX early
+[04:46] problematic because, you know, you you
+[04:49] literally are buying a fund that's
+[04:50] lagging until the IPO comes out on the
+[04:53] hope that the IPO gaps up. So, I I
+[04:56] wanted to update everybody on this just
+[04:58] because I actually didn't know this. I
+[05:00] didn't know Baron was doing so poorly
+[05:01] this year. So, you can still get early
+[05:04] access to SpaceX if you buy his fund cuz
+[05:07] he's got allocations and all, but I do
+[05:10] think you might want to check the
+[05:12] performance out first.
+[05:13] >> I feel like whenever there's a theme
+[05:14] that becomes this popular, I wonder if
+[05:17] people start looking to the obvious
+[05:18] place while missing the bigger
+[05:20] opportunity. Do you think that's what's
+[05:21] happening right now?
+[05:22] >> Yeah, I think a lot of the enthusiasm is
+[05:24] the underwriting fees. I mean, you're in
+[05:26] New York, there's going to be 60 billion
+[05:28] dollars of underwriting fees from
+[05:31] the SpaceX IPO. That's if it's a billion
+[05:33] dollars. I I've heard now it might be a
+[05:34] billion eight. Anyway, whatever it is,
+[05:37] there's 60 billion to 100 billion in
+[05:39] underwriting fees. So, that means the
+[05:41] investment bankers will be having a good
+[05:43] time. Fancy restaurants will be busy,
+[05:45] the Hamptons will be busy.
+[05:47] And I think a lot of excitement is over
+[05:49] the underwriting fees. And of course
+[05:51] Anthropic's coming out after SpaceX and
+[05:54] we'll probably get some other hot IPOs
+[05:56] after the those two.
+[05:57] >> One thing that doesn't fit with the
+[05:59] bearish narrative is the latest
+[06:01] manufacturing data. We spent months
+[06:03] hearing about economic weakness, yet
+[06:05] manufacturing appears to be improving.
+[06:07] How significant is this report?
+[06:09] >> It's a big deal. It's since 2022
+[06:12] it's the fifth straight monthly
+[06:13] increase. It was the part of the economy
+[06:15] that was missing. So again, we have five
+[06:18] straight months of a very strong
+[06:19] manufacturing improvement. I think the
+[06:21] weak housing market also held back
+[06:23] housing. The only area of the 17
+[06:26] industries in ISM survey that was down
+[06:28] were wood products like lumber. So but
+[06:31] you know, with the data center boom, all
+[06:33] the onshoring
+[06:35] the the GDP growth is real. As I talked
+[06:37] to I think the Fed's estimating 3%. I
+[06:39] think they're going to have raise that
+[06:41] higher and I'm still expecting 5 to 6%
+[06:44] growth. I know later in the third
+[06:45] quarter of this year.
+[06:46] >> If manufacturing continues to recover,
+[06:48] what does that mean for earnings and
+[06:50] stock prices over the next year?
+[06:52] >> Means that they're just going to get
+[06:53] stronger. The S&P earnings are estimated
+[06:55] to be up 21.5% this year. There'll be
+[06:58] surprises, so they're probably going to
+[06:59] be 23 to 24%. Obviously my average
+[07:02] stocks well over 100 and and that's why
+[07:04] when I say I expect to make another 30
+[07:06] to 40% this year, I don't think that's
+[07:08] outrageous, okay? Because that's less
+[07:10] than the earnings growth. But the
+[07:12] we just updated our our testing how
+[07:15] stock grader works and how fast it
+[07:17] decays and I can see the markets
+[07:19] broadening out, especially relative to
+[07:21] AI. But you still got to be in the top
+[07:23] 10% stock grader. And that that
+[07:25] surprised me a little, okay? I I keep
+[07:27] waiting for it to broaden out and why
+[07:29] we're doing so good this year is the
+[07:31] model's tight, it's it's narrow. So if
+[07:33] you can stick with those A-rated stocks
+[07:36] with great fundamental grades, you're
+[07:37] going to beat everybody else out there.
+[07:39] And that's what I'm doing and that's why
+[07:41] our performance is so strong.
+[07:42] >> Here's another thing that seems to
+[07:44] challenge the bearish case. Oil prices
+[07:46] have fallen sharply despite all the
+[07:48] geopolitical uncertainty. What is the
+[07:50] market telling us here?
+[07:51] >> Yeah, in the last month, oil's down
+[07:53] almost 17%, Brent's down 20%. That's I
+[07:56] was looking at WTI, West Texas
+[07:58] Intermediate Crude and Brent's Light
+[07:59] Sweet Crude. What that tells us is the
+[08:02] markets react and they don't think. And
+[08:04] we went into the Iran war with higher
+[08:06] than normal inventories. We exited with
+[08:09] well, we're we're here now with lower
+[08:11] normal inventories. But Trump has made
+[08:13] it very clear, if you need oil, go go to
+[08:15] the Gulf of America, load up. And so
+[08:17] there are some economies being stressed.
+[08:19] Good example is they blow glass in India
+[08:22] and they don't have enough energy to to
+[08:24] make the glass for now, so the glass
+[08:26] blowers, I guess, are on vacation or on
+[08:28] a little break. So, yeah, so India,
+[08:30] China, Australia, these are countries
+[08:32] that are in a bit of a pinch, but
+[08:35] America's fine and and we're the
+[08:37] wealthiest in the world and and that's
+[08:39] why the dollar's so strong.
+[08:40] >> So, in other words, are people looking
+[08:42] at demographics while missing what could
+[08:44] drive the next wave of economic
+[08:46] expansion?
+[08:47] >> Yeah, I think the demographic story is a
+[08:49] depressing story for the entire world
+[08:51] because they're losing households, you
+[08:53] know. The New York Times just reported
+[08:54] that Japan lost 3 million
+[08:57] people in 5 years. They went from 126
+[08:59] million to 123 million. Japan's an aging
+[09:01] society, so is all of Asia, so is most
+[09:04] of Europe with exception of Portugal and
+[09:06] Spain, but they're growing from
+[09:08] immigration. And when you lose
+[09:10] households, especially your more
+[09:11] affluent households, what we call the
+[09:13] velocity of money slows down and it's
+[09:15] hard to grow. So, that's depressing and
+[09:17] the only countries that are really
+[09:18] growing are the US and India. And you
+[09:22] know, as India urbanizes more, then
+[09:24] they're they're the number of kids they
+[09:25] have is supposed to drop. It's hard for
+[09:27] the world to grow when you lose
+[09:29] households. Japan's fascinating to watch
+[09:31] because you can counteract that
+[09:33] population decline with productivity
+[09:35] gains and it's it's a very productive
+[09:36] society over there. But, we'll see. You
+[09:39] know, as you get older, you you tend not
+[09:41] to accept technology changes as much.
+[09:43] >> While we're talking about geopolitics,
+[09:45] we received some criticism when you said
+[09:47] Canada was already in a recession, but
+[09:49] seems like the official data is catching
+[09:51] up. How were you able to identify the
+[09:53] weakness before the headlines did?
+[09:54] >> Well, you know, Canada's our neighbor
+[09:57] and you know, I I look at key industries
+[09:59] up there and in energy usage. So, it was
+[10:02] pretty easy to see. Also, Prime Minister
+[10:04] Carney was openly hostile to
+[10:07] Saskatchewan, Alberta. You know,
+[10:09] Alberta's filed petitions to secede from
+[10:12] the country. They want to be their own
+[10:14] country now. Uh they seem to be a little
+[10:16] miffed that they send 400 billion a year
+[10:18] to Ottawa, their capital, and it and it
+[10:21] gets dispersed in Quebec and other
+[10:22] places. So, you know, I think the
+[10:24] Albertans are tired of being picked on
+[10:26] and being used. And of course, Mr.
+[10:29] Carney, their Prime Minister, is a
+[10:30] net-zero guy. So, means no fossil fuels
+[10:32] by 2050. So, they're just openly hostile
+[10:36] and Saskatchewan's hostile, too, cuz
+[10:38] they're against chemical fertilizers.
+[10:40] So, you know, it's Carney's done some
+[10:43] things to, you know, all all of branches
+[10:45] and the men fences. But, the long-term
+[10:47] prospects for Alberta and Saskatchewan
+[10:49] are poor and I think his leadership,
+[10:52] regardless of the tariff debates, did
+[10:54] weigh on that. Now, we get a lot of
+[10:56] lumber from Canada. Fact that housing
+[10:58] has slowed down in America also impedes
+[10:59] their economy. But, yeah, I was just
+[11:01] looking at the raw data and some people
+[11:03] thought they were doing better than us,
+[11:04] which isn't true. But, that's that's
+[11:06] what they do in other countries.
+[11:08] >> So, it seems like there's a common theme
+[11:09] today that investors may still be
+[11:11] looking for reasons to be cautious while
+[11:13] the data is becoming increasingly
+[11:16] constructive. I want to answer some of
+[11:18] our subscriber questions. Let's start
+[11:20] out with Oracle. Oracle has been one of
+[11:22] the bigger beneficiaries of the AI data
+[11:24] center build-out and viewers want to
+[11:26] know if there's still room to run.
+[11:28] >> Yeah, I don't recommend Oracle in my
+[11:31] newsletter. I don't have it under
+[11:33] management. I Larry Ellison is my
+[11:36] neighbor less than a mile south of me. I
+[11:38] love Larry owns homes everywhere, but
+[11:40] he's technically a Florida resident.
+[11:42] Oracle has improved, you know, with the
+[11:45] data center boom. It's it's up over 40%
+[11:48] last month, but it just didn't tick all
+[11:50] my boxes fundamentally. So, this is one
+[11:53] I missed. I can tell you their sales are
+[11:55] supposed to be up 20%. Their earnings
+[11:57] are supposed to be up 15.3. Now, that
+[11:59] that gets me because when your earnings
+[12:01] aren't growing as fast as sales, it
+[12:02] means your margins are under
+[12:03] compression. The analyst estimates are
+[12:06] steady for the last 90 days and they had
+[12:08] a huge surprise back in November and
+[12:11] then this last quarter surprise was 5.7.
+[12:14] Before that, they had a miss. So, I'm
+[12:16] just not as comfortable with Oracle on
+[12:18] my eight-factor fundamental model. It
+[12:19] doesn't check every box. It clearly has
+[12:22] good sales earnings growth, but yeah,
+[12:23] when when the earnings aren't growing as
+[12:25] fast as sales, that's a flag for me cuz
+[12:27] that means there's margin compression.
+[12:29] >> We've also been getting questions about
+[12:31] Robinhood. Hood has had a strong run and
+[12:34] viewers want to know if the momentum is
+[12:36] real or if this is a name to be cautious
+[12:38] about.
+[12:38] >> I sold Robinhood in the newsletters and
+[12:40] managed accounts and I sold it largely
+[12:42] because of the crypto trading was
+[12:44] holding them back and they just missed
+[12:46] this last quarter. So, I I'm not that
+[12:49] optimistic. With that said, their sales
+[12:51] are forecast to be up 19.4.
+[12:53] Earnings are forecast to decline 3.4. We
+[12:56] have some
+[12:57] analyst cuts on Robinhood from 60 cents
+[12:59] to 48 cents in the last 90 days. So,
+[13:03] yeah, this again, the stock's not
+[13:04] ticking all my boxes, so that's why I
+[13:06] sold it.
+[13:06] >> Here's another question from one of our
+[13:08] subscribers. Credo Technology has had a
+[13:11] great run and they're not sure what to
+[13:12] do with it now.
+[13:13] >> I don't recommend Credo. I've talked
+[13:15] about it. I've admitted it's a a very
+[13:18] powerful stock. It ranks good in the
+[13:19] stock grader, but it does get hit with
+[13:22] profit taking every now and then and it
+[13:24] just hasn't hit hit all my criteria. but
+[13:28] because it's pulled back, it's probably
+[13:29] a good near-term buy, and so let me give
+[13:31] you some insight. Sales is supposed to
+[13:33] be up 110 point. Earnings is supposed to
+[13:35] be up 125.1.
+[13:37] Analysts have revised their estimates
+[13:39] from $1.09 to $1.17 last 7 days, and it
+[13:43] has outstanding earnings surprise
+[13:45] history. So, this stock, in my opinion,
+[13:47] is a good buy in any pullback. I have
+[13:49] not bought it yet in managed accounts
+[13:52] and or recommend my newsletters, but
+[13:54] it's certainly on the cusp of possibly
+[13:56] getting added. Now, they provide
+[13:58] high-speed connections. Now, I obviously
+[14:00] I have Ciena, I have Ubiquiti, UI. You
+[14:03] know, you can argue Cisco does
+[14:05] high-speed connections. So, we'll see.
+[14:08] But, uh yeah, Ciena has got a good
+[14:09] business. It's good stock, but it it's
+[14:11] is more volatile and they get hit here
+[14:13] recently. So, if you want aggressive
+[14:15] optical company, jump right in.
+[14:17] >> Last question, and this one is really
+[14:19] timely given everything we talked about
+[14:21] today. A viewer is asking about the PDT
+[14:23] rule and whether it makes sense to be
+[14:25] actively trading in June and July given
+[14:28] where the market is.
+[14:29] >> Yeah, that's a good rule change. This is
+[14:31] the new SEC. They're simplifying things.
+[14:33] Under the old SEC, that you had to have
+[14:35] about $25,000 in your account if you
+[14:37] were going to day trade, and if your
+[14:39] account dropped below 25,000 in losses
+[14:41] and stuff, they would literally block
+[14:43] your trading. So, I think this is a good
+[14:45] thing. The, you know, the new SEC under
+[14:47] Trump is deregulating it, getting you
+[14:49] rid of things that impede investing. So,
+[14:52] this doesn't affect me, it doesn't
+[14:53] affect my clients, but generally
+[14:55] speaking, this will allow people to
+[14:56] speculate more.
+[14:57] >> So, if there's one thing today's
+[14:59] conversation made clear, it's that the
+[15:00] data is getting more constructive while
+[15:02] a lot of investors are still waiting for
+[15:04] the other shoe to drop. Let us know in
+[15:06] the comments, what do you think the
+[15:07] market is getting wrong right now?
+[15:09] Please make sure to give this video a
+[15:10] like and subscribe if you haven't
+[15:12] already, but we'll see you this Sunday
+[15:14] for a new video.

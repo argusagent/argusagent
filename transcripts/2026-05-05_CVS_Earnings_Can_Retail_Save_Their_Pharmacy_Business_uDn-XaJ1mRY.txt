@@ -7,9 +7,27 @@ Type: short
 Duration: 0:43 (43s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 19
+Transcript characters: 696
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] CVS is trying to reinvent healthcare.
+[00:02] Are they going to pull it off or are you
+[00:04] seeing this as a little bit of a
+[00:05] disaster? You know, the problem with
+[00:08] drug distribution is going increasingly
+[00:10] direct, okay? So, you can get it from
+[00:13] online pharmacies, you can get it pretty
+[00:15] cheap at Costco. So, that does hurt the
+[00:18] CVS and Walgreens business model. With
+[00:20] that said, their sales are supposed to
+[00:22] be up about half a percent and their
+[00:24] earnings are supposed to be down 1.9%.
+[00:27] We have minor analyst trims on the
+[00:28] stock. They have surprised in the last
+[00:31] four quarters. This is really more of a
+[00:33] retail story. Consumer spending's up, so
+[00:36] maybe it it'll be a little better at
+[00:38] CVS. But, again, no growth here for me
+[00:41] to get excited about.

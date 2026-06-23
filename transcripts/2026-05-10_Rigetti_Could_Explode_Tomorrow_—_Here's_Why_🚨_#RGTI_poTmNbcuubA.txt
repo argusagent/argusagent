@@ -7,9 +7,34 @@ Type: short
 Duration: 0:51 (51s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 26
+Transcript characters: 883
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] We've been talking a lot about Righetti,
+[00:01] and they are reporting earnings
+[00:03] tomorrow. Quantum stocks have been
+[00:04] absolutely ripping, but can Righetti
+[00:07] show real revenue growth?
+[00:09] >> Yeah, definitely. First of all, see IONQ
+[00:12] had better than expected results, and
+[00:14] that helped lift all the quantum
+[00:16] computing stocks. In Righetti's case,
+[00:18] their sales are supposed to be up
+[00:19] 180.4%.
+[00:21] Their earnings are still negative. If
+[00:23] you strip out a lot of the costs and
+[00:24] things, their operating earnings are
+[00:26] supposed to be at 43.4. I have hope for
+[00:29] Righetti. This is the encryption
+[00:31] company, how to encrypt quantum
+[00:33] computing. Now, they did not
+[00:35] historically surprise, but they've
+[00:37] surprised in the past two quarters. If
+[00:38] they can surprise for the third quarter
+[00:40] in a row, I think it will really, really
+[00:42] help the stock. So, this is a very
+[00:44] speculative stock, of course, but yeah,
+[00:46] sales are booming, and earnings may
+[00:49] materialize sooner than later.

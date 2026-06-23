@@ -7,9 +7,920 @@ Type: video
 Duration: 37:24 (2244s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 912
+Transcript characters: 33279
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:00] [Music]
+[00:00] [Applause]
+[00:00] [Music]
+[00:13] Hello everyone. Welcome back to Navalier
+[00:15] Market Buzz episode 40. I'm Crystal
+[00:17] Navalier and I'm joined again this week
+[00:18] with my father Louis Navalier. We have a
+[00:21] very special guest, Ed Elfenvine, who is
+[00:23] the editor of Crossing Wall Street and
+[00:25] the manager of Advisors Share Focus
+[00:27] Equity ETF, CWS. Thank you so much, Ed,
+[00:31] for being here. Thanks for having me. So
+[00:34] Ed is one of my former editors for
+[00:36] growth investor actually in the early
+[00:38] days uh when we were beating the market
+[00:40] by six to one. That was back when the
+[00:42] Tel and the S&P was doing better than
+[00:44] the top end. So it was much easier to
+[00:46] beat the markets back then. And um Ed
+[00:49] was um kind of like a lucky rabbit's
+[00:52] foot for me. And uh um we we used to
+[00:55] joke that um that uh you know anytime Ed
+[01:00] commented on a stock it went up. So uh
+[01:03] he's now established himself as a major
+[01:05] money manager with over $200 million and
+[01:08] his ETF. And that's an honor to have you
+[01:10] here Ed. Thank you. It's an honor to be
+[01:13] for me to be here.
+[01:15] So, Ed, I know that you live in
+[01:16] Washington DC. Can you share what the
+[01:19] mood is like right now?
+[01:21] Uh, well, first I have to say your
+[01:23] father always has this view that I'm
+[01:25] deep on the inside of what's going on in
+[01:27] Washington. So, uh, I I I can't share
+[01:30] any highlevel meetings that I get
+[01:32] invited to to, but I I can tell you that
+[01:36] that in my, uh, in my neighborhood,
+[01:38] there definitely has been I think the
+[01:40] real estate market has been a little
+[01:42] rocked by a lot of the cuts, the Doge,
+[01:46] um, forced cuts coming in DC. So, it has
+[01:49] had an impact in my little neighborhood,
+[01:52] which is Adams Morgan, which is uh kind
+[01:54] of like a small town in the center of of
+[01:58] Washington DC. So, that's been the
+[01:59] effect I've seen so far. Outside of
+[02:02] that, I haven't been invited to any
+[02:04] fancy Georgetown dinner parties, but I
+[02:07] rest assure I will let you know if that
+[02:10] comes.
+[02:12] So, Ed, what do you think about our new
+[02:13] Treasury Secretary, Scott Messet?
+[02:16] Interesting guy. uh very smart guy. I
+[02:18] think he's kind of a um a stabilizing
+[02:21] force in the White House. Uh, as we
+[02:23] know, the president can be a bit
+[02:25] bombastic and he makes these
+[02:27] proclamations and so often we see the
+[02:31] president saying something, you know,
+[02:32] very uh, dramatic and then Scott Bessing
+[02:36] coming and saying, "Well, actually," and
+[02:38] we we saw on CNBC a number of times, the
+[02:42] president speaks, the market goes down,
+[02:44] and then passing comes out and say,
+[02:45] "Well, no, he didn't mean any of that."
+[02:47] And the market goes back up. Uh,
+[02:49] interesting guy. He's uh well, one thing
+[02:51] I I just find interesting is he's the
+[02:54] highest uh uh ranked uh uh civil servant
+[02:59] in American history who's openly gay. I
+[03:02] don't think anybody cares about that
+[03:03] anymore, but that's just sort of an
+[03:04] interesting take. Also, his background
+[03:06] is all he's from George Soros. He worked
+[03:08] for Soros for many years, sort of the uh
+[03:11] uh bugaboo of many on the conservatives
+[03:14] in the United States. So, he he has an
+[03:16] interesting uh background. Also, I would
+[03:20] I think he um quite obviously in my
+[03:23] opinion, I don't think he cares about
+[03:24] deficits at all. He's not a a deficit
+[03:27] hawk, but I think he's very worried
+[03:29] about inflation and is very sensitive to
+[03:32] kind of these breadandbut issues that a
+[03:34] lot of individual Americans, Americans,
+[03:37] families face. Um he's an interesting
+[03:40] guy and I think he's probably one of the
+[03:41] more powerful Treasury Secretaries we've
+[03:44] had in recent years. Yeah. You know, I
+[03:47] like to say in uh in um Scott We Trust,
+[03:51] uh I think people are scared of him
+[03:52] because, you know, he made a billion
+[03:55] bucks betting that the Bank of England
+[03:56] would have to big, you know, and uh they
+[03:59] a billion dollars in one day. Yeah. For
+[04:02] Soros when he was young. And uh and I
+[04:05] think he's doing a better job than
+[04:06] Yellen did. You know, Yellen had a hell
+[04:08] of a time managing the long end of the
+[04:10] yield curve. I think the reason we were
+[04:12] permanently inverted for so long is she
+[04:14] just couldn't manage it. and Scott seems
+[04:16] to be doing a better job. We have a more
+[04:18] more uh uh normal yield curve and anyway
+[04:22] I I find it to be very reassuring, you
+[04:25] know. So, but I I think it's interesting
+[04:27] you say that because Yelen is an
+[04:28] academic where Vessent is a practitioner
+[04:31] and in this role I generally would side
+[04:34] all things being equal, I'd go with the
+[04:36] practitioner because they understand how
+[04:38] markets react. They understand how
+[04:40] investors think and that's the kind of
+[04:42] thing I think works better for a
+[04:44] Treasury Secretary. Ed, um I'm very
+[04:47] frustrated
+[04:48] because the Fed is trying to fight this
+[04:52] inflation bogeyman that hasn't
+[04:54] materialized and we have plenty of
+[04:55] evidence of deflation and of course we
+[04:58] just had a tame PCE report and uh I I
+[05:03] don't know. What do you think's going on
+[05:04] with the Fed? I mean, I I I I hate to
+[05:07] say I I don't think you're going to get
+[05:09] your way because I think I don't think
+[05:10] we're going to see a Fed rate cut at the
+[05:13] earliest. It's going to be after Labor
+[05:14] Day. And even that, I think we'll
+[05:17] probably at most see another rate cut
+[05:21] for this year. And all of that's been
+[05:23] put off. But I think um I I think you
+[05:26] have a sound point about this. We're
+[05:28] really not seeing the damage coming from
+[05:31] inflation. today's PEC, you know, were
+[05:33] we going to see it from all of these uh
+[05:36] uh from the tariffs? Well, we really
+[05:39] haven't seen it yet. And and today's uh
+[05:41] PCE report um I'm I'm talking on uh on
+[05:45] Friday really hasn't shown the evidence
+[05:48] yet that's at the core level or at the
+[05:50] headline level. Well, you know, Ed, my
+[05:52] real thesis was that interest rates
+[05:54] would be collapsing in Europe because,
+[05:56] you know, you know, France, Germany in a
+[05:58] recession and uh it's pretty severe in
+[06:02] Germany right now. In fact, the the
+[06:04] economic ministers in Brussels begging
+[06:06] for
+[06:07] subsidies for big businesses because
+[06:09] they just can't compete. And
+[06:12] um uh and you know, Britain's also in a
+[06:16] recession that half the people in
+[06:18] Britain can't pay their power bill
+[06:19] without subsidies. Mhm. So it's uh I'm
+[06:23] I'm just waiting for this global
+[06:24] interest rate collapse to to to unfold
+[06:28] and uh we know of course the ECB will be
+[06:32] cutting rates for the eighth time and u
+[06:33] but you know
+[06:35] uh China's rates are lower than Japan
+[06:38] now and had a currency devaluation and
+[06:43] uh so that was the main reason I thought
+[06:45] rates would collapse. I'm just just
+[06:47] hasn't happened yet. So yeah, I mean you
+[06:49] you still may be right, but you know
+[06:51] just remember before the great financial
+[06:54] crisis, you know, things can always drag
+[06:56] on longer than you think. Housing was
+[06:58] clearly overpriced in 2005, 2006, but it
+[07:03] held on for a long time. So Ed Howard
+[07:05] Lutnik claims that tariffs can help
+[07:08] lower income taxes. Do you think that
+[07:10] that's true? No, I think that's
+[07:12] absolutely delusional. Uh interesting
+[07:15] guy. He's the commerce secretary, a big
+[07:18] fan of of tariffs. And I mean, if it
+[07:21] were 1913, maybe he would have a point,
+[07:24] but uh when we're talking about
+[07:27] tariffs, we're talking about billions.
+[07:30] When we're talking about the income
+[07:33] taxes, we're talking about in the
+[07:34] trillions, in the many trillions. Even
+[07:37] now, I would say probably about half of
+[07:39] the revenue of the United States comes
+[07:41] from individual income taxes. So, you
+[07:44] know, if we have about five trillion a
+[07:46] year ago, about two and a half trillion
+[07:48] comes uh from uh people, you know,
+[07:51] paying their income taxes. But we're
+[07:54] talking about at a 10% level, that's of
+[07:58] tariffs, we're talking about 30 billion,
+[08:00] so billion a month. It doesn't even come
+[08:04] close to making up what uh what we owe
+[08:07] uh within taxes. And that's on top of
+[08:09] that, we're not even balancing the
+[08:11] budget. So, uh, Howard Lutnik, um,
+[08:14] entertaining guy, but his math is way,
+[08:17] way off. You know, Ed, I don't know if
+[08:20] you saw his latest frustration, uh,
+[08:22] Howard's complaining that when they do
+[08:24] the reconciliation on the tax bill, uh,
+[08:27] they they don't count the tariff
+[08:29] revenue, right? That has him very
+[08:31] frustrated.
+[08:33] So, Ed, do you think that the big
+[08:35] beautiful tax reform bill will pass the
+[08:38] Senate before the Fourth of July
+[08:40] holiday? Yeah. Uh, interesting question.
+[08:43] I would say yes. I I think it will. Uh,
+[08:45] so let me take a step back. Is that it,
+[08:48] miracle of miracles, it got through the
+[08:50] house. You really have to hand it to the
+[08:51] speaker of the house getting all of his
+[08:54] uh ducks lined up. I believe the vote
+[08:56] was 215 to 214. Not a lot of room to
+[09:00] spare. And there's a lot of people who
+[09:02] are not exactly thrilled with what the
+[09:04] House passed. So it goes off to the
+[09:06] Senate. Now, the big force on this is
+[09:09] Senator Ron Johnson, who has made it
+[09:12] clear he is he is not a fan. He thinks
+[09:13] that the uh there's they're not
+[09:15] attacking the deficit at all. He's right
+[09:18] about that. The question is how many
+[09:21] people agree with him and also there be
+[09:25] it would be important that they're going
+[09:26] against uh uh the president of their own
+[09:29] party. So, it's one thing to disagree,
+[09:32] but to actually sort of go on record and
+[09:34] block a bill, it would be a very
+[09:36] dramatic move. I don't think they quite
+[09:39] have the numbers just yet. At some
+[09:42] point, I could see some sort of battle
+[09:45] between uh the GOP on Capitol Hill and
+[09:48] the Trump White House becoming larger. A
+[09:51] a good point is that Ron Johnson, the
+[09:53] senator from Wisconsin, he was elected
+[09:56] in 2010, which means he's a Tea Party
+[09:59] guy and he's probably one of the last
+[10:02] who really believes the Tea Party stuff.
+[10:05] So much of the rest of the that
+[10:07] ideology, particularly the Treasury
+[10:09] Secretary, they're not into the deficit
+[10:12] reduction. That's not what gets them.
+[10:14] But Ron Johnson certainly does.
+[10:16] Ultimately, I think the Senate will come
+[10:18] together and pass something so they can
+[10:20] go on vacation with an actual
+[10:23] bill and then goes back to the House and
+[10:26] and it starts all over again with a
+[10:28] reconciliation. So, let's talk about
+[10:30] stocks. Um, you have a a four-star ETF
+[10:35] according to Morning Star. Uh, you're a
+[10:37] specialist in the midcap blend category.
+[10:40] So, how do you find your stocks? I hunt
+[10:43] and peck. an oldfashioned uh uh stock
+[10:46] picker. I look through lots and lots of
+[10:50] different companies and I try to find a
+[10:52] company with a strong market position, a
+[10:54] company with sound finances, a company
+[10:57] uh that dominates its industry. I love
+[10:59] uh I love buying monopolies. In fact,
+[11:02] the only thing better than a monopoly is
+[11:03] a is a near monopoly because it doesn't
+[11:06] get attention from the government. So, I
+[11:08] guess I could say I learned a lot of
+[11:10] this from you. So, I'm passing those
+[11:13] lessons on and um we're going to have,
+[11:16] as you know, uh lots of ETFs close up
+[11:20] shop every year, but we're as strong as
+[11:22] ever. We're near an all-time high. Uh al
+[11:25] and for um for shares outstanding and
+[11:28] aum. So, in September, it'll be nine
+[11:31] years. So, in in ETF years, that's uh
+[11:34] that's a long long time. That's awesome.
+[11:37] And if it ever slows, you just rename it
+[11:39] the Monopoly ETF. Exactly.
+[11:42] Although I don't know if the ETF charter
+[11:44] lets you put everything in Nvidia. Uh
+[11:47] but
+[11:49] u I like to say we've gone from a
+[11:51] magnificent seven to a magnificent one.
+[11:53] You know it is well congratulations on
+[11:56] that. Ed, I was wondering if you could
+[11:58] share how people can buy your ETF with
+[12:00] the smallest possible bid ask spread.
+[12:03] Uh, you know, that's a really good
+[12:05] question and it it's actually it's very
+[12:07] important because it highlights what
+[12:10] what makes ETFs so great, why they make
+[12:13] such a good investment vehicle. So, let
+[12:15] me uh uh back up for a second. A lot of
+[12:18] times when uh my ETF is uh, you know,
+[12:20] around 200 million, a lot of times
+[12:22] people don't like a smaller ETF because
+[12:26] they think it's not liquid. So if they
+[12:29] buy shares, they'll be sort of trapped
+[12:31] in. And that is a a misunderstanding of
+[12:34] how ETFs work. Uh because ETFs can
+[12:38] essentially print shares automatically
+[12:40] to meet demand or delete shares to meet
+[12:44] selling demand. That's what makes ETFs
+[12:46] really cool and why they work so well.
+[12:49] So now there is a liquidity issue on the
+[12:53] underlying stocks. That's not an issue
+[12:55] for us because they're pretty liquid
+[12:57] stocks. So, it's a misunderstanding that
+[12:59] a lot of people have about how ETFs
+[13:02] work. Now, what we say is to if you're
+[13:06] looking to buy CWS, we always recommend
+[13:09] using limit orders. And that's I think
+[13:11] the best way to be disciplined, the best
+[13:14] way to get a good fill, remember that
+[13:16] every, you know, Warren Buffett can get
+[13:18] a bad fill. That's just how the traders
+[13:20] are. So, what we recommend is layering
+[13:24] some trades usually just below the uh
+[13:28] the the the market value that you'll see
+[13:30] you the last trade for CWS. Sometimes
+[13:34] you'll get lucky, sometimes you won't.
+[13:35] But if you're patient and you're
+[13:37] disciplined and you put in, let's say,
+[13:40] uh uh CWS is at uh
+[13:44] $6923 per share. Well, put in a buy
+[13:48] order for 200 at
+[13:50] 6906 or something like that. You may get
+[13:52] filled, but you may may not. But time is
+[13:54] on your side. So, it's a high quality
+[13:57] ETF. You don't have to run in and lock
+[13:59] in at at an exact price, but you can get
+[14:02] a good price using limit orders and just
+[14:05] being disciplined and having some
+[14:06] patience. And Morning Star shows your
+[14:08] intraday indictive value. That's the
+[14:10] equivalent of your NAV, right? That Yes.
+[14:13] Great. Great. Well, that's wonderful.
+[14:16] You know, when I had my own ETF, um, I
+[14:19] was so frustrated because my average
+[14:20] spread, according to Morning Star, was
+[14:23] 3.54%. And, you know, we got up to 80
+[14:25] million. It was revenue weighted, so the
+[14:27] large stocks dominated, but uh, yeah,
+[14:30] ETFs have gotten a lot better. Spreads
+[14:32] have, uh, tightened up immensely. Now,
+[14:34] when I did ETFs, um, we couldn't
+[14:37] rebalance every quarter. So, um, and now
+[14:41] a lot of ETFs rebalance daily. So, are
+[14:43] do you have a a daily NAV on your ETF or
+[14:47] do you I mean I I I I get the report
+[14:49] from the bank. They they tell us what
+[14:51] the you know the NAV is each day. Uh we
+[14:55] rebalance it's you know because it's
+[14:57] stock pickers. We we have 25 stocks is
+[15:00] what we hold. We don't make any changes
+[15:03] throughout the year and then at the end
+[15:05] of the year five new ones go in, five
+[15:08] old ones go out. Oh, excellent.
+[15:10] Excellent. Well, that's easy to price
+[15:11] then. Okay. Yeah. Okay. Wonderful. Well,
+[15:14] again, congratulations. That's a thanks.
+[15:16] Quite an achievement to get a couple
+[15:17] hundred million and also, of course, to
+[15:19] be uh top rated by Morning Star. Now,
+[15:22] let's switch over to some of the stocks
+[15:23] that will be announcing earnings next
+[15:25] week. Dad, what do you think about
+[15:27] Dollar General? Well, their sales are
+[15:29] forecast to rise 3.7%, earnings are
+[15:32] forecasted decline
+[15:34] 10.4, but they've had recent positive
+[15:36] balance revisions. And um the only issue
+[15:40] with Dollar General, they truly have a
+[15:42] horrible earning surprise history. So I
+[15:45] don't trust this stock, but you know the
+[15:47] they'll give us some guidance to the
+[15:49] mood of the consumer. Uh you know, we we
+[15:51] have two types of consumers in America.
+[15:53] We have the affluent ones, mostly
+[15:55] boomers, and then we have the people
+[15:57] that can't make ends meet. So Dollar
+[15:58] General caters to more of the lower
+[16:01] income people. So their guidance will be
+[16:02] very interesting. Yeah, I I was going to
+[16:04] say, you know, it really it's sort of
+[16:06] like a uh an econ report on uh you know,
+[16:09] more downscale consumers. One of the
+[16:11] things uh before I really got into
+[16:13] investing, I didn't realize is that
+[16:16] catering to lower-end consumers can be
+[16:19] very very profitable. I always assumed
+[16:21] that, you know, you but you know,
+[16:23] Tiffany, that's where all the money is.
+[16:25] No, that's not true at all. If you can
+[16:27] uh if you if you can, you know, give
+[16:29] services to uh people who don't aren't
+[16:33] as fluent, you can run a very very good
+[16:35] business that way. Now, what do you
+[16:37] expect for Crowd Strike Holdings? Well,
+[16:39] this is of course the big uh company
+[16:41] that uh tries to protect the cloud and
+[16:45] they had that glitch a while back where
+[16:47] the airlines stopped working in Europe
+[16:49] because there was a software upgrade and
+[16:52] uh it kind of crashed the the Microsoft
+[16:55] Azer cloud service and um they had a
+[16:59] quick patch and uh but they've never
+[17:01] quite recovered from that. you know,
+[17:03] their sales are forecast to rise 20% but
+[17:06] earnings are forecast to decline 29%.
+[17:09] There's steady analyst estimates. Uh,
+[17:11] and they have a good earning surprise
+[17:13] history, but that they're still in the
+[17:15] backwash of what happened to the
+[17:17] European Airlines. And uh Ed, I don't
+[17:20] know if you remember when that happened,
+[17:22] Microsoft didn't blame CrowdStrike, they
+[17:24] blamed the EU for having o open- source
+[17:27] software, you know, and uh and that was
+[17:30] something, you know, the former FTC
+[17:32] chair, Lita Khan, was trying to do,
+[17:34] force everybody to be open source, and
+[17:37] that's one of the fights that we're
+[17:39] having now. you know, uh Kurt Simer
+[17:41] wants to um Apple to open up its
+[17:45] um iCloud so they can go see if
+[17:49] anybody's saying anything nasty party,
+[17:51] you know. So, it's uh it's interesting,
+[17:54] you know, when you operate around the
+[17:56] world, you have to have different rules.
+[17:57] But yeah, um anyway, Microsoft obviously
+[18:01] defended Crowd Strike, but um do you
+[18:02] have any opinion of the stock? I mean,
+[18:04] it's basically I I agree with you. you
+[18:07] know, it it it seemed like it was kind
+[18:09] of a market darling a few years ago and
+[18:11] maybe has lost some of its luster over
+[18:13] the last few years. And I believe they
+[18:15] had their their uh guidance I could be
+[18:18] wrong on this, but I thought that was a
+[18:20] a bit weak or the market took it that
+[18:23] way. But that's I I that's all I can say
+[18:26] as far as I know about Crowd Strike. And
+[18:28] do you expect positivity for Broadcom
+[18:30] Incorporation? Absolutely. Their sales
+[18:33] are forecasted to be up 19.9%.
+[18:36] Earnings are forecasted to go up
+[18:39] 43.1%. They have positive analyst
+[18:41] revisions. Uh they have a good earnings
+[18:43] surprise history. This is a great great
+[18:46] bell weather and it's a great way to end
+[18:48] the earnings announcement season on that
+[18:50] news. Yeah, very very strong stock.
+[18:53] Little concerned about the price, but it
+[18:54] it is a it's a market powerhouse. And
+[18:57] lastly, what do you expect for
+[18:58] Lululemon? Their sales are forecast to
+[19:00] rise uh 6.7%. uh earnings are forecast
+[19:04] to only go up 2.1, but their steady
+[19:06] analyst estimates and they have a good
+[19:09] earnings surprise history, but their
+[19:10] guidance is going to be crucial. The
+[19:12] interesting thing about Lulu, it's the
+[19:14] sales of men's products. Um, and
+[19:17] apparently men don't buy their own
+[19:19] stuff, okay? They have to have women buy
+[19:21] it for them. So, uh, they their guidance
+[19:24] will be crucial and, um, but you know, I
+[19:28] they cater to very affluent consumers.
+[19:31] So, I'm kind of suspecting give good
+[19:34] guidance. I got to be honest, I've
+[19:35] always been puzzled by the popularity of
+[19:38] Lululemon that some people just love the
+[19:40] stock. I've never been really
+[19:42] overwhelmed by it. Uh, you know, the
+[19:44] revenues have grown consistently. I
+[19:46] don't think this year is supposed to be
+[19:48] a very strong year for them. I think
+[19:49] it's basically uh basically flat
+[19:51] earnings and I just don't see how you
+[19:53] can justify a price level that high.
+[19:56] Maybe if they if they dropped uh down
+[19:58] about, you know, 20% or so over the next
+[20:01] year, I could be interested right now.
+[20:03] But uh as of as of now, I I just not
+[20:07] terribly impressed by the company. You
+[20:09] know, Ed, I would add that um even
+[20:12] though shopping's gone more online, in
+[20:14] the Lulu stores, they would have like
+[20:17] one yoga thing on the shelf to create
+[20:21] the appearance of scarcity.
+[20:23] There'd be like 200 of them in the back
+[20:25] room. Do you know what I mean? So they
+[20:27] they knew how to retail. Okay. They knew
+[20:29] how to create the the the
+[20:33] the demand. So, have you been in a Lulu
+[20:36] store, Crystal? Have you ever been in
+[20:37] one? Yeah. Actually, that's so funny
+[20:39] that you say that because I had that
+[20:41] exact experience. They came out with
+[20:44] like a new type of legging that's like
+[20:46] very 2000scoated where they had like the
+[20:49] fold over top and I saw it in the store
+[20:51] and I was like, "That's adorable. I
+[20:53] would love a pair." Um, I love all their
+[20:55] stuff for working out and they didn't
+[20:57] have my size and I was like, "Oh my
+[21:00] gosh, like that sucks. I guess I'm going
+[21:02] to order it online." And I went online
+[21:04] and I saw that I could have picked it up
+[21:07] in the store. So, I went to the sales
+[21:08] associate. I was like, "Oh, do you have
+[21:10] an extra pair?" She's like, "Oh, yeah.
+[21:11] We keep a bunch of extra sizes in the
+[21:13] back. Let me check." So, they had like a
+[21:15] bunch of my size in the back. And was
+[21:17] like, so me and my friend got a pair.
+[21:19] And it was like it was just an
+[21:20] interesting interesting thing that you
+[21:22] had to ask for it. Yeah. Yeah. They they
+[21:25] create the illusion of scarcity. Keep
+[21:28] the price and then you're just so happy
+[21:30] you got one, you know. No. Yeah. I was
+[21:33] like I was like, "Well, now I have to
+[21:34] get it because now you have my size."
+[21:36] Anyways, that's right. Good marketing.
+[21:39] So, let's pivot to some of the economic
+[21:41] news next week. What do you expect for
+[21:43] the ISM manufacturing report?
+[21:46] Well, um, you know, there's some reports
+[21:49] that the auto industry is starting to
+[21:51] wayne just a tad after, you know,
+[21:53] building up inventory. So, I'm a little
+[21:56] worried about it. And of course, we hope
+[21:57] Boeing starts building planes. You know,
+[21:59] we saw in the durable good orders, it's
+[22:02] an incredible drop on commercial airline
+[22:04] orders, even though Trump got uh Boeing
+[22:07] a bunch of orders in on his Middle East
+[22:10] trip. So this is going to be a little
+[22:11] bit more of a wild card, but um you know
+[22:14] this is the part of our economy that's
+[22:17] struggling. Obviously there's going to
+[22:18] be a lot of
+[22:20] onshoring. I think the real pro other
+[22:22] thing that's hanging over ISM
+[22:24] manufacturing, we just got to get the
+[22:25] housing market better. You know, housing
+[22:28] sales are really slowed and there's a
+[22:29] lot of durable goods that go into homes,
+[22:32] you know. So uh that's just another
+[22:34] reason the Fed needs to cut rates to fix
+[22:36] this sector of the economy. So, if we
+[22:38] get a week, uh, an ISM report is just
+[22:40] going to turn up the pressure on the
+[22:42] Fed. I I'm a fan of the ISM report, uh,
+[22:46] because it comes out the first business
+[22:47] day of the month covering the previous
+[22:50] month. And it's a survey, so they just
+[22:51] ask all the people at at the company
+[22:54] who's ever in charge of buying stuff.
+[22:56] They say, "Are you buying more? Are you
+[22:58] buying less? Are you buying the same?"
+[23:00] And they just take that all and they So,
+[23:02] you know, 50 is dead even. If it's
+[23:04] higher than 50, it means manufacturing
+[23:06] is growing. If it's below 50, means it's
+[23:08] not. And we've had a long, long run of
+[23:12] being just below 50, not really bad, but
+[23:15] just kind of sluggish. So, I think
+[23:17] that's going to continue. And really, I
+[23:20] think Louis, what you said, there was,
+[23:23] you know, some buying to lock in prices
+[23:26] before the tariffs. will probably see
+[23:28] effect of that but uh I think it's too
+[23:31] early to see any effect of the price of
+[23:34] terrorists uh impacting I think it's
+[23:37] going to be more of the same something
+[23:38] like 48 49 in that area and what do you
+[23:42] think about the Fed's beige book survey
+[23:45] I just want to look at the districts see
+[23:46] how many are strong how many are weak um
+[23:49] that's all I really care about there's
+[23:51] 12 districts and if three to four are
+[23:54] struggling it just puts more pressure on
+[23:55] the Fed but I I think things are doing
+[23:58] better now. You know, the springtime
+[23:59] weather came and things just really
+[24:01] firmed up as the weather got be better.
+[24:03] But that's what I want to look at when I
+[24:05] see that uh that Fed survey. What I like
+[24:08] about it is it breaks it down by
+[24:10] district. So you can see, you know, we
+[24:12] always say how's the economy doing, but
+[24:14] that's, you know, kind of a misleading
+[24:16] sometimes like the oil patch can be very
+[24:18] weak or you'll see areas of the of the,
+[24:20] you know, more touristy areas of the
+[24:22] country, they're not doing so well. So
+[24:24] that's why I like the beige book sort of
+[24:25] you can see at that uh more detailed
+[24:28] level of how the economy is doing and
+[24:31] what can people expect from the ADP and
+[24:33] payroll reports. Well, ADP of course is
+[24:36] the uh private survey that comes out on
+[24:38] Wednesday and uh it was pretty pathetic
+[24:41] in the previous month and I like ADP
+[24:44] because they actually do the payroll
+[24:46] processing and uh while the labor
+[24:49] department report on Friday has all
+[24:50] these seasonal adjustments and of course
+[24:52] they include government workers. So, we
+[24:56] want to, personally, I'd like to see a
+[24:58] weak ADP report, put pressure on the
+[25:00] Fed, and I'd like to see even a weaker
+[25:03] um payroll report on uh Friday because
+[25:07] uh I want put more pressure on the Fed.
+[25:10] And, you know, we'll see if the Doge
+[25:13] cuts ever showed up in the in the
+[25:14] report. And um the Fed has made it clear
+[25:17] their mandate is now inflation, not
+[25:20] unemployment. Powell made that comment
+[25:22] and I think he should stick to his
+[25:25] mandate and take care of both. Yeah. And
+[25:28] and in between those two reports, we'll
+[25:30] get the uh initial jobless claims on
+[25:33] Thursday. So, you get that. Uh if you're
+[25:35] into jobs reports next week, boy howdy,
+[25:38] that's for you. Uh I think we'll um I I
+[25:42] I think last time the um non-farm
+[25:44] payrolls was 177,000. I imagine we'll
+[25:48] get something pretty much the same, plus
+[25:51] or minus 20,000. And also the
+[25:53] unemployment rate I think is
+[25:56] 4.2%. Also with that I'd like I want to
+[25:58] see how um wages are uh wage growth it's
+[26:03] been you know wages have been growing
+[26:05] but kind of a little bit more than
+[26:07] inflation. So it's actually going home
+[26:10] in people's pockets hasn't been that
+[26:12] great. Be interesting to see what kind
+[26:14] of number we get from that. That's a
+[26:16] great observation, Ed. Um, you know,
+[26:19] Jerome Powell, I think, um, gave the
+[26:22] commencement speech at Princeton. He's
+[26:23] an alumni there. And, uh, he, uh, he was
+[26:27] going off how he should have got an
+[26:28] economic degree, but, he got a degree in
+[26:30] politics. And I guess the real criticism
+[26:33] now is the Fed's starting to play
+[26:34] politics. And instead of looking at the
+[26:37] data, they're they're just u dragging
+[26:40] their feet doing nothing. I can tell you
+[26:42] that based on a lot of appointments that
+[26:43] were made, there's not a lot there's
+[26:45] some people in the Fed that aren't
+[26:46] qualified. Uh I was encouraged by Austin
+[26:48] Goulby the other day, um he hinted that
+[26:52] Ray Cut might be coming and then Neil
+[26:54] Kashar is a great spokesman. So those
+[26:57] are the two guys I I listen to. And then
+[27:00] um of course none of those guys are
+[27:02] going to become Fed chairman. Trump's
+[27:03] already got his new guy to re I think
+[27:06] it's
+[27:08] Yeah. He's supposed to replace Powell
+[27:11] when his term expires. So, do you
+[27:13] remember Bessin's idea that they would
+[27:16] appoint him but not confirm him yet and
+[27:20] and so Pal would serve out the rest of
+[27:22] his terms? So, there would be sort of
+[27:23] like a shadow Fed chairman that was as
+[27:27] floated that idea. I don't think that
+[27:29] went anywhere, but I I this is why
+[27:31] you're a DC insider. You just don't know
+[27:33] it,
+[27:36] you know. Okay. I'm glad you're planted
+[27:38] that idea in Scott's head. Okay. I I
+[27:41] could I got to make up, you know, I was
+[27:42] at Burning Tree and uh Scott likes to
+[27:45] play congressional. I'm a more of a
+[27:47] Burning Tree guy, but yeah, we were
+[27:48] having, you know, scotch uh at the
+[27:50] accidental. We This is what we were
+[27:52] talking about. So, Ed, your dad worked
+[27:54] for the NSA and I expect that you have a
+[27:56] different view of the world. Are there
+[27:59] any global macro events that you foresee
+[28:02] that could disrupt the stock market? Uh
+[28:05] yes, I do. That's all those things that
+[28:08] we worry about but that are on the back
+[28:11] burner and things can change very very
+[28:13] quickly. Obviously there's you know
+[28:15] geopolitical tensions in the Middle East
+[28:18] in uh Eastern Europe. We also have India
+[28:21] Pakistan that as Americans we sort of
+[28:23] don't talk about that a lot that could
+[28:25] is something it is a uh a cooled
+[28:29] environment but it could turn very hot
+[28:32] very quickly both our nuclear powers and
+[28:35] could alter the uh the entire you know
+[28:38] world commerce and then then in Japan
+[28:41] and Taiwan and then we have all the
+[28:44] issues about uh supplying us with uh
+[28:47] with chips that's always a big issue So
+[28:49] there's a lot of areas I am concerned
+[28:52] about.
+[28:54] Wow. Okay. Well, I was feeling pretty
+[28:57] good till you just said,
+[29:02] but the Fed will come in, cut rates, and
+[29:03] save everything. Yeah. And
+[29:07] speaking of the whole world and the Fed,
+[29:11] you know, the whole world's in a
+[29:13] demographic decline. Uh except for the
+[29:15] US and India, I think we're still
+[29:17] creating households. Mh. And
+[29:19] um I think Brazil's growing a little,
+[29:22] but Brazil's about supposed to shrink
+[29:24] pretty soon. So it'll just be us in
+[29:27] India with household formation. And then
+[29:29] of course in America, we do assimilate
+[29:31] our immigrants. And um uh and I I I
+[29:35] think Trump's still pro- immigration. I
+[29:38] just think he wants them to be on the on
+[29:39] the to be legal, of course. And um
+[29:44] but isn't this demographic decline going
+[29:47] to uh you know shrinking households in
+[29:50] China and Japan and all over Europe?
+[29:53] Isn't this going to cause um uh
+[29:56] economies to eventually contract? Uh
+[29:59] like even Canada's shrinking and they
+[30:01] have they have immigrants.
+[30:02] Well, I would say the the the country to
+[30:04] watch would be Japan because if anybody
+[30:07] can manage it and and come out the other
+[30:09] end of this, I don't think anybody's
+[30:11] done anything quite like this in the
+[30:13] modern world. So, I I would keep eye on
+[30:17] Japan. Also, the key uh crystals though
+[30:20] for years ahead the key letters are uh
+[30:23] TRF, total f TFR, total fertility rate.
+[30:27] That is the stat to watch. How many
+[30:29] babies are being born because that's
+[30:31] going to drive so much of the economy.
+[30:34] But I think Louis the real key aspect is
+[30:37] when you look at the social welfare
+[30:40] state. So if you have it's basically a
+[30:43] manifestation of the age pyramid. So you
+[30:45] if you want to have a social welfare
+[30:47] state and you have a lot of young people
+[30:50] relative to the number of old people,
+[30:52] it's a great idea. You can have a
+[30:54] wonderful, wonderful social welfare
+[30:56] state. The problem is when that age
+[30:58] pyramid turns upside down, then suddenly
+[31:02] you have a big problem with your welfare
+[31:04] state. It's a lot harder to run. How to
+[31:07] manage that? Tell people that they're
+[31:09] going to get less from what they paid
+[31:11] in. I don't think that's going to go
+[31:12] over too well. But this is the price of,
+[31:15] you know, not having children. And it's
+[31:17] effect not only the entire western
+[31:20] world. I think in Europe the total
+[31:22] fertility rate is something like 1.2 or
+[31:24] 1.3. It's extremely low. Uh you're
+[31:28] you're getting you know many more uh
+[31:30] grandparents than there are
+[31:31] grandchildren. I think this is going to
+[31:33] be a major issue that's going to drive
+[31:35] uh the world economy for the next 20
+[31:37] years or more. Yeah. And you know uh
+[31:41] Japan apparently has the highest birth
+[31:43] rate in Asia. And you would think it
+[31:45] would be Indonesia or Malaysia or some
+[31:47] place like that. uh but uh it's not um
+[31:50] so it's uh and I think they did fight
+[31:54] their demographic decline with some
+[31:56] productivity
+[31:57] enhancements but uh we'll see if we can
+[32:00] create more you know yeah I mean we
+[32:02] fight it by having immigration a lot of
+[32:05] those countries really do not China does
+[32:07] not the saying is that China will will
+[32:10] become old before it becomes wealthy so
+[32:13] shouldn't the US be an economic oasis
+[32:15] since we have better demographics and
+[32:17] assimilate immigrants
+[32:18] Yeah, that's that's the whole key, you
+[32:21] know. And uh if you need any proof, just
+[32:23] go to the south. It's booming. Uh go to
+[32:27] the mountain west, especially Utah. It's
+[32:29] booming. In fact, I think Utah has the
+[32:31] highest rate of household formation. So,
+[32:33] it's been the fastest growing state for
+[32:35] a long time. Uh and and immigrants come
+[32:39] here to work. And uh you know, the only
+[32:42] change is Trump just wants them to have
+[32:44] a green card and be in the system. Also
+[32:47] look at the US stock market versus the
+[32:50] rest of the world. I think it was
+[32:52] something like 14 years of
+[32:53] outperformance. It's only uh changed a
+[32:56] little bit recently. That's right. And
+[32:58] and earnings are still good. I mean, you
+[33:00] know, Nvidia was the grand finale and uh
+[33:03] although Broadcom, I guess, will be the
+[33:05] the last exclamation. And uh um we're
+[33:09] still double digit earnings growth when
+[33:10] you cap weight everything. I have uh one
+[33:12] of my stocks will be reporting on
+[33:15] Monday. SIC, which is a defense company.
+[33:19] So, they've been uh looking very good
+[33:21] lately. So, I'm optimistic for what
+[33:24] they'll have to say. Yep. Yep. Yeah.
+[33:26] Well, I think our munitions been
+[33:28] depleted because we gave them all the
+[33:30] Ukraine. So, yeah. Reload here.
+[33:35] Yeah. It's
+[33:36] uh defense is still initially in
+[33:40] business. Um, we have uh um ESLT we
+[33:44] added, Ed. That's the Israeli Defense
+[33:45] Contract. Uh, they're pretty busy over
+[33:48] there, too, as you might know. Ed, do
+[33:51] you have any opinions on gold and
+[33:52] crypto? I mean, I'm I'm pro crypto. Uh,
+[33:56] and I like to see I'm glad to see the
+[33:58] administration become more uh pro-
+[34:01] crypto. I can't really call myself an
+[34:03] evangelist on the issue. I always have
+[34:05] my feeling is let a a thousand flowers
+[34:08] bloom. So, I think it's, you know, and I
+[34:10] no way can I say I predicted the
+[34:13] dramatic rise in Bitcoin. Uh I I you
+[34:16] know, always thought, wow, it's been
+[34:18] it's been knocked out and it's always
+[34:20] come back. But I'm a fan of of crypto.
+[34:22] As far as gold, uh I've written a lot
+[34:25] about gold. I think that's just closely
+[34:27] tied to real interest rates. So,
+[34:30] interest rates after inflation, I think,
+[34:32] is sort of the big driver in gold. But
+[34:35] gold has also done well. I think it's uh
+[34:38] beaten the S&P 500 uh since uh over the
+[34:42] last, you know, several years. So, uh I
+[34:46] like to see gold do as well as right
+[34:48] now. A lot of people get very passionate
+[34:50] about, you know, the gold and crypto.
+[34:52] And I I really don't. I'm I try to be
+[34:54] more rational about uh about the issue.
+[34:57] Well, Ed, if you go to Costco, I don't I
+[34:59] suspect you don't go to Costco much, but
+[35:01] uh gold bars. Yeah. Yeah. I've seen
+[35:05] those. Yeah. So, uh do you know what
+[35:08] what it's one ounce you're getting,
+[35:10] right? I don't know. I I haven't bought
+[35:12] gold at Costco, but uh yeah, I think so
+[35:15] because it's three grand yet. It's
+[35:17] they're charging a lot for it. And uh
+[35:20] they're not selling crypto yet, but
+[35:22] maybe that's next. So, we'll see. So,
+[35:24] one final thing, Ed. Uh do you think the
+[35:26] dollar is going to get its mojo back? It
+[35:28] kind of got off to a rough start this
+[35:29] year with the bond vigilantes tormenting
+[35:32] uh Scott Basset and all, but uh it seems
+[35:36] to be trying to firm up here, especially
+[35:38] as ECB being a good Yeah, I mean I I
+[35:41] definitely think so. I would say I I
+[35:43] like the phrase getting its mojo back.
+[35:45] Um I mean the dollar is a very good
+[35:47] place to be and particularly what will
+[35:49] what the future will happen in Europe
+[35:51] really across the country across the
+[35:53] continent. I mean, you're seeing uh
+[35:55] brownouts and things like that in
+[35:57] Portugal. So, the dollar is uh is is
+[36:01] always a good place to be. Yeah. Yeah.
+[36:03] That whole blackout was um they didn't
+[36:06] have enough um turbons, you know, they
+[36:08] needed some baseline turbines. Uh at
+[36:12] least this was the Spanish blackout. the
+[36:14] um uh you know they have obviously a lot
+[36:17] of green energy and they're very proud
+[36:18] of that but you just need a turbine
+[36:20] spinning somewhere from hydro or gas or
+[36:24] something and if they just had 20%
+[36:26] turbons they wouldn't had that blackout.
+[36:28] Well thank you so much Ed for being here
+[36:30] and answering all of our questions.
+[36:32] Where can our viewers find you? Well I
+[36:34] have a Substack so you can go to C
+[36:39] cws.substack.com. Uh you can find me
+[36:41] there. Also, you can find out at advisor
+[36:43] shares website. You can find out all
+[36:45] information about the ETF. It's so it's
+[36:48] the advisor shares focus equity ETF and
+[36:51] the ticker symbol is CWS and then the
+[36:53] blog which is Crossing Wall Street. So,
+[36:56] a lot of places to find me. Well, thank
+[36:57] you so much and thank you to you all
+[36:59] again for watching and supporting us. If
+[37:01] you want to check out any of the links
+[37:03] that we've mentioned or Ed mentioned,
+[37:04] they will be in the description below.
+[37:06] But until then, we will see you all next
+[37:08] week for a new video. Thanks so much,
+[37:10] everyone.
+[37:11] [Applause]
+[37:11] [Music]
+[37:22] Heat up

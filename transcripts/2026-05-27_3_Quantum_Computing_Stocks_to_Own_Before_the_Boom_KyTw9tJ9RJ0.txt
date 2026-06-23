@@ -7,9 +7,387 @@ Type: video
 Duration: 13:50 (830s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 379
+Transcript characters: 13979
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The Trump administration is reportedly
+[00:02] putting two billion into nine quantum
+[00:04] computing stocks and three names just
+[00:06] went vertical. Before we get into
+[00:08] whether people should be buying these
+[00:10] stocks, what actually happened?
+[00:12] >> Sure. Well, the Trump administration via
+[00:14] the Commerce Department is handing out
+[00:16] two billion dollars to invest in quantum
+[00:18] computing companies, specifically nine
+[00:21] of them. The companies that are getting
+[00:23] these grants from the government are
+[00:24] also then giving equity stakes in their
+[00:27] businesses to the Trump administration.
+[00:29] So, quantum computing is going to be the
+[00:31] next generation of AI. It really kicks
+[00:33] in around 2030. It will accelerate
+[00:36] beyond that. So, this is very, very
+[00:38] exciting. All right. Well, let's pull up
+[00:39] Stock Grader. Let's start out with the
+[00:41] first one, IonQ. This one tracks the
+[00:44] whole sector. What's the grade telling
+[00:46] you and is it still worth being in?
+[00:48] >> IonQ invented something called a
+[00:51] quidbit, which is how to package data
+[00:53] for quantum computing, and they're also
+[00:56] expanding the quidbits and redefining
+[00:58] them. But, the bottom line is they are
+[01:01] the quantum computing leader. They have
+[01:02] very strong sales growth, and this
+[01:05] company is a proven winner. They don't
+[01:07] have earnings yet, but I love their
+[01:09] strong sales growth. At this time, of
+[01:11] all the quantum computing stocks, IonQ
+[01:14] is definitely the strongest because of
+[01:16] its latest quarterly sales surge. So, if
+[01:19] you want to take a leap of faith and
+[01:21] jump into quantum computing before these
+[01:23] stocks earn money in 2032 or so, IonQ is
+[01:27] your best bet.
+[01:28] >> Now, let's talk about stock number two.
+[01:30] We talked about it quite a bit, D-Wave.
+[01:32] Did this government news change anything
+[01:35] for you about it? Yeah, it made it more
+[01:37] legitimate. Obviously, D-Wave won the
+[01:39] Nvidia quantum computing contest.
+[01:42] Essentially, what is going on,
+[01:43] everybody's trying to figure out how to
+[01:45] program quantum computers, and D-Wave is
+[01:47] the leader in that regard. And the fact
+[01:50] that they got a hundred million dollars
+[01:51] from the federal government is a big
+[01:53] deal. So, that it basically will help
+[01:56] ensure its success. So, I would say
+[01:58] that's my second favorite pick at this
+[01:59] moment.
+[02:01] >> Rigetti, probably the most speculative
+[02:03] of the three. Same question, how do you
+[02:06] feel about them? Well, Rigetti wants to
+[02:08] set the encryption standard for quantum
+[02:11] computing. That's uh obviously
+[02:12] important, of course, with all the
+[02:14] cybersecurity things that go on out
+[02:16] there. I think they'll be successful,
+[02:18] too, but we've just mentioned the three
+[02:20] stocks we expect will be leaders in the
+[02:23] upcoming years. None of these stocks are
+[02:25] making money yet, but the the US
+[02:27] government investment means a lot.
+[02:29] >> This brings me to one of our subscriber
+[02:31] questions that wants you to give us a
+[02:33] current outlook for robotics and quantum
+[02:36] computing. Well, they're separate. Okay,
+[02:38] quantum computing kicks in around 2030.
+[02:42] After the last generation of Nvidia GPU,
+[02:45] we're supposed to pivot from the Nvidia
+[02:47] GPUs to quantum computing. That's where
+[02:50] we use one and a zero instead of one or
+[02:52] a zero. It's going to be harder for
+[02:54] Nvidia to make their chips faster beyond
+[02:57] the end of this decade. So, quantum
+[02:59] computing is just the next generation of
+[03:00] AI. Robotics is very simple. The robots
+[03:04] are all pre-programmed on routines. So,
+[03:07] self-driving cars can only go where
+[03:10] they've been mapped to go and trained to
+[03:12] do. The Tesla Optimus 3 robot that will
+[03:16] be going into the factory floor to help
+[03:18] manufacture vehicles can only do what
+[03:21] it's been pre-programmed to do. The same
+[03:24] thing with the Boston Dynamics robot
+[03:25] that will be going into Hyundai's plant
+[03:28] in Georgia. Robots don't at this time
+[03:31] have free will. Free will will allow the
+[03:34] robots to think and learn for
+[03:35] themselves. A lot of that machine
+[03:37] learning has to come through the data
+[03:39] centers. Maybe it'll be eventually
+[03:41] transmitted to robots via Wi-Fi or
+[03:44] something, but at this time, okay,
+[03:47] robots only work on pre-program
+[03:50] routines. So, Elon Musk
+[03:54] painted a picture of the future when he
+[03:56] had his robo-taxi event at Universal
+[03:58] Studios. In addition to the robo-taxis
+[04:00] and the robo-buses, but we're following
+[04:02] a pre-programmed routine. There were
+[04:04] Optimus robots serving drinks and
+[04:06] appetizers. But,
+[04:08] you know, we are far from having Optimus
+[04:11] walk our dog. We are far from Optimus
+[04:14] doing our laundry or dishes. This may
+[04:17] happen in the future. I'm sure Wi-Fi
+[04:19] will be faster and maybe it can
+[04:22] communicate with the data centers and
+[04:23] tell the robot what to do after the
+[04:25] robot sends it a question. But, right
+[04:27] now we have no free will on the robots
+[04:30] and that's where we are at this
+[04:32] juncture. While we're talking about AI,
+[04:34] I want to also bring up another
+[04:35] subscriber question that was saying AI
+[04:37] stocks are attracting the bulk of
+[04:40] capital investment. Can you talk a
+[04:42] little bit about where this revenue
+[04:44] sources are coming from? It's coming
+[04:45] from the data center build out, which is
+[04:48] more than half the construction in
+[04:49] America at this moment. And the other
+[04:52] thing everybody should be aware of that
+[04:54] there are shortages. So, that gives
+[04:56] everybody pricing power. This week the
+[04:59] memory stocks are surging because of the
+[05:02] not only is Micron Technologies earnings
+[05:05] about to happen, but also the memory
+[05:08] shortages are just very acute right now.
+[05:10] So, that's in the news and there were
+[05:11] some analyst upgrades on Micron that got
+[05:13] everybody excited. On top of that,
+[05:15] Nvidia does deals with other companies
+[05:18] and when Nvidia touches that company, it
+[05:21] instantly becomes more valuable and then
+[05:23] that company can then go raise money in
+[05:25] either in the bond market or selling
+[05:27] stock to buy the Nvidia chips. So,
+[05:29] there's a lot of what we call circuit
+[05:31] Nvidia deals as Nvidia goes out and
+[05:34] expands its its presence and its
+[05:36] alliances with many companies. But, no,
+[05:39] the revenue is real. I mean, Nvidia is
+[05:41] 16% of the United States GDP, probably
+[05:44] headed to 20% and so tech is a a big
+[05:47] part of our GDP, a big part of the stock
+[05:50] market, and it's grossly overweighted
+[05:52] compared to other industries. I just
+[05:54] want to take a quick moment to say thank
+[05:56] you all so much for giving us all your
+[05:57] questions. Now, because of that, we are
+[05:59] going to be doing a bonus episode
+[06:01] tomorrow. Louie is going to go deep on
+[06:03] four cheap stocks with real
+[06:05] fundamentals. So, subscribe, you don't
+[06:07] want to miss that. But first, someone
+[06:09] went on national television this weekend
+[06:11] and said none of this matters because a
+[06:13] crash is coming. Andrew Ross Sorkin went
+[06:16] on 60 Minutes and said that we will be
+[06:18] having a crash. He's comparing today's
+[06:21] market to 1929.
+[06:23] Dad, what was your reaction to this?
+[06:25] Well, this is the second time Andrew's
+[06:27] done this recently on 60 Minutes, and he
+[06:30] wrote a book about 1929 and the
+[06:32] parallels between 1929 and where we are
+[06:34] today. There are no parallels. I I'll be
+[06:36] very honest with you. Back in 1929, you
+[06:39] could be leveraged 10 to 1. You can't be
+[06:41] like have that kind of leverage right
+[06:42] now. You know, I realize there are
+[06:44] derivatives and options and things like
+[06:46] that, but that's not what's making the
+[06:49] market go higher. What's making the
+[06:50] market go higher is earnings, okay? And
+[06:52] confidence, and a growing economy. And
+[06:54] to insinuate that we're approaching a
+[06:57] bubble like 1929 is is ridiculous.
+[07:00] Specifically, Andrew basically says a
+[07:03] correction is going to be coming, and it
+[07:05] always does, and he's right on that. But
+[07:07] not now, okay? I think the other thing
+[07:10] that's going on is Andrew writes for the
+[07:12] New York Times in addition to being a
+[07:14] CNBC anchor. And obviously,
+[07:17] heading into the midterms, there's a lot
+[07:18] of negative articles. If you want to
+[07:20] read negative articles about America or
+[07:23] our current administration, all you have
+[07:25] to do is subscribe to the Financial
+[07:27] Times, a British publication.
+[07:29] Apparently, everything we do is wrong,
+[07:31] okay? According to them. And in fact, I
+[07:34] just read an article where Iran's
+[07:36] winning, okay? According to the
+[07:37] Financial Times. They're outsmarting us
+[07:39] in the negotiations. So, you know, you
+[07:42] have to realize there's just a negative
+[07:44] media out there is on a mission to to
+[07:47] throw cold water on everything good
+[07:49] that's happening and I refuse to let
+[07:52] Andrew Ross Sorkin be the party pooper.
+[07:54] And I I think it's also not good for
+[07:57] CNBC's ratings, you know, to have a
+[07:58] party pooper on TV like that because you
+[08:01] got to see the forest through the trees.
+[08:03] And basically what we see is record
+[08:05] earnings, record order backlogs, money
+[08:08] pouring in the market. We see the US
+[08:10] dollar becoming incredibly strong. We're
+[08:12] an oasis for the world. You know, that's
+[08:15] why there's 9 and 1/2 trillion dollars
+[08:17] of foreign capital only our treasuries.
+[08:19] And you know, if you want to be
+[08:21] successful, just follow America. And if
+[08:24] it's for someone to bash America, bash
+[08:26] our stock market, you know, it's it's
+[08:28] just very, very unfortunate. So, I hope
+[08:31] that 60 Minutes episode had low ratings.
+[08:34] I think it deserved low ratings cuz
+[08:35] there were no specifics given when there
+[08:37] might be a crash and it's not imminent.
+[08:39] Right. If you're going to say that crash
+[08:41] is coming on national television, you
+[08:43] owe people a reason. Yeah, an an
+[08:45] intimate reason, okay? Not that it'll
+[08:46] eventually happen, okay? You know, I
+[08:49] mean, you know, an asteroid will hit
+[08:51] Earth and and life as we know it, okay?
+[08:53] But it's not imminent to my knowledge,
+[08:56] okay? That said, he didn't mention one
+[08:58] topic that could be a risk. Is the bond
+[09:01] market having a threat there? Well,
+[09:03] yeah, there's these things called bond
+[09:05] vigilantes and they have caused uh
+[09:07] Japanese bond yields to soar. And in the
+[09:10] meantime, the Japanese yen has lost
+[09:12] quite a bit against the US dollar, I
+[09:13] think 7.8% just in April alone. It's
+[09:17] caused British bond yields to soar cuz
+[09:19] you know, British has these huge budget
+[09:20] issues, you know, and then of course, uh
+[09:23] they've been picking on France. France
+[09:25] is a dysfunctional state because Marine
+[09:27] Le Pen controls the parliament and they
+[09:29] can't pass a budget uh with Macron. But
+[09:31] yeah, we have a big deficit. We have a
+[09:33] 39 trillion dollar deficit and the only
+[09:35] way to to deal with this is to try to
+[09:38] outgrow it. And that's what they're
+[09:39] trying to do, okay? There's something
+[09:42] called the velocity of money, which is
+[09:43] how fast money changes hands. And when
+[09:46] you run a government, you want to make
+[09:47] sure that velocity of money is optimal.
+[09:50] And that means you have to have an
+[09:52] inspirational leader, means you have to
+[09:54] have the right tax policies, you have to
+[09:56] be pro-business. And to be candid,
+[09:59] that's what America is, okay? And even
+[10:01] when we don't have the right leaders, at
+[10:03] least we have 50 states competing with
+[10:05] each other. And I just think it's time
+[10:07] to stop bashing America and realize how
+[10:10] fortunate we are. Obviously, there was a
+[10:11] situation in the Middle East that caused
+[10:14] gas prices and everything to to go up,
+[10:16] but US was barely affected compared to
+[10:18] the rest of the world. And that's why we
+[10:21] are the leader now and and everyone that
+[10:23] wants to grow has to hitch their ride to
+[10:25] us, like China. That's why China had
+[10:27] hitched their ride to us, cuz they were
+[10:29] having some export issues. So, uh
+[10:31] President Trump went over there, we made
+[10:33] some business deals with them. President
+[10:35] Xi may be coming to Washington, I don't
+[10:36] know if that's been confirmed yet, but
+[10:38] the bottom line, we need each other and
+[10:41] and we'll help carry the whole world
+[10:42] economy together.
+[10:44] >> Speaking of news outside the US, there
+[10:46] was something else that moved this week
+[10:47] that connects directly to this. Crude
+[10:50] oil is falling and there is genuine
+[10:52] movement on the US-Iran deal. What does
+[10:55] that mean for the market? Are we going
+[10:57] to see cheaper oil in the future? Yeah,
+[10:59] we should. Well, we're going to see
+[11:00] cheaper oil no later than the fall, cuz
+[11:02] worldwide demand drops in the fall. It
+[11:04] goes up in the spring, it goes down in
+[11:05] the fall, and that's just cuz there's
+[11:06] more people in the northern hemisphere
+[11:08] than southern hemisphere. But
+[11:09] specifically back to Iran and the Strait
+[11:11] of Hormuz, during these negotiations,
+[11:13] the US did take out some missile sites
+[11:15] in southern Iran to protect the Strait
+[11:17] of Hormuz, to keep it open, okay? And
+[11:20] that's why even though we had missile
+[11:22] strikes on Iran, the oil prices are
+[11:25] still falling, cuz we're trying to keep
+[11:26] the Strait open. So, that's good news,
+[11:28] okay? The reason that Iran has to
+[11:31] negotiate is there's no places to put
+[11:34] the oil and they don't want to shut down
+[11:35] the well heads which would take a while
+[11:37] to to restart. So, they're kind of
+[11:40] hurting right now and they have to do a
+[11:42] deal if they want that oil to flow. And
+[11:44] of course the US is going to control
+[11:47] that. So, we're going to control that
+[11:48] oil just like we control Venezuela and
+[11:50] Guyana and of course the oil in our
+[11:53] hemisphere as well. So, this is again
+[11:56] going to be very interesting. It's very
+[11:58] obvious that President Trump doesn't
+[12:00] want to have continued military action
+[12:02] unless unless we're provoked or
+[12:04] threatened. It's also very interesting
+[12:06] he wants the other nations in the Middle
+[12:08] East to join the Abraham's Accord which
+[12:10] would basically make Israel the
+[12:13] powerhouse in the Middle East. But, you
+[12:15] know, a lot of these countries don't
+[12:16] have a sufficient military to protect
+[12:18] themselves. So, you know, they can use
+[12:20] Israel to protect them as well as the
+[12:22] US. So, it's going to be very
+[12:24] interesting, but the market did did
+[12:27] rally despite the assault on the
+[12:29] Iranian missile sites because we're
+[12:31] trying to keep those straight open. So,
+[12:33] hopefully we'll get a deal done and all
+[12:35] this talk that Iran's outsmarting
+[12:38] America and stuff, that's all emanating
+[12:41] from foreign media, especially Britain.
+[12:43] Well, that's the kind of nuance you
+[12:44] don't get from 60 minutes. But, speaking
+[12:47] of sectors, we got a viewer question
+[12:49] about health care that I want to quickly
+[12:51] squeeze in. What is your outlook on
+[12:53] health care right now? Well, Lilly is
+[12:55] the big winner in health care. They have
+[12:57] more blockbuster drugs that have been
+[12:59] have good trials and that will be
+[13:01] hitting the markets. Obviously, the
+[13:03] GLP-1s are phenomenal success. They
+[13:05] dominate that. We have a thing called an
+[13:08] optimization model and the optimization
+[13:10] model is asking me to boost the weight
+[13:12] in Lilly. It's it's that dominant.
+[13:15] Outside of Lilly, you know, I have
+[13:16] Cardinal Health that showed up. I have
+[13:18] some biotech stocks that also have good
+[13:20] forecast sales and earnings, but there's
+[13:22] no doubt that Lilly is the leader. When
+[13:24] it was just disclosed that Trump owns
+[13:25] Eli too. I should add that. But Trump
+[13:27] owns a lot of our stocks when that
+[13:29] disclosure came out. But I just noted
+[13:31] that he does own a lot of Lilly. Well,
+[13:34] there's a lot going on in the market.
+[13:36] Stay tuned to our bonus video tomorrow
+[13:39] where we're going to go on a deep dive
+[13:40] of four different cheap stocks that you
+[13:43] guys have been requesting. As always, if
+[13:45] you have any questions, please leave
+[13:46] them in the comments below, but we'll
+[13:47] see you tomorrow for a new video.

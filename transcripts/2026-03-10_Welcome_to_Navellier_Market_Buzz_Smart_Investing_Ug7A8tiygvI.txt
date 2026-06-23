@@ -7,9 +7,33 @@ Type: video
 Duration: 0:56 (56s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 25
+Transcript characters: 732
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The stock market volatility is greater
+[00:02] than ever. Hype, headlines, confusion
+[00:04] everywhere.
+[00:05] >> I'm Louis Navalier. I've spent decades
+[00:07] identifying market leaders before they
+[00:09] break out.
+[00:10] >> And I'm Crystal Navalier. I break it
+[00:12] down so every investor gets actionable
+[00:14] information.
+[00:15] >> We don't chase means, hikes, or
+[00:17] moonshots. [music]
+[00:17] >> We focus on highquality stocks, smart
+[00:20] strategies, and data-driven analysis.
+[00:22] >> We combine our quantitative analysis
+[00:25] with our eight factor fundamental model.
+[00:27] Every week we make deep dives, break
+[00:29] down the market, and give you real time
+[00:31] analysis.
+[00:32] >> Invest with confidence.
+[00:33] >> New videos every Sunday and Wednesday.
+[00:36] Please join our family. We are so happy
+[00:38] you're here. Subscribe.
+[00:39] >> Subscribe to Navier Market.
+[00:42] [music]
+[00:49] >> [music]

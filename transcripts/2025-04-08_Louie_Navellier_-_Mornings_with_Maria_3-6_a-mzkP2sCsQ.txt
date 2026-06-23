@@ -7,9 +7,47 @@ Type: short
 Duration: 1:20 (80s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 39
+Transcript characters: 1437
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] They'll still do four rate cuts. Uh yes,
+[00:02] because market rates will come down. I
+[00:04] want to be clear, oil's at a three-year
+[00:06] low. Okay, remember President Trump
+[00:08] promised to lower it. So far so good.
+[00:10] Even with 90% of our shale imports about
+[00:12] to have a 25% tariff. That's okay.
+[00:14] That's all right. We have a surplus.
+[00:16] Okay, they have to come here anyway for
+[00:17] refining. It's going to be okay. But the
+[00:20] other thing is um you know, they removed
+[00:23] their inflation target. The Fed did. We
+[00:25] don't have a 2% inflation target
+[00:26] anymore. So let's just let rates meander
+[00:29] lower. If we didn't have uh owner's
+[00:31] equivalent rent, we'd be uh under two
+[00:33] right now. Yeah. You know, I I think
+[00:35] that in this political environment, the
+[00:38] Democrats are going to blame Trump uh
+[00:40] when in fact or if in fact we see a
+[00:42] sharp slowdown or a recession. I I I
+[00:45] mean, I think we also should be clear
+[00:47] these these are Biden numbers. Okay.
+[00:49] What what we're seeing right now is the
+[00:51] result of the Biden administration. This
+[00:52] this Am I right? Yeah. And uh listen, we
+[00:56] have a very pro business president.
+[00:58] Yeah. We have 1.1 trillion of onshoring
+[01:01] already announced between Soft Bank,
+[01:03] Apple, and uh TSMC and the Saudis. Yep.
+[01:06] Yeah. And we're going to have a lot more
+[01:08] onshoring. And that's the whole point of
+[01:10] the tariffs. So, they're trying to like
+[01:11] just move your business. That's exactly
+[01:13] right. And we're food and energy
+[01:14] independent. Our energy is a lot
+[01:15] cheaper. So, come on. Let's set up shop.
+[01:17] Lou, great to see you this morning.
+[01:19] Thanks so much.

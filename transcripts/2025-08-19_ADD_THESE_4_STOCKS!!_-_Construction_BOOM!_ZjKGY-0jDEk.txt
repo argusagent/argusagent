@@ -7,9 +7,26 @@ Type: short
 Duration: 0:43 (43s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 18
+Transcript characters: 623
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Greetings from Reno, Nevada. This town
+[00:02] is experiencing a data center boom. Over
+[00:06] 13 million square feet of new data
+[00:08] centers is going in near the Tesla
+[00:10] plant. And why they're coming here is in
+[00:13] the desert. It's cold at night so they
+[00:16] can better control the temperature and
+[00:18] save money on the electricity costs. If
+[00:20] you're looking to invest in companies
+[00:22] that's supporting this incredible
+[00:24] construction boom we're having, it would
+[00:26] be stocks like MCOR, that's EME, Comfort
+[00:29] Systems, Fiix, that's a commercial air
+[00:32] conditioning contractor, and Quant
+[00:34] Services, that's PWR.
+[00:37] And if you're looking for one more, you
+[00:39] can always throw in Power Solutions
+[00:41] PSIX.

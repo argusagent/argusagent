@@ -7,9 +7,30 @@ Type: short
 Duration: 0:53 (53s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 22
+Transcript characters: 812
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The July payroll report was a disaster.
+[00:02] Not only was it well under economist
+[00:05] consensus expectations, but the downward
+[00:07] revisions to May and June were just
+[00:10] horrific. Clearly, something's horribly
+[00:12] wrong at the labor department. This has
+[00:14] caused Treasury yields to plunge. And
+[00:16] what happens is when Treasury yields go
+[00:18] down, the Fed has to cut rates. Of
+[00:21] course, the Fed didn't cut rates at
+[00:23] their July FOMC meeting. President Trump
+[00:26] went to True Social and is now calling
+[00:29] for a mutiny at the Federal Reserve. He
+[00:31] wants the other FOMC members to
+[00:34] basically take over and neuter Jerome
+[00:37] Powell. To the FOMC's credit, Governor
+[00:41] Christopher Waller warned about this. He
+[00:43] said there were problems in the job
+[00:44] market. He saw it and so did Michelle
+[00:47] Bowman. So hopefully cooler heads will
+[00:49] prevail and the Fed will now cut because
+[00:52] market rates are plunging.

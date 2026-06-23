@@ -7,9 +7,29 @@ Type: short
 Duration: 0:45 (45s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 21
+Transcript characters: 655
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] John Deere reports this week, and what
+[00:01] they say about the farm economy, it
+[00:03] tells you more about America than most
+[00:05] economic data. Yeah, I mean, it's
+[00:07] getting better. Their sales are supposed
+[00:10] to be up 3%. Earnings are supposed to be
+[00:12] down 14%, but we have positive analyst
+[00:15] revisions
+[00:17] in the last 90 days. So, that's a good
+[00:19] development. And last quarter,
+[00:21] they had a whopping 17.5%
+[00:25] earning surprise.
+[00:26] Now, Deere normally surprises. So,
+[00:29] hopefully the farm economy is doing a
+[00:31] little bit better. Obviously, they had
+[00:32] the fertilizer kind of chaos with high
+[00:35] fertilizer prices that might have
+[00:36] disrupted some.
+[00:38] As far as I'm concerned,
+[00:40] Deere's on on its way back
+[00:43] and improving pretty quickly.

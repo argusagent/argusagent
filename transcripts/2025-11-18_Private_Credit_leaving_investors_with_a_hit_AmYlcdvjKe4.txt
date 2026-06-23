@@ -7,9 +7,51 @@ Type: short
 Duration: 1:31 (91s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 43
+Transcript characters: 1441
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Well, we've had an earthquake in the
+[00:02] private credit markets. A company Blue
+[00:05] Owl has stopped redemptions in one of
+[00:07] its funds. It's going to be merging this
+[00:09] fund into another fund early next year.
+[00:12] But, based on where prices are right
+[00:14] now, it looks like those investors are
+[00:16] going to lose 20% of their principal.
+[00:18] So, this is causing a big brouhaha in
+[00:21] the private credit world. Just so you
+[00:23] know, private credit makes loans to
+[00:26] people with less-than-perfect credit.
+[00:28] Sometimes, they expect a certain default
+[00:30] rate, but unfortunately, default rate is
+[00:32] rising. And there's been all kinds of
+[00:34] announcements of, you know, Tri Color
+[00:36] and First Brands and Jefferies and
+[00:40] uh BlackRock going and incurring some
+[00:42] losses, and everybody's getting very
+[00:44] nervous. Even JP Morgan lost 170 million
+[00:48] due to Tri Color, which was a subprime
+[00:50] auto lender to
+[00:52] undocumented people. Anyway,
+[00:54] this is a big industry, $3 trillion a
+[00:57] year. And now we have a freeze. Now
+[00:59] we're going to have losses.
+[01:01] And
+[01:02] capital's going to dry up. So, how do
+[01:04] you fix that? Fed's got to cut. And be
+[01:06] honest with you, they could fix it all
+[01:08] if they just cut interest rates a full
+[01:10] 1%, and the private credit industry
+[01:12] would flourish again, so would the
+[01:14] banking industry, so would the economy.
+[01:16] But, that's not where the Fed is at yet.
+[01:18] But, this is big news, folks. Keep an
+[01:19] eye on it, and um
+[01:21] you know, it's uh it's the most
+[01:23] unfortunate thing that's happened. But,
+[01:25] uh
+[01:26] unfortunately, you have to stay away
+[01:28] from new private credit investments at
+[01:29] this moment.

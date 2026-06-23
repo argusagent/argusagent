@@ -7,9 +7,23 @@ Type: short
 Duration: 0:30 (30s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 15
+Transcript characters: 544
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Everyone wrote off Zoom two years ago.
+[00:02] This week's earnings might prove them
+[00:04] wrong.
+[00:05] >> Yeah, Zoom isn't going away. We use it.
+[00:07] It's a very valuable. Sales was to be up
+[00:09] 4.2% earnings is supposed to be down a
+[00:12] 0.9% but the analysts haven't changed
+[00:15] their estimates in the last two months.
+[00:16] The only issue with Zoom is they missed
+[00:19] by 3.1% last quarter. So we got to get
+[00:21] them beating again. So if they can beat
+[00:23] and they provide good guidance, they'll
+[00:25] be okay. But that's the only thing that
+[00:27] holding that's holding Zoom back is the
+[00:29] fact they had a miss last quarter.

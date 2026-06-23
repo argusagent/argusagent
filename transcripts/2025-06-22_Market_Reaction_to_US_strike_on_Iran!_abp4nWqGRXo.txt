@@ -7,9 +7,43 @@ Type: short
 Duration: 1:18 (78s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 35
+Transcript characters: 1266
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] President Trump decided to strike Iran.
+[00:02] They used 24 cruise missiles, 14 bunker
+[00:05] buster bombs against three Iranian
+[00:08] nuclear facilities. We don't have the
+[00:10] damage assessments yet, but they were
+[00:12] probably demolished. Now, uh, Iran has
+[00:15] retaliated against Israel.
+[00:16] Unfortunately, it got through the Iron
+[00:18] Dome. That's most unfortunate. They have
+[00:20] not retaliated yet against our embassies
+[00:23] or our military bases in the Middle
+[00:24] East, but they are obviously on high
+[00:26] alert. The Iranian foreign minister said
+[00:28] he wanted to consult with Vladimir Putin
+[00:30] in Moscow before he responds to the
+[00:33] United States. Obviously, President
+[00:35] Trump is pushing for a peace deal
+[00:37] resolution to this nightmare. So, what
+[00:39] do we do? Well, I do think the market
+[00:41] has a relief rally provided there's not
+[00:44] a retaliatory strike, but uh it's going
+[00:46] to be short-lived because there's still
+[00:48] so much uncertainty. Now, I just
+[00:50] finished my growth investor letter and
+[00:52] guess what? The top four stocks are
+[00:54] defense and aerospace related. Elbit
+[00:57] Systems, that's ESLT. Plantair
+[01:00] Technologies, PLTR, Carpenter
+[01:02] Technology, that's CRS, and Helmet
+[01:05] Aerospace, HWM. So, your best defense is
+[01:08] a strong offense of fundamentally
+[01:09] superior stocks. We also have some
+[01:11] energy stocks, lots of gold stocks, and
+[01:13] of course, a lot of AI related stocks
+[01:16] building out the AI infrastructure.

@@ -7,9 +7,38 @@ Type: short
 Duration: 1:04 (64s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 30
+Transcript characters: 1055
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] This is Louis Navellier. I keep getting
+[00:01] asked about Supermicro Computer. As you
+[00:04] know, it just had a stunning earnings
+[00:06] announcement. Earnings were up well over
+[00:07] 300%. Sales were up over 122%. That
+[00:11] earnings surprise was over 34%. So,
+[00:14] stunning. But, as always, their guidance
+[00:16] was more important. And they guided
+[00:18] higher. But, why the stock's doing so
+[00:21] well is their operating margins are
+[00:23] forecast that's almost double. Now, for
+[00:25] a while, Supermicro's operating margins
+[00:27] were under compression. No more. Anytime
+[00:30] earnings
+[00:30] outpace sales, margins are expanding.
+[00:33] So, that happened in its most recent
+[00:34] quarter. It's going to continue to
+[00:35] happen. And that's why Supermicro
+[00:38] Computer has its mojo back. Now, I'm up
+[00:40] over 500% in the stock. I don't intend
+[00:42] to sell it. It's order backlog is
+[00:45] stunning. And that's why I held it
+[00:47] throughout all the trials and
+[00:49] tribulations and short-seller attacks.
+[00:51] Because I kept looking at that order
+[00:53] backlog and the stunning sales growth,
+[00:55] and I didn't blink. So, I stick with the
+[00:58] fundamentals. And now Supermicro's
+[01:00] fundamentals are getting better thanks
+[01:02] to margin expansion.

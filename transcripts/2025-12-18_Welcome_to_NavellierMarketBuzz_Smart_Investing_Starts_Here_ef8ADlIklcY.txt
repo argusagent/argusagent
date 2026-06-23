@@ -7,9 +7,41 @@ Type: video
 Duration: 1:10 (70s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 33
+Transcript characters: 1041
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Hi, I'm Lou Avalier.
+[00:01] >> And I'm Crystal Navalier.
+[00:03] >> The purpose of Market Buzz is to empower
+[00:04] you. I've been publishing financial
+[00:06] investment newsletters for over 47
+[00:08] [music] years.
+[00:09] >> Each week, we break down the stories
+[00:11] that are driving the markets.
+[00:12] >> Cover some of the top stocks in the news
+[00:14] from our favorite picks. We show off our
+[00:16] stock grader, which is our quantitive
+[00:18] and fundamental [music] tool that we use
+[00:20] to find what we call creme. Great stock
+[00:22] that can make you rich.
+[00:24] >> What you need to know and how to think
+[00:26] about [music] your investments. We'll
+[00:27] give you timely insights, actionable
+[00:29] ideas, and a perspective you won't get
+[00:32] anywhere else.
+[00:32] >> And we have special guests, famous
+[00:35] economists, market historians, former
+[00:37] specialists, technical experts. But take
+[00:40] advantage of Navler Market Buzz.
+[00:41] >> Catch a new episode every Sunday at
+[00:43] 10:00 a.m. Eastern. [music]
+[00:44] >> We're here to help you and it's free.
+[00:46] Just like and subscribe.
+[00:48] >> You won't want to miss it. Make sure to
+[00:49] subscribe and join our family. We are so
+[00:52] happy that you're here.
+[00:53] >> Welcome to
+[00:55] Oh, [music]
+[01:02] [music]

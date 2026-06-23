@@ -7,9 +7,547 @@ Type: video
 Duration: 21:11 (1271s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 539
+Transcript characters: 18529
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Big banks beat earnings, but JP Morgan
+[00:02] revealed 3.4 billion in credit loss, the
+[00:05] worst in five years. Meanwhile, energy,
+[00:09] small caps, and tech are all fighting
+[00:11] for leadership. And a massive week of
+[00:13] earnings is about to hit. Let's dive in.
+[00:16] Welcome back to Naval Market Buzz.
+[00:18] [Applause]
+[00:19] [Music]
+[00:30] >> So, let's start out with the financial
+[00:32] stocks that announced last week. Dad,
+[00:35] what's going on?
+[00:36] >> So, what's going on is the banks are
+[00:38] beating. Their revenue is good. Their
+[00:40] earnings are good, but they have to keep
+[00:42] increasing their loan loss reserves.
+[00:44] Specifically, JP Morgan had increased
+[00:46] its loan loss reserve by um uh $810
+[00:50] billion. They admitted they lost $170
+[00:54] million on this Triricore Holdings
+[00:56] Company, which was a subprime auto
+[00:58] lender based predominantly in Texas.
+[01:00] They liquidated a few weeks ago there.
+[01:03] Uh that's a a private credit deal. And
+[01:05] uh then the regional banks came out and
+[01:07] they were doing the same thing,
+[01:08] increasing their loan loss reserves, the
+[01:10] highest level in three years. And uh
+[01:13] Zion's bank really kind of spooked
+[01:15] everybody because um their again their
+[01:18] loan loss reserves were highest in three
+[01:21] years. Western Alliance is another bank.
+[01:24] Now Jamie Diamond, the CEO of JP Morgan
+[01:27] called uh this Trior Holdings loss a
+[01:30] cockroach and he says when there's one,
+[01:32] there's many. So that just spooked the
+[01:35] market and the market is a man of crowd.
+[01:38] So it's out looking for cockroaches
+[01:39] right now. And uh and so as the bad loan
+[01:43] story continues, it'll continue to hurt
+[01:46] financial stocks. So the good news for
+[01:49] everybody that follows us, you never
+[01:51] find financial stocks in my portfolios.
+[01:53] And the reason is I'm an ex-bank
+[01:55] analyst. And that experience scarred me
+[01:58] for life. In the late 70s, early 80s, I
+[02:01] was working for the industry and I could
+[02:03] take two losing banks, merge them
+[02:06] together, and when I was done with them,
+[02:08] they made money because I would take all
+[02:10] their bad loans and I'd revertise them
+[02:13] and kick the problem down the road. And
+[02:16] I was doing that so they could get FDIC
+[02:18] and FSLIC insurance. Bank accounting is
+[02:21] very odd. you know, I score stocks and
+[02:23] fundamentals, but I just don't trust the
+[02:26] numbers with the banks, and that's what
+[02:27] Wall Street's finding out. So, uh, we're
+[02:31] fortunate we're skirting the sector,
+[02:34] but um, this news has caused Treasury
+[02:36] yields to continue to fall. The tenure's
+[02:38] under 4%.
+[02:40] And, uh, that just means the Fed's going
+[02:42] to have to not only cut in October, but
+[02:44] they'll be cutting in December and maybe
+[02:46] in in the new year's. But do you think
+[02:48] that investors should be worried about
+[02:50] this consumer debt levels?
+[02:52] >> Yeah. Yeah. There's a lot of consumers
+[02:54] who are totally leverage up the
+[02:56] yin-yang. So, our Treasury Secretary
+[02:59] Scott Besset said it best. He said that
+[03:02] 88% of the stocks are in the top 12% of
+[03:04] households. Uh he said um the other
+[03:09] 12% of stocks are the next 38% of
+[03:11] households. That's 50% of America. The
+[03:15] other 50% of America just has debt.
+[03:18] So the only way you're going to fix that
+[03:19] problem is to lower rates and that's
+[03:22] what they have to do.
+[03:23] >> Do these credit losses suggest cracks in
+[03:25] the economy or are they just normal
+[03:27] cycles for the banks?
+[03:29] >> No, there's a problem in the economy.
+[03:31] You know, the job creation machine is
+[03:34] ground to a halt. Uh cuz you know, you
+[03:36] got friends that graduate from college
+[03:37] still looking for work. Uh there's just
+[03:39] still a lot of uncertainty out there.
+[03:42] The strength of the economy is very
+[03:44] narrow. It's all the onshoring basically
+[03:47] and all the AI and data center
+[03:50] development and uh AI appliers and guess
+[03:53] what AI does? It allows them to fire
+[03:55] people. One of the worst jobs to get now
+[03:59] is in computer science. We created too
+[04:02] many computer sciences and they can't
+[04:04] find jobs. We had three Stanford
+[04:06] economists write a report on this. Half
+[04:10] of Stanford is computer science majors.
+[04:12] So, you know, it's it's it's getting to
+[04:15] be interesting. So, I I I still think
+[04:18] we'll need computer scientists, but
+[04:20] maybe thanks to AI, we'll need fewer.
+[04:22] >> How is the bond market responding to
+[04:24] these Fed signals?
+[04:25] >> Oh, right. Yields continue to fall. I
+[04:27] can't emphasize this enough. Our
+[04:29] Treasury Secretary, Scott Basset, fix
+[04:32] the bond market. What happened under his
+[04:35] predecessor, Janet Yellen, she had lost
+[04:38] control, and the yield curve had been
+[04:40] inverted for years.
+[04:42] short-term rates and intermediate rates
+[04:44] were higher than the long-term rates. Uh
+[04:46] and uh she couldn't manage the long end
+[04:49] of the Treasury bond market. Scott
+[04:51] Besset came in and fixed all that. Um so
+[04:54] now we have a normal yield curve and
+[04:57] yields are dropping everywhere across
+[04:59] the curve and that's going to of course
+[05:01] uh force the Fed to cut rates. Now high
+[05:04] yield loans are getting more nervous,
+[05:06] okay, because of these credit issues.
+[05:08] their their um premium over treasuries
+[05:12] has increased just a bit.
+[05:13] >> And before we get into earning
+[05:14] announcements, Ed Yardini titled his
+[05:16] briefing, "Gold is the new Bitcoin."
+[05:18] Where does he see gold going?
+[05:20] >> 5,000 and then maybe a 10,000. and he's
+[05:23] reiterated that he's actually at I'm at
+[05:25] the Orlando Money Show and so I'll try
+[05:27] to say hi to Ed, but yeah, he's very
+[05:29] bullish on gold and gold is rallying
+[05:31] because there's a lack of confidence in
+[05:32] central banks and gold is a legitimate
+[05:35] reserve for central banks and a lot of
+[05:37] central banks have been buying gold. You
+[05:39] know, we're up to 11 gold stocks now we
+[05:41] recommend all with stunning sales and
+[05:44] earnings. So, and I really love my gold
+[05:46] stocks because when the market gets
+[05:48] bumpy, they do well. So they're ballast
+[05:50] for our portfolio. We call that
+[05:54] covariance. They zigg when the market
+[05:55] zags.
+[05:56] >> Clarify something for our subscribers.
+[05:58] One of our subscribers said that booms
+[06:00] and busts in gold are historical. So how
+[06:03] do you know that this isn't another bus?
+[06:06] >> Because the buying pressure is
+[06:07] relentless. In January, the demand for
+[06:09] gold in America was up 41%. In February,
+[06:12] it was up 25%.
+[06:14] So we got off to the a very strong start
+[06:17] for the year. demand for gold was so
+[06:20] strong. There's an exchange in London
+[06:22] that would get you gold within a day and
+[06:26] they had to extend it for over a week.
+[06:27] It's it's more than President Trump
+[06:30] putting gold leaf on all the awnings and
+[06:32] things in the White House. It's uh it's
+[06:35] central bank buying pressure. It's
+[06:38] nervous investors.
+[06:40] Again, back to Ed Yardini. He calls gold
+[06:42] the new Bitcoin. The cryptocurrencies
+[06:44] are getting nervous right now. and uh
+[06:46] that just shows more people to gold.
+[06:48] >> So now let's discuss the earnings that
+[06:50] will be announced this upcoming week.
+[06:52] Let's start out with 3M. The industrial
+[06:55] giant still fighting lawsuits and trying
+[06:57] to prove growth.
+[06:59] >> Yeah, this is a big multinational. They
+[07:02] operate around the world and the world
+[07:03] economies are weak, but their sales are
+[07:05] supposed to go up 3.1%.
+[07:08] Their earnings are supposed to be up
+[07:10] 4.8%.
+[07:12] the have slightly revised their
+[07:14] estimates higher and they have been
+[07:17] surprising.
+[07:19] So, uh they seem to be doing a little
+[07:21] bit better. They they're not strong
+[07:22] enough for my criteria. I'm still very
+[07:25] very nervous about multinationals in
+[07:27] general, but uh you know, if they keep
+[07:31] doing what they've been doing, um they
+[07:34] they're on the road to recovery.
+[07:35] >> Capital One credit card bellweather a
+[07:38] real pulse check on the consumer.
+[07:40] >> Yeah. So, Capital One gives credit to
+[07:42] people that probably shouldn't take
+[07:44] credit out, okay? And if you have a
+[07:46] Capital One account, I apologize, but
+[07:48] their sales are and revenue are supposed
+[07:50] to be at 50.8%.
+[07:53] Their earnings are supposed to be down
+[07:56] 3.3%.
+[07:58] Uh, the analyst community has uh just
+[08:02] trimmed their estimates slightly, but
+[08:04] this company's a wild card. Last
+[08:05] quarter, their earnings surprise was
+[08:07] 48%. Stunning.
+[08:10] So, uh, we'll see. You know, it looks
+[08:12] like they have good management because
+[08:13] they're not posting all the losses
+[08:15] everybody else is posting. Now, every
+[08:17] credit card company plans for losses.
+[08:21] Okay. But, and Capital One has
+[08:24] historically had higher losses than
+[08:26] other credit card lenders, but again,
+[08:29] they charge those outrageous rates. So,
+[08:32] it's going to be very, very interesting
+[08:33] to see these results. I'm not
+[08:35] recommending this stock, but I expect it
+[08:37] to be. CocaCola a staple in every
+[08:39] fridge, but what can we expect for their
+[08:41] earnings?
+[08:42] >> Well, it's in President Trump's fridge
+[08:44] because he's a Diet Coke guy, but uh
+[08:48] their sales are supposed to be up uh 3
+[08:51] 9%.
+[08:53] Their uh earnings are supposed to only
+[08:55] go up 1.2%.
+[08:58] Uh the analyst estimates have been
+[08:59] trimmed slightly. Again, another big
+[09:01] multinational
+[09:03] uh operating internationally in weak
+[09:05] economies around the world. They did
+[09:07] post a 3.9% surprise last quarter. They
+[09:10] normally surprise, so they'll probably
+[09:12] do the same thing. But again, this is
+[09:15] not enough earnings growth or sales
+[09:17] growth to get me excited.
+[09:18] >> General Motors, Autos in the spotlight.
+[09:20] EV transition and strike fallout still
+[09:23] loom.
+[09:24] >> Yeah, you know, G uh GM is interesting.
+[09:26] They went all in on EVs.
+[09:30] Started to capture some good market
+[09:31] share. still have the cheapest EV
+[09:34] available, the Bolt, but now they're
+[09:37] retrenching big time. And uh I'm sure
+[09:40] some of it's that tax credit
+[09:42] disappearing, but you know, it's people
+[09:45] want engines, especially in the center
+[09:47] of the country, because they drive more.
+[09:50] You know, the GMEs are also massive. The
+[09:53] Hummer, the new electric Escalade,
+[09:57] we're talking about 9,000lb vehicles.
+[10:00] When you have a 9,000lb vehicle, you
+[10:02] better have some brakes on it, okay? And
+[10:04] they have double battery packs. So, but
+[10:07] they are retrenching, okay? And and
+[10:10] they're going to go more to what they
+[10:11] call their ice engines, their internal
+[10:12] combustion engines. So, their sales are
+[10:15] supposed to be down 7
+[10:18] 3%. Their earnings supposed to be down
+[10:21] 21.7.
+[10:23] Uh the analysts have trimmed their
+[10:25] estimates slightly, but they usually
+[10:26] surprise and I expect GM to give good
+[10:29] guidance and uh as you may know, they
+[10:32] make a lot of money on trucks.
+[10:34] >> Netflix the streaming leader, but all
+[10:36] eyes are on their subscriber growth.
+[10:38] >> Yeah, that's a very good point. Uh and
+[10:40] for disclosure, your mom owns Netflix in
+[10:42] her personal account. I do not have it
+[10:44] under management,
+[10:47] but their sales are supposed to be up uh
+[10:49] 17.2.
+[10:50] their earnings supposed to be up 28.5.
+[10:54] Uh the analysts have revised their
+[10:56] estimates higher here and uh it's not so
+[10:59] much their surprises. Last quarter they
+[11:01] only surprised by 1.7%. It's always
+[11:04] their guidance and as you mentioned the
+[11:05] number of subscribers are signing up.
+[11:08] Now they have a big international
+[11:10] business. Okay. And you know we have
+[11:12] weak economies around the the world. If
+[11:15] they can keep signing up people they'll
+[11:17] do well. But this is a flagship stock.
+[11:19] It's not quite in the magnificent 7, but
+[11:21] I wouldn't be surprised if it is a one
+[11:24] of the biggest stocks down the
+[11:26] >> Northrep Grumman. Defense spending seems
+[11:29] to be surging.
+[11:30] >> Yeah. Uh that showed up in the uh
+[11:33] durable goods report, a 50% increase.
+[11:36] Yeah. Sales are supposed to be up uh
+[11:38] 7.2%.
+[11:39] Um earnings are actually supposed to
+[11:41] decline
+[11:43] uh 7 oh excuse me, 1%.
+[11:47] And um the analyst have trimmed its
+[11:50] estimates just a bit. Um
+[11:52] this has more mixed results and they
+[11:55] have had a good surprise history.
+[11:58] So let's see what they can do this time.
+[12:01] But yeah, this is not on my radar. Now
+[12:03] last quarter they surprised by 19.9%.
+[12:07] So we shall see. I would expect a
+[12:09] surprise from this company because of
+[12:11] the defense spending. Texas Instruments,
+[12:14] a chip maker that tells us about demand
+[12:16] in the real economy.
+[12:17] >> Yeah, they make a lot of low-end chips.
+[12:20] Okay. And
+[12:22] it's a mission of the auto industry with
+[12:24] some of the chips. Uh these are actually
+[12:25] foreign source chips. So hopefully uh
+[12:28] Texas Instruments can rise the occasion,
+[12:29] help help um with any chip shortages out
+[12:32] there. But their sales are supposed to
+[12:33] be up 11.7.
+[12:36] Their earnings supposed to be up 2.9.
+[12:38] The analyst committee has been uh
+[12:40] holding steady on their estimates and
+[12:41] they have surprised.
+[12:44] Again, this company doesn't excite me
+[12:45] because it doesn't have enough earnings
+[12:46] growth for me to buy it, but it looks
+[12:48] like it's getting better.
+[12:51] >> Telecom heavyweight, but can it cut debt
+[12:53] and grow?
+[12:54] >> No. Uh it's hard to explain and I will
+[12:58] try. ATD does have a lot of debt and it
+[13:00] has a very very generous dividend yield.
+[13:02] when your return on equity is say I
+[13:05] don't know 12 and you can borrow at five
+[13:10] uh finance teaches you to borrow because
+[13:13] it's cheaper than issuing stock. So
+[13:16] companies can raise money in the bond
+[13:17] market they can raise money by selling
+[13:19] stock but when you have a high return on
+[13:21] equity like uh AT&T does you can often
+[13:25] borrow. Now what's going to happen is
+[13:27] when rates start to fall and they've
+[13:29] been falling but they'll fall more.
+[13:30] they'll go out and refinance a lot of
+[13:32] that debt. So, the reason there's debt
+[13:35] concerns over AT&T is they always worry
+[13:37] about the dividend, but the dividend's
+[13:39] been safe for a long time, so stop
+[13:41] worrying about it. But their sales are
+[13:43] supposed to grow 2.2%. Earnings are
+[13:46] supposed to drop 10.4.
+[13:48] Uh the analysts have trimmed some of
+[13:50] their estimates.
+[13:52] They did surprise uh by 1.9% last
+[13:54] quarter. So, AT&T is big. It's boring
+[13:58] and it's not in my portfolios. Lost
+[14:00] Scientific Medical Devices
+[14:03] steady growth or signs of slowing.
+[14:06] >> Oh, they're growing.
+[14:08] Scientific is in our manage accounts
+[14:10] recommended in our growth investor
+[14:12] newsletter. Their sales um are supposed
+[14:15] to be up uh 18.2%.
+[14:18] Uh their earnings supposed to go up
+[14:19] 13.3.
+[14:22] Uh the analysts have increased their
+[14:24] estimates for it slightly. Uh they do
+[14:26] have a good surprise history about 3.4.
+[14:29] This is in my portfolios. It's
+[14:31] recommended in my newsletters, but when
+[14:33] I sort my stocks in order of
+[14:35] attractiveness,
+[14:36] this is not one of the my top stocks,
+[14:39] but they make a lot of cardiovascular
+[14:41] devices that we all need, especially as
+[14:43] we get older. I'm probably going to be
+[14:45] in the market for them soon. And um so
+[14:48] they they're being aided by demographics
+[14:50] as well.
+[14:50] >> GE Venova, can clean energy momentum
+[14:53] continue?
+[14:54] >> No, it's fizzled. You know, it's funny.
+[14:56] Before Trump got in, a lot of the green
+[14:59] energy projects were implemented and
+[15:03] funded, but now Trump's starting to cut
+[15:05] some of them. So GE is involved in the
+[15:07] green energy stuff and but the the big
+[15:10] business is natural gas turbines and
+[15:12] there's a 5-year order backlog. So
+[15:15] again, what happened under the B
+[15:17] administration, you could open a power
+[15:19] plant with natural gas turbines, but you
+[15:20] had a sequester of the carbon by 2032.
+[15:24] That's very difficult and expensive. Now
+[15:26] Trump threw that out. So everybody's
+[15:27] just firing up natural gas power plants
+[15:30] now. In fact, some of the data centers
+[15:31] have their a direct line and their own
+[15:33] turbines. So uh but yeah, with a 5-year
+[15:37] order backlog, this is very exciting for
+[15:38] G Vernova, and that's why I recommend
+[15:42] the stock. And again, we have to give
+[15:43] Adam Johnson credit. He found it before
+[15:46] we did. Genova sales are supposed to be
+[15:48] up by 2.8.
+[15:50] their earnings supposed to be at 4,898%.
+[15:55] Because of the uh uh the natural uh gas
+[15:59] uh turbine boom balance of revised
+[16:02] estimates higher last quarter was a
+[16:05] 14.2% surprise. So this is in our
+[16:08] portfolios hoping they have a nice big
+[16:10] surprise though obviously have
+[16:11] spectacular earnings growth.
+[16:12] >> Lamb research semiconductor equipment a
+[16:15] true gauge in the chip market.
+[16:16] >> Yeah that's true. uh semiconductor
+[16:19] equipment company sales are supposed to
+[16:21] be up uh 25%.
+[16:25] Uh their earnings is supposed to be up
+[16:27] 41.8%.
+[16:29] The analyst have been revising its
+[16:31] earnings estimates aggressively higher
+[16:34] from 99 cents um 3 months ago to a$122
+[16:39] today. Uh and it it it did surprise last
+[16:43] quarter. So uh and you know we also had
+[16:46] the good uh news from Taiwan
+[16:48] semiconductor how healthy the industry
+[16:50] is. So I do expect Lamb to to continue
+[16:53] to beat. Again this is not in my
+[16:54] portfolios yet but it's up and coming.
+[16:57] >> Tesla seems like they're quite the
+[16:59] lightning rod.
+[17:00] >> Yeah.
+[17:02] Well the good news is now that that EV
+[17:05] tax credit is gone. Tesla will become
+[17:07] more dominant in EVs especially as GM
+[17:10] and other companies pull back. And EVs
+[17:12] aren't going away. Tesla introduced some
+[17:14] cheaper cars. They stripped some the
+[17:17] goodies out of them. You know, Elon's
+[17:18] going to keep talking about robo taxis.
+[17:21] Uh he's going to keep talking about his
+[17:23] Optimus robots. I'd like him to
+[17:25] introduce his Model 2, which is the most
+[17:28] affordable car to compete with the BYD
+[17:30] Seagull, but we'll see. But the the good
+[17:33] news is Elon's back at the helm. uh he's
+[17:36] running the company as well as SpaceX
+[17:38] and and uh and and Grock, his AI
+[17:42] company. But uh Tesla sales are supposed
+[17:46] to be up five uh.5%
+[17:49] because they the everybody rushed to buy
+[17:51] the cars in the third quarter for the
+[17:53] tax credit expired. The earnings
+[17:55] supposed to be down or contract 23%.
+[17:59] They're still positive, but we do have
+[18:01] positive balance revisions on on Tesla.
+[18:03] And Tesla tends not to surprise. I'm
+[18:05] surprised for three quarters in a row.
+[18:07] So Tesla's one of those stocks just has
+[18:09] to paint a pretty picture moving
+[18:10] forward. And Elon's pretty good at that.
+[18:14] And this is not in my portfolio, but I
+[18:17] do own Tesla for some clients because
+[18:18] they wanted me to own it.
+[18:20] >> Blackstone, they're quite the private
+[18:22] equity titan.
+[18:23] >> Yeah, they are. Uh this is Steve
+[18:25] Schwarzman, and they do a lot more than
+[18:26] private equity. They do a lot of real
+[18:28] estate investing. I've seen Steve
+[18:30] Schwarzman suck up to Trump, so they
+[18:33] have a problem. I think Trump might come
+[18:35] to the rescue, but their sales are
+[18:37] supposed to be up 27.8%. He's supposed
+[18:40] to be up 22.2 also revised their
+[18:42] estimates slightly higher. It does have
+[18:45] a good good earning surprise history. So
+[18:47] despite the the wos in private credit
+[18:50] and some of the private credit companies
+[18:51] selling off, I think uh Blackstone will
+[18:53] beat
+[18:53] >> Intel once the king of chips, but can
+[18:56] they turn around their story?
+[18:58] >> I think so because the government just
+[19:00] invested in them. I think this whole
+[19:02] equity thing with the US government is
+[19:05] you know the B administration was given
+[19:07] Intel quite a bit of money but then one
+[19:10] of the their big customers the defense
+[19:12] department reneged on buying some chips
+[19:15] so they couldn't build a plant in Ohio
+[19:17] but Trump just saw all this money we
+[19:19] were given Intel so he demanded
+[19:21] something for it and got an equity
+[19:22] interest but they are trying to onshore
+[19:25] semis and Intel is the key and he got uh
+[19:28] Nvidia's chairman to agree to do an
+[19:32] alliance with Intel. So, that's good.
+[19:34] But their sales are supposed to drop
+[19:36] 1.3%. He's supposed to go up 101%.
+[19:40] The analysts have been cutting their
+[19:42] estimates though and this company had a
+[19:46] horrible surprise last quarter. So, this
+[19:48] is a wild card and we'll find out if
+[19:50] they're turning things around. This is
+[19:52] not in my portfolios at this time.
+[19:54] >> Western Digital storage demand swings.
+[19:57] Is AI giving it a lift? You know, that's
+[19:59] a good question. Uh, this is a solid
+[20:01] state drive company
+[20:03] and all the disc drives uh uh that we
+[20:06] use are solid state, but believe it or
+[20:09] not, in the data centers, they still use
+[20:11] the drives that spin. I think they're
+[20:12] struggling with the the transition.
+[20:15] Their sales are supposed to be down uh
+[20:17] 33.3%.
+[20:19] Their earnings supposed to be down
+[20:21] 11.1%.
+[20:23] The Alice community has actually revised
+[20:25] the earnings estimates higher though in
+[20:26] the last 90 days and they did surprise.
+[20:30] So, uh
+[20:32] there's there's some green shoots here,
+[20:35] but not enough for me to be
+[20:36] >> Well, great. Thank you so much, Dad. And
+[20:38] good luck at the money show. Now, for
+[20:41] you all viewers, we're going to be doing
+[20:43] a special video next week about what to
+[20:45] expect for the rest of Q4. So, if you
+[20:48] have any questions that you want Louis
+[20:50] to answer, please leave them in the
+[20:51] comments below. But until then, we will
+[20:54] see you all next week for a new video.
+[20:56] Thanks so much, everyone.
+[20:58] [Applause]
+[20:58] [Music]

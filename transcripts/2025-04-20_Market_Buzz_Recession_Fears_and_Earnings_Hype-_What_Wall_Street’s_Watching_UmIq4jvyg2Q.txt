@@ -7,9 +7,593 @@ Type: video
 Duration: 24:49 (1489s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 585
+Transcript characters: 21052
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:14] Hello everyone. Welcome back to Navalier
+[00:15] Market Buzz, episode 34. I'm Crystal
+[00:18] Naval and I'm joined again this week
+[00:19] with my father, Louis Navalier. Dad,
+[00:21] let's talk about Eli Liy. It recently
+[00:23] soared. Yeah, it had a very favorable
+[00:27] trial for the pill version of its GLP-1
+[00:31] drug and Eli Liy is um continues to
+[00:35] capture more market share from uh
+[00:37] Novanorisk on GLP-1. So um I I sold
+[00:42] Novanoris several months ago and I
+[00:46] basically increased my bet on Eli Liy.
+[00:48] So that's my bet and I'm glad it's
+[00:50] paying off. And then what about Trump
+[00:53] cancing the Nvidia chip sales to China?
+[00:56] Well, you know, um Nvidia is going to
+[00:59] have to have a $5.5 billion write down,
+[01:02] but those chips were never really very
+[01:04] profitable anyway. Um so now Nvidia's
+[01:08] margins will expand. They'll go put
+[01:09] their money where things are more
+[01:11] profitable. That whole Nvidia China
+[01:14] sales has been a mess. The Biden
+[01:16] administration has made them modify
+[01:18] their chips twice. Uh the first chip was
+[01:22] interesting because it had the same
+[01:24] processor as uh the chips we we get in
+[01:27] America, but they had a slower bus. Bus
+[01:30] is like the rate of data transfer. Mhm.
+[01:32] And then they made other modifications
+[01:34] to it and uh it was I think the whole
+[01:38] thing's ridiculous to be honest with
+[01:39] you. I mean, China's going to get the
+[01:41] chips through Singapore or some other
+[01:42] place. But the um um you know the
+[01:47] hopefully this Chinese uh Trump uh u tit
+[01:51] fortat uh reciprocal tariff thing is
+[01:54] going to get resolved because you know
+[01:55] Boeing just had 10 airplanes headed to
+[01:57] three airlines in in China that got
+[02:00] cancelled. So those are brand new planes
+[02:03] customordered. So things are getting to
+[02:06] be a little crazy. So hopefully cooler
+[02:08] heads will prevail. Now the Fed's beige
+[02:11] book comes out on Wednesday. What do you
+[02:12] expect? Well, I just want to see what
+[02:15] the regions are. Okay. Um I want to see
+[02:17] of the 12 Fed districts, how many are
+[02:20] under duress. The Fed should be cutting
+[02:23] rates in May, but they keep saying
+[02:25] they're waiting for inflation from the
+[02:28] tariffs, but we've just had two months
+[02:29] of deflation on the CPI and a massive
+[02:32] drop in wholesale prices, and we got the
+[02:34] lowest oil prices in four years. So, you
+[02:38] know, the the Fed instead of watching
+[02:40] the economic data is making up a
+[02:43] narrative that may not come to fruition
+[02:46] because what's going to happen is all
+[02:48] the trade bears should be falling with
+[02:50] 130 nations. And um and this should not
+[02:54] be inflationary, although we do have a
+[02:56] 10% tariff across the board. And then
+[02:58] what about the durable goods on
+[03:00] Thursday? That should be very good. I
+[03:02] mean, retail sales are super strong.
+[03:04] Auto sales soared. um uh in um uh in
+[03:10] March. And then also it looks like auto
+[03:12] production's still pretty hot and heavy.
+[03:15] They they were trying to to beat the
+[03:16] tariffs to a certain degree, but uh I we
+[03:19] expect very good durable good orders.
+[03:21] Now, can you talk a little bit about the
+[03:23] Atlanta Fed and what it means for GDP
+[03:25] growth? You recently said that we might
+[03:27] not be in a recession anymore. Well,
+[03:30] yeah, they're forecasting negative 2.2%
+[03:33] last I looked. Uh if you back out the
+[03:35] dumping of gold in America because at
+[03:39] Comics, which is a big gold reserve,
+[03:40] that their inventory went up 41% in
+[03:43] January, 25% in February. I don't have
+[03:46] the March number yet, but if we back out
+[03:48] gold, they're only a tenth of a percent.
+[03:50] So gold is a minus 2.1% drag on the
+[03:54] Atlanta Fed's GDP estimate. and um there
+[03:57] were dumping of other goods but yeah
+[03:59] based on the retail sales and other
+[04:01] positive news we're getting uh I don't
+[04:04] expect a recession and of course last
+[04:06] week the earning season kicked off
+[04:07] phenomenal Netflix beat provided great
+[04:10] guidance um Taiwan Semi um is said their
+[04:16] order backlog's great um they beat um
+[04:19] they're not worried about tariffs this
+[04:22] tariff narrative is coming mostly from
+[04:24] Europe and we're being blamed for um a
+[04:29] lot of the world's problems. And I've
+[04:31] also noticed at least in Britain,
+[04:34] they're they're cheering for China right
+[04:36] now. So, uh you know, obviously they
+[04:39] they they don't like President Trump.
+[04:41] So, they're they've uh they're picking
+[04:43] sides. So, I just think that um we just
+[04:46] got to get back to business and and the
+[04:50] things will be fine. But the economic
+[04:51] data has been stunning.
+[04:54] Now, Powell was talking about the
+[04:55] tariffs causing inflation, but the
+[04:58] consumer price index has been in a
+[05:00] decline for the past two months. How
+[05:01] does that make sense? Well, this is why
+[05:03] our Fed chairman isn't an economist
+[05:05] because he's clueless. I mean, I'm sorry
+[05:08] to say it, but uh Trump is right. He
+[05:11] better hurry up and cut rates. I mean,
+[05:14] the European Central Bank just cut rates
+[05:16] for the seventh time. Uh I think they
+[05:19] got another three rates cuts coming. Um
+[05:22] after successful Treasury auctions on
+[05:25] bonds, we uh our rates are settling back
+[05:27] down. Uh the Fed should never fight
+[05:30] market rates, but they're looking at a
+[05:32] fantasy target that's not not real. And
+[05:35] that's why that Facebook survey is so
+[05:37] important. I want to see how many
+[05:39] regions are hurting. And
+[05:41] um uh and Trump uh when he was with
+[05:45] Prime Minister Maloney on on um I think
+[05:48] was I think it was Thursday um he was
+[05:51] starting to to complain that uh Pal's
+[05:55] playing politics and the and you know
+[05:57] the Fed's supposed to be independent not
+[05:58] play politics but if they just looked at
+[06:01] the economic data we wouldn't have these
+[06:02] problems. Why didn't the Bank of Canada
+[06:04] cut rates last week? Aren't they in a
+[06:06] recession? They should have cut rates,
+[06:08] but obviously there's an election on
+[06:10] April 28th and sometimes central banks
+[06:13] don't want to influence the elections.
+[06:15] Um, but the two leading candidates are
+[06:19] are, you know, still pro-Net zero and
+[06:22] and um they're there's not a lot of
+[06:24] difference to be honest with you. Um, I
+[06:26] know Alberta and Saskatchewan are very
+[06:28] upset because under net zero, obviously
+[06:31] you shut down the fossil fuels in
+[06:33] Alberta and the chemical fertilizer that
+[06:36] comes from Saskatchewan. There's a lot
+[06:38] of potters in
+[06:39] Saskatchewan. So, but I guess they don't
+[06:42] want to influence the election, but I
+[06:44] don't know. Neither candidate seems to
+[06:45] be um uh that different to be honest
+[06:48] with you. So, uh let's just get the
+[06:51] election over with and hopefully they
+[06:53] can start cutting rates and stimulating
+[06:54] their economy. Now, let's talk about
+[06:56] some big earning announcements this
+[06:57] week. Before I start though, why did
+[06:59] ASML guide lower when TSM beat and
+[07:02] guided higher? Well, first of all, ASML
+[07:05] is the fancy lithographic company in the
+[07:08] Netherlands, and they're the ones that
+[07:10] use lasers to etch the chips. Um, you
+[07:14] know, by the way, those lasers use um
+[07:16] neon. Okay? And that's one of the
+[07:19] reasons we need the Ukraine Russia war
+[07:22] to end because guess who makes all the
+[07:23] neon between those two countries? Both
+[07:25] of them do, but um uh there ASML is a
+[07:30] semiconductor equipment uh company. Uh
+[07:34] TSM actually makes the chips. Okay. And
+[07:38] of course they're on shoring a lot in
+[07:40] America. So right right now we're on
+[07:42] Apple um laptops. Those chips are made
+[07:45] by TSM and uh they will be made in
+[07:50] Arizona soon. Uh same thing with the
+[07:52] Microsoft Surface laptops. they're using
+[07:55] TSM chips and um so yeah, TSM's business
+[07:59] is booming. So, uh it set a very good
+[08:01] tone for the semiconductor industry.
+[08:04] Now, what do you expect for Tesla?
+[08:07] Oh, well, it's up to Elon. How do I say
+[08:10] this in a nice way? Their sales are
+[08:13] forecasted to go up 1.2%. But their
+[08:16] earnings are forecasted decline
+[08:19] 4.3. Uh the analysts have cut in the
+[08:21] past month. Um, they have a very erratic
+[08:24] earning surprise history. So, the new
+[08:26] Model Y is a very, very nice car. It has
+[08:29] a light bar across the front uh to kind
+[08:32] of match the Cybertruck theme. They have
+[08:35] pulled people off the assembly line on
+[08:37] the Cybert trucks and there's huge
+[08:38] incentives to move the Cyber Trucks now.
+[08:41] So, um that whatever million deposits
+[08:45] they had apparently, they decide not to
+[08:48] buy the truck. So, that's very sad.
+[08:50] Um but the uh their energy storage
+[08:54] business should be booming especially
+[08:55] the commercial storage business. Uh we
+[08:57] had those horrific fires in Moss Landing
+[09:01] um which is the Monterey area the
+[09:04] battery backup system burned for a
+[09:06] month. You know when we were visiting
+[09:07] Grandma and San Diego we get reports of
+[09:10] these little fires from the battery
+[09:12] facilities in Escanido and other places.
+[09:14] So, we really got to upgrade the battery
+[09:17] storage and and get rid of the lithium
+[09:19] ion and use iron phosphate and uh Tesla
+[09:22] is an expert in that. Those batteries do
+[09:24] come from China, but that's who
+[09:26] dominates it. So, that might become a a
+[09:29] problem longer term. But, uh he's got to
+[09:32] also focus on on FSD, his self-driving
+[09:35] system, which a lot of people are
+[09:36] adopting. They love it. And then
+[09:39] finally, he's got to talk a lot about
+[09:40] that robo taxi. Okay.
+[09:43] Um, you know, we need to see those
+[09:45] things out and about competing with
+[09:47] Whimo. Uh, you know, he did this
+[09:50] incredible production at Universal
+[09:52] Studios and it was just basically a
+[09:55] sci-fi movie. He painted a picture of
+[09:57] what's happening and now Elon's got to
+[09:59] fulfill that. Okay. And then um my final
+[10:03] comment um about Tesla that his robots
+[10:05] are cute you know when they make drinks
+[10:07] or serve you or derves um you know but I
+[10:11] don't think they're home ready yet.
+[10:12] Okay. So um uh I hope he doesn't talk
+[10:17] too much about those because those are
+[10:20] probably a decade off. So then do you
+[10:23] think that there's an opportunity for
+[10:25] the robots to take over the world
+[10:27] eventually? Yeah. That's the whole point
+[10:29] of AI. AI makes all our decisions and
+[10:32] and then we don't have to think anymore.
+[10:34] But uh you know AI can is only as good
+[10:38] as the data you put into it. And uh I
+[10:41] don't like um some of the AI programs
+[10:44] cuz I call them garbage in garbage out.
+[10:46] I think we see that on our intelligence
+[10:49] community. They miss 911. They miss
+[10:51] October 7th. I like AI programs to look
+[10:54] at more correlated things. And um so
+[10:58] there's a way to clean up the data. I
+[11:00] think there um and you know we have a
+[11:03] friend Paul who is building AI chips in
+[11:07] Boise. He's an exmicron engineer and um
+[11:10] his firm's called natural intelligence
+[11:12] and he um he basically
+[11:15] builds AI based on clean data but his AI
+[11:19] is mostly making like a smart Alexa and
+[11:22] things like that. I
+[11:24] mean, you know, when you open up the
+[11:26] fridge, uh, let's say you open the
+[11:28] fridge at 5:00 every day and have a
+[11:30] beer, your fridge will start telling
+[11:32] you, "Hi, it's you want a beer?" You
+[11:35] know, or if your food goes bad, they'll
+[11:37] tell you. Mhm. So, all our devices have
+[11:39] Wi-Fi now and they're invading our
+[11:41] homes. And, uh, that's kind of the AI of
+[11:45] the future. But, it's it's no different
+[11:46] than our pets. our pets plot against us
+[11:48] and figure us out and you know um um we
+[11:53] just so everybody knows we have a
+[11:54] 17-year-old Yorkie dog. He's getting a
+[11:56] little dingy and last night he was
+[11:59] barking at a
+[12:01] chair thinking um um your mom was there
+[12:05] and your mom was in another room on the
+[12:07] other end of the house. So, you know,
+[12:09] he's just like the dog can be
+[12:11] misprogrammed, AI can get a little
+[12:13] confused, too. But in the end, a the
+[12:16] first wave of AI will be um figuring us
+[12:19] out in our households and and trying to
+[12:22] organize us. Um but they will be
+[12:24] plotting against us, rightly or wrongly.
+[12:27] So now, what do you expect for Loheed
+[12:29] Martin?
+[12:31] Well, um you know, the uh F-35 Lightning
+[12:36] is a very exciting plane, but it's
+[12:37] always being fixed. So,
+[12:41] um we'll see. I mean, I think defense
+[12:43] stocks are up because the uh there's a
+[12:45] lot of tensioning us in Iran. Obviously,
+[12:48] um Trump doesn't want to strike, but
+[12:50] he's put a bunch of B2 bombers and Diego
+[12:53] Garcia, that's the military base in the
+[12:55] Indian Ocean, and they've been using
+[12:57] those um the the B2s uh on the Hoodies.
+[13:02] Um if we have to drop bunker buster
+[13:04] bombs, you know, cuz the nuclear stuffs
+[13:07] down in these caverns, you have to use
+[13:10] the B2. But um so that that is
+[13:14] temporarily helping Lockheed. uh their
+[13:17] sales are forecasted to go up about 3.6.
+[13:20] Earnings are supposed to decline 310 of
+[13:23] a percent. They do have a good earning
+[13:25] surprise history, but uh you know the
+[13:27] whole defense department's being cleaned
+[13:29] up right now. Now, what do you expect
+[13:31] for Boeing? Well, the good news for
+[13:33] Boeing is they got the uh F-47 fighter
+[13:36] contract. This is a fascinating
+[13:38] airplane. I think it has um the little
+[13:40] wings up front by the cockpit, Bernards,
+[13:42] I think, but it has no um rudder in the
+[13:45] back, you know. So, it's very different.
+[13:47] And um uh they are flying around, but
+[13:51] they fly so fast no one can get a handle
+[13:53] on them. Um and of course, they were
+[13:55] named after Donald Trump. That's why
+[13:58] they're called the F-47. So, that was
+[14:00] interesting. But, um Boeing's uh
+[14:04] commercial business is still struggling.
+[14:06] The good news, their sales are
+[14:07] forecasted to be up 19.9%, but their
+[14:10] earnings are forecast to decline 13.4.
+[14:13] Um, they have a horrible earning
+[14:15] surprise history. Obviously, what
+[14:17] happened with the with China canceling
+[14:19] orders is not good for them. I'm sure
+[14:21] they'll be able to rec
+[14:23] figure those planes for other customers,
+[14:26] but uh you know, in the end uh you know,
+[14:29] we China should be buying Boeing planes
+[14:32] and um hopefully we'll get all this
+[14:35] resolved soon. But uh yeah, we're it's
+[14:39] I'm not excited about Boeing at all. And
+[14:42] what do you expect for service now?
+[14:44] Well, that is an interesting company.
+[14:46] Their sales are forecasted to rise
+[14:48] 18.6%. Their earnings are supposed to go
+[14:51] up 12
+[14:52] um.5%. So, anytime earnings aren't
+[14:55] growing as fast as sales margins are
+[14:57] kind of under compression. Um, but they
+[14:59] do have a good um uh surprise history
+[15:04] and uh they do make us more efficient.
+[15:06] Um I think you're showing an example of
+[15:08] the Service Now software. So there is
+[15:11] some hope
+[15:13] and I'm scared a little bit to ask you
+[15:15] about Intel. Will the first quarter
+[15:16] announcement be bad? Horrific. Uh I mean
+[15:20] uh their sales are forecast to decline
+[15:24] 3.3%. Earnings are forecasted to plunge
+[15:26] 97.7.
+[15:29] Um they have a a really scary earning
+[15:31] surprise history.
+[15:33] Um you know that Intel plant never got
+[15:36] built in Ohio. uh you know Biden was
+[15:38] pushing that and he did succeed in
+[15:40] getting TSM to put the plant in Arizona.
+[15:42] But the reason the the the Intel plant
+[15:45] never got built in Ohio is the defense
+[15:47] department reneged on a $2.5 billion
+[15:49] dollar commitment for semiconductor
+[15:51] chips. So Intel has just been a drift
+[15:55] ever
+[15:55] since it didn't have an engineer in
+[15:58] charge. Uh everybody started to private
+[16:01] label their chips, you know. Um, and uh,
+[16:04] you know, they're obviously making
+[16:07] gaming chips and stuff, but they can't
+[16:08] compete with Nvidia. So, I feel sorry
+[16:11] for Intel. It's a it's a great company
+[16:13] that's been grossly mismanaged.
+[16:15] And finally, what do you expect for
+[16:17] Google? Well, their sales are forecasted
+[16:19] to go up uh, 10.7% and earnings are
+[16:22] forecast to grow seven. Uh, Google does
+[16:24] not provide any guidance whatsoever, but
+[16:27] it has a very good earning surprise
+[16:28] history. I think where everybody's going
+[16:29] to be looking at their advertising
+[16:31] revenue very carefully. uh you know
+[16:33] Netflix one of the reasons they beat
+[16:35] they're now getting in the advertising
+[16:37] business you know you can you can pay
+[16:39] less for Netflix if you want want to
+[16:41] watch ads and um uh based on the strong
+[16:45] retail sales we had in March uh the
+[16:47] strongest in two years I would think uh
+[16:50] Google's advertising revenue would pick
+[16:52] up the only glitch is of course the the
+[16:56] department of justice has uh won a suit
+[16:58] against them to break them up and you
+[17:01] know this
+[17:03] breaking up Google is kind of like a dog
+[17:05] catching a car. I mean, what does the
+[17:08] dog do now? Okay. And uh they're trying
+[17:11] to appease the government and I'm sure
+[17:14] it's being with Trump in it's going to
+[17:16] be a little different. Um but I think
+[17:19] they're trying to spin off uh Chrome and
+[17:21] their search engine. So, we'll see what
+[17:24] happens. Um but um uh Google normally
+[17:28] beats. And one more bonus one. What do
+[17:30] you expect for Abby? Well, their sales
+[17:33] are forecasted to go up u 4.9%. Earnings
+[17:36] are forecasted to grow
+[17:38] 5.7. Uh there's some minor analyst cuts,
+[17:40] but um uh ABBV is a symbol. They have a
+[17:44] a great earning surprise history. Uh
+[17:47] this particular stock is in a lot of our
+[17:50] dividend accounts. It's a fairly safe
+[17:53] stock, but um yeah, when the the drug
+[17:56] companies get a powerful pipeline going,
+[17:58] um it's a wonderful thing. And uh so
+[18:01] let's just hope they um continue to beat
+[18:04] and and uh grow steadily. Okay, Dad.
+[18:07] Now, here's the fun part. Let's answer
+[18:08] some subscriber questions. We're getting
+[18:10] all these questions about tariffs. Can
+[18:12] you try and clarify things a little bit?
+[18:14] Sure. uh you're showing a chart of uh
+[18:17] tariffs historically in America and you
+[18:19] can see well before we had income taxes
+[18:22] the I think income taxes started in 1917
+[18:24] I believe u most of our revenue came
+[18:26] from tariffs and then um and then the as
+[18:30] free trade was promoted the tariffs uh
+[18:32] actually collapse and they are next to
+[18:35] nothing now to be candid with you I know
+[18:38] Trump likes to brag about the tariffs on
+[18:40] China and stuff but
+[18:43] um this This is what Howard Lutnik is
+[18:45] talking about. Gee, if we just go back
+[18:47] to tariffs, we don't have to have an
+[18:48] income tax. But we're not going to get
+[18:50] there. Um, so what's going to happen is
+[18:54] we're going to have freer
+[18:57] uh because of the 131 countries that uh
+[19:00] we're negotiating with. Uh looks like
+[19:03] they're going to drop their trade
+[19:04] bearer. So we're going to have freer
+[19:05] trade. And then of course the Trump
+[19:07] administration is guilting them to buy
+[19:09] something American, you know, LNG or
+[19:12] agriculture products, things like that.
+[19:14] One of the fascinating things is as big
+[19:16] as we are agriculturally, we've been in
+[19:18] a net deficit for the past 3 years. Uh a
+[19:21] lot of it's Mexico. We get tomatoes,
+[19:23] berries, um chili, obviously avocados
+[19:26] from Mexico. Uh and they just put it
+[19:29] signed a I think it's a 21% tariff on
+[19:32] tomatoes. Um so I find that to be very
+[19:35] interesting but the um uh there is a 10%
+[19:39] tariff across the board and that is
+[19:42] meant
+[19:43] to for lack of a better word tax our
+[19:45] underground economy. You know if uh if
+[19:48] you have a cash economy in America which
+[19:50] we do uh for a lot of people you can you
+[19:53] have to put on a VAT tax national sales
+[19:55] tax or the 10% tariffs. So Trump has
+[19:58] decided to uh start to tax that
+[20:01] underground economy uh with a with a
+[20:04] broad-based tariff and we're hoping the
+[20:05] dollar gets its mojo back and the dollar
+[20:08] gets so strong we won't even notice
+[20:09] that. But none of this is showing up in
+[20:11] the data. So uh the irony is we're going
+[20:14] to have freer trade uh because the
+[20:17] tariffs. Obviously China's a wild card
+[20:19] and until uh Trump and she uh get
+[20:22] finally get together it's uh going to be
+[20:25] a distraction. Now, another one of our
+[20:27] subscribers wanted to know if Trump is
+[20:29] going to fill up the strategic petroleum
+[20:31] reserve. Sure. Well, we have extra
+[20:34] money. Uh, obviously, we have to um pass
+[20:38] a a tax cut and do what they call
+[20:41] reconciliation, and he can't do that
+[20:44] until there's surplus money. Uh, but
+[20:47] that's a good idea, you know, for
+[20:49] national security. Um, Biden drained it
+[20:52] um mostly going into elections. is
+[20:54] trying to lower oil prices by draining
+[20:55] the the strategic petroleum reserve. The
+[20:59] other thing is when they do this tax
+[21:00] cut, they have to reconcile and uh
+[21:03] there's even rumblings that because of
+[21:05] the no tax on social security, no taxes
+[21:09] on tips, no taxes on overtime that the
+[21:13] under reconciliation they may actually
+[21:15] have to increase the tax bracket. And I
+[21:18] think the reason Trump would be willing
+[21:20] to do that is he likes to take away the
+[21:22] other side's argument that, you know,
+[21:24] you're helping the billionaires and
+[21:26] stuff. So don't be surprised if we get a
+[21:28] higher tax bracket because, you know,
+[21:30] Trump's all about the masses and whoever
+[21:32] he he promised uh cuts to. But um yeah,
+[21:37] no, no SPR fill up until we resolve the
+[21:40] tax uh the tax rate and the and do a
+[21:43] budget. And finally, is it true that
+[21:46] they're going to address a sovereign
+[21:48] wealth fund?
+[21:50] I don't really think that's going to be
+[21:52] a high priority. Um, also something
+[21:55] interesting happened last
+[21:56] week. So, on Wednesday, May 9th, you
+[22:00] know, Trump had his tweet in True Social
+[22:04] to buy and it was all in caps
+[22:06] exclamation exclamation exclamation
+[22:07] before the market opened. And of course,
+[22:10] that was the biggest rally I'll probably
+[22:12] ever see in my lifetime. and the market
+[22:14] since trying to back and fill a bit.
+[22:17] But then a week later, uh Deon Nunes,
+[22:21] who runs True Social, announces that
+[22:23] Trump is now in the money management
+[22:24] business. Mhm. Uh you can open up uh um
+[22:28] Trump inspired accounts at Charles
+[22:31] Schwab through a subadvisor. Um and they
+[22:34] will be, you know, having make America
+[22:37] energy independent. They're all Trump
+[22:39] themes, you know.
+[22:41] Um, so now he's a money manager. So he
+[22:44] So on True Social and True Social's
+[22:46] going to be doing it. Um, and True
+[22:49] Social is the one that had the big tweet
+[22:51] to inspire the rally. So I guess they're
+[22:54] going to have to have disclosures on
+[22:55] their tweets because I guess he wants
+[22:58] the market to go higher. He just is in
+[22:59] the money management business. But the
+[23:01] other thing that happened on Wednesday
+[23:04] is his family, which is uh Eric and Don
+[23:06] Jr. and Eric's wife
+[23:08] um took a big interest in Salem media
+[23:12] and the stock I think shot up 270 some
+[23:15] odd percent and I met with the CEO of
+[23:17] Salem a few years ago and um this
+[23:21] company does mostly religious right
+[23:23] radio around the
+[23:25] country but they also own Eagle
+[23:27] Publishing which is a newsletter firm um
+[23:30] that I'm intimately familiar with Brian
+[23:32] Perry who's our dividend expert writes
+[23:35] for Salem um I speak at Freedomfest in
+[23:38] June. That's Mark Scowzen. He he um he
+[23:41] he's works for Salem and Eagle
+[23:43] Publishing.
+[23:45] So, it's going to be interesting because
+[23:49] again, uh a week later after inspiring
+[23:52] this big stock market rally, all of a
+[23:53] sudden, Trump and his family are in not
+[23:56] only in the manage account business, but
+[23:59] in the in the investment newsletter
+[24:00] business. So, I think they um they got
+[24:03] to be careful if they do a soft and
+[24:05] wealth. They got a lot of conflicts, you
+[24:07] know. I mean, you can do it with
+[24:09] disclosure, but um I think they might
+[24:12] want to go a little slow on creating
+[24:13] that sovereign wealth fund. Well, thank
+[24:15] you so much for answering all my
+[24:16] questions and thank you to you all again
+[24:18] for watching and supporting us. If you
+[24:20] enjoyed, make sure to give us a like and
+[24:22] subscribe. If you want to purchase Louis
+[24:24] book, it'll be in the description below.
+[24:25] Also, if you prefer listening to us on
+[24:27] Spotify, that link will also be in the
+[24:29] description below. But until then, we'll
+[24:31] see you next week and happy Easter,
+[24:33] everyone.
+[24:35] [Applause]
+[24:35] [Music]
+[24:49] Heat.

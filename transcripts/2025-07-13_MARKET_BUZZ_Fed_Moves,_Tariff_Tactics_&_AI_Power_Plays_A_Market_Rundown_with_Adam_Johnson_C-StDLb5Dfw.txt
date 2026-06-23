@@ -7,9 +7,560 @@ Type: video
 Duration: 21:32 (1292s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 552
+Transcript characters: 19852
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:02] [Music]
+[00:13] Hello everyone. Welcome back to Navalier
+[00:15] Market Buzz, episode 46. I'm Crystal
+[00:17] Navalier and I'm joined this week with
+[00:18] my father, Louis Navalier, and a very
+[00:20] special guest, Adam Johnson, who might
+[00:23] look actually familiar to you. Adam was
+[00:25] on Bloomberg as an anchor for many years
+[00:27] and is now a frequent guest on Fox
+[00:29] Business. Thank you so much, Adam, for
+[00:31] being here.
+[00:32] >> Thank you, Crystal, and thank you,
+[00:34] Louis.
+[00:35] >> I'm excited to have Adam on Navler
+[00:37] Market buzz because his service,
+[00:39] Bullseye Brief, is a great resource for
+[00:42] all serious investors.
+[00:45] >> Louie, thank you. I really appreciate
+[00:46] that. Home of the American Ingenuity
+[00:48] Fund. That's Bullseye Brief. So, Adam, I
+[00:50] find it interesting that you actually
+[00:51] got your economics degree from
+[00:53] Princeton, but our Fed chairman, Jerome
+[00:55] Powell, got a politics degree. Do you
+[00:57] think that our Fed chairman is political
+[00:59] since he recently said that the Fed
+[01:01] would have to cut key interest rates by
+[01:03] now if there were no tariffs?
+[01:05] >> Well, he clearly went to Washington. I
+[01:07] went to New York. So, I'm true to my
+[01:08] economics degree and I guess he is true
+[01:10] to his politics degree. He's trying
+[01:12] desperately, Crystal, not to be a
+[01:14] politician, but he kind of has to be
+[01:16] because his boss, uh, the president,
+[01:18] Donald Trump, is, um, taking a very
+[01:20] harsh line against him and effectively
+[01:23] saying, "You've waited way too long to
+[01:25] cut rates." I actually agree. Um, and
+[01:27] I'll tell you why. Um, the four
+[01:30] indicators that track inflation, CPI,
+[01:33] PPI, uh, PCE, and GDP price index, if
+[01:37] you average all four of those, uh, you
+[01:39] get to 2.4%. The target is two and
+[01:42] inflation was as high as 11%. So, I
+[01:45] mean, come on, we're practically there.
+[01:47] And yeah, I I I actually agree with the
+[01:50] president on this one. Uh we need to cut
+[01:52] rates. They're late to the party. And
+[01:54] cutting rates, I mean, that's just
+[01:56] something that I think we can all
+[01:58] understand. Firsttime home borrowers at
+[02:01] a 20year low because rates are so high.
+[02:05] Uh auto loans are expensive. Home equity
+[02:07] loans are expensive if you can get them.
+[02:10] uh cost of uh running a business and
+[02:12] securing capital is expensive. So a rate
+[02:15] cut is like a tax cut for everybody and
+[02:18] given the fact that inflation has come
+[02:19] down so much. Yeah, I think the Fed is
+[02:22] behind the eightball,
+[02:24] Mr. Powell would be astute by not only
+[02:27] paying attention to the but also the
+[02:29] politics of the whole situation.
+[02:31] So Adam, the FOMC minutes um revealed
+[02:34] that there is definitely a rift brewing
+[02:37] on the Fed uh since at least a couple
+[02:39] FOMC members uh want to follow the
+[02:41] inflation data and start cutting. Uh so
+[02:44] when do you think the Fed will will
+[02:46] start that those cuts?
+[02:47] >> Well, fortunately, I don't actually have
+[02:49] to have an opinion on that. We can just
+[02:50] go to the market, right? Fed fund
+[02:52] futures are effectively saying uh
+[02:54] there's going to be a cut in the fall,
+[02:56] call it September, uh and another cut in
+[02:58] December. The funny thing is, Louie, I
+[03:01] mean, those Fed fund futures have been
+[03:03] all over the map over the past six to
+[03:05] nine months, but for the past two
+[03:06] months, they've been pretty steady right
+[03:08] there. And I think intuitively that
+[03:10] probably makes sense if we don't get um
+[03:13] a pop in inflation related to tariffs.
+[03:16] It hasn't materialized yet. You never
+[03:18] know. Um so stay tuned. That's also, by
+[03:20] the way, I think why uh Jerome Powell
+[03:23] has been hesitant to raise rates.
+[03:24] remember he's trying to protect his
+[03:26] legacy and he doesn't want to be the guy
+[03:28] who cut rates and then all of a sudden
+[03:30] uh inflation went up uh whether it's for
+[03:33] tariffs or any other reason and he's now
+[03:35] got a reverse course that all of a
+[03:37] sudden destroys his legacy. So I think
+[03:39] that that's what he's actually worried
+[03:41] about right now.
+[03:41] >> Adam, the Wall Street Journal had an
+[03:43] article that said the next Fed chairman
+[03:46] is going to be a Kevin Kevin Hasset
+[03:49] Kevin Walsh. Do you have any idea which
+[03:51] Kevin it will be?
+[03:53] >> Probably one of the two. Um Kevin Hasset
+[03:55] is I mean they're very different guys.
+[03:57] When Kevin Worsh was um uh on the FOMC
+[04:02] board that was a number of years ago he
+[04:04] was uh viewed as controversial because
+[04:06] he was very conservative um didn't often
+[04:08] express his views clearly uh was thought
+[04:11] sort of thought of as not being a team
+[04:13] player and yet incredibly smartly
+[04:16] respected uh in the business community.
+[04:18] Kevin Hasset by contrast uh I mean he
+[04:21] looks like a kid. He's got the big
+[04:23] smile. Um he's always happy, an eternal
+[04:25] optimist, which I respect, uh being an
+[04:28] optimist myself. Um and so he's kind of
+[04:31] the warm fuzzy version. Um I think it's
+[04:34] going to be one of those two. They're
+[04:36] they're both in the lead. They're both
+[04:38] um conservative. Um from what we hear,
+[04:42] President Trump likes both of them, but
+[04:44] you know, he liked Elon Musk, too, for a
+[04:46] long time. So u you know, just uh stay
+[04:49] flexible.
+[04:50] >> Great point. Uh, you know, Adam, the um
+[04:52] big financial stocks are going to be
+[04:53] announcing um next week and uh JP Morgan
+[04:57] obviously is going to lead the way. Uh
+[04:59] Jamie Diamond nowadays seems to be
+[05:02] actually more influential than Fed
+[05:03] Chairman Pal.
+[05:05] >> Do you think he'll be happy for a
+[05:07] change? Because he's always kind of on
+[05:09] on guard a lot.
+[05:11] >> I know. Um and it kind of bugs me, but
+[05:13] I've just come to accept that's the way
+[05:15] Jaime Diamond is. you know, when things
+[05:17] are going great, he always says, "Well,
+[05:19] this could be as good as it gets." And
+[05:21] then it turns out that no, things
+[05:22] actually got better. He said, "Well, you
+[05:24] never know." So, you got to be I mean, I
+[05:25] think he's kind of protecting his flank,
+[05:27] maybe a little bit like Jerome Pal
+[05:29] trying to protect his legacy. Um, I
+[05:31] think it's easier um to uh to sort of
+[05:35] say, well, we have to be aware of some
+[05:37] of the risks, and if they don't play
+[05:39] out, you can say, well, it's all worked
+[05:41] out. But if those risks actually do come
+[05:43] to the four, you can say, "Well, you
+[05:45] know, we've been warning about this."
+[05:47] So, I mean, I kind of get it. He I you
+[05:49] know, I think most responsible CEOs uh
+[05:53] play that script. Ed Bastian at Delta,
+[05:55] if you remember, Louie a few months ago
+[05:57] basically suspended guidance because he
+[05:59] said, you know, there is a risk of
+[06:01] recession, which I totally disagreed
+[06:02] with. He said there is risk of tariffs.
+[06:05] Okay, fine, a little bit. Um, and some
+[06:07] of their bookings were light. I think
+[06:09] that was reflecting uh the storms of
+[06:11] January. So he suspended guidance stock
+[06:13] got crushed. I know because I own it.
+[06:15] And then um a few days ago he said,
+[06:17] "Well, actually, we seem to have the
+[06:19] visibility back and we're reiterating
+[06:21] our guidance somewhere between $5 and
+[06:24] $6.25 of earnings and the stock goes up
+[06:27] 15%." We didn't need to do the and then
+[06:30] the voom, but you know, he did that to
+[06:32] try to be um a reasonable CEO and give
+[06:35] people the heads up. Jamie Diamond does
+[06:38] this sort of thing all the time.
+[06:39] Admittedly, I think that CEOs and while
+[06:42] we're talking about him, pal as well
+[06:44] give us way too much guidance. I think
+[06:47] it's handholding. I don't think it's
+[06:48] healthy. I wish they were a little more
+[06:50] secretive. I mean, you know, you don't
+[06:52] say I love you on the first date. Um,
+[06:54] you know, and I just wish he would kind
+[06:56] of hold back a little.
+[06:57] >> TSM announced strong June sales growth
+[06:59] of 26.9% which was better than analyst
+[07:03] estimates. But what do you expect for
+[07:04] TSM's quarter 2 results?
+[07:07] Well, that's a great question. Um,
+[07:10] forecasted post 36.7% sales growth and
+[07:13] 53.9% earnings growth. The analyst
+[07:17] community has been revising their
+[07:18] earnings estimates higher. So, I'm
+[07:22] expecting TSM to surprise and this is
+[07:24] important bellweather because of course
+[07:25] they make the Nvidia chips.
+[07:27] >> Yeah. Um, Louie, I'm long a ton of of
+[07:30] these semiconductor stocks. Okay. Uh the
+[07:32] second largest theme in my portfolio
+[07:35] about 24% is computing power. So uh you
+[07:38] know you just talk about Taiwan semi. I
+[07:40] don't own Taiwan semi but I mean take
+[07:42] your pick. Nvidia the big one that I
+[07:44] think you have to own. That's core
+[07:45] ingenuity.
+[07:47] XP semi the largest for automotive
+[07:49] chips. Marll technologies which is part
+[07:51] of the whole AI ecosystem. They focus on
+[07:54] um the power behind databases. uh I mean
+[07:57] for that matter monolithic uh power
+[07:59] which uh uh helps regulate the power
+[08:02] running through these AI systems
+[08:05] Celestica CLS which assembles the
+[08:07] systems I mean it's just such a powerful
+[08:09] theme and and you know you just talked
+[08:11] about Taiwan Semi and we could talk at
+[08:14] Nause and probably the three of us about
+[08:16] um Nvidia and and what they're doing
+[08:18] that's so different. They're faster
+[08:20] chips obviously and they consume less
+[08:22] electricity. Um it's just yeah computing
+[08:24] power is such an incredibly powerful
+[08:27] theme for this year made more so by AI.
+[08:30] >> Well that's why you're a great stock
+[08:31] picker because uh let's face it this is
+[08:33] really not a sector market this year and
+[08:36] but there is one little sub sector
+[08:37] called semiconductors are definitely
+[08:39] leading the way.
+[08:40] >> So you and I think you and I both um uh
+[08:45] have a few things to say about super
+[08:47] micro computer and it's finally coming
+[08:48] back after that crazy uh downdraft.
+[08:51] Yeah, I never sold it. I'm still up 900%
+[08:54] in it and Nvidia were up like 3600%. So,
+[08:58] uh um yeah, they have to go higher
+[09:00] because I own them. Um
+[09:02] >> yeah.
+[09:03] >> So, what do you expect for ASML?
+[09:06] >> Well, that's the lithography company to
+[09:08] to build the high-end chips and they're
+[09:10] in the Netherlands. They're forecasted
+[09:12] to post uh 21.1%
+[09:14] sales growth and 30.7% earnings growth.
+[09:18] There have been some analyst estimate
+[09:20] trims, but ASML does have a good rain
+[09:22] surprise history. Uh it it has been
+[09:24] lagging in the semiconductor area, but
+[09:26] it is a bell weather. So, we want them
+[09:28] to do well and uh so let's hope they
+[09:30] surprise. The Trump tariff deadline of
+[09:32] July 9th has been extended to um August
+[09:36] 1st and uh Vietnam was set at 20%. but
+[09:40] with a 40% tariff on all uh Chinese
+[09:44] goods sub assembled in Vietnam,
+[09:47] Japan, South Korea, uh tariffs have been
+[09:50] set at 25% effective August 1st. So
+[09:53] clearly Trump wants them to onshore more
+[09:56] uh did all their existing US
+[09:58] manufacturing plants. However, the most
+[10:01] shocking uh news on the tariff front was
+[10:04] uh Trump hiked the the 10% tariffs on
+[10:07] Brazil to 50% effective August 1st if
+[10:11] Lulu Dilva the president continues to
+[10:14] prosecute former President Bossiro. Uh
+[10:18] Adam, uh clearly President Trump is
+[10:20] using tariffs to conduct foreign policy.
+[10:23] Do you do you have any opinion on what
+[10:25] might be the ultimate outcome for
+[10:26] Brazil? Uh Brazil is an impossible one
+[10:29] to gauge in part because um uh the
+[10:33] greatest economists in the world can't
+[10:34] figure Brazil out. Uh English bankers
+[10:36] have been trying to figure out Brazil,
+[10:38] Spanish bankers for that matter too for
+[10:40] the past 300 years. It's such a volatile
+[10:42] volatile place. But you know um Lou I
+[10:44] think it's important for all of our
+[10:46] viewers to understand um that all these
+[10:49] trade headlines tariff headlines I mean
+[10:51] they come and go and they change um you
+[10:53] know every 36 hours there's a variation.
+[10:56] I mean, even Tik Tok, right? That that
+[10:59] deadline's been pushed back three times.
+[11:01] So, I don't think anyone should look at
+[11:03] a particular headline. Um, Brazil 50%,
+[11:07] South Korea and Japan 25. You know, I
+[11:09] don't think anyone should necessarily
+[11:11] look at those headlines and say, "Yep,
+[11:12] done deal. That's it." I think this is
+[11:15] all about negotiating. And President
+[11:17] Trump is turning the screws on partners
+[11:20] and putting some pretty scary stuff out
+[11:22] there um to get them to come to the
+[11:25] table and actually uh make, you know, as
+[11:27] he would say, some sort of deal. And I
+[11:30] think the market, by the way, has
+[11:31] figured that out, too. I mean, think of
+[11:33] the downdraft back in April when this
+[11:35] whole thing, you know, liberation day
+[11:36] was first announced. I mean, it was
+[11:37] pretty scary. Some of my names were down
+[11:39] 35% in a couple of weeks. They've all
+[11:43] come back. And then you know recently we
+[11:45] talk about Brazil on the same day that
+[11:49] uh Mr. Trump said uh 50% tariffs on
+[11:52] Brazil. Stocks went to a new high and
+[11:54] the VIX the volatility index the fear
+[11:56] index went to a six-month low. So you
+[11:59] know I think the market has gotten over
+[12:01] this. I think um we've all come to see
+[12:04] it for the sausage making that it is for
+[12:06] the hardline negotiating that it is. And
+[12:10] um so I don't I don't admittedly take
+[12:12] any of this stuff um uh as the end all
+[12:15] be all.
+[12:16] >> I would add that um you brought up Tik
+[12:18] Tok. I I think one of the reasons Trump
+[12:20] has to uh get that deal to go through is
+[12:24] you know his little dance is on Tik Tok.
+[12:27] Okay. So he won't be able to promote his
+[12:29] dance unless they get the Tik Tok deal.
+[12:32] >> Yeah. I guess they've copyrighted the
+[12:34] dance. It's now a Tik Tok. I don't know.
+[12:36] It's funny. Yeah. No, that's I mean
+[12:38] again you. I'll believe all this stuff
+[12:41] when I see it. You know, when we finally
+[12:43] actually get legit stuff written down
+[12:46] and it happens, I'll believe it. Until
+[12:48] then, it's all a negotiation.
+[12:50] >> Adam, private credit is overpowering
+[12:52] Wall Street and is now a $3 trillion per
+[12:55] year industry. Do you think that the
+[12:57] leverage loans behind private credit
+[13:00] could eventually trigger a new black
+[13:02] swan event?
+[13:04] >> Yeah, it's a thoughtful question, Louie,
+[13:06] and the answer is yes, it's possible. um
+[13:09] 3 trillion just to put that in
+[13:10] perspective is about onetenth of the
+[13:13] size of um US GDP the entire economy and
+[13:17] and that tenth is um obviously all
+[13:20] levered money and it's not something we
+[13:22] can really quantify because you know
+[13:24] it's like an offbalance sheet item it's
+[13:26] not reported it's not tracked um the Fed
+[13:29] can estimate it um we don't know what
+[13:31] the loan quality is uh we don't know
+[13:33] what the covenants are of these loans
+[13:36] it's not standard stuff so it's a black
+[13:38] box. Um, if you ask me whether it it
+[13:41] keeps me from investing in stocks now,
+[13:43] uh, the answer is no. I mean, I'm not
+[13:45] sitting on the sidelines because of this
+[13:48] potential thing that's out there, but I
+[13:50] will agree that yes, it is a potential
+[13:52] thing that's out there that we can't
+[13:54] quantify and that thing could maybe be a
+[13:58] black spawn uh, one day.
+[14:01] >> Great point. So, Adam, your recent
+[14:04] report that was titled, "More power,
+[14:06] more capacity to enable AI is truly
+[14:09] outstanding. What are your favorite
+[14:11] stocks helping to expand our power grid
+[14:13] and data centers?"
+[14:14] >> Oh, my favorite is GE Vernova. Uh,
+[14:18] ticker is a GEV. This was a spin-off
+[14:20] from the old General Electric. Um, and I
+[14:23] tell you what's really cool about this
+[14:25] company. They basically took uh a jet
+[14:27] engine, you know, that is something GE
+[14:30] has been building for uh decades. Um and
+[14:32] instead of mounting the jet engine on a
+[14:34] wing, they basically mount it on steel
+[14:36] brackets outside a factory. And instead
+[14:38] of running jet fuel through it, they run
+[14:40] natural gas through it that can come in
+[14:42] from a pipeline feed or if you happen to
+[14:44] have natural gas on your own property.
+[14:47] Um and they use the natural gas to spin
+[14:49] the turbine that ultimately generates
+[14:52] electricity. So you can generate
+[14:54] electricity on site. Um, guess what?
+[14:57] Problem solved for all of the data
+[15:00] centers. So GE Vernova has just taken
+[15:03] off as you'd expect. I think it's going
+[15:04] to go a lot higher from here. And this
+[15:07] is the data center solution. Um, so
+[15:11] that's very exciting. Sterling
+[15:12] Infrastructure, uh, STRL is that ticker.
+[15:16] Uh, this is a company that, um, used to
+[15:19] do all kinds of big infrastructure
+[15:21] projects.
+[15:22] um from utility buildouts to even
+[15:26] highways, tunnels, etc. And uh along
+[15:28] came the data center and they realized
+[15:30] oh we can lever our expertise in um uh
+[15:34] electricity by building data centers. So
+[15:37] Sterling now gets oh I would say almost
+[15:39] 60% of its revenues from building data
+[15:42] centers and we are building them hand
+[15:44] over fist. So that stock like Genoa has
+[15:47] gone up a lot. I think it's going to
+[15:48] continue to go up. I own them both. I've
+[15:50] been adding to them both. So, um, that's
+[15:53] that's that's my data center. I hate to
+[15:55] say play because that sounds sort of
+[15:56] careless or cavalier, but those are my
+[15:59] data center focused stocks.
+[16:01] >> That's wonderful. Um, Adam, you also
+[16:03] have written that the Tesla's humanoid
+[16:05] robots are coming. Uh, when do you think
+[16:08] the Optimus robots will be rolled out in
+[16:10] the upcoming years?
+[16:12] >> Oh, this year, Louie. Um, it's really
+[16:14] amazing. And this so Tesla I've never
+[16:16] owned it and I've never wanted to own it
+[16:18] because I thought why would I pay 80
+[16:19] times earnings for a car company when I
+[16:21] can buy Ford for six times earnings
+[16:23] right um except that Tesla is not going
+[16:26] to be a car company indefinitely. I
+[16:29] think if you just run the numbers
+[16:31] ultimately the robots uh will produce
+[16:34] far more revenue and certainly profits
+[16:36] than um than the the cars. So
+[16:41] Elon Musk has already started building
+[16:43] these um humanoid robots. I mean they
+[16:45] actually, you know, look like C3PO from
+[16:47] Star Wars. And no joke. And um um he's
+[16:52] building probably 10,000 this year. He
+[16:55] had plans to have all 10,000 deployed
+[16:57] across his factories by year end. Uh and
+[17:00] then next year he's going to start
+[17:02] pivoting into commercial production for
+[17:05] third parties, other people, other
+[17:07] companies, etc. and he thinks that by
+[17:10] 2027 or certainly 2028 um his run rate
+[17:14] will be um uh a million a year. Well,
+[17:18] he's going to price him he says at uh
+[17:21] $40,000 and he said his margins will be
+[17:24] 100%. So if you take that for face
+[17:26] value, 20,000 robots and even if he does
+[17:29] does you know half a million, all of a
+[17:31] sudden we're talking about tens of
+[17:33] billions in revenue and that will
+[17:36] actually be more than he generates in
+[17:38] sell from selling cars right now. So
+[17:40] that's why I say I think Tesla is going
+[17:42] to over the next 3 to four years go from
+[17:45] being an EV company into a robotics
+[17:48] company. But what's really cool, um,
+[17:50] Louie, is that they're training all the,
+[17:53] um, you know, the brains of the robots
+[17:56] based upon all the information gleaned
+[17:59] from the cars in terms of how people or
+[18:02] cars interact with one another or cars
+[18:04] interact with other trucks or how people
+[18:06] respond when they drive. Um, um, you
+[18:10] know, the the Tesla car tracks your
+[18:13] eyeball. So, they've learned so much
+[18:15] about human behavior. um and and um game
+[18:19] theory that they're incorporating into
+[18:21] the brain of Optimus, this humanoid
+[18:24] robot that I don't think there's going
+[18:25] to be anything else on the market like
+[18:26] it. So that's why I finally bought
+[18:28] Tesla. It's not because of the cars.
+[18:30] It's because of Optimus, the humanoid
+[18:32] robot.
+[18:32] >> So Adam, since you're a media expert, it
+[18:35] appears that the media is increasingly
+[18:38] striving to get hits on Google Analytics
+[18:41] with, you know, more shocking news.
+[18:43] >> Yeah. In your opinion, is the
+[18:45] traditional finance media becoming more
+[18:47] sensationalized?
+[18:49] >> Yeah, I think they have to become more
+[18:51] sensationalized just to capture people's
+[18:53] attention. I mean, think about the three
+[18:55] of us. We're having this conversation
+[18:57] right now in different locations, and
+[18:59] it's all going to get uploaded, put on
+[19:01] uh to the web, and they're going to be
+[19:03] probably tens of thousands, maybe
+[19:05] hundreds of thousands of people watching
+[19:06] it over the next several weeks. And
+[19:08] guess what? Uh that means that the three
+[19:10] of us plus everyone else were all
+[19:13] competitors against traditional media.
+[19:16] You know, it used to be that if you
+[19:17] wanted to watch something like this, you
+[19:19] had to turn on uh Bloomberg television
+[19:22] or um Charlie Rose or go to CNBC or who
+[19:25] knows where, you know, interesting
+[19:27] people come together and talk. Well, now
+[19:29] it happens on YouTube and uh Twitter and
+[19:33] so many different places. So yeah, I
+[19:35] think you're right, Crystal, that
+[19:36] traditional media is having to try to
+[19:39] become more sensational in their
+[19:42] headlines to grab our attention. So we
+[19:45] say, "Oh my gosh." I mean, my pet peeve
+[19:47] is is when all these producers use verbs
+[19:51] like um skyrocketed, you know, uh say,
+[19:55] you know, pick a stock, uh XYZ stock
+[19:58] skyrockets, and then you, you know, you
+[20:00] go to your Bloomberg and you go, "Yeah,
+[20:01] it's up 5%. Give me a break." But
+[20:03] because they said skyrocket and they
+[20:05] didn't tell you how much now you know
+[20:06] you click it's clickbait. So yeah, I'm
+[20:08] very aware of that. And in fact,
+[20:10] sometimes I I purposely don't click on
+[20:13] stuff just because I think it looks like
+[20:15] clickbait and I don't want to give
+[20:17] someone the credit of my click.
+[20:19] >> Well, Adam, where can all of our viewers
+[20:21] find you?
+[20:22] >> Oh, bullseye brief.com.
+[20:25] I publish my Bullseye Brief newsletter
+[20:28] every Sunday morning at 7 a.m. and um
+[20:32] it's the home of the American Ingenuity
+[20:33] Fund, Bullseye Brief. I run a portfolio
+[20:35] of about 40 names. They are the people,
+[20:38] companies, and technologies driving our
+[20:40] world forward. And every week I
+[20:43] highlight a different pick in the
+[20:44] portfolio or a new one that I'm adding.
+[20:46] I talk about news on our names,
+[20:48] catalysts on our names, and of course,
+[20:50] trades that I'm making in the portfolio.
+[20:52] And I try to make it easy for people.
+[20:54] And so, uh, people can find me at
+[20:56] bullseeybrief.com.
+[20:58] >> Perfect. Well, thank you so much to you
+[21:00] both for answering all my questions.
+[21:02] Thank you so much, Adam, for joining us
+[21:04] this week. Thank you to you all for
+[21:06] watching and supporting us. Make sure to
+[21:08] hit the like button and subscribe if you
+[21:10] haven't already. Any links that we
+[21:11] mentioned in the video will be in the
+[21:13] description below. But until then, we
+[21:15] will see you all next Sunday for a new
+[21:16] video. Thanks so much, everyone.
+[21:19] [Applause]
+[21:19] [Music]
+[21:31] Heat.

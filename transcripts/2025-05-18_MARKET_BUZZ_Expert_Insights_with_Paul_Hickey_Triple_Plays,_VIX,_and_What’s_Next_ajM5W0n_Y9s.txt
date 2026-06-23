@@ -7,9 +7,754 @@ Type: video
 Duration: 30:25 (1825s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 746
+Transcript characters: 27552
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:14] Hello everyone. Welcome back to Navalier
+[00:16] Market Buzz episode 38. I'm Crystal
+[00:18] Navalier and I'm joined again this week
+[00:19] my father Louis Navalier. But we have a
+[00:22] very special ca guest, Paul Hickeyi, who
+[00:24] is the co-founder of BSpoke and he's
+[00:26] also a frequent and popular guest on
+[00:28] Bloomberg, CNBC, CNN and Fox Business.
+[00:32] Very excited to have Paul. Uh we
+[00:33] subscribe to BSpoke's research. We are
+[00:36] absolutely hooked on their charts and
+[00:38] all the details they provide. Uh Paul is
+[00:41] a a phenomenal historian of the market.
+[00:44] So this is very exciting interview.
+[00:46] Paul, can you explain how you found the
+[00:49] 26 triple plays during the current
+[00:51] earning announcement season and what
+[00:53] makes them so special? Sure. So, let me
+[00:55] just start off by describing what a
+[00:57] triple play is. An earnings triple play
+[01:00] um is a company that will report better
+[01:02] than expected earnings, better than
+[01:04] expected revenues, and then also raises
+[01:07] guidance going forward. So these
+[01:09] companies are, you know, very impressive
+[01:11] in the fact that not only are they
+[01:13] reporting better than expected results,
+[01:15] they also have they also have confidence
+[01:17] in their outlooks uh to raise guidance
+[01:19] above what the current consensus is
+[01:21] forecasting. Uh so we like to focus on
+[01:24] these companies on a quarterly basis and
+[01:26] look for new ideas. And what's really
+[01:29] about impressive about this quarter is
+[01:32] that um we found it there's been a total
+[01:35] of about 80 triple plays so far this
+[01:38] earning season. And when you look at
+[01:40] where this earning season fell in the
+[01:42] grand scheme of things, it was right as
+[01:44] uh liberation day was announced with the
+[01:46] tariffs. Um no one was really expecting
+[01:49] anybody any companies to raise guidance
+[01:51] this quarter. We were just expecting a
+[01:53] lot of lowered guidance. But we actually
+[01:55] saw more companies raise guidance than
+[01:57] lower guidance. So, uh, it's just been a
+[01:59] really impressive earning season,
+[02:01] something we wouldn't have expected. Uh,
+[02:04] and so that's the the background of what
+[02:06] a triple play is. And then the report we
+[02:08] just recently published where we
+[02:10] highlighted 26 of these earnings triple
+[02:12] plays is like what we like to do is look
+[02:14] for companies that have interesting
+[02:16] business models and that most people may
+[02:19] not have necessarily heard of. And so to
+[02:22] give people an idea uh for further
+[02:24] research and so take one of the names uh
+[02:26] Cadbury holding CDRE what they do is
+[02:30] they provide equipment for law
+[02:32] enforcement military and also nuclear
+[02:35] facilities. So with the explosion of
+[02:38] data centers that we've seen over the
+[02:40] last um you you know couple of years and
+[02:44] needs for alternative energy nuclear has
+[02:46] become very popular. Some of these
+[02:48] nuclear stocks have taken off, but maybe
+[02:50] some investors haven't thought of
+[02:52] necessarily to focus on companies that
+[02:54] supply these nuclear facilities with
+[02:58] equipment and safety equipment. Paul,
+[03:00] the U BPO 50 stocks have also crushed
+[03:02] the market averages. What makes those
+[03:04] stocks so special? Right. So, they're
+[03:08] generally growth stocks. Uh we start
+[03:11] with the Russell 3000 and we'll look for
+[03:14] companies that have strong earnings
+[03:16] growth. um in the past and also expected
+[03:19] strong earnings growth going forward.
+[03:22] And then what we also do is we overlay a
+[03:24] technical screen uh on top of those. So
+[03:27] our view is always that the more
+[03:29] disciplines that you can see uh an an
+[03:32] investment opportunity look attractive
+[03:34] under the better chances your success
+[03:38] will be. So uh we we combine those to
+[03:41] come up with u these 50 stocks each uh
+[03:45] week or couple of weeks that we publish.
+[03:47] Uh and then growth has been a very
+[03:50] strong area of the market over the last
+[03:52] several years. So I think that has
+[03:53] helped uh the overall performance. But
+[03:55] again these companies are necess aren't
+[03:58] necessarily the largest cap companies
+[04:00] but they're not uh micro caps either.
+[04:02] They're they tend to fall in the middle
+[04:04] of the road. I should add that um um on
+[04:08] the bespoke 50 we overlap with you on um
+[04:12] Niogen Bioscience that's NAGN
+[04:15] uh plantair technologies PL uh TR and
+[04:18] then SLE uh SEZL and congrats for
+[04:21] finding Szle because that's been a wild
+[04:23] ride. Yes. And so that's three
+[04:25] disciplines that looks good under that
+[04:27] the two we just mentioned and under the
+[04:28] the Navalier approach. So that's even
+[04:31] better. And yeah, so the uh the NIGEN um
+[04:33] is you the this whole health span um you
+[04:37] know we focus so much on extending
+[04:39] lifespans but not the health span of uh
+[04:42] people and NIGEN is you know looking to
+[04:46] get into the cellular makeup of people
+[04:49] metabolism cellular repair and you know
+[04:53] that type of to make people not only
+[04:55] live longer but be healthier longer. Now
+[04:58] Paul, can folks open manage accounts
+[05:00] that follow your triple play and bespoke
+[05:03] 50?
+[05:04] So not specifically. So um for both of
+[05:07] these approaches, what we do is there we
+[05:09] always refer to them as starting points
+[05:11] for further research. So within our
+[05:14] managed accounts, we have a growth
+[05:15] strategy and there's a lot of overlap in
+[05:18] the approach we take for the growth
+[05:20] strategy. So you'll often find that
+[05:22] there there'll be some stocks that are
+[05:24] in our bespoke 50 that will show up in
+[05:26] our managed account process over time.
+[05:29] Uh so there there's some overlap in the
+[05:31] the methods of looking for potential
+[05:34] investments. And as far as a triple play
+[05:36] strategy is concerned, we have a triple
+[05:39] play approach where what we do is we not
+[05:42] only look at what a company reported
+[05:44] this quarter, but we look at the
+[05:46] historical patterns of how that company
+[05:48] has reported their frequency of triple
+[05:51] plays uh whether the pace of triple
+[05:53] plays is accelerating or decelerating.
+[05:56] And so we do have a specific triple play
+[05:58] strategy uh that we approach. So, it's
+[06:01] not an exact replica of these lists that
+[06:03] we put out, but there are there there's
+[06:06] very uh a lot of overlap in the
+[06:08] approaches. So, Paul, I'm uh hooked on
+[06:10] your reports when the S&P makes a big
+[06:13] move. Um you um go out and study how
+[06:17] often that's happened historically and
+[06:19] what the historical performance has been
+[06:21] over the next week, month, 3 months, 6
+[06:23] months, and year. But with that said, uh
+[06:26] aren't we overbought now that we've just
+[06:28] had this huge semiconductor uh uh
+[06:31] resurgence?
+[06:33] Yeah. So, I mean, we've had a a major
+[06:36] rebound in the markets overall uh off
+[06:39] the April lows, but again, you have to
+[06:42] look at what preceded that rally. Uh
+[06:44] semiconductors, like you said, have
+[06:46] rallied 20% off the lows, and they've
+[06:49] only there's only been about 10 other
+[06:51] times where they've hit a 52- week low
+[06:53] and then rallied 20% over the next
+[06:55] month. Uh over the next six and 12
+[06:58] months, returns were were positive. Uh
+[07:01] you know, 6 months later, the semis were
+[07:03] positive 80% of the time. Uh year later,
+[07:06] they median gain was 47% with positive
+[07:10] returns 70% of the time. So, not a
+[07:12] perfect track record, but healthy gains.
+[07:15] But to your point about this, how we've
+[07:18] had this, you know, sharp rally. I would
+[07:20] I think this is really the most
+[07:22] fascinating thing we saw in in the last
+[07:25] uh week or so here is that you look back
+[07:28] in midappril, the S&P was down 15% year
+[07:31] to date. We're now up on the year. That
+[07:34] has rarely happened in the postw World
+[07:37] War II period. you it's only happened in
+[07:39] four other years where you've been down
+[07:41] 15% and then rally back to erase that
+[07:44] all before year end and that was in 1970
+[07:47] that was in 1982 and that was in 2020
+[07:51] and then 2008 2009 I I skip I did the
+[07:55] order wrong there but um those were all
+[07:58] big years for the market and they were
+[08:00] followed periods of great uncertainty.
+[08:03] 1970 we were coming out of the a Fed
+[08:05] tightening cycle and the Vietnam War. In
+[08:08] 1982 it was Paul Vulkar's hard money
+[08:11] period where rates were jacked up. We we
+[08:14] you know we self-inflicted the economy
+[08:17] into a recession to break the back of
+[08:19] inflation. Uh and then in 2009 you had
+[08:22] the uh coming out of the financial
+[08:23] crisis and 2020 coming out of COVID. And
+[08:26] so all those periods when you got back
+[08:28] to positive for the year, there was
+[08:31] probably this feeling that wow, we've
+[08:33] come a long way in in such a short
+[08:35] period of time. The market's probably
+[08:37] due for a breather here. Uh so there's
+[08:39] and there's still a lot of uncertainty
+[08:40] looking forward, you know, coming out of
+[08:42] the financial crisis in 2009 and COVID
+[08:45] in 2020. Like is are we going to have a
+[08:47] resurgence? what you look back at all
+[08:50] four of those periods, those prior
+[08:52] periods, three, six, 12 months later,
+[08:55] the S&P 500 was higher every time. And
+[08:58] then if you even widen the lens to look
+[09:00] at periods where the S&P 500 was down
+[09:03] 10% year-to date and then erase that
+[09:06] decline before year end, you get about
+[09:08] eight different years. And again, 3, 6,
+[09:11] and 12 months later, the S&P 500 was
+[09:14] higher every time. There was some
+[09:16] weakness in for the following week and
+[09:18] month, but you tended to see but once
+[09:20] you got off, you know, that period of
+[09:23] okay, digesting that big rally off the
+[09:25] lows, the market tended to go uh higher
+[09:28] going forward. So, I think this is these
+[09:31] types of reversals don't happen very
+[09:33] often and they're usually a strong
+[09:35] signal from the market. Now, Paul, I was
+[09:38] captivated by your recent VIX chart.
+[09:40] When the VIX gets low, doesn't it
+[09:42] sometimes precede a market sell-off?
+[09:45] Yeah. So, it's interesting when you look
+[09:46] at the VIX, uh there's there's signs
+[09:49] when the there's talk about how when the
+[09:51] VIX gets really low, it's a sign of
+[09:53] complacency setting in for the market.
+[09:55] And when you when you have complacency
+[09:58] in the market, you always increase the
+[10:00] odds of uh you know, a market pullback.
+[10:03] Just as you know, high levels of bullish
+[10:05] sentiment uh are a time to you know,
+[10:07] when everybody's feeling, you know, good
+[10:09] about the market, you should probably
+[10:11] start, you know, looking the other way.
+[10:13] Uh and but that's more when the VIX gets
+[10:16] down to like closer to 10. We're still
+[10:18] in the high teens here in the VIX. And
+[10:20] what's again what's fascinating when you
+[10:22] look back at history here is if you look
+[10:25] at periods where like we went above 60
+[10:27] on the VIX in April. Uh we were back at
+[10:30] uh we were still above 40 in midappril
+[10:33] and then on May 12th we went below 20.
+[10:36] So that was the fastest reversal from
+[10:40] plus 40 in the VIX to under 20. uh that
+[10:44] the VIX has ever seen. And that goes
+[10:45] back to 1990. And there's only been,
+[10:48] again, looking at history, four other
+[10:50] periods where you saw the VIX go from
+[10:53] above 40 to under 20 in the span of 100
+[10:57] trading days or less. Uh again, you had
+[11:00] positive returns going forward over the
+[11:02] next 6 and 12 months. They didn't they
+[11:04] weren't shoot the lights out returns,
+[11:06] but they were um they were consistent
+[11:08] returns in line with historical
+[11:10] averages. But what's also was really
+[11:13] interesting about this is you look at
+[11:14] the VIX itself after those declines in
+[11:18] those four prior periods over the next
+[11:20] six to nine months. You know 6 to9
+[11:23] months later the VIX never got above 30
+[11:26] again in in in those periods you had to
+[11:28] go 9 months later to get a you know a
+[11:32] rebound back in the VIX to above 30 and
+[11:35] you know a rekindling of the high levels
+[11:37] of volatility. Paul, you're an expert in
+[11:39] seasonality. Assuming the Fed uh gets
+[11:41] around starts finally cutting interest
+[11:43] rates, can we avoid the seasonal
+[11:45] weakness that all too often occurs in
+[11:47] August and the first half of September?
+[11:50] Yeah. So, I mean, I think there's a lot
+[11:52] to sort out between now and the summer
+[11:55] uh to summer months and you know, the
+[11:57] summer months, those August September
+[11:58] periods are tend to be, you know, weak
+[12:01] periods for the market. I think, you
+[12:03] know, this gets to the whole idea of
+[12:05] selling go away. Um, historically that
+[12:09] summer these summer months have been a
+[12:10] weaker period for the market, but they
+[12:12] aren't necessarily a period for that,
+[12:14] you know, May to October where the
+[12:16] market has average declines. It's just
+[12:19] hasn't been as strong as it normally is
+[12:21] in those other six months. But I think
+[12:23] as far as the market is concerned going
+[12:26] forward to August and September,
+[12:28] seasonality is just one ingredient and
+[12:30] you have to take into effect what else
+[12:32] is going on. And I mean between now and
+[12:35] then, I think we could see a lot change
+[12:37] in what's going on. So it would be, you
+[12:40] know, just to to look forward to August
+[12:42] and September now and say we're going to
+[12:44] buck that trend. I would probably, you
+[12:48] know, stay away from that until you see
+[12:50] what's going on at the time. Uh but I
+[12:53] think you could see a period, you could
+[12:55] see a situation if these tariff levels
+[12:58] remain relatively low like we have now
+[13:01] and we don't see another tweet or truth
+[13:03] social post jacking rates up again. Uh
+[13:06] the market and the economy could be
+[13:09] fairing well uh where you could see the
+[13:11] Fed start to lower rates and then if
+[13:13] that was the case uh that I think that
+[13:15] would set up, you know, a positive
+[13:17] market backdrop. But uh it depends on
+[13:19] where we go from here to there what
+[13:21] we're going to do then. Has the risk of
+[13:23] recession dissipated with the
+[13:25] improvement of retail sales?
+[13:27] Yeah. So I mean everybody's looking for
+[13:29] a recession. Uh you know the the the
+[13:32] odds have been talked up so much uh
+[13:35] lately but the consumer so far has been
+[13:38] hanging in there. Uh jobless claims
+[13:40] continue to um remain uh you know
+[13:44] healthy. The last place where you're
+[13:46] going to find uh signals of a recession
+[13:48] though are in the economic data because
+[13:50] it's backward-looking. So uh but I think
+[13:53] jobless claims are the most real time
+[13:55] indicator we have is they only have a
+[13:57] weak lag. So I think that's the
+[13:59] indicator to be watching. But as far as
+[14:02] a market related indicator to watch is
+[14:04] the price of oil. And this is sort of um
+[14:07] you know counterintuitive. Oil near
+[14:09] two-year lows. You can look at that one
+[14:12] of two ways. From the glass half empty
+[14:15] perspective, you could say, "Oh, well,
+[14:17] oil's weak because the economy is going
+[14:18] down the tubes." Um, so, you know,
+[14:21] that's one way to look at it. But again,
+[14:23] if you look back at history here, when
+[14:25] oil prices are near two-year lows, that
+[14:28] never happens ahead of a recession. More
+[14:31] often than not, you have oil prices near
+[14:33] two-year highs leading up to a recession
+[14:36] because it's those high oil prices
+[14:38] which, you know, break the consumer's
+[14:40] back and cause them to retrench spending
+[14:42] and not be able to spend on other items.
+[14:44] So, the fact that oil is actually near
+[14:47] two-year lows, I think is much more of a
+[14:50] tailwind for the economy than a headwind
+[14:52] for the economy and will hopefully help
+[14:54] to offset some of the negative impact of
+[14:58] the higher prices that we're likely to
+[14:59] see from tariffs going forward. Now, I
+[15:02] have a little bit of a hard question.
+[15:04] So, since private credit is yielding up
+[15:06] to 11% due to leverage, is there any
+[15:09] chance that private credit crashes and
+[15:11] becomes the next black swan event?
+[15:14] Yeah. So again, if you were to see the
+[15:17] economy really weaken from here, I think
+[15:19] private credit could become an issue. Uh
+[15:22] but private equity or private credit has
+[15:24] such, you know, seems to be, you know,
+[15:27] connotated with as being much more
+[15:29] exotic than than it really is. And it's
+[15:32] really stemmed from the fact that bank
+[15:34] regulation was so high in the post
+[15:36] DoddFrank environment that companies
+[15:39] went to other avenues because banks
+[15:41] weren't as willing to lend. So I think
+[15:43] in most cases the there's a lot more
+[15:46] responsibility on the part of the
+[15:47] lenders and you're not necessarily seen
+[15:50] as reckless behavior. But again, if you
+[15:53] were to see the economy really go down
+[15:55] the tubes here, I think the private
+[15:57] credit market uh could become could
+[16:00] become an issue. But that's that at this
+[16:03] point we're not at those levels. So um
+[16:05] one last question, Paul, we seem to be
+[16:07] in a stock picking market rather than a
+[16:10] sector market. So, do you think your uh
+[16:12] bespoke uh 50 and the triple plays are
+[16:15] poised to keep leading? Um I mean do you
+[16:18] think the stock market will ever return
+[16:20] more to a broader sectorbased strategy?
+[16:23] Yeah. So I mean I think now where you
+[16:25] have I I think you know at least our
+[16:29] bias is towards the individual stock
+[16:31] level. uh you know the whole ETFs should
+[16:35] make sectorbased you know investing much
+[16:38] more popular as you can just invest in
+[16:40] you know you know one sector or the
+[16:42] other but the problem with that is that
+[16:45] even a sector that has the greatest
+[16:48] tailwinds going for it is going to have
+[16:50] bad management at certain companies in
+[16:52] it. So, um, you know, those companies,
+[16:55] even, you know, when the, you know, the
+[16:58] coast is clear, they're going to find
+[17:00] ways, some companies are going to find
+[17:02] ways to mess things up. And so we're
+[17:05] much more concerned about focusing on
+[17:07] individual companies, especially when
+[17:10] you have this type of uh technological
+[17:13] change going on right now with AI, which
+[17:16] there's certain companies involved in
+[17:17] AI, but more importantly, you're going
+[17:20] to look and find in certain sectors of
+[17:22] the economy, different companies
+[17:25] utilizing AI to a different degree, and
+[17:27] that's going to make them much more
+[17:29] efficient. you know we we constantly
+[17:30] think that AI is you know just two years
+[17:33] old after the launch of chat GPT but
+[17:35] companies have been using that for much
+[17:37] longer I mean Google or alphabet as it's
+[17:40] called now uh when Sundara Pichai became
+[17:42] the CEO back in I think it was 2018 he
+[17:46] called he said we are an AI first
+[17:48] company so u AI has been much has been
+[17:52] around longer companies have been used
+[17:54] have been trying to use it more it's
+[17:56] really blossomed in the last two years
+[17:58] or actually three years now we're we're
+[18:00] approaching but um time really flies but
+[18:03] uh I think you want to focus look at
+[18:05] companies uh how they're they're
+[18:07] utilizing this to their advantage. Uh my
+[18:09] publisher had a um big u ring call
+[18:14] yesterday and the AI did most of the
+[18:17] talking. It was pretty bizarre. Oh wow.
+[18:21] So we all kind of have the heebie-jebies
+[18:24] right now. Yeah. Nobody's going to need
+[18:25] us, right? Yeah. We're we're still
+[18:27] recovering from this,
+[18:30] but the writing of AI still I think
+[18:33] leaves a lot to be desired. I I think
+[18:34] you can you know it's good for starting
+[18:36] points but a lot of times you can see I
+[18:38] mean at least you know it see you can
+[18:40] tell what's being written by AI often
+[18:42] and what's not. Well, we use a lot of
+[18:45] your research but how can our watchers
+[18:48] learn about bespoke and learn all about
+[18:50] your important research? Yeah. So, um we
+[18:54] we provide different services on the
+[18:56] research side to clients of all
+[18:58] different types from the you know the
+[19:00] casual investor to the pension fund
+[19:04] manager to the hedge fund manager um to
+[19:06] the largest institutional investors. So,
+[19:08] so we have different levels of service
+[19:10] that cater to everybody uh you know and
+[19:13] there are at all different um levels of
+[19:15] accessibility in terms of of price. Uh
+[19:18] we also have a free uh blog on our
+[19:20] website
+[19:22] bespokepremium.com. Uh so people can
+[19:24] visit us there, see samples of
+[19:26] everything we have uh and and get a
+[19:30] taste for the types of um analysis that
+[19:33] we do on the markets uh and individual
+[19:36] stocks. And then we also have a Twitter
+[19:38] feed or an X feed. It's uh bespoke
+[19:41] invest. Uh so those are on the research
+[19:43] side of things. And then we also as you
+[19:45] mentioned earlier we have a uh you know
+[19:48] a wealth management group where we uh
+[19:50] will manage individual accounts for for
+[19:53] investors uh you know with taking a
+[19:57] growth bias and uh a growth approach to
+[20:00] the market. Yeah. Paul I have one
+[20:02] suggestion for you since your returns
+[20:04] are so good. I don't know if you're
+[20:06] doing it yet, but um a lot of our
+[20:09] managed accounts, we uh will manage
+[20:11] money for just 10% of profits billable
+[20:14] annually. Uh it's rule 205-3,
+[20:17] right? So, um uh for your special
+[20:20] portfolios that are extra powerful, uh
+[20:23] you might want to offer that. Of course,
+[20:25] they have to be accredit investors. You
+[20:27] have to wait a year to build, but it's
+[20:28] it's based on uh their actual account
+[20:31] appreciation on a month basis. Good
+[20:34] thing to to look into. We'll we'll check
+[20:36] that out. Well, it'll it'll make as just
+[20:39] as big as those big hedge funds. Yeah.
+[20:43] Yeah. But once they get big, you look at
+[20:45] their returns, it's not even worth it,
+[20:46] right? Well, yeah. That's why I never
+[20:48] did them. Uh because I I knew I just
+[20:51] happen to know the rag and um but again,
+[20:54] you have to wait a year and uh they have
+[20:56] to be accrediters. Yeah. Oh, that's
+[20:58] good. Yeah, we'll definitely check that
+[20:59] out. Yeah. Yeah. It's SEC rule 205-3.
+[21:02] Now, let's discuss the upcoming economic
+[21:05] news next week. Are there any
+[21:06] significant reports other than the
+[21:08] existing new home sales?
+[21:11] Not that I know of. Um, you know, just
+[21:14] Trump has already announced that they're
+[21:16] going to send out letters to uh
+[21:18] countries explaining what their tariffs
+[21:20] are going to be because they don't have
+[21:21] time to individually negotiate with all
+[21:23] of them. So, I'm sure that's going to
+[21:26] cause a bit of
+[21:28] a interesting market response. Yeah. I
+[21:32] mean, I think that's the headline.
+[21:33] There's still headline risk in the
+[21:35] markets here and and that's, you know,
+[21:37] things that we're you just have to be on
+[21:39] alert for and unfortunately, uh, you
+[21:41] have very little, uh, way to anticipate
+[21:44] when those are going to happen. Now,
+[21:45] earning season is winding down and
+[21:48] there's been a lot of announcements
+[21:50] recently. I'm sure everyone is very
+[21:52] excited. Dad, can you talk about Nvidia?
+[21:54] Sure. Nvidia is the grand finale. Uh,
+[21:56] their sales are forecast to rise 65.2.
+[22:00] earnings are forecast to rise uh
+[22:02] 42.3. Uh so when the earnings aren't
+[22:05] growing as fast as sales, it means the
+[22:06] margins are getting pinched just a tad.
+[22:08] Uh but NIV is last I looked 70%
+[22:11] operating margins. So they're they're
+[22:13] fine. They have a great earnings price
+[22:15] history, but as always, their guidance
+[22:17] is going to be crucial, especially in
+[22:19] the wake of uh all those new orders they
+[22:22] just got in Saudi Arabia. Paul, you're
+[22:24] probably more an expert in um why Nvidia
+[22:27] reacts funny after its earnings
+[22:29] announcements. I I think it's because
+[22:31] you know the Citadels and the big firms
+[22:34] are writing all these covered calls on
+[22:36] on Nvidia. So when it announced and
+[22:39] beats sometimes it doesn't want to go up
+[22:41] because all the people that wrote these
+[22:43] call options don't want to fill fillers.
+[22:47] Yeah, it's been um it's it's been really
+[22:50] interesting to watch because it seems as
+[22:51] the news has gotten better. Um the stock
+[22:54] has been you know has been harder to to
+[22:57] achieve gains and um you know everything
+[23:01] the business is doing great. Uh but to
+[23:05] your point Louie like what you've seen
+[23:07] is over since basically last summer
+[23:10] there if you look at the chart there's
+[23:12] multiple instances where the stock you
+[23:14] know rally sharply on good news and then
+[23:17] you know the candle charts on an
+[23:19] intraday basis show a sell-off and uh
+[23:22] you know looking for when the tide is
+[23:25] going to shift on Nvidia here you know
+[23:27] you want to see that some of those
+[23:29] rallies you know show further momentum
+[23:31] rather than um you know see that selling
+[23:33] into selling into strength. Uh the stock
+[23:37] has seen a pretty big haircut like the
+[23:39] rest of the market. Um and it's
+[23:41] rebounded from that. So maybe that's a
+[23:43] step in the right direction. But uh you
+[23:44] know I think you know you want to see
+[23:47] that trend break of selling into
+[23:49] strength. Yeah. I I think um 42% of our
+[23:52] options are now daily. So it just
+[23:55] sometimes appears the tail's wagging the
+[23:57] dog. And of course, there's a lot of
+[23:59] mean reversion programs on Wall Street
+[24:00] to punish the the winners. And uh
+[24:03] unfortunately, as earning season winds
+[24:05] down, it seems those mean reversion
+[24:06] programs uh get stronger.
+[24:09] Yeah. You get an environment where the
+[24:11] market tends to rally in the first part
+[24:13] of earning season. So expectations get
+[24:15] higher and then then it becomes since
+[24:17] they report so late, it's harder to beat
+[24:19] what early in earning season
+[24:21] expectations are low. So you can beat
+[24:23] those the bars set low. It's easy to get
+[24:25] over it. But then as the bar gets higher
+[24:27] and higher, it becomes harder to get
+[24:29] over. Yeah, great observation. And what
+[24:32] do you expect for Costco?
+[24:34] Well, their sales are forecasted to rise
+[24:36] 7.9%, earnings are forecasted to rise at
+[24:39] 12.4. That's excellent. Um, the analyst
+[24:42] estimates are steady, but their same
+[24:44] store sales are crucial. Last I looked,
+[24:46] they were a little over 7%. Uh Costco
+[24:48] retails a ton of gasoline. Okay. And gas
+[24:52] prices are down. So, uh it could cause
+[24:54] same store sales to continue to slow.
+[24:57] But, you know, Walmart um uh beat uh and
+[25:01] and and gave some interesting guidance.
+[25:04] They were going to raise prices. So, u
+[25:06] because of the tariffs. So, it's going
+[25:07] to be interesting if uh uh on Costco's
+[25:10] guidance. What do you expect also for
+[25:12] Dell? Dell sales are forecast to rise
+[25:14] 4.1%. Earnings are forecast to rise
+[25:18] 32.4. Um there's been some recent
+[25:20] analyst trims, but Dell has a good
+[25:22] earning surprise history. The real
+[25:24] question is um Dell starting to make a
+[25:26] dent in uh SMCI's uh AI um water cooled
+[25:32] server uh rack systems. Uh now Kramer
+[25:35] has kind of gone off that, you know, buy
+[25:38] Dell,
+[25:39] sell. I would respectively disagree with
+[25:42] him only because the guys I know in the
+[25:44] cloud and um uh still love their rack
+[25:48] system. So that's going to be the real
+[25:50] key is um um what is their guidance
+[25:53] going to be going forward and are they
+[25:55] making a dent in an SMCI? Paul, do you
+[25:57] have any idea who's winning in this the
+[26:00] server farm wars? No, I I mean I don't
+[26:02] have much of of insight there. uh you
+[26:05] know, SMCI, it's just I I was going to
+[26:08] ask, do you think their you know, their
+[26:10] issues on the you know, the the
+[26:12] accounting um have have are fully behind
+[26:14] them now? And it seems like they've
+[26:16] gotten most of that behind them uh at
+[26:18] this point, right? Yeah. No, it is. I I
+[26:20] um you know, I never sold the stock.
+[26:22] We're up 800% in it. And balance, we
+[26:25] didn't want to realize the capital gain.
+[26:27] Um but when the Hindenburg report came
+[26:31] out uh you know I went through that
+[26:33] forward and backward and um basically
+[26:36] they got criticized for booking too many
+[26:39] sales and so they were booking things
+[26:41] four to five years out and then then
+[26:44] they're paying their sales guys not
+[26:45] delivering and squeezing their operating
+[26:47] margins and then of course their auditor
+[26:49] resigned out of liability concerns and
+[26:52] then they blame their auditor and
+[26:54] everything seems to be back on track but
+[26:56] they did confirm firm. Everybody wants
+[26:58] the black roll chip versus the H20. So,
+[27:01] um, but again, you know, you know, our
+[27:05] management company's out in Reno and we
+[27:07] have Apple and Google server farms out
+[27:09] there and we got all kinds of friends in
+[27:11] that business and they just swear by
+[27:13] their equipment.
+[27:14] So, I I stuck it out. Uh, I I also
+[27:17] wasn't seeing a lot of analyst cuts. So,
+[27:20] uh, but all that's over. Hindenberg's
+[27:22] out of business now. And, uh, um, so
+[27:25] that's that. So, uh, they now they can
+[27:28] get back on track. I hope so. And, uh,
+[27:30] you know, they did it's still I mean, it
+[27:32] still got a ways to go to get back to
+[27:34] where it was. Oh, yeah. Oh, yeah. And
+[27:36] they did get the Saudi contract. And I
+[27:39] think the problem is their chairman
+[27:40] doesn't is so obsessed with doing his
+[27:43] running his company, he doesn't often do
+[27:46] the PR stuff and yeah, interact enough.
+[27:49] I think that's part of the issue.
+[27:53] Yeah. Now, Home Depot has had quite an
+[27:57] interesting pass, but are you expecting
+[28:00] positivity for them this week? I hope
+[28:02] so. Their uh sales are forecast to rise
+[28:04] 7 and a half%. Earnings are forecast to
+[28:07] slip 1.1. Um, but they've had steady
+[28:10] analyst estimates in the past couple
+[28:12] months, although they missed last
+[28:13] quarter. I I think their guidance is
+[28:15] going to be key. So, in the uh April
+[28:17] retail sales report, uh there were two
+[28:19] green shoots. One is that um spending at
+[28:23] bars and restaurants were up
+[28:25] 1.2%. So I think Crystal, you and your
+[28:27] friends helped that. And then um uh uh
+[28:31] hardware and garden centers were up 8/10
+[28:34] of a percent. So clearly people were out
+[28:36] and about improving their home and all
+[28:37] and uh and hopefully that'll show up in
+[28:40] uh Homes Depot's bottom line and uh and
+[28:44] hopefully they'll give us some good
+[28:45] guidance. Yeah. And I think you know
+[28:47] what we're starting to see as well is
+[28:48] you're starting to see uh you know you
+[28:51] saw such a pull forward of demand in
+[28:52] during COVID that you saw a lack of um
+[28:55] you you saw a lack of activity or a
+[28:57] decline in activity but you're starting
+[28:59] to see as we get further from the COVID
+[29:01] period you're starting to see as far as
+[29:03] those big ticket items and renovations
+[29:06] people are starting to do that that kind
+[29:07] of thing again. Um and then the weather
+[29:09] in the north at least in the northeast
+[29:11] has been terrible. But you know if we
+[29:13] get a couple we had a good weekend last
+[29:14] weekend had a good weekend this weekend
+[29:16] and that's going to really help their
+[29:17] garden sales which is you know major uh
+[29:20] you know high margin area for them. And
+[29:23] lastly do you expect a similar
+[29:25] positivity with into it? Yeah their
+[29:27] sales are forecast to be up uh 12.2
+[29:29] earnings are supposed to be up 10.3. Uh
+[29:32] they have very steady analyst estimates
+[29:33] in the past couple months. They have a
+[29:35] very good earnings price history.
+[29:37] obviously they're doing a lot more than
+[29:39] just Turboax and uh um and I think Chris
+[29:42] I think you know the Turboax uh founder
+[29:44] is in our neighborhood arena so um
+[29:47] that's Ranson he's a great guy but um
+[29:49] yeah we are expecting good results from
+[29:51] it perfect well thank you both so much
+[29:54] and thank you so much Paul for being
+[29:56] here please make sure to like comment
+[29:58] and subscribe if you want to check out
+[29:59] any of Paul's links they'll be in the
+[30:01] description below also if you want to
+[30:02] check us out on Spotify that link will
+[30:04] also be in the description below but
+[30:06] until then we See you all for a new
+[30:08] video. Thank you so much everyone.
+[30:10] [Applause]
+[30:11] [Music]

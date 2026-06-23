@@ -7,9 +7,538 @@ Type: video
 Duration: 19:33 (1173s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 530
+Transcript characters: 17922
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] A blowout trade deficit rattles GDP
+[00:02] estimates, oil jumps on Iran fears, and
+[00:05] earning shakeups and Carvana down while
+[00:08] Quantas services surges. Welcome back to
+[00:10] Navellier Market Buzz.
+[00:22] >> [music]
+[00:25] >> Now the December trade deficit came in
+[00:27] much higher than expected. Why did that
+[00:30] surprise economists and force them to
+[00:32] cut fourth quarter GDP estimates? Well,
+[00:35] what happened is the Commerce Department
+[00:37] announced that imports surged 3.6% in
+[00:40] December, but exports declined 1.7%.
+[00:44] And
+[00:46] the deficit for December was um
+[00:50] over 70 billion dollars and the cons
+[00:52] were expecting a little over 55 billion
+[00:55] dollars. So this was a big surprise and
+[00:58] it's causing economists to cut their
+[01:00] fourth quarter GDP estimates. As
+[01:02] example, the Atlanta Fed lowered their
+[01:04] estimate from 3.6 to 3%.
+[01:07] So all that studying GDP growth that I
+[01:10] was predicting or that I was
+[01:11] predicting will not be happening until
+[01:13] this year. In the fourth quarter it's
+[01:15] going to be held back. And also the
+[01:16] government shutdown might hold it back
+[01:18] too. But now how does a bigger trade
+[01:20] deficit actually impact GDP? Well, it's
+[01:23] a huge component. The only way you can
+[01:25] boost GDP is one through productivity
+[01:28] enhancements as Ed Yardeni pointed out,
+[01:31] two by shrinking the trade deficit which
+[01:33] was happening, but it has backed up in
+[01:35] the last two months, November, December,
+[01:37] and then of course consumer spending. So
+[01:40] those are the keys to have a robust
+[01:43] healthy economy and it looks like to be
+[01:46] candid with you, most of our economic
+[01:47] growth is going to be coming from
+[01:50] productivity gains thanks to AI. And in
+[01:53] fact we see that in the earnings
+[01:54] environment means
+[01:56] um, 12.1% so far and
+[02:00] this quarter sales are about 9%. This is
+[02:03] the 10th quarter in a row that earnings
+[02:04] have outpaced sales and um, that's part
+[02:07] of the productivity enhancement and and
+[02:09] and GDP growth as well. So, that's what
+[02:12] we got to do. Now Kevin Warsh, our new
+[02:14] uh, Fed chairman, he has to be confirmed
+[02:16] by the Senate is apparently expecting
+[02:18] huge productivity gains from AI and he's
+[02:21] going to be using that as one of the
+[02:23] reasons to to cut rates because those
+[02:25] productivity gains aren't aren't
+[02:26] normally inflationary at all. Brent
+[02:28] crude oil jumped about $70 per barrel on
+[02:31] fears that the US could strike Iran. How
+[02:34] serious is this risk and what will
+[02:36] happen if tensions escalate? Well, it is
+[02:38] a real risk. I mean, obviously we've
+[02:41] assembled most military firepower since
+[02:45] uh, the Gulf War. Obviously, President
+[02:47] Trump is trying to intimidate Iran. Iran
+[02:49] did tentatively agree to stop their
+[02:52] nuclear enrichment for the next 3 years,
+[02:54] but that was nowhere near enough.
+[02:56] Basically, the US is demanding that Iran
+[02:58] stop all nuclear enrichment, okay? And
+[03:01] they obviously would like a regime
+[03:03] change, but that's compound complex. So,
+[03:06] we'll see how Iran responds. They're
+[03:08] famous for dragging things out, kicking
+[03:10] the can down the road. They partially
+[03:13] closed the Strait of Hormuz. You're
+[03:14] showing a chart of the energy traffic
+[03:17] that goes through the Strait of Hormuz
+[03:19] and furthermore, they it's rumored they
+[03:21] might be launching some missiles to show
+[03:23] how strong they are. So, whatever
+[03:25] President Trump does, it has to be fast,
+[03:27] it has to be furious, it has to be
+[03:29] decisive and we do not want American
+[03:32] hostages in Iran, especially from like
+[03:35] pilots and things. So, it's going to be
+[03:38] interesting. You know, we're trying to
+[03:39] make the world a better, safer place and
+[03:41] if Iran doesn't play ball, then
+[03:43] President Trump will do what he has to
+[03:45] do, but it has to be decisive. Now,
+[03:47] normally this kind of military action
+[03:49] does not hurt the stock market, okay? As
+[03:51] long as it's decisive, short-lived, and
+[03:54] it won't be a surprise. Now, when will
+[03:56] this happen? The President Trump and JD
+[03:59] Vance is involved in negotiations and
+[04:01] we'll see what happens. But it's uh
+[04:04] it's definitely going to keep crude oil
+[04:05] prices artificially high.
+[04:06] >> Why did Carvana fall even after
+[04:08] reporting huge revenue and earnings
+[04:10] beats? That's a great question and I
+[04:13] think it's confusing to a lot of people,
+[04:15] so let's um just explain what happened.
+[04:19] Carvana's revenue surged 58%
+[04:23] compared to a year ago.
+[04:25] Their operating earnings rose 653%
+[04:29] compared to a year ago.
+[04:32] Now,
+[04:33] according to Zacks, okay, they posted a
+[04:36] 7.3% revenue surprise and a 274%
+[04:41] earning surprise. So, why did it sell
+[04:43] off? Well, some analysts expected
+[04:46] slightly higher operating earnings. But
+[04:48] this is a company whose earnings just
+[04:50] went up 274%.
+[04:52] I mean, I think it was a gross
+[04:54] overreaction. This is shows you what
+[04:56] happens, how they just read the
+[04:58] headlines and don't read the details.
+[05:00] So, I think the sell-off in Carvana was
+[05:02] completely unfounded. I think it is a
+[05:05] great buy here and I would back up the
+[05:08] truck and buy a lot more. It's a great
+[05:10] near-term buy. So, then why did Quanta
+[05:12] Services soar after what looked like a
+[05:14] more modest beat? Yeah, their sales uh
+[05:18] for Quanta Services rose 19.7%
+[05:21] and earnings rose 7.5%
+[05:24] but they beat analyst sales estimates by
+[05:26] 7.8% and their earnings estimates by 5.4
+[05:29] but their order backlog rose and their
+[05:31] guidance was positive. Quanta Services
+[05:34] is in a very sexy um
+[05:37] uh place for investors, which is
+[05:38] building out data centers. So, it was
+[05:41] just the latest evidence that the data
+[05:43] center demand remains strong, business
+[05:45] remains robust, and the stock was
+[05:47] rewarded for that. So, it's always about
+[05:50] the surprise and the guidance and
+[05:52] obviously we own Quanta Services PWR, so
+[05:55] we're very, very happy with the with the
+[05:56] rally.
+[05:57] >> Now, onto some bizarre news. Why is the
+[05:59] Bank of England preparing a study on the
+[06:01] economic impact of aliens being real?
+[06:04] What does this even mean for markets?
+[06:06] Well, that is the bizarre news and
+[06:09] that's actually old news, but the reason
+[06:11] it popped up again is President Obama
+[06:14] was talking about aliens and he said
+[06:17] they're not at Area 51 in Nevada and
+[06:20] then President Trump said he is not as
+[06:23] supposed to disclose classified secrets.
+[06:26] Cuz you know, the ex-presidents do get
+[06:28] classified reports and Laura Trump's his
+[06:31] daughter-in-law was also talking about
+[06:33] how President Trump has a speech to give
+[06:36] on the revealing that there is alien or
+[06:40] extraterrestrial life. Now, obviously
+[06:42] these are just things that went wild in
+[06:44] the media. Okay? Obviously there's a
+[06:47] Spielberg movie coming out in June.
+[06:49] Implies this is happening, but you know,
+[06:51] President Trump is a master at
+[06:54] dominating the news media and if and
+[06:57] when he discloses this, he will disclose
+[06:59] it when he thinks it benefits him. But
+[07:01] right now it came up because
+[07:04] uh
+[07:05] he wanted to humiliate President Obama
+[07:08] and accuse him of leaking classified
+[07:10] intelligence. So, now the Bank of
+[07:12] England thing is even more bizarre
+[07:14] because apparently somebody in the US
+[07:16] told the Bank of England we're going to
+[07:17] be announcing this stuff. We'll see. I'm
+[07:19] fortunate to know Christopher Mellon who
+[07:21] is the expert on all this. He's the one
+[07:23] that released the TikTok video to the
+[07:25] New York Times. He's ex-um
+[07:28] um defense official under Bill Clinton
+[07:31] as well as George Bush um
+[07:34] 41. I haven't talked to Chris Mellon
+[07:36] about this, but let's just hope when
+[07:38] they disclose everything and it all
+[07:40] comes out, he has been pushing for
+[07:42] disclosure and Chris Mellon is all over
+[07:44] that that disclosure movie that came out
+[07:46] a while ago. So, I don't think we should
+[07:49] worry about it. I mean, if the aliens
+[07:51] have been here, they've been here for a
+[07:52] long time, so life goes on. Now, let's
+[07:54] move into some earning announcements.
+[07:56] Let's start out with the consumer. Are
+[07:58] they still spending? What do you see
+[08:00] with Domino's Pizza? Is it value driving
+[08:02] traffic? It's a good question. Sales are
+[08:04] supposed to be up 5.2%. That's not bad
+[08:08] for a pizza company. Earnings are
+[08:09] supposed to be up
+[08:11] 10%. That's excellent. Means their
+[08:13] margins are expanding. We do have
+[08:15] a pretty steady analyst estimates in the
+[08:17] last 3 months, but Domino's did surprise
+[08:22] in the third quarter 3.2%.
+[08:25] So, let's hope they surprise. I like the
+[08:27] margin expansion. You know, consumers
+[08:29] are going to be getting more money in
+[08:31] their pocket because of the tax cuts,
+[08:33] but this is the fourth quarter. So,
+[08:35] we'll see. We'll see. If they were
+[08:37] spending the fourth quarter, I think
+[08:38] they'll be spending a lot more in the
+[08:39] first quarter. Now, how did Home Depot
+[08:41] perform with housing still under
+[08:43] pressure? Well,
+[08:44] that's a great question and the
+[08:46] contractors do go to Home Depot quite a
+[08:49] bit.
+[08:50] So, Home Depot is much more sensitive to
+[08:52] contractor volume than um
+[08:54] Lowe's.
+[08:56] But, their sales are supposed to be down
+[08:58] 4.2%.
+[09:01] Their earnings are supposed to be down
+[09:03] 16.4%.
+[09:05] So, that just shows you the weakness in
+[09:07] the
+[09:08] construction housing market and the
+[09:11] analysts have trimmed their estimates a
+[09:12] bit in the last 90 days. And
+[09:14] unfortunately, Home Depot has missed for
+[09:16] four straight quarters. So, that's
+[09:18] unfortunate. This is a great company.
+[09:20] It's just out of sync right now.
+[09:22] Hopefully, we'll get some green shoots,
+[09:24] but I have extremely low expectations at
+[09:27] this time. Is Lowe's telling the same
+[09:29] story? Well, you know, Lowe's is a
+[09:30] little different and you know, what's
+[09:32] interesting about both Lowe's and Home
+[09:34] Depot, they they hire a lot in the
+[09:36] spring for garden sales and things and
+[09:38] obviously as you know it's been snowing
+[09:40] a lot of places. I think you're in the
+[09:42] snow now and you know you got to have
+[09:44] that stuff melt you know plant the
+[09:45] petunias and all. So so Lowe's has been
+[09:48] doing better. They have a direct to
+[09:49] consumer model. Their sales are supposed
+[09:51] to be up 9.7%.
+[09:53] Their earnings though are supposed to be
+[09:55] only up 7/10 of percent. The analyst
+[09:57] community has trimmed their sums
+[09:58] slightly but nowhere near as aggressive
+[10:00] as Home Depot and they have surprised
+[10:02] the last four quarters. So I I'm
+[10:04] expecting Lowe's as a surprise but none
+[10:06] of these stocks are strong enough for my
+[10:08] portfolios at this time. What does TJX
+[10:10] company say about bargain hunting
+[10:12] shoppers? Well as you know everybody
+[10:15] likes a bargain especially the the
+[10:17] ladies that dominate the sales at TJX.
+[10:20] Their sales are supposed to be up 6.3%.
+[10:23] Their earnings are supposed to be up 12
+[10:25] and 1/2%. So that's excellent. No
+[10:27] analyst cuts at all. They've been
+[10:29] holding steady and they did have a 5%
+[10:32] surprise last quarter and they have
+[10:33] surprised the last four quarters. So
+[10:35] because of the margin expansion earnings
+[10:37] exceeding sales growth I would expect a
+[10:39] nice surprise from TJX. But again not
+[10:42] strong enough for me to buy it. And how
+[10:43] is Keurig Dr. Pepper holding up in this
+[10:46] environment? This is kind of interesting
+[10:48] company cuz you know you're mixing
+[10:49] coffee with soft drinks and all but um
+[10:53] sales are supposed to be up 6.9%.
+[10:56] Uh earnings are supposed to be up only 1
+[10:58] and 1/2%. So that means the margins are
+[11:01] under compression a bit.
+[11:03] Analysts have not changed their
+[11:04] estimates and surprises have been
+[11:06] minuscule
+[11:07] um in in the recent quarter. So
+[11:10] they'll probably have another minuscule
+[11:12] surprise. I think their guidance will be
+[11:13] important where the consumer is.
+[11:15] Obviously coffee prices are very high
+[11:18] and consumers are looking for
+[11:19] caffeinated alternatives. Let's shift to
+[11:21] tech. Is Nvidia still the AI gold
+[11:24] standard? Oh yeah. I mean it's
+[11:27] um
+[11:28] it's it's just an amazing company. So
+[11:30] let's just
+[11:32] get to the chase and remind everybody
+[11:34] why Nvidia is so strong.
+[11:36] Their sales, okay, are supposed to be up
+[11:39] um
+[11:40] 67%.
+[11:43] Their earnings are supposed to be up
+[11:44] 71.5%.
+[11:46] Again, when earnings grow faster sales
+[11:48] margins are expanding. Nvidia is the
+[11:50] highest operating margin company I
+[11:52] recommend uh pushing almost 70%
+[11:54] operating margins after taxes. The
+[11:56] analyst community has been really
+[11:57] cautious on this company.
+[11:59] Uh but they have revised their estimates
+[12:01] just a teeny bit higher recently. And uh
+[12:04] their surprises are excellent. And uh
+[12:06] and and it's always about the guidance.
+[12:08] Reason we're expecting a blowout for
+[12:09] Nvidia, and this is our largest holding
+[12:11] by far, is Super Micro. Sales were up
+[12:13] 123%.
+[12:15] Um Vertiv Holdings uh also had
+[12:18] incredible results. It's VRT. And
+[12:21] finally, uh
+[12:22] the company makes the the Nvidia um
+[12:25] Blackwell and Vera Rubin chips. I want
+[12:27] Sumit announced their um
+[12:29] uh January sales growth was up 36.8%.
+[12:33] Much stronger than expected. Earlier
+[12:35] guide 30%.
+[12:37] So, if all their customers are reporting
+[12:40] strong sales, I think Nvidia will have
+[12:42] even stronger sales. Now, with that
+[12:44] said, this is a $5 trillion company. It
+[12:47] It's The bigger you get, the harder it
+[12:49] is to not go up. There's a lot of cover
+[12:51] call option writing done on this stock.
+[12:53] Sometimes the tail wags the dog, but I'm
+[12:55] looking forward to Nvidia's results, and
+[12:57] I expect them to be spectacular, and I
+[12:59] hope it does lift this behemoth company.
+[13:01] I just want everybody to remember Nvidia
+[13:03] is bigger than the entire British stock
+[13:05] market. It is bigger than the French,
+[13:07] German, and Italian stock markets
+[13:08] combined. It's estimated that it might
+[13:10] account for up to 14% of our GDP growth
+[13:13] in America. So, an incredible company.
+[13:15] What are you watching in Salesforce,
+[13:17] growth or margin story? Uh both. I I
+[13:20] want growth, and I want expanding
+[13:21] margins.
+[13:22] And this company had a huge third
+[13:24] quarter beat.
+[13:25] So, uh hopefully they can follow through
+[13:27] in the fourth quarter. So,
+[13:29] sales is supposed to be up 11.9%.
+[13:32] Earnings is supposed to be up 9.7%. That
+[13:34] means a bit of margin contraction.
+[13:37] But, analysts have revised their
+[13:38] estimates slightly higher.
+[13:40] And again, they had a big beat last
+[13:42] quarter, 13.6%.
+[13:44] So,
+[13:46] I'm expecting great results from
+[13:48] Salesforce. We'll find out soon. And
+[13:49] where does Dell Technologies fit into
+[13:51] the AI hardware buildout? Well, Dell
+[13:54] obviously builds the rack systems that
+[13:56] go in the data centers. They're not as
+[13:58] strong as Super Micro, which makes
+[14:00] water-cooled rack systems, but
+[14:02] their sales are supposed to be up 32.3%.
+[14:06] That's excellent. Their earnings is
+[14:07] supposed to be up 31.6% and again, very
+[14:10] strong. The analyst community has
+[14:12] revised their estimates higher in the
+[14:13] past 90 days significantly.
+[14:16] And it has a very good surprise history
+[14:18] in the last couple of quarters. And in
+[14:20] the previous quarter, it beat by 4.6%.
+[14:22] So, I am expecting Dell to beat and
+[14:25] provide positive guidance. Everybody
+[14:27] involved in data centers is just beating
+[14:29] expectations. So, why shouldn't Dell
+[14:32] beat as well? Does Snowflake show
+[14:33] enterprise spending strength?
+[14:35] Snowflake's sales is supposed to be up
+[14:38] 27.2%.
+[14:40] Their earnings are supposed to decline
+[14:43] 9.4%.
+[14:45] And the analysts have cut their
+[14:46] estimates in the last 90 days.
+[14:49] So, that's unfortunate. You know, their
+[14:52] margins are clearly under compression.
+[14:55] Now, with that said,
+[14:57] they got a good earnings surprise
+[14:58] history.
+[14:59] Last quarter was 12.5%.
+[15:02] Every
+[15:03] quarter's beaten. So, in the last four
+[15:05] quarters.
+[15:07] Let's hope they surprise us. But, it's
+[15:09] off my radar now cuz obviously I want
+[15:11] absolute earnings growth and it's
+[15:13] forecast to be negative, but maybe
+[15:15] they'll prove the analysts wrong. Now,
+[15:17] for Stellantis, is it telling us about
+[15:19] global auto demand? Well, not because
+[15:24] they're just a mess. That's all I can
+[15:26] tell you. They didn't build enough EVs,
+[15:28] the EU wants them to pose fines if they
+[15:30] don't build enough EVs, but they can't
+[15:32] compete with the Chinese EVs in Europe.
+[15:34] They've diverted more production back to
+[15:35] America. Obviously, their RAM trucks,
+[15:38] Jeep, you know, under President Trump,
+[15:40] now they're building these big Hellcat
+[15:41] engines, which under a Biden they were
+[15:43] getting rid of. So, here's the deal.
+[15:45] Their sales, believe it or not, are
+[15:47] supposed to be up 10.7%.
+[15:51] Their earnings, have no idea of,
+[15:53] absolutely no idea. So, I think this
+[15:56] company's a mess. I think this company
+[15:57] has to be reorged.
+[15:59] Um, obviously, what's hurting this
+[16:01] company is the European Union is
+[16:04] systematically destroying many of their
+[16:06] brands, especially Alfa Romeo and Fiat.
+[16:09] Now, they have French brands as well
+[16:11] that seem to be doing better and can
+[16:13] build EVs a little bit more acceptable,
+[16:15] but uh, if I was running Stellantis, I
+[16:18] would just pick up all their brands,
+[16:19] build them in America,
+[16:21] and get out from under the European
+[16:23] Union
+[16:24] because the European Union's demands are
+[16:26] crushing this company. How is Warner
+[16:28] Brothers doing before they decide who to
+[16:30] merge with? Uh,
+[16:31] they don't look too good. Um, sales are
+[16:34] supposed to be down 7%.
+[16:37] Um,
+[16:38] earnings are supposed to be down
+[16:39] whopping 92%.
+[16:42] Um,
+[16:44] their their earnings look minuscule.
+[16:46] Last quarter, they had a 16.4% miss. And
+[16:49] before that, they had a big surprise,
+[16:51] but they have missed uh, three of the
+[16:52] last four quarters. So, they need to
+[16:55] team up. So, the question are they going
+[16:56] to team up with Netflix or they going to
+[16:58] team up with Paramount? Both those
+[17:00] companies are wooing them. Netflix was
+[17:02] there first. If if Warner Brothers
+[17:04] Discovery decides to team up with um,
+[17:07] Paramount, apparently, Netflix gets a
+[17:10] big payment, but um, yeah, they got to
+[17:12] merge with somebody to improve their
+[17:14] streaming services because right now
+[17:16] they're floundering. Now, for JM
+[17:18] Smucker, what do you expect for them?
+[17:20] Well, we talked about this company
+[17:21] before. You know, they make the
+[17:23] Uncrustables and all kinds of
+[17:24] interesting products. Now, their sales
+[17:26] are supposed to be up 6.3%
+[17:29] which is excellent,
+[17:30] but their earnings are supposed to
+[17:31] decline 13.4%.
+[17:34] And unfortunately, analysts have been
+[17:35] trimming their estimates in the last 90
+[17:37] days. And guess what? They've missed the
+[17:40] last two quarters. So, we're just
+[17:42] waiting for it to turn around. So,
+[17:45] hopefully they're improving their
+[17:46] operating margins which are under
+[17:47] compression, and they can finally post a
+[17:50] surprise and some positive guidance. But
+[17:51] until they do that, this stock is dead
+[17:54] in the water. And lastly, what do you
+[17:55] expect for Berkshire Hathaway? Well, of
+[17:57] course, this is Warren Buffett's
+[17:59] company, and Warren Buffett's retiring.
+[18:01] And they've sold a lot of interesting
+[18:02] businesses. They sold BYD, the the
+[18:05] biggest electric car company in the
+[18:06] world. They They are predominantly a
+[18:09] reinsurance company now.
+[18:11] Um and reinsurance companies have to
+[18:14] typically pay when there's a hurricane
+[18:16] or a tornado or earthquake. We had a
+[18:19] pretty mild hurricane season last year,
+[18:21] so that's been helping their bottom
+[18:22] line. Obviously, knock on wood, we
+[18:24] haven't had a major earthquake out west
+[18:26] yet that's caused damage. And tornadoes
+[18:29] are of course more isolated. And they do
+[18:31] have to pay in floods and things like
+[18:32] that. That's a little bit more common
+[18:34] claims. But as a predominantly a
+[18:37] reinsurance company, they are going to
+[18:39] profit as interest rates decline. And we
+[18:41] did have a significant decline in bond
+[18:43] yields so far this month in the wake of
+[18:46] that positive CPI report. So, that might
+[18:49] really help their bottom line. But with
+[18:50] that said, you know, a lot of people
+[18:52] like Warren Buffett, a lot of people
+[18:53] like to invest with them, and this is
+[18:55] how you can invest with Warren. I would
+[18:57] add that they have had nice surprises
+[18:59] the past two quarters, but Warren
+[19:01] Buffett has not been
+[19:03] as chipper as he used to be. And of
+[19:05] course, he is retiring. Well, that's all
+[19:07] we have for you this Sunday. Thank you
+[19:09] all so much for watching and joining us.
+[19:12] As always, make sure to give this video
+[19:14] a like and subscribe if you haven't
+[19:15] already, but we will see you this
+[19:16] Wednesday for a midweek update.
+[19:23] >> [music]
+[19:29] [music]

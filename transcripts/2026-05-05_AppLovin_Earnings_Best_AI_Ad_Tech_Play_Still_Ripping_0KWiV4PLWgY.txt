@@ -7,9 +7,39 @@ Type: short
 Duration: 1:04 (64s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 31
+Transcript characters: 1085
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] AppLovin's up this week, and this stock
+[00:02] has been absolutely ripping. Can the ad
+[00:04] tech momentum continue?
+[00:05] >> Better, you know I own this stock, and
+[00:08] this is an example of one of the
+[00:09] software stocks that got hit when Wall
+[00:11] Street decided to shoot every software
+[00:13] stock due to the perception that AI is
+[00:15] going to replace all software companies.
+[00:17] Now, that was of course a false
+[00:18] narrative, but you know, this is what
+[00:20] happened when you have software ETFs,
+[00:22] they throw the baby out with the
+[00:24] bathwater, and and this stock got hurt,
+[00:25] but it's coming back fast and furious.
+[00:27] Sales are supposed to be up 19.6%
+[00:30] uh earnings are supposed to be up 52.7%,
+[00:33] and the analysts have revised their
+[00:34] earnings estimates higher from $3.12 a
+[00:37] month ago to $3.64 today. So, that's a
+[00:40] pretty strong upper revision the past
+[00:42] month, and and the stock has
+[00:44] consistently surprised. So, I I want
+[00:47] AppLovin to beat. I want to guide
+[00:48] higher. I want them to squeeze all those
+[00:50] shorts, and this is the best AI applier
+[00:53] out there, okay? This and Palantir. So,
+[00:56] obviously this does
+[00:57] consumer applications, and um
+[01:00] but they are monetizing their AI better
+[01:03] than most companies.

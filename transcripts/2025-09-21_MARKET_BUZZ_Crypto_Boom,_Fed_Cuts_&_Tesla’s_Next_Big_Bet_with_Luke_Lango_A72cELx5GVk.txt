@@ -7,9 +7,773 @@ Type: video
 Duration: 26:26 (1586s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 765
+Transcript characters: 27585
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The market meltup rolls on and my dad
+[00:02] just roasted the Fed in Market Watch. By
+[00:04] popular demand, Luke Lango is back. From
+[00:07] quantum stocks exploding to Nvidia's big
+[00:10] Intel bet, robo taxis, and Tesla's
+[00:12] popcorn robot. Let's get into it.
+[00:14] Welcome back to Naval Market Buzz.
+[00:17] [Applause]
+[00:18] [Music]
+[00:29] Let's start with the Fed. Cuts and dot
+[00:32] plots are driving the headlines. What's
+[00:34] the real takeaway?
+[00:35] >> Well, as you know, I uh had a editorial
+[00:38] piece in Market Watch where I said the
+[00:40] Fed has its head in the sand. And the
+[00:42] reason I said that is there's been job
+[00:45] losses in the construction industry for
+[00:47] four consecutive months. And the Fed is
+[00:49] just ignoring the data. They know
+[00:51] there's a labor department problem or
+[00:53] labor problem. And um I'm just very
+[00:56] disappointed with the guidance on the
+[00:57] dot plot. And so I'm frustrated. We need
+[01:01] more rate cuts, not just this little
+[01:03] one. That's my comment.
+[01:05] >> Yeah, I would say that I'm I'm
+[01:06] disappointed in the guidance, but I am
+[01:09] I'm confident that a lot more rate cuts
+[01:11] are are coming. That the the tone is
+[01:13] we're taking things on a meeting by
+[01:14] meeting basis. Okay. If you are taking
+[01:16] things in a meeting by meeting basis, I
+[01:18] expect the data meeting by meeting to
+[01:21] continue to be supportive of more rate
+[01:23] cuts. mostly because of what Louie just
+[01:24] said that there is some real labor
+[01:26] market weakness out there and I don't
+[01:28] see it stopping anytime soon. So they
+[01:31] are going meeting by meeting the data
+[01:33] will remain supportive meaning by
+[01:34] meeting they will cut meaning by
+[01:36] meeting. So although the guidance I was
+[01:37] disappointed by I remain confident that
+[01:40] they will cut rates enough times to keep
+[01:44] the economy going to keep the market
+[01:46] going.
+[01:46] >> And looking ahead 10 Fed governors hit
+[01:49] the stage next week. Should we brace for
+[01:51] fireworks? Well, we do want them to give
+[01:54] us guidance and that's better than the
+[01:57] dot plot. We actually have Neil Kosari,
+[02:00] the Minneapolis Fed did an essay
+[02:02] acknowledging the labor department
+[02:04] problems, but then basically said we may
+[02:07] not need more rate cuts. So, he's on the
+[02:09] hawkish camp. He's very well respected,
+[02:11] but you know, they'd like to talk in
+[02:13] double speak and uh say one thing and
+[02:16] then contradict themselves. So,
+[02:17] hopefully with 10 of them talking, we'll
+[02:19] we'll get a much clearer picture next
+[02:21] week. Yeah, I think the I think we're
+[02:23] going to see some divergences emerge in
+[02:26] that speak. I know the dot plot was
+[02:29] pretty consistent and then there was it
+[02:30] was tighter than I think a lot of people
+[02:32] were expecting, but I think that when
+[02:34] people take the podium and speak for
+[02:35] themselves, truly for themselves, I
+[02:37] think we're going to start to see a lot
+[02:38] of Fed governors that really do want a
+[02:41] more aggressive easing cycle and I think
+[02:44] that'll be supportive of stocks.
+[02:45] >> Now, let's switch to quantum computing.
+[02:48] Oo scores an energy deal. Luke, how do
+[02:51] you think investors should play this
+[02:53] surge?
+[02:54] >> Yeah, I think the era of commercial
+[02:55] quantum has arrived like entirely. This
+[02:58] has jumped from a science lab project to
+[03:00] real world applications. Ion Q got that
+[03:02] one. I think Regetti one, which is
+[03:04] another player in the space. They want a
+[03:06] contract with uh the Air Force. So,
+[03:08] you're starting to see the government
+[03:10] really get interested in this.
+[03:11] Commercial quantum arrive. These stocks
+[03:13] are on fire. They had that big late 2024
+[03:16] surge, then they kind of lolly gag for a
+[03:18] couple months, but now they're starting
+[03:20] to to retake their highs or actually
+[03:22] make new highs in terms of ion and a lot
+[03:25] of the others. So I have the quantum 4
+[03:27] is what I call them. Ion Q, Getty,
+[03:30] Quantum Computing, QBT, and D-Wave
+[03:33] systems, QBTS. Those are the four pure
+[03:35] plays. I don't see any reason to give up
+[03:37] on any of them right now. All of them
+[03:38] are doing quite well. As we enter
+[03:40] commercial quantum, I think all will
+[03:41] continue to do well. rising tide lifts
+[03:44] all boat situation here. So, I'm very
+[03:46] bullish on quantum as we start to get
+[03:48] commercial realization of the technology
+[03:50] revenues show up and that's when I think
+[03:52] more money chases into these stocks.
+[03:54] >> Luke, I should add that D-Wave I think
+[03:56] is the best performer here to date. What
+[03:58] makes that stock so special?
+[04:00] >> Dwave is I would say the longest they've
+[04:02] been in the game the longest of those
+[04:04] four. Um Ion Q is the biggest with the
+[04:07] most revenue establishment to date. Uh,
+[04:09] but D-Wave has been doing quantum
+[04:11] systems for a very, very long time, much
+[04:14] longer than the other three. And I think
+[04:15] people really like their leadership.
+[04:17] Their CEO is out on social media a lot.
+[04:20] He's in the media a lot. He's talking a
+[04:22] lot. He's spreading the word a lot. I
+[04:24] think the retail crowd likes that.
+[04:25] They're getting involved with that, too.
+[04:27] So, I think the the two things are
+[04:28] they've been in the game the longest, so
+[04:30] people really respect that time in the
+[04:32] game. And then number two is their CEO
+[04:34] is very much involved in in spreading
+[04:37] the word and they are winning quite a
+[04:38] few deals as well. So I think that's
+[04:40] what's getting D-Wave going. It's also
+[04:43] working off a smaller market cap than
+[04:44] something like ion Q. So that that helps
+[04:46] too.
+[04:46] >> Now over to semis. Nvidia just dropped 5
+[04:50] billion into Intel. Which stock is the
+[04:52] smarter buy?
+[04:53] >> Well, I think Nvidia is the best buy.
+[04:56] What's happening is Nvidia and Intel are
+[04:58] going to combine their platforms to make
+[05:01] a new platform to speed up the data
+[05:04] centers and even personal computers.
+[05:06] But, you know, Intel just gapped up and
+[05:09] Nvidia is just a better buy in my
+[05:11] opinion.
+[05:11] >> Yeah, I would say Nvidia is a better buy
+[05:13] over over Intel. I think there's a a
+[05:16] political angle to this. Nvidia wants to
+[05:18] sell chips to China. The White House is
+[05:20] is restricting that. White House took a
+[05:22] stake in Intel and then weeks later uh
+[05:24] Nvidia basically says, "Hey, we got your
+[05:26] back. We'll throw five billion in and
+[05:28] help you out. You know, we're scratching
+[05:29] your back. Can you scratch ours now?"
+[05:31] And so I do think that the angle there
+[05:33] for Nvidia is more so please let us sell
+[05:37] a few more chips to China or ease those
+[05:39] restrictions a little bit and I think
+[05:40] it'll be successful on that. I think
+[05:41] they'll be able to work out a very
+[05:42] reasonable deal where they'll be able to
+[05:43] sell more chips. More revenue shows up
+[05:45] and that's going to be a boost for the
+[05:46] stock. So I think this is really good
+[05:48] news for Nvidia. I think it's really
+[05:50] good news for Taiwan Semiconductor TSM.
+[05:52] At first, I thought it wasn't, but then
+[05:55] they came out with a report later in the
+[05:56] day. Nvidia and Intel jointly said,
+[05:58] "We're going to make these chips uh in
+[06:00] TSM Foundry." So, I think it's great
+[06:02] news for for TSMC. I think it's bad news
+[06:06] for AMD. Um AMD is competing directly
+[06:09] against Nvidia and Intel. That's been
+[06:10] like the the trio, the triumvirate in
+[06:12] the space for a while, and now two of
+[06:14] them are teamed up essentially. So, AMD
+[06:16] is the odd man out. So, I think it's bad
+[06:18] news for AMD. Um, but good news for for
+[06:20] Nvidia and good news for for TSM.
+[06:22] >> Shifting to crypto. The SEC is
+[06:25] tightening custody rules beyond Robin
+[06:27] Hood. Luke, who else is set to benefit?
+[06:30] >> Yeah, I I think Robin Hood is really set
+[06:32] to benefit here. Um, I just heard their
+[06:34] CEO Vlad Tennv speak at the All-In
+[06:36] Summit in Los Angeles. And I mean, he's
+[06:38] got a vision for the future that is
+[06:40] fantastic. And it's built around
+[06:42] tokenizing equities, which is related to
+[06:44] crypto. So I think they're fantastic.
+[06:47] SoFi is doing really interesting stuff
+[06:49] here. Coinbase is doing really
+[06:50] interesting stuff here. So the kind of
+[06:52] platform aggregators that are tied to
+[06:55] crypto or allow people to invest in
+[06:57] crypto. I think they're they're going to
+[06:58] benefit uh tremendously as well. So
+[07:00] there are multiple ways to play it. And
+[07:02] then there's just you know the um the
+[07:04] stable coin story which is really really
+[07:05] huge and really really hot uh with all
+[07:07] the bills moving through Capitol Hill
+[07:09] whether it's the Genius Act or the
+[07:10] Clarity Act. Circle had their IPO. If
+[07:13] you know how I view IPOs, it stands for
+[07:16] it's probably overpriced. So, you had
+[07:18] that IPO and then you had that super big
+[07:20] surge and then now you've had a big wash
+[07:22] out. The wash out probably is is an
+[07:24] opportunity to to get some exposure to
+[07:26] to stable coins. You're the biggest
+[07:27] stable coin issuer with with Circle. So,
+[07:29] those are some ways that that I'm
+[07:31] looking to to play this. I'm going to
+[07:33] call it a crypto boom. I think crypto
+[07:34] boom is is happening and it's going to
+[07:36] continue as uh DC supports the industry
+[07:39] in a way that it never has before. So,
+[07:41] back to equities. Dad, you always talk
+[07:42] about quarter end window dressing. Is
+[07:44] that why your stocks ripped after the
+[07:46] Fed cut?
+[07:47] >> Yeah, the small caps went nuts. You
+[07:49] know, the Russell 2000's at a new high
+[07:51] now. I was just shocked of the meltup.
+[07:54] Absolutely shocked. I was trying to buy
+[07:56] stocks for new accounts that came in and
+[07:58] everything was gapping up. Why the end
+[08:01] of the quarter is so important is
+[08:02] there's this thing called institutional
+[08:03] window dressing where professional
+[08:05] managers have to make their portfolios
+[08:07] pretty. and um we naturally benefit the
+[08:11] end of the quarter from this
+[08:12] institutional accumulation.
+[08:14] >> Yeah. So that that small cap rip that
+[08:16] happened after the Fed um to me is
+[08:19] exceptionally bullish because Russell
+[08:20] 2000 finally finally got its record
+[08:23] close, right? The first time since 2021.
+[08:25] Um and so I ran the data going back to
+[08:27] 1980 like what happens to the whole
+[08:30] market after the Russell 2000 finally
+[08:32] gets a record close for the first time
+[08:33] in over a year. There are 11 precedents
+[08:35] going back to 1980. 10 out of those 11
+[08:38] times the market S&P 500 was higher a
+[08:42] year later with an average return about
+[08:43] 15%. So when small caps finally get
+[08:46] their record close, it doesn't mean the
+[08:48] rally is over. It means the party
+[08:50] problems just getting started. So that's
+[08:52] a bullish data point for that small cap.
+[08:55] >> And gold seems to be back in the
+[08:56] spotlight. Dad, your market watch piece
+[08:58] listed eight gold stocks. What's with
+[09:01] the obsession?
+[09:01] >> Yeah, the surge in gold has been going
+[09:03] on for some time. Uh it's basically due
+[09:05] to a lack of confidence in central
+[09:07] banks. Obviously, Japan can't raise
+[09:09] rates much because they have such a big
+[09:11] deficit. China has lower rates than um
+[09:14] Japan and uh they are characterized by
+[09:17] deflation for over 3 years. It's now on
+[09:20] both the consumer and the wholesale
+[09:21] level. And if anything, China might have
+[09:24] to devalue its currency. Uh you go look
+[09:26] at Britain and France, they have uh all
+[09:28] kinds of political things going on now.
+[09:32] They got surging deficits. Go back to
+[09:35] Brazil, the deficit's over 11% of GDP.
+[09:38] So, when you look around the world, we
+[09:39] look pretty darn good. And but there's
+[09:41] still a lack of confidence in central
+[09:43] banks, even in America. So, everybody
+[09:45] just buys gold. And of course, uh gold
+[09:47] is um being bought by a lot of central
+[09:50] banks to shore up their credibility.
+[09:51] >> Yeah, I would say the gold thing is
+[09:53] that's that's one thing that doesn't
+[09:55] keep me up at night, but definitely
+[09:57] keeps me a little worried. Golden stocks
+[09:59] being at all-time highs together
+[10:03] is very very rare. Again, this is
+[10:05] something I ran an analysis on going,
+[10:07] you know, back 50 some years or
+[10:08] whatever. It's essentially only happened
+[10:10] four times before. And in three of those
+[10:12] four times, what happened next was was
+[10:15] not good. So, it happened in summer of
+[10:16] 1972. Gold and and stocks surged
+[10:19] all-time highs. And they did that
+[10:20] because the market was sniffing out
+[10:21] potential uh inflation. And that was
+[10:23] right before the first inflation wave of
+[10:25] the 1970s when CPI went from 3% to 12%.
+[10:28] So that was right before the economy
+[10:30] stalled for like 10 years and we had a
+[10:32] lost economic decade more or less. Um
+[10:34] gold and and stocks also surged all-time
+[10:37] highs together in the fall of 1980. Um
+[10:39] and that was right when bulker was
+[10:40] coming in and jacked up rates like crazy
+[10:42] to kill the last remnants of inflation
+[10:44] which was a good move. But as a result
+[10:46] of that the economy did fall into a
+[10:48] recession and stocks crashed some 25% or
+[10:50] so. And then it happened on the eve of
+[10:53] the great financial crisis. both uh
+[10:54] stocks and gold soared to all-time highs
+[10:56] and we all know what what happened right
+[10:58] after that. That was in late 2007 and
+[11:00] then obviously 2008 2009. Not a great
+[11:02] time for the economy or or the market.
+[11:04] So the precedents here are are a little
+[11:07] bit worrisome. I don't think history
+[11:10] always repeats but history does rhymes.
+[11:12] So I do take some caution in the fact
+[11:15] that gold and stocks are are rallying
+[11:17] together. Of course, there are a
+[11:19] multitude of arguments for why this time
+[11:21] is different, may be different, but
+[11:23] those are also the famous last words in
+[11:25] financial markets. This time is
+[11:26] different, right? So, I try to keep some
+[11:29] caution up right now because of that
+[11:32] stock and gold correlation at record
+[11:34] highs that historically does not end
+[11:36] well for stocks.
+[11:37] >> So, I have to ask Luke, if it comes down
+[11:39] to it, are you team gold stocks or team
+[11:41] crypto?
+[11:42] >> I would say I'm team It depends on the
+[11:45] situation. If things really get bad,
+[11:47] which I don't think they will, then I'm
+[11:49] I'm team gold stocks. If things remain
+[11:52] as they are on track, the train remains
+[11:54] on the track, then I'm team crypto.
+[11:57] There's a much in my opinion, there's
+[11:58] much more alpha to be had in the crypto
+[12:01] markets, especially if you look down the
+[12:02] risk spectrum with the altcoins that
+[12:04] Bitcoin has had this massive run, but
+[12:07] altcoins have been lacking significantly
+[12:09] in this cycle. That is starting to
+[12:12] change. A lot of platforms out there,
+[12:14] Coin Market Cap is one of them, tracks
+[12:16] how well altcoins are doing relative to
+[12:18] Bitcoin. According to their measures, we
+[12:21] are finally entering what's called
+[12:23] altcoin season where all coins are
+[12:25] finally meaningfully outperforming on a
+[12:28] consistent basis relative to Bitcoin.
+[12:30] That is a pretty exciting time. That's
+[12:32] when you can get, you know, 100% 500%
+[12:36] 800% rallies in small cryptos in a
+[12:38] matter of a couple months. So, if things
+[12:41] remain on the course that they are, I'm
+[12:43] team crypto. If things really go off the
+[12:45] rails, which I don't think they will,
+[12:46] then I'd be team gold.
+[12:48] >> Uh, Luke U Trump's filed, I think, for
+[12:50] five ETFs, all cryptoreated. And even
+[12:53] though Bitcoin dominates, it looks like
+[12:55] all the other cryptos, Ethereum, and
+[12:57] everything else are going to get an
+[12:59] allocation. So, there are any ones you
+[13:00] expect to benefit as as these altcoins
+[13:04] get institutionalized?
+[13:05] >> Yes, I I would say there there's the ETF
+[13:07] stuff and then there's the the crypto
+[13:08] treasuries, right? A lot of these
+[13:10] companies now are becoming crypto
+[13:11] treasuries like strategy, formerly Micro
+[13:14] Strategy, they changed their name to
+[13:15] strategy. Their whole thing was they're
+[13:16] just going to use all their money and go
+[13:19] to the debt markets even get more money
+[13:20] to buy Bitcoin. Um, and they became a
+[13:22] treasury for Bitcoin, more or less. Bit
+[13:24] minor, ticker BNR,
+[13:27] is doing that for Ethereum. There's a
+[13:29] handful of others that are doing it for
+[13:31] Chain Link and Salana and a bunch of
+[13:34] like you I would call them the top 20.
+[13:36] So I would say that plus the ETF stuff
+[13:38] means that dollars are going to flow
+[13:40] from if you kind of go to
+[13:41] coinarketcap.com and look at like that
+[13:43] top 20 money is going to flow from the
+[13:46] top two Bitcoin, Ethereum down to XRP,
+[13:49] BNB, Salana, Dogecoin, Cardano, Tron,
+[13:54] Hyperlquid. Money is going to flow into
+[13:56] those in terms of money flowing all the
+[13:58] way down. So like you know the the 76th
+[14:01] biggest coin or the 176th biggest coin.
+[14:04] I don't think that's going to happen
+[14:06] quite yet, but I think money is a lot of
+[14:08] institutional money will flow from that
+[14:09] those top two down into the the rest of
+[14:12] the top, you know, 10 to 15.
+[14:14] >> Now over to the robo taxi wars. You
+[14:16] know, my dad keeps saying that Uber
+[14:19] takes the crown with its software and
+[14:21] alliances. Luke, are you buying that?
+[14:23] >> Absolutely. I 100% am buying that. There
+[14:26] was news this week that I guess you
+[14:28] could say ruffled some feathers in that
+[14:29] bull thesis with Lyft announcing a
+[14:32] partnership with Whimo to expand into
+[14:34] Nashville, Tennessee, which is odd
+[14:36] because Whimo and Uber have been the
+[14:39] buddy buddy and uh Whimo has never done
+[14:42] anything with Lyft and now all of a
+[14:43] sudden they're partnering with Lift to
+[14:44] launch in a new market. So that ruffled
+[14:46] some feathers. But I think what's
+[14:47] happened, what I told my subscribers is,
+[14:49] hey, they went into this market. They
+[14:51] got married, Whimo and Uber. And then
+[14:53] Whimo tried to open up the relationship
+[14:56] by going at it alone in a few markets.
+[14:58] And that made Uber nervous. So then Uber
+[15:00] opened up their side of the relationship
+[15:01] and started partnering with other
+[15:02] self-driving companies. Neuro, Lucid,
+[15:05] Bu, Motional, etc. They partnered with a
+[15:08] whole bunch of them and that made way
+[15:09] more nervous. So now they're going and
+[15:11] partnering with other rid share
+[15:12] platforms like Lyft. They're just kind
+[15:14] of experimenting. What they're going to
+[15:16] find for their experimentations, what
+[15:17] Uber is going to find is that Whimo has
+[15:19] the best technology. I don't really like
+[15:21] putting people in our Uber network in
+[15:23] these cars that aren't as safe, as
+[15:25] effective, as good as as Whimo. And what
+[15:27] Whimo is going to find is that I don't
+[15:29] like making these super expensive cars
+[15:31] that are going to get very significantly
+[15:33] lower utilization on a lift network
+[15:34] because the network is so much smaller.
+[15:36] They're going to find out when they
+[15:37] launch in Tennessee, those cars are
+[15:39] going to have way lower utilization
+[15:41] rates than their cars in the Uber
+[15:42] network in LA or San Francisco or
+[15:45] Phoenix. So, they're going to be like,
+[15:46] "Maybe we should go back to Uber." And
+[15:48] then Uber be like, "Ah, maybe we should
+[15:50] go back to way up." And so, I think, you
+[15:51] know, with time, 6 to 12 months, boom,
+[15:54] they're remarried and they take over the
+[15:55] world. So, I am I'm with Louiesie, team
+[15:58] Uber. I think Uber is probably the the
+[16:00] most well-rounded way to play the robo
+[16:03] taxi revolution. I have a quick question
+[16:05] about Whimo because we actually got a
+[16:07] comment in one of our last videos that
+[16:09] Whimo can't actually drive on the
+[16:11] freeways.
+[16:12] >> Yeah, Whimo is not So I think Whimo just
+[16:15] got expansion in Phoenix to to drive on
+[16:17] freeways, but yeah, right now it does
+[16:19] not drive on freeways in in Phoenix. In
+[16:21] the San Jose, San Francisco area, they
+[16:23] just got expansion to pick up at
+[16:25] airports and drop off at airports.
+[16:26] That's a big one. They're doing that
+[16:27] here in Phoenix at Sky Harbor
+[16:28] International Airport. So it's kind of
+[16:30] just piece by piece that they're
+[16:32] expanding. They are a huge safety first
+[16:34] organization. If you look at their track
+[16:36] record, it's very, very strong. There
+[16:38] was, you got to be honest here, there
+[16:40] was a fatal accident involving the
+[16:42] Whimo, I believe about a week ago in
+[16:46] Phoenix in Tempe. Whimo was not at
+[16:48] fault. It was, you know, the women was
+[16:50] trying to turn right and there was a
+[16:52] pedestrian and it stopped to turn right
+[16:54] and then the car motorcyclist behind it
+[16:56] hit the car and then the car behind the
+[16:58] motorcyclist I think kind of sandwiched
+[17:01] the the motorcyclist. So there there was
+[17:03] a fatal accident that does set it back a
+[17:05] little bit because the Whimo is not at
+[17:06] fault. I don't think it sets it back
+[17:08] much. Um, so I think they're a big
+[17:10] safety first organization. That's why
+[17:11] they roll things out slowly. That's why
+[17:13] they make sure that when they do
+[17:15] something they do it right. They don't
+[17:17] they don't rush into things and so I
+[17:19] that's why they're not on a lot of
+[17:21] freeways yet, but I do expect them
+[17:22] within the next six months to be in the
+[17:24] major markets they operate in. They will
+[17:26] be on the freeways. I should add that
+[17:28] there was also a fatal accident in
+[17:29] China. Um and HSI uh you know the
+[17:33] lighter company.
+[17:35] They basically said they're not sure
+[17:37] autonomous driving is eventually going
+[17:40] to happen, but I think they said that to
+[17:42] kind of cover their butt because of the
+[17:44] fatality in China. It's funny. We had a
+[17:47] a subscriber email me and he lives in
+[17:50] Austin. He says he's getting blinded by
+[17:51] the lasers on the Whimo and uh I tried
+[17:55] to assure him that even if he gets
+[17:56] blinded, the LAR will see him and stop.
+[17:59] So, I don't think he liked my comment.
+[18:01] >> He'll be he'll you all right. I think
+[18:02] the um the thing about his size, they're
+[18:04] starting to win a bunch of contracts
+[18:06] with US companies. I think it was it
+[18:08] Mercedes or somebody that they won a
+[18:09] contract with. Yeah, they're starting to
+[18:11] expand into US markets, which is really
+[18:13] they were already working with some of
+[18:14] the autonomous vehicle uh companies, but
+[18:16] they weren't working with any of the
+[18:17] major auto OEMs. And so now they they
+[18:19] are. So that's a massive expansion of of
+[18:21] the size market, and the stock's been,
+[18:23] you know, responding right now.
+[18:24] >> Oh, yeah. And I I recommended some
+[18:26] Monopoly. I love Monopolies.
+[18:28] >> So, let's talk about Tesla. The Optimus
+[18:30] robot was actually serving popcorn.
+[18:32] Luke, is this the future of robotics or
+[18:35] just some hype?
+[18:35] >> Yeah, I I think it's the future of
+[18:37] robotics. and humanoid robots are the
+[18:38] next value unlock of of consumer
+[18:40] technology. The So you have the Optimus
+[18:43] robot serving popcorn at the uh Tesla
+[18:45] diner in Los Angeles. Then you had the
+[18:48] uh I think it was called the World
+[18:50] Humanoid Robotic Games in China where it
+[18:53] was like the Olympics of of robots of
+[18:54] humanoid robots and they were running
+[18:56] races and playing soccer and doing all
+[18:59] these physical contests and yes it was
+[19:02] not great. It did not look like Usain
+[19:03] Bolt running the 100 m or Lion Messi
+[19:06] kicking a football, but it looked good
+[19:08] enough. It looked impressive. It was an
+[19:10] impressive display of the physical
+[19:13] capabilities of humanoid robots in 2025,
+[19:16] considering they were not even close to
+[19:18] this 2 or 3 years ago. So if you kind of
+[19:21] extrapolate out and see where we're
+[19:22] going in the next 3 to 5 years, yeah, I
+[19:24] think that the next 3 to 5 years will be
+[19:26] defined by humanoid robots, production
+[19:28] of them ramping dramatically and they
+[19:31] start to make their way into retail
+[19:33] industrial operations. So you'll see
+[19:35] them in factories. You'll see them in
+[19:37] retail stores like the Tesla diner.
+[19:38] You'll probably see like Walmarts and
+[19:40] Amazons and things like not Amazons, but
+[19:42] Amazon fulfillment centers uh and things
+[19:44] like that. I think that's when you start
+[19:45] to see them. and then probably 2030 plus
+[19:48] is when you start to see them uh in in
+[19:50] households. So I do believe that the
+[19:52] humanoid robotics revolution has
+[19:54] arrived. I think we are at the very top
+[19:56] the first inning of what'll be a very
+[19:58] exciting ball game over the next 5 to 10
+[20:01] years. And I think that ball game is
+[20:04] going to drive Tesla stock significantly
+[20:08] higher. That Tesla stock it has a
+[20:10] history of going nowhere for 3 to four
+[20:12] years and then going vertical for a year
+[20:13] or two. going nowhere for three to four
+[20:15] years and going vertical for a year or
+[20:16] two. First period from like 2010 to 2013
+[20:19] went nowhere for three years because
+[20:21] nobody thought Tesla could be
+[20:22] profitable. Then in 2013 they had their
+[20:24] first profitable quarter and the stock
+[20:25] went from a split adjusted like two
+[20:27] bucks to like $12 in about a year and a
+[20:29] half, 6x in about a year and a half.
+[20:30] Then it went nowhere from like 2014 to
+[20:33] 2019 because okay, you're profitable but
+[20:36] you can't scale. You can't, you know, no
+[20:38] one's going to How many people are going
+[20:39] to buy a $100,000 Model S? um you need a
+[20:42] more affordable car. And nobody thought
+[20:43] they could do that. And Elon's like, I
+[20:45] can do that with a Model 3. Nobody
+[20:46] believed him. Then he did it with the
+[20:47] Model 3 in 2019. And the stock in 2019
+[20:50] just went straight vertical from 2019 to
+[20:53] late 2021. It's been stuck in a in a
+[20:55] sideways holding pattern since 2021. Now
+[20:57] we're starting to break out of that
+[20:58] sideways holding pattern. The stock has
+[21:00] had a lot of upper momentum in the last
+[21:01] few months, and I think it's the
+[21:03] beginning of a breakout phase throughout
+[21:05] the rest of the year, 2026 into 2027,
+[21:08] driven by autonomy. to talk about robo
+[21:10] taxis and a humanoid robot optimist.
+[21:13] >> I do have a question though for Luke.
+[21:15] When is the Model 2 coming out? Because
+[21:17] that's supposed to be Tesla's big
+[21:19] winner. It's supposed to be cheaper cuz
+[21:21] there's hardly any uh welds in the car
+[21:23] cuz they that that big press. Do you
+[21:26] have any idea when that's coming?
+[21:27] >> I do not. And it's because the company
+[21:29] is not really giving much information on
+[21:31] that. Elon is doing everything in his
+[21:33] power to shift the narrative on
+[21:34] conference calls and in his
+[21:36] communication on X and everything from
+[21:38] this cheaper more mass model electric
+[21:41] vehicle to Optimus is coming. Roboax is
+[21:44] expanding. He's just really trying to
+[21:46] hammer on those two pillars. And so
+[21:48] that's all he talks about when people
+[21:49] ask him about the the Model 2. It's
+[21:51] coming, but the deadline keeps getting
+[21:54] rolled a little bit. So I don't really
+[21:56] know when that is when that's going to
+[21:57] come into play. But I think the market's
+[21:59] kind of telling you right now that
+[22:00] that's, you know, investors don't
+[22:02] particularly care too much about that.
+[22:04] He keeps pushing the deadline there, but
+[22:06] they're more excited about robo taxi
+[22:08] expanding. They're more excited about
+[22:09] Optimus serving popcorn and the
+[22:11] potential to scale production there. So,
+[22:13] I think the market's kind of saying, you
+[22:14] know what, we're okay with the model 2.
+[22:16] Whenever it comes, it comes and we're
+[22:18] fine with that, but let's really focus
+[22:19] on on the robo taxi piece of this and
+[22:21] let's focus on the Optimus piece of this
+[22:23] because they believe that's the the next
+[22:25] value unlock. And I I I agree with that
+[22:27] thesis for the most part. They can't in
+[22:30] postpone it indefinitely, but you know,
+[22:32] I think they can for a while.
+[22:33] >> Well, the BYD seagull's all over Mexico
+[22:35] and Latin America, and it's not here in
+[22:37] America. So,
+[22:38] >> right
+[22:39] >> has a window to compete with them if we
+[22:41] can get the Model 2 out there, but uh
+[22:44] you know, anyway, we'll see what
+[22:45] happens.
+[22:46] >> Now, looking at the macro picture, home
+[22:48] sales, durable goods, and PCE data drop
+[22:51] next week. What should investors brace
+[22:54] for? Home sales will probably be poor,
+[22:55] but hopefully we'll get an uptick, but
+[22:58] I'm expecting a poor report. Durable
+[23:00] goods should be decent. We've had some
+[23:02] signs of life on the manufacturing side.
+[23:04] Hopefully, all the data centers are
+[23:06] building shows up. Uh, you know, because
+[23:08] they get to have accelerated
+[23:09] depreciation. We do know the PC
+[23:12] components, but uh owner's equivalent
+[23:13] rent was up 38% last month. That was a
+[23:16] lot. So, I don't expect the PC data to
+[23:19] be that encouraging.
+[23:20] >> And finally, earning season is heating
+[23:22] up. Here's the lineup. Let's start out
+[23:24] with Micron. Memory chips never forget.
+[23:27] Will Micron deliver another big
+[23:28] surprise?
+[23:29] >> Absolutely. Micron sales are forecasted
+[23:32] to rise 43.6%.
+[23:34] Earnings are forecast to rise a whopping
+[23:37] 142%. There are positive balance
+[23:40] revisions. I expect a Micron to post
+[23:42] another nice surprise. They are
+[23:44] benefiting from very fast memory chips
+[23:47] in the data center. Boom.
+[23:48] >> Jill, a circuit board company. Do they
+[23:51] have another trick up its sleeve?
+[23:53] >> Yeah, their sales are forecast to go up
+[23:54] 9.9%.
+[23:56] Earnings are forecast to rise 27.7%.
+[23:59] There's positive balance revisions, so I
+[24:01] expect Jill to post another nice
+[24:03] surprise.
+[24:04] >> Autozone. Will this auto parts giant
+[24:06] finally shift gears or stall out again?
+[24:08] >> Well, you know, uh, this is an
+[24:10] interesting company because it buys a
+[24:11] tremendous amount of stock back, but it
+[24:14] has unfortunately missed analyst
+[24:16] estimates in the past four quarters.
+[24:17] Their sales are forecast to rise 8/10 of
+[24:20] a percent. Earnings are forecast to rise
+[24:22] 6.2%.
+[24:23] But there has been some minor analyst
+[24:25] trims. So I I really would just like to
+[24:27] see I'm finally surprised, but my
+[24:29] expectations at this moment are low.
+[24:31] >> You've mentioned KB Homes before, but
+[24:33] what are you expecting for them this
+[24:34] week?
+[24:35] >> Well, sales are forecast to decline uh
+[24:37] 9.9%. Earnings are forecast to decline
+[24:40] 26.8%.
+[24:42] There are significant analyst cuts in
+[24:43] the past u 3 months. So their guidance
+[24:46] is going to be crucial. Now, we have
+[24:47] mortgage rates coming down, but not
+[24:49] enough to stimulate the housing market.
+[24:51] You have to discount homes to sell them.
+[24:53] And um you know, I just need positive
+[24:56] guidance from a home builder. We didn't
+[24:57] get it from LAR um in the previous week.
+[25:00] So, let's hope um we get it from KB
+[25:03] Homes, which is of course Koffman and
+[25:04] Broad.
+[25:05] >> Now, will CarMax benefit from higher
+[25:07] used car prices?
+[25:09] >> I believe so. Their sales are only
+[25:11] forecast to go up by 210%, but earnings
+[25:13] are forecast to rise 24.2%.
+[25:16] There's been some minor analyst trims,
+[25:18] but I do expect them to post a nice
+[25:21] surprise due to the higher used car
+[25:24] prices according to CPI.
+[25:26] >> Now, I know we all love Costco, so
+[25:28] hopefully you have some good news.
+[25:30] >> Yeah, their sales are forecasted to rise
+[25:32] 8.1%, earnings are forecast to rise
+[25:34] 12.7%.
+[25:36] They have very steady analyst estimates.
+[25:38] I expect a a nice surprise. They they
+[25:41] post small surprises but their guidance
+[25:43] and same store sales growth will be key.
+[25:46] You know Costco is a luxury retailer and
+[25:49] uh uh it's very very important to fight
+[25:52] all the inflationary trends out there.
+[25:55] So I expect it to do very well.
+[25:56] >> Great. Well, thank you so much Luke for
+[25:58] being here this week and thank you so
+[26:00] much for you both for answering all my
+[26:01] questions. Make sure to give this video
+[26:03] a like and subscribe if you haven't
+[26:05] already and also leave any questions you
+[26:07] have in the comments below. But until
+[26:09] then, we will see you all next week for
+[26:11] a new video.
+[26:12] [Applause]
+[26:13] [Music]

@@ -7,9 +7,29 @@ Type: short
 Duration: 0:55 (55s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 21
+Transcript characters: 701
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Louisie Navalier here. Well, I hope
+[00:03] you're enjoying the relief rally we're
+[00:04] getting from trade barriers continuing
+[00:07] to break
+[00:08] down. This is a monumental week. We have
+[00:12] flagship stocks like Netflix and Taiwan
+[00:15] Semi announcing their earnings. It's
+[00:18] imperative that the market turn its
+[00:20] focus to earnings versus all the macro
+[00:22] distractions.
+[00:24] But while I'm talking about macro
+[00:26] distractions, the European Central Bank
+[00:28] will be cutting interest rates this week
+[00:30] and Prime Minister Maloney from Italy
+[00:33] will be at the White House on Thursday.
+[00:37] Now, that has EU leaders nervous because
+[00:41] uh Prime Minister Maloney is fiercely
+[00:44] independent and if she cuts a special
+[00:47] deal for Italy, it will help the
+[00:50] European Union break up.
+[00:53] Fascinating times we're

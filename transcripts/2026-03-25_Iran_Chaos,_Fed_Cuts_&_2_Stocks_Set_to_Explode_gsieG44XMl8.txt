@@ -7,9 +7,545 @@ Type: video
 Duration: 19:54 (1194s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 537
+Transcript characters: 18905
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Markets are moving on hope, headlines,
+[00:02] and a little mystery. A geopolitical
+[00:03] bomb that sent stocks surging, a
+[00:05] suspicious leak that has Wall Street
+[00:07] talking, and the stocks Louie still
+[00:09] loves even when the crowd walks away.
+[00:12] Let's get into it. Welcome back to
+[00:14] Navellier Market Buzz.
+[00:21] So, let's start out with the headline
+[00:22] that moved markets before most people
+[00:24] had their morning coffee. President
+[00:26] Trump took to Truth Social with a
+[00:28] stunning announcement about the US-Iran
+[00:31] talks and what it could mean for the
+[00:32] Strait of Hormuz. Dad, can you walk us
+[00:35] through the fog of war? Yeah, um Well,
+[00:38] essentially, his original proposal was
+[00:40] that if Iran doesn't open up the Strait
+[00:43] of Hormuz by the end of Monday, he was
+[00:45] going to start bombing their their
+[00:47] electric plants. And um and he was
+[00:49] contacted by Iran, and uh they agreed to
+[00:53] basically have a 5-day cooling-off
+[00:55] period, so this entire week. Hopefully,
+[00:57] that will lead to something more
+[00:58] constructive. Otherwise, I guess he
+[01:00] might want to go back and bomb the
+[01:02] electric plants again. So, what's so odd
+[01:04] about this is Israel still fighting with
+[01:07] Iran while this is going on. And it's
+[01:09] going to be fascinating to see what's
+[01:11] happening. Now, the Wall Street Journal
+[01:12] reported that Egypt was able to contact
+[01:16] the IRGC, which is uh
+[01:18] the um
+[01:19] Iranian Republican Guard, and that might
+[01:22] be the conduit, but no one's telling us
+[01:24] who the conduit is, who he's talking to
+[01:27] other than Trump says they're very
+[01:28] cooperative. I think all this is going
+[01:30] to boil down to reopening the big port
+[01:33] on the that island that uh the US can
+[01:36] control. They've already disabled it,
+[01:38] but they didn't bomb the uh deepwater
+[01:41] port. 90% of Iran's oil goes through
+[01:43] that port. And we have a bunch of
+[01:45] Marines on the way that could seize that
+[01:47] little island and run it. Uh there are
+[01:50] Iranians on that island. So, just like
+[01:52] he's controlling the oil from Venezuela,
+[01:54] I I he's trying to control the oil from
+[01:56] Iran, uh in my opinion. So, this is all
+[01:59] very fascinating. It's compound complex,
+[02:02] but obviously we need the Strait of
+[02:03] Hormuz open. Iran is letting ships
+[02:06] through for up to $2 million
+[02:08] a passage. Bloomberg reported that. But,
+[02:11] this was a fascinating development, big
+[02:14] reversal in the markets. But, the
+[02:16] markets are continuing to oscillate. So,
+[02:17] if they're up by Monday, then they have
+[02:19] to back and fill on Tuesday, etc. So,
+[02:21] just expect this to continue and if
+[02:24] there's nothing announced by the end of
+[02:25] Friday,
+[02:26] uh the market may sell off only because
+[02:29] there's uncertainty for the weekend.
+[02:31] But, now here's where it gets
+[02:32] interesting. CNBC is reporting that
+[02:35] trading volume spiked in stocks and oil
+[02:38] futures before Trump even posted. So,
+[02:42] was someone tipped off? Yeah, that's
+[02:44] interesting. It looks like somebody knew
+[02:46] something and whether this was a trade
+[02:48] from the Middle East or wherever we'll
+[02:50] have to trace it. They were using
+[02:52] futures. You know, all these things are
+[02:53] timestamped. So, they should be able to
+[02:56] trace who who placed the orders. Moving
+[02:59] to the Fed, Fed Governor Waller said he
+[03:01] would not vote to raise rates, citing a
+[03:03] softening labor market and expectations
+[03:06] that inflation cools in the second half
+[03:09] of 2026.
+[03:10] So, Dad, does this keep your three rate
+[03:13] cut call intact? Well, yeah, it helps.
+[03:15] Obviously, if you look at the Fed's dot
+[03:17] plot, they're they're only going to
+[03:19] calling for one rate cut. They were a
+[03:21] minority calling for two to four and I
+[03:23] think four was Steven Mnuchin. But, the
+[03:26] bottom line is the labor market is a big
+[03:28] issue. It was in the FOMC statement. It
+[03:31] was in
+[03:32] in Jerome Powell's press conference
+[03:33] where he said the private sector is not
+[03:35] creating jobs. So,
+[03:37] and Christopher Waller is a labor market
+[03:40] expert. He called the downward revisions
+[03:42] last year before they happened. So,
+[03:44] clearly that's his focus and he wants to
+[03:47] cut rates to stimulate the job market.
+[03:49] And so, we're going to get a rate cut
+[03:51] probably by May when Kevin Warsh takes
+[03:53] over. Now to a stock that has been very
+[03:56] controversial and volatile recently,
+[03:58] Super Micro Computer. Now Dad actually
+[04:01] recently got a shout-out on Fox Business
+[04:03] and Barron's for staying bullish on
+[04:05] SMCI. So, what are you seeing that the
+[04:07] skeptics are missing? Well, I'm seeing
+[04:10] that it has 171% forecasted sales growth
+[04:14] for next quarter up from 123% last
+[04:17] quarter. I'm seeing that it trades at
+[04:19] less than 10 times this year's estimated
+[04:21] earnings. Earnings are supposed to be up
+[04:22] 101% just so you know. Super Micro's
+[04:24] always been a very controversial company
+[04:26] because uh
+[04:28] one of its founders is I don't doesn't
+[04:31] seem to get along with accountants and
+[04:33] other things and they had an auditor
+[04:34] change. Anyway, he's gone now. He's the
+[04:36] guy that left. So, I think the company
+[04:39] might be better now.
+[04:40] But this company accounts for 9% of
+[04:43] Nvidia's GPU sales. All my contacts in
+[04:46] cloud computing artificial intelligence
+[04:48] says
+[04:49] SMCI makes the best water-cooled rack
+[04:51] systems out there. There are other
+[04:52] companies that do it, but they're the
+[04:53] best the leaders and their order backlog
+[04:56] is over 3 years and
+[04:58] and the demand for building out the data
+[05:00] centers is incredible. Data center
+[05:02] construction is over 50% of construction
+[05:05] in America right now. So, I wouldn't
+[05:08] sell it cuz I got this big pipeline. I
+[05:10] did explain to in a Bloomberg interview
+[05:13] I did explain I didn't want to sell it
+[05:14] anyway because my low cost basis. I've
+[05:17] been in it since 2022 and I got in early
+[05:20] and you know, both accounts are still up
+[05:22] over 300%.
+[05:24] And we do manage a lot of taxable money
+[05:26] and we just don't want to
+[05:28] realize the gain.
+[05:29] This is an example where
+[05:32] you know, my stocks will get attacked
+[05:34] from time to time by short sellers or
+[05:36] news items and as long as the
+[05:38] fundamentals are there I stick it out.
+[05:40] And I'm going to stick it out with Super
+[05:42] Micro
+[05:43] because
+[05:44] it's a it's a has the second strongest
+[05:46] sales growth of any company I recommend.
+[05:48] Now gold has had quite the interesting
+[05:51] past couple of weeks and we are going to
+[05:53] get into all your questions regarding
+[05:55] gold. But Dad, we had two gold stocks
+[05:57] announced recently. Can you talk first
+[05:59] about CM? Yeah, they announced that
+[06:01] their fourth quarter revenue was up
+[06:03] 7.3%. Earnings rose 86.7%
+[06:08] and sales are better expected. Earnings
+[06:10] were not up to analyst estimates, but
+[06:13] this company doesn't surprise it often
+[06:14] anyway. So it it improved in the wake of
+[06:16] that announcement. Those sales were much
+[06:18] stronger than expected. And how did IDR
+[06:21] announce? They were even better. They
+[06:23] announced their sales were up by 92%.
+[06:26] And their earnings are up 244.4%.
+[06:31] And that turned out to be a sales um
+[06:34] surprise of 22.4
+[06:37] and a 210% earnings surprise. Oh, and
+[06:39] IDR is the one that has the rare earth
+[06:41] play as well, although they're not
+[06:42] monetizing that. So I hope this explains
+[06:45] why I have gold stocks because they have
+[06:48] very good forecasts of sales and
+[06:50] earnings and when these earnings come
+[06:52] out the stocks pop. IDR popped over 10%
+[06:56] the day its earnings came out and and CM
+[06:58] CM was also up nicely.
+[07:00] Uh and they're going to continue to have
+[07:02] these very strong sales and earnings for
+[07:05] at least two or three more quarters. And
+[07:07] that's largely due to the appreciation
+[07:09] gold over the past year. Now, I know
+[07:10] gold has consolidated here a bit and now
+[07:12] it's trying to find a base, but you
+[07:15] know, I'm not trading gold as a
+[07:16] speculator. I'm trading gold stocks
+[07:19] because of their phenomenal sales and
+[07:20] earnings and that's why I own the
+[07:22] stocks, not the not the metal. So while
+[07:25] we're on the uh we're on the topic of
+[07:26] gold, let's answer some subscriber
+[07:28] questions. So what is your opinion
+[07:30] though that gold has dropped so much?
+[07:32] It's just normal oscillations. All
+[07:35] commodity prices are all oscillating.
+[07:38] Copper, aluminum, everything. There's a
+[07:40] fear of a global slow down and gold gets
+[07:43] caught up in that commodity crunch for
+[07:45] lack of a better word, but um the
+[07:47] central banks need gold and let me give
+[07:50] you an example. So, even though Europe
+[07:52] has a European Central Bank, they have,
+[07:54] you know, the Bundesbank in Germany and
+[07:56] the French have a bank, etc. Well, the
+[07:58] French Central Bank, believe it or not,
+[08:00] lost money. They mismanaged their yield
+[08:02] curve and they made up for it with their
+[08:05] gold reserves. And so, their loss was
+[08:07] erased by their vast gold reserves. So,
+[08:10] the central banks are are increasingly
+[08:12] buying gold to basically cover up other
+[08:15] losses and restore their credibility.
+[08:18] So, you got to be very careful where you
+[08:20] invest in the yield curve and if they do
+[08:22] invest in the wrong part of the yield
+[08:23] curve and it gets inverted or
+[08:25] or the yields change dramatically, they
+[08:27] can lose money. So, it was the central
+[08:29] bank buying pressure that drove gold
+[08:32] higher and I don't see that changing at
+[08:34] all. And France just proved why the
+[08:37] central banks have to own gold. We also
+[08:39] had a very interesting comment of saying
+[08:41] that one factor is energy expenses are
+[08:44] rising, which hurts miners. So, once oil
+[08:47] and gas retreat, miners will improve. I
+[08:49] think that's very short-term. Obviously,
+[08:52] most mines have to use diesel to mine,
+[08:54] okay? Whether it's the trucks or the the
+[08:57] the Caterpillars or depends how they
+[08:59] mine it, obviously. And the diesel costs
+[09:02] are are very high right now and because
+[09:05] of um
+[09:06] of the war and it's imperative that we
+[09:08] get diesel costs down, jet fuel prices
+[09:11] down because it's starting to ripple in
+[09:13] on the costs of everything. Because they
+[09:15] use diesel trucks to transport almost
+[09:17] everything, that means that the costs of
+[09:19] goods are going to rise. So, yeah, this
+[09:22] war is inflationary. We can back out the
+[09:25] food and energy inflation, but you could
+[09:27] have higher transport stocks get into
+[09:29] the prices of other items we buy and
+[09:31] that would not be ideal.
+[09:32] >> Now, let's get into some other
+[09:33] subscriber questions. Let's start out
+[09:35] with A L A R. Do you still consider them
+[09:39] for good profit momentum? No. I have
+[09:42] been out of this stock for some time. I
+[09:44] did recommend it. I I'm probably
+[09:46] responsible for popping it some time
+[09:48] ago, but this is a stock I exited some
+[09:52] time ago. Now, their sales are supposed
+[09:53] to be up
+[09:54] 54.2,
+[09:56] but
+[09:58] their earnings don't look
+[10:00] very strong. They have beaten the past
+[10:02] three quarters. So, no, I am not in
+[10:05] alarm technologies anymore, and I
+[10:07] haven't been for some time. So, I
+[10:10] if someone thinks I'm still recommending
+[10:12] this, it's kind of bothers me that they
+[10:14] might have read something 3 years ago.
+[10:15] So,
+[10:16] this is why we we give the stock grader
+[10:18] free in the public domain, cuz if you're
+[10:20] following stock grader, you would know
+[10:22] where I stand on this. So, what is your
+[10:24] strategy to increase the number of
+[10:25] shares or trim part profits in both
+[10:28] cases if the stock is rallying or
+[10:30] dropping above the SL price? Okay. So,
+[10:33] the way our optimization models work, if
+[10:36] a stock standard deviation goes up, then
+[10:38] our quantitative grade will drop. If the
+[10:40] stock standard deviation goes down
+[10:42] because the stock gets out of the S&P
+[10:44] 500 and has better liquidity, the
+[10:46] quantitative grade will often go up. So,
+[10:48] essentially, we will punish stocks for
+[10:50] higher volatility. And if you look at my
+[10:51] newsletters, you may see I like 60%
+[10:54] conservative stocks, 30% moderately
+[10:56] aggressive, and only 10% the most
+[10:57] aggressive stocks. So, in theory, as
+[11:00] stocks become more volatile and more
+[11:02] erratic, I will trim them often before I
+[11:04] sell them off. Right. Now, the only
+[11:06] problem with that is taxes. Obviously,
+[11:08] if you trim a stock when it's 12 months
+[11:10] and a day old, you pay a much lower tax
+[11:12] rate, typically 20% federal versus your
+[11:15] ordinary income rate. And then above a
+[11:17] quarter million dollars, you there are
+[11:19] extra taxes they throw on. So, the key
+[11:21] to being tax efficient is to keep the
+[11:23] losses short-term and keep the gains
+[11:25] long-term, and we do abide by that. But
+[11:28] our optimization models will often tell
+[11:30] us to trim, and the best way to access
+[11:32] that is our our our platinum portfolio.
+[11:36] That's where I pick the best stocks of
+[11:38] all for my letters, and and what happens
+[11:41] is we have an allocator tool there, and
+[11:43] you can say whether you're conservative,
+[11:44] moderate aggressive, or aggressive, and
+[11:46] it'll tell you exactly how many shares
+[11:47] to own every time you pull it up. So,
+[11:50] that is what I would use to trim. So,
+[11:52] let's just say you bought 692 shares
+[11:54] now, and it says you should have 510
+[11:55] shares. Well, I guess you got to sell
+[11:57] 182
+[11:58] shares. Um
+[12:00] So, but I would only do that in in
+[12:02] tax-deferred accounts, Roth accounts,
+[12:05] you know, I don't want you to take the
+[12:07] tax hit.
+[12:08] >> Now, what is your take on ACHR? Let me
+[12:11] Okay, Archer Aviation's an interesting
+[12:13] company. Their sales are flat as a
+[12:15] pancake, earnings are supposed to
+[12:16] decline 24 cents. So, I am not
+[12:19] interested in the stock at all. It
+[12:21] doesn't have the sales and earnings
+[12:22] growth I demand. I I would add we're
+[12:23] getting a lot of drone stocks, questions
+[12:26] about drone stocks, and I keep looking
+[12:28] them up, and I can't find the the the
+[12:31] sales and earnings. So, I'm not going to
+[12:34] change chase any theme company. Is it
+[12:37] still safe to accumulate Ciena at these
+[12:39] levels after such a run-up? Yeah, I just
+[12:42] did my growth investor letter, and Ciena
+[12:44] was the the number one stock on a
+[12:46] quantitative basis. So, yeah, Ciena is a
+[12:49] great stock. Lock and load on it. Do you
+[12:51] still think Nvidia is 300 by year-end?
+[12:54] Yes, and $500 by the end of the decade.
+[12:57] Again, at the developers conference they
+[12:59] had last week,
+[13:01] they are forecasting 100% sales growth
+[13:04] for all of 2027. Right now, I believe
+[13:07] Nvidia's sales are running at about a
+[13:09] little over 80%.
+[13:10] So, their sales momentum is actually
+[13:13] going to be accelerating, and
+[13:16] I I just find it amazing for a company
+[13:18] of this size and magnitude that it can
+[13:20] still have this kind of sales and
+[13:22] earnings growth. By the way, Jensen
+[13:23] mentioned that um
+[13:26] the AI's gotten to the point where it's
+[13:27] it can be as smart as a human now. It's
+[13:29] not ready to replace us, but it's as
+[13:31] smart as a human. Now, some people
+[13:33] aren't believing us that Canada is in a
+[13:35] recession. Can you comment on that?
+[13:37] Well, that's interesting because they
+[13:39] lost over 100,000 people last quarter.
+[13:42] And Canada's been in a long-term
+[13:44] demographic decline despite very open
+[13:46] immigration. They had horrific job
+[13:49] losses, 25,000 in January and 82,900 in
+[13:53] February. So, that's like us losing a
+[13:55] million jobs in in a month. If they're
+[13:57] not in recession, they're in dire shape.
+[13:59] I did read that employment report says a
+[14:01] lot of it was a youth employment. So,
+[14:03] and then they're mad at Stellantis for
+[14:05] pulling out, okay? And so, that's
+[14:07] causing job losses in Ontario. So, yeah,
+[14:10] it's very interesting. You know, it's
+[14:13] and and on top of that, Alberta would
+[14:15] like to secede, not to become the 51st
+[14:17] state, become their own country. So,
+[14:19] Alberta pays over $400 billion a year to
+[14:22] Ottawa, which usually ends up in Quebec.
+[14:25] So, the people in Alberta are being
+[14:27] are mad for being picked on. Now, uh
+[14:29] Prime Minister Carney is
+[14:31] a net zero guy, so he doesn't naturally
+[14:33] get along with Alberta, which is fossil
+[14:35] fuels or Saskatchewan, which is potash
+[14:37] fertilizer. Because under net zero, you
+[14:39] you don't use a fossil fuels or chemical
+[14:42] fertilizers. So, he has his own issues.
+[14:44] He has been, you know, trying to suck up
+[14:46] to them. He realized they're an
+[14:47] important part of of the Canadian
+[14:49] economy. But,
+[14:50] yeah, I think I don't see how it could
+[14:53] be growing at all. Alberta's doing
+[14:55] better than everybody else cuz of the
+[14:56] oil prices, but they still have to
+[14:57] discount them that oil to sell to
+[14:59] America for refining, by the way. Now,
+[15:01] for VITL, is it time to buy the big dip,
+[15:04] Vital Farms? Oh, Vital Farms is
+[15:07] interesting. First of all, it's a
+[15:08] chicken stock, and their eggs are
+[15:10] organic, as you know. So, we think
+[15:12] they're happy chickens. Um but, they
+[15:14] missed last quarter. So, that's
+[15:16] unfortunate. Well, now, next quarter,
+[15:17] their sales are supposed to be up 6.
+[15:19] 16.1.
+[15:20] Their earnings are supposed to decline
+[15:21] 35.4
+[15:23] and we have some significant analyst
+[15:25] cuts from 44 cents to 24 cents in the
+[15:28] past month. So no, I don't want to own
+[15:30] Vitafoods now. I'm even though they're
+[15:32] happy chickens and they're good organic
+[15:35] eggs. Can you let everyone know about
+[15:37] SpaceX IPO? Which stocks may ride the
+[15:40] wave with the IPO? Well, a lot of stocks
+[15:42] are getting excited about the SpaceX
+[15:43] IPO. First, we're not sure when it is.
+[15:45] One of our publishing
+[15:47] peers well I'll mention the Oxford Club
+[15:49] had a promo out there saying that it's
+[15:51] going to be on 26th of March which it
+[15:54] isn't. So that was just a promo to get
+[15:56] you to buy some by then. I had all these
+[15:58] calls like, I need to buy this before
+[16:01] that. No, you don't cuz this is not
+[16:02] true. So anyway, that was unfortunate
+[16:05] for the Oxford Club. No, I mean yeah,
+[16:07] there's Rocket Labs and a lot of space
+[16:09] stocks getting excited right now, but
+[16:12] again, I'm not going to buy anything
+[16:13] till it earns money. So, you know,
+[16:15] Elon's has two very successful
+[16:17] businesses, SpaceX and obviously
+[16:19] Starlink. And he's trying to fold a lot
+[16:21] of his other companies which are less
+[16:23] profitable into this big giant umbrella.
+[16:26] So the SpaceX shine improves his
+[16:28] valuation. But yeah, he doesn't need
+[16:30] money right now. So I think he'll go
+[16:32] public when he thinks he can get a
+[16:33] premium price. And so kudos to Elon for
+[16:36] waiting for that premium price. Can you
+[16:38] give us a brief update on what's
+[16:40] happening with CRDO? Okay, Credo is not
+[16:43] one of my stocks,
+[16:45] but it's looking pretty good. Sales are
+[16:48] forecast to be up 154.2%.
+[16:51] Earnings are forecast to be up 194.3.
+[16:55] We have positive analyst earnings
+[16:56] revisions in the last 7 days. They've
+[17:00] increased their estimates from 98 cents
+[17:01] to a dollar three, so five cent
+[17:03] increase. Last 30 days, 82 to dollar
+[17:06] three. So yeah, this looks awfully good,
+[17:08] good surprise history. This stock is
+[17:11] definitely on my radar to buy, although
+[17:13] I have not pulled the trigger yet. Okay?
+[17:16] This uh company also benefited from all
+[17:18] the the Nvidia conference last week,
+[17:20] which boosted all the optical companies.
+[17:22] In addition to Ciena, it boosted uh
+[17:24] Corning, GLW, and that's a stock that's
+[17:27] highly ranked in my system I don't own
+[17:28] yet. My main optical plays were Ciena,
+[17:31] CIEN, and Ubiquity, which is a a UI. So
+[17:36] again, the optical stocks are hot
+[17:39] cuz the data centers are
+[17:41] uh running at the speed of light.
+[17:42] >> Well, thank you all so much for your
+[17:44] subscriber questions. We love going
+[17:45] through them. Now, let's bring it home.
+[17:48] Where is the opportunity right now? Dad,
+[17:50] I believe you have two names on your buy
+[17:52] list. Let's pull them up right now.
+[17:54] Yeah, the best buys near term are Bloom
+[17:56] Energy, um which of course is the
+[17:59] natural gas fuel cells uh to run the
+[18:02] data centers. The Oracle um data
+[18:04] centers, the Brookfield data centers are
+[18:06] using Bloom Field technology. Their
+[18:09] sales are forecast to be up 64.2%.
+[18:13] Uh their earnings are forecast to be up
+[18:14] 330.9%.
+[18:17] Big upward analyst revisions just so you
+[18:20] guys know. Uh went from 5 cents to 13
+[18:22] cents in the last 2 months. And their
+[18:24] earnings surprises are ridiculous. Last
+[18:26] quarter, it had a 50.4% surprise. Block
+[18:30] and load in Bloom Energy. It is a very
+[18:32] good near term buy. But the best buy of
+[18:34] the week, maybe the month, is Micron
+[18:37] Technology. Micron makes the um the fast
+[18:40] um memory chips that you need for the
+[18:42] data centers. They are investing a lot
+[18:45] in America. Uh they have a plant in
+[18:47] Boise. That's where they're
+[18:48] headquartered, but they're spending over
+[18:50] 200 million on another plant. They may
+[18:51] be putting a plant in Taiwan as well.
+[18:54] But their sales, believe it or not, were
+[18:56] up 196%
+[18:58] last quarter, but next quarter they're
+[18:59] supposed to be up 258%.
+[19:02] Their earnings um
+[19:04] are supposed to be up 887%.
+[19:09] This stock trades at 6. 8 times
+[19:12] forecasted 2027 earnings. Memory chip
+[19:15] companies have always had low PE ratios
+[19:18] cuz it's a cyclical business, but
+[19:19] there's a shortage of memory right now,
+[19:21] and Micron makes these great chips. So,
+[19:23] you've got phenomenal sales, phenomenal
+[19:26] earnings, positive analyst revisions,
+[19:28] big surprises, and guess what? A low PE
+[19:30] ratio. So, back up the truck on Micron,
+[19:32] it should be a huge weight in your
+[19:34] portfolio. Well, with geopolitics, Fed
+[19:36] signals, a suspicious leak, and two
+[19:38] stocks worth watching, that's a wrap.
+[19:40] Thank you, Dad, so much for the
+[19:42] insights. Make sure to hit subscribe,
+[19:44] leave a comment, and we'll see you this
+[19:45] Sunday for a new video.

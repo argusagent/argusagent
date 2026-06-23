@@ -7,9 +7,31 @@ Type: short
 Duration: 0:50 (50s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 23
+Transcript characters: 802
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Home Depot reports this week and is this
+[00:02] the single best read on the US housing
+[00:04] market you'll get all quarter? Not
+[00:06] really because although Home Depot is
+[00:10] more contractor dependent, this quarter
+[00:13] is going to be more about their garden
+[00:14] sales. Home Depot does a lot of seasonal
+[00:17] hiring
+[00:18] and sells a lot of garden things. And so
+[00:21] I think that's going to overshadow the
+[00:23] the contractor sales. Their sales are
+[00:25] supposed to be up 4.1%. Earnings are
+[00:28] supposed to be down 4.1. So again, sales
+[00:31] up, earnings down. The analyst community
+[00:33] has held pretty steady with their
+[00:34] estimates the last two months. They had
+[00:36] a nice surprise of 7.8% last quarter.
+[00:39] That's the big one. They have to keep
+[00:40] surprising.
+[00:42] Before last quarter, they did not
+[00:44] surprise. So it looks like Home Depot's
+[00:46] trying to turn around and hopefully
+[00:48] garden sales will boost their bone.

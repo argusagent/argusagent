@@ -7,9 +7,29 @@ Type: short
 Duration: 0:48 (48s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 21
+Transcript characters: 788
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] It seems like you're really bullish on
+[00:01] the optical stocks. Can you share which
+[00:03] ones are recent buys? Our favorites are
+[00:05] Ciena, c i e n, and Ubiquiti, u i. Both
+[00:11] those have pulled back here recently.
+[00:12] So, when I get money to invest, I wait
+[00:15] for pullbacks. And those happen to be
+[00:17] two AI-related stocks that haven't
+[00:20] announced and and recently pulled back.
+[00:22] If you're looking for a near-term
+[00:24] bargain, those are the two that I came
+[00:25] up with. And Tamy, how does this kind of
+[00:28] fit with your thesis? Well, you know, I
+[00:30] of course, I want to look for Fibonacci
+[00:32] support, and I just love that Louis
+[00:33] likes strong stocks that are having a
+[00:36] pullback, because then you can define
+[00:37] your risk. Um the first level of risk I
+[00:40] have is 516, then the next level is 507
+[00:42] to 08, and then underneath that is
+[00:45] around the 500 area for price support.

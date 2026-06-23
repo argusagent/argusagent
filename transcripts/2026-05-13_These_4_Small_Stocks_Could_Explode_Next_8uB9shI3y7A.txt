@@ -7,9 +7,325 @@ Type: video
 Duration: 11:17 (677s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 317
+Transcript characters: 11493
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] This week, we have a chart that changes
+[00:02] how you might look at the market, plus
+[00:04] four stocks no one is watching right
+[00:06] now. Dad, before we get into the stocks,
+[00:08] you sent me this bespoke chart, and I
+[00:10] want to start here because I think it
+[00:12] reframes everything we're seeing in the
+[00:14] headlines right now. Can you walk us
+[00:15] through it?
+[00:16] >> Sure, basically says if you don't own
+[00:18] tech stocks, you're down for the year.
+[00:19] And that's um pretty obvious because the
+[00:22] AI stocks have kind of hogged all the
+[00:24] money, AI data centers, semiconductors.
+[00:27] So, uh they're the leaders, but as this
+[00:30] market went higher and higher, it got
+[00:31] more narrow. And we're starting to have
+[00:33] a rotation now in a lot of the tech
+[00:35] stocks. So, the money should start to go
+[00:37] other areas. Obviously, energy is hot
+[00:40] right now because crude oil price
+[00:42] got personal. I love my tanker stocks.
+[00:44] We're going to talk about one of them
+[00:45] today. There are places to invest
+[00:47] outside of tech, but you have to have
+[00:49] the majority of your money in tech to be
+[00:51] beating the market right now. You know,
+[00:52] that actually came up in our last
+[00:54] episode with Tammy. She was showing the
+[00:56] exact same thing on her Fibonacci
+[00:58] charts. So, this isn't a one-off data
+[01:01] point. This is a pattern. Does that
+[01:03] change how you're thinking about where
+[01:04] to put money right now? Well, you know,
+[01:06] tech as a percent of the um the 10
+[01:09] sectors of the S&P is grossly
+[01:11] overweighted thanks to the Magnificent
+[01:13] Seven. So, this isn't a new phenomena.
+[01:16] It's just the most exciting part of the
+[01:17] market, and the most exciting part
+[01:19] gathers the most money. It's as simple
+[01:21] as that. This also brings up a
+[01:23] subscriber question that feels really
+[01:24] timely right now. Someone wrote, "Have
+[01:26] you thought about doing a video on how
+[01:29] home investors should prepare for a
+[01:31] downturn? Gold, stocks." Given
+[01:33] everything that you just showed us,
+[01:35] what's your quick answer? That's a very
+[01:37] good question. I don't worry about
+[01:38] downturns cuz I always have things that
+[01:41] zig when other things zag. Now, we have
+[01:43] oil tanker stocks as an example. Gold is
+[01:46] still up for the year, and the gold
+[01:47] stocks are kind of counterbalancing the
+[01:49] tech stocks. So, yeah, we actually have
+[01:51] a computer program that figures this
+[01:53] out. To the computer, our stocks are
+[01:55] squiggly lines, and tries to take a
+[01:57] bunch of squiggly lines and make a
+[01:58] smooth line. So, that's called
+[02:01] optimization. Just so you know,
+[02:02] mathematically, want the highest alpha,
+[02:04] lowest beta, lowest standard deviation.
+[02:07] So, I'm already naturally doing this,
+[02:09] but you do have liquidity shocks to the
+[02:11] market and your biggest liquidity risk
+[02:14] isn't a correction, it's a flash crash.
+[02:17] The last one was in August of 2015 uh
+[02:19] the credit markets.
+[02:23] That's where everybody's forced to sell
+[02:25] abruptly and um and then the market
+[02:27] quickly recovers. So, I worry more about
+[02:29] those shocks, which are more trading
+[02:31] mechanical shocks, than actual
+[02:34] corrections. As you know, we're going to
+[02:35] be approaching the summer months and I
+[02:37] hate August. I hate the first half of
+[02:39] September. So, I'll be very, very grumpy
+[02:41] during that period of time. It's a
+[02:42] seasonally weak period for the market.
+[02:44] >> And that deserves its own full video, so
+[02:46] we'll definitely put that on the list.
+[02:48] But let's talk about what dropped this
+[02:50] morning because it ties directly into
+[02:52] everything. The CPI just came out. Dad,
+[02:56] what did you see and what does this mean
+[02:57] for the markets right now? Well, first
+[02:59] of all, the overall CPI was in line with
+[03:01] the economists' expectations. The core
+[03:03] rate was slightly higher, but it wasn't
+[03:05] due to rising food and energy costs. It
+[03:07] was actually due to owners' equipment
+[03:09] rent resurging. It was up 6/10 of a
+[03:11] percent. These are shelter costs. And it
+[03:13] looks like there was a collection
+[03:14] problem with the data during the
+[03:16] government shutdown, so they had to kind
+[03:18] of catch up with their lagging data. So,
+[03:20] it just clouded the whole report. But
+[03:22] the good news is the energy shock is
+[03:25] less than it was in the previous month.
+[03:27] And so, if you look from March to April,
+[03:30] things are starting to cool off. So,
+[03:32] this just is a signal that our inflation
+[03:35] may be transitory. Our biggest risk
+[03:38] right now are high diesel costs and cuz,
+[03:40] you know, everything's transported with
+[03:42] trucks and diesel and that's just going
+[03:44] to cause the the cost of a lot of goods
+[03:46] to go up. So, inflation probably will
+[03:49] cool. I realize we haven't resolved the
+[03:51] situation in Iran. I realize that this
+[03:53] Strait of Hormuz is still not optimal.
+[03:56] The good news is vessels are getting
+[03:57] through, but no nowhere near what's
+[03:59] normal. So, there's hope.
+[04:01] >> And tying it all together, Hassett came
+[04:03] out over the weekend saying GDP could
+[04:05] hit 6% this year. That's nearly triple
+[04:08] what most forecasters are projecting.
+[04:10] After what we saw in the CPI, do you buy
+[04:12] that? You know, I forecasted 5% on Fox
+[04:15] back in December. And then I met with
+[04:17] Howard Lutnick at Mar-a-Lago and he
+[04:20] assured me that we would hit 6% and
+[04:21] Hassett's saying 6%. GDP growth is
+[04:24] coming from massive productivity gains.
+[04:26] That could be 3 to 4% improving trade
+[04:29] deficit due to all the energy exports.
+[04:31] And then finally, robust consumer
+[04:33] spending in America. And the only last
+[04:36] component we have to fix is the housing
+[04:38] component because housing is a drag on
+[04:40] GDP growth. But yeah, we will be able to
+[04:42] briefly hit 6% GDP growth this year. And
+[04:46] Kevin Hassett is obviously a cheerleader
+[04:47] for the administration being the head of
+[04:49] the Council of Economic Advisers. But I
+[04:52] like Kevin. He's just a happy person. I
+[04:54] think he showed SpongeBob pictures to
+[04:57] show how happy Kevin is all the time.
+[04:59] And I agree with him. He's not
+[05:00] exaggerating on the 6% GDP growth. And
+[05:03] you know, if that GDP story plays out
+[05:05] the way Hassett is describing, the names
+[05:07] that benefit most are probably exactly
+[05:10] what you're about to show us. Let's get
+[05:12] into the stocks. First one up, biotech.
+[05:15] I know that that word makes some people
+[05:17] a little nervous in this market, but you
+[05:19] keep coming back to this one. What's the
+[05:21] case?
+[05:21] >> AUPH is the biotech stock we like. It's
+[05:24] small cap. And the main reason we like
+[05:26] it is their uh sales are supposed to be
+[05:28] up 14.6%.
+[05:30] Their earnings are supposed to be up
+[05:32] 54.7.
+[05:34] We have very strong upward analyst
+[05:36] revisions on the stock. 18 uh cents to 3
+[05:39] months ago, 25 cents recently. And just
+[05:43] in the last 7 days, analysts have
+[05:44] revised their estimates from 20 to 25
+[05:47] cents. So, we got really strong analyst
+[05:49] estimates and this stock has a
+[05:50] wonderful, wonderful earning surprise
+[05:53] history. So, I'm expecting big things
+[05:55] from this stock. The only thing is it's
+[05:57] it's a small cap, so it's going to move
+[05:59] more like a bunny. But, uh small caps
+[06:02] are are better values than the bigger
+[06:03] stocks. Well, that combination is hard
+[06:05] to find. Why hasn't the market caught up
+[06:07] to this one yet? Because no one believes
+[06:09] it till the earnings come out and then
+[06:11] the stock pops and then they fall asleep
+[06:13] again. So, the fundamentals are there.
+[06:15] It's just a matter of when the market
+[06:16] notices. Now, on the second stock pick,
+[06:19] it's interesting because it's actually
+[06:21] had a very similar to set up to what you
+[06:24] just described. Strong numbers, market
+[06:26] didn't react the way you expect. Can you
+[06:28] share the second stock?
+[06:29] >> Of all the stocks that we're talking
+[06:31] about today, this is the one I'm most
+[06:33] excited about near term. Their sales uh
+[06:36] for INTT, inTEST, are supposed to be up
+[06:38] 17.4%.
+[06:40] Their earnings are supposed to be up
+[06:42] 222.2%.
+[06:44] Uh the analysts have revised their
+[06:46] estimates uh significantly higher
+[06:48] from 7, 3 months ago to 10 cents now.
+[06:51] And this stock has a wonderful,
+[06:52] wonderful earning surprise history in
+[06:54] the last two quarters. inTEST is a
+[06:56] testing company they use in the
+[06:57] semiconductor industry and they all can
+[07:01] test circuit boards and they do all
+[07:02] kinds of quality control tests. So,
+[07:04] obviously the semiconductor industry is
+[07:06] booming and their business is booming as
+[07:08] well. So, the market punished a stock
+[07:10] that just crushed it and you're reading
+[07:12] that as an entry point, not a warning
+[07:14] sign? Yeah, that This next stock I'm
+[07:16] talking about is uh you have to kind of
+[07:19] buy it with a leap of faith
+[07:21] because when they announced their recent
+[07:22] quarterly earnings, it did go down
+[07:25] and uh even though they beat analyst
+[07:27] estimates. Sometimes
+[07:29] stocks announce and they get hit with
+[07:30] profit taking, but this this company is
+[07:33] a very, very important company. This is
+[07:35] Phibro Animal Health, PAHC.
+[07:37] Their sales have kind of plateaued here,
+[07:40] but their earnings are supposed to be up
+[07:42] 28.2 next quarter and the analysts have
+[07:45] held steady in all their estimates. So
+[07:47] I'm expecting another a nice surprise.
+[07:49] This company makes animal health
+[07:51] products for all the herds, whether it's
+[07:53] cattle, chicken, pigs, etc. So this is a
+[07:57] very very important company so to keep
+[07:58] our food chain healthy. Obviously food
+[08:01] prices are up wants to keep uh the
+[08:03] animals uh healthy. I like this stock. I
+[08:06] think it's a good short-term buy right
+[08:07] now because it did go down after its
+[08:10] recent earnings beat. But again it'll it
+[08:12] has 28% earnings growth. This one's a
+[08:15] very good trade at this moment.
+[08:17] >> And the last stock you have today is
+[08:18] probably the most timely given
+[08:20] everything happening in the headlines
+[08:21] right now. Yeah, that's uh Teekay
+[08:23] Tankers Energy Navigation, TIN. This is
+[08:26] obviously uh a crude oil shipping
+[08:28] company. Their sales are supposed to be
+[08:30] up 34.2.
+[08:32] Their earnings was up 120.2.
+[08:35] Uh just so you know, the analysts have
+[08:36] revised their estimates just in the last
+[08:39] month from 84 cents to $2.02 a share.
+[08:42] That's a huge upward revision of over
+[08:44] 100% and the stock has a wonderful
+[08:47] earnings surprise history. So this is
+[08:49] one of four oil tanker stocks I
+[08:51] recommend. This is the smallest cap. So
+[08:54] when it when it beats it has the most
+[08:56] potential to to to soar. Well, there you
+[08:58] have it. You have your next four small
+[09:01] cap stock companies. Dad, we got a lot
+[09:03] of subscriber questions. I think we just
+[09:05] got to get into them. Someone is asking,
+[09:07] "I'm up 168% on SNDK. What should I do?
+[09:12] Hold, trim, or add more?"
+[09:14] >> SanDisk is obviously a memory stock. We
+[09:16] have that stock in some managed
+[09:18] accounts. I would also add that my
+[09:21] favorite memory stocks are Micron and
+[09:23] Seagate Technology, but all the memory
+[09:25] stocks are doing well because there's a
+[09:27] memory shortage. So hang on, enjoy the
+[09:29] ride, but it'll get a little bumpy here.
+[09:31] So now for Ubiquity, you called it one
+[09:34] of your favorite AI bargains last
+[09:36] Friday, but it dropped almost 10% on
+[09:38] earnings. What happens? Does that change
+[09:40] your thesis? Yeah, Ubiquiti pulled back
+[09:43] because when it announced, um it
+[09:46] actually missed operating earnings
+[09:47] estimates, but their sales are still
+[09:49] growing over 14.4% earnings are supposed
+[09:52] to grow about 14%. Uh we did have some
+[09:55] analyst trims. I think the stock will
+[09:57] bounce right back, mainly because they
+[09:59] make the data centers faster with all
+[10:01] their optical connections. So, but I was
+[10:04] literally trying to buy the stock on the
+[10:05] dip, and we got our dip. So, there you
+[10:08] go. Next up, we have APP and SHOP.
+[10:11] What's going on with both of them? Are
+[10:13] they still buys?
+[10:14] >> Shopify is kind of in the my doghouse
+[10:17] right now. I have still have it under
+[10:18] management. I still recommend it, but
+[10:21] I'm watching it very, very closely.
+[10:23] Their earnings surprise history is not
+[10:25] that consistent, but their underlying
+[10:27] sales and earnings remain outstanding.
+[10:30] APP is one of the best AI appliers. They
+[10:33] get hit with the uh attack on software
+[10:35] stocks, so I'm holding APP. I'm I have
+[10:38] no intention of selling it anytime soon.
+[10:40] Next up, Cardinal Health. Someone's
+[10:42] asking for your thoughts on them.
+[10:43] Cardinal Health is fine. Um
+[10:45] their sales and earnings have been
+[10:47] wonderful. Their sales are supposed to
+[10:48] be up 8.3% earnings are supposed to be
+[10:51] up 16%. Uh this is a medical equipment
+[10:54] company. It's a very conservative play.
+[10:56] So, just hang on, enjoy the ride with
+[10:58] Cardinal Health. Well, that's a wrap for
+[11:00] today of four stocks flying under the
+[11:02] radar. Your question didn't make it in
+[11:03] this video, drop them in the comments.
+[11:05] We read everything and we'll get to it
+[11:07] next week. A lot is moving in the market
+[11:10] right now, so make sure you subscribe so
+[11:11] you don't want to miss what we've got
+[11:12] coming. We'll see you this Sunday for a
+[11:14] new video. Thanks so much, everyone.

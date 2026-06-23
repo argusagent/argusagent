@@ -7,9 +7,696 @@ Type: video
 Duration: 25:06 (1506s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 688
+Transcript characters: 23950
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Are the markets flipping upside-down?
+[00:02] Bond vigilantes making a comeback? Fed
+[00:04] chair Powell says everything is fine
+[00:06] while inflation is heating up. We're
+[00:08] here to calm your nerves and answer all
+[00:09] your fears. Let's dive in. Welcome back
+[00:12] to Navigating Market Buzz.
+[00:19] So, we're in the midst of mean reversion
+[00:21] algorithms. What's up is suddenly down,
+[00:23] and the bond vigilantes are back. So,
+[00:26] let's make sense of it all. Let's start
+[00:28] out with why is the dog chasing its tail
+[00:30] here? Well, this is how market makers,
+[00:33] like Citadel, Main Street, Hudson, um,
+[00:37] Valley, Virtu Financial, for lack of a
+[00:40] better word, create artificial
+[00:41] liquidity. So, the history of Wall
+[00:43] Street
+[00:44] is we used to have these things called
+[00:46] spreads, and we still do, but they used
+[00:48] to be a lot wider. And as the
+[00:51] algorithmic firms rose, they basically
+[00:54] took over all the market making from
+[00:57] Goldman Sachs, Jefferies, Cantor
+[00:59] Fitzgerald, etc. And the algorithms are
+[01:02] the ones that create a lot of the
+[01:04] liquidity out there. And mean reversion
+[01:06] is one of their favorite things to do.
+[01:08] So, essentially, when a stock gaps up,
+[01:11] it's often hit with a mean reversion
+[01:12] program. Now, the Citadels of the world,
+[01:15] you know, hire the best from all the
+[01:17] fancy business schools, and they're not
+[01:19] hiring finance majors. They're they're
+[01:21] hiring math experts, people that are
+[01:25] experts in,
+[01:27] uh,
+[01:27] neural networks, which is non-linear
+[01:29] math. And usually, the mean reversion
+[01:31] programs will last up to 12 to 13 days,
+[01:35] but it just depends on how fast they
+[01:37] decay. What happens is as as the trade
+[01:40] becomes less predictable, more volatile,
+[01:42] they start to slowly unwind it. And, um,
+[01:45] this is just the noise in the market,
+[01:47] and it's it's a reality we have to deal
+[01:49] with. And it's like anything in life, it
+[01:51] has its limits. But, um, a lot of people
+[01:54] love to buy on dips, and, um,
+[01:57] that's what's going on. So, speaking of
+[01:59] market forces, there's a lot of chatter
+[02:01] that the bond vigilantes are back. Who
+[02:03] are they, and why do they wield so much
+[02:05] influence? These are the big
+[02:06] institutional investors out there that
+[02:08] control the bond market. And uh the bond
+[02:10] vigilantes were bothering us in April of
+[02:13] last year, almost a year ago, and that's
+[02:16] when the Treasury Secretary Scott
+[02:17] Bessent and Howard Lutnick or Commerce
+[02:20] Secretary, but Howard Lutnick's firm
+[02:22] Cantor Fitzgerald dominates uh Treasury
+[02:24] trading. But anyway, Lutnick and uh
+[02:26] Bessent had a meeting with Trump, tried
+[02:28] to tell him in a nice way he was no
+[02:30] longer in charge, and they had to shock
+[02:31] the system, and that's when Trump uh had
+[02:34] the 90-day suspension on tariffs.
+[02:36] And that ignited a big rally that
+[02:38] started uh
+[02:39] approximately a year ago.
+[02:42] The bond vigilantes are basically
+[02:45] uh people that try to drive yields
+[02:48] higher. They've been um doing that with
+[02:50] Japan because Japan's spending a lot of
+[02:52] money. Obviously, they have a shrinking
+[02:54] population, and their central bank's
+[02:56] going to do more quantitative easing.
+[02:58] They've been uh bugging Britain because
+[03:00] and all candor, Britain uh chased its
+[03:03] rich people out, and now they have fewer
+[03:05] people paying the system. They're going
+[03:06] to have to have middle-class uh tax
+[03:08] increases, and then of course, you know,
+[03:10] half of Britain can't even pay their
+[03:11] electric bill. They have to be
+[03:12] subsidized. So, uh Britain has its own
+[03:15] issues. And then uh France has its own
+[03:17] issues, too. The number of households
+[03:19] paying in taxes and everything has
+[03:21] shrunk in France. Uh their central bank
+[03:23] actually lost money because uh of the
+[03:25] yield curve, and they had to shore that
+[03:26] up with profits from their gold
+[03:28] reserves.
+[03:29] So, the bond vigilantes are always
+[03:31] looking like, "Where can we drive yields
+[03:33] higher?" So, last week we had um a
+[03:36] less-than-ideal Treasury financing, and
+[03:39] yields did meander higher. Now, since
+[03:41] that re- refinancing is over, yields are
+[03:43] coming back down, but not as much as low
+[03:46] as they were, you know, a month ago. So,
+[03:48] the bond vigilantes are always out
+[03:50] there. Now, Scott Bessent is really in
+[03:53] tune to this and he will protect us from
+[03:55] these folks, but if the bond vigilantes
+[03:58] had their way, rates would be a lot
+[04:00] higher. Here's where it gets
+[04:01] interesting. We've been talking a lot
+[04:03] about private credit, but Fed Chairman
+[04:05] Jerome Powell just said at Harvard that
+[04:07] there's no threat of a private credit
+[04:09] contagion. Do you buy that? I do, even
+[04:13] though I'm a critic of the industry, so
+[04:15] I guess I should explain. First of all,
+[04:17] after Powell said that Fitch, the
+[04:19] ratings agency, came out and says the
+[04:21] default rate
+[04:23] in private credit is about 5.8% right
+[04:25] now, but that's a vague ambiguous
+[04:27] number. A lot of people think it should
+[04:29] it's only around two, but what private
+[04:32] credit is, it's a shadow banking system
+[04:35] and the banks themselves invest in
+[04:37] private credit. You know, Jamie Dimon
+[04:39] announced that JP Morgan lost over $100
+[04:43] million in Tricolor. That was a subprime
+[04:45] auto lender went bankrupt. Western
+[04:47] Alliance has lost a lot of money with
+[04:49] First Brands. That's a big regional bank
+[04:51] out west. And the banks themselves are
+[04:54] also invested in this and facilitate
+[04:56] this. What the catalyst was behind
+[04:58] private credit was when Dodd-Frank was
+[05:00] passed. It made lending more difficult.
+[05:03] Essentially, it was hard for banks to
+[05:04] lend to people unless your credit score
+[05:06] was over 800 and perfect. So, a shadow
+[05:09] banking system emerged and the banks
+[05:12] invest in that heavily. Now, private
+[05:14] credit's also heavily involved with
+[05:16] private equity. You know, that's why KKR
+[05:18] is in the in the private credit business
+[05:21] as is, you know, Blackstone and
+[05:22] BlackRock, all kinds of firms. It's my
+[05:24] opinion that rather than have a default
+[05:27] to a customer, they will eat the losses
+[05:29] themselves and they're probably going to
+[05:31] have to lower their yields a bit. The
+[05:33] yields are up to 11%.
+[05:36] They get that high because they're
+[05:37] leveraging the loans. If they could
+[05:38] lower the loans to, you know, 7, 8%, I I
+[05:42] think it would save the industry. The
+[05:43] other conundrum is is that some of the
+[05:46] loans are variable and the theory is is
+[05:48] that as yields go higher like they did
+[05:51] last week and then it's going to be more
+[05:53] difficult for their borrowers and then
+[05:55] the default rate will increase. There is
+[05:58] a lot of in my opinion false narratives.
+[06:00] You know, there's been a lot of bashing
+[06:02] on software stocks. One time they were
+[06:04] bashing that uh you know, AI is going to
+[06:06] replace all the software companies even
+[06:08] though Jensen at
+[06:09] Nvidia said that's not going to happen.
+[06:11] I had calls with reporters yesterday
+[06:13] talking about how private credit could
+[06:16] derail software and I I says I don't
+[06:18] think so cuz the ones software stocks I
+[06:21] recommend have very good earnings still
+[06:22] surprise. So, although I'm not very
+[06:25] heavy in software to be honest with you
+[06:27] and I did sell stock called Guidewire
+[06:29] cuz it just got too volatile with that
+[06:30] that sector and then it had a 52.8%
+[06:33] surprise.
+[06:34] So, what what's happening is there's
+[06:37] just a lot of false narratives out
+[06:38] there. Private credit um worst case
+[06:41] would create a black swan event
+[06:44] where um
+[06:45] um someone would default. It it would
+[06:48] call
+[06:49] everybody running for the exits at same
+[06:51] time. The firms would have to enforce um
+[06:53] withdrawal restrictions which they are
+[06:55] now by the way. It's usually 5% a
+[06:57] quarter. And then if things got really
+[06:59] bad, the Fed would have to slash rates
+[07:00] 100 basis points to to basically save
+[07:03] the industry and the and the banking
+[07:05] industry that invests in it. So, um
+[07:07] but it this dominates Wall Street and um
+[07:10] it's $3 trillion a year. It pays the the
+[07:13] investors well. Pays the financial
+[07:16] advisors a distribute them higher than
+[07:18] they can get paid in managing stock
+[07:20] portfolio. So, I think there's this
+[07:23] feedback loop of private credit. The
+[07:24] clients like it, the advisors like it.
+[07:27] So, I think it's going to continue and I
+[07:28] think the industry will at all costs try
+[07:31] to make sure no one has a default. But
+[07:33] that's my opinion. So, we'll we'll see.
+[07:35] Obviously um
+[07:37] you know, they they plan a certain
+[07:38] default rate and we'll see where it
+[07:40] Finch got that number, 5.8%
+[07:43] Um but uh
+[07:45] that's that's the that's the key thing
+[07:47] to watch. But I do feel that we have an
+[07:49] inflation bubble brewing from higher
+[07:51] prices and energy prices. So, if
+[07:53] inflation is ticking up, why isn't
+[07:55] Powell worried? You know, he keeps
+[07:57] saying longer-term inflation
+[07:59] expectations are anchored, but what is
+[08:01] the real story? Well, that's absolutely
+[08:03] true. Uh just uh as a backdrop, February
+[08:07] producer price index, which is wholesale
+[08:09] prices uh the February import price
+[08:12] index, they all soared. Import prices
+[08:14] highest level in 4 years.
+[08:16] And that was before the war. Now we have
+[08:18] the war
+[08:19] with higher food and energy costs, and
+[08:21] food's the real problem. And uh so, the
+[08:24] March um inflation statistics are going
+[08:27] to be bad, and there is an inflation
+[08:29] bubble going through the economy. Now,
+[08:32] obviously, most of our goods are
+[08:33] transported via diesel trucks. Diesel
+[08:35] prices are up, so that's now getting
+[08:37] passed on to the price of goods. So, the
+[08:40] Fed has never ever tried to tame food or
+[08:44] energy inflation because they can't.
+[08:47] It's supply and demand, and it's as
+[08:49] simple as that. And food costs are up
+[08:50] because the fertilizer didn't get in the
+[08:52] field, and so the crop yields are down.
+[08:55] And um energy prices should moderate by
+[08:58] the fall
+[08:59] because um
+[09:01] uh you know, the uh demand drops anyway
+[09:03] in the fall, and then um
+[09:06] hopefully everything gets resolved here
+[09:07] pretty quickly. As I talked to you, you
+[09:10] know, the markets are actually firm
+[09:11] because their robots trying to charge
+[09:13] tolls to go through the Strait of
+[09:14] Hormuz.
+[09:15] A lot of people think that's a positive
+[09:16] development, okay? So, we will see.
+[09:19] Obviously, President Trump wants to come
+[09:21] to a conclusion with Iran. The New York
+[09:23] Times just reported that it's hard to
+[09:25] find the right leaders, but we'll see.
+[09:27] And a lot more ships are starting to go
+[09:29] through. China had three tankers go
+[09:31] through the other day. So, the
+[09:32] bottleneck still exists.
+[09:34] Uh a missile hit um a Kuwaiti tanker
+[09:37] full of oil.
+[09:38] It was not perfect. So, but we need to
+[09:41] get this resolved once and for all and
+[09:43] then
+[09:43] and then we need to, you know, to
+[09:45] assimilate Iran back in the world versus
+[09:48] uh
+[09:49] uh the world they used to live in which
+[09:51] was, you know, financing terrorists, you
+[09:53] know. So,
+[09:55] uh you know, the Iranian people are
+[09:56] young, they're hungry for change and
+[09:59] it'll be interesting to see what
+[10:01] happens. Now, let's pivot to some of
+[10:02] your subscriber questions. Dad, we've
+[10:04] been talking about MU, but a lot of
+[10:06] people want to know, is now the time to
+[10:07] sell? No, I'll explain it as best I can.
+[10:11] Their sales for this current quarter are
+[10:13] forecast to be up 259%.
+[10:18] Their earnings are forecast to be up
+[10:21] 890%.
+[10:24] Now, that's an acceleration from their
+[10:27] last quarter's
+[10:29] phenomenal results. The analyst
+[10:31] community continues to raise their
+[10:33] estimates dramatically higher.
+[10:35] I'll just give you a number. The last 30
+[10:38] day 30 days ago, the analysts were
+[10:40] estimating the stock would earn $9.74.
+[10:43] Now, they're estimating it's going to
+[10:44] earn $18.91.
+[10:46] So, they've
+[10:47] almost doubled
+[10:49] their earnings estimate in the last than
+[10:51] a month and I can tell you they've also
+[10:52] increased in the last 7 days. The
+[10:54] previous quarter, Micron Technology MU
+[10:57] had a 33.2% earnings surprise. They've
+[11:00] surprised the last four quarters. There
+[11:03] is a shortage of fast memory chips. So,
+[11:06] they're expanding dramatically and there
+[11:09] is not a better stock fundamentally than
+[11:11] Micron Technology. Now, memory chips are
+[11:14] historically cyclical.
+[11:16] So, this stock does not have a high
+[11:18] price-to-earnings ratio. In fact, it
+[11:20] trades at only six and a half times
+[11:22] forecasted earnings. So, this is not a
+[11:24] bubble stock. This is not overpriced.
+[11:27] Now, I guess the difference is I believe
+[11:30] in fundamentals. I live and die by them,
+[11:33] and I don't get distracted by the noise.
+[11:35] Obviously, if you just sit here and
+[11:36] you're trying to trade the stock, you're
+[11:38] very frustrated. You know, earnings come
+[11:41] out, stocks wake up, and it'll be fine.
+[11:43] And I will admit that Micron has gone
+[11:45] down since its last spectacular earnings
+[11:47] announcement, but it's a great buy. And
+[11:49] the demand is real. So, whether it's the
+[11:51] mean reversion algorithms or other
+[11:53] things jerking the stock around, you
+[11:54] know, I I just stick to the fundamentals
+[11:57] and keep my head down, and that's made
+[11:59] me successful. So, I'm looking forward
+[12:02] to its earnings. By the way, it's it's
+[12:04] the strongest
+[12:05] it's my strongest stock for sales and
+[12:07] earnings at this moment.
+[12:08] >> Now, just to clear up everything about
+[12:10] MU, what is their near and mid-term
+[12:12] future in light of Google's news about
+[12:14] storage and power usage? That doesn't
+[12:17] affect MU because their order backlog is
+[12:19] ridiculous. Okay, a lot of the stocks we
+[12:21] recommend in the data center world have
+[12:24] these incredible order backlogs. So, if
+[12:27] Google has to take a stutter step
+[12:29] because they have to delay some of their
+[12:32] build out because of
+[12:34] electricity shortages or just different
+[12:36] planning, that's fine, okay? But, the
+[12:39] order backlog for data centers is
+[12:41] ridiculous, and that's what's fueling,
+[12:44] you know, MU, that's what's fueling
+[12:46] Comfort Systems, that's FIIX, that's
+[12:49] what's fueling um
+[12:50] Vertiv Holdings, VRT. I mean, I have a
+[12:53] lot of data center-related stocks, but
+[12:56] all of them have one thing in common,
+[12:58] which is massive order backlogs. So,
+[13:02] again, Google's still investing in AI,
+[13:05] they're not backing off, but any of
+[13:07] these companies that have have these
+[13:09] incredible order backlogs, that's real
+[13:12] sales and earnings that's going to
+[13:13] materialize in the upcoming quarters,
+[13:15] and MU is going to fulfill that, and
+[13:18] they are and that stock should be
+[13:19] rewarded for that. Now, what are your
+[13:21] thoughts on BBAI? Well, obviously it's
+[13:24] an AI-related stock, but their sales are
+[13:26] forecast to drop um
+[13:29] three uh 0.3% and I can't get an
+[13:32] earnings estimate on it and that's not a
+[13:34] good sign. I'm also noticing that its
+[13:36] sales are been declining in the last
+[13:39] four quarters. So, this is a theme
+[13:41] stock. It's something I wouldn't buy cuz
+[13:43] it doesn't have the fundamentals I
+[13:44] demand. So, um
+[13:47] I I have no expectations for the stock.
+[13:50] I will admit that it did surprise the
+[13:52] past couple quarters, but before that it
+[13:54] used to disappoint. So, you know, when
+[13:57] it has strong sales, strong earnings,
+[13:58] margin expansion, positive analyst
+[14:00] revisions, a good surprise history, I'll
+[14:02] be all over it, but right now there's
+[14:04] nothing here. So, I may never be in this
+[14:06] stock.
+[14:07] >> Can you talk about the EOSE lawsuit and
+[14:10] their potential energy fundamentals
+[14:12] long-term? All right, here's the deal on
+[14:15] um EOSE. They've uh missed the last
+[14:17] three quarters, okay? And that's bad,
+[14:20] but they say their sales are going to be
+[14:21] up 431.2%,
+[14:23] but unfortunately their earnings are
+[14:25] supposed to drop 475.7%
+[14:29] and the analyst community is slashing
+[14:30] their estimates. Just for reference, um
+[14:33] a month ago, they're estimating a loss
+[14:35] of 8 cents a share and now they're
+[14:37] estimating a loss of 24 cents a share.
+[14:40] So, this is a problem, okay? If So, I
+[14:44] don't want to go anywhere near the
+[14:45] stock. It doesn't surprise, it doesn't
+[14:48] have sales or earnings, and of course it
+[14:50] has a cloud because some people are
+[14:52] accusing it of not having the best
+[14:54] accounting standards. So, yeah, just
+[14:56] ignore this one. So, someone has the
+[14:58] ability to purchase the S&P 500 or the
+[15:01] Nasdaq 100. Do you believe that these
+[15:04] two indices during this very turbulent
+[15:06] times is something that they should
+[15:08] continue to hold or buy? Our stock
+[15:11] grader testing, showing a chart of our
+[15:13] latest testing of stock grader, uh shows
+[15:16] that uh you have to be in the top 10% of
+[15:18] stocks. And neither the QQQ
+[15:22] or S&P 500 is going to get you there,
+[15:25] okay? So,
+[15:27] by definition, probably should be in the
+[15:29] top 10 of the NASDAQ 100
+[15:33] and the top 50 of the S&P
+[15:35] based on stock grade. And we'd have to
+[15:36] run the actual stocks and see what
+[15:38] shakes out. So, no, don't buy the
+[15:40] indices. It's un-American. There's one
+[15:43] other big problem with these indices,
+[15:45] especially if you buy the ETF versions
+[15:47] of them, which is called the bid-ask
+[15:49] spreads. Our friends at Bespoke have
+[15:51] documented that if you buy these these
+[15:54] very popular ETFs at the morning and
+[15:56] sell them at the close every day for
+[15:58] living around forever, the 40-plus
+[16:00] years, you actually lose money, okay?
+[16:03] Because the daily spreads are bigger
+[16:04] than daily performance. So, if you buy
+[16:07] any of these things, I'd rather you buy
+[16:09] it in a mutual fund that doesn't have
+[16:11] the spread, okay? That the ETFs would
+[16:13] have. But no, the market right now is
+[16:15] too narrow to buy any index. And our
+[16:19] stock grader chart says it all. You
+[16:20] know, the top 10% is the place to be.
+[16:22] So, APPB dropped to a C in your stock
+[16:25] grader. Is that a sign that someone
+[16:27] should sell? No, because I'm overriding
+[16:30] it due to the fundamentals. You know,
+[16:31] when you show our
+[16:33] charts of what works on Wall Street, the
+[16:35] stock grader back test and the back test
+[16:37] that rate eight-factor fundamental
+[16:39] model. Uh Apple Loving would fall in the
+[16:41] top 30% of our fundamental model.
+[16:44] And that's why we have hold it. And uh
+[16:46] their sales are forecast to be 19.3.
+[16:49] Their earnings are forecast to be up uh
+[16:50] 52.7.
+[16:52] And the analyst community still revise
+[16:54] their earnings estimates higher. I'll
+[16:56] give you an example. A month ago it was
+[16:58] $3.12.
+[17:00] Now it's $3.64.
+[17:02] And I would also add they've been
+[17:03] revising estimates higher in the last 7
+[17:05] days. Apple Loving has a very good
+[17:07] earnings surprise history. Last quarter
+[17:09] it was up uh 11.9%.
+[17:12] So, I wouldn't sell Apple Loving because
+[17:14] of the sales, forecast of sales,
+[17:17] earnings, positive analyst earnings
+[17:18] revisions, and it's good surprise
+[17:20] history. Now, what happened to AppLovin?
+[17:22] It is an AI applier, so is Palantir, and
+[17:25] when everybody was out bashing software
+[17:29] that AI is going to replace all the
+[17:30] software companies, even though AppLovin
+[17:33] and Palantir AI appliers, they they
+[17:36] threw the baby out with the bathwater,
+[17:38] and these are classic examples of stocks
+[17:40] that got hit that shouldn't have gotten
+[17:42] hit. But, you know, the market is a
+[17:45] matter of crowd, an ETF is a big basket
+[17:47] of stocks, and, you know, obviously a a
+[17:50] problem that one stock might have can
+[17:52] hurt another one. A a classic example is
+[17:55] a lot of the cybersecurity stocks, which
+[17:57] are uh software companies, have been
+[17:58] having some issues lately, and that has
+[18:01] nothing to do with AppLovin and
+[18:02] Palantir. So, no, I'm holding AppLovin
+[18:05] and Palantir cuz they're the best AI
+[18:07] appliers. We are very happy that you are
+[18:09] putting your stocks into Stock Grader.
+[18:11] Dad, what day of the week is that
+[18:13] usually updated? It's updated on the on
+[18:15] the weekends. There's There's new grades
+[18:16] every Sunday. Given the risk of quantum
+[18:18] security, how do you feel about KTOS?
+[18:21] Well, uh we'll just look at the
+[18:24] fundamentals, we'll get come back to
+[18:25] quantum in a bit. Uh sales are supposed
+[18:27] to be up uh 13.8%.
+[18:31] Um earnings are supposed to be up 11.3.
+[18:34] Analysts have trimmed their estimates
+[18:36] from 16 cents to 13 cents in the last 60
+[18:39] days. But with that said, this stock has
+[18:41] a good surprise history and did beat by
+[18:44] 22% last quarter. So, as far as um
+[18:47] quantum computing is concerned, you
+[18:49] know, I'm not that worried about
+[18:50] security because it doesn't really exist
+[18:53] yet. You know, we'll deal with this in
+[18:56] the future when it all evolves. Now,
+[19:00] Rigetti is supposed to got an order from
+[19:03] the Defense Department for encryption of
+[19:06] um for all the fighter jets. One of the
+[19:08] things that's interesting is this
+[19:10] company KTOS does have current contracts
+[19:13] with the military and we have a friend
+[19:15] in Reno who is in the cloud computing
+[19:17] business and they do the encryption for
+[19:20] the airplanes right now, the fighter
+[19:22] jets and all and and they're they're
+[19:24] going to make that encryption different
+[19:26] when quantum computing comes out but
+[19:28] this company has a very good defense
+[19:30] business because what's going on I would
+[19:33] suspect is going to continue to surprise
+[19:35] but it's absolute sales and earnings
+[19:37] growth are not interesting to me at this
+[19:39] moment. But I suspect they they will
+[19:42] continue to surprise because
+[19:45] they have all that business with the
+[19:46] military. And last but not least since
+[19:48] Sunday is Easter Sunday and we have been
+[19:50] talking about some of these stocks that
+[19:53] like bunnies they sit they hop when are
+[19:55] you expecting some of these stocks to
+[19:56] start hopping? Well, obviously the
+[19:59] market's oscillating now because the
+[20:01] news coming out of the Middle East is
+[20:03] erratic. So I think we can expect
+[20:06] oscillations to continue. Normally we
+[20:08] oscillate to the trading volume dries up
+[20:10] but in this case it's going to be more
+[20:12] event driven. Obviously April 6th is a
+[20:14] key date cuz
+[20:16] that's the day President Trump says make
+[20:18] a deal or I'm going to start to bomb
+[20:20] your electric facilities and other
+[20:22] facilities and
+[20:24] obviously he doesn't want to hurt the
+[20:25] people of Iran but he wants them to you
+[20:28] know take over their government and etc.
+[20:30] So hopefully he's negotiating with the
+[20:32] right people and hopefully there's a
+[20:33] successful resolution of this. You know
+[20:35] what's interesting is Israel's going to
+[20:38] keep trying to take out certain leaders
+[20:41] the Iranian Republican Guard and the
+[20:44] IRGC and uh um you know there's a bit of
+[20:47] a push pull going on here between uh
+[20:51] US has one objective Israel has another
+[20:53] objective but hopefully you know the
+[20:55] Strait of Hormuz opens umbers resumes.
+[20:57] This is really really hurting um
+[21:00] Europe it's hurting uh
+[21:02] India it's hurting China. China gets 80%
+[21:05] of its oil from from through the Strait
+[21:07] of Hormuz. And then it believe it or not
+[21:09] it's going to hurt California cuz with
+[21:11] all the refinery shutdowns and pipeline
+[21:13] shutdowns, although California did open
+[21:15] a new pipeline. The Trump administration
+[21:17] did that. Um
+[21:19] a pipeline from Santa Barbara oil fields
+[21:21] back up. Chevron's refining that oil. Um
+[21:24] California still has to import up to 30%
+[21:27] of its gasoline. And they're getting
+[21:29] most of it from Korea, some probably
+[21:30] from India. And so they're going to have
+[21:33] $8 gas
+[21:34] while this is going on. So cuz they
+[21:37] there's no pipeline from Montana or
+[21:39] Texas to California for oil. So um
+[21:42] our refined products.
+[21:43] Uh
+[21:44] this is going to be very interesting. So
+[21:46] it's it is affecting the West Coast as
+[21:48] well.
+[21:49] So if you live out there, sorry about
+[21:50] the prices at the pump.
+[21:52] You know, they are up everywhere. It's
+[21:54] over $4 a gallon on nationally. So we
+[21:56] all know that volatility is
+[21:57] uncomfortable, but it's also normal. So
+[22:00] informed investors who stay calm and
+[22:02] stick to their strategy always come out
+[22:03] ahead. We're not here to sugarcoat the
+[22:06] risk, we're here to help you understand
+[22:07] them so that you can make smart
+[22:09] decisions. Keep your head on straight,
+[22:11] don't panic sell. Dad, don't you believe
+[22:13] that every pullback in history has been
+[22:15] a buying opportunity in hindsight? Yes,
+[22:18] especially for fundamentally superior
+[22:19] stocks because again fundamentally
+[22:21] superior stocks bounce like fresh tennis
+[22:23] balls and bad stocks bounce like rocks.
+[22:26] So the key is make sure you don't have
+[22:27] any rocks in your portfolio. And that's
+[22:30] pretty simple. Not only can you go to
+[22:32] Stock Raider and check your stocks, you
+[22:34] can save your portfolio. And so you
+[22:36] don't have to re-key it in every week,
+[22:37] okay?
+[22:39] And what we really want you to do is use
+[22:42] Stock Raider, save your portfolio, check
+[22:44] it every week. First you can make
+[22:46] additions and
+[22:47] um and delete stocks. And we want you to
+[22:50] start running your portfolio like it's a
+[22:52] sports team. So if you have a sports
+[22:54] team, you're going to want the best
+[22:55] players on the field. And we want you to
+[22:57] have the best stocks in your portfolio.
+[22:59] And and we say, you know, your best
+[23:01] defense is a strong offense and we're
+[23:03] very, very sincere about that. And then
+[23:06] just let the
+[23:08] their earnings come out. Now, we you're
+[23:09] going to have a correction every year or
+[23:10] so. It is what it is and what we found
+[23:14] is that when the markets correct 5%
+[23:17] resilient and fight that. When it starts
+[23:19] to correct, you know, 10% or more, they
+[23:21] start to throw the baby out with the
+[23:22] bathwater and and the good stocks will
+[23:25] will temporarily get hit, but then they
+[23:26] bounce back so much faster. What gives
+[23:29] me staying power is the fundamentals.
+[23:31] And I try to ignore all the noise.
+[23:32] Obviously, I comment on the noise. I do
+[23:34] podcasts and and
+[23:36] hotlines trying to tell everybody what's
+[23:37] going on, but the truth of the matter is
+[23:40] is as long as you have fundamental
+[23:41] support stocks, you're going to do a lot
+[23:42] better. And then the real key long-term
+[23:45] is to find some monopolies to make you
+[23:47] rich.
+[23:48] You know, Peter Thiel
+[23:50] made it very clear when he invests, he
+[23:52] invests in monopolies. He doesn't want
+[23:53] to compete. He wants to dominate. And
+[23:55] there are a lot of legal monopolies in
+[23:57] America. Okay? I would argue Palantir at
+[24:00] this moment is a monopoly. I would argue
+[24:02] that Nvidia is a monopoly. You could
+[24:06] have seen the entire tech industry has
+[24:08] been trying to
+[24:09] get the protection of the Trump
+[24:10] administration
+[24:12] cuz a lot of them are monopolies because
+[24:15] they're being attacked by Europe and the
+[24:16] digital
+[24:17] services act and other things and
+[24:20] they don't like being fined and
+[24:22] all that stuff in other countries. So,
+[24:25] it's very interesting to watch how our
+[24:27] government will also try to protect some
+[24:29] of our our big tech firms out there. But
+[24:31] yeah, if you invest in monopolies,
+[24:34] you'll get rich and you can also get
+[24:36] rich following billionaires. I'm
+[24:38] following two right now. One is Jensen
+[24:41] from Nvidia and one is Alex Karp from
+[24:43] Palantir. So, stay disciplined, stay
+[24:45] informed, and we'll see you this Sunday
+[24:47] with a special guest that I've been
+[24:49] seeing a lot of you request. So, that'll
+[24:50] be a fun one. Make sure to hit that like
+[24:52] button and drop any questions, of
+[24:54] course, if you have. Subscribe if you
+[24:56] haven't already and we will see you this
+[24:57] Sunday for a new video.

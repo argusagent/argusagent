@@ -7,9 +7,571 @@ Type: video
 Duration: 21:36 (1296s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 563
+Transcript characters: 20064
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Markets are spinning on Fed drama. Bond
+[00:02] yields are surging and a big week of
+[00:05] data and earnings are ahead. Plus,
+[00:07] Nvidia's monster AI deal and the next
+[00:10] wave of companies actually using AI to
+[00:14] win big. Let's dive in. Welcome back to
+[00:16] Navier Market Buzz.
+[00:18] [Applause]
+[00:18] [Music]
+[00:30] Last week, good news turned into some
+[00:33] bad news. Bond yields jumped and the Fed
+[00:36] cut hope sank. What's really going on?
+[00:38] >> The economic news was too good. Um, new
+[00:41] home sales surged. Um, apparently
+[00:43] they're discounting homes to sell them.
+[00:45] 39% of new homes are being discounted up
+[00:47] to 5% according to home builders
+[00:50] association. Durable goods were
+[00:52] shockingly strong. How military orders
+[00:54] were up 50%. Uh uh transportation orders
+[00:57] up 79. That's Boeing. We back all that
+[01:00] out though. Um core capital goods were
+[01:03] still up 610 of a percent. So it was
+[01:04] very very strong. And um uh you know the
+[01:08] Fed really needs to see weak labor
+[01:10] markets unless we get a weak payroll
+[01:12] report uh on Friday. We're not going to
+[01:16] get a Fed cut um because the the
+[01:18] economic gap is too strong. One last
+[01:20] thing, they revised a second quarter GDP
+[01:23] up to 3.8%.
+[01:25] And we're going to have big upward uh
+[01:27] revisions to our GDP. Um the other
+[01:30] reason is that the trade deficit fell
+[01:31] dramatically um in in July and uh that's
+[01:35] going to cause another big upward
+[01:36] revision. So we're we're pushing 4% GDP
+[01:39] growth right now and that's with a weak
+[01:41] housing market. So if we ever fix
+[01:43] housing, we're going to be at 5% GDP
+[01:44] growth.
+[01:45] >> Speaking of home sales, they seem to be
+[01:47] soaring. Is housing coming back or is
+[01:49] this just a bump?
+[01:50] >> It was just the new home sales. Existing
+[01:52] home sales does remain weak. I was uh
+[01:55] actually in Santa Rosa not that long ago
+[01:57] and they have all these beautiful homes
+[01:59] and the oak trees and you can't sell
+[02:01] them because you can't get insurance
+[02:03] because you know that area burned up and
+[02:05] it's very sad to see a a beautiful
+[02:07] community with uh you know just an
+[02:11] untold number of homes for sale because
+[02:13] people can't get insurance and you can't
+[02:15] get insurance you can't get mortgage
+[02:16] financing. So there are other things
+[02:19] weighing on the housing market but uh
+[02:21] the main thing is is still
+[02:22] affordability. Now, durable goods popped
+[02:25] on aircraft orders. Is this real
+[02:27] strength?
+[02:28] >> Yeah, because the core rate was up um
+[02:31] 610 of a percent. We back out both uh
+[02:34] military and transportation of 4/10, but
+[02:37] yeah, it was pretty strong across the
+[02:39] board.
+[02:40] >> And the trade deficit just hit a 2-year
+[02:43] low. How big of a deal is that?
+[02:44] >> Well, we had imports fall 7%. And we had
+[02:48] exports fall, I think, 1.3%. But that's
+[02:51] a big component of the GDP calculations.
+[02:53] And
+[02:55] you know, we still think there's
+[02:56] disruptions from the tariffs, but it's
+[03:00] adding to GDP growth at this moment.
+[03:02] >> And jobless claims dropped again. Is the
+[03:05] labor market still too hot?
+[03:07] >> Well, weekly uh jobless claims are very
+[03:10] erratic. As you know, living in New York
+[03:13] with all your friends, you know, the job
+[03:15] market's not perfect. Okay. So, a lot of
+[03:17] companies are just cautious until
+[03:19] everything settles down. You know, the
+[03:21] rules are still changing. You know,
+[03:22] President Trump just imposed 100%
+[03:25] tariffs on branded pharmaceuticals if
+[03:27] they don't manufacture in America. Now,
+[03:30] he'll he'll wave it if they are breaking
+[03:31] ground on a new plant. But clearly, all
+[03:34] the pharmaceutical manufacturing in
+[03:36] China, Ireland, Switzerland has to move
+[03:38] to the United States. Lily is leading
+[03:40] the way on that front. So, that causes
+[03:42] uncertainty and then you just slap the
+[03:44] tariffs on furniture. So stocks like
+[03:46] Restoration Hardware got hit pretty hard
+[03:49] and uh most furniture is is made in in
+[03:52] Asia. We'll see if we can get that on
+[03:54] short as well.
+[03:55] >> And the Atlanta Fed's GDP is now out.
+[03:58] Are we headed for a strong third
+[03:59] quarter?
+[04:00] >> Oh, yeah. Yeah, we are uh approaching 4%
+[04:03] GDP growth. Um I don't care what the
+[04:05] Atlanta Fed says right now, but they've
+[04:07] been revising it higher as we speak
+[04:09] here. They we have another revision
+[04:11] coming, but uh that's an amazing amazing
+[04:14] GDP growth. So all this onshoring is
+[04:16] real and it's mostly automotive,
+[04:19] pharma and of course uh all the data
+[04:22] center boom and a lot of companies have
+[04:24] to rush to break their ground this year
+[04:25] because they want to expense it this
+[04:27] year.
+[04:28] >> Even Moran is calling for a massive
+[04:30] 50point rate cut. Is there any chance
+[04:32] that he gets it?
+[04:34] >> He actually called for a series of 50
+[04:36] point rate cuts
+[04:38] or 50 basis might rate cuts. Now, he's
+[04:40] probably not going to get it, but he
+[04:42] made a very good argument that something
+[04:44] out there could be looming. And he
+[04:46] didn't say it, but I think he's worried
+[04:47] about a credit crisis. We had a subprime
+[04:51] lender in Texas file for liquidation,
+[04:54] and that's hurting Black Rockck and JP
+[04:56] Morgan. According to the media, we just
+[04:58] had CarMax announced very disappointing
+[05:00] results. I don't know if the failure
+[05:02] that subprime lender was part of it but
+[05:05] uh you know what's happened in America
+[05:08] is DoddFrank has made lending through
+[05:10] banks very difficult and if your credit
+[05:13] score is not perfect you know it's not
+[05:15] above 800 the banks don't want to lend
+[05:17] to you so if you're 798 they'll pass you
+[05:21] off to the private credit folks and
+[05:22] they'll mark up the loan and then they
+[05:25] sell the loans back to their investors
+[05:28] they're paying up to 11% because are
+[05:30] leveraging uh these loans. And this is a
+[05:34] $3 trillion year industry. But right
+[05:36] now, you can go get 11% yield. You just
+[05:38] walk into any Morgan Stanley,
+[05:42] Maril Lynch, UBS office, and they'll get
+[05:45] you 11% yield. Now, they're starting to
+[05:46] charge upfront placement fees for that,
+[05:49] sometimes up to 2%. Uh and um so just be
+[05:53] aware of that. The problem is leverage
+[05:56] loans don't always end well, okay? And
+[05:59] there is a default right now. Last I
+[06:01] looked it was 72. I'm sure it's up to
+[06:02] nine. I haven't got the latest data. And
+[06:05] eventually one of these big private
+[06:06] credit folks are going to fall. And I
+[06:08] think that's what Steve Moran is worried
+[06:10] about because if the private credit
+[06:12] industry has a a mini black swan event,
+[06:15] which where everybody stops lending, uh
+[06:17] the Fed's going to have to slash at
+[06:18] least 100 basis points. And he wants to
+[06:21] be prepared for that. And I don't think
+[06:22] the Fed is prepared. Now this week we
+[06:25] have consumer confidence, the ISM
+[06:27] manufacturing, ADP payrolls, and the big
+[06:30] jobs report. Which one do you think
+[06:32] could shock the market?
+[06:34] >> Well, I expect uh consumer confidence to
+[06:36] be good. Uh we had personal spending
+[06:38] just come out and it was up 4/10 of a
+[06:40] percent. Uh that that's uh personal
+[06:42] income's up 4/10 of a percent. Spending
+[06:44] was up 610 actually uh according to the
+[06:47] data. So that means consumers are are
+[06:49] spending more than they're getting. So
+[06:51] that's a good sign. Consumer confidence
+[06:52] is going to be fine. Uh ADP data is is
+[06:55] going to be a big deal. Okay. Uh I love
+[06:58] that data because it's clean and then
+[07:00] the payroll data will be the biggest
+[07:02] deal. Hopefully the new uh guy running
+[07:04] the labor department's going to give us
+[07:06] clean data without a lot of seasonal
+[07:07] adjustments. I do expect ISM
+[07:10] manufacturing to turn up. has to turn up
+[07:12] because we just had military orders up
+[07:14] 50%. And we just had uh you know
+[07:18] transportation mostly Boeing up 7.9%. So
+[07:22] we're going to get a good ISM
+[07:23] manufacturing report. But yeah,
+[07:25] everything next week is all about that
+[07:27] payroll report.
+[07:28] >> Now we're getting a lot of requests for
+[07:30] stock picks. So let's talk AI defense
+[07:32] and data centers. Who are the winners?
+[07:35] Well, AI is obviously led by U Nvidia
+[07:38] and they had the big announcement uh
+[07:41] that there's 100 billion. It's going to
+[07:44] be invested with Open AI and they
+[07:46] literally said they're going to sell
+[07:47] millions of their GPUs, millions.
+[07:50] So, that got Nvidia all excited, but
+[07:53] Nvidia has a monopoly on the good AI
+[07:55] chips um that require the machine
+[07:58] learning. You know, you can buy the
+[08:00] companies that are Nibidious customers
+[08:02] like the super micro computer which are
+[08:04] installing their rack systems in the
+[08:06] data centers. I have plenty of stocks
+[08:09] that are built building the data
+[08:11] centers. A couple new ones, well, I've
+[08:13] had recommend this one for a while, but
+[08:14] a good buy at this moment is Bloom
+[08:16] Energy. They make the they work with
+[08:19] Oracle on the on the data centers and
+[08:21] they have these fuel cells to make them
+[08:24] more efficient and greener and all that
+[08:25] good stuff. So Bloom Energy got hit this
+[08:28] week on valuation concerns, but it's a
+[08:30] good buy near-term and has explosive
+[08:33] forecast sales and earnings growth. The
+[08:35] other one is UI. It deals with speeding
+[08:38] up all the cabling and everything in the
+[08:40] data centers. One of the issues with the
+[08:43] internet is as we speed it up, we have
+[08:45] to change all our hardware. So when you
+[08:48] go from one gig to two gigs, if you want
+[08:50] to get your full speed, you got to get
+[08:52] faster routers. you got to get sometimes
+[08:55] faster Ethernet cables, but the data
+[08:58] centers are fiber optic and they they're
+[09:00] running, you know, uh 10 gigs and up to
+[09:03] 10 gigs or so. So, they really really
+[09:06] have to have all this great hardware
+[09:08] that EY makes. So, those are two new
+[09:10] ones and we've talked about a lot of
+[09:12] them in the past, but we have several
+[09:14] stocks that benefit from the data center
+[09:16] buildup.
+[09:16] >> Nvidia is also leading in quantum while
+[09:18] D-Wave just won a programming contest.
+[09:21] Who wins the quantum race?
+[09:23] >> We don't know. We know and Q they pack
+[09:26] they figured out how to package data for
+[09:28] the the quantum programming that's
+[09:30] called quidbits. They're getting
+[09:33] contracts. DW is getting contracts.
+[09:35] Regetti is getting contracts. So there's
+[09:37] no earnings yet but there at least their
+[09:39] sales especially with Q and Dwave. But
+[09:43] um yeah, Nvidia has a quantum cloud
+[09:45] simulator and had a quantum day earlier
+[09:49] in the year and DWave won that
+[09:51] programming contest. So that was very
+[09:53] very impressive and that's QBTS and uh
+[09:56] we've written all these special reports
+[09:58] on them but we want to remind everybody
+[10:01] these things are not these companies not
+[10:03] making money yet. So they're exciting.
+[10:06] Okay. But it would help to make money.
+[10:09] And why quantum computing would be a big
+[10:11] deal is Nvidia said that after the next
+[10:14] two uh chips they announced, one in two
+[10:18] mid 2016 and one in 2018, they don't
+[10:21] expect they'll be able to make the chips
+[10:23] much faster because the transistors on
+[10:26] the are approaching the atomic level. So
+[10:28] you can't split an atom to make a chip
+[10:30] faster. So the next uh trick will be to
+[10:34] go to quantum computing where you use a
+[10:36] one and a zero instead of a one or a
+[10:38] zero. So um uh that's what's coming and
+[10:43] uh you know hopefully they make money in
+[10:46] 5 years or so but uh that's the the
+[10:48] track you're on right now.
+[10:51] >> And here's the real question. Beyond the
+[10:53] giants, who are the best AI appliers
+[10:55] turning this tech into profits right
+[10:57] now? apploving. A is definitely in that
+[11:00] camp. I would put in Guidewire GWRE.
+[11:04] They had blowout earnings.
+[11:06] I would also site Robin Hood, which is
+[11:09] benefiting from the cryptoboom
+[11:12] getting everything legal. And then
+[11:14] finally, we have Spotify. Spotify is a
+[11:16] little tricky because they tend not to
+[11:19] beat analyst estimates or the analysts
+[11:22] can't figure out what they're doing. But
+[11:24] uh yeah, a lot of businesses set up on
+[11:26] Spotify and they have very smart AI. The
+[11:28] way the future's going is direct sales
+[11:31] are better than storefront sales and
+[11:34] that's part of the productivity miracle
+[11:36] that's going on in America and AI is
+[11:38] part of that.
+[11:38] >> Now, let's get into some earning
+[11:40] announcements. Carnival is very
+[11:42] interesting to me because I see at least
+[11:44] two of their ships pass by my apartment
+[11:46] in New York City. So, will their cruises
+[11:48] keep sailing past expectations?
+[11:50] >> Oh, yeah. Yeah. Sales are forecast to be
+[11:53] up 2.7%.
+[11:55] Earnings are forecast to be up 3.7.
+[11:57] Steady ounce estimates. But this
+[12:00] company's had massive earnings surprises
+[12:02] in the past 3/4.
+[12:04] So I they must be making all their money
+[12:06] on drinks or something. You know, those
+[12:08] cruise ships get a little rowdy, you
+[12:10] know. So, uh hopefully you're waving at
+[12:13] them as they pass.
+[12:14] >> Now, Lamb Weston fries are their game,
+[12:17] but are sales slipping? Yeah, their
+[12:19] sales are forecast to climb 2.3%.
+[12:22] Earnings are forecast to decline 26.9%.
+[12:25] There's been some recent analyst cuts,
+[12:28] but the company's posted two huge
+[12:30] earning surprises in the past two
+[12:31] quarters. So, let's face it, we are not
+[12:34] potato experts, okay? And um and fries,
+[12:39] frozen French fries are somewhat of a
+[12:41] luxury item, okay? and they sell a lot
+[12:43] to of course the restaurants and all
+[12:45] too, but let's just see what they have
+[12:47] to say. You know, there's been some
+[12:48] issues with the potato supplies in the
+[12:51] past and that's sent the prices soaring.
+[12:53] So, they haven't returned to where they
+[12:55] once were. So, maybe maybe they'll give
+[12:57] us some good guidance. I do like the
+[12:59] fact that surprises
+[13:00] >> and Nike sales and profits may be
+[13:02] limping, but do you think that they can
+[13:05] push through this? Well, this is a
+[13:07] company like Lamb and Wesson. Um,
+[13:10] because they're when you look at them,
+[13:11] they don't look that good, but then they
+[13:14] surprise. So, Nike's sales are forecast
+[13:16] to drop 5.2. Earnings are forecasted to
+[13:20] decline 61.5. Steady estimates, but
+[13:23] their surprises in the past four
+[13:25] quarters have been ridiculous. You know,
+[13:27] some companies just don't have a good
+[13:29] relationship with the analyst community,
+[13:31] and the analyst community just doesn't
+[13:33] know what to do. So, let's just see what
+[13:34] Nike says and let's see what their
+[13:36] guidance is going to be.
+[13:38] >> Now, RPM International, they've had some
+[13:41] good history, but are they still running
+[13:43] smoothly?
+[13:44] >> Yeah, this company of course provides
+[13:46] lubricants, okay, for machines and
+[13:49] equipment to keep everything running a
+[13:51] little better than it should. And, uh,
+[13:54] their sales are forecast to go up 4.4%,
+[13:56] earnings are forecasted to go up 2.3.
+[13:59] Steady estimates. Um
+[14:03] they did surprise last quarter so
+[14:05] they'll probably be okay.
+[14:07] >> Now Kagra, are we expecting a third
+[14:10] miss?
+[14:11] >> Oh god, what a mess. Um you know Kagra
+[14:15] is a big multinational and as soon as
+[14:18] you leave the United States, economies
+[14:20] are weak. Um and that's been weighing on
+[14:22] a lot of these multinationals.
+[14:25] Their sales are forecast to decline 4%.
+[14:28] Earnings are forecast to decline 37.3%
+[14:31] missed in the past two quarters. You
+[14:33] know, Trump is now offering uh some
+[14:36] relief to farmers via the tariff
+[14:38] revenue. Uh you may know that we're not
+[14:41] selling soybeans to China because we're
+[14:43] arguing with China and so the farmers
+[14:46] are really hurting and of course prices
+[14:48] are soft because it rained a lot and we
+[14:50] have too much corn.
+[14:51] >> Now, Calm Mine Foods you've talked about
+[14:53] quite a bit. Can you expect another
+[14:55] strong report? I hope so. Their sales
+[14:58] are forecast to rise uh 21.2%.
+[15:01] Um I own the stock under and manage
+[15:04] accounts. It's really more of a dividend
+[15:05] stock, but uh they've had big analyst
+[15:08] upgrades and they have a they had a big
+[15:10] earning surprise last quarter. The
+[15:12] problem with Cal Main is it's the
+[15:14] biggest egg supplier in the US. So the
+[15:17] birds cannot get sick. Okay? If the
+[15:20] birds get sick, um we got to make sure
+[15:23] they don't get sick in their hen houses.
+[15:24] So, egg prices are still relatively
+[15:28] high. It has very good earnings in the
+[15:30] pipeline, but let's just hope the
+[15:33] chickens stay healthy. By the way, one
+[15:35] thing I did notice in Santa Rosa,
+[15:37] walking around the neighborhood I was
+[15:39] at, I had no idea chickens can get that
+[15:41] big. So, they are breeding monster
+[15:43] chickens out there.
+[15:44] >> And lastly, Levi. Will Levi pull off
+[15:47] another surprise? Yeah, their sales are
+[15:49] forecast to decline um 1.3%, earnings
+[15:53] are forecast to decline 3.3%.
+[15:55] But they got steady analyst estimates
+[15:57] and they've had two big surprises in the
+[15:59] past two quarters. So whoever the
+[16:01] analysts are covering a lot of these
+[16:03] stocks, they're not doing a good job.
+[16:05] Okay? And everybody should know how you
+[16:08] get good analyst coverage is you need
+[16:10] money from Wall Street. when you need
+[16:12] money on Wall Street and you're doing
+[16:14] secondary stock offerings or bond
+[16:16] offerings, they actually know what
+[16:18] you're doing. And then when you're not
+[16:20] going back to them for money, they
+[16:22] sometimes they forget about what you're
+[16:24] doing. So, I don't want to blame these
+[16:26] companies for the guidance. It could be
+[16:28] could be them, could be the analysts,
+[16:30] but uh you know, it's funny these last
+[16:33] couple stocks and Carnival, they just
+[16:35] have these ridiculous earning surprises.
+[16:37] And I don't know why the ALS community
+[16:39] can't hit the broad side of the barn.
+[16:41] >> Now, let's move on to subscriber
+[16:42] questions. Can you please analyze NQ?
+[16:46] >> Yeah. Well, obviously got a big
+[16:48] contract. It's how you package uh data
+[16:51] for a quantum programming. It's the
+[16:53] quantum uh computing leader. The other
+[16:56] companies are are working on the
+[16:59] programming languages and that's really
+[17:00] what it's all about. Who has the best
+[17:02] way to program quantum computers? But
+[17:05] Quidbits isQ's
+[17:07] accepted method to package data for the
+[17:10] quantum computing. So, so they won that
+[17:12] already. And um we don't expect anybody
+[17:14] to compete with or make a better
+[17:16] quidbit. So, uh and again, they they
+[17:19] also got a nice government contract the
+[17:22] other day. So, it's a leader. Uh I think
+[17:24] D-Wave is a leader. Uh and we're getting
+[17:26] starting to get some contracts, but
+[17:28] right now Q and Dwave are have the
+[17:31] strongest sales growth. IO andQ did have
+[17:34] um a secondary stock offering that got
+[17:36] everybody excited a few months ago and
+[17:38] it's been going higher since then. So,
+[17:40] Wall Street is eager to lend it money.
+[17:43] So, this is a a very serious company. I
+[17:45] tend not to put these stocks in manage
+[17:48] accounts till they earn money, but we've
+[17:50] written a lot of special reports on them
+[17:52] and we're very proud that we were early
+[17:54] and these stocks have gone up more than
+[17:56] a,000% since we wrote those reports.
+[17:58] Another one of our subscribers brought
+[18:00] up how Henry Dent predicts a huge stock
+[18:03] market crash. What are your thoughts on
+[18:05] that?
+[18:05] >> That's a very good question. Henry
+[18:07] Dent's always been promoting a stock
+[18:09] market crash. Henry Dent is a
+[18:11] demographer and he's been very correct
+[18:14] that there is a demographic problem in
+[18:16] the world. We don't make enough kids.
+[18:18] And so we're not replacing households.
+[18:20] We're losing households. And that's not
+[18:22] so much in America yet, but that's uh
+[18:25] common throughout Asia and especially
+[18:27] Northern Europe. So when you lose
+[18:30] households, it's very very hard to grow
+[18:33] your economy. Japan may be the
+[18:34] exception. They have the highest birth
+[18:36] rate in Asia, but not enough to replace
+[18:38] households. But they've had massive
+[18:40] productivity gains. So if we have
+[18:42] productivity gains with our our aging
+[18:45] demographics, we can still grow. Okay?
+[18:49] And I think that's going to be the key.
+[18:50] So AI is important. Okay. The other
+[18:54] comment I'd have is that the US is an
+[18:56] oasis in the world. What do we have that
+[18:59] the rest of the world doesn't have?
+[19:00] Well, we still have two very pro- family
+[19:02] regions, the South and and the Mountain
+[19:04] West. They do create a lot of
+[19:06] households. That's why Utah has been the
+[19:08] fastest growing state in America for
+[19:10] decades. Uh and household information is
+[19:12] good for economic growth. Uh we also do
+[19:14] assimilate the our immigrants. I realize
+[19:16] President Trump wants them to be legal
+[19:18] now. Okay. So there's a bit of a
+[19:20] reorganization there, but you know, the
+[19:23] US is still very pro- immigration and
+[19:26] the immigrants now just have to be
+[19:27] legal, have green cards. So or or the
+[19:30] temporary work permits and stuff. So
+[19:32] we'll see how that happens, but we're
+[19:34] just in better shape. Other countries
+[19:36] are well in Asia, they tend not to have
+[19:38] immigration, and then in Europe, they
+[19:41] have immigration, but they're not
+[19:42] assimilating those immigrants lately in
+[19:44] Britain and France and Germany. So
+[19:47] there's some issues. Whatever Harry Gent
+[19:49] worrying about warning about it really
+[19:52] doesn't pertain to America.
+[19:54] >> And lastly, one of our subscribers
+[19:56] wanted to know if investors should buy
+[19:57] gold and silver for investment
+[19:59] protection or both.
+[20:01] >> I would rather you just buy gold. Uh
+[20:03] silver is uh much more volatile. I know
+[20:06] it's doing well, but it's much more
+[20:08] volatile. And gold's doing well because
+[20:10] central banks are hoarding gold. And uh
+[20:12] when you buy gold, please be careful of
+[20:15] the markup. Obviously, you can buy gold
+[20:17] at Costco with minimal markup. Uh so
+[20:20] that you might want to try to do that or
+[20:22] if you have a trusted gold dealer, make
+[20:24] sure the markups are very reasonable and
+[20:27] um your coins will have a bigger markup
+[20:30] than your bars. So I'd rather you buy
+[20:32] predominantly gold bars, but we'll see
+[20:34] what they give you deal they give you on
+[20:35] the gold coins. I'd like it on mostly
+[20:37] physical gold. I'm recommending eight
+[20:40] gold stocks. That's another way to do
+[20:41] it. And um the the best one is Kin
+[20:43] Cross, KGC, just so you know. And could
+[20:46] Navagler Gold Service make a comeback?
+[20:49] >> Yeah, we used to sell gold direct and
+[20:51] then we sold that business to Blanchard.
+[20:53] You know, Blanchard, they do the
+[20:54] conferences down New Orleans and all the
+[20:58] it was an interesting business we were
+[20:59] in. We wanted people to buy physical
+[21:01] gold without a big markup. But in the
+[21:02] end, you have to have big economies of
+[21:04] scale. So that's why we sold out to
+[21:06] Blanch.
+[21:06] >> Well, the Fed is cutting, AI's climbing,
+[21:09] and earnings are cracking. We'll see
+[21:11] what holds up next week. Make sure to
+[21:13] give this video a like and subscribe if
+[21:15] you haven't already. If you want us to
+[21:17] answer any of your questions, leave them
+[21:18] in the comments below. But until then,
+[21:20] we'll see you all next week for a new
+[21:21] video.
+[21:22] [Applause]
+[21:23] [Music]

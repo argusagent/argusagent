@@ -7,9 +7,25 @@ Type: short
 Duration: 0:46 (46s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 17
+Transcript characters: 611
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Hi, it's Louis Navalier. Welcome to
+[00:02] Mast's Weekend. Well, we had a wonderful
+[00:05] CPI report. What it did is it actually
+[00:08] declined when it comes expected to
+[00:11] increase. Energy costs fell 2.4% thanks
+[00:14] to a 6.3% decline in gas prices. Food
+[00:19] costs were up 4/10en of a percent, but
+[00:20] there were other green shoots like
+[00:22] falling airplane fairs, um, uh, lower
+[00:26] um, used car prices. The best thing
+[00:29] though was owner's equivalent rent. It
+[00:31] rose at the lowest pace since November
+[00:34] 2021. And that's been the real catalyst
+[00:37] behind consumer inflation. So now
+[00:39] consumer inflation is running at the
+[00:41] lowest rate in a few years. So the Fed
+[00:43] will cut rates in May.

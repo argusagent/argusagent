@@ -7,9 +7,428 @@ Type: video
 Duration: 14:41 (881s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 420
+Transcript characters: 14748
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Broadcom earnings and fell. Ciena nearly
+[00:02] tripled its earnings and still fell, but
+[00:05] five AI infrastructure stocks are
+[00:07] telling a completely different story
+[00:09] right now. And one of them we just
+[00:11] bought. Dad, what is Wall Street
+[00:13] actually rewarding right now?
+[00:14] >> It's rewarding smaller companies that
+[00:17] have bigger beats and and obviously
+[00:18] strong guidance. So, we are in the midst
+[00:21] of some profit taking in AI leaders,
+[00:24] mostly large cap, but the smaller ones
+[00:27] are still rallying. So, there's nothing
+[00:29] wrong with the market. It just has to
+[00:31] burp from time to time and money's not
+[00:33] leaving the market. It's just being
+[00:35] reshuffled. And it looks like the
+[00:37] market's trying to to broaden out, but
+[00:39] uh yeah, if you missed out on some of
+[00:41] the big AI stocks, now's your chance to
+[00:44] buy them on a pullback. The ones
+[00:46] I talked to you right now that are
+[00:48] running are mostly small cap ones.
+[00:49] >> Let's start out with Broadcom and Ciena
+[00:51] because both of these companies had
+[00:53] monster quarters, but both sold off.
+[00:55] What happened? Let's start out with
+[00:56] Broadcom.
+[00:57] >> Yeah, they had another impressive
+[00:59] quarter. Their revenue was up 48%. Their
+[01:01] earnings were up 54%. Their management
+[01:04] raised guidance, but this stock was
+[01:06] priced for perfection and some analysts
+[01:08] wanted even stronger guidance. And so,
+[01:11] they decided to take profits in it. And
+[01:13] I think that's unfortunate, but uh
+[01:15] obviously Broadcom will be is a good buy
+[01:17] now on this pullback, but anytime a
+[01:19] stock runs up, it usually has to give
+[01:21] back at least a third of its gains. So,
+[01:23] that's all that's going on.
+[01:25] >> Ciena almost made Broadcom's quarter
+[01:27] look modest. Earnings up nearly 300% and
+[01:29] it still went down.
+[01:31] >> Yeah, obviously Ciena uh had stunning
+[01:33] sales, phenomenal earnings, guided
+[01:36] higher, and it got shot, too. Now, this
+[01:38] is a
+[01:39] a large cap stock and they specialize in
+[01:42] optical connections to speed up the data
+[01:44] centers. And
+[01:46] they just got thrown in with the AI
+[01:48] correction, but the bottom line is the
+[01:52] ones that are rallying are the ones that
+[01:53] guided well above analyst estimates, but
+[01:56] only the small caps are rallying as I
+[01:58] speak to you.
+[01:58] >> So, the market punished two companies
+[02:00] that by any normal standard had great
+[02:03] quarters, but something else caught your
+[02:04] attention that reacted completely
+[02:06] different.
+[02:07] >> Yeah, Argan it's AGX. I've had the stock
+[02:10] for some time. They had a a blowout
+[02:12] quarter. Just so you know, their revenue
+[02:15] was up over 50%. Their earnings more
+[02:18] than doubled. But what really got
+[02:20] everybody excited was all the orders in
+[02:22] the pipeline. So, Argan actually builds
+[02:25] the data centers. And uh you're showing
+[02:27] a chart from Bespoke that the AI
+[02:29] infrastructure companies, the companies
+[02:31] building out the data centers, are doing
+[02:33] better than the actual AI stocks. So,
+[02:35] this is kind of like the California gold
+[02:37] rush. What happened is everybody ran to
+[02:40] California to find gold in the 1800s,
+[02:42] but the people that sold, you know, the
+[02:44] jeans and picks and shovels to the
+[02:46] miners made more money than the actual
+[02:48] miners. So, even though we're in the
+[02:50] midst of an AI boom and these these mega
+[02:52] caps doing phenomenal, the ones that are
+[02:55] building things out, believe it or not,
+[02:57] the AI infrastructure stocks are the
+[02:59] best performers according to Bespoke.
+[03:01] >> So, if Argan is the proof point, your
+[03:03] model found four more names just like it
+[03:05] and one you actually bought. Let's get
+[03:08] into them. Let's start out with Quanta
+[03:10] Services. This is essentially the
+[03:11] company rewiring America for AI.
+[03:15] >> Exactly. So, as AI data centers continue
+[03:18] to consume more electricity, utilities
+[03:20] need major transmission and grid
+[03:23] upgrades. And Quanta's one of the
+[03:25] leading companies helping make that
+[03:27] happen. And their sales are forecast to
+[03:29] grow 27.2%.
+[03:31] Their earnings are forecast to grow
+[03:32] 33.4%.
+[03:34] They have positive analyst revisions and
+[03:36] a very good earnings surprise history.
+[03:37] So, this is a a solid AI infrastructure
+[03:40] stock.
+[03:40] >> So, AI isn't just a technology story.
+[03:43] It's an energy story. And Quanta sits
+[03:46] right in the middle of that. What about
+[03:47] on the cooling side because data centers
+[03:49] run incredibly hot?
+[03:51] >> Yeah, we talked about a Comfort Systems,
+[03:53] which is F I X quite a bit, but
+[03:55] basically they their job is to cool the
+[03:58] data centers. And also I would add that
+[04:00] Super Micro Computer makes these cooling
+[04:03] systems. The data centers tend to go
+[04:05] into deserts so they can vent the heat
+[04:07] at night, but obviously you need a lot
+[04:10] of air conditioning, that's what a
+[04:11] Comfort Systems provides. They're
+[04:13] basically an H V A C company. And their
+[04:15] sales are forecast to be up 36.8%.
+[04:19] Their earnings are forecast to be up
+[04:20] 59.6. They've got positive analyst
+[04:22] revisions, and again a very good
+[04:24] earnings surprise history. So again,
+[04:26] another great A I infrastructure play, F
+[04:29] I X.
+[04:29] >> Nearly 60% forecasted earnings growth,
+[04:32] and most people watching have probably
+[04:34] never heard of this company. Cooling has
+[04:36] become one of the biggest bottlenecks in
+[04:38] the entire A I build out. And what's
+[04:40] interesting is that the stock you
+[04:42] recently bought actually has an even
+[04:44] faster projected earnings growth than
+[04:46] Comfort Systems. We'll get to that name
+[04:48] in just a few minutes, but what about
+[04:50] electrical infrastructure side?
+[04:52] >> Well, one of the new A I related stocks
+[04:54] we have is this Enphase Electric. N V T
+[04:57] is the symbol. It is a British company,
+[05:00] but they provide critical electrical and
+[05:02] power management solutions. The data
+[05:05] center boom is a worldwide boom, but
+[05:07] Enphase does sell their equipment in
+[05:09] America as well. Their sales are
+[05:10] forecast to grow 30.2%.
+[05:13] Their earnings are forecast to grow
+[05:14] 34.7. Again, positive analyst revisions
+[05:17] and good earnings surprise history. So
+[05:19] it's checking all my boxes, and that's
+[05:21] why I'm recommending it. And again, it's
+[05:23] an A I infrastructure company.
+[05:25] >> So another way to own the A I boom
+[05:27] without touching a single chip maker.
+[05:29] You also got a large scale contractor in
+[05:32] the mix.
+[05:32] >> Yeah, that's MasTec, M T Z. They're
+[05:34] actually based in Miami. Interesting
+[05:36] thing about MasTec, if we do try to help
+[05:40] Cuba eventually, cuz they have a power
+[05:42] grid problem, we suspect MasTec might
+[05:44] get the contracts cuz the whole Cuban
+[05:47] power grid has to
+[05:48] built. But they're involved in
+[05:50] communications, energy, and
+[05:52] infrastructure pro- uh projects. Their
+[05:54] sales are forecast to be up by 21.4%
+[05:57] earnings supposed to be 49.3. Again,
+[06:00] positive balance revisions and a strong
+[06:02] earnings outlook, good surprises. So,
+[06:05] I'm very, very pleased with this stock,
+[06:06] MT.
+[06:07] >> Four strong names, and remarkably, the
+[06:09] stock you actually bought has the
+[06:11] highest projected earnings growth of any
+[06:13] company we discussed so far. That's
+[06:16] next.
+[06:16] >> Yeah, I think this stock is going to be
+[06:18] one that folks will find most
+[06:20] interesting.
+[06:20] >> So, this is not a chip company, and it's
+[06:22] not a software company, and it's not
+[06:24] even on that Bespoke chart. What is it,
+[06:26] and why did your model flag it?
+[06:28] >> Well, they showed up on my model for two
+[06:30] reasons. One, it has a high quantitative
+[06:32] score, which means uh there's a lot of
+[06:35] institutional buying pressure. It's a
+[06:36] essentially a high alpha stock moving
+[06:38] independent of the market. Alpha divided
+[06:40] by volatility is my quantitative ratio,
+[06:43] and when there's a lot of pressure for
+[06:45] risk goes down, and certain beta should
+[06:47] goes down, so that stocks move up in my
+[06:49] system. So, it showed up on that first,
+[06:51] but then it checked all the boxes on my
+[06:53] eight-factor fundamental model, and so
+[06:55] that's why I recommended it. Now, this
+[06:57] is uh Sterling Infrastructure, STRL.
+[07:00] This company has a 60.4% forecasted
+[07:03] sales growth, 97.3% forecasted earnings
+[07:06] growth, very strong earnings surprise
+[07:08] history. The company is benefiting from
+[07:10] all the data center construction. They
+[07:12] do all all kinds of other infrastructure
+[07:15] uh building, and they also involved in
+[07:17] logistics. They are helping the all the
+[07:20] online retailers. So, when they build
+[07:22] the the warehouses for online retailing
+[07:25] with the robots and everything, this is
+[07:27] actually Sterling's expertise. Uh so,
+[07:29] they are making us more productive in
+[07:30] the world. It's an interesting stock,
+[07:33] and uh it's one of my new
+[07:34] recommendations.
+[07:35] >> 97 forecasted earnings growth, this is a
+[07:38] pretty big one, which actually leads us
+[07:40] perfectly into what your Stock Greater
+[07:43] back test just confirmed.
+[07:44] >> Yeah, so since everybody knows at the
+[07:47] end of each quarterly earning season, we
+[07:50] we retest Stock Greater to figure out
+[07:52] how deep can we data mine. And I'm proud
+[07:55] to say that the top 20% of Stock Greater
+[07:58] is the place to be. Those are the
+[07:59] A-rated stocks. The top 10% is slightly
+[08:02] better, but uh this the system did
+[08:04] broaden out. The previous quarter was
+[08:06] top 10, now it's top 20, but again, if
+[08:08] you only bought the top 10, you did
+[08:10] slightly better. The uh fundamental
+[08:12] model has really broadened out. There
+[08:14] you can be in the top 65%. So, when we
+[08:17] structure our portfolios, we just need
+[08:18] to know how deep can we data mine. And
+[08:22] we're running the portfolio like it's a
+[08:23] sports team, you know, we will sell a
+[08:25] good stock to buy a better stock, and we
+[08:28] just have to to know how how deep can we
+[08:31] dive, and and that's what's going on.
+[08:33] So, I I think it's good that the
+[08:34] market's broadening out. It helps lift
+[08:37] more boats, and
+[08:39] I'm very very proud of Stock Greater. It
+[08:41] continues to work remarkably well.
+[08:43] >> So, this data is essentially validating
+[08:45] everything we just walked through.
+[08:46] Before we wrap, payroll just came out.
+[08:49] Does this give you some more confidence?
+[08:51] >> Yeah, it does. I was on the Fox Business
+[08:54] panel with Steve Moore
+[08:56] and much better experts when the payroll
+[08:57] report came out on Friday, and it was
+[09:00] stunning. It was almost double analyst
+[09:03] expectations, but the big news is they
+[09:05] revised March and April higher. So, we
+[09:08] have three very strong months of payroll
+[09:11] growth. Now, unemployment remained at
+[09:13] 4.3, wage growth was up 3/10 of an
+[09:16] actually 12 12 cents an hour, and wage
+[09:18] growth is continues to be somewhat
+[09:20] suppressed, which is good. Because you
+[09:21] don't want if there's wage inflation,
+[09:23] the the Fed can't really cut rates. But,
+[09:26] we do think the Fed will be cutting
+[09:28] rates later in the year when this
+[09:30] transitory inflation dissipates, as
+[09:32] Scott Bessent at Treasury Secretary has
+[09:34] been talking about. But, in the wake of
+[09:36] that very strong payroll report and the
+[09:38] upward revisions
+[09:39] for March and April, bond yields did go
+[09:42] higher. And so
+[09:44] that kind of freezes the Fed, so that's
+[09:47] why they can't cut at this moment. Now,
+[09:49] Kevin Warsh is our new Fed chairman,
+[09:50] it's up to him to run around get a
+[09:52] consensus. His thing is that AI is going
+[09:55] to lead to incredible productivity and
+[09:57] GDP gains, but that AI is not
+[10:00] non-inflationary. The other comment, and
+[10:02] I mentioned this on Fox, is that when
+[10:05] you leave the United States,
+[10:07] economic growth is sputtering. You know,
+[10:08] Canada has slipped into a recession,
+[10:10] Britain's really hurting.
+[10:13] It's just very sad to watch what's going
+[10:14] on with Britain. And retail sales fell
+[10:17] in Europe, and so they might be slipping
+[10:19] into a recession as well. The real
+[10:21] problem with the world is just
+[10:22] demographics.
+[10:24] Northern Europe, Canada, Japan, and
+[10:27] actually the rest of Asia, they're
+[10:28] losing households. Their societies are
+[10:30] shrinking. They didn't have enough kids.
+[10:32] In India and America, we're still
+[10:34] growing in population. And
+[10:37] although India's urbanizing really
+[10:38] quickly in the the faster you urbanize,
+[10:40] the using the fewer kids you have. And
+[10:42] so we're just obviously waste this out
+[10:44] there, and we were not affected by the
+[10:46] situation Iran. It didn't affect our
+[10:49] food and and energy production at all.
+[10:51] So I think this is a good development.
+[10:54] I'm watching the the US dollar very
+[10:56] carefully. It's strengthening especially
+[10:58] against the Japanese yen. So things that
+[11:00] we import are going to be more
+[11:01] deflationary because the strong dollar.
+[11:04] And when the whole world slows down,
+[11:06] which is mostly demographically driven,
+[11:09] what happens is that is deflationary.
+[11:11] And so I think we're going to be
+[11:13] importing
+[11:14] deflation. I don't think inflation is a
+[11:16] threat. It's just a temporary because of
+[11:19] the situation the straight arrow
+[11:20] removes. But in May, uh crude oil prices
+[11:22] fell quite a bit, and I do expect a a
+[11:25] big drop right after Labor Day cuz world
+[11:27] wide demand will drop. So I know
+[11:29] President Trump is frustrated by the the
+[11:31] perception that there's a lot of energy
+[11:33] inflation, but I I want to assure
+[11:35] everybody it's dissipating here pretty
+[11:36] quickly.
+[11:37] >> Before we end, I want to ask two
+[11:39] subscriber questions. First up, what are
+[11:41] your current thoughts on D-Wave?
+[11:43] >> Well, D-Wave was one of the
+[11:44] beneficiaries of the Trump
+[11:46] administration investing in quantum
+[11:48] computing. They got a hundred million
+[11:50] dollars from the government. They had to
+[11:52] give up equity to to get that money.
+[11:55] Cuz that's how Trump operates. Their
+[11:57] sales are forecast to go up 34.1. Their
+[12:00] earnings are forecast to decline uh
+[12:02] 13.4. Now, I should add that that means
+[12:05] that
+[12:06] their earnings are going to be down, but
+[12:08] they they're going to be losing less
+[12:09] money, I guess is always the way I want
+[12:11] to say it. This company is not going to
+[12:13] be profitable till maybe 2030, 2032 best
+[12:16] case.
+[12:17] So, everybody's trying to figure out how
+[12:18] to program quantum computers right now.
+[12:21] I NQ makes something called quidbits,
+[12:23] which is how package data. D-Wave won
+[12:25] the programming contest. Rigetti is
+[12:28] viewed as the encryption expert. But,
+[12:30] the bottom line is you're you're betting
+[12:32] on technology with D-Wave, and it's not
+[12:35] in my managed accounts or in any of my
+[12:38] newsletters right now cuz it doesn't
+[12:39] earn money. When it earns money, I will
+[12:42] add it. But, we have done a lot of
+[12:44] special reports on quantum computing cuz
+[12:46] everybody wants to know what the hell's
+[12:47] going on. Your safest bets, if you want
+[12:50] to profit from quantum computing, is to
+[12:52] just to buy Google and Nvidia because I
+[12:55] think those two companies will will be
+[12:57] the leaders. But, uh as we were
+[12:59] discussing today, you know, the AI
+[13:00] stocks, you know, the the small cap ones
+[13:03] are doing better than the large cap
+[13:04] ones. So, there will be windows here
+[13:06] where where D-Wave just has these
+[13:08] incredible runs. And the when it was
+[13:10] announced that the Trump administration
+[13:11] was investing in the company, uh it did
+[13:14] pop over 24% that day.
+[13:15] >> And lastly, do you have any thoughts on
+[13:17] CRWV,
+[13:19] Coreweave?
+[13:20] >> Coreweave is not recommended in my
+[13:22] newsletters um or under management, but
+[13:26] their sales are supposed to up 11.5%
+[13:28] next quarter, so that's good.
+[13:31] Earnings is supposed to decline to a
+[13:32] 94.5, that's not good. Their earnings
+[13:36] estimates have been lowered from
+[13:37] actually minus 77 cents 90 days ago to a
+[13:41] dollar three a share negative last few
+[13:44] days. So, this is why I don't own this
+[13:46] stock is because it's not earning money
+[13:48] yet. But, it has explosive sales growth.
+[13:51] Now, with that said, it also has missed
+[13:54] analyst estimates the last two quarters.
+[13:56] Actually, it's missed three of the last
+[13:58] four. But, that's why I don't own it.
+[13:59] It's not checking all my boxes in the
+[14:01] eight-factor fundamental model.
+[14:02] >> Well, Broadcom and Ciena reminded us
+[14:05] this week that strong earnings alone
+[14:07] aren't always enough. The money is
+[14:09] flowing to the companies building AI's
+[14:11] physical foundation, and today Louis
+[14:13] walked us through five of them.
+[14:15] According to both Wall Street estimates
+[14:17] and Louis' latest Stock Radar research,
+[14:19] these companies continue benefiting from
+[14:21] one of the most powerful investment
+[14:23] trends in the market. Links to Louis'
+[14:25] research are in the description, as
+[14:27] always. Quick question before we go,
+[14:29] which of these five stocks are you
+[14:30] watching? Drop the ticker in the
+[14:32] comments below. If you have any
+[14:33] questions, please also leave them in the
+[14:35] comments. Give this video a like and
+[14:37] subscribe if you haven't already, but
+[14:39] we'll see you this Wednesday for a new
+[14:40] video.

@@ -7,9 +7,204 @@ Type: video
 Duration: 8:29 (509s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 196
+Transcript characters: 6973
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:06] hello everyone welcome back to navali
+[00:07] Market buuz episode 6 I'm Crystal navier
+[00:10] and I'm joined again this week with my
+[00:11] father Lou navier this week was quite
+[00:14] the roller
+[00:16] coaster yeah it started off on a kind of
+[00:19] a weak note because we had a poor U
+[00:21] manufacturing report from ISM
+[00:24] discouraging and then of course uh Iran
+[00:26] retaliate against Israel Israel of
+[00:29] course sucess shot down all those
+[00:31] missiles but uh we ended the week with u
+[00:35] upbeat economic news uh strong ISM um
+[00:38] service report strongest uh I've seen in
+[00:41] U over 18 months and then uh we had a
+[00:45] better than expected payroll report but
+[00:48] the big impact on the financial markets
+[00:51] was surging treasury bond yields and uh
+[00:54] the yield curve is now quite
+[00:56] steep yeah can you talk a little bit
+[00:59] more about why they're
+[01:00] in sure uh well first of all there's
+[01:04] tremendous mortgage demand because uh
+[01:07] before last week uh long-term bond
+[01:10] yields fell for eight consecutive weeks
+[01:13] and uh so so everybody's out refinancing
+[01:16] their mortgage okay for lack of a better
+[01:17] word so that's one thing but it's we're
+[01:19] also hyper sensitive to any positive
+[01:22] economic news and we're going to have
+[01:24] inflation reports later this week and uh
+[01:27] I think they'll be okay but uh clearly
+[01:30] oil prices shot up over 10% biggest
+[01:34] increase this year uh because of the
+[01:36] conflict in the Middle East so what this
+[01:38] is all all means is that there's a fear
+[01:41] that between economic growth and
+[01:43] inflation rate igniting that uh that's
+[01:47] it's putting upward pressure on bond
+[01:48] yields but the short end of the what we
+[01:51] call the treasury curve is uh still well
+[01:53] behaved this is the part that the FED
+[01:56] influences and everybody knows there's
+[01:57] another rate cut coming uh two days
+[02:00] after the
+[02:01] election now what are your expectations
+[02:03] for GDP
+[02:05] growth well uh you're showing the
+[02:08] Atlanta fed um flash estimate and it's
+[02:12] not that high right now but I expect an
+[02:14] upward revision on Monday I'm sure we'll
+[02:16] get back to 3% we're going to have a a
+[02:18] trade report uh this week and it's going
+[02:20] to show um our trade deficit and that
+[02:24] has an incredible impact on GDP growth
+[02:28] largely because the um we export a lot
+[02:32] of Energy Products uh we're uh a lot of
+[02:35] refined product we export we export
+[02:38] crude oil and uh we do export LNG and of
+[02:42] course that's one of the fights we're
+[02:44] having this election because the B
+[02:46] Administration tried to stop LG
+[02:48] expansion they got overd by the courts
+[02:50] but they are still actively appealing
+[02:52] that to the Supreme Court and um uh and
+[02:55] this is one of the reasons the the
+[02:57] election is so confusing because no
+[03:00] matter what KLA is saying the B
+[03:01] Administration is doing the opposite and
+[03:04] uh so that's that's kamla's problem be
+[03:07] honest with you if and when we resume
+[03:09] our LG exports and expand them it's
+[03:12] really going to help GDP growth
+[03:14] immensely you mentioned that crude oil
+[03:16] prices had the biggest weekly increase
+[03:18] this
+[03:18] year yeah that's right that's because of
+[03:21] all the tension between Israel and Iran
+[03:23] and of course Iran did launch missiles
+[03:26] into Israel and just like what happened
+[03:28] in April Israel shot a down but Israel
+[03:31] is going to retaliate that's very clear
+[03:34] uh the B Administration was warning
+[03:36] Israel not to attack the nuclear
+[03:37] facilities and later last week they
+[03:39] warned them not to attack the oil
+[03:41] facilities I don't think Israel is going
+[03:43] to attack the oil facilities anyway um
+[03:46] if anything they'll attack uh the
+[03:47] Iranian Republican guard
+[03:49] targets uh and they still might attack
+[03:52] the nuclear facility targets no matter
+[03:54] the warning for the B
+[03:56] administration because um uh they don't
+[04:00] want Iran to develop nuclear weapons and
+[04:02] they're getting closer and closer and um
+[04:06] it'll be interesting to see what happens
+[04:08] the um supreme leader in in Iran is
+[04:11] apparently in a bunker uh they might try
+[04:13] to take him out just like they took out
+[04:15] the leader of Hamas and Hezbollah uh and
+[04:18] um we'll see what happens uh you know
+[04:22] it's this might as well come to an end
+[04:25] you know it's uh Iran was always
+[04:27] attacking Israel through proxies to
+[04:29] their proxies have been virtually
+[04:32] eliminated and now Iran and Israel
+[04:35] fighing directs so this is going to get
+[04:37] very interesting and
+[04:38] um I I expect Israel to be very
+[04:41] successful in their strike of course I'd
+[04:44] love to know what your predictions are
+[04:45] for the September CPI and PPI
+[04:47] reports I expect them to be favorable
+[04:50] larg because Energy prices were pretty
+[04:52] contained until late September when the
+[04:55] Middle East uh uh drama picked up but um
+[04:59] we are having some demand push inflation
+[05:02] if if economic growth re accelerates
+[05:05] right now what's keeping inflation low
+[05:07] is a weak China a weak Europe a lack
+[05:10] luster uh us manufacturing um activity
+[05:14] right now inflation's in check but uh we
+[05:17] might have some demand push inflation so
+[05:19] September may be the last month where we
+[05:21] have truly truly a wonderful CPI and PPI
+[05:27] reports now I think we have to talk
+[05:30] about um your favorite stock nvidia's
+[05:32] founder said that the demand for the
+[05:35] Blackwell chip was
+[05:36] insane that's correct uh he said that on
+[05:40] CNBC and um obviously that helped lift
+[05:43] the entire Tech sector and especially
+[05:45] nedia um now what's interesting is uh
+[05:49] the fourth quarter which will be
+[05:50] announced in January will uh have the
+[05:54] best blackw will chip sales but
+[05:56] hopefully some are going to creep in
+[05:57] this current report that they'll
+[05:59] announce now nid doesn't announce till
+[06:01] late so we're talking about the the
+[06:04] third week of November so we we still
+[06:06] have a ways to wait what are your
+[06:08] expectations for Bank earning
+[06:10] announcements this week they should be
+[06:12] excellent because the yield curve favors
+[06:14] uh Banks so when you get a a normal
+[06:17] yield curve and short-term rates fall it
+[06:19] feels their profits the only glitch is
+[06:23] consumer defaults and uh the banks might
+[06:26] have to increase their default reserves
+[06:28] uh based on how consumers are behaving
+[06:31] now the Philly fed keeps saying that 30
+[06:34] 60 90day defaults or delinquencies have
+[06:37] been rising so um we have to keep an eye
+[06:40] on that and uh you know this is um um a
+[06:45] part of the economy that's
+[06:47] um still struggling so it's mostly
+[06:50] people your age under 30 that accumulate
+[06:52] credit card debt and can't make ends
+[06:54] meet well I would love to conclude this
+[06:57] week by asking you what are your
+[06:58] favorite stock picks
+[07:01] well I think the gold stocks are
+[07:02] probably your Best near-term Buys when
+[07:04] the bond yields were surging uh they
+[07:06] were actually settling back down so
+[07:09] that's um a stock like AGI uh a those
+[07:13] are the ticker symbols idrs another one
+[07:16] so those are three of my favorite uh
+[07:19] gold related stocks there's a copper
+[07:21] stock we have that will have stunning uh
+[07:24] sales and earnings bvn uh copper prices
+[07:27] are hyper sensitive to the economy
+[07:30] copper goes into everything you know our
+[07:32] vehicles our our homes and so it's
+[07:36] economic activity picks up copper demand
+[07:38] picks up but uh bbn's U um looking
+[07:42] pretty good here and we do expect
+[07:44] economic activity pick up because of all
+[07:46] this stimulus China's putting their
+[07:49] economy uh obviously our economies seems
+[07:52] to be reaccelerating here uh based on
+[07:54] the ism service report and uh we'll get
+[07:58] an upbeat GDP report uh from Atlanta Fed
+[08:02] so uh these are all phenomenal Buys near
+[08:06] term perfect well thank you so much for
+[08:09] answering all my questions and thank you
+[08:11] to you all again for liking and
+[08:13] subscribing once again if you do have
+[08:14] any questions um that you want us to
+[08:16] answer next week please leave them in
+[08:18] the comments below but until then we'll
+[08:20] see you next week thank you so much

@@ -7,9 +7,495 @@ Type: video
 Duration: 17:09 (1029s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 487
+Transcript characters: 17081
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] SpaceX is about to drop on June 12th,
+[00:02] potentially the biggest IPO in the
+[00:04] history of the stock market. So, while
+[00:06] every retail investor on the planet is
+[00:08] going to be fighting over space shares
+[00:10] on IPO day, you're quietly loading up on
+[00:12] something different. What do you know
+[00:14] that they don't?
+[00:15] >> Well, as exciting as this SpaceX IPO
+[00:17] might be, I prefer just to play the boom
+[00:19] via the suppliers. So, I have two
+[00:22] companies I recommend that
+[00:24] are experts in titanium and all kinds of
+[00:27] metals used in both aerospace and and
+[00:31] rockets.
+[00:31] >> Okay, but walk me back. What does SpaceX
+[00:34] actually do? Well, they launch these big
+[00:35] mega rockets into space and uh
+[00:39] most of them are launched from Texas. I
+[00:41] don't know if you remember a while ago
+[00:43] he had a a rocket take off and it just
+[00:46] blew out huge chunks of concrete from
+[00:48] the launchpad that traveled as far as 2
+[00:51] mi away. I think one of the chunks of
+[00:52] concrete hit a van, destroyed it. But,
+[00:55] Elon is
+[00:56] making a splash with these big rockets
+[00:58] and obviously save money with his
+[01:00] launches and satellites and things.
+[01:03] And he can do it cheaper than the US
+[01:04] government. He's obviously he sells to
+[01:06] the US government.
+[01:08] I guess the excitement over the IPO is
+[01:10] is interesting because there's 21
+[01:12] underwriters. Those are brokerage firms
+[01:14] like Goldman Sachs.
+[01:15] When you go public, there's a
+[01:18] 6% syndicate, which is how much money
+[01:20] they charge to take you public. So, a
+[01:22] trillion dollar IPO is 60 billion
+[01:24] dollars for all these firms. So, that
+[01:27] means that Goldman Sachs and Morgan
+[01:29] Stanley and are going to be announcing
+[01:31] unbelievable underwriting commissions
+[01:34] because there's 21 firms part of this
+[01:36] deal. And I guess the real question is
+[01:39] is the excitement over the underwriter
+[01:41] profits or is it under the the actual
+[01:43] IPO? I would respectfully argue that
+[01:45] Wall Street's excited cuz they're going
+[01:46] to make 60 billion dollars. But, they
+[01:49] have got investors all excited as well
+[01:52] and there's a FOMO thing, a fear of
+[01:54] missing out. And obviously
+[01:56] uh lot of people are running around
+[01:58] telling you how to buy SpaceX before the
+[02:01] IPO.
+[02:01] >> We've gotten a lot of subscriber
+[02:02] questions specifically asking, are you
+[02:04] going to be buying the SpaceX IPO?
+[02:07] >> No, I cannot calculate risk on IPOs. I
+[02:10] usually will
+[02:11] or so for the stock to
+[02:13] to be publicly traded so I can properly
+[02:15] calculate risk. The typical pattern of
+[02:17] the IPO you need to get higher so it
+[02:19] will back and fill and then I need to
+[02:22] check out the financials, okay? And see
+[02:24] how they rank in my eight factor
+[02:26] fundamental model. I miss all IPOs for
+[02:28] lack of a better word and there will be
+[02:30] a better window. I guess the excitement
+[02:32] right now is
+[02:33] who has SpaceX shares prior to the IPO
+[02:37] and and probably the
+[02:39] the biggest one is Ron Baron. He runs a
+[02:41] a mutual fund company. I think he's got
+[02:43] 55 billion or so under management. The
+[02:45] SEC allows you to put up to 15% of some
+[02:49] of your funds that's to be chartered
+[02:50] this way in in the companies that are
+[02:52] private. So, again, there's ads all over
+[02:55] the internet how to get in
+[02:57] the SpaceX IPO before before it happens
+[03:01] and the answer is you can buy one of the
+[03:03] Baron funds that all holds it and he
+[03:05] also manages ETFs as well. He He's a
+[03:08] nice guy. He's a interesting guy. He's
+[03:10] set to make a lot of money off of this
+[03:12] cuz he was an early investor. So, while
+[03:14] everyone's talking about the rocket
+[03:16] launches, Starlink is actually quietly
+[03:18] printing money inside this company. Is
+[03:20] that the real story here? Well, the
+[03:22] perception is is that Elon is going to
+[03:24] take his profitable businesses, namely
+[03:27] Starlink and SpaceX, and grow and
+[03:29] prosper these companies, but he might
+[03:31] also merge some of his other companies
+[03:33] in there less
+[03:35] profitable. Grok would be one. Tesla
+[03:37] might be another, although Tesla's
+[03:39] operating margins are expanding and
+[03:40] should be doing very good with high gas
+[03:41] prices now. But, you know, he obviously
+[03:43] invested a ton of money in the Optimus
+[03:45] robots. I don't know if and when those
+[03:47] will be profitable. So, you know, Elon
+[03:50] is a dreamer. People like dreamers. Elon
+[03:53] is a is a dreamer that actually fulfills
+[03:56] a lot of his dreams. He hasn't fulfilled
+[03:58] all of them. You know, he has a a
+[04:00] ridiculous pay package from Tesla if he
+[04:02] hits certain goals. He's definitely the
+[04:04] richest man in the world because of
+[04:06] SpaceX, because of Starlink, because of
+[04:09] Tesla, and because people like dreamers.
+[04:12] And we'll just see if Elon can fulfill
+[04:15] everything he's promised. Well, Starlink
+[04:17] has over 11 billion in revenue. I mean,
+[04:20] that's better than most big tech
+[04:21] companies. So, why isn't Starlink
+[04:23] getting more credit for that?
+[04:24] >> Well, Starlink is obviously incredibly
+[04:26] successful internet. Obviously, if you
+[04:29] go camping or have a boat or live on a
+[04:32] remote island, it's it's wonderful. It's
+[04:34] still very fast. It's not as fast as
+[04:36] copper fiber optic, but it's more than
+[04:39] sufficient. You know, you can stream
+[04:41] with Starlink. He has changed the world,
+[04:43] you know, if you're in some place like
+[04:45] Ukraine, you can have internet. A lot of
+[04:46] countries like to do internet blackouts
+[04:48] to control the media. Yeah, Starlink
+[04:50] helps you bypass all these
+[04:53] oppressive regimes.
+[04:55] If you're a stargazer, you can see the
+[04:57] the low earth orbiting satellites that
+[04:59] Starlink has. They're really bright. You
+[05:01] see, you can just point the telescope at
+[05:03] a certain part of the horizon, you'll
+[05:04] just see them. They're parading across
+[05:06] the sky. Yeah, kudos to Elon for
+[05:09] Starlink. Kudos to him for
+[05:12] you know, launching SpaceX and being
+[05:14] much more cost-effective than NASA on
+[05:16] their missile launches. And obviously,
+[05:18] everybody's launching satellites and
+[05:20] other things in the space. SpaceX will
+[05:23] profit from all that. I'm sure it'll
+[05:24] help lift Rocket Labs a bit, too. Rocket
+[05:27] Labs is not quite yet profitable, but
+[05:29] might be sooner than later. But again,
+[05:31] Elon's a dreamer. Everybody wants to
+[05:33] invest with Elon. He's the richest man
+[05:35] in the world.
+[05:36] One of the ways you can get rich is Ron
+[05:38] Baron has is you just pick a billionaire
+[05:41] and follow. And obviously, you've
+[05:42] hitched your ride to Jensen Huang.
+[05:44] That's correct. Yeah, and Alex Karp to a
+[05:47] lesser extent the Palantir guy. Google
+[05:50] is also showing up very well on our
+[05:52] radar right now. Google was added to
+[05:54] manage accounts on Monday and I will be
+[05:57] adding it to some of my other services.
+[06:00] I have two Magnificent Seven stocks.
+[06:02] Palantir's outside, but all are led by
+[06:05] billionaires and in America we have
+[06:07] legal monopolies and so one of the keys
+[06:10] to get rich is to invest in one of these
+[06:12] legal monopolies and just follow the
+[06:14] billionaires. There's been chatter about
+[06:16] Starlink eventually spinning off and
+[06:18] doing its own IPO down the road. If that
+[06:21] happens, what does that mean for people
+[06:23] who bought SpaceX June 12th?
+[06:25] >> Or after June 12th, obviously they can
+[06:27] buy in the secondary market. So, you
+[06:29] know, when you run public companies,
+[06:31] they if they're more profitable as
+[06:34] separate entities versus combined
+[06:36] entities, you know, for shareholder
+[06:38] value, you would want to spin them off.
+[06:40] And if you spun off something like
+[06:42] Starlink from SpaceX, you would probably
+[06:44] do it in a stock distribution. That way
+[06:47] it would be tax-free because
+[06:50] um if you did it any other way, you
+[06:53] might it might be a taxable event. And
+[06:55] all these rich people defer their taxes
+[06:58] as long as possible. So, you mentioned
+[07:00] you have two stocks that actually like
+[07:01] better in this space. Which ones are we
+[07:03] talking about?
+[07:04] >> Well, I like Howmet Aerospace HWM. I've
+[07:07] been in the stock for some time.
+[07:08] Obviously, they're an expert in metals
+[07:11] and
+[07:12] titanium, all kinds of exotic metals you
+[07:14] need for aerospace and defense and
+[07:16] space. I also like Carpenter Technology
+[07:19] CRS. Same business, metals, titanium,
+[07:22] all kinds of specialty materials that
+[07:24] you have to make. It's an interesting
+[07:26] business and you know, I prefer that the
+[07:29] suppliers that make these rare metals.
+[07:31] By the way, I should add titanium does
+[07:33] end up in automobiles, especially the
+[07:35] high-performance ones.
+[07:36] You know, like the valves and things
+[07:38] like that. If they can make them in
+[07:39] titanium, though,
+[07:41] the engine will rev faster. So, here
+[07:43] basically you're saying let everyone
+[07:44] else chase the rocket and you're going
+[07:46] to own the parts that actually build it.
+[07:48] That's the play. Exactly. So, it's kind
+[07:50] of like the gold rush in California.
+[07:52] People didn't get rich mining gold. They
+[07:54] got rich supplying the miners. So, Levi
+[07:57] jeans would be an example. They uh
+[08:00] that's what they supplied. So, I'd
+[08:02] rather play that through the supplier
+[08:04] route than the actual companies, but let
+[08:07] me check the fundamentals as they get
+[08:08] released. It's my eight-factor
+[08:10] fundamental model at Shopify.
+[08:13] And I'll wait for a pullback to to add
+[08:15] it. And uh cuz I like to buy on dips.
+[08:18] All stocks will oscillate. So, I do not
+[08:20] expect uh
+[08:22] uh SpaceX to go to the moon and back,
+[08:25] but um
+[08:26] you know, we had that Cerebrus IPO that
+[08:28] that got off to a strong start and it's
+[08:31] starting to uh consolidate here just a
+[08:33] bit.
+[08:34] So, the hype around SpaceX is actually a
+[08:36] catalyst for what you're already
+[08:38] holding. Yeah. Yeah. So,
+[08:40] there's lots of ways to get rich, okay?
+[08:42] But I I just have to have very good
+[08:45] quarterly earnings each and every
+[08:47] quarter, okay? And uh
+[08:49] it's as simple as that. So, I I live
+[08:52] quarter to quarter. Obviously, uh you
+[08:54] know, we still have Nvidia and Micron
+[08:56] that are going to be announcing and you
+[08:57] know,
+[08:58] that's a big, big deal for me. And I I
+[09:01] count on those announcements to lift the
+[09:03] entire industry. And it's important
+[09:05] right now cuz there's some profit taking
+[09:07] going on. So, I want to the earnings to
+[09:10] reverse that profit taking. Okay, we
+[09:11] have a lot of subscriber questions, so
+[09:14] let's get into it. You mentioned
+[09:15] Palantir, but people are still
+[09:16] wondering, are you still holding? What's
+[09:18] your thought on them currently? Yeah,
+[09:20] it's falling in a rank in my system, but
+[09:21] I'm holding it. And their last two
+[09:23] quarters were perfect. They could not
+[09:25] have had better sales and earnings or
+[09:26] guidance. So, the only issue with
+[09:28] Palantir is there's a bunch of people
+[09:30] trashing software stocks. There's a
+[09:31] narrative that AI will replace all
+[09:33] software. Jensen Huang of Nvidia said
+[09:36] that's a false narrative. But, once it
+[09:38] gets going, it can't stop. Uh there's a
+[09:40] lot of software uh ETFs that will hit
+[09:42] all software stocks. They'll throw the
+[09:44] baby out with the bath water. So,
+[09:46] Palantir, unfortunately, is in a weak
+[09:48] sector right now.
+[09:49] And, you know, they have that ETF
+[09:50] selling pressure and that false
+[09:52] narrative. I think this is it's
+[09:54] important to remind everybody that
+[09:56] markets are crowds, and crowds are dumb.
+[10:00] Okay? And the bigger the crowd, the
+[10:01] lower the IQ. So, I just don't want to
+[10:05] get swept up in a false narrative. I
+[10:08] don't want to
+[10:10] be manipulated by unscrupulous people on
+[10:12] Wall Street that propagate these false
+[10:14] narratives. So, that's why I'm holding
+[10:17] the stock, and I'll I'll I'll wait for
+[10:19] the earnings to pull this the stock out.
+[10:21] Another subscriber mentioned that you
+[10:22] recommended PSIX, but it recently took a
+[10:25] little bit of a dip. Is there any reason
+[10:27] for concern? Yeah, I sold it. And
+[10:30] apparently, my sell advice uh did not
+[10:32] help the stock. So, when I decided to
+[10:34] sell it, it went down on that news, and
+[10:36] then it announced disappointing results,
+[10:39] and it went down. So, PSX supplies
+[10:42] energy to the oil patch, like in the
+[10:45] Permian Basin. You know, you know, you
+[10:46] just don't have electricity to run an
+[10:48] oil well, so that's uh a power solutions
+[10:51] comes in and obviously provides that
+[10:53] power. They were doing some data center
+[10:55] related business, too. But, what
+[10:56] happened to PSX is there were some
+[10:59] analyst trims in in the recent month or
+[11:01] so, and that alarmed me, and I wasn't
+[11:03] confident it would beat. So, in the
+[11:05] newsletters, we sold it the day before
+[11:08] the earnings announcement, and then the
+[11:10] actual earnings announcement hit the
+[11:11] stock. So, I'm out of the pool. So, when
+[11:13] we talk about stocks, I hope everybody's
+[11:16] using Stock Grader. And when you go to
+[11:18] Stock Grader, you can actually key in
+[11:20] all your stocks and name a portfolio, so
+[11:22] you don't have to key them in each time.
+[11:24] And then, if you were doing that, you
+[11:26] would have seen uh PSIX degrade in rank,
+[11:29] and after that last earnings
+[11:30] announcement, it's further degraded. So,
+[11:32] yeah, we're long gone from PSιχ. So, how
+[11:35] would someone find out this information
+[11:37] early? Well, if they have a managed
+[11:39] account with us, they would have noticed
+[11:41] we sold it. Okay. Uh and then obviously
+[11:43] the newsletter sold it. Uh so, you you
+[11:47] can get it early through managed
+[11:48] accounts or the newsletters.
+[11:50] Um or you can just use use the database
+[11:54] and pay close attention, but I uh
+[11:56] there's a reason I have a newsletter
+[11:57] business and there's a
+[11:59] a reason we manage over a billion
+[12:01] dollars in accounts. And as always, all
+[12:03] of those links will be in the
+[12:03] description below. Now, I have a
+[12:05] question about TRX. What's the latest
+[12:07] with them? That's a little gold stock
+[12:10] that's more volatile and it makes it
+[12:12] more exciting to many people. It's a
+[12:14] low-priced gold stock. You know, I I
+[12:16] should add the gold prices are up this
+[12:18] year, but they're down since the
+[12:20] military action against Iran started.
+[12:22] So, a lot of people think I own gold
+[12:24] stocks because I'm I'm betting on uh
+[12:26] gold. I'm No, I'm just betting on sales
+[12:28] and earnings. It was the central bank
+[12:29] buying impression
+[12:31] to me to gold. And um
+[12:33] you know, the French central bank lost
+[12:35] money
+[12:36] uh trading securities. They had to
+[12:39] cover their losses with their gold
+[12:40] reserve profits. Last I looked, there
+[12:42] was 9 1/2 trillion of foreigners buying
+[12:45] our treasuries, owning our treasuries.
+[12:47] Excuse me, 9 1/2 trillion dollars. 9 1/2
+[12:49] trillion dollars owning our treasuries.
+[12:52] But the central banks have more money in
+[12:54] gold than they do in our treasuries. Uh
+[12:55] gold is there to shore up all the
+[12:58] central banks that are under pressure.
+[13:00] The main reason central banks are under
+[13:02] pressure is the world got old. And I can
+[13:04] pick Japan, I can pick Britain, I can
+[13:06] pick pick France. They all have
+[13:08] shrinking societies and they all have
+[13:10] fewer people paying into the tax burden.
+[13:13] They have aging demographics and um and
+[13:15] that's why the US is an oasis. But we
+[13:18] still have much better demographics than
+[13:20] the rest of the world. We assimilate our
+[13:22] immigrants. Obviously, Trump wants them
+[13:24] legal, but you know, we do have a very
+[13:26] aggressive immigration policy. You know,
+[13:28] Jensen Huang is an immigrant. Elon Musk
+[13:30] is an immigrant, you know. You come to
+[13:32] America to grow and prosper. Sergey
+[13:34] Brin's an immigrant, you know. I can
+[13:37] just go down the list here and
+[13:39] so we're we're an economic beacon for
+[13:41] the world. I'm expecting a stronger
+[13:43] dollar and a lot of these countries are
+[13:46] are just under pressure
+[13:48] because because they got old and forgot
+[13:50] to have kids.
+[13:52] Whether that's right or wrong, that's
+[13:54] that's why those other central banks buy
+[13:56] gold and that's why I own the world
+[13:58] stocks
+[13:59] to profit from that buying pressure as
+[14:02] well as record sales and earnings. I do
+[14:03] like gold cuz it tends to zig when the
+[14:05] tech stocks zag. It helps stabilize my
+[14:07] portfolios. Now, what's your prediction
+[14:09] on the Federal Reserve now that rates
+[14:11] are going higher? Yeah, there's a lot of
+[14:12] stagflation fears might have shown up in
+[14:14] the University of Michigan consumer
+[14:17] sentiment survey which has hit a record
+[14:18] low. I don't like that survey, but it is
+[14:21] what it is. Yeah,
+[14:23] Kevin Warsh has his hands full. So, the
+[14:25] Federal Reserve doesn't normally control
+[14:28] the long-term bond yields. They control
+[14:29] the short and intermediate yields, but
+[14:31] clearly as long long-term bond yields go
+[14:33] up, it can cause short-term rates to go
+[14:37] up, too. So, the main thing is our new
+[14:39] Fed chairman has to run around and build
+[14:41] a consensus and the consensus for he got
+[14:44] in is that the job market was not
+[14:45] hitting on all cylinders and we might
+[14:47] want to cut rates to stimulate that.
+[14:49] He's probably going to have to redefine
+[14:51] inflation. They can't they can't fight
+[14:53] food and energy inflation. So, we want
+[14:55] to look more at the core rate of
+[14:57] inflation which unfortunately has
+[14:58] started to go up because because all the
+[15:00] higher diesel and transportation costs
+[15:02] from the energy spike. So, I think I
+[15:05] think we watch really has his hands
+[15:07] full. All the AI productivity gains are
+[15:10] non-inflationary. In fact, they're
+[15:12] disinflationary. So, he's going to have
+[15:15] to make an argument that we don't need
+[15:17] to um
+[15:19] let strong economic growth curtail our
+[15:21] rate cuts and that's going to be a hard
+[15:22] sell for him. So, we'll see how
+[15:25] effective he is. He's supposed to be a
+[15:27] a very convincing person.
+[15:29] But, it'll probably take him months
+[15:32] to get the Fed to come to a consensus,
+[15:34] and hopefully we'll get a rate cut later
+[15:36] in the year. All right, let me end on
+[15:37] one more subscriber question. Do you
+[15:39] have an opinion on the stock IDN? Yeah,
+[15:41] I recommended it. Uh
+[15:44] and it probably went up on my
+[15:45] recommendation, and then of course it
+[15:48] announced, and it got hit with profit
+[15:50] taking after it announced. So, let me
+[15:52] give you the details of what happened.
+[15:55] Their earnings were only in line with
+[15:57] expectations, and I think that is what
+[16:00] spooked people because they had huge
+[16:03] surprises before this last quarter, and
+[16:06] they didn't surprise. But, looking
+[16:08] forward, the end sales are supposed to
+[16:10] be up 10.7%.
+[16:12] Their earnings are supposed to be up
+[16:13] 1,500%,
+[16:15] and the analysts just increased their
+[16:16] estimate from 7 cents to 3 cents
+[16:19] the last 7 days. So, that's a 200%
+[16:22] upward analyst earnings revision. So,
+[16:24] even though IDN did not surprise last
+[16:26] quarter, it was in line, I think I think
+[16:30] it will
+[16:31] it's definitely worth holding, and I
+[16:32] definitely want to hold it for the next
+[16:34] quarter results. But, I I'm the guy that
+[16:37] brought attention to the stock. I think
+[16:39] my recommendation to drive it higher,
+[16:40] and we do have a lot of people following
+[16:42] us. It did consolidate after earnings,
+[16:44] but it'll have another phenomenal report
+[16:46] here soon. So, hopefully people can wait
+[16:48] another 3 months or so. Well, we have
+[16:50] Carpenter Technologies and Helmet
+[16:52] Aerospace, two stocks Louie likes better
+[16:54] than chasing the SpaceX on IPO day. Drop
+[16:57] a comment below and tell us, are you
+[16:59] buying SpaceX on June 12th, or are you
+[17:01] with Louie on this one? We want to know.
+[17:03] Make sure that you like this video and
+[17:05] subscribe if you haven't already, but
+[17:07] we'll see you this Sunday for a new
+[17:08] video.

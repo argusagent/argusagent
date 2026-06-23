@@ -7,9 +7,26 @@ Type: short
 Duration: 0:33 (33s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 18
+Transcript characters: 634
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Their sales are supposed to be at 4.3.
+[00:02] Earnings supposed to be up three and a
+[00:03] half. That's pretty low. They'll
+[00:04] probably beat that. All of revised
+[00:06] estimates higher. I think the thing with
+[00:08] Walmart is same store sales growth.
+[00:10] They're kind of like Costco. Their same
+[00:12] store sales growth has been stunning.
+[00:13] You know, Walmart is really fours in
+[00:15] one. They are the biggest supermarket
+[00:17] retailer in America. And Walmart used to
+[00:19] have a paycheck cycle where their
+[00:21] business was up in the first and the
+[00:23] third week and second, fourth week of
+[00:24] the stall. That paycheck cycle is now
+[00:27] gone because everybody's going there for
+[00:29] groceries. I I I'm very optimistic on
+[00:31] Walmart.

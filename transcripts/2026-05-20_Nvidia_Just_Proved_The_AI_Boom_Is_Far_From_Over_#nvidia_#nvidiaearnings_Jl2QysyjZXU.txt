@@ -7,9 +7,37 @@ Type: short
 Duration: 1:00 (60s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 29
+Transcript characters: 1020
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Nvidia's quarterly earnings are out.
+[00:02] They beat on sales, they beat on
+[00:04] earnings, they raised their guidance
+[00:05] above analyst estimates. Initially the
+[00:07] stock pulled back, but now it's starting
+[00:09] to rally as everybody reads the details.
+[00:11] I'm ecstatic with Nvidia's results, just
+[00:13] so you know. Now, you're going to hear a
+[00:15] narrative out there that there's
+[00:16] increasing chip competition. Not on
+[00:18] Nvidia's GPUs. Okay, no one competes
+[00:21] with Nvidia.
+[00:22] These chips cost over $2 billion to
+[00:24] build, and no one is building a
+[00:27] regenerative AI chips like Nvidia. So,
+[00:29] they are the market leader, they
+[00:30] dominate it. They are 16% of our GDP in
+[00:33] America, they're headed to 20%
+[00:36] next year. Their earnings and sales will
+[00:38] be growing over 100% due to the full
+[00:40] ramp up of the Vera Rubin GPUs. So, I'm
+[00:43] ecstatic with Nvidia's results, and
+[00:46] don't worry about any of the static you
+[00:48] hear. The stock rallied in anticipation
+[00:51] of the earnings. I'm ecstatic with these
+[00:53] results, and I think we should just
+[00:55] follow Jensen Huang and invest in them,
+[00:57] and I expect the stock to be $300 by the
+[00:59] end of the year.

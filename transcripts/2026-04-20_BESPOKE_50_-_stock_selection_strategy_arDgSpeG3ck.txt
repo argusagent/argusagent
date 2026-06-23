@@ -7,9 +7,39 @@ Type: short
 Duration: 1:07 (67s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 31
+Transcript characters: 1094
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Now, Paul, you're also famous for the
+[00:01] Bespoke 50, stocks that have
+[00:03] historically beaten the market. Can you
+[00:05] share with our viewers how you actually
+[00:07] select these top 50? Yeah, so I mean,
+[00:09] it's you know, on Wall Street, you know,
+[00:11] everyone tries to complicate things, you
+[00:13] know, and make make things sound overly
+[00:16] complicated.
+[00:18] You know, I have four daughters, so my
+[00:21] life is complicated enough, so we just
+[00:23] keep this simple. We look for companies
+[00:25] that have strong earnings growth
+[00:26] prospects and positive chart formations.
+[00:30] So, we do a quantitative screen of
+[00:32] companies based on their growth
+[00:33] forecasts, and then we do a qualitative
+[00:36] screen of going through those names
+[00:38] within the Russell 3000. So, this is
+[00:40] companies with market caps in the
+[00:42] trillions to the hundreds of millions.
+[00:44] So, you get all sorts of companies
+[00:47] running the spectrum, and sort of like
+[00:49] the triple plays, what you learn is that
+[00:51] there's so many different ways for a
+[00:53] company to be successful. It's not
+[00:55] always just tech that drives the market
+[00:58] and drives the gains. You can find
+[01:00] really successful companies and business
+[01:02] models outside of tech and in some
+[01:05] really arcane fields.

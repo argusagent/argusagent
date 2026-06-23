@@ -7,9 +7,413 @@ Type: video
 Duration: 15:42 (942s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 405
+Transcript characters: 14233
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Hello everyone. We've had such a great
+[00:02] conversation this week that we've
+[00:03] decided to give you a little something
+[00:04] extra. In this bonus segment, we're
+[00:06] turning our attention to the markets
+[00:08] because next week is packed with big
+[00:10] economic events and earnings. Welcome
+[00:13] back to Navier Market Buzz.
+[00:16] [Music]
+[00:28] Dad, let's start with the Fed. What are
+[00:30] you expecting from the upcoming FMC
+[00:32] statement? Do you think they'll finally
+[00:34] start talking about rate cuts?
+[00:36] >> Oh, they're going to be talking about it
+[00:37] and I I'm expecting a doubish FMC
+[00:40] statement. We already have a vocal
+[00:41] minority led by Governor Christopher
+[00:44] Waller saying they need to cut now
+[00:46] basically for the labor market because
+[00:48] the Fed has a labor mandate and an
+[00:49] inflation mandate. But with inflation
+[00:52] coming in below economist expectations
+[00:54] for five consecutive months, the Fed
+[00:57] needs to cut and there's no doubt about
+[00:58] it. So they may not cuz they may be
+[01:01] stubborn, but we'll definitely get a
+[01:03] doubish FOMC statement and that's really
+[01:05] all the market wants. And uh so we'll
+[01:08] have that celebration.
+[01:10] >> And what about the PCE report? That's
+[01:12] the Fed's favorite inflation gauge. That
+[01:14] could change the tone of the meeting.
+[01:17] >> It could, but um the PCE,
+[01:21] we already know the components, so we
+[01:22] all know it's going to be a good number.
+[01:25] And uh the main thing that the PC needs,
+[01:27] the same thing CPI needs, it's just for
+[01:30] the rents to stop going up. So there is
+[01:33] a glut of rental property in America.
+[01:36] Housing prices are being cut left and
+[01:38] right. Uh we just don't understand why
+[01:41] it hasn't showed up in the data. I will
+[01:43] say owner's equivalent rent or shelter
+[01:45] costs did uh only increase 210 of a
+[01:48] percent um in June in the CPI. So, um,
+[01:52] that's going to further cool the PCE
+[01:55] down. And the inflation we had was just
+[01:57] a higher gas prices because it's
+[01:59] summertime driving season and the this
+[02:02] um owner's equivalent rent issue. So,
+[02:05] I'm very very confident that that PC
+[02:07] number is going to be good. And I'm very
+[02:10] confident that uh inflation is well
+[02:12] below the Fed's 2% target rate as soon
+[02:15] as we throw out housing and rental
+[02:16] costs. How much weight do you think the
+[02:18] consumer confidence and payroll numbers
+[02:20] will carry in shaping the Fed's next
+[02:22] move?
+[02:22] >> Well, consumer confidence is from the
+[02:25] the conference boards coming out next
+[02:27] week and this is the best indicator. The
+[02:29] University of Michigan one, I I I just
+[02:31] ignore it to be honest with you. It's
+[02:32] kind of political and you just ignore
+[02:35] it. But the conference board has a very
+[02:37] serious consumer confidence report and
+[02:40] uh we do want to see see that continue
+[02:42] to improve. We had a bit of a scare
+[02:45] because Chipotle announced that their
+[02:47] same store sales dropped 4%.
+[02:50] And Chipotle is a very well-run company
+[02:52] and so it shows that consumers might be
+[02:55] a little more thrifty right now. So we
+[02:58] just want to uh see uh what the
+[03:01] conference board says. The payroll
+[03:02] numbers are a big deal. Uh there's ADP
+[03:05] of course the actual payroll report
+[03:06] that'll come out August 1st. The ADP
+[03:08] report didn't show job creation last
+[03:10] month. uh it was the lowest in few
+[03:13] years. So we want to see if it's going
+[03:16] to have another bad month. And then most
+[03:18] of the job creation, the payroll report
+[03:19] was just teachers and they get laid off
+[03:21] in the summer. You know, Wall Street's
+[03:23] secretly rooting for a weak payroll
+[03:25] report because it's going to force the
+[03:26] Fed to cut. Now, of course, the payroll
+[03:28] report comes out after the Fed.
+[03:31] So, uh so we shall see. It'll be
+[03:34] interesting.
+[03:36] >> And let's not forget it's a huge week
+[03:38] for earnings. Dad, give us the rundown
+[03:40] on some key names reporting.
+[03:43] >> Sure. Uh, first of all, earnings are
+[03:45] coming above expectations.
+[03:48] By and large, uh, everything is
+[03:50] responding well, and I'm very, very
+[03:52] happy with, uh, our stock so far. We
+[03:55] never bat 100, but, uh, we're close,
+[03:58] and, uh, so that's why I'm so happy. So,
+[04:01] let's start with Cadence Design Systems,
+[04:03] uh, CDNS. This is a widely held stock.
+[04:06] Their uh sales are supposed to be up
+[04:08] 18.2%.
+[04:10] Their earnings supposed to be up 22%.
+[04:13] The Allen community held pretty steady
+[04:15] with their estimates and this stock has
+[04:17] a good surprise history. So, I'm pretty
+[04:20] upbeat about Cadence. World Corporation
+[04:23] is a very interesting company because
+[04:25] they packed up and left in the middle of
+[04:26] the night and moved all their production
+[04:28] down to Monterey, Mexico. And um uh so
+[04:32] that's a bit of a contentious issue with
+[04:34] President Trump and he's going to be
+[04:36] slapping tariffs on their products down
+[04:38] there to try to get that production back
+[04:40] in America. But uh right now their sales
+[04:42] are supposed to decline 2.7%.
+[04:45] Their earnings are supposed to uh
+[04:47] decline 27.2%.
+[04:49] Alons have been cutting estimates. So I
+[04:52] don't expect any significant earnings
+[04:54] surprise from this company. You know,
+[04:56] existing home sales are soft. New home
+[04:58] sales did improve here recently. So
+[05:00] maybe that'll help the appliance
+[05:01] business. You know, it's I have very low
+[05:03] expectations for Whirlpool.
+[05:06] Another stock we should talk about is
+[05:08] Boeing. Now Boeing, of course, is had
+[05:10] all kinds of horrific operational
+[05:13] problems, but they do have a massive,
+[05:16] massive order backlog. And of course,
+[05:19] they're building the new fighter jet,
+[05:21] the F47,
+[05:23] which I I assume is named after our 47th
+[05:26] president, but that's another matter.
+[05:28] Their sales are supposed to be up 28.8%.
+[05:31] That's excellent. Their earnings are
+[05:33] supposed to be up 54.7%.
+[05:36] Now, that's the operating earnings.
+[05:38] They're they're still probably going to
+[05:39] post a loss, but if they post operating
+[05:42] earnings growth, that would be good. Uh
+[05:44] analysts have not been kind to them on
+[05:46] their estimates, though. But last
+[05:47] quarter, they did have a 62.4% surprise.
+[05:50] So Boeing is a true true wild card and
+[05:54] its guidance is going to be everything
+[05:56] because everything else it does is so
+[05:58] confusing to monitor. Another stock we
+[06:00] need to talk about is United Parcel
+[06:02] Service or UPS. They've been struggling
+[06:04] like Whirlpool and uh the main reason
+[06:06] they've been struggling is they lost
+[06:07] their postal service contract. So for
+[06:10] the latest quarter, their sales are
+[06:12] supposed to be down 4.4%.
+[06:15] Their earnings supposed to be down 12%.
+[06:18] uh the analysts have trimmed their
+[06:20] estimates but they do have a very good
+[06:22] earning surprise history and uh like a
+[06:25] lot of companies that have had to take
+[06:27] what I would let like to call a stutter
+[06:30] step had a step back their guidance is
+[06:32] going to be everything obviously they're
+[06:35] highly tied to online sales and
+[06:37] everything so hopefully things are
+[06:39] starting to perk up and I would not be
+[06:41] surprised if they eaked out a surprise
+[06:42] the next stock we should talk about is
+[06:44] Cisco that's SY this is not Cisco
+[06:47] systems. This is the company that
+[06:49] delivers food to restaurants, Cisco uh
+[06:51] corporation. Their sales are supposed to
+[06:54] be up 2.3%.
+[06:56] Their earnings are supposed to be
+[06:58] unchanged.
+[07:00] The analysts have held steady on their
+[07:02] estimates for the past 60 days, but they
+[07:04] did miss last quarter. So, I'm really at
+[07:08] a loss because Chipotle uh had that u
+[07:12] bad report with a a 4% drop in same
+[07:14] store sales. Um, I'm a little worried
+[07:17] about this stock and so we'll see if
+[07:20] they can surprise, but right now it
+[07:21] doesn't look that good. All right, we
+[07:24] should talk about Microsoft because
+[07:26] obviously Microsoft is a bellweather,
+[07:28] but it's a big bell weather, okay, with
+[07:30] a big dividend yield and their sales are
+[07:33] supposed to be up 14%. Their earnings
+[07:35] are supposed to be up 14.5%.
+[07:38] The analysts have been revising
+[07:40] Microsoft's earnings steadily higher in
+[07:42] the last 90 days and they do have a very
+[07:44] good earning surprise history. Of
+[07:46] course, they're famous for open AI
+[07:49] investment and chat GPT. So, uh I am
+[07:52] expecting some improvement from them.
+[07:54] They do have to give us good AI
+[07:56] guidance, but I do think Microsoft will
+[07:58] be okay. Another stock in the
+[08:01] Magnificent 7 that should be okay is
+[08:03] Meta.
+[08:05] Paul talked about how they're building a
+[08:07] big data center out in boy outside of
+[08:09] Boise. Meta is very serious about AI and
+[08:13] uh their sales are supposed to be up
+[08:16] 14.7%.
+[08:18] Their earnings are supposed to be up
+[08:19] 13.4%.
+[08:21] Uh we do have positive balance visions
+[08:24] of on Meta and uh this stock does have
+[08:27] an extremely good earnings surprise
+[08:29] history. In fact, last quarter uh its
+[08:31] earnings were 23.1% better. So I am
+[08:34] expecting another surprise from Meta and
+[08:37] that's important because it helps firm
+[08:39] up the Magnificent 7. Another important
+[08:42] tech stock we need to talk about is
+[08:43] Qualcomm QCOM.
+[08:46] Their sales are supposed to be up 10.1%.
+[08:48] Their earnings are supposed to be up
+[08:50] 16.3%.
+[08:52] The ounce community has held steady on
+[08:53] their estimates for the last uh 60 days,
+[08:57] but the stock had a tiny tiny earnings
+[09:00] surprise last quarter. So, I'm not sure
+[09:02] we'll get a big surprise out of
+[09:03] Qualcomm,
+[09:05] but it's important that uh it beats like
+[09:08] any tech stock. All right, moving on to
+[09:11] more tech. Let's talk about Western
+[09:13] Digital WDC.
+[09:16] Guess what? This is the disc drive
+[09:17] company, Solid State Drives. Their
+[09:20] sales, unfortunately, are supposed to
+[09:21] fall 34.6%.
+[09:24] Their earnings are only supposed to be
+[09:26] up 2.3%.
+[09:28] The analysts though have revised their
+[09:29] estimates higher in the last 90 days and
+[09:32] they do have a pretty good earning
+[09:34] surprise history. Last quarter they had
+[09:36] a 22.7% surprise. So, but with that big
+[09:40] sales decline, they're going to have to
+[09:41] give us good guidance. Obviously, this
+[09:44] is a solid state drive company. Okay, a
+[09:46] couple more magnificent seven stocks to
+[09:47] talk about. Uh, probably one of the
+[09:50] weakest is going to be Apple, AAPL.
+[09:53] Why is Apple weak? Well, their sales are
+[09:55] only going to be up by 3.7%.
+[09:58] Their earnings are only supposed to be
+[09:59] up 2.1%.
+[10:01] The analyst has not changed their
+[10:02] estimates for the stock in the last 60
+[10:04] days. They have had very small surprises
+[10:07] in the last three quarters. Obviously,
+[10:10] Apple is um well, they they made the
+[10:13] Formula 1 movie, you know, that's
+[10:15] probably they're going to monetize.
+[10:17] That's good. They obviously are getting
+[10:20] more services from everybody as
+[10:22] everybody switches to Apple TV and uses
+[10:24] their cloud services etc and backup
+[10:27] services. But it's always about the
+[10:29] phone with Apple. Okay. And all Apple
+[10:32] has to do to get it stocking is to say
+[10:35] it has a folding iPhone coming out.
+[10:38] From what I've read, all the the geeks
+[10:41] that follow all this stuff, the folding
+[10:43] iPhone is next year, not this year. So,
+[10:46] but if they have any hint that they
+[10:48] might have a folding iPhone, the stock
+[10:50] will go bananas because that will be a
+[10:53] very coveted phone and people will pay
+[10:55] an arm and leg to get it. The last
+[10:56] Magnificent 7 stock I want to talk about
+[10:58] is Amazon AMZN.
+[11:01] This stock has uh been a bellweather and
+[11:04] obviously it benefits immensely from all
+[11:06] the online shopping and it dominates
+[11:09] that. They're also dominating the cloud.
+[11:12] Amazon's new management makes sure they
+[11:14] make money everywhere.
+[11:16] So, what's going on? Their sales are
+[11:18] supposed to be up 9 and a half%. Their
+[11:21] earnings are supposed to be up 4.3%.
+[11:24] But the Allen community has revised
+[11:26] their estimates higher in the last 60
+[11:27] days, and this stock has an incredible
+[11:30] earning surprise history. Last quarter
+[11:32] was its smallest surprise, only 17.1%.
+[11:36] Before that, the previous three quarters
+[11:37] were much bigger. So, uh, like any tech
+[11:40] stock, they're going to have to guide
+[11:42] higher, but I do think Amazon will have
+[11:45] great results. And for disclosure, your
+[11:46] mom does own it in her personal account.
+[11:50] Okay, another tech I want to talk about
+[11:51] is KLAC.
+[11:53] This stock is obviously semiconductor
+[11:56] Equipment, and we got to be careful
+[11:58] because there's been some mixed results
+[12:00] there, but this stock sales are supposed
+[12:02] to be up 19.9%. Their earnings supposed
+[12:06] to be up 29.5%
+[12:09] and the analysts have revised their
+[12:10] estimates higher in the last 90 days.
+[12:13] This stock does have a very good earning
+[12:14] surprise history too. So I'm expecting
+[12:17] KLC to surprise and help lift the entire
+[12:21] semiconductor area. The last stock I
+[12:23] want to talk about is Church and Dwight
+[12:25] CHD. Of course, this is the famous
+[12:28] baking soda company. And if you have a
+[12:31] smelly fridge, which you don't have,
+[12:32] Crystal, because I've seen your fridge,
+[12:34] you can buy a box of baking soda and
+[12:36] hopefully all those bad orders go away.
+[12:38] But baking soda has a lot of wonderful
+[12:40] applications. But this is a big
+[12:43] international company and we have weak
+[12:45] economies around the world. So
+[12:46] unfortunately, their sales are forecast
+[12:48] to decline 1.8%. Their earnings are
+[12:51] forecast to decline 7.9%.
+[12:53] You're going to get this with a lot of
+[12:54] the multinationals. The only hope is
+[12:57] there was a recent analyst revision in
+[12:58] the past seven days up so maybe a leak
+[13:02] out of surprise and it did surprise 3.8%
+[13:04] last quarter but um this is a problem
+[13:07] with all the multinationals weak
+[13:09] economies outside of United States.
+[13:11] >> So now let's end on some subscriber
+[13:13] questions. One of our subscribers is
+[13:15] interested in studies formal or informal
+[13:18] kind of profiling investors and traders
+[13:20] demographically and psychologically. Do
+[13:22] you think that that info would be value
+[13:24] added? Well, I think there's no doubt
+[13:27] what I would call the boomers are buying
+[13:28] a lot more stock. There's four meme
+[13:30] stocks going nuts lately. Uh, one is
+[13:32] Kohl's Corporation. Another is Regetti,
+[13:35] a quantum computing stock. Um, so there
+[13:38] is a lot of enthusiasm out there. That's
+[13:40] what the meme people do. But I think
+[13:42] when you profile people, you got to be
+[13:44] careful. I think most traders love
+[13:46] trading until it doesn't work. Okay?
+[13:49] And I think I think trading is dangerous
+[13:53] because it can make you emotional. You
+[13:56] get obsessed with winning and things
+[13:57] like that. So I I'm not really that
+[14:01] excited about profiling people. I think
+[14:05] you just got to know who you are as as
+[14:07] an investor. Do you want to buy great
+[14:08] companies and compound your money and
+[14:10] get long-term gains or do you want to
+[14:13] trade for the little endorphins you'll
+[14:15] get uh from some short-term profits? So,
+[14:18] you got to decide who you are.
+[14:19] >> One of our subscribers wanted to just
+[14:21] kind of check in about the grocery store
+[14:23] trips. You know, when you buy hamburger,
+[14:25] steak, seafood, and chicken, the
+[14:27] inflation trend is getting outrageous.
+[14:29] >> Yeah. Well, that's you can profit from
+[14:31] it. I have a chicken stock called
+[14:32] Frumland's Pride. We have in some of our
+[14:35] manage accounts. Beef prices are up. Uh,
+[14:37] you know, the the herds of cow, the
+[14:40] sizes are way down where they are
+[14:41] historically. Beef prices are definitely
+[14:43] up and chicken's taking more market
+[14:45] share. But that's also put upward
+[14:47] pressure on chicken as it you got to
+[14:48] watch out for the bird flu as well. As
+[14:51] far as seafood goes, that's always been
+[14:53] expensive. You know, just how they where
+[14:55] they get it. I mean, you know, here I am
+[14:58] in South Florida and we go to Costco. I
+[15:01] guarantee you if they have mahi mahi,
+[15:03] it's from Ecuador. It's not from here.
+[15:06] So that's very frustrating for the local
+[15:08] flidians. But that's how the food
+[15:11] processing industry is.
+[15:12] >> All right, everyone. That's your bonus
+[15:14] look ahead for the week. Packed with
+[15:16] economic data, earnings, and plenty for
+[15:18] the markets to react to. If you found
+[15:20] this helpful, make sure to like,
+[15:21] subscribe, and check the links in
+[15:23] description for more. We'll see you back
+[15:24] here next Sunday with a special guest.
+[15:26] Thank you so much, everyone.
+[15:28] [Applause]
+[15:29] [Music]

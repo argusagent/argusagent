@@ -7,9 +7,33 @@ Type: short
 Duration: 1:14 (74s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 25
+Transcript characters: 918
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Robo taxis. What's happening? Well, the
+[00:03] Whimos are increasingly across America.
+[00:06] That's Google's system. Very popular.
+[00:08] Can get stuck sometimes and then they'll
+[00:11] uh call the car and some remote driver
+[00:14] will move you out of the jam you're in.
+[00:18] But Whimo's clearly capturing a lot of
+[00:21] data and is the leader. Tesla will be
+[00:23] now coming on strong with the robo taxi.
+[00:25] They'll be initially model wise, uh, not
+[00:28] the, um, the vehicle they showed you at
+[00:31] Universal Studios, which had no steering
+[00:34] wheel. But probably the most exciting is
+[00:37] Uber. Uber is going to be using VW ID
+[00:42] Buds for their robo driving. And this is
+[00:46] Volkswagen. And Volkswagen is very
+[00:48] powerful. You know,
+[00:49] Volkswagen recently outsold Tesla in
+[00:52] Europe for EVs.
+[00:54] So, we now have the robo taxi war. It's
+[00:59] Uber with a Volkswagen on the ID Buzz,
+[01:02] the Model Y with Tesla and hopefully a a
+[01:05] driverless vehicle without any steering
+[01:07] wheel and uh Whimo. I don't know who's
+[01:11] going to win, but somebody's going to

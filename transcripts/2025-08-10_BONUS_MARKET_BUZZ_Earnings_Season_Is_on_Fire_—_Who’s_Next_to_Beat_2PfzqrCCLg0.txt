@@ -7,9 +7,251 @@ Type: video
 Duration: 10:23 (623s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 243
+Transcript characters: 8600
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] We have another bonus episode for you
+[00:02] this week as earnings season is running
+[00:04] hot. Way more beats than anyone
+[00:06] expected. The question now, which stocks
+[00:08] are about to deliver the next big
+[00:10] surprise? Welcome back to Naval Market
+[00:12] Buzz.
+[00:13] [Applause]
+[00:13] [Music]
+[00:25] >> Let's start out with CE. Two big beats
+[00:27] in a row. Do you see another one coming?
+[00:29] Before we get into specific stocks, I do
+[00:31] want to just reiterate that we're
+[00:33] showing a bespoke chart that illustrates
+[00:36] that sales and earnings are are beating
+[00:39] higher than normal right now. But this
+[00:41] is good time to remind everybody that
+[00:42] the good earnings come out early. Bad
+[00:45] earnings tend to come out a little
+[00:46] later. So, we would expect that to decay
+[00:49] just a bit. Obviously, the grand finale
+[00:52] for earning season will be Nvidia,
+[00:54] followed by Costco for us. Um but um a
+[00:59] good example of a stock that uh is going
+[01:02] to be in a more precarious uh situation
+[01:04] is now this is a company that makes
+[01:08] vinyl chloride and uh their sales are
+[01:11] supposed to drop 6.3%
+[01:14] earnings are supposed to drop 41.2%.
+[01:18] Uh the company has posted big earning
+[01:20] surprises in the past couple quarters.
+[01:22] So they could ek out a gain, but I think
+[01:25] all the disruptive uh disruptions with
+[01:28] global trade and everything might be
+[01:30] impacting their bottom.
+[01:31] >> Now for GLD, do you expect that they'll
+[01:34] pull another surprise? Well, Gilead, of
+[01:38] course, Gilead is famous for uh curing
+[01:42] the hepatitis virus, which so they save
+[01:45] a lot of lives and um but they're kind
+[01:48] of a one product company. They've tried
+[01:50] to diversify. Their sales are supposed
+[01:52] to be up 210 of a percent um with their
+[01:55] earnings supposed to drop 2.7%.
+[01:57] Uh this company usually surprises pays a
+[01:59] pretty big dividend, but um you know,
+[02:02] it's it's mostly a dividend stock. Now,
+[02:05] Cardinal Health has had steady growth,
+[02:07] but what do you expect for them?
+[02:09] >> Well, the healthcare industry has been a
+[02:11] really tough sector, but uh Cardinal
+[02:14] Health is one of the leaders. They're uh
+[02:16] forecasted to to post 1.8% sales growth
+[02:19] and 10.4% uh earnings um increase. The
+[02:24] ounce committee has revised their
+[02:25] consensus estimates higher. So, that's a
+[02:28] good sign that um they they're probably
+[02:31] going to surprise and they have a good
+[02:32] earning surprise history. Now for Cisco,
+[02:35] another one that has solid growth, but
+[02:37] do you think it could outperform?
+[02:39] >> Yes, being uh lifted by all the data
+[02:41] centers and the increased networking out
+[02:44] there and speeding up the internet. Um
+[02:46] but they're uh their sales are forecast
+[02:49] to grow 7.2%.
+[02:51] Earnings are forecast to grow 12.3%.
+[02:54] The ounce committee has been revising
+[02:56] their earnings estimates higher. So um I
+[02:59] am expecting a surprise from Cisco and
+[03:01] they have a good surprise history.
+[03:04] Now, AMCR has huge sales jumps, but is
+[03:08] it finally time for a win?
+[03:10] >> You know, this is a a a packaging
+[03:12] company in the UK, and they make all
+[03:14] kinds of specialy packaging. Uh and um
+[03:18] their sales are supposed to be up 46.2%.
+[03:21] That's forecast committee, but they're
+[03:23] only expecting 1.2% earnings growth. So,
+[03:27] this company has an erratic earning
+[03:28] surprise history, but I'm expecting that
+[03:31] those uh strong sales will help them eek
+[03:33] out an earnings surprise.
+[03:34] >> Now, Apply Materials, can they keep it
+[03:36] up?
+[03:37] >> Well, they're in a good sector. They're
+[03:39] uh their sales are forecasted to go up
+[03:41] 5.4%.
+[03:43] Earnings is supposed to be up 11.3%.
+[03:46] Uh the analyst community has been
+[03:48] revised earnings estimates higher and
+[03:50] they have a good earning surprise
+[03:51] history. So, they should surprise and
+[03:53] again they're in a good sector. the
+[03:55] semiconductor area.
+[03:57] >> John Deere has been struggling quite a
+[03:59] bit, but what do you expect for them?
+[04:01] >> Well, yeah. Uh John Deere, just so
+[04:03] everybody knows, uh has been struggling
+[04:06] because a lot of the farmers out America
+[04:10] can't just upgrade their tractors and
+[04:12] everything. And that's lally caused by
+[04:15] all the net zero initiatives to go to uh
+[04:18] organic fertilizer from chemical
+[04:20] fertilizer like pottish or nitrogen. And
+[04:24] um uh and and then of course farmers in
+[04:28] Europe had to give up 30% of their land.
+[04:30] They had to callull their herds
+[04:32] and uh that's why there were farm
+[04:34] protests all over Europe. So this really
+[04:37] screwed up their business. Uh and then
+[04:40] of course they did move a lot of their
+[04:41] manufacturing to Mexico and uh have
+[04:44] layoffs at three of their facilities.
+[04:47] And of course now Trump wants all that
+[04:49] manufacturing come back to America. So,
+[04:51] Deer's had its hands full, but their uh
+[04:54] sales are forecast to decline 9.3%.
+[04:58] Earnings are forecast to decline 27.6%.
+[05:02] And the analyst community has cut their
+[05:03] estimates. However, here did post a big
+[05:07] first quarter earnings surprise. So,
+[05:09] they might be able to eek out a second
+[05:11] quarter surprise. We've had a lot of
+[05:13] rain in America. Wheat corn, soybean
+[05:16] production should be uh very, very high.
+[05:19] And hopefully that helps deer. Now, next
+[05:21] week, can you talk about what you expect
+[05:23] for the CPI, PPI, and retail sales
+[05:26] reports?
+[05:27] >> Yeah, I'm hoping it's going to be the
+[05:29] sixth month in a row where the the
+[05:31] inflation expectations come in below uh
+[05:34] economist
+[05:35] estimates. It's uh it's amazing that
+[05:38] what's going on. I I don't think they
+[05:41] they realize that there's a global
+[05:44] economic slowdown. Prices are under
+[05:46] pressure. Uh, China's got deflation.
+[05:50] Uh, obviously we we got energy prices
+[05:53] lower temporarily, not in June. They
+[05:55] spike because of the heat wave, but uh I
+[05:58] do think that um uh things will come in
+[06:02] um tame. Now, obviously on the CPI, it's
+[06:06] all owner equivalent rent. That's been
+[06:09] 90% inflation. We still want that to
+[06:11] crack. It did slow down last month to
+[06:14] 210 of a percent, but if we can get uh
+[06:17] uh rental costs down
+[06:20] that would be a huge relief and then uh
+[06:23] and we will rally immensely off that.
+[06:25] PPI is much more interesting because uh
+[06:30] it's uh we've had deflation in recent
+[06:33] months. Last month was fly as a pancake,
+[06:35] totally unchanged. Uh then it was up in
+[06:38] May and then down in uh April and March.
+[06:41] Uh so we'll see. Um and retail sales, we
+[06:45] just got to see what if consumers are in
+[06:48] a good mood. You know, it's uh I always
+[06:50] look at how many what categories they're
+[06:52] spending at and um bars and restaurants
+[06:55] are always very very important because
+[06:57] it shows they have some disposable
+[06:59] income. But uh you know based on all the
+[07:02] economic data that we're getting, it
+[07:05] looks like uh things have slowed down.
+[07:07] That should keep uh inflationary
+[07:10] pressures down and it looks like retail
+[07:12] sales may not be that strong, but we
+[07:14] shall see. Um but uh I would add that
+[07:19] you know we've had phenomenal surprises
+[07:22] uh you know Axion uh King Cross Gold uh
+[07:28] R that's another gold stock we recommend
+[07:31] uh Nigen Biosciences NAG payments uh
+[07:37] that's a helps people with their credit
+[07:40] and all uh they provide credit cards to
+[07:42] companies and of course planter was
+[07:44] brought probably the the strongest
+[07:46] earnings report for Planet Air
+[07:47] Technologies. Um, Szle also uh had a
+[07:51] pretty impressive sales growth. Uh, but
+[07:54] there was some confusion because their
+[07:57] overall earnings fell, but their
+[07:58] operating earnings rose. So, there are
+[08:01] computers that read the the the um the
+[08:05] earnings releases and they hit sle
+[08:07] because they weren't looking at
+[08:08] operating earnings and they should have
+[08:10] been. So, that was unfortunate. So, I
+[08:12] think Sza will come roaring back.
+[08:14] >> Now, let's answer some subscriber
+[08:15] questions. One of our subscribers wanted
+[08:17] to know what your thoughts were on Eli
+[08:19] Liy right now.
+[08:20] >> Yeah, that is interesting. They beat uh
+[08:23] and uh but they had a a poor trial for
+[08:27] their pill pillbased GLP1 and so the
+[08:31] stock just got shot on that. So,
+[08:33] technically Eli Lilly is wounded. It's
+[08:36] also under the threat of the uh Trump
+[08:39] trying to get u the drug costs down. But
+[08:42] Eli Liy is doing what Trump wants.
+[08:44] They're onshoring. Okay. And they're
+[08:47] moving their manufacturing back to
+[08:48] America. And they still dominate GLP-1
+[08:51] drugs and so uh I'm very very
+[08:54] comfortable uh with them and um I'm sure
+[08:58] they'll come up with another formula for
+[09:00] a GLP-1 pill.
+[09:01] >> And what about SMC?
+[09:02] >> Yeah, super micro. Uh, I laid an egg on
+[09:05] that. Um,
+[09:07] the sales growth was up 7 and a half%.
+[09:11] Uh, but their, uh, operating results
+[09:14] weren't as strong as some people wanted
+[09:16] and their guidance wasn't as strong as
+[09:17] some people wanted. The issue with SMCI,
+[09:20] Super Micro computer, is that their
+[09:23] order backlog is huge. It's four plus
+[09:25] years. People are so desperate for the
+[09:27] Nvidia chips. They've pre-ordered a lot
+[09:29] of it through Super Micro. So, because
+[09:31] their order backlog's good, I'm going to
+[09:33] stick with a company. I'm still up four
+[09:35] 750% in it. I don't want to pay the
+[09:38] capital gains. So, uh I'm riding out
+[09:41] with this. But, um when these good
+[09:43] stocks get hit, uh the Lilies, the Super
+[09:45] Micros, the Sazzles, they are good buys,
+[09:48] but we you do get profit taking during
+[09:50] earning season even if they beat. Super
+[09:52] Micros, uh they did not beat, but uh
+[09:56] that order backlog is going to keep me
+[09:57] in the stock.
+[09:58] >> Perfect. Well, thank you so much. Thank
+[09:59] you to you all again for watching. Hope
+[10:01] you enjoyed this bonus segment. Make
+[10:02] sure to watch the other video that we
+[10:04] posted this week. Until then, we'll see
+[10:06] you all next Sunday for a new video.
+[10:07] Thanks so much, everyone.
+[10:09] [Applause]
+[10:10] [Music]

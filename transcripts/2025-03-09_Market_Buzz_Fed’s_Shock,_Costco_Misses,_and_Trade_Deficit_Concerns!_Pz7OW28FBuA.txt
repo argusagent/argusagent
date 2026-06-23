@@ -7,9 +7,434 @@ Type: video
 Duration: 17:42 (1062s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 426
+Transcript characters: 15278
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:14] hello everyone welcome back to Nali
+[00:15] Market Buzz episode 28 I'm Crystal
+[00:18] navier and I'm joined again this week
+[00:19] with my father Louis navier dad there's
+[00:21] been a lot of anxiety with the stock
+[00:23] market right now but what did fed
+[00:25] chairman Jerome Powell say that actually
+[00:27] caused the market reversal
+[00:30] yeah that happened on Friday and uh he
+[00:32] basically uh said the economy's
+[00:35] foundation is great and uh but they have
+[00:39] to wait for the data because you know
+[00:40] they're waiting to see how tariffs
+[00:42] impact everything just made everybody
+[00:43] calm down and made the market have a
+[00:45] stunning reversal uh now they're going
+[00:48] to have a a Fed meeting this month uh I
+[00:51] don't expect a rate cut at that meeting
+[00:53] but they'll probably set the stage for
+[00:55] uh future Ray Cuts because they will be
+[00:57] um outlined a Dot Plot and the dot pod's
+[01:01] a survey of all uh Federal Market
+[01:04] Committee members and uh I'm expecting
+[01:07] that they'll show at least two rate Cuts
+[01:09] this year but I do want everybody to
+[01:10] know I'm expecting four because I'm
+[01:13] expecting a collapse in global rates and
+[01:16] uh so as rates collapse around the world
+[01:20] uh our treasury yields will go lower and
+[01:22] then it'll Force our fed to cut more
+[01:23] than two so but we'll probably get
+[01:25] confirmation of two rate Cuts uh later
+[01:27] this month so I was very surprised that
+[01:29] Costco actually missed its earning
+[01:31] estimates but correct me if I'm wrong
+[01:34] don't they have strong same store
+[01:36] sales oh yeah they do they're up over 7%
+[01:39] which is amazing and also Costco is a
+[01:41] major gasoline retailer and you got to
+[01:43] realize oil prices recently hit the
+[01:46] lowest level in three years and so gas
+[01:48] prices are going down that weighs down
+[01:50] their sales so uh for them to have 7%
+[01:54] same store sales growth is nothing less
+[01:56] than amazing but they did warn about
+[01:58] tariffs okay will affect some of their
+[02:00] business mostly Electronics a lot of
+[02:03] stuff comes from China and uh
+[02:05] furthermore they did um uh say the the
+[02:09] consumer a bit cautious so uh that was
+[02:12] an excuse for the markets to sell but
+[02:15] Costco is a monopoly they're capturing
+[02:17] more and more market share uh they
+[02:20] they're really fighting with Walmart
+[02:21] right now and I'm not too worried and as
+[02:24] far as the tariffs are concerned you'll
+[02:27] be able to see the impact of tariffs
+[02:28] just watch TC
+[02:30] televisions TCL is a Chinese television
+[02:33] brand and uh it's always cheaper than
+[02:36] Samsung and Sony and they only do micro
+[02:39] LEDs they're not going to do o LEDs
+[02:41] micro LEDs the future the premium Sony's
+[02:44] or micro led the the the super expensive
+[02:47] samsons or micro LED so um uh just watch
+[02:51] this T the price of TCL TVs and I think
+[02:54] what you're going to find is even with a
+[02:56] 10% tariff due to the constant price
+[02:59] pressure in China due to a weak Chinese
+[03:02] wand due to a strong US dollar we won't
+[03:04] even fill those 10% tariffs but
+[03:06] nonetheless it hit Costco it hit Best
+[03:08] Buy and there was a lot of tariff
+[03:11] anxiety last week so while we're still
+[03:13] talking about tariffs you were recently
+[03:14] on mornings with Mar on Fox Business can
+[03:17] you share with everyone what you were
+[03:19] mentioning about the
+[03:20] tariffs yeah specifically we're talking
+[03:23] about
+[03:26] usmca and that is something the Trump
+[03:28] Administration passed in its first term
+[03:31] and it has to do with the foreign
+[03:34] content uh on vehicles so every vehicle
+[03:37] has a sticker how much you know us
+[03:40] Canadian uh content I think usmca is
+[03:43] actually North American content but
+[03:45] because the big three is in compliance
+[03:48] with
+[03:49] usmca the 20 there's no 25% tariffs
+[03:52] going on vehicles or vehicle parts so um
+[03:57] uh our Commerce Secretary um
+[04:00] Howard letnik made that very very clear
+[04:03] and it continues to repeat that and uh
+[04:06] so we should just chill out and not
+[04:09] worry about tariffs on the automotive
+[04:11] industry you know Trump's going to do
+[04:12] what the the big three want and if he
+[04:15] does want more content in in North
+[04:18] America especially the US he can amend
+[04:21] it and what they're really trying to do
+[04:24] is they're trying to get a lot of
+[04:25] foreign auto manufacturers on Shore in
+[04:28] America Honda for example uh decide to
+[04:31] build a new hybrid vehicle in Ohio at
+[04:35] their Maryville plant and inability in
+[04:38] Mexico and uh they're going to be all
+[04:40] over those German auto manufacturers uh
+[04:43] you know BMW uh Mercedes vwag group to
+[04:46] uh continue to onshore on America they
+[04:49] all have plants in America and um that's
+[04:53] really kind of what this whole tariff
+[04:54] thing is about it's increasing the on
+[04:57] Shoring so he's already had 1.1 trillion
+[05:00] on um on Short from SoftBank Oracle um
+[05:05] open AI apple and finally um uh tsmc so
+[05:12] and that's just a start so when this is
+[05:14] done there'll probably be trillions of
+[05:16] onshoring so you have been mentioning
+[05:19] that the economy keeps being held back
+[05:21] by the weather can you expand on
+[05:23] that yeah I actually get a lot of grief
+[05:25] for this um so I'll just try to cly
+[05:30] explain what I mean okay we've had a bad
+[05:33] winter uh it's the worst winter in 11
+[05:35] years we're 1.1 degrees cooler than
+[05:38] normal I'm outside in Florida because
+[05:41] it's not human it's very nice uh it's
+[05:43] even cool
+[05:44] here the um the that holds back economic
+[05:49] activity you know the snow in Houston
+[05:51] the snow in Louisiana uh people just you
+[05:54] know they don't go out about and Shop uh
+[05:56] the other thing is we had the horrible
+[05:58] fires in Los Angeles
+[06:00] and that really did impact um consumer
+[06:03] spending so what we've noticed is
+[06:06] consumer income is up in the pce report
+[06:08] it Rose 9/10 of percent but spending was
+[06:11] down two10 that's not normal when you
+[06:13] put money in consumer pockets they spend
+[06:15] it so my theory is when March comes and
+[06:19] the daffodils and tulips pop up and
+[06:21] they'll be popping up in New York soon
+[06:24] uh everybody will cheer up and and they
+[06:26] get out and about and spending will
+[06:28] improve but we are going to have a
+[06:31] negative quarter GDP growth and the
+[06:33] reason we are is we had a horrific uh
+[06:36] trade uh deficit report that the trade
+[06:39] deficit soared to the highest level ever
+[06:41] I think it was up
+[06:43] 34% uh because companies been dumping
+[06:45] Goods on America trying to beat the
+[06:47] tariffs and that was January so I'm sure
+[06:49] we're going to the same thing for
+[06:50] February and um and that's going to be
+[06:54] that's going to cause negative GDP
+[06:55] growth so now what do you expect from
+[06:57] Wednesday's CPR report
+[07:00] well the same thing I've been expecting
+[07:01] for several months which is for owner's
+[07:03] equivalent rent to basically um uh
+[07:07] collapse um it's a it has slowed down
+[07:11] but it needs to get at or near zero and
+[07:14] as soon as it gets add or near zero the
+[07:16] inflation is largely gone except for
+[07:18] food we have housing inflation in
+[07:19] America new home existing home sales are
+[07:21] very soft softest in years prices are
+[07:24] still being cut uh we got a glut of
+[07:26] rental properties everywhere except
+[07:28] Manhattan Baltimore more so it's just
+[07:31] time for uh all this reality to finally
+[07:34] show up in the numbers and as soon as it
+[07:36] shows up in the numbers um inflation
+[07:38] will be extinguished and do you expect
+[07:40] any surprises for Thursday's PPI
+[07:43] report ppi is much more important
+[07:46] because we want to see uh wholesale
+[07:47] service costs they've been in check but
+[07:49] really want to see wholesale good prices
+[07:52] uh we have a very strong dollar and the
+[07:53] price of goods should be under pressure
+[07:56] uh maybe even negative uh they've been
+[07:58] negative in the past so we want to see
+[08:00] see that now the theory that they keep
+[08:03] spreading on Wall Street is that they're
+[08:05] going to increase the tariffs and then
+[08:07] the the cost of goods goes up but that's
+[08:10] not the reality when you adjust for a
+[08:12] strong dollar and also a worldwide
+[08:15] economic recession uh so the demand for
+[08:18] Commodities is very soft that's why oil
+[08:21] is at a three-year low and um you know I
+[08:25] I don't expect much commodity inflation
+[08:27] at all that Commodities are price in
+[08:28] dollars then the video has been a Hot
+[08:30] Topic the past couple weeks when is the
+[08:32] AI developers
+[08:33] conference uh it's pretty darn quick
+[08:35] going to be for quite a few days and uh
+[08:38] it's going to end on uh Quantum
+[08:40] Computing uh nid had a contest who could
+[08:43] design the best quantum Computing
+[08:45] parameters and they'll be interviewing
+[08:47] some of those companies my publisher has
+[08:50] a video up on the web
+[08:52] but me teasing this and you might have
+[08:55] seen it and um it's going to be very
+[08:58] very exciting and um I I obviously
+[09:01] expect Nvidia not only lead AI I expect
+[09:04] them to be the quantum Computing leader
+[09:06] as well but they have to uh work with
+[09:08] other firms and and uh those other firms
+[09:11] uh have the ability to prosper as well
+[09:13] while we're talking about Nvidia one of
+[09:15] our subscribers wanted to know what if
+[09:17] the 25% tariffs on chips actually comes
+[09:21] true well that would be surprising
+[09:24] because you know uh tsmc the the biggest
+[09:27] Fan's chip maker for Nvidia Apple
+[09:31] Microsoft they make all the the fancy
+[09:33] chips that go on our laptops uh just
+[09:35] committed uh to spend an extra hundred
+[09:40] billion dollars at its um Arizona plant
+[09:43] so they are moving manufacturing and
+[09:46] oning into America so we'll be less
+[09:49] dependent upon Taiwan and our trade
+[09:51] deficit with Taiwan might drop a bit so
+[09:55] because TMC is doing what the Trump
+[09:57] Administration wants it would be
+[09:59] unfortunate for them to put those kind
+[10:00] of tariffs on but if they want to punish
+[10:02] some of the others they could but I
+[10:04] don't really expect it to affect hardly
+[10:07] anything because you know the margins on
+[10:09] these chips are ridiculous Nidia has a
+[10:12] 70% operating margin after taxes so
+[10:16] that's the biggest thing I've ever seen
+[10:18] so I'm I'm just not worried about it and
+[10:21] as far as the the ban on Nidia chips
+[10:23] outside of certain countries the B
+[10:25] Administration did
+[10:27] that I believe they they were only
+[10:29] allowing 19 countries to get their best
+[10:31] chips and there's starts there were
+[10:33] export restrictions on other chips but
+[10:36] see the Trump Administration meets with
+[10:38] Nvidia you know Jensen was um met with
+[10:41] President Trump not that long ago so the
+[10:44] administration will work with industry
+[10:46] to make sure that nothing is disrupted
+[10:49] but um yeah there's a lot of rumors that
+[10:51] tariffs are going to cause the economy
+[10:53] to implode and there's going to be a
+[10:54] black hole and all the chip stocks are
+[10:56] going to go down it and it's false it's
+[10:58] BL ly fall it's um it's clickbait they
+[11:03] use to to manipulate stock prices and
+[11:06] it's most unfortunate so I'm really
+[11:07] looking forward that in a video
+[11:08] conference to shut everybody up for lack
+[11:11] better work another one of our
+[11:12] subscribers wanted to know what your
+[11:14] thoughts were on
+[11:17] Oka you know I checked it their sales
+[11:20] and earnings are okay um um an revisions
+[11:23] are okay
+[11:25] but uh it gets a very poor score in
+[11:28] stock grader
+[11:31] and that's because it's very volatile
+[11:33] and um what our stock grader prefers it
+[11:36] prefers something called a high alpha
+[11:38] stock a stock that tends to go up when
+[11:40] the Market's going down and although the
+[11:42] stock has exhibited Rel strength
+[11:43] recently it hasn't done so in the last
+[11:46] uh 52 weeks uh and my stock gr is based
+[11:49] on a 52 we cycle so what we're doing is
+[11:51] every
+[11:52] week we cut off a week and we had a new
+[11:55] week and so it's going to take time for
+[11:57] this stock to improve um so if it can
+[11:59] keep up as Mojo that it's demonstrated
+[12:01] here recently yeah maybe it's grade will
+[12:04] approve but right now it's a degrade
+[12:06] overall that's very poor so I would like
+[12:09] you to avoid it it's ski season right
+[12:11] now can you comment on Big Five Sporting
+[12:13] Goods this was a big winner that we had
+[12:15] during the co uh era because everybody
+[12:18] was locked up and what they wanted to do
+[12:20] outdoor activities you know golf paddle
+[12:22] boarding whatever outdoor activity they
+[12:24] wanted to do it was a huge winner for us
+[12:26] but it's it's fallen on Hard Times and
+[12:29] uh if you look we charted stock price
+[12:31] it's pretty pretty bad it's uh it's just
+[12:34] a very sad story and horrific for in a
+[12:36] big F also Big Five Believe It or Not
+[12:40] sells a lot of
+[12:41] guns and uh guns sell better under
+[12:44] Democratic
+[12:45] administrations we're in a republic
+[12:47] Administration now so there's no rush to
+[12:49] buy guns so then what do you think about
+[12:50] Dick Sporting
+[12:52] guns uh it's doing better than big five
+[12:54] although it's forecast sales and
+[12:56] earnings don't get me excited at all but
+[12:58] it's definitely uh holding up better
+[13:00] than big five and U but I don't expect
+[13:03] anything spectacular from them at this
+[13:05] time sorry everyone for the background
+[13:07] change but Dad for my final question
+[13:09] what advice would you give to someone
+[13:10] who's new to the
+[13:12] market well basically buy things you
+[13:14] understand and um and it would help if
+[13:17] you're a customer of these companies too
+[13:20] but uh let's just start with Nidia um a
+[13:22] lot of people understand the viia
+[13:24] because of the graphics cards um they
+[13:27] might have done gaming in the past they
+[13:29] dominate gaming but Nvidia chips have
+[13:32] been in your devices for a long long
+[13:33] time they make the energy efficient
+[13:36] graphic chips that are in your phones
+[13:38] your your computers they've been your
+[13:40] computers for decades now and now of
+[13:43] course they're making these huge very
+[13:44] powerful um chips for AI the black oil
+[13:47] chip that goes in the cloud computing
+[13:50] centers and they're a Pioneer in Quantum
+[13:53] Computing and uh they're they have a
+[13:56] Quantum Cloud simulator up and running
+[13:58] so I like monopolies when it all
+[14:01] possible and the video would be the best
+[14:03] example of that some examples of retail
+[14:06] monopolies would be something like um
+[14:09] Amazon uh uh Costco and then Walmart now
+[14:13] all these companies are growing Costco
+[14:16] is the Best Buy near term because as you
+[14:18] pointed out they they had a slight
+[14:19] earnings Miss but that stock will bounce
+[14:22] big time uh their same store sales uh as
+[14:25] you point out are stunning so um I don't
+[14:28] think we should worry about Costco the
+[14:30] thing you should be aware of retail is
+[14:33] that there are wealthy consumers a lot
+[14:35] of the Boomers and then there are
+[14:38] consumers that are struggling so if you
+[14:40] can deal with the retail that caters to
+[14:43] the more fluent people that helps uh
+[14:46] Walmart is becoming attracting
+[14:49] increasingly uh more fluent shoers
+[14:51] especially for groceries Costco attracts
+[14:55] a fluent people and be honest with
+[14:57] Amazon just attracts everybody um
+[15:00] another example would be uh your fast
+[15:03] food uh the hot fast food company right
+[15:06] now is Cava Cava theyve announced over
+[15:10] um 3,000% earnings growth which believe
+[15:13] or not was a Miss was a penny Miss but
+[15:17] um cabba brings Mediterranean food um
+[15:20] there seems to be a little um pushback
+[15:23] against Chipotle they're starting to
+[15:24] weigh the food a little bit more and uh
+[15:26] being careful what they put in it and of
+[15:29] course they've always weighed it when
+[15:30] you check out but they seem to be kind
+[15:32] of the the more expensive ingredients
+[15:36] weighing that um and then on top of that
+[15:39] everybody seems to be worried about the
+[15:41] Tariff Sun
+[15:42] guacamole uh because avocados come
+[15:44] promly from Mexico so um it's uh kava's
+[15:50] got a nice window here to capture more
+[15:52] and more market share and um and if
+[15:55] you've gone to one of the stores you
+[15:57] might want to try the stock and there's
+[15:59] one more thing I should mention um we
+[16:01] have links on this site to our stock
+[16:04] grader and normally stock grader you
+[16:07] have to pay for it but on this website
+[16:09] you it's free so click on those links go
+[16:13] to our stock grader key your stocks in
+[16:16] and then we grade them for you abcdf uh
+[16:18] we just did our our updated our back
+[16:21] testing and uh the top 45% of stocks
+[16:24] that score the highest fundamentally are
+[16:26] extraordinary the top 5% of stocks are
+[16:28] also also very good and uh on our Quant
+[16:31] score so uh please use stock grater to
+[16:34] track your stocks you want to run your
+[16:36] portfolio like it's a sports team you
+[16:38] want to eventually sell good stocks to
+[16:39] buy better stocks but you can actually
+[16:42] save your portolos and stock grer it's a
+[16:44] very powerful tool it's the same tool I
+[16:46] use to manage money and the reason we
+[16:48] give it to everybody free is because we
+[16:50] want to empower you and we've written
+[16:53] two books on this and the first book was
+[16:55] designed to launch stock grader second
+[16:57] book is a lot more about Market
+[16:59] anomalies and other things but we do
+[17:01] talk quite a bit about our stock grer in
+[17:03] our new book well thank you so much for
+[17:05] answering all my questions and thank you
+[17:07] to you all for liking commenting and
+[17:09] subscribing we really appreciate all
+[17:11] your support if you do want to get
+[17:13] Louis's new book it'll be in the link
+[17:14] below also we are on Spotify if you want
+[17:17] to listen to us on the go that's a great
+[17:18] platform to do so but if you have any
+[17:21] questions that you want us to address in
+[17:22] next week please leave them in the
+[17:23] comments below but until then we will
+[17:26] see you all for a new video
+[17:28] he
+[17:30] [Music]

@@ -7,9 +7,469 @@ Type: video
 Duration: 16:54 (1014s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 461
+Transcript characters: 15855
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Oil just made a massive move. The stock
+[00:03] market is rallying and could Nvidia move
+[00:05] tech stocks again? Let's talk about
+[00:07] what's really going on in the markets.
+[00:09] Welcome back to Navellier Market Buzz.
+[00:16] >> [music]
+[00:17] >> WTI crude fell from 119
+[00:21] to $85 intraday even though that the G7
+[00:25] didn't release reserves. What's driving
+[00:27] the sharp move in oil and is the bounce
+[00:30] in semiconductor stocks sustainable?
+[00:32] Yeah,
+[00:33] what happened is President Trump had a
+[00:35] press conference and he said that we're
+[00:37] almost done and uh
+[00:40] the bombing is very intense now. I think
+[00:42] the other day it was over 3,000 targets.
+[00:45] This day is supposed to be the most
+[00:46] intense bombing day cuz they're bringing
+[00:48] in the big bombers that are
+[00:50] uh can just
+[00:52] drop heavier uh payload of bombs. And uh
+[00:55] so basically they've degraded the the
+[00:58] ballistic missiles and and the drones.
+[01:01] So Iran should not be able to fire back
+[01:04] soon. They've sunk
+[01:06] 51 Iranian navy ships and the US is
+[01:10] pledging to reopen the Strait of Hormuz.
+[01:12] The the big issue is insurance. All
+[01:14] these tanker companies and shipping
+[01:17] companies have insurance and we got to
+[01:19] make sure the insurance premiums drop.
+[01:21] So as soon as Strait of Hormuz gets open
+[01:23] everything gets back to normal quickly.
+[01:25] Obviously Iran is still firing uh drones
+[01:28] and things and that's got to wind down.
+[01:30] And right now the bulk of it's going to
+[01:33] the United Arab Emirates and we got to
+[01:35] make sure all that fighting calms down.
+[01:37] Okay, the semiconductor rally that this
+[01:40] commenced this week was basically cuz
+[01:43] Nvidia is having a GPU conference
+[01:46] uh next week where they're going to talk
+[01:48] about their
+[01:49] architecture of their new chips cuz you
+[01:51] know everybody's got to program for the
+[01:53] chips so they got to release the
+[01:54] architecture.
+[01:55] There's also supposed to be a lot of um
+[01:58] interest into in the optical
+[02:00] connections.
+[02:02] Uh so that bodes well for Corning that's
+[02:05] GLW and Ubiquity which is UI.
+[02:09] Uh they make optical uh connect
+[02:11] components.
+[02:12] So um those stocks um
+[02:15] are getting excited as are
+[02:17] the memory stocks like Micron Technology
+[02:20] that's MU
+[02:21] uh and of course Seagate Technology STX.
+[02:25] So that these are all things that um
+[02:28] that are benefiting from that Nvidia
+[02:30] conference next week. Let's stay on the
+[02:32] theme of volatility for a moment. Why
+[02:34] are commodity markets so volatile right
+[02:36] now? Are markets still behaving
+[02:38] rationally? Well, I think the commodity
+[02:39] markets are somewhat irrational. You saw
+[02:42] it with gold earlier in the year and
+[02:43] silver with some dramatic intraday price
+[02:45] swings because they're open on weekends
+[02:47] and you know uh
+[02:49] there's not a lot of people around
+[02:50] paying attention so they're
+[02:51] hypersensitive. And you know the
+[02:54] the futures market react to headlines so
+[02:57] but you know when volume gets increased
+[03:00] then
+[03:01] extreme movements are harder to occur.
+[03:03] So it looks like all the people that
+[03:05] panicked are now calming down and we can
+[03:08] see that things will return to normal.
+[03:10] But again when it comes to the energy
+[03:12] markets as soon as the Strait of Hormuz
+[03:14] is opened up. The other issue is a lot
+[03:17] of the storage facilities have hit their
+[03:19] peak and when that happens you have to
+[03:20] start curtailing production at the
+[03:22] wellheads. So that's not good. We want
+[03:24] it to always be moving. So it will take
+[03:27] some time to restart stuff but the main
+[03:30] thing is to get the shipping lanes
+[03:31] moving again. Well and even France uh
+[03:34] offered him support ships. So between
+[03:36] the US and France uh there's plenty of
+[03:38] military boats out there that
+[03:40] will escort tankers. Let's zoom out to
+[03:42] the broader economic picture. The
+[03:44] Atlanta Fed cut its first quarter GDP
+[03:47] estimate to a 2.1% annual pace. What are
+[03:50] your expectations for growth going
+[03:52] forward? I think that's a little low. Um
+[03:55] you know our record energy exports of
+[03:57] LNG and crude oil and refined product
+[04:00] are definitely going to improve the GDP
+[04:02] numbers. Obviously the problem with
+[04:04] growth in the first quarter was largely
+[04:07] due to the weather. You know, now that
+[04:10] spring is here and the tulips and
+[04:11] daffodils are going to pop up we won't
+[04:13] have that weather holding us back. I
+[04:16] think it'll be much higher than 2.1. The
+[04:18] other thing is what are the productivity
+[04:19] gains? The US economy's been just
+[04:22] announcing wave after wave of
+[04:23] productivity gains. And you know, let's
+[04:25] face it hiring's really tight now
+[04:27] because the US economy hasn't created
+[04:29] jobs for the payroll for five of the
+[04:31] last nine months. And when you have more
+[04:33] senior employees you tend to have
+[04:34] productivity gains anyway cuz they
+[04:36] already know what they're doing.
+[04:38] Between productivity and trade I think
+[04:41] things will will improve. Now retail
+[04:43] sales are still not as strong as you
+[04:45] need them to be in the US as a consumer
+[04:47] led led economy. So hopefully we'll get
+[04:49] up to 3% GDP growth in the in the first
+[04:52] quarter and second quarter we have the
+[04:53] potential to hit five. BlackRock
+[04:55] recently limited its redemptions on one
+[04:57] of its flagship private credit funds.
+[05:00] What does this mean? It just means the
+[05:01] private credit industry remains very
+[05:03] nervous. Apparently the redemptions were
+[05:05] about 9.3% of the fund. Um it's $26
+[05:08] billion fund. They requested $1.2
+[05:11] billion redemptions. The fund has the
+[05:13] right to restrict redemptions above 5%
+[05:16] and that's exactly what BlackRock
+[05:19] but that's going to make investors more
+[05:20] nervous because they know when they
+[05:22] invest in private credit now they know
+[05:23] it's not that liquid. So if there is an
+[05:27] any implosion in private credit it will
+[05:29] force the Fed to cut rates because
+[05:31] slashing rates will fix that. Private
+[05:33] credit again is a shadow banking system
+[05:36] that was largely caused by Dodd-Frank.
+[05:39] Dodd-Frank made bank lending very very
+[05:42] difficult. So uh
+[05:44] a shadow banking system emerged in the
+[05:46] last decade and went from just 400
+[05:49] billion to now over 3 trillion a year.
+[05:52] So this is going to impede lending and
+[05:54] um and that might impede um some
+[05:56] economic growth. Uh the only way to fix
+[05:59] it is to start slashing rates. So we
+[06:01] have to keep an eye on this. It's not a
+[06:03] threat to my stocks. I don't own
+[06:05] financials
+[06:06] but the sector remains very very
+[06:08] nervous. Now let's take a few questions
+[06:10] from subscribers. Dad, what are your
+[06:12] thoughts on PSIX right now? Well,
+[06:14] unfortunately uh the analyst community
+[06:16] did cut their estimates on the stock uh
+[06:18] from 70 cents to 52 cents um and that is
+[06:21] why the stock uh got weak. Uh it should
+[06:24] bounce. Uh sales was be up 18.7%
+[06:27] um next quarter. It does have a good
+[06:29] surprise history. Uh it does provide a
+[06:31] lot of solutions out there in the oil
+[06:33] field as well as some data centers. So I
+[06:36] expect it will it will be okay but um
+[06:38] that is why it got volatile. So um
+[06:41] I'm I'm waiting for a significant bounce
+[06:44] in the stock and then I'll reassess it
+[06:46] and I want to keep an eye on the analyst
+[06:47] community very carefully.
+[06:49] >> With all the turmoil in energy markets
+[06:51] why hasn't the XLE moved higher? Well,
+[06:54] that's a good question. This is an ETF
+[06:57] and it depends what they put in the ETF.
+[06:59] You know, there's a lot of natural gas
+[07:01] stocks that trade off their dividend
+[07:03] yields. There's a lot of midstream and
+[07:05] pipeline companies that trade off their
+[07:07] dividend yields. And so even though we
+[07:09] had a spike in LNG prices and and a
+[07:12] brief spike in the crude oil prices uh
+[07:15] those stocks a lot of those stocks trade
+[07:16] on dividends. Now the big oil majors,
+[07:19] you know, the Exxons, the Chevrons, etc.
+[07:21] They're a little bit more sensitive to
+[07:23] to crude oil prices but when you buy an
+[07:25] ETF you're buying a basket of a lot of
+[07:27] of stocks in different industries and
+[07:30] midstream, pipelines, natural gas and of
+[07:32] course crude oil. So just crude oil
+[07:34] prices don't always affect the ETF as
+[07:37] much. The other thing is please be aware
+[07:39] of the ETF spreads. Go to
+[07:40] morningstar.com
+[07:42] type in the the ticker symbol for the
+[07:45] ETF and see what the spread is. It's
+[07:47] usually pretty tight at the morning and
+[07:50] um
+[07:51] at the close but in the middle of the
+[07:52] day it can be pretty wide so you you
+[07:54] don't want to place any buy or sell
+[07:56] order
+[07:58] with a wide spread.
+[07:59] >> And what's going on with Ciena and why
+[08:01] did it drop its rating to a B in your
+[08:03] system?
+[08:03] >> Well, that's a good question. I'm
+[08:05] looking at it right now. Uh sales is
+[08:07] supposed to be up 154.
+[08:09] Uh
+[08:10] 2%
+[08:12] earnings is supposed to be up 194.3.
+[08:15] Uh the analyst community is consistently
+[08:17] revising their estimates higher. In fact
+[08:19] uh last month it's gone from 82 cents to
+[08:21] $1.03
+[08:23] and they have a good earnings surprise
+[08:24] history. So a stock can drop for two
+[08:27] reasons. It's alpha can um
+[08:30] uh start to dissipate and that would
+[08:32] cause its quantitative ranking to drop.
+[08:34] Fundamentally this looks pretty solid so
+[08:36] I doubt if it fell because of the
+[08:38] fundamental ranking. It looks like it
+[08:39] was probably the quantitative ranking.
+[08:41] But Ciena by the way this stock is not
+[08:44] under management but this stock uh does
+[08:46] rank very very well in my system. I
+[08:48] haven't added to my portfolio yet so
+[08:50] I'll have to to dig into it. This Nvidia
+[08:53] conference they're having next week is
+[08:55] going to supposed to be talking a lot
+[08:56] about optical connections. That's what
+[08:58] Ciena does. So that Nvidia conference
+[09:01] should help the stock quite a bit.
+[09:02] >> You previously liked CIEN for its strong
+[09:05] fundamentals. After last week's dip do
+[09:08] you still like this stock? Yeah, very
+[09:09] much so. Uh their sales um
+[09:12] are supposed to be up uh
+[09:14] 32.8 in the first quarter. Their
+[09:16] earnings is supposed to be up 245. And
+[09:18] uh 0.5%.
+[09:20] The analysts continue to revise their
+[09:22] earnings estimates higher. In fact in
+[09:23] the last seven days they've gone from
+[09:25] $1.21
+[09:26] to $1.40
+[09:28] five. Very good surprises. You know,
+[09:30] this is a small cap stock. It deals with
+[09:33] data centers but the um this is another
+[09:35] optical stock like Ciena and Ubiquity UI
+[09:40] um
+[09:40] and it's it should benefit from that
+[09:43] Nvidia conference next week. So that
+[09:45] should help them quite a bit.
+[09:46] >> Now what's your quick take on AEVA?
+[09:49] Well, it had a big beat last quarter.
+[09:51] That's good. The earnings surprise was
+[09:54] uh over 10%.
+[09:56] Their sales are forecast to be up 45.5.
+[10:00] Operating earnings growth are only
+[10:01] supposed to be up 3.7. This company is
+[10:03] still uh posting
+[10:05] uh
+[10:05] losses. Uh the analyst community has
+[10:08] uh trimmed their estimates just a tiny
+[10:10] bit, but they're supposed to lose 43
+[10:12] cents a share, and they're not supposed
+[10:14] to be profitable next year either. So,
+[10:16] this stock's going to miss my radar
+[10:19] despite the spectacular sales growth
+[10:21] just because it's not profitable yet.
+[10:23] Now, this company is in the lidar
+[10:26] business, okay? My lidar stock is HSI,
+[10:30] based in China, and I'm not saying that
+[10:33] AV Technologies lidar is not as good or
+[10:35] anything, but the the bottom line is uh
+[10:38] until it's profitable, I am not going to
+[10:40] be uh temp- be investing in it. So, I'd
+[10:43] rather you buy HSI. If a stock's rating
+[10:46] moves from a C to a B or from a B to an
+[10:49] A, is that enough reason to consider
+[10:50] buying after doing your own research?
+[10:53] >> Sometimes. Um
+[10:55] you're showing right now the latest
+[10:57] quarterly back test that we did on Stock
+[11:00] Grader and our eight-month fundamental
+[11:02] model.
+[11:03] And essentially, we're pretty ecstatic
+[11:05] with that back test cuz it shows Stock
+[11:07] Grader is working very well, but the top
+[11:09] two bar graphs, which is the top 10%,
+[11:12] are clearly the best, okay? And that's
+[11:15] going to be the A's and A+'s.
+[11:17] Um once you start getting to lower grade
+[11:20] uh stocks, even A-'s, performance falls
+[11:22] off the cliff pretty fast. That's just
+[11:24] cuz we're in a very narrow market still.
+[11:26] The fundamental model is decaying in a
+[11:28] little bit more predictable manner. The
+[11:29] top 30% look pretty good, but you want
+[11:32] to have the good quant plus fundamentals
+[11:35] and get in the top 10% as much as
+[11:36] possible. So, what really happened this
+[11:39] year is it reverted back to what was
+[11:41] working last year. Uh last year, it was
+[11:43] data center related stocks, Eli Lilly,
+[11:46] so be Novo Nordisk in the weight loss
+[11:48] business. And then, of course, we had a
+[11:50] lot of uh gold stocks, and gold's still
+[11:52] doing very well cuz of the the high
+[11:54] prices this year. The market should
+[11:56] broaden out as the economy improves, but
+[11:59] this year's very much like last year. If
+[12:01] you could only buy one stock besides
+[12:03] Nvidia right now, what would it be? Oh,
+[12:05] there's a lot of good stocks other than
+[12:06] Nvidia. Uh
+[12:08] Nvidia just happens to be a monopoly. It
+[12:09] happens to be a big part of our economy.
+[12:11] It helps to be dominating the the data
+[12:14] center boom. But I like um my good
+[12:16] stocks on dips. Uh the gold stocks are
+[12:19] the best buys right now. Um
+[12:21] you know, Barrick, uh that's B, Kinross,
+[12:24] KGC.
+[12:26] You know, I have 20 plus gold stocks,
+[12:28] but uh
+[12:30] gold's going to continue to do well due
+[12:31] to uh the chaos with central banks.
+[12:34] What's happened is Asia and northern
+[12:37] Europe are shrinking. They're losing
+[12:39] households. There's fewer fewer people
+[12:41] paying in the system to pay their debt
+[12:43] and all. And so, the banks are going to
+[12:44] have to increasingly do uh quantitative
+[12:46] easing. We're not there yet in America
+[12:48] because we're demographically younger.
+[12:50] We're very pro-family in the south and
+[12:52] the mountain west.
+[12:53] US does also simulate immigrants better.
+[12:56] I realize President Trump wants them all
+[12:58] to be legal, but we're not going to stop
+[13:00] immigration. So, what all that means is
+[13:02] is that the US has a better model than
+[13:04] the rest of the world. You've seen the
+[13:06] dollar research here. Some of it due to
+[13:08] the military strength, but also due to
+[13:10] the fact that we have stronger economic
+[13:12] growth than the rest of the world. A
+[13:14] good example is um industrial orders in
+[13:16] Germany just declined 11% a month.
+[13:18] That's devastating. Uh but Germany, you
+[13:20] know, shot itself in its own foot
+[13:22] because they have very expensive
+[13:23] electricity, and it's hard to have a
+[13:26] manufacturing economy with expensive
+[13:27] electricity. Now, they've tried to
+[13:29] outsource a lot to Poland, Hungary,
+[13:31] Czech Republic, Slovakia, but you know,
+[13:34] they're going to have to outsource to to
+[13:36] more more uh countries. And there's a
+[13:39] reason that Howard Lutnick went asked
+[13:41] Mercedes to move to America. They
+[13:43] already have plants in America. They're
+[13:44] prospering. You know, if Germany can't
+[13:47] provide cheap electricity, then
+[13:49] it's it's time to uh
+[13:52] to move your operations to where you can
+[13:53] be profitable. And so,
+[13:56] that's what's going on in a lot of the
+[13:57] world right now. And uh between the
+[13:59] demographic decline, high energy prices,
+[14:02] or and of course, the all the
+[14:03] disruptions from energy, you know, all
+[14:05] these disruptions in the Middle East
+[14:07] aren't affecting America, but they do
+[14:08] affect Europe, Asia, China, India. So,
+[14:12] we're we're blessed in America right
+[14:14] now. Lastly, you've said that investors
+[14:16] should buy the dips, but there's also
+[14:18] talk about a potential 30 to 50% market
+[14:21] drop. With all the noise around crypto,
+[14:24] AI disruption, and big market
+[14:26] metacycles, how should investors stay
+[14:28] focused and positioned right now? I
+[14:30] think you're referring to what Bloomberg
+[14:32] said, Ed Yardeni raised the odds of a
+[14:35] correction to
+[14:37] 35%. Uh so, that's fine. You know, I
+[14:41] respect Ed. He he still has his roaring
+[14:44] 2020 theme, okay? He's still very
+[14:47] bullish, but the media likes to scare
+[14:50] you, and you have to realize the media
+[14:53] gets hits when they scare you. So,
+[14:56] they're going to be scaring you forever.
+[14:58] It's as simple as that. And somebody
+[14:59] like me, I pay attention to earnings and
+[15:01] fundamentals. When earnings are on, I'm
+[15:03] on, and I don't waver. So, I ride
+[15:06] through all these bumps and bruises.
+[15:08] Now, crypto has nothing to do with what
+[15:11] I do. Nothing. If anything, it's going
+[15:13] to help gold go up more because the
+[15:15] crypto investors have lost a lot of
+[15:17] money. So, if they want are looking for
+[15:19] another alternative, they might want to
+[15:21] try gold. Second, uh as far as the AI
+[15:23] disruptions and things, this is just a
+[15:25] theme that is out there constantly
+[15:28] because AI clearly is starting to
+[15:30] disrupt jobs and things, but
+[15:33] you know, you want to go to where AI is
+[15:35] being monetized, okay? And um
+[15:38] you know, Palantir monetizes it. Apple
+[15:40] loving monetizes it. Nvidia is obviously
+[15:43] prospering from it. So are all the data
+[15:46] center
+[15:47] related companies. Uh good example is
+[15:49] one's called Comfort Systems. What do
+[15:50] they do? They just install commercial
+[15:52] air conditioning.
+[15:54] You know, but they're prospering from
+[15:55] all that data center boom. So, um
+[15:58] you know, just realize the media is
+[15:59] always going to try to scare you, okay?
+[16:01] Also, I should add that
+[16:04] a lot of the media does not like
+[16:05] President Trump, especially the foreign
+[16:07] press, and they're always going to be
+[16:09] negative. I noticed when oil was at back
+[16:12] at $85 a barrel, I turned on BBC, and
+[16:14] they kept saying it was $100 a barrel.
+[16:17] Uh they didn't want to admit that that
+[16:19] it dropped after President Trump gave a
+[16:21] little talk. Uh and that that reassured
+[16:24] the energy markets. Um but the BBC's
+[16:27] always been very negative to America.
+[16:29] They've always been very anti-Trump.
+[16:31] And um whether that's right or wrong,
+[16:34] that's just where we're at. Perfect.
+[16:35] Well, thank you all so much for joining
+[16:37] us for this midweek update. We really
+[16:39] appreciated all of your questions. Make
+[16:41] sure you give this video a like and
+[16:43] subscribe if you haven't already, but
+[16:45] we'll see you this Sunday for a new
+[16:46] video.
+[16:48] >> [music]

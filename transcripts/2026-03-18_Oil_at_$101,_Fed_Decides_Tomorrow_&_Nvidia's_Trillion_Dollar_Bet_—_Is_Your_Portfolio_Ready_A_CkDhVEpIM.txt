@@ -7,9 +7,331 @@ Type: video
 Duration: 12:41 (761s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 323
+Transcript characters: 11321
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Oil just hit $101. The Fed decides
+[00:03] tomorrow and Nvidia dropped a number
+[00:05] that could reshape [music]
+[00:06] every portfolio on the planet.
+[00:08] >> Nvidia's still going to be over a
+[00:11] trillion dollars.
+[00:12] >> Louis Navellier has been running his
+[00:14] quant model through all of it and what
+[00:16] it's flagging might surprise you. Let's
+[00:18] get into it. Welcome back to Navellier
+[00:20] Market Buzz.
+[00:30] >> [music]
+[00:34] >> Today's oil, the Fed, Nvidia's
+[00:36] trillion-dollar project. One thing our
+[00:39] subscribers need to know about this
+[00:41] market right now. What is it?
+[00:42] >> Well, first of all, oil is still
+[00:44] oscillating, but it's not bothering the
+[00:46] markets anymore because it's widely
+[00:49] perceived that when the fighting is
+[00:51] over, the price of oil will come down
+[00:54] and the world will be a safer place. So,
+[00:56] that's President Trump's promise. Not
+[00:58] everybody believes him, of course, but
+[01:00] the truth of the matter is the
+[01:01] fertilizer situation is probably more
+[01:03] serious than the oil situation. They
+[01:05] need to get fertilizer in the ground so
+[01:08] food prices don't go up too much and you
+[01:10] know, Qatar and all these other
+[01:11] countries make a lot of them
+[01:14] nitrogen-based fertilizer from natural
+[01:15] gas. But, this is the time of year where
+[01:18] demand goes up for oil because the
+[01:20] weather's getting better, people are
+[01:21] getting out about a little bit more, but
+[01:23] the energy stocks are not doing as good
+[01:25] as you would think they would because we
+[01:28] are expecting
+[01:29] the prices to fall when the when the
+[01:31] glut gets re-exposed.
+[01:32] >> Now, let's get into the stories driving
+[01:34] all of this and we have to start out
+[01:36] with Nvidia. If Nvidia is the backbone,
+[01:38] who else wins? You know, we saw Uber was
+[01:40] up 5% today on a robo-taxi deal with
+[01:43] Nvidia. Is this real or hype?
+[01:45] >> Well, everybody that makes an
+[01:47] affiliation with Nvidia wins and these
+[01:49] are what they call circular deals.
+[01:53] Sometimes companies don't have the money
+[01:55] to buy the Nvidia chips, so Nvidia does
+[01:57] a deal with them and then all of a
+[01:59] sudden they're instantly worth more
+[02:00] money and
+[02:01] they can do a bond or stock or a stock
+[02:03] offering to raise the money.
+[02:05] Yeah, Nvidia's sales are going to be
+[02:08] over a trillion dollars soon and that's
+[02:10] 100% sales growth and they that's for
+[02:13] next year. Right now, they're estimated
+[02:16] their sales are estimated to be up 79%
+[02:19] earnings like 119.
+[02:21] They're going to be revising all those
+[02:22] estimates higher. So, Nvidia's still
+[02:25] dominating and it's amazing for a
+[02:28] company this size just to like
+[02:32] that they still have accelerating sales
+[02:34] and earnings momentum. And but right
+[02:35] now, Wall Street's focused on who's
+[02:37] making deals with Nvidia. The optical
+[02:39] companies were seem to be doing the
+[02:41] best, the Cornings. We have one called
+[02:44] Ubiquity UI and then Ciena c i e n all
+[02:49] have done very, very well. But, anybody
+[02:51] affiliated with Nvidia, storage has also
+[02:53] done very well. We own Micron MU and
+[02:56] Seagate Technology STX. So, if you just
+[02:59] show a stock chart of all those stocks,
+[03:01] people can see how excited they've
+[03:02] gotten. So, while tech is moving,
+[03:04] something else needs your attention. Oil
+[03:06] hit $101 today with Iran war, the Strait
+[03:10] of Hormuz being closed. What does this
+[03:12] mean for portfolios? Well, the good news
+[03:15] is WTI is 95 bucks a barrel.
+[03:17] Now, that's West Texas Intermediate
+[03:19] Crude. That's predominantly what we use
+[03:21] in the United States. Europe depends
+[03:22] more on the Brent ultra-light sweet
+[03:24] crude, which is becoming increasingly
+[03:25] scarce. Essentially, the oil that used
+[03:27] to come from Nigeria, Libya was the
+[03:29] sweetest crude out there and that's
+[03:31] where the Brent crude comes from. But,
+[03:33] the WTI's
+[03:35] you know, again, 95 bucks.
+[03:38] And again, it's perceived that
+[03:40] we're going to have a glut here soon.
+[03:42] They got to get the Strait of Hormuz
+[03:43] open for the fertilizer. Israel keeps
+[03:46] taking out Iranian leadership, the head
+[03:48] of their security services and then one
+[03:50] of the Brigadier Generals that was
+[03:52] suppressing the domestic protests. So,
+[03:54] as they continue to take out this
+[03:55] leadership and continue to obliterate
+[03:58] the missile and drone factories,
+[04:01] Iran should not be firing on their
+[04:03] neighbors much longer. So, this all
+[04:06] should die down soon and
+[04:08] and hopefully we'll have peace and
+[04:09] prosperity in the world. Obviously,
+[04:11] we're going to have to work with the new
+[04:12] leadership of Iran. Obviously, everybody
+[04:14] wants Iran to be part of the
+[04:16] international community. So, we'll just
+[04:17] see who's left in charge and and who who
+[04:20] who see if new leadership rises up.
+[04:23] >> We have geopolitical risk on one side
+[04:25] and the Fed is meeting as we speak.
+[04:28] Decision tomorrow. What are you watching
+[04:29] for and what could actually move
+[04:31] markets? Well, we should get a split
+[04:32] vote because the US economy hasn't
+[04:35] created jobs in five out of the last
+[04:37] nine months. And the AI investments by
+[04:40] Meta, Amazon, Google are
+[04:44] a lot. And the more they invest in AI,
+[04:46] the more layoffs they may be having,
+[04:48] okay? And it was already rumored that
+[04:50] Meta might have to lay off 20% of their
+[04:52] workforce because of all the AI
+[04:54] enhancements. So, there is a job problem
+[04:57] in America and hopefully we'll have some
+[05:00] people in the Fed voting to cut rates.
+[05:02] Regardless, they'll be probably
+[05:04] signaling when they will be cutting.
+[05:06] Most people expect a cut by May. Market
+[05:08] rates did back up just a bit, so I don't
+[05:10] expect a Fed cut, but I do expect a
+[05:12] split vote. And we want a dovish FOMC
+[05:15] statement.
+[05:15] >> Stepping into individual names,
+[05:17] Lululemon reports tonight, down 50% from
+[05:20] its highs. Is this going to bounce back?
+[05:23] >> Only if they guide higher. Yeah, they
+[05:24] have to guide higher. Their sales and
+[05:26] earnings are just not spectacular
+[05:28] anymore.
+[05:30] They did have a decent surprise, but
+[05:32] they're just well below everybody's
+[05:34] expectations. So, and Lulu's
+[05:36] complicated. Lulu at one time was making
+[05:39] a lot of money from sports apparel, you
+[05:41] know, men's socks and things. Then they
+[05:43] got into making men's pants, you know, a
+[05:44] lot of ladies buy that for their
+[05:47] their other half and um
+[05:50] you know, it's they're just going to
+[05:52] have to give us good guidance. Now,
+[05:53] Qualcomm just sent a very different
+[05:55] signal. 20 billion buyback, raised
+[05:58] dividend. What is this management
+[06:00] telling us? It's trying to put a floor
+[06:02] under its stock. You know, when you have
+[06:04] a very high return equity and a
+[06:06] relatively low P/E ratio, they just take
+[06:08] their capital and buy their stock back.
+[06:10] And so, that's what they're trying to
+[06:11] do. They're trying to put in a floor
+[06:13] under their stock.
+[06:13] >> And KKR, Blackstone, BlackRock all up 3
+[06:17] to 5% today. Not a coincidence. So, what
+[06:20] is driving it and should our subscribers
+[06:22] be paying attention to alternatives?
+[06:24] Well, there is a lot of articles out
+[06:26] there on private credit right now and um
+[06:29] and it's complicated. And but the bottom
+[06:32] line is they're getting a relief rally.
+[06:34] There have not been investor losses.
+[06:37] They are if there is a loss, they're
+[06:39] eating it internally and so they're
+[06:41] getting a bit of a relief rally. But,
+[06:43] private credit's not going to go away,
+[06:44] but it has been wounded temporarily.
+[06:46] >> All right, let's get into some of your
+[06:48] questions. We got a great batch this
+[06:50] week. Now, one of our subscribers wanted
+[06:52] to know about the three Latin American
+[06:54] airline stocks.
+[06:55] >> LATAM is the Cadillac. It's the highest
+[06:58] ranked one. I was I keep seeing on my
+[07:00] screens. I haven't bought it.
+[07:02] Temporarily, they're going to face
+[07:03] higher fuel prices because of the
+[07:05] disruption in the Middle East. So, that
+[07:07] might affect them for one quarter, but
+[07:09] that's a Chilean-based airline and in
+[07:11] Chile, they ship a lot of their cargo on
+[07:13] planes because you know, that's a
+[07:15] mountainous country. It's hard to put on
+[07:17] a train or a truck. But, that's a very
+[07:19] well-run airline. Copa's okay.
+[07:23] They're competitive and I believe that's
+[07:26] out of Panama. Copa's a
+[07:27] a pretty well-run airline. Again, higher
+[07:29] fuel costs. Aero Mexico, I would just
+[07:32] worry about because the they had that
+[07:34] little glitch in tourism for a while and
+[07:37] hopefully that doesn't affect their
+[07:38] overall business. But, all these
+[07:40] airlines are going to be held back by
+[07:42] higher fuel costs for at least this
+[07:43] quarter. Next, economy looks good on
+[07:45] paper, but the chart is ugly. Which one
+[07:48] do you trust?
+[07:49] >> I trust the actual revisions to GDP. We
+[07:51] are getting huge productivity gains. We
+[07:54] do have
+[07:56] a shrinking trade deficit because of
+[07:59] booming exports. January was due to gold
+[08:01] and February should be due to energy
+[08:03] exports, LNG, refined product and
+[08:05] obviously crude oil. And then
+[08:08] and then we just need the consumers to
+[08:10] cheer up and be happy. A lot of that
+[08:12] will happen in the spring. So, the
+[08:13] second quarter is going to be much
+[08:14] stronger than the first quarter. First
+[08:16] quarter was held back by weather. It's
+[08:17] kind of hard to go shopping when it's a
+[08:19] popsicle outside and you can fall on the
+[08:21] ice. We will have better second quarter
+[08:23] GDP growth than first quarter. But, last
+[08:25] I looked, the Atlanta Fed was 2.7%. So,
+[08:29] that's decent. I'll probably have some
+[08:30] upward revisions. Now, what do you think
+[08:32] of UPS?
+[08:33] >> It's struggling to turn around, you
+[08:35] know, they they had these contracts with
+[08:37] the government they gave up. FedEx seems
+[08:39] to be winning in the shipping wars, but
+[08:42] it's like any company, as long as they
+[08:44] start to beat and surprise, I'll I'll
+[08:46] take a second look at it. But, right
+[08:48] now, it's not on my radar. Silver is
+[08:50] making noise. ETFs or miners, where does
+[08:53] the model want to be?
+[08:54] >> I'd rather you be in the miners. There
+[08:56] are good ETFs. I mentioned that on
+[08:57] Maria's show that I did last uh uh last
+[09:00] Friday. And you like the mining
+[09:02] companies better than buying the actual
+[09:04] gold? Yes, there's a lot of good gold
+[09:07] ETFs out there, obviously, and
+[09:10] but I I'm right now buying the miners.
+[09:13] Although there are good ETFs out there
+[09:14] through WisdomTree, I would rather
+[09:16] people buy the actual securities. You'll
+[09:18] make more money in the stocks. Now, we
+[09:20] got this from two different subscribers.
+[09:23] HR just got added to the S&P 500. Does
+[09:26] the quant model still like it after the
+[09:28] pop?
+[09:29] >> Yeah, when you get added to the S&P 500,
+[09:30] you get institutional buying pressure
+[09:33] and that's good and your volatility
+[09:34] starts to subside a bit because you just
+[09:36] have more better liquidity in your
+[09:38] stock. So,
+[09:40] when a stock's volatility drops,
+[09:42] quantitive grade can go up. Yeah,
+[09:44] getting added to the S&P's a big deal.
+[09:45] Ciena also got added, c i e n. Now, for
+[09:48] Sezzle, the buy now, pay later name, big
+[09:51] run lately. What are your thoughts? You
+[09:53] know, it's consumers are struggling and
+[09:56] they're helping consumers manage their
+[09:58] payments. Uh, they do charge very high
+[10:00] rates. I don't recommend people use the
+[10:01] services, but let's face it, half of
+[10:04] America has a debt problem. And um, this
+[10:06] caters to half of America. And they keep
+[10:08] uh, capturing market share. The
+[10:10] retailers are pushing their services.
+[10:12] You know, you can do layaway plans, you
+[10:14] can make payments in four installments.
+[10:16] So, it's the the retail industry is
+[10:18] actually pushing Sezzle. And that's why
+[10:20] they have very steady sales and earnings
+[10:22] growth. Now, before we wrap, a
+[10:23] subscriber has been holding ISSC since
+[10:26] we covered it and it doubled. So, we'll
+[10:28] take that. They're also asking about
+[10:30] Flowtech getting into utilities. Let's
+[10:33] talk about ISSC. They've had two huge
+[10:36] earning surprises. And that's really
+[10:39] allowed the stock to soar.
+[10:40] Unfortunately, their forecast sales and
+[10:42] earnings don't look too good at this
+[10:43] moment. So, you might want to take the
+[10:46] money and run with that one. Now,
+[10:47] Flowtech, I'm familiar with this stock.
+[10:50] The good news, it was a fundamental A
+[10:52] stock at one time, but then it just
+[10:54] missed. So, but it's forecast to sales
+[10:56] and earnings remain strong. As far as it
+[10:58] diversifying in the utility business
+[11:00] stuff, we'll see. But, they are an
+[11:02] expert in fluid dynamics and handle
+[11:04] fluid and how to design all kinds of
+[11:07] great industrial systems. So, I still
+[11:09] own Flowtech. I have a managed accounts,
+[11:11] but I'm just a little annoyed they
+[11:14] missed last quarter. Great. Well, thank
+[11:15] you all so much for your questions. We
+[11:18] really appreciate them and we read all
+[11:19] of them. So, thank you again. Please
+[11:21] subscribe if you haven't already and
+[11:23] give this video a like. We will see you
+[11:25] this Sunday for a new video.
+[11:37] >> [music]

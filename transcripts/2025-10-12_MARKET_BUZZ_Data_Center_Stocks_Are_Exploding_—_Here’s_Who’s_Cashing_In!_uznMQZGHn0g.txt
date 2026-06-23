@@ -7,9 +7,386 @@ Type: video
 Duration: 14:51 (891s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 378
+Transcript characters: 13271
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] From the data center boom to rising
+[00:02] semiconductor spending, gold breaking
+[00:05] over $4,000, and even a surprising
+[00:08] bankruptcy shaking up private credit.
+[00:11] It's been a busy week in the market, so
+[00:12] let's dive in. Welcome back to Navier
+[00:14] Market Buzz.
+[00:16] [Applause]
+[00:16] [Music]
+[00:28] So guys, Ed Yardini pointed out that
+[00:30] spending on new data centers is soaring.
+[00:33] What are some of the best stocks
+[00:34] actually profiting from this boom?
+[00:36] >> Yeah, you know, you're showing a a chart
+[00:38] of just how dramatic the spending is.
+[00:40] And we want to remind everybody, you can
+[00:43] expense 100% of your your plant costs.
+[00:46] So, a lot of people are rushing to, you
+[00:49] know, get the footprint for these new
+[00:51] plants out there. The only problem is
+[00:53] there's not enough power. So, uh, we may
+[00:56] build the plants before we can hook up
+[00:57] the power to them. But, uh, of course,
+[00:59] we're expanding the power grid
+[01:01] immensely. But the best stocks involved
+[01:03] with the data center boom are AGX which
+[01:06] we've talked about before Bloom Energy
+[01:08] BE MCOR EME
+[01:12] GE Vernova which is a spin-off of uh GE
+[01:15] and they're involved in all kinds of
+[01:18] energy things. The green energy as well
+[01:21] but there's a 5-year order backlog for
+[01:23] their uh natural gas turbines.
+[01:26] Seammens also has a 5-year order backlog
+[01:28] and Mishabushi has uh sells turbines as
+[01:30] well. Then uh I really like Power
+[01:33] Solutions, that's PSIX. I like Quantum
+[01:36] Services, PWR.
+[01:39] Uh I like UI, which is um stock that's
+[01:42] uh speeding up the fiber optics and in
+[01:44] the data centers. And then I like VRT.
+[01:49] So those are are all good data center
+[01:52] plays and uh they will be continue to
+[01:55] profit from this expansion. While we're
+[01:57] talking about Yardini, he also showed
+[01:59] that semiconductor spending is steadily
+[02:01] rising. What companies are really
+[02:04] benefiting from that trend?
+[02:06] >> Well, you know, that's interesting
+[02:07] because um AMD surged uh this week
+[02:11] because OpenAI says they're going to be
+[02:13] building data centers with um AMD chips
+[02:16] even though the AMD chips are inferior
+[02:18] to the Nvidia chips. But um you know
+[02:22] it's just a a sign that um when it comes
+[02:24] to AI they want to include everybody.
+[02:27] But the best ones in my opinion are
+[02:29] Nvidia. Of course the big news on Nvidia
+[02:32] is Caner Fitzgerald put a $300 price
+[02:34] target on it. You know it's under $200.
+[02:37] So that's very very encouraging for
+[02:39] Nvidia. And then of course I love Super
+[02:42] Micro computer which is one of Nvidia's
+[02:44] biggest clients. Technically, it's not a
+[02:47] semiconductor, but Super Micros is
+[02:49] installing the innovative chips on their
+[02:51] water cool rack systems that go in the
+[02:53] server farms.
+[02:55] Those are two two of my best ideas to
+[02:57] profit from the semiconductor boom.
+[03:00] >> And you recently did a short video about
+[03:02] how gold crossed over $4,000 per ounce,
+[03:05] which by the way, if you haven't checked
+[03:07] out, Louiesie gave us 10 new stocks,
+[03:09] gold stocks that I will link that video
+[03:11] in the description. But dad, what's
+[03:13] driving that move right now? Well, it
+[03:15] started with the uh Japanese prime
+[03:17] minister. Uh this is the fifth prime
+[03:19] minister in the last 5 years. The new
+[03:22] prime minister, she wants to spend a lot
+[03:24] of money and that's going to neuter the
+[03:26] bank of Japan. So the the the Japanese
+[03:28] yen fell and the bank of Japan will not
+[03:31] be able to shore up um interest rates
+[03:34] and all. Japan has to have very low
+[03:36] rates because of its incredible debt
+[03:37] burden. So that was the first thing that
+[03:39] knocked it down. The chaos in France is
+[03:43] also not helping. The third prime
+[03:46] minister since 2024,
+[03:49] just last year, resigned. Uh he was only
+[03:51] prime minister for 3 weeks. And normally
+[03:54] uh when you can't keep a prime minister
+[03:56] to negotiate with parliament for the
+[03:57] budget in in France, normally you have
+[04:00] to declare an election. But Mcronone
+[04:02] decided that he's going to uh try a
+[04:05] fourth prime minister. supposed to be a
+[04:07] fourth prime minister in the in the past
+[04:10] year and it probably won't work because
+[04:12] Marie Le Pen controls parliament and uh
+[04:15] she wants to cut spending and things and
+[04:18] uh so it's going to be to watch but yeah
+[04:21] France is dysfunctional right now and of
+[04:24] course uh I was in Washington DC this
+[04:25] week and the government shutdowns
+[04:27] although they still had quite a bit of
+[04:28] traffic so I was a little confused by
+[04:31] all that
+[04:31] >> and the first brand's bankruptcy is
+[04:34] causing a bit of grief in private
+[04:36] credit. Can you explain what's going on
+[04:37] there and why it matters?
+[04:39] >> Yeah. Um the uh this is becoming a
+[04:43] bigger deal and I need to kind of
+[04:45] explain what this is all about. So we've
+[04:48] had some
+[04:50] companies that
+[04:52] um are involved in private credit blow
+[04:54] up. But uh this is a big one. First
+[04:57] Brand sells to AutoZone,
+[05:00] Napa, O'Reilly Auto Parts, Walmart, and
+[05:03] one of their creditors says that $2.3
+[05:06] billion of receivables has disappeared.
+[05:09] So, uh, Justice Department investigation
+[05:12] was was opened.
+[05:14] This is going to be a mess. And the
+[05:16] companies that are exposure to this are
+[05:18] Jeff, another one is UBS. And um so what
+[05:22] what's been going on is individual
+[05:24] investors go to broker dealers and they
+[05:28] get paid up to 11% on private credit and
+[05:31] now that some of the people behind
+[05:33] private credit are imploding.
+[05:36] The question is, will it filter down to
+[05:39] these people that funded it? And uh we
+[05:41] don't know, but I guarantee you the
+[05:44] private credit market is freezing up
+[05:45] right now and it's going to be hard for
+[05:47] them to raise capital no matter who they
+[05:49] are because this is a big big deal. And
+[05:52] so uh that is unfortunate and this
+[05:57] wasn't the only issue. You know, a few
+[05:59] weeks ago we had Trior Holdings, which
+[06:01] was Prime Auto Loans. They went straight
+[06:03] to liquidation.
+[06:05] another bankruptcy that uh interfered
+[06:08] with the industry. There was a company
+[06:10] called Blackbook Asset Management. Now,
+[06:13] this one was a little different.
+[06:15] This was uh they this was leverage bets
+[06:18] and treasuries.
+[06:20] Apparently, they were leveraged up to
+[06:21] 11,000 to one.
+[06:24] So, they had to be using all kinds of
+[06:25] kinky derivatives.
+[06:27] Uh City Group and Goldman Sachs have
+[06:30] exposure to this. Now, treasuries are
+[06:33] very liquid. So hopefully uh we'll see
+[06:35] if this is an issue. So I had a an
+[06:38] opinion piece in Barons about how I'm
+[06:40] bullish for the rest of this year and
+[06:42] next year. Believe I forecasted 8% gain
+[06:46] in the S&P in the fourth quarter and 18%
+[06:49] gain in the S&P for 2026.
+[06:53] I said bearing provided there's no black
+[06:55] swan event. So what a black swan event
+[06:58] is is where credit markets down and uh
+[07:02] lending stops and that of course hurts
+[07:04] economic growth and that's what that's
+[07:06] what happened in 2008. The stock market
+[07:08] didn't implode, the credit markets
+[07:10] imploded. So um this is a big problem.
+[07:15] Um so we'll just have to see where this
+[07:17] goes. Now, you know, there's supposed to
+[07:19] be assets securing all these loans, and
+[07:22] hopefully they can find all the assets,
+[07:24] and it won't be as big a deal as as we
+[07:26] fear, but the fact that the Justice
+[07:29] Department got involved on the first
+[07:31] brand's bankruptcy is is a big problem
+[07:33] and uh is scaring a lot of people.
+[07:35] >> Let's move on to some big names
+[07:37] reporting this week. Let's start out
+[07:38] with Domino's. Will investors be hungry
+[07:40] for more, or has this stock lost a
+[07:42] little flavor?
+[07:43] >> Well, Domino's sales are supposed to go
+[07:44] up 5.2%. Earnings are for forecast to
+[07:47] decline 5%. They do have positive
+[07:49] analysis revisions, but they missed last
+[07:51] quarter. So, we will see. I think they
+[07:54] put cheese in the crust. It is football
+[07:56] season. Pizzas are very popular for
+[07:58] football. So, we'll see um how they do,
+[08:01] but I uh have very low expectations
+[08:04] because the earnings are forecast to
+[08:06] decline, but uh if they surprise, I take
+[08:08] it all back.
+[08:09] >> ASML, is this chip giant still
+[08:11] staggering winds or investors finally
+[08:14] hitting a pause? Well, ASML is a very
+[08:16] important company. This is a lithograph
+[08:18] company. It's based in the Netherlands
+[08:21] and all the high-end chips like the
+[08:23] Nvidia chips need the ASML equipment. Uh
+[08:26] their sales are forecast to rise 3.8%.
+[08:29] Earnings supposed to go up 1 and a
+[08:30] half%. There are some negative balance
+[08:33] revisions, but it has a good earning
+[08:34] surprise history. Now, this stock's not
+[08:36] strong enough for me to recommend it,
+[08:38] but it is a a market leader because
+[08:41] again, if you're going to build a new uh
+[08:43] chip, a faster chip, you know, the the
+[08:46] you know, the chips they put on all the
+[08:48] Macs and the iPhones and the new
+[08:50] Microsoft Surface laptops uh and of
+[08:53] course all the Nvidia chips, you need
+[08:55] the ASML architecture. So, that is a a
+[08:58] big big deal. But it again, their sales
+[09:00] are not strong enough for me. I I hope
+[09:02] they surprise it would help lift the
+[09:04] entire semiconductor sector.
+[09:06] >> And TSMC, the crown jewel of
+[09:08] semiconductors,
+[09:09] are we going to have positive earnings?
+[09:11] >> Yeah. Uh TSM's sales are forecasted to
+[09:14] rise 26.8%.
+[09:17] Earnings are forecasted to go up 37.1.
+[09:20] Uh they have positive balance revisions
+[09:22] and a very good earning surprise
+[09:23] history. So this company is on shoring
+[09:25] in America. They have a huge plant in
+[09:27] Gilbert, Arizona. Um, you know,
+[09:29] obviously they make the the finest chips
+[09:31] out there like the ones that we're
+[09:32] talking about earlier and uh but they
+[09:34] are part of the onshoring efforts and
+[09:37] they are it I mean they're they dominate
+[09:39] the high-end chips in the world and so
+[09:42] I'm expecting great things from them. I
+[09:44] do not have the stock in manage accounts
+[09:46] yet but uh if they surprise I I wouldn't
+[09:49] be surprised if I end up adding it.
+[09:50] >> Now United Airlines are investors flying
+[09:53] high or could turbulence be ahead?
+[09:55] >> We'll see. You know, United sales are
+[09:57] forecast to be up 3-1. Their earnings
+[09:59] are forecast to decline 19 and a half%
+[10:02] but they have positive revisions and
+[10:04] they do have a good earnings price
+[10:05] history and of course they have good
+[10:07] hubs. Now one of their hubs near you is
+[10:10] controversial which is Newark. They had
+[10:11] to cut the number of flights. Chicago is
+[10:14] obviously a very formable hub as is
+[10:16] Denver and San Francisco. Houston
+[10:19] Intercontinental. So they have more hubs
+[10:21] than most airlines. So, they should be
+[10:24] doing pretty good, but uh you know,
+[10:26] let's just see what they what their
+[10:28] guidance is going to be. Weather does
+[10:30] impact uh these companies quite a bit,
+[10:32] but I think they'll be okay. But u
+[10:34] again, the earnings forecast to decline,
+[10:36] so I won't pick up on the earnings are
+[10:38] growing.
+[10:39] >> And lastly, American Express, can MX
+[10:41] keep charging forward or is the spending
+[10:43] spree starting to cool?
+[10:45] >> It looks okay. Their sales are forecast
+[10:47] to go up uh 8.5%, earnings are forecast
+[10:50] to improve 14%. They have steady balance
+[10:53] estimates and they have a good earning
+[10:54] surprise history. You know, American
+[10:56] Express went through a reorganization
+[10:58] for a while. I'm I'm happy to see them
+[11:00] come out of this with improving results.
+[11:03] I do not recommend any credit card
+[11:04] companies at this moment, but I wouldn't
+[11:07] be surprised if I pick them up. Um the
+[11:10] uh credit card companies don't have any
+[11:12] credit rest. They just are basically
+[11:14] processing things. So, American Express
+[11:16] is is a very very well-run company and
+[11:19] so we'll see how they do. Dad, do you
+[11:21] have any financial stocks that are on
+[11:23] your radar currently?
+[11:24] >> No, but they're all going to announce
+[11:26] next week. City Bank, JP Morgan, Wells
+[11:29] Fargo, and this is a big deal because we
+[11:32] want to see what their loan loss
+[11:34] reserves are. One is, do they have any
+[11:36] exposure to this private credit mess
+[11:38] that we discussed earlier?
+[11:40] Do they uh are they making the reserve
+[11:43] requirement the um putting money aside
+[11:46] for bad loans because, you know,
+[11:48] consumers are stressed right now.
+[11:50] So, uh, that's really what we want to
+[11:52] see. JP Morgan is the flagship of the
+[11:55] entire industry. It's it's perceived to
+[11:57] be the bestrun company. Their chairman,
+[11:59] Jamie Diamond, is is very grumpy and so
+[12:02] he can scare people from time to time,
+[12:04] but I don't recommend financial stocks.
+[12:07] They're mostly value stocks and I'm a
+[12:09] growth manager, so they don't really
+[12:11] fit. And I am an ex-banking analyst and
+[12:13] I I used to do bank accounting and it
+[12:15] kind of scared me for life just the way
+[12:17] they they do things.
+[12:19] I choose not to recommend financial
+[12:21] stocks, but uh let's hope uh they give
+[12:24] up guidance and then it'll help the
+[12:26] market turn around.
+[12:27] >> Now, let's answer some subscriber
+[12:28] questions. One of our subscribers wanted
+[12:30] to know what your thoughts were are on
+[12:31] Nbridge.
+[12:34] >> Yeah. Um we must have smart subscribers
+[12:36] because that's an A-rated stock. Um but
+[12:39] that is a pipeline company. It's got a
+[12:40] 5.6% dividend yield. You would buy that
+[12:43] stock for the dividend yield, not for
+[12:45] the underlying uh sales and earnings. Uh
+[12:48] yeah, pipelines are a big deal,
+[12:50] especially in Canada. You know, the
+[12:52] Canadian prime minister
+[12:54] Carney is uh all of a sudden a pro
+[12:57] energy even though he's a net zero guy.
+[12:59] I think he had to keep Alberta happy. So
+[13:02] uh most Alberta oil of course goes to
+[13:05] the US because that's where the
+[13:07] pipelines are, but they might be
+[13:08] expending the the pipelines up there in
+[13:10] Canada to to go out to the West Coast.
+[13:12] So that that's but it's a very well-run
+[13:15] company and um it's one of the flagship
+[13:17] pipeline companies out there. So it's
+[13:19] A-rated but again it's predominantly a
+[13:22] dividend stock. So you just buy for the
+[13:24] dividend yield.
+[13:25] >> And lastly, what are your thoughts are
+[13:27] on
+[13:27] >> that's stride and uh that's B-rated uh
+[13:30] right now in our stock creator. But when
+[13:33] I looked at the fundamentals, I liked
+[13:35] what I saw. So let me give you some
+[13:38] details on that. Their sales um are
+[13:41] supposed to be up uh 11.7%.
+[13:45] Their earnings are supposed to be up
+[13:46] 34.3%.
+[13:49] They have positive analyst revisions uh
+[13:51] from a dollar3 90 days ago to a$126
+[13:56] recently. That's a big upwards analyst
+[13:59] revision. Last quarter their surprise
+[14:01] was 21.4
+[14:03] although their surprises seem to be
+[14:05] somewhat erratic. So, this company uh is
+[14:08] is looking pretty good. Again, I'm not I
+[14:10] don't own it. I'm not recommending it,
+[14:12] but it ranks well in stock grader and it
+[14:15] looks pretty good when I check it out
+[14:17] fundamentally and uh so hopefully
+[14:19] they'll have a great holiday shopping
+[14:21] season and they'll uh they'll do well.
+[14:25] >> Well, excellent. That's a wrap for
+[14:26] today's market rundown. Keep the
+[14:28] questions coming in the comments and let
+[14:30] us know which companies you're watching.
+[14:32] And don't forget to like, comment, and
+[14:34] subscribe. and stay tuned for our next
+[14:35] video update. Thanks so much every
+[14:38] [Applause]
+[14:38] [Music]

@@ -7,9 +7,22 @@ Type: short
 Duration: 0:27 (27s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 14
+Transcript characters: 459
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Salesforce reports tomorrow. AI platform
+[00:03] with a strong beat history. What do you
+[00:05] think?
+[00:05] >> Well, they've been doing pretty good, to
+[00:06] be honest with you. They've had a
+[00:08] very good surprise history. Their sales
+[00:10] supposed to be up 12.5%.
+[00:13] Their earnings supposed to be up 21.2.
+[00:15] We have upward analyst revisions in last
+[00:17] 90 days. My only comment is Salesforce
+[00:20] is one of these companies that when they
+[00:22] announce layoffs, their stock goes up.
+[00:24] So, we'll see if they continue to do
+[00:26] that.

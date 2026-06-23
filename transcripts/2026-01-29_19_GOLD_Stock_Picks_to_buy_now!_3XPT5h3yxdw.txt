@@ -7,9 +7,37 @@ Type: short
 Duration: 1:15 (75s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 29
+Transcript characters: 1087
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] And now what you all have been waiting
+[00:01] for. Dad, please reveal all 19 gold
+[00:04] stocks that you're recommending.
+[00:06] >> Sure. First is AEM. Another one is
+[00:08] Alamos Gold, AG. A new addition in
+[00:11] recent weeks is Bareric Mining. We have
+[00:13] a copper stock, a BVN, and they do have
+[00:16] some gold operations. We have a Cordel
+[00:19] Mining. It's CDE. Pretty new addition is
+[00:22] CG AU, Centa Gold, Calderon Mining,
+[00:26] CMCL, Elorado Gold. I've recommended for
+[00:29] many months. Ego, Equinox Gold, EQX, I
+[00:33] recommend that several weeks ago.
+[00:34] Heckler mining at HLS Heckler Mining. We
+[00:37] do have some gold trusts. One is IM Gold
+[00:40] Corporation. That's IGA. Another gold
+[00:42] trust would be royalties. And the third
+[00:45] gold trust would be new gold, NGD. Idaho
+[00:48] strategic resources is IDR. That's the
+[00:50] one that has the rare earth played
+[00:52] resources ITGR. Probably the safest one
+[00:55] is Kin Cross Gold KGC. We have SSR
+[00:59] mining, Triple Flag Precious Metals, and
+[01:02] finally Wheaten Precious Metals. I don't
+[01:04] normally recommend gold stocks, but it's
+[01:07] obvious what's going on. And um I think
+[01:10] gold stocks are going to do well as long
+[01:12] as the central banks are buying them and
+[01:13] there's a lack of confidence.

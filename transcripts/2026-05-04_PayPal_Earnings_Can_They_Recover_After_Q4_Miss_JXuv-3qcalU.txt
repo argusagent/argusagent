@@ -7,9 +7,24 @@ Type: short
 Duration: 0:34 (34s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 16
+Transcript characters: 570
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] PayPal's getting crushed by newer
+[00:01] fintech. Could they have a turnaround
+[00:03] story? Well, first of all, PayPal missed
+[00:05] in the fourth quarter and that kind of
+[00:07] rattled everybody. For the first
+[00:09] quarter, their sales are supposed to be
+[00:11] up 3.4%. Their earnings are supposed to
+[00:13] decline 4.6 and we do have analyst cuts
+[00:16] on this stock from a $1.38 to $1.27 in
+[00:19] the last 90 days. So, I'm not that
+[00:21] optimistic on PayPal. It looks like
+[00:23] their business is under pressure. If
+[00:26] they can beat and guide higher, great.
+[00:28] But, after the fourth quarter
+[00:30] disappointment, no one's interested in
+[00:32] the stock at this moment.

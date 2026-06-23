@@ -7,9 +7,27 @@ Type: short
 Duration: 0:48 (48s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 19
+Transcript characters: 595
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The 2-year Treasury yield is
+[00:02] 3.69. The federal funds rate is 4 and
+[00:05] a4. Treasury Secretary Scott Bessant
+[00:09] wisely told the Fed they better cut
+[00:12] rates. Right now, you can have two up to
+[00:15] three rate cuts to get in line with
+[00:17] market rates. So, the Fed's being very
+[00:20] restrictive right now and hurting the
+[00:23] economy. The other reason they need to
+[00:25] cut is we have deflation. Just look at
+[00:28] the CPI in recent months. Look at a flat
+[00:31] PCE. Look at a plunging
+[00:34] PPI. Look at the Wall Street Journal
+[00:36] where they talk about commodity prices
+[00:38] collapsing around the globe with the
+[00:40] exception of
+[00:42] gold.
+[00:44] So, the Fed better cut. It's pretty
+[00:47] obvious.

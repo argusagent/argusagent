@@ -7,9 +7,31 @@ Type: short
 Duration: 0:47 (47s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 23
+Transcript characters: 802
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Now, Uber's reporting this week, can
+[00:01] they keep their momentum going?
+[00:03] >> Well, they had a miss in the fourth
+[00:05] quarter. Uber lost their mojo from that,
+[00:07] but long-term, their sales are still
+[00:09] steadily climbing. They're expecting 15%
+[00:12] sales growth this quarter. Their
+[00:13] earnings are supposed to go down 14.3%.
+[00:16] Their margins are under compression. 3
+[00:18] months ago, the analysts were estimating
+[00:20] 83 cents a share. Now, they're
+[00:22] estimating 69 cents a share. So, I do
+[00:25] think it's imperative that Uber
+[00:27] surprises and guides higher. Their Robo
+[00:30] taxi system is up and running in LA. You
+[00:32] know, the ID Buzz vans. So, be
+[00:34] interesting if the how that does,
+[00:36] obviously. You got the the Olympics
+[00:38] coming to Los Angeles, and you want that
+[00:40] running around. But,
+[00:42] it looks like we have a margin
+[00:43] compression story here. So, I don't want
+[00:45] to own a Uber at this time.

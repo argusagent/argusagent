@@ -7,9 +7,42 @@ Type: short
 Duration: 1:13 (73s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 34
+Transcript characters: 1228
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] an associates founder and chief
+[00:01] investment officer and the author of the
+[00:02] new book the sacred truths of investing
+[00:05] Louis Navalier is with us right now
+[00:07] Louie congrats on the book well thank
+[00:09] you very much and I know it's at number
+[00:10] one you said yep yep we are very
+[00:12] fortunate I want to ask you about the
+[00:14] book but you say don't expect the most
+[00:16] of the tariffs to be inflationary
+[00:18] explain well first of all we have very
+[00:20] strong dollar so um and the Chinese
+[00:23] Juan's very weak and China has a lot of
+[00:26] deflation so the Chinese tariffs I don't
+[00:28] expect to be inflationary at
+[00:30] They weren't under Biden. They weren't
+[00:31] under Trump the first time. Uh, as far
+[00:34] as the tit fortat tariffs, that's
+[00:36] totally different. That's up to Howard
+[00:37] to negotiate. Howard Lenn. Yes. Now, I
+[00:40] we had a lot of insight when U. Prime
+[00:43] Minister Starmer met with um with
+[00:46] President Trump because we run an 11.9
+[00:49] billion surplus with Britain, at least
+[00:51] we did last year. And at the end of that
+[00:53] meeting, uh Trump says that there may
+[00:55] not be tariffs on Britain. Okay? because
+[00:57] we have a surplus. So, he's going to be
+[01:00] really going after the EU. Okay? Because
+[01:02] if you talk to the Germans and say,
+[01:03] "Well, it's not us. Go talk to
+[01:05] Brussels." You know? So, um, it's going
+[01:08] tit for tat tariffs are basically what
+[01:10] we're going to do.

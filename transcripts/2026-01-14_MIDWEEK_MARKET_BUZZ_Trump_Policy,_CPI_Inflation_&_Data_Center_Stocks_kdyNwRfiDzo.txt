@@ -7,9 +7,464 @@ Type: video
 Duration: 17:13 (1033s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 456
+Transcript characters: 16461
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Markets are reacting to the major policy
+[00:02] headlines, shifting economic data, and
+[00:05] continued strength in data center
+[00:07] stocks. Here are the key questions
+[00:09] investors are asking today. Welcome back
+[00:11] to Navier Market Buzz.
+[00:14] [music]
+[00:18] >> Now, Dad, why does President Trump want
+[00:20] to cap credit card interest rates?
+[00:22] >> Well, I guess he wants to prevail in the
+[00:25] midterm elections. He even called
+[00:28] Elizabeth Warren, the Massachusetts
+[00:30] senator, to back his idea to cap uh
+[00:33] interest rates at um 10%.
+[00:35] Apparently, there's going to be an
+[00:36] executive order coming down uh shortly.
+[00:39] And uh a lot of the credit card related
+[00:41] stocks sold off. Fascinating. Most of
+[00:44] the credit card related stocks dominate
+[00:46] on the Democratic side. It's this is
+[00:48] going to be very interesting. In fact,
+[00:50] Capital One used to back Joe Biden quite
+[00:52] a bit. But I think that what's really
+[00:54] going on is our Treasury Secretary Scott
+[00:57] Bessett made it clear that half of
+[00:59] Americans have debt problems and the
+[01:02] only way we can really help people other
+[01:05] than tax cuts is to reduce the credit
+[01:07] card interest rate. And that is
+[01:10] apparently what President Trump is
+[01:11] intending to do. Now 10% is still very
+[01:13] high, but you're showing a chart from
+[01:16] the Financial Times that shows that
+[01:18] credit card interest rates have soared
+[01:20] in recent years. So they're much more
+[01:22] painful now than they used to be.
+[01:24] >> Can you also explain why the financial
+[01:26] stocks sold off?
+[01:27] >> Well, the financial stocks sold off
+[01:30] because they make a lot of money on
+[01:31] credit card interest and by effectively
+[01:34] capping the interest, they're uh
+[01:35] President Trump's going to impede their
+[01:37] future profits. Now, this is a week
+[01:39] where a lot of financials are announcing
+[01:41] record results or better than expected
+[01:43] results. And you know, it's it's not
+[01:46] going to be as good going forward if
+[01:48] they can't continue to gouge customers
+[01:51] of those outrageous interest rates. But
+[01:53] um President Trump wants to help the
+[01:55] masses and this is his idea and I think
+[01:59] it's a pretty good idea.
+[02:00] >> Now Trump recently said that he's
+[02:02] putting 25% tariffs on countries doing
+[02:04] business with Iran. Is that actually
+[02:07] going to change anything? Well, that's
+[02:09] going to impact mostly India and China
+[02:12] and Russia. You know, he's trying to
+[02:15] effectively create a a blockade on Iran.
+[02:18] And he's demanding that the Iranian
+[02:21] leaders stop, you know, shooting people.
+[02:24] Hangings are scheduled on Wednesday. So,
+[02:26] that's unfortunate. He he broke off all
+[02:29] dialogue with the Iranian leadership. So
+[02:31] he is apparently contemplating other
+[02:33] actions and we have absolutely no idea
+[02:36] what those are. But he started by
+[02:39] imposing the tariffs to squeeze the
+[02:41] regime. And obviously President Trump
+[02:43] wants a regime change. He told the
+[02:45] protesters on True Social to literally
+[02:47] storm the government buildings and take
+[02:49] them over and also get the names of
+[02:51] anyone who's shooting them and stuff so
+[02:53] they can go after them later. So the
+[02:55] Iranian security forces are massacring
+[02:58] the civilians right now. And this is
+[03:01] most unfortunate and hopefully uh the
+[03:04] protesters will prevail and we'll get
+[03:06] some new leaders. They want the son of
+[03:08] the Shaw to come back.
+[03:09] >> Now Jamie Diamond says the US economy is
+[03:12] resilient. What does he mean by that?
+[03:14] >> Well, first of all, we are shocked that
+[03:16] Jaime Diamond was positive. Okay,
+[03:18] because he's a big worry wart. He's
+[03:20] grumpy. And um just so you know, their
+[03:23] earnings didn't look as good as some
+[03:25] people thought because they bought the
+[03:27] Goldman Sachs Apple credit card business
+[03:30] and that extraordinary item knocked
+[03:33] their earnings just a bit. But their
+[03:34] operating earnings beat and if he's
+[03:36] upbeat, we should be upbeat because this
+[03:38] guy loves to do double talk just like a
+[03:40] Fed chairman. I personally think he's
+[03:42] more powerful than a Fed chairman. So if
+[03:44] he's happy, we should be happy. So
+[03:46] that's a very good sign for economic
+[03:48] prosperity moving forward. And what does
+[03:50] the grand jury subpoena involving Fed
+[03:53] Chair Jerome Powell mean for markets?
+[03:55] >> Well, Jerome Powell leaked this himself.
+[03:58] Uh he was doing an interview on Sunday
+[04:00] and he made it clear that the Fed has
+[04:03] received a subpoena. Uh whether it's
+[04:05] against him personally or the Fed, other
+[04:07] members of Fed, I'm not sure, but it it
+[04:10] uh it's serious because it's from a
+[04:11] grand jury. And the Fed's had cost
+[04:13] overruns on their
+[04:16] um new facility in Washington DC. And um
+[04:20] it's over a billion dollars for a
+[04:21] building. And you know, President Trump
+[04:23] was walking with drone pow through that
+[04:24] building. And I think you're shown a
+[04:26] picture of that. And you know, it's just
+[04:28] more intimidation on on Chairman Powell.
+[04:30] A lot of people have come out to to back
+[04:32] him. I I think what's really going on is
+[04:34] President Trump really wants Chairman
+[04:36] Powell to resign after he nominates his
+[04:39] new Fed chairman. U because if he
+[04:42] doesn't resign, stays on the board, he
+[04:43] can stay on the board to early 2028. uh
+[04:46] they might have to kick off Steve Moran
+[04:48] who's a big dove and calling for 150
+[04:50] base points and cuts. So it's very clear
+[04:53] that President Trump would like to or
+[04:55] drone pal to to retire and I don't know
+[04:58] if he will or not.
+[04:58] >> One of our subscribers had mentioned
+[05:00] that they want to see more of your
+[05:01] analysis extend to some of these smaller
+[05:04] cap opportunities and it seems as though
+[05:06] that the small cap stocks are suddenly
+[05:09] rallying. Can you explain what's going
+[05:10] on?
+[05:11] >> Sure. They're benefiting from my January
+[05:13] fact which is basically surging volume.
+[05:15] We had an early January effect in
+[05:17] November and now we're having the real
+[05:19] January effect now. So small cap stocks
+[05:21] are hyper sensitive to volume and when
+[05:24] money flows in they pop. Now you're
+[05:26] showing uh the bespoke decile analysis
+[05:29] of small cap in the past year and it is
+[05:32] interesting that uh if you go down the
+[05:34] lower right hand corner that the worst
+[05:36] performing stocks are actually doing the
+[05:38] best. Okay. And that was consistent with
+[05:41] that shortcoming rally in the fourth
+[05:42] quarter. I think uh just before earning
+[05:44] season, you want to make sure your
+[05:46] stocks are forecast to have very good
+[05:47] sales and earnings and a positive
+[05:49] balance revisions and as well as good
+[05:51] earning surprise history. But yeah, the
+[05:53] this is the time of year when small caps
+[05:55] shine. The other thing is small caps are
+[05:57] more domestic and because we have this
+[06:00] robust US GDP growth underway, that
+[06:03] means domestic stocks might be beating
+[06:05] multinationals. You know, half the sales
+[06:07] in the S&P 500 outside of America. So if
+[06:11] America's prospering, some of the
+[06:12] multinationals may be lagging just
+[06:14] because they're operating in in
+[06:16] economies around the world that aren't
+[06:18] experienced our our dramatic u GDP
+[06:20] growth. So the small caps have an
+[06:23] advantage from that. They also sensitive
+[06:25] to volume. So uh enjoy and they should
+[06:27] be strong through at least April into
+[06:29] May and then it gets a little bumpy in
+[06:31] the summertime.
+[06:31] >> The CPI came in better than expected. Is
+[06:34] this good news for markets or just one
+[06:36] data point?
+[06:37] >> It's just one data point. It was
+[06:38] actually the core rate came in better
+[06:40] than expected. It was um up 2/10. It's
+[06:43] up 2.6% trilling 12 months. There's
+[06:45] still an issue with the survey because
+[06:48] of the government shutdown. So, they
+[06:50] didn't do the full survey. And so, some
+[06:52] people are still worried they're missing
+[06:54] some data, but uh food prices were up
+[06:56] 7/10 of a percent, gas prices were down
+[06:58] half a percent, used car prices were
+[07:00] down, airline fairs were down. That's
+[07:02] probably because of low oil prices. the
+[07:04] um owner's equivalent rent,
+[07:06] unfortunately, was up 3/10en of a
+[07:08] percent. And we all know that rents are
+[07:09] falling. We see it in the rental
+[07:11] surveys. We all know the housing prices
+[07:13] are soft. We see that in existing home
+[07:15] sales. And we can't figure out why
+[07:18] owner's equivalent rent rose uh because
+[07:21] it's fully anticipated that should be at
+[07:23] or near zero in the upcoming months. And
+[07:25] that is the inflation bugaboo to be
+[07:28] candid with you. So on the surface, it's
+[07:31] good. under the surface, we got to get
+[07:33] owner's equivalent rent down because
+[07:35] it's a big component of the CPI and
+[07:37] responsible for most of the inflation.
+[07:39] >> Data center stocks continue to lead, but
+[07:41] Goldman Sachs warns Super Micro Computer
+[07:44] could see further margin pressure. What
+[07:46] should investors expect from SMCI here?
+[07:49] >> Well, that's a very good question. Uh,
+[07:50] Super Micro has an incredible order
+[07:53] backlog for its servers and I I read
+[07:56] that Goldman analyst report and she
+[07:58] acknowledged their dominance of certain
+[08:01] types of servers, mostly the fancy water
+[08:03] cooled ones. And but their sales are
+[08:05] forecast to be up 82%.
+[08:08] And so we'll see what happens. Their
+[08:10] their earnings have not been growing as
+[08:12] fast as sales because of margin
+[08:14] compression. That's true. and Goldman
+[08:16] Sachs at a a one-year price target, $26
+[08:19] on Super Micro computer, which means
+[08:21] they don't anticipate it's going to grow
+[08:23] at all. But, um, I'd like to see the the
+[08:27] sales come out. I'd like to see what the
+[08:29] company's guidance is. Uh, Super
+[08:32] Microcomputers led by a Chinese fellow
+[08:34] who's a brilliant engineer, but he gets
+[08:37] an F in PR. Okay. And so, uh, I'm sure
+[08:41] they can improve upon their previous
+[08:44] guidance in the past. So, I'm looking
+[08:45] forward to their guidance. I'm not
+[08:47] selling the stock mostly because of the
+[08:49] record order backlog and we still have a
+[08:51] very lowc cost basis in it and I'm too
+[08:54] cheap to pay the taxes. Now, I I've
+[08:56] noticed there's no analyst cuts on super
+[08:58] micro. If there are analyst cuts, that
+[09:00] might make me change my mind, but right
+[09:02] now, let's stick with Super Micro and
+[09:04] let's see how that 82% forecast of sales
+[09:07] growth affects the stock.
+[09:08] >> So, the data center stocks have been on
+[09:10] fire this year. Is their rally
+[09:12] sustainable? Yeah, they uh broke out the
+[09:15] first trading day of January. Still did
+[09:18] continue to build on that momentum. Had
+[09:20] one pretty serious day of consolidation,
+[09:23] but you know, they were still big gains
+[09:25] and they're still breaking out this
+[09:26] week. Uh it's led by Bloom Energy. Uh
+[09:29] it's up over 65 for the year. American
+[09:32] Electric Power did exercise an option to
+[09:34] buy their fuel cells for a huge plant in
+[09:37] Wyoming. So Bloom Energy is leading the
+[09:39] way, but it's all the data center stocks
+[09:41] are benefiting because there's a record
+[09:43] order backlog and it grew quarter over
+[09:45] quarter. So the data center boom is
+[09:47] going to continue.
+[09:48] >> Can you share the rest of those stocks
+[09:50] that are profiting?
+[09:51] >> Well, in addition to Bloom Energy,
+[09:53] another leader this year is Power
+[09:55] Solutions International. It's up over
+[09:58] 29% year to date. We got a lot of calls
+[10:01] on this um and questions on this stock
+[10:04] because it did uh kind of lose its mojo
+[10:06] for a while. But that's what small caps
+[10:08] do. They surge, they pull back, they
+[10:10] surge, they pull back. That's that bunny
+[10:12] stock movement we keep referring to. But
+[10:14] Power Solutions International had a very
+[10:16] very nice upgrade in the analyst
+[10:18] community in the last seven days. And
+[10:20] just so you everybody knows, the analyst
+[10:22] community was estimating 50 cents a
+[10:25] share. and now they're estimating 65
+[10:27] cents a share just in the last 7 days.
+[10:29] So that is why that stock's taking off
+[10:32] and and that's why you want positive
+[10:34] balance revisions going in. Another
+[10:36] stock I really like is Comfort Systems.
+[10:38] Uh just so everybody knows this is
+[10:40] commercial air conditioning for the data
+[10:42] centers and uh you know year to date
+[10:45] they're pretty stunning as well. They
+[10:47] have rallied um over 15%.
+[10:50] And uh I'm very excited about this
+[10:53] stock. It's a very simple play. Another
+[10:55] one I would mention is um VRT. Uh this
+[10:59] is the water cool rack systems. Uh
+[11:02] similar to um super micro computer, but
+[11:04] they operate in the slightly different
+[11:06] areas, but again they're building the
+[11:09] water cool rack systems to keep all the
+[11:11] chips cool. Uh their forecasted sales
+[11:14] and earnings are stunning. uh their
+[11:16] sales are supposed to be up 23.1%
+[11:19] earnings supposed to be up 30.7%.
+[11:22] And uh we have positive balance
+[11:23] revisions
+[11:25] uh uh on this stock and a stunning
+[11:28] earning surprise history. So BRT is is a
+[11:31] great great stock. There are some data
+[11:34] center stocks that haven't rallied as
+[11:35] spectacularly as these others we just
+[11:37] discussed but and they're good buys
+[11:39] right now. One would be MCOR EME. It's
+[11:42] up for the year but uh not as
+[11:44] dramatically. Another one is GE Vernova,
+[11:46] GEV, and then UI, which makes the
+[11:50] network switches and cabling for the
+[11:52] data centers because they all have to,
+[11:53] you know, run 5 gig internet internally
+[11:56] with fiber optics. And um those are
+[11:58] three stocks I really, really like at
+[12:00] this time.
+[12:00] >> Now, let's move on to some subscriber
+[12:02] questions. Skywater Technology is up
+[12:04] more than 75%. Is this move sustainable?
+[12:08] >> Well, I hope so. The stock had a a
+[12:10] ridiculous 240%
+[12:13] earnings surprise last quarter and it's
+[12:16] still benefiting from that. Their sales
+[12:18] are supposed to be up 112%. Uh so that's
+[12:22] stunning. The Alice community uh was
+[12:25] estimating that they'd lose 10 cents a
+[12:27] share. Now they're only estimating
+[12:28] they're going to lose 2 cents a share.
+[12:30] That's good because obviously uh they're
+[12:33] getting closer profitability. When a
+[12:35] stock makes a transition from negative
+[12:37] to positive earnings, it can be
+[12:39] explosive and if this stock does
+[12:41] actually post positive earnings, it will
+[12:43] it will go to the moon and beyond to be
+[12:45] candid with you, even though it's
+[12:47] already been running. So, I'll pick it
+[12:49] up when I know the earnings are going to
+[12:51] be positive, but it does score very
+[12:52] highly in our system right now. And um
+[12:55] I've got my eye on it, but again, I will
+[12:57] pick it up when the earnings are
+[12:58] positive. Another subscriber had a
+[13:00] question about Vistra. After the meta
+[13:02] deal, where does the stock go from here?
+[13:05] >> Well, Vistra is very simple. This is an
+[13:07] independent power producer. And what it
+[13:10] is is um a lot of tech companies are
+[13:13] signing up with independent power
+[13:15] producers to provide um the electricity
+[13:17] for the data centers because when they
+[13:20] tap into the grid, they get everybody
+[13:22] upset. In fact, in the CPI report,
+[13:25] electricity prices are up uh 6.7%
+[13:28] trailing 12 months. So, a lot of people
+[13:30] don't want their electric rate to go up
+[13:32] because there's a bunch of data centers
+[13:34] nearby. So, Meta was smart enough to go
+[13:36] straight to Vistra and just deal with
+[13:38] them directly. Okay. The main thing you
+[13:40] should know about Vistra is even though
+[13:42] their sales are forecasted to be up over
+[13:44] 40%. And their earnings are forecasted
+[13:48] to be up about 137 and they do have
+[13:51] positive balance provisions. This
+[13:53] company is hyper sensitive to weather
+[13:55] and they sell a lot in Texas. So what
+[13:57] you want is you want this deep freeze to
+[13:59] envelop Texas. So everybody has to turn
+[14:02] use natural gas to to not only heat
+[14:05] their homes but to generate electricity.
+[14:07] So just be aware that its earnings are
+[14:09] going to be erratic because it's tied to
+[14:11] the weather. Now in the summertime you
+[14:13] want a hot miserable summer because when
+[14:15] the summer when it's really hot they use
+[14:17] natural gas turbines to uh generate
+[14:20] electricity for air conditioning. So
+[14:22] just remember when you invest in any
+[14:24] utility or an independent power
+[14:26] producer, extreme weather is good. Okay?
+[14:30] Mild weather is bad. And also you want
+[14:32] the extreme weather in populated areas.
+[14:35] So you know Houston's obviously I think
+[14:37] the fourth biggest country in the US.
+[14:39] You want in Houston, Chicago, Philly,
+[14:42] DC, New York, Boston. You want it in the
+[14:44] in the metro centers. Atlanta would help
+[14:47] too. So um that's my main comment. Just
+[14:49] watch the weather too. Now for Micron at
+[14:52] current levels, is the riskreward still
+[14:54] attractive?
+[14:55] >> Yeah, Micron definitely has its mojo
+[14:57] back. Their sales are supposed to be up
+[14:59] 133.1%.
+[15:01] Their earnings are supposed to be up
+[15:03] 415.5%.
+[15:05] And the analyst community has raised
+[15:08] their estimate from $444
+[15:12] a month ago to 804 now. So they haven't
+[15:16] quite doubled earnings estimates, but
+[15:18] they're up uh you know almost 90%. So
+[15:22] that is incredible. And when you have
+[15:24] positive balance earnings provisions
+[15:25] like that does often precede a huge
+[15:28] earning surprises. So things are
+[15:30] wonderful for Micron now. I've seen it
+[15:32] consolid
+[15:35] pullback. It is not in my portfolios
+[15:37] yet. I'm keeping an eye on it. I may be
+[15:39] adding it soon.
+[15:40] >> And lastly, IDR fell 8%. What happened?
+[15:43] Well, welcome to the world of small cap
+[15:46] stocks. Their daily volatility is pretty
+[15:49] wild. Uh I do calculate an internal
+[15:52] indicator called residual variance. It's
+[15:54] a risk I can't diversify away and the
+[15:58] residual variance for IDR is well over
+[16:00] 5% a day. Okay. So that means big uh
+[16:04] price swings are normal. But it is a
+[16:06] gold stock. It does have a it is a rare
+[16:08] earth play as well. gold prices are
+[16:10] continuing to climb higher because of
+[16:13] worries about central banks around the
+[16:15] world and a lot of this gold and it's
+[16:17] one of 16 gold stocks I recommend. So,
+[16:20] it's a great buy in a dip and when I get
+[16:22] new money to invest, I just wait for the
+[16:24] dips and buy and and then um if I have
+[16:26] to sell, I wait for upticks. Yeah, lock
+[16:29] and load on IDR and all my other gold
+[16:32] stocks. I I I don't see the gold rally
+[16:34] ending anytime soon. And of course, if
+[16:36] someone is in crypto, I seriously think
+[16:39] they ought to go from crypto to gold
+[16:41] because cryptos turned out to be too
+[16:43] volatile and gold's turned out to be
+[16:45] inherently safer and better performing.
+[16:47] >> Well, from shifting economic policy to
+[16:49] resurging small cap stocks, investors
+[16:51] have plenty to digest. Thank you, Dad,
+[16:54] so much for breaking it all down today.
+[16:56] Please make sure to give this video a
+[16:58] like and subscribe if you haven't
+[16:59] already, and drop any questions you have
+[17:01] in the comments below for us to answer
+[17:03] in a new video this Sunday. Thanks so
+[17:05] much everyone.
+[17:09] [music]

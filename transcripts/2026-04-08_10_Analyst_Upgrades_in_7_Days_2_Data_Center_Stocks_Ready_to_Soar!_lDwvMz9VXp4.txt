@@ -7,9 +7,547 @@ Type: video
 Duration: 19:32 (1172s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 539
+Transcript characters: 18646
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Wall Street's distracted, but the smart
+[00:02] money is piling in. Louis is revealing
+[00:05] why these two stocks are positioned to
+[00:07] explode. Welcome back to Navellier
+[00:09] Market Buzz.
+[00:16] All right, Dad, let's get right into it.
+[00:18] Let's start out with your top pick. What
+[00:21] is the thesis here?
+[00:22] >> Well, that's Vertiv, which has
+[00:24] a very big business in the data centers.
+[00:26] And they do make the rack systems, and
+[00:29] they are liquid cooled, and they should
+[00:31] be starting to take some market share
+[00:33] away from Super Micro. Just so everybody
+[00:35] understands, Super Micro is the industry
+[00:37] leader. Their water-cooled systems are
+[00:39] so fancy, they have external cooling
+[00:42] tanks. But Vertiv is going to continue
+[00:44] to capture some market share, and their
+[00:47] sales are forecast to go up 29.9%.
+[00:50] Their earnings are forecast to go up
+[00:52] 57.6%.
+[00:54] Uh about 10 analysts have raised their
+[00:56] estimates in the past 7 days, and that's
+[00:59] a big deal. Really, what we do is we try
+[01:01] to get in as the analysts are revising
+[01:04] their estimates higher, and we try to
+[01:06] ride the stocks as long as possible. I
+[01:08] have been riding Vertiv for over 2
+[01:10] years, but because of the order backlog
+[01:14] and the data center boom, you know, it
+[01:15] does account for over half the
+[01:17] construction in America right now.
+[01:19] Uh Vertiv still has a very good um sales
+[01:23] and earnings momentum. I think it's
+[01:25] reasonably priced now. Uh
+[01:27] consolidate just a a bit here. So, a
+[01:29] great buy at this moment.
+[01:30] >> And you mentioned they have a track
+[01:32] record of beating expectations.
+[01:34] >> Yeah. Um their earnings surprises are
+[01:37] stellar. Absolutely stellar. And and not
+[01:40] only you have to beat, you have to guide
+[01:41] higher. So, that's our formula. That
+[01:43] eight-factor fundamental model is
+[01:45] earnings surprises, earnings momentum,
+[01:48] positive analyst earnings revisions,
+[01:50] strong sales momentum, good earnings
+[01:52] stability, and of course a strong
+[01:54] earnings surprise history. So, and a
+[01:56] high return on equity, so Vertiv checks
+[01:59] those boxes and scores very high.
+[02:01] >> Now, let's get into your second pick.
+[02:02] Why this one?
+[02:04] >> Well, this is Celestica and it is more
+[02:07] in the in the in the cloud. Of course,
+[02:09] the cloud is was the predecessor for the
+[02:11] data center room we have now, but
+[02:14] they're awesome. Their their sales are
+[02:16] supposed to be up 53%.
+[02:18] Their earnings supposed to be up 73%.
+[02:21] The analyst community continues to
+[02:23] revise their estimates higher across the
+[02:25] board and like Vertiv Holdings, they
+[02:28] have a great great earnings surprise
+[02:29] history.
+[02:30] >> So, while Wall Street's distracted by
+[02:32] the noise, you're buying the companies
+[02:34] doing the actual work.
+[02:35] >> Yeah,
+[02:36] you know, Wall Street's extremely
+[02:38] distracted, especially with the all the
+[02:40] things happening in Iran, but the most
+[02:43] fascinating thing is is the analysts
+[02:46] keep revising earnings estimates higher.
+[02:48] We're we're going into a stunning
+[02:49] earnings announcement season and what's
+[02:51] happening to my stocks is I've noticed
+[02:55] that my P/E ratios are falling. You
+[02:56] know, last quarter average stock had
+[02:58] over 100% earnings. That's just nuts and
+[03:00] that's in large cap, okay? You get small
+[03:02] cap, I get even more explosive gains.
+[03:04] So, you know, it's we're just in a a
+[03:06] very healthy environment for earnings.
+[03:08] Obviously, the US is an oasis with all
+[03:11] the problems in the world. We're not
+[03:13] totally immune. Obviously, we're going
+[03:14] to have food energy inflation, but a lot
+[03:17] of international capital should continue
+[03:19] to flow to the United States.
+[03:20] >> Speaking of inflation, we now have Jamie
+[03:23] Dimon playing buzzkill calling inflation
+[03:26] the skunk at the party.
+[03:27] >> Yeah, you know, Jamie is um
+[03:30] he's gone from uh
+[03:32] uh talking about cockroaches to skunks.
+[03:35] Um
+[03:36] you know, when you are CEO, you have to
+[03:38] do double speak in your statement to
+[03:40] your shareholders and all and Jamie
+[03:43] always goes overboard on his double
+[03:45] speak, but he's worried that the
+[03:48] inflation might be more permanent than
+[03:51] temporary. And so he threw cold water uh
+[03:55] on on the economy and you know, the
+[03:58] financials are about to announce. They
+[04:00] announce before the other stocks and and
+[04:02] they will be good, but Jamie Dimon is
+[04:04] more important than Jerome Powell, Fed
+[04:06] chairman now cuz our Fed chairman's a
+[04:08] lame duck.
+[04:09] And and we really need when Kevin Warsh
+[04:12] takes over the new Fed chairman, we
+[04:15] really need him to drown out Jamie Dimon
+[04:17] because right now uh Jamie's again
+[04:19] influencing the markets more than Jerome
+[04:21] Powell. So, I look forward to Kevin
+[04:24] Warsh's leadership and hopefully the
+[04:26] markets will focus on him versus Jamie
+[04:29] being the eternal worrywart that he is.
+[04:31] >> But now let's look at the actual
+[04:32] economic data. The ISM service just
+[04:35] posted its first straight monthly
+[04:38] increase. What is this report telling
+[04:40] you?
+[04:40] >> Means the service sector's very strong.
+[04:42] In fact, in that ISM report uh 13 of the
+[04:44] 16 industries surveyed went up. Uh we
+[04:46] also had um
+[04:48] a positive durable goods report uh come
+[04:50] out. If you back out um
+[04:53] uh aircraft orders, but transportation
+[04:55] orders fell 5.4% due to uh
+[04:58] believe a big big decline from Boeing.
+[05:00] And um we want to see Boeing's orders
+[05:02] pick up when the war is over
+[05:04] uh because
+[05:06] uh it's created some uncertainty out
+[05:07] there. Um
+[05:09] yeah, it's um
+[05:11] the the core US economy's good. We've
+[05:13] always been a service sector economy.
+[05:16] 70% of our growth is coming from
+[05:17] services. Now we got manufacturing
+[05:19] picking up. We saw an ISM manufacturing
+[05:22] has been up 3 months in a row. Now we're
+[05:23] seeing it in uh durable goods excluding
+[05:25] transportation. So, there's some green
+[05:27] shoots out there. We are having a GDP um
+[05:31] number announced this week with the CPI.
+[05:34] And um
+[05:35] the main comment I'd have is that the
+[05:38] key to getting really strong GDP growth
+[05:41] is one uh productivity enhancements. A
+[05:44] lot of them come from AI. And so the
+[05:46] productivity gains should be big. Kevin
+[05:48] Warsh will be talking a lot about that.
+[05:49] He's That's kind of his thing is you
+[05:51] don't have to raise rates when you have
+[05:54] economic growth and productivity gains.
+[05:56] But in addition to that, better than
+[05:58] expected trade deficit because obviously
+[06:00] we're exporting all this LNG and crude
+[06:03] oil and refined products because of the
+[06:05] bottlenecks around the Persian Gulf and
+[06:08] prices are are firm now. So that's going
+[06:10] to help lower the trade deficit. That
+[06:11] will add to GDP growth, but the
+[06:14] consumers they're very, very important
+[06:16] and it's going to get better because of
+[06:18] the weather, okay? First quarter was
+[06:20] impeded by the weather. We have a chance
+[06:22] at 5% in the second quarter. We'll
+[06:24] definitely be hitting it by the third
+[06:25] quarter and um
+[06:27] so we have a lot to look forward to in
+[06:29] the upcoming months.
+[06:30] >> So bottom line, while everyone's
+[06:31] distracted by geopolitics and doom and
+[06:34] gloom warnings, you're buying BRT and
+[06:37] CLS.
+[06:38] >> Yeah, I'm following a silver lining
+[06:40] critical path and our stock grader,
+[06:43] which we just tested in the
+[06:45] the last quarter earning season, says we
+[06:47] need to be in the top 10%
+[06:50] of stocks out of that database. When we
+[06:53] get into the fundamentals, we need to be
+[06:55] in the top 30%. So the way our system
+[06:58] works is we're always looking for the
+[07:00] silver lining critical path and actually
+[07:02] the more narrow the markets, the more
+[07:03] dominant we can be. And so obviously
+[07:06] we're off to a very good start this
+[07:07] year. great quarter in window dressing
+[07:09] and a big surge. We talked about that
+[07:11] previous week. And now this is the
+[07:13] encore. So, you know, I'll put it
+[07:16] another way. You're showing exhibits how
+[07:18] FactSet's saying that we're having a lot
+[07:20] of positive analyst earnings revisions.
+[07:22] In fact, the upwards earnings revisions
+[07:24] right now are the strongest in the past
+[07:26] five years, but just to put a number to
+[07:29] it, last quarter on the S&P earnings
+[07:32] were up 14.1%. This quarter a few weeks
+[07:35] ago they were forecasted at 14. Now
+[07:38] they're forecasted at 17. So just in,
+[07:41] you know, the last several days, the
+[07:43] analysts have revised their estimates
+[07:45] from 14% to 17% on the S&P. That I mean,
+[07:48] that's you can't have positive analyst
+[07:50] revisions and not have the stocks go up,
+[07:52] okay? And that's the environment we're
+[07:54] in right now. And of course, the energy
+[07:56] stocks will have windfall profits
+[07:57] because of higher prices. They've been
+[07:59] the most dominant sector. But,
+[08:02] the data centers are unbelievable and
+[08:04] I'm looking forward to to all those
+[08:06] stocks lighting it up again.
+[08:08] >> And as always, we love answering your
+[08:10] questions in our midweek videos. Let's
+[08:13] get into it. Dad, how do you feel about
+[08:15] Warren Buffett's recent move to Chevron
+[08:18] oil and its future?
+[08:19] >> I think that's fine. You know, Chevron
+[08:21] is a beneficiary of Venezuela. They were
+[08:24] operating in Venezuela before Maduro was
+[08:26] taken out, so they have a head start.
+[08:28] What the US oil companies have always
+[08:30] historically done in Latin America, they
+[08:31] do a good cop bad cop thing. You know,
+[08:33] Conoco and Exxon left Venezuela, Chevron
+[08:36] came in. Chevron's had issues with
+[08:38] Ecuador. Other companies will come in
+[08:40] and and take over. So, but obviously,
+[08:43] Chevron is the right place at the right
+[08:45] time. And they bought Hess. And and and
+[08:48] when they bought Hess, they were trying
+[08:50] to get access to Guyana because Hess had
+[08:52] interest in Guyana. Exxon tried to block
+[08:54] that that maneuver, but the courts ruled
+[08:57] in favor of Chevron. So, now they're
+[09:00] going to prosper from the boom in Guyana
+[09:02] with Exxon. And even in California, they
+[09:05] when they turned on the the Santa
+[09:07] Barbara pipeline,
+[09:09] which had been closed since 2015, that
+[09:11] oil's going straight to a refinery that
+[09:13] Chevron operates. It's a big deal to
+[09:15] refine oil on the West Coast because
+[09:18] you know, the prices are so high because
+[09:20] California is now importing uh
+[09:22] refined product. They don't have enough
+[09:23] refineries. So, yeah,
+[09:26] I think Chevron was a good a good move
+[09:28] by Buffett. And I wait till the analysts
+[09:30] revise their estimates higher and it
+[09:33] hits my criteria and across the the
+[09:35] but there's no doubt Chevron's getting
+[09:37] stronger now.
+[09:37] >> Now, one of our subscribers had a
+[09:39] question on three different stocks.
+[09:41] We'll ask about the first one first. U,
+[09:43] U, U, U.
+[09:44] >> Okay, this is obviously a uranium stock,
+[09:47] and the good news their sales are
+[09:48] supposed to be up 85% next quarter. The
+[09:51] bad news is they've missed uh four
+[09:53] quarters in a row. So, they have
+[09:54] explosive sales growth, hopefully some
+[09:56] earnings will materialize, but right now
+[09:59] there isn't no forecast for positive
+[10:01] earnings from this stock until until
+[10:04] next year. So, when this stock makes a
+[10:06] transition from negative to positive
+[10:08] earnings next year, in my opinion, that
+[10:10] would be a better time to buy it than
+[10:12] right now. The second one is UAMY.
+[10:15] United States Antimony is obviously a
+[10:17] rare earth play, and uh their sales are
+[10:19] supposed to be up 182
+[10:22] uh {point} 1%, but uh
+[10:25] earnings are not uh
+[10:27] showing up yet.
+[10:29] Uh and they have missed for the past
+[10:30] three quarters. So, their key, okay, is
+[10:34] to finally go from negative to positive
+[10:36] earnings,
+[10:38] and that may not happen till later this
+[10:40] year, but as soon as it happens, the
+[10:42] stock will do much much better. Then it
+[10:45] obviously has to provide positive
+[10:46] guidance, and uh you know, surprise
+[10:49] analyst estimates. So, I'm not excited
+[10:52] about this stock at this moment, and I
+[10:53] put more focus on this sector because of
+[10:56] the earnings misses and the negative
+[10:57] forecast in earnings, but as soon as its
+[10:59] earnings go from negative to positive,
+[11:02] the stock will be more explosive, and
+[11:04] maybe we'll have an opportunity later
+[11:05] this year.
+[11:06] >> And the third stock is MP.
+[11:08] >> Okay, MP Materials is another um
+[11:10] uh rare earth play. Their sales are
+[11:12] supposed to be up 18.6% earnings
+[11:14] supposed to be up 107.1%,
+[11:17] so that's good. The only problem is the
+[11:19] analysts have slashed their estimates.
+[11:21] 90 days ago it was 12 cents, now it's 1
+[11:23] cent. 7 days ago it was 2 cents, now
+[11:26] it's 1 cent. Obviously, the US uh
+[11:28] government took an equity interest in MP
+[11:30] Materials, so uh a lot of people think
+[11:32] that's going to ensure its success. The
+[11:35] good thing about MP Materials is they do
+[11:36] surprise. In the last quarter, they had
+[11:38] a ridiculous surprise of 400
+[11:40] and 90.9%. So, if they can surprise,
+[11:44] that's great. But, we're just waiting
+[11:46] for the positive earnings to
+[11:47] materialize. So, MP Materials, even
+[11:49] though they they're forecast to have an
+[11:51] earnings increase, again, it's down
+[11:53] considerably from expectations. So, they
+[11:56] need to have a big surprise next quarter
+[11:58] and then provide good guidance.
+[12:00] >> Can you comment on the mutual funds and
+[12:02] managed accounts that investment firms
+[12:03] sell?
+[12:04] >> Sure, I used to be in that business. I
+[12:06] sold it in 2013 and I sold it for two
+[12:10] reasons. One,
+[12:11] I was getting mad at some of the firms
+[12:13] and how they would route my orders and I
+[12:15] was, in my opinion, being denied best
+[12:17] execution. Second, some of the firms
+[12:20] would take the management away from us
+[12:21] and do this thing called model
+[12:23] management and I wasn't too happy with
+[12:25] their execution buying my stocks. I I'd
+[12:28] watch them drive stocks higher just on
+[12:31] the buying pressure didn't think that
+[12:32] was too cool. But, the main thing people
+[12:34] should know mutual funds are a little
+[12:36] bit better managed accounts cuz they
+[12:37] have investment charters and they can be
+[12:40] more concentrated and and less
+[12:42] diversified, although most mutual funds
+[12:44] are super diversified. The problem with
+[12:46] the managed account industry is they
+[12:48] usually want something called a tracking
+[12:50] manager and the vast majority of money
+[12:52] managers are tracking managers and they
+[12:54] want you to buy the the best stocks in
+[12:56] certain sectors, but they do want you to
+[12:58] buy almost all the sectors. And if you
+[13:00] look at my portfolios, they would argue
+[13:02] I'm cheating. I'm missing over seven of
+[13:05] the 10 sectors in the S&P, okay? I'm
+[13:09] grossly overweight in Nvidia. I'm
+[13:11] grossly overweight in data centers and
+[13:13] they would argue I'm not properly
+[13:15] diversified and I would say, "No, that's
+[13:17] not true at all because I have over 20
+[13:19] gold stocks that tend to zig when my
+[13:22] other stocks zag." And so, I'm very
+[13:24] proud of not only my diversification, my
+[13:26] risk-adjusted performance. but see their
+[13:28] benchmark is always the indices and you
+[13:31] can structure portfolio that's safer
+[13:33] than the indices. So, the problem with
+[13:35] this whole investment management
+[13:36] industry
+[13:38] is that they obviously can have some
+[13:39] good stocks in the portfolios, but then
+[13:41] you got to buy the bad stocks cuz
+[13:42] they're in the index. And I just totally
+[13:45] disagree with that. So, what I did is I
+[13:47] sold my company that dealt with
+[13:49] broker-dealers back in 2013
+[13:53] and now I have a direct model and we
+[13:55] manage over a billion dollars, but we
+[13:58] deal directly with clients.
+[14:00] The other thing people should be aware
+[14:01] of, when I worked in those channels, you
+[14:03] know, I couldn't talk to the clients cuz
+[14:05] the the investment firms and the
+[14:07] broker-dealers were the that was their
+[14:09] clients. So, I can only talk if they
+[14:11] invited me to speak or have a conference
+[14:13] call or something like that. So, now we
+[14:15] can actually talk to the clients and
+[14:17] take care of them, do what's best, and
+[14:19] tend to all their tax needs and things
+[14:21] like that. And I think that's my last
+[14:23] comment.
+[14:24] Some firms are trying to help you with
+[14:26] taxes, but we do get a lot of clients
+[14:29] with embedded capital gains and we
+[14:31] critique their portfolio and and rank
+[14:33] them in order of attractiveness and we
+[14:35] usually work with a capital gains tax
+[14:37] limit. So, if a client doesn't want us
+[14:39] to trigger more than quarter million
+[14:41] year long-term capital gains, so we'll
+[14:43] we'll try to abide by that. And so, we
+[14:46] tend to surgically sell versus just blow
+[14:48] them out across the board. So, um it's
+[14:51] an interesting business. The other thing
+[14:53] is the investment industry is mostly run
+[14:55] like a concierge industry because
+[14:58] investing is boring. You showed up,
+[15:00] Crystal. It was boring for most people
+[15:02] and basically it's a service business,
+[15:04] not an investment business. And that
+[15:06] would be my criticism, especially of the
+[15:08] big private banks out there.
+[15:09] >> Are you still bullish on SMCI?
+[15:12] >> Yes, because the sales growth is 171%.
+[15:15] Now, there gentleman that um got charged
+[15:19] by the government
+[15:20] uh
+[15:21] for apparently uh sending stuff to
+[15:23] Taiwan is pleading his innocence. He has
+[15:26] been, you know, um
+[15:28] he's not affiliated with SMCI at this
+[15:30] moment, but um
+[15:32] that's that's going to be an interesting
+[15:33] case. But, the the biggest thing that
+[15:36] that SMCI does is they have the best
+[15:38] water-cooled rack systems out there.
+[15:40] Again, not only do they make these huge
+[15:42] racks all this cooling, they they have
+[15:44] these huge external cooling tanks. These
+[15:46] are usually outside of the data centers.
+[15:48] So, you can usually tell where the SMCI
+[15:50] servers are just by the cooling tanks.
+[15:52] But, yeah, that their order backlog is
+[15:54] still ridiculous. So, hopefully they
+[15:56] will, you know, provide wonderful
+[15:58] guidance and
+[15:59] guide higher and and the fuss will be
+[16:01] over. This gentleman just has been
+[16:03] repeatedly attacked and now he's no
+[16:05] longer affiliated with the the company.
+[16:07] And the company now has some class
+[16:09] action lawsuits against it cuz the stock
+[16:11] briefly dropped, but it's it's working
+[16:13] its way back. So, I'm sticking with
+[16:14] SMCI. I'm still I'm still up over 500%
+[16:17] in it and I I have no intention of sell
+[16:20] the stock when it has strong sales
+[16:21] growth like that.
+[16:22] >> Do you think the data center stock APLD
+[16:26] will have a surprise earnings beat after
+[16:28] its upcoming earnings report?
+[16:30] >> I Digital's interesting. First of all, I
+[16:32] don't own it, uh but their sales are
+[16:34] supposed to be up 48.3%.
+[16:38] Their earnings are supposed to decline
+[16:39] 162.5%.
+[16:42] And specifically that their earnings are
+[16:44] supposed to be minus 21 cent. Uh the
+[16:46] only good news is
+[16:48] days ago they were supposed to be minus
+[16:49] 24 cents. So, they
+[16:51] had a slight analyst upgrade from
+[16:53] negative to less negative. This company
+[16:55] does have a good surprise history,
+[16:56] though. So, here's another stock that'll
+[16:59] do much better when it makes the
+[17:00] transition from negative to positive
+[17:02] earnings. So, stunning sales growth,
+[17:05] let's just hope the earnings show up.
+[17:07] Now, when these companies announce they
+[17:08] will beat their overall earnings and
+[17:10] their operating earnings. It's possible
+[17:12] their operating earnings could be
+[17:13] positive. What all these companies have
+[17:14] been losing money do is they have these
+[17:15] things called loss carry forwards, and
+[17:17] they're carrying forward and not paying
+[17:19] their fair share income taxes because
+[17:21] they're using up their their previous
+[17:22] losses. And eventually they'll have to
+[17:24] start paying taxes as they earn money.
+[17:26] But but because of those previous
+[17:28] losses, they'll be able to
+[17:31] have faster earnings growth for a while.
+[17:34] I'm not going to go near APLD until I
+[17:36] get a positive earnings. And I hope it
+[17:39] happens this quarter, but right now
+[17:41] analysts are forecasting minus 21 cents
+[17:43] a share.
+[17:44] >> And last but not least, where would
+[17:46] someone find a great place to get advice
+[17:48] on 401k? There are a subscriber to your
+[17:51] growth investment and cannot find any
+[17:52] information on allocations for 401k.
+[17:55] >> Yeah, I actually do that. Help people
+[17:58] with that. So, let me give you my
+[17:59] preferred mix right now. First of all,
+[18:03] most 401ks are trapped in index options,
+[18:07] okay? So, they may have no choice other
+[18:09] than a Vanguard index fund or another
+[18:11] index fund. Usually those
+[18:15] 401k options will include
+[18:18] into the S&P 500 index. They will
+[18:21] include a mid-cap fund, small-cap fund,
+[18:25] hopefully a dividend growth fund, an
+[18:27] international fund. And at this moment,
+[18:30] okay, I would have
+[18:33] 70% in small mid-cap and
+[18:37] and then the other
+[18:40] and 10% international and 20% in the
+[18:42] S&P. So, you could do 40 mid-cap, 30
+[18:46] small-cap,
+[18:48] 20 large-cap S&P 500, and then 10%
+[18:52] international. That would be my
+[18:54] recommended allocation, but again, those
+[18:56] are probably your only options, and I
+[18:59] have helped people with that quite a
+[19:00] bit. And they have to stay in that
+[19:02] option until they they leave the
+[19:04] company. Once you leave, you can roll it
+[19:06] over to Schwab or
+[19:08] Fidelity or other brokerage firms and
+[19:09] start trading it into
+[19:10] >> Well, great. Thank you all so much for
+[19:12] all of your questions. We really hope
+[19:14] you enjoyed today's video amongst all
+[19:16] the chaos. Here is where we are standing
+[19:19] still. Thank you all so much for
+[19:21] watching. We will see you this Sunday
+[19:23] for a special video.

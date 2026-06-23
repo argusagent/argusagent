@@ -7,9 +7,982 @@ Type: video
 Duration: 36:22 (2182s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 974
+Transcript characters: 35771
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:00] [Music]
+[00:00] [Applause]
+[00:00] [Music]
+[00:12] Hello everyone. Welcome back to Navalier
+[00:14] Market Buzz episode 44. I'm Crystal
+[00:16] Navalier and I'm joined again this week
+[00:17] with my father Louis Navalier. We have a
+[00:19] very special guest Luke Lango who is a
+[00:22] technology visionary that finds
+[00:24] companies before others. He has a
+[00:27] background in Caltech and he has such a
+[00:29] unique understanding of how technology
+[00:31] disrupts other industries. Thank you so
+[00:34] much Luke for being here. Yeah, thanks
+[00:36] for having me guys. It's great to great
+[00:37] to talk shop with with the legendary
+[00:39] Louie. Okay. Well, I have to admit Luke
+[00:42] finds most stocks earlier than I do uh
+[00:45] in tech. So, uh we really do want to get
+[00:48] his vision of the world and where AI is
+[00:51] taking us and and all kinds of
+[00:53] interesting things. So, we've been
+[00:55] talking about this robo taxi war for a
+[00:58] while now. Who do you think is going to
+[01:00] win now that Tesla's robo taxi service
+[01:02] has been announced?
+[01:05] Yeah. So, the robo taxi wars are um
+[01:07] yeah, they're getting very intense. I
+[01:10] would say that right now, if you put a
+[01:12] gun to my head and said pick a winner,
+[01:14] it would be the Whimo Uber partnership.
+[01:16] And that's because I think first mover
+[01:18] advantage means something here. Whimo,
+[01:20] you know, Tesla didn't just roll out the
+[01:22] robo taxi service, but I mean, it was
+[01:24] probably in the order of dozens of
+[01:25] rides, whereas Whimo is doing 250,000
+[01:29] rides per week, over a million rides a
+[01:32] month. Um, that's that matters. That
+[01:35] scale matters because that scale
+[01:37] translates to more data for the
+[01:39] algorithms that are powering the
+[01:41] self-driving software. Uh, it means more
+[01:44] experience, it means more trust uh with
+[01:47] regulators. It means more data on the
+[01:50] safety conditions uh of those cars which
+[01:53] means more trust with regulators as well
+[01:54] as more trust with consumers. So I do
+[01:57] think that you know first mover matters
+[02:00] here. Whimo has a massive first mover
+[02:03] advantage at least in the United States.
+[02:05] BU is the first mover over in China.
+[02:08] That's a completely different uh market
+[02:10] and situation. But here in the US, I
+[02:12] think the Whimo Uber partnership is
+[02:15] going to be the winner in the robo taxi
+[02:18] wars. But I think the self-driving
+[02:20] revolution more broadly has more
+[02:22] verticals than just robo taxi. Uh Tesla
+[02:24] can sell just pass autonomous passenger
+[02:27] cars. Um Whimo is not in that game at
+[02:29] all. Tesla is the leader there. And then
+[02:32] there's autonomous freight, right? The
+[02:34] shipping of goods via trucks and stuff.
+[02:37] That's more Aurora's wheelhouse company.
+[02:40] Uh they're testing down in Texas.
+[02:42] Actually, they have commercial trucks on
+[02:43] the road in Texas right now. So, there's
+[02:46] more than one vertical in the
+[02:47] self-driving race, but as it relates to
+[02:48] robo taxi, I think Whimo has a massive
+[02:51] massive advantage. Luke, you were in a
+[02:55] Whimo recently. How was that experience?
+[02:58] I'm I'm in Whimos all the time. So, I'm
+[03:00] from Phoenix, Arizona, or I live in
+[03:01] Phoenix, Arizona right now, and they run
+[03:04] Phoenix, Arizona. They run the town. You
+[03:06] cannot go out on an errand and not see a
+[03:09] Whimo, if not multiple Whimos. I
+[03:12] probably am in one one to two times a
+[03:15] week. My wife's in one one to two times
+[03:17] a week. Our friends are in them one to
+[03:18] two times a week. And they're they're
+[03:21] awesome. Nobody I've never had an issue
+[03:24] and nobody that I've ever talked to and
+[03:25] a lot of people throughout Phoenix have
+[03:27] ever had an issue. Everybody loves them.
+[03:29] And in fact, there was a study that I
+[03:31] think came out, I don't know if it was
+[03:32] last week or the week before where it
+[03:34] said, so one of the value props of
+[03:36] Whimos, they were supposed to be
+[03:37] cheaper, but they're actually more
+[03:39] expensive right now because the cars are
+[03:41] so expensive to make. Yep. Even though
+[03:43] they are more expensive, people are
+[03:45] paying up for them, right? So like that
+[03:47] to me that says people just really
+[03:49] really like the experience. If they were
+[03:51] to do a net promoter score on their
+[03:52] service, I bet it would be through the
+[03:53] roof. People really really like it. And
+[03:56] I think one of the really undervalued
+[03:58] aspects of the self-driving kind of
+[04:01] experience,
+[04:02] um, weirdly enough, is is the isolation
+[04:05] of it that a lot of people feel awkward
+[04:07] getting into Ubers and maybe having to
+[04:09] force a conversation with the Uber
+[04:10] driver or they sit in awkward silence.
+[04:13] It's just it it's it's a very weird vibe
+[04:16] a lot of times. And I think especially
+[04:18] among younger consumers who had the co
+[04:20] interrupt their uh maturing years, they
+[04:24] they don't want to sit in those weird
+[04:25] Uber situations. And so I'm seeing a lot
+[04:27] of younger people really just swarm in
+[04:29] droves uh to Whimos uh for for that
+[04:32] reason. So um yeah, I love the
+[04:34] experience. Everyone I talk to loves it.
+[04:36] And that's another reason why I have a
+[04:37] lot of faith in uh in Whimo winning that
+[04:40] race. Well, uh Uber might be listening
+[04:43] to you because you know they're going to
+[04:44] introduce their self-driving service.
+[04:46] Los Angeles and they're doing these ID
+[04:50] uh Buzz vans, the Volkswagen electric
+[04:52] vans. Uh what I noticed is they um moved
+[04:56] all the sensors to the roof. Uh because
+[04:58] I guess they in extreme weather, you
+[05:01] know, uh I guess in Phoenix be a monsoon
+[05:03] or um uh or you know elsewhere be a
+[05:06] snowstorm or sleet and uh the sensors
+[05:10] can get confused. So, um, do you have
+[05:14] any opinion of Uber will be successful
+[05:16] with IDBuzz? Because they're it's really
+[05:18] Volkswagen now versus, uh, versus
+[05:22] Google. Fantastic. Yeah, I would say
+[05:24] that, um, it's really interesting that
+[05:27] Uber and Whimo started this journey
+[05:29] together and now they're basically
+[05:30] hedging their bets against one another,
+[05:32] right? Like every time Whimo launched in
+[05:35] a city, it was through Uber. Now they're
+[05:38] starting to in some cities at least
+[05:40] launch alone though they did just launch
+[05:42] in Atlanta and they launched with Uber
+[05:44] together. So in some cases Whimo is
+[05:46] trying to go it out alone but in most
+[05:47] cases they're still going at it with
+[05:49] Uber. Now Uber to hedge their bets in
+[05:51] case Whimo kind of just runs on its own
+[05:53] entirely is now looking for these for
+[05:55] these other partnerships. I think
+[05:57] ultimately they end up working together.
+[05:59] I I just think that they are going to
+[06:01] work together. I think Volkswagen's
+[06:02] going to get pushed out of the mix. Um
+[06:04] you know Uber's doing it I think mostly
+[06:06] just to hedge their bets. It's not their
+[06:07] main bet. Their main bet is that Whimo
+[06:10] scales with them. And I think as Uber
+[06:13] proves out the strategic value of the
+[06:16] ride share network, the incumbent
+[06:18] embedded rid share network that they
+[06:20] have throughout the world, then Whimo is
+[06:23] going to really be like, "Yeah, you know
+[06:24] what? It's actually it makes a lot more
+[06:26] sense and it's much more economical for
+[06:27] us to plug into the to the Uber
+[06:30] network." Because one thing you have to
+[06:31] understand is these cars cost a lot of
+[06:33] money to make. um they're they're
+[06:35] Jaguars, but they're outfitted with all
+[06:37] of these complex sensors and complex
+[06:39] software. That's a lot of money. When
+[06:41] you make an asset that costs a lot of
+[06:42] money, you want to monetize it as much
+[06:44] as you can. You don't want it to sit
+[06:45] idly. Um and if you want to monetize an
+[06:47] asset as much as you can in the ride
+[06:49] share world, you plug into Uber's
+[06:50] network because they're always they
+[06:52] always have demand everywhere, right? Uh
+[06:54] so that's why Uber won and Lyft didn't.
+[06:57] Lyft is trying to do things with
+[06:58] Motional, another self-driving company.
+[07:00] I don't think that's going to go
+[07:02] anywhere. I think this is a a winner
+[07:03] take all space if not um winner take
+[07:06] most maybe winner take all and I think
+[07:07] Uber and and Whimo are the partnership
+[07:10] that's going to be the winner take all
+[07:12] so the Tesla robo taxi actually stopped
+[07:14] when a cat was on the road Luke do you
+[07:16] think that the Tesla cameras can see
+[07:18] animals at night like a black cat yeah
+[07:21] so this goes back to the age-old debate
+[07:23] of uh do we need additional sensors
+[07:26] beyond camera or not for self-driving
+[07:27] cars um with the big one being liar
+[07:30] right like lidar is the one that Elon
+[07:32] has been super against for a very very
+[07:34] very long time but everybody else in the
+[07:37] space has been using um like detection
+[07:40] uh radar uh so I think that I think LAR
+[07:44] is necessary that I think Elon um
+[07:47] rejected it early on because back when
+[07:49] he started his self-driving pursuits
+[07:51] 2014 2015 LAR was prohibitively
+[07:53] expensive and he could not slap one or
+[07:55] multiple on every Tesla car but now LAR
+[07:59] sensors are down to I think Hai off in
+[08:01] China selling them for 200 to 300 bucks
+[08:03] a lidar. So you can add, you know, a
+[08:05] full package of these, a full suite of
+[08:07] these for a,000 bucks. And if Tesla's
+[08:09] selling the cars at 25 to $100,000,
+[08:11] adding $1,000 in the manufacturing cost
+[08:13] of that, I I think is I think it makes a
+[08:15] lot of sense. But unfortunately, you
+[08:17] know, I think Elon's holding on to that
+[08:18] grudge that, you know, once he digs his
+[08:21] his uh heels in the sand, he's not
+[08:23] moving. Um, and so I think that that's a
+[08:25] big uh shortcoming of the uh of the
+[08:28] Tesla approach and one of the reasons
+[08:30] why Whimo has sprinted out so far ahead
+[08:33] in the robo taxi race and another reason
+[08:35] why Whimo has all this trust of of the
+[08:37] regulators because of of those LAR
+[08:39] sensors. And um yeah, so I I think that
+[08:43] that uh will it stop for the cat at
+[08:45] night? Maybe, maybe not. And that's not
+[08:48] good enough, right? The answer needs to
+[08:50] be yes. It definitely will stop for the
+[08:52] cat at night. Um a well stop for the kid
+[08:55] at night. Maybe maybe not is not good
+[08:56] enough in this world. Yeah. You know um
+[09:00] of course Whimo and the Uber Volkswagen
+[09:03] um ID Buzz Van use LAR and we use LAR in
+[09:07] the Sierra because we don't want to hit
+[09:09] an animal um when we're driving around.
+[09:11] But um our light the LAR stock you and I
+[09:14] both recommend is um HSAI.
+[09:17] And I think you got in a little before I
+[09:19] did, but uh it's doing great. Yeah, that
+[09:22] that's been a huge winner off in China.
+[09:25] Actually, that got I have a friend that
+[09:27] works at Aurora, big engineering,
+[09:29] actually the head of LAR engineering at
+[09:30] at Aurora or one of the the top wigs
+[09:32] there. And um he was like, "Yeah,
+[09:36] they're they're absolutely crushing the
+[09:37] game off of off in China." You know,
+[09:39] kind of speaking to to Trump's point
+[09:40] about, you know, China's kind of
+[09:42] crushing us in manufacturing. We need to
+[09:43] bring stuff back. Um this this is an
+[09:45] example of that. Hail is absolutely
+[09:47] dominating US LAR manufacturers.
+[09:50] Absolutely dominating them. and they're
+[09:52] making way more at scale, way cheaper,
+[09:55] and way better. And so, you know, here
+[09:57] in the US, I think we're struggling to
+[09:59] get LAR below a,000 bucks a pop, but
+[10:01] often HSA, they're selling just as good
+[10:02] a LAR for $200, $300.
+[10:05] So, that that's why Hail is dominating.
+[10:07] I think they own like 75% of the
+[10:09] automotive LAR global market share. So,
+[10:12] yeah, that just an interesting side note
+[10:14] there. So, Luke, you are very good at
+[10:16] picking space stocks. Can you share with
+[10:18] the viewers what your process is? Yeah,
+[10:21] I mean the space economy is a really
+[10:22] it's an interesting um vertical of of
+[10:25] this kind of hyperrowth world because uh
+[10:28] it's unloved, it's underappreciated,
+[10:30] it's not talked about, it flies under
+[10:32] the radar. Uh yet there's massive
+[10:33] potential um in it. And I think the two
+[10:36] big industries kind of subniches of
+[10:39] space that are really growing important
+[10:40] right now are national defense military
+[10:44] uses that people are we're throwing up
+[10:46] all these small satellites for
+[10:48] intelligence to see where things are
+[10:50] moving to see if there's missiles flying
+[10:52] to see if there's uh troops mobilizing.
+[10:55] Um so it's becoming a huge issue of
+[10:58] national defense and and massive
+[10:59] military applications. And the other one
+[11:01] is communication. So there's a lot of
+[11:05] dead zones throughout the world when it
+[11:06] comes to both cell coverage and internet
+[11:08] coverage. Um when you're flying in
+[11:10] planes, obviously you don't get that
+[11:11] unless you pay up. Uh so there's there's
+[11:13] a lot of situations if there's a
+[11:15] national disaster and infrastructure uh
+[11:17] goes down. What happens then? Uh there's
+[11:19] a lot of instances where we need kind of
+[11:21] better um space communication. And so
+[11:24] that's what a lot of companies are
+[11:25] doing. like AS Space Mobile is a company
+[11:27] in this space that's basically flying up
+[11:29] a constellation of satellites in low
+[11:31] Earth orbit LEO, hundreds of them, and
+[11:34] then they're just going to beam cell
+[11:35] coverage directly to your phone. So, you
+[11:39] will always have service regardless of
+[11:41] where you are. I was just in in Montana
+[11:42] at Glacier National Park. This thing did
+[11:45] not work. If it had as this thing would
+[11:48] have worked the entire time. Not saying
+[11:49] I need to have this all the time, but
+[11:51] you know, my kids were back at at a
+[11:53] cabin with with papa and grandma and I
+[11:56] was out on on the trail with my wife. If
+[11:59] a emergency had arisen, it would have
+[12:01] been really nice to have access to this.
+[12:03] So there are actually real value
+[12:05] additive use cases for for the
+[12:06] communication stuff. So those two
+[12:08] verticals are are big now and I think
+[12:11] are going to get very very big in the
+[12:13] next several years. And the way to
+[12:15] identify stocks in them is just to see
+[12:16] who who are the commercial and
+[12:18] technology leaders, who has the best
+[12:20] tech and who is winning the contracts
+[12:21] and has the business. Follow the money.
+[12:24] And so in communications, AS Space
+[12:26] Mobile is the one that's getting a bunch
+[12:29] of contracts. And that is really I mean
+[12:31] they got Verizon, they got AT&T, uh we
+[12:34] have um Jeff Bezos is involved there. Um
+[12:37] Google's involved there. So, it's like
+[12:39] there's a lot of really smart money in
+[12:41] in that company and they're doing some
+[12:42] really cool things and I think their
+[12:44] technology is very very top-notch. And
+[12:47] then in terms of the military and
+[12:48] communication stuff, you got companies
+[12:50] like Rocket Lab, which is basically
+[12:53] SpaceX's little brother. SpaceX is
+[12:55] focused on these big rockets. Uh Rocket
+[12:58] Lab does the little and middlesiz
+[12:59] rockets. Um and they're the best in town
+[13:02] at that. So, they're really good there.
+[13:04] Black Sky is another one that's
+[13:06] emerging, really small company, but
+[13:07] they're emerging in the space. So,
+[13:09] Planet Labs is is doing a lot of cool
+[13:11] intelligence stuff with AI as well. Uh,
+[13:14] space intelligence with AI. So, there's
+[13:15] a lot of really cool firms in the space,
+[13:17] and you got to find the ones that that
+[13:18] are actually winning the contracts and
+[13:20] don't just have some pie in the sky
+[13:21] dream. Yeah. I don't know if you have a
+[13:24] one of those mirrored telescopes for
+[13:25] your kids yet. We got one.
+[13:28] when you just aim it um at the sky,
+[13:31] especially in dry areas like Montana or
+[13:33] or in Arizona, but get out of the city
+[13:35] lights, the amount of stuff you see
+[13:38] flying around is pretty unbelievable.
+[13:40] And uh it's uh there's a lot of stuff up
+[13:43] there. Yeah, there there's a lot of
+[13:46] stuff going going around and especially
+[13:47] in low Earth orbit these days. And that
+[13:49] actually creates a whole another field
+[13:51] of uh potential economic value here,
+[13:54] which is satellite repair and
+[13:55] satellites. These satellites cost a lot
+[13:56] of money to make and a lot of money to
+[13:58] send up there and you want them to have
+[14:00] as long of a life as possible, operable
+[14:02] life as possible. So then you send more
+[14:04] satellites up there to go fix the ones
+[14:05] that you already have up there, right?
+[14:06] So that's like an entire another economy
+[14:08] that gets born out of this uh this
+[14:10] industry. Uh so you're really u good u
+[14:14] identifying something called AI appliers
+[14:16] and AI builders. Um can you specify what
+[14:20] the difference is?
+[14:22] Yeah. So I view there being two layers
+[14:26] of the AI boom. One is the building
+[14:29] layer and the second is the application
+[14:31] layer. The building layer as the name
+[14:32] would imply are the companies that are
+[14:34] building the infrastructure necessary to
+[14:36] facilitate the AI boom to create AI
+[14:38] models to develop AI applications. So
+[14:40] we're talking everything from um the
+[14:45] data centers to the chip fabrications to
+[14:49] the energy infrastructure supporting all
+[14:52] of that to the metals and minerals that
+[14:55] are required in all of this AI stuff AI
+[14:59] hardware that's sort of the AI building
+[15:02] layer. uh a really interesting subniche
+[15:04] of that or that and I know you're into
+[15:05] some of these stocks as well are the uh
+[15:08] semiconductor component suppliers. So
+[15:10] something like Veritative that supplies
+[15:12] cooling solutions or something like um
+[15:15] ASML that does lithography machines. So
+[15:18] those are really interesting kind of
+[15:20] plays at the building layer and the
+[15:22] application layer is like okay once all
+[15:23] that infrastructure is built what are we
+[15:24] going to do with it just sit on it? No,
+[15:25] we're going to develop we're doing it so
+[15:27] we can develop new AI applications and
+[15:30] proliferate them throughout throughout
+[15:31] the economy. And so that's the that's
+[15:33] the application layer and names that I
+[15:35] really like there. So we're talking
+[15:36] companies like Axon uh law enforcement
+[15:38] technology actually in in Phoenix,
+[15:40] Arizona, Scottsdale, Arizona started off
+[15:42] just selling tasers and they went to
+[15:44] body cameras and they did, you know,
+[15:45] basically all-incloud solutions for law
+[15:47] enforcement. Now they're integrating AI
+[15:49] into that. So they have a new AI
+[15:50] solution that essentially takes so
+[15:52] police have their body cameras on. If an
+[15:54] incident happens it automatically starts
+[15:56] recording. Normally back in the day
+[15:58] you'd have to okay take that footage and
+[16:00] then write up a police report out of
+[16:01] that. They have a new AI solution that
+[16:04] essentially takes that footage uses
+[16:06] computer vision to process it and then
+[16:08] natural language processing to turn it
+[16:10] into a first draft of a police report.
+[16:12] So that all officer has to do is
+[16:14] essentially look it over verify for
+[16:16] accuracy and then boom it it's good to
+[16:18] go in. So, they're using cool new tools
+[16:20] like that. That stock has been
+[16:21] absolutely on fire. I think it's it's
+[16:23] been uh on your radar as well. Um
+[16:26] Dolingo is another one that's been a
+[16:28] really good AI applier. Um they've been
+[16:31] integrating AI language learning app. If
+[16:32] anyone hasn't tried Duolingo, it's a
+[16:34] really really fun app. They make
+[16:35] learning languages fun. Even as an
+[16:37] adult, it's very hard to learn a new
+[16:39] language as an adult. They make it fun
+[16:40] still. Uh they're using AI essentially.
+[16:43] It's very conversational AI. basically
+[16:45] talking AI chat bots while learning a
+[16:47] conversation or while learning a new
+[16:48] language. That stock's been absolutely
+[16:50] on fire as well. So, there's really cool
+[16:52] companies that are doing really cool
+[16:54] stuff at the application layer. So,
+[16:55] that's how I look at it. The builders
+[16:57] and the appliers, you got to own both. I
+[17:00] think both are going to continue to
+[17:01] thrive so long as the AI boom has a
+[17:03] bunch of money coming into it, which it
+[17:05] does. Um, so I think you got to own both
+[17:07] sides of of the boom. Luke, can you
+[17:09] share a little bit about physical AI and
+[17:11] also when you think that the Tesla
+[17:13] Optimus robot will be available? Yeah,
+[17:15] so physical AI, I think, is the next big
+[17:17] wave of AI and I actually think that
+[17:19] self-driving cars, robo taxis are the
+[17:21] first real world application of physical
+[17:23] AI. If you define physical AI as AI
+[17:26] going physical, so AI breaking out of
+[17:29] these things and our computers and
+[17:30] actually going into real world, you
+[17:32] know, devices such as self-driving cars,
+[17:34] such as warehouse automation, such as
+[17:37] humanoid robots. Humanoid robots are
+[17:40] obviously the biggest component of that.
+[17:42] But self-driving cars are already here.
+[17:45] Warehouse automation is already here. So
+[17:47] physical AI has already arrived. Um,
+[17:51] when are the when's the big kahuna going
+[17:52] to arrive? when one of the Optimus
+[17:54] robots going to arrive, the humanoid
+[17:55] robots. Well, off in China, uh there's a
+[17:58] company called UBtech that is already
+[18:00] selling a humanoid robot to consumers
+[18:02] for use in their homes for $20,000.
+[18:06] So, it's already arrived in China.
+[18:08] I think we are 12 months away from
+[18:12] Optimus being sold widely, not to
+[18:15] consumers, but to other businesses.
+[18:17] That's sort of the the ramp timeline
+[18:20] that Elon Musk has painted for for
+[18:22] Optimus. 2025 is the year they build a
+[18:25] few thousand to use in their own
+[18:27] factories.
+[18:28] 26 is the year they build tens of
+[18:30] thousands, if not hundreds of thousands
+[18:32] to sell to other companies for use in
+[18:34] their factories. And then 2027 will be
+[18:36] the year when they build millions that
+[18:38] they'll sell to to consumers. Obviously,
+[18:42] we know that Elon is always aggressive
+[18:43] and overly optimistic and rosy with his
+[18:45] timelines. So let's, you know, even if
+[18:48] we back it out a year or two, I still
+[18:50] think that by, you know, by next summer,
+[18:54] we will be selling or Tesla will be
+[18:55] selling some of them, some of those
+[18:57] robots to other factories. And by 2030,
+[19:00] I think you will be able to go online or
+[19:02] to a Tesla store and purchase an Optimus
+[19:04] robot. So I think this is a thing that's
+[19:06] happening in the next 5 years in terms
+[19:08] of household penetration. And that is
+[19:10] early enough or that is not long enough
+[19:13] to start investing in it. Right?
+[19:15] Sometimes things if they're 10, 15 years
+[19:16] out, it's too early to to invest.
+[19:18] There's just way too much unknown. I
+[19:20] think fiveyear visibility, that's short
+[19:23] enough to where investors are like, you
+[19:24] know what? Yeah, let let's start taking
+[19:27] some bites here. Let's start actually
+[19:29] investing in what could be a big
+[19:31] economic opportunity. Uh you and I both
+[19:33] have um quite a few newsletters.
+[19:36] What's special about your breakout
+[19:38] trader service? A breakout trader is
+[19:40] designed to
+[19:42] essentially ignore everything but price.
+[19:45] Um it it's a price is truth thing and it
+[19:49] follows a very rigorous technical
+[19:51] analysis pattern to find stocks that are
+[19:54] on the verge of big shortterm moves
+[19:57] higher. Uh so often in that service
+[20:00] we're we're booking gains you know 20 30
+[20:03] 40% in a matter of one two or three
+[20:06] weeks that it's it's sort of a you know
+[20:08] boom the boom phase the breakout phase
+[20:10] the stage two phase the whole the whole
+[20:13] uh system is based on uh stage analysis.
+[20:16] Stan Weinstein pioneered it a couple
+[20:18] decades ago. At any given point in time
+[20:21] a stocks in one of four stages stage one
+[20:23] it's going sideways at a bottom. Stage
+[20:25] two it's breaking out. Stage three, it's
+[20:27] consolidating at a top. Stage four, it's
+[20:30] falling. Um, obviously the the name of
+[20:32] the game there is to find a stock when
+[20:34] it's going from stage one to stage two.
+[20:36] So, we have a system that leverages a
+[20:38] bunch of different technical indicators
+[20:39] to identify when a stock is potentially
+[20:41] going from that stage one consolidation
+[20:43] phase to a stage two breakout for a
+[20:46] sharp short-term move higher. So, that's
+[20:48] what breakout trader is all about. It's
+[20:50] all about price stuff. We don't really
+[20:52] care about fundamentals in that
+[20:53] particular service. And it was tough for
+[20:56] me to get into that because I started
+[20:57] off as a fundamental investor, right?
+[20:58] Like that's what I do. I love talking
+[21:00] fundamentals. I love looking at
+[21:01] fundamentals. I believe in fundamentals.
+[21:03] So I was very hesitant at first and I
+[21:05] was like, okay, is when I was reading
+[21:07] the strategy, I was like, is this really
+[21:08] going to? But in the two to three years
+[21:10] we've been running that service, it's
+[21:11] had tremendous success and I've really
+[21:14] enjoyed um you know, pioneering that.
+[21:16] So, it's been been a lot of fun and I
+[21:18] actually really do believe and I don't
+[21:20] think that's what everybody should do
+[21:21] all the time, but I think as part of the
+[21:24] portfolio of tools people have to to
+[21:25] make money in the markets. Um, I think
+[21:27] that should definitely be a part of it.
+[21:30] I had no idea that uh Stan Weinstein was
+[21:32] reincarnated to be you. Okay, that's
+[21:35] amazing. I guess I guess that's that's
+[21:37] that's what that's what happens, right?
+[21:38] Sometimes the reincarnation cycle.
+[21:41] So, we don't talk a lot about crypto on
+[21:44] this podcast, but I noticed in Ultimate
+[21:46] Crypto that you have one recommendation
+[21:48] up over 3,000%. How did that happen?
+[21:52] Yeah, so crypto is it it's an
+[21:54] interesting uh beast because it's the
+[21:57] riskiest yet potentially most rewarding
+[22:00] um asset out there, at least liquid
+[22:02] asset out there. Um
+[22:05] it it's I think Bitcoin itself is
+[22:08] becoming more stable and actually you
+[22:11] are seeing a lot of institutions and
+[22:14] funds start to incorporate Bitcoin into
+[22:17] their holdings. Um I think 401ks are
+[22:20] even being allowed to invest in it in
+[22:21] some states. I think maybe it was Texas
+[22:23] or some state Arizona I forget. One of
+[22:25] the states uh passed legislation
+[22:28] allowing 401ks to start investing in in
+[22:30] Bitcoin. So, um, Bitcoin, you're not
+[22:33] going to see that 3,000% gain anymore.
+[22:36] Um, and altcoins is is is where you'll
+[22:38] find it. Um, these things, Louiesie
+[22:42] likes to say that small caps move like
+[22:44] bunnies, right? They they stop and then
+[22:46] they'll hop and then they'll stop and
+[22:48] then they'll hop and then they'll stop.
+[22:49] Well, uh, altcoins are like bunnies on
+[22:52] steroids, okay? They'll they'll they'll
+[22:54] stop and they won't do anything for a
+[22:56] very very very long time and then
+[22:57] they'll hop. And when they hop, it looks
+[22:59] like Michael Jordan going to going to
+[23:00] dunk on on a sevenfooter. Like they they
+[23:02] hop like crazy. And um that it requires
+[23:06] an insane amount of patience. It
+[23:08] requires an insane amount of risk.
+[23:12] But if you can stomach those two things,
+[23:13] if you have those two things, yeah, I
+[23:16] mean, with with with some extra money,
+[23:17] it kind of makes some sense to take some
+[23:19] some bets that could pay off a,000,
+[23:20] 2,000, 3,000%. I mean, 3,000% in the
+[23:24] world of altcoins is is I'm not going to
+[23:26] say it's small, but there are there are
+[23:28] ones that go up 10,000 and 15,000% in a
+[23:31] matter of a year or two. That does
+[23:33] happen. Um, it's super risky, not for
+[23:35] your lunch money. Uh, but I think it's
+[23:38] it's an interesting part of of the
+[23:40] investment wheelhouse because of the
+[23:42] potential returns it offers. Uh, not to
+[23:44] mention, I think now you're actually
+[23:46] seeing some of those returns spill into
+[23:47] the stock market. two stocks that have
+[23:50] been absolutely on fire in the last well
+[23:53] two weeks, but even beyond that for one
+[23:55] of them is Coinbase and Circle, right?
+[23:58] Circle is is a stable coin issuer.
+[23:59] Coinbase obviously the platform that
+[24:01] that trades cryptos. Those stocks have
+[24:02] been on fire. Circle was a $31 IPO. I
+[24:06] mean, I don't know what it's closed at
+[24:08] on Friday.
+[24:10] Let's see, but I know it was as high as
+[24:11] like 250
+[24:13] 180 on on on Friday. Um, so that that's
+[24:16] one that's been absolutely on fire. Um,
+[24:19] stable coins are starting to become a
+[24:20] bigger part of the the global payment
+[24:22] ecosystem. Walmart's considering issuing
+[24:24] their own stable coins. Amazon's
+[24:25] considering issuing their own stable
+[24:27] coins. Uh, FServe just uh announced
+[24:30] their own stable coin and that's going
+[24:31] to actually roll out throughout the uh,
+[24:34] Mastercard network. Um, so you are
+[24:37] seeing stable coins really start to have
+[24:38] a moment in in the economy and that is
+[24:41] supported by legislation, the Genius Act
+[24:43] that already passed off in DC, which
+[24:46] provides a legal uh regulatory framework
+[24:48] for these these stable coins. So, you're
+[24:51] getting political tailwinds, you're
+[24:52] getting big uh corporate tailwinds. And
+[24:55] I think that provides a a foundation for
+[24:59] cryptos, particularly those tied to
+[25:01] stable coins, uh or stocks tied to
+[25:03] stable coins to continue to do do pretty
+[25:06] well. So, um Luke, uh stable coins are
+[25:09] obviously coming. They're pegged to the
+[25:10] dollar. Are they going to capture market
+[25:13] share from crypto or is it just going to
+[25:14] become a bigger pie out there?
+[25:17] I think it's uh I think it will capture
+[25:19] share from from crypto. I think you are
+[25:21] you are seeing that. I found it very
+[25:23] interesting in the last two weeks that
+[25:25] Circle gets redot, Coinbase gets red
+[25:28] hot, but cryptos don't. Generally
+[25:32] speaking, all coins have continued to to
+[25:34] lag tremendously. Bitcoin has not made a
+[25:38] new high while the markets have. The S&P
+[25:40] and NASDAQ have hit new highs. Uh
+[25:43] Bitcoin is still below 110,000. So I I
+[25:46] found it very interesting that you're
+[25:48] seeing these cryptoreated stocks or
+[25:49] rather more specifically stable coin
+[25:51] related stocks that are absolutely
+[25:53] soaring and ripping higher. You would
+[25:54] expect to see followthrough into the
+[25:56] cryptoverse and you expect to see names
+[25:57] like Salana and Dogecoin and stuff like
+[25:59] that absolutely rip higher but they're
+[26:01] not. And you know price is true. They
+[26:04] like to listen to the market there. I
+[26:05] think the market is saying the stable
+[26:07] coin growth may come at the expense of
+[26:10] some existing crypto infrastructure. So,
+[26:13] let's switch over to economic news. Dad,
+[26:16] what do you expect for next week's ISM
+[26:18] manufacturing and service?
+[26:21] Well, uh, we just had a a stunning
+[26:23] durable goods report. Uh, it did help
+[26:25] that commercial aircraft orders are up
+[26:28] 231%.
+[26:30] So, uh, but when we strip out
+[26:33] transportation, the durable good orders
+[26:35] were still rising. So, we hope ISM
+[26:37] manufacturing will finally pick up.
+[26:39] Again, a lot of this is held back by
+[26:41] housing. Uh there's a lot of durable
+[26:43] goods that go in homes. So hopefully
+[26:45] that's going to pick up. Uh uh uh
+[26:49] service report from ISM actually turned
+[26:53] uh negative. It went below 50, but just
+[26:56] barely. We're hoping it picks up again.
+[26:59] Uh because we're a service uh le economy
+[27:02] and it's as simple as that. You know,
+[27:04] last I looked the Atlanta Fed still
+[27:06] estimating 2.9% GDP growth. Hopefully
+[27:09] that's going to show up in the economic
+[27:11] data. And if it if it's weak, that just
+[27:13] means the Fed will be cutting at the end
+[27:14] of July. So earning announcement season
+[27:16] is almost over, but there's one
+[27:18] announcement next week. Dad, what do you
+[27:20] think about Constellation Brands? Well,
+[27:22] their sales are forecast to decline 4%.
+[27:26] Their earnings are forecast to decline
+[27:28] 7.4.
+[27:29] Uh there's recent analyst cuts, but um
+[27:33] believe it or not, Constellation did
+[27:34] post a 15.9% earning surprise in its
+[27:37] previous quarter. So, Constellation is
+[27:40] uh dominated by its imported beers. You
+[27:42] know, Corona, Mandello, Pacificico,
+[27:46] Mandela is the number one selling beer
+[27:47] in America. They also own Robert Mandavi
+[27:50] and Prisoner Wine Brands. In fact, guy
+[27:53] went to school with was the CFO at
+[27:55] Robert Mandavi and I was over at
+[27:57] Constellation. But, um you know, uh I
+[28:01] have hope for them. But uh you know uh
+[28:03] this is a good time to ask Luke about um
+[28:06] Celsius uh because you know my biggest
+[28:09] winner ever was Monster Energy uh and
+[28:12] Celsius of course is caffeinated uh
+[28:15] drinks that are wildly popular. So do
+[28:17] you still like Celsius or Luke? I we
+[28:21] were huge on Celsius from the COVID
+[28:24] boom, you know, but summer 2020 until
+[28:28] about a year ago and then then we got
+[28:30] out of Celsius. The sales growth
+[28:32] trajectory has I mean the bold thesis
+[28:34] there is they're going to be the next
+[28:35] Monster, right? They're going to
+[28:36] leverage unique marketing and branding
+[28:38] and flavors to become the next Monster
+[28:41] quote unquote healthy version of of
+[28:43] Monster. But there was um there was this
+[28:48] Tik Tok video that circulated back I
+[28:50] think in 20 late 2020 early 21 and it
+[28:54] was like a voice over of like um I'm
+[28:57] drinking Celsius. It's it's healthy for
+[28:58] you. And then somebody asking wait how
+[29:00] do you know it's healthier for you? And
+[29:02] the person says well it's got a fruit on
+[29:04] the can. Right? Like it's so it was just
+[29:06] a joke. It was like yeah I just believe
+[29:08] it's healthier because it's got a fruit
+[29:09] on the can. And um that was always going
+[29:12] to catch up to them that there's nothing
+[29:15] really fundamentally healthier about
+[29:17] Celsius than a sugar-free rockstar
+[29:21] monster, right? There's nothing really
+[29:22] fundamentally healthier about it besides
+[29:25] the branding made it seem healthier.
+[29:27] That was always going to catch up to
+[29:28] them and I think it has caught up to
+[29:29] them that their sales grow trajectory is
+[29:31] meaningfully slow. They were a triple
+[29:32] digit grower for on the top line for a
+[29:34] very very long time. Uh that's no longer
+[29:36] true. In fact, they're barely growing on
+[29:38] the top line. I think they're shrinking
+[29:39] on the top line actually. So that's
+[29:41] caught up to them. Um
+[29:43] uh what's the Crystal? Maybe you know
+[29:46] it. Is that how you say it?
+[29:50] Alani. Yeah, that was a big competitor.
+[29:53] Then they bought him out. So that that
+[29:54] that may have provided them some, you
+[29:56] know, second wind here. Uh but there's
+[29:59] going to be somebody else that comes up
+[30:01] and eats some more market share. And
+[30:03] it's just it's a super competitive
+[30:04] world. uh Monster was able to do what
+[30:07] Monster did because they were first and
+[30:09] not it took a while for other people to
+[30:11] catch up. It's much harder um for
+[30:14] somebody to to do that today. It'd be
+[30:16] like somebody unseeding Nike. Now, I
+[30:18] know there's there's a company that you
+[30:19] and I both like on uh footwear, the O um
+[30:24] company um and they're they're doing
+[30:26] really well, but eventually they'll
+[30:28] probably hit, you know, a similar
+[30:29] roadblock as as Celsius. It's just
+[30:31] really hard to unseat a super
+[30:33] established, super big uh super powerful
+[30:37] um company uh in in a consumer
+[30:40] discretionary vertical and uh that's
+[30:42] what Celsius ran into with Monster. So,
+[30:44] I am not a huge fan of of Celsius
+[30:46] anymore. I think eventually you could
+[30:47] get a contrarian buy the dip play here.
+[30:49] It's been absolutely obliterated from
+[30:51] the highs. It does look pretty cheap on
+[30:53] a P multiple basis. Um but you need
+[30:56] those growth trends to turn around and
+[30:57] they're they're just not quite yet. Full
+[31:00] disclosure, I still drink Celsius energy
+[31:03] drinks though. Any chance Red Bull will
+[31:04] try to buy them to get better market
+[31:07] apprentices in the in the US? Yeah, I I
+[31:10] do think that if you're going to buy
+[31:13] Celsius stock, I think you got to I
+[31:15] think part of the bull thesis has to be
+[31:17] they're a buyout candidate. I think it
+[31:19] that just has to be it. Um it's not
+[31:21] going to be Monster, but it could be a
+[31:23] Red Bull. Um maybe Pepsi absorbs them,
+[31:27] right? they had that big deal with Pepsi
+[31:28] for their distribution. So maybe Pepsi
+[31:31] just absorbs them. Um I I think that's
+[31:34] that if push really comes to shove, I
+[31:36] think that that will happen. And so I do
+[31:38] think the bull thesis makes some sense
+[31:40] here. But again, I just want to see
+[31:41] those growth trends turn around before I
+[31:43] can get constructive on the name again.
+[31:45] Yeah, it's good to wait for the
+[31:46] fundamentals, too. Let's finish with a
+[31:48] hard question. And several weeks ago, we
+[31:49] had Beastpoke Paul Hickeyi who just came
+[31:51] out with a decile chart of the Russell
+[31:53] 1000 since the February highs and it
+[31:56] showed that there was no clear
+[31:58] fundamental theme leading the market.
+[32:01] What is going on? That's a great great
+[32:04] question. I know you're showing the
+[32:05] chart on the screen. Um what Bpoke does
+[32:08] of course is they look at all kinds of
+[32:10] fundamental factors trying to figure out
+[32:12] what's working uh and if it is working,
+[32:14] how many deciles you can data mine, etc.
+[32:17] It's just great research. But
+[32:19] unfortunately um that chart showed that
+[32:23] other than uh a weak price to sales um
+[32:27] not a lot was working and and that means
+[32:29] that meme stocks and there was a lot of
+[32:31] froth in the market. So, um, what's
+[32:34] really been working, to be honest with
+[32:35] you, is the stocks below the Russell
+[32:37] 1000, uh, more in the Russell 2000
+[32:40] because June's been the the month where
+[32:43] Russell fine-tunes its indices, and they
+[32:45] were coming out every week, um, with,
+[32:48] uh, a refined list of the stocks being
+[32:50] added to the Russell 2000 and Russell
+[32:53] 1000 indices. And they just finalized
+[32:56] the list on uh, Friday the 27th. And
+[33:00] that means on Monday the 30th those
+[33:02] stocks are going to be jumping. And I'll
+[33:04] give you example. Elmed, Elmd,
+[33:07] um uh the uh PSIX uh which is one of our
+[33:11] energy stocks. And then another one is
+[33:14] IDR uh uh it's a gold stock and uh and
+[33:19] rare earth mineral company we recommend.
+[33:21] So all those stocks are being added to
+[33:22] indices and they should pop. But uh this
+[33:25] month a lot of the strength has been um
+[33:27] in the small cap arena.
+[33:29] and uh and that Russell 1000 decel chart
+[33:33] just showed that that there wasn't a
+[33:34] clear pattern. Of course, this week we
+[33:37] also h this past week we had lots of
+[33:39] leadership from the semiconductors with
+[33:41] Micron and Broadcom uh having decent
+[33:44] results and and of course Nvidia took
+[33:48] took charge and made new highs and
+[33:50] became the the largest uh cap company
+[33:52] out there. Well, thank you so much Luke
+[33:54] for being here. How can our viewers find
+[33:56] you? Yeah. So, uh, like Louiesie, I've
+[33:58] run multiple, um, newsletter services,
+[34:01] uh, financial research newsletter
+[34:02] services focused on tech investing,
+[34:05] growth investing, uh, momentum
+[34:07] investing, um, all sorts of, of
+[34:09] different services for whatever, you
+[34:11] know, whatever floats your boat. Um, you
+[34:13] can find me on investorplace.com. That's
+[34:15] where all my content is is hosted. I
+[34:18] think we're going to provide some some
+[34:19] links for for folks to get started with
+[34:22] some of our our services. Innovation
+[34:24] Investors is our our flagship entry
+[34:25] level service. Um I I really really love
+[34:29] that service. I run it so of course I
+[34:31] love it. But um we do we do daily notes.
+[34:34] We provide daily updates on on the
+[34:35] market and stocks and everything to
+[34:37] everybody all the latest developments in
+[34:38] tech. We are our big motto is AI with AI
+[34:41] allin with artificial intelligence. So
+[34:44] we cover every single news headline that
+[34:46] comes across the tape uh with respect to
+[34:49] AI. um whether that's um Amazon putting
+[34:52] more money to work in in data centers or
+[34:55] Microsoft building its own chips or
+[34:57] humanoid robots being launched out in in
+[34:59] China, whatever it may be, we cover it
+[35:00] because we believe that we are in
+[35:02] probably the fourth or fifth inning of a
+[35:05] massive generational trend with AI in
+[35:07] the markets. Um and that we're kind of
+[35:10] entering the the 989 phase of of this
+[35:13] boom. You know, do it was 95 to 99. 98
+[35:17] 99 were were the best the best times 99
+[35:20] especially um I think we're getting into
+[35:22] that um with the AI boom so I think the
+[35:24] best is still ahead and we cover all
+[35:26] that stuff best stocks to play it um
+[35:28] best ways to profit off it so innovation
+[35:30] investor that's the entry- level service
+[35:31] would highly recommend anybody that's
+[35:33] interested in what we're talking about
+[35:34] or interested in how we do things that's
+[35:36] where you start yeah and I would add
+[35:38] that you know Crystal's teased uh your
+[35:41] buy list and things and people can see
+[35:42] you've already make quite a bit of money
+[35:45] and you have a great batting average as
+[35:46] well. Thanks, Louis. Yeah. Yeah, we try
+[35:48] to we do our best and I think our best
+[35:50] right now is is just pretty darn good.
+[35:52] Great. Well, thank you so much again and
+[35:53] thank you to you both for answering all
+[35:55] my questions. Thank you to you all for
+[35:57] watching. Please make sure to give this
+[35:58] video a like and subscribe if you
+[36:00] haven't already. Any links that we
+[36:02] mentioned today will be in the
+[36:03] description below. But until then, thank
+[36:05] you so much and we'll see you all next
+[36:07] Sunday for a new video.
+[36:09] [Applause]
+[36:09] [Music]

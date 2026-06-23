@@ -7,9 +7,32 @@ Type: short
 Duration: 0:54 (54s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 24
+Transcript characters: 899
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Nvidia's making a new high. Just passed
+[00:03] Apple to become the largest market cap
+[00:05] company in the world. Semiconductors are
+[00:07] leading the market higher. Now, here's
+[00:09] something very important. I've written a
+[00:11] lot of articles on why you should hold
+[00:12] Nvidia through at least the end of this
+[00:14] decade. They have two more versions of
+[00:16] their chip. They're going to be
+[00:17] announcing. One in the second half of
+[00:19] 2026 and one in 2028. After that, it'll
+[00:23] be quantum computing leading the way
+[00:25] because they just can't make the chips
+[00:26] faster. Now, I know a lot of you like
+[00:29] the Magnificent 7 stocks, but I'd like
+[00:31] you to consider something called the
+[00:33] Magnificent One, which is Nvidia. You'll
+[00:35] make a lot more money holding this one
+[00:37] stock. Uh it is a huge weight in my
+[00:39] portfolios, up to 20%. Obviously, we've
+[00:42] been in the stock for a long time, and
+[00:44] we're up uh well over 3,000%.
+[00:48] So, hang on, enjoy the ride. Nvidia is
+[00:51] uh the best stock and the market leader.

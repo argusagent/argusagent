@@ -7,9 +7,34 @@ Type: short
 Duration: 0:57 (57s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 26
+Transcript characters: 855
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] If Nvidia is the backbone, who else
+[00:02] wins? You know, we saw Uber was up 5%
+[00:04] today on a robo-taxi deal with Nvidia.
+[00:07] Is this real or hype?
+[00:08] >> Well, everybody that makes an
+[00:10] affiliation with Nvidia wins. And these
+[00:12] are what they call circular deals.
+[00:16] Sometimes companies don't have the money
+[00:18] to to buy the Nvidia chips. So Nvidia
+[00:20] does a deal with them and then all of a
+[00:22] sudden they're instantly worth more
+[00:23] money and
+[00:24] they can do a bond or stock secondary
+[00:26] stock offering to raise the money.
+[00:28] Yeah, Nvidia's
+[00:30] going to be over billion dollars soon.
+[00:33] And that's 100% sales growth. And they
+[00:36] that's for next year. Right now they're
+[00:38] estimated their sales are estimated to
+[00:40] be up 79% earnings like 119.
+[00:43] They're going to be revising all those
+[00:45] estimates higher. So Nvidia's still
+[00:47] dominating and it's amazing for a
+[00:50] company this size just the
+[00:54] that they still have accelerating sales
+[00:55] and earnings momentum.

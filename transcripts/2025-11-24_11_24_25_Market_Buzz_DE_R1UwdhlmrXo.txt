@@ -7,9 +7,27 @@ Type: short
 Duration: 0:37 (37s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 19
+Transcript characters: 701
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Well, I've been very very nasty to John
+[00:02] Deere. Critical that they moved a lot of
+[00:05] their manufacturing to Mexico. This is
+[00:07] before Trump got in. Laid off a lot of
+[00:09] people. They've obviously been
+[00:10] struggling because the farmers in Europe
+[00:12] were struggling. Our farmers were
+[00:13] struggling for a while, but it looks
+[00:15] like things are getting better. Sales
+[00:17] are going to be up 5.8% according to the
+[00:19] analyst community. Earnings are going to
+[00:20] be down 16.3. That's pretty good. I
+[00:23] mean, they were struggling at one time.
+[00:24] There's been some minor analyst cuts,
+[00:26] but in the last two quarters, they have
+[00:28] surprised. So there's hope for John
+[00:31] Deere and obviously the agricultural
+[00:33] community hopefully is getting better
+[00:35] now that the exports are picking

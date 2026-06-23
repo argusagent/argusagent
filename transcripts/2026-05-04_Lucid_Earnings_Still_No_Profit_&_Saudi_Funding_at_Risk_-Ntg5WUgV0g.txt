@@ -7,9 +7,38 @@ Type: short
 Duration: 1:00 (60s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 30
+Transcript characters: 1002
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Lucid reports earnings this week. EVs
+[00:02] have been brutal lately. Is there any
+[00:04] hope?
+[00:04] >> Maybe if they get bought out. You know,
+[00:06] Rivian has that deal with Volkswagen
+[00:09] that hopefully is helping Rivian. Lucid
+[00:12] needs to make an alliance with somebody
+[00:14] or worst case just get sold back to
+[00:16] Tesla. Now, their sales are up 57.4%.
+[00:20] That's the forecast. Their earnings are
+[00:22] forecast to decline 9.6%.
+[00:25] This company has never made money.
+[00:26] They're not forecast to make money next
+[00:28] year. So, they're burning through things
+[00:30] pretty fast. I guess the the thing we
+[00:32] got to watch is Saudi Arabia was
+[00:34] invested in this company and obviously
+[00:36] you've seen Saudi pull funding from LIV
+[00:38] Golf.
+[00:40] Don't know if they'll pull funding from
+[00:41] Lucid. So, that is what I would worry
+[00:43] about. They don't have a sales problem,
+[00:45] but they definitely have an earnings
+[00:46] problem. With that said, everybody likes
+[00:47] their vehicles and I believe they have
+[00:49] an SUV now that people are buying. So,
+[00:52] so we'll see. But,
+[00:54] yeah, no, this this company needs to get
+[00:57] bought out by by a major auto auto
+[00:59] company.

@@ -7,9 +7,1206 @@ Type: video
 Duration: 49:17 (2957s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 1198
+Transcript characters: 42841
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Markets are staring down a big week.
+[00:02] Housing data, a fresh wave of earnings,
+[00:04] and the Kansas City Fed conference in
+[00:06] Jackson Hole. It's the kind of setup
+[00:08] where one comment from Jerome Powell
+[00:11] could rattle the whole market. Welcome
+[00:13] back to Navier Market Buzz.
+[00:15] [Applause]
+[00:16] [Music]
+[00:27] Let's bring back two crowd favorites.
+[00:29] Jason Bodner, founder of Money Flows,
+[00:32] and Tammy Marshall, the Fibonacci
+[00:34] princess. So, other than housing
+[00:36] numbers, all eyes are on Jackson Hole.
+[00:39] Jason, Tammy, what do you expect to hear
+[00:41] from Powell?
+[00:43] >> I expect he's kind of in the crosshairs
+[00:46] of Donald Trump. Everybody knows that.
+[00:48] uh Trump is pressuring for his
+[00:49] resignation, calling him all sorts of
+[00:51] names, insulting him, you know, trying
+[00:53] to catch him on that budget thing with
+[00:56] the the hard hats. So, clearly he's
+[00:59] under pressure. I don't see him
+[01:01] buckling. I see, if anything, uh him
+[01:03] standing firm, but you know, the good
+[01:06] news is it's up for a vote. I think he's
+[01:10] going to cite persistent inflation,
+[01:12] however, general improvements in the
+[01:14] economy warranting a forward, you know,
+[01:17] rate cut hinting at what everybody
+[01:19] already has priced in. However, to your
+[01:21] point, Crystal, any sort of negative
+[01:24] comment, especially in this seasonally,
+[01:27] historically weak period of time, could
+[01:30] indeed rattle the markets. And I think
+[01:32] uh you know just based on volatility we
+[01:35] saw last week outsiz earnings
+[01:37] overreactions the market's just looking
+[01:39] for reason to slip and fall on its face.
+[01:42] You know uh data that I'm looking at
+[01:45] shows money flowing out of the market
+[01:46] while the market's still rising. That
+[01:49] doesn't always bode well, but that kind
+[01:51] of lines up for a week August and
+[01:53] September. So, to your point, if he says
+[01:55] anything or sees us the wrong way, you
+[01:57] know, we could expect some uh some
+[02:00] market shocks, but I think it would be
+[02:02] temporary because rate cuts are coming.
+[02:04] >> Yes, I completely agree with Jason. I've
+[02:06] been on some other podcasts this week
+[02:08] and uh that everybody's kind of feeling
+[02:11] the same way that uh a lot of even if we
+[02:14] get rate cuts, a lot of it could be
+[02:16] priced into the market anyway. They're
+[02:19] saying that we're going to get rate
+[02:20] cuts. There's what the 85 to 90% chance
+[02:23] at this point. You know, the the problem
+[02:25] is though is it could be priced in. I
+[02:27] also pay attention to Jason's work at
+[02:30] Money Flows and that is what I've been
+[02:33] noticing when I get the report is that
+[02:36] money is flowing out of the market. So
+[02:39] even though we're going up so I would
+[02:41] just be cautious right now.
+[02:42] >> And I would add that you know Pal is
+[02:44] definitely a lame duck. Obviously, his
+[02:46] speech on the 22nd is important, but um
+[02:49] he just has a growing minority of of
+[02:51] members, FOMC members that want to cut
+[02:53] the uh Trump put on a new Fed official,
+[02:56] but um when Neil Kashari came out and
+[03:00] said he wanted to cut, it was a big a
+[03:02] big deal. And then Mary Daly from San
+[03:04] Francisco wants to cut. So, I'm counting
+[03:07] at least five that want to cut now. And
+[03:09] and those are just the public ones. So,
+[03:11] I'm sure they'll they'll get a majority
+[03:13] and cut in December. And of course,
+[03:15] Besset went on Bloomberg and told him to
+[03:18] cut 50 basis points. Uh I don't know if
+[03:21] he'll he'll get that, but um I should
+[03:24] add that the PPI was a little shocking,
+[03:27] the producer price index, but there's no
+[03:29] tariff data in there. And that was
+[03:31] mostly a surge from an 11.8% increase in
+[03:35] diesel prices. And I'm in California
+[03:38] right now where there's a bit of a
+[03:40] diesel crisis here because they want
+[03:42] green diesel in California.
+[03:45] So they don't seem to understand when
+[03:46] you refine a barrel of oil, you get uh
+[03:49] diesel, you know, jet fuel, kerosene,
+[03:51] asphalt, and uh they want the gas, they
+[03:54] just don't want the byproducts. So I
+[03:56] don't know where it's going, but uh but
+[03:58] the diesel they they have here is
+[04:00] diesel.
+[04:02] >> You don't mind? And I'm going to throw
+[04:03] in a question because we get this
+[04:05] question a lot. So actually a lot of our
+[04:07] subscribers have been wondering you know
+[04:09] if the Fed does cut then doesn't the US
+[04:12] dollar decrease in their value?
+[04:15] >> Yeah. Well generally speaking when rates
+[04:18] fall you're right you know it should
+[04:19] weaken the dollar. However rates are
+[04:23] kind of falling or implied to fall
+[04:25] everywhere else in the globe. You know I
+[04:27] think Australia recently voted to cut
+[04:29] their rates. Rates are falling in
+[04:31] Europe. Rates are falling in China. So
+[04:33] we're still a safe haven as far as a
+[04:35] currency goes because our rates are
+[04:38] elevated compared to the rest of the
+[04:40] world. So even if we do get a cut, I
+[04:42] think we're still, you know, the dollar
+[04:44] is still one of the strongest games in
+[04:46] town. But yes, it should fall relative
+[04:48] to other currency.
+[04:50] >> Yeah, I expect the dollar actually gets
+[04:52] Mojo back. I think the the weakness in
+[04:55] the dollar is mainly because a lot of
+[04:57] our allies just don't like our
+[04:58] president. But um the truth of the
+[05:01] matter is long-term the dollar is based
+[05:03] on the strength of your economy versus
+[05:05] other countries, the size of your
+[05:07] deficit. And although ours is big,
+[05:10] nowhere as bad as Japan, Brazil, and
+[05:14] some other countries. So we're looking
+[05:16] okay there. And then finally, uh where
+[05:18] your real rates are compared to the rest
+[05:20] of the world. And as Jason pointed out,
+[05:22] there's there is falling rates around
+[05:25] the globe and we're the last to cut. So,
+[05:27] our our currency is the reserve currency
+[05:30] and it should uh dollar should get its
+[05:32] mojo back and we're hoping the dollar's
+[05:35] appreciation offsets virtually all all
+[05:37] of the tariffs.
+[05:38] >> All right, before we hit next week's
+[05:39] earnings calendar, let's check in on a
+[05:41] few of DOT stocks have been under
+[05:43] pressure. Let's start with Eli Liy. A
+[05:45] monster run on weight loss drugs, but is
+[05:47] there still some upside or are we
+[05:49] topping out?
+[05:51] I should um um point out that um Lily
+[05:55] slept to a D in my system, which is
+[05:57] normally a sell. Um but I'm refusing to
+[06:01] sell it because their sales are
+[06:02] forecasted to be up 40.1%.
+[06:05] Earnings are forecasted to be up um
+[06:07] 437.9%.
+[06:10] That's positive balance revisions. And
+[06:13] um it had 12.9% earnings surprise last
+[06:16] quarter. It went down on the drug trial.
+[06:20] They had a GLP1 drug trial that wasn't
+[06:23] very good. So, um, uh, right now my
+[06:26] fundamental models are beating my quant
+[06:28] models. So, I'm going to let the
+[06:29] fundamentals overpower this, but a lot
+[06:31] of people are really worried about the
+[06:33] stock technically. So, we like to have
+[06:35] Jason and Tammy's input on this.
+[06:36] >> Sure. Um, I can jump out and I'll share
+[06:40] my screen here. What we find is that
+[06:45] really quickly, this is the money
+[06:47] falling out of the market. the Amber
+[06:49] Linus big money index while the market
+[06:51] is rising. That's what we were talking
+[06:52] about earlier. But if we quickly jump in
+[06:56] here and we look at Eli Lily, what we
+[06:59] will find right away
+[07:02] is this stock is very technically weak
+[07:05] over here. You can see a technical score
+[07:06] of 17 a half. Fundamentally, it's very
+[07:09] strong to Lou's point. So, you know,
+[07:12] looking at a chart, we've seen a lot of
+[07:14] money flows out, a steady downtrend. Um,
+[07:18] you had a little pop here, but overall
+[07:23] technically it's weak. Fundamentally,
+[07:25] it's really good and strong. Great sales
+[07:27] and earnings growth. Uh, good
+[07:30] profitability.
+[07:31] Um, I I don't love their debt, but
+[07:33] they're a drug manufacturer, so that's
+[07:36] sort of implied. And recently, it was a
+[07:38] top 20 stock, and it's been sort of had
+[07:41] the cut off at the knees. So, I'm kind
+[07:45] of of the opinion any sort of positive
+[07:47] comments with the prices down here are
+[07:50] going to be positive for a stock with
+[07:51] such uh strong fundamentals.
+[07:54] >> So, last time I was on the show, we
+[07:55] talked about Lily and um what I told you
+[07:59] was Lily needs to hold 733,
+[08:03] which was uh the low right before right
+[08:08] before earnings.
+[08:10] And I had some support there around 737.
+[08:13] And sometimes it, you know, it have to
+[08:15] give it a little w w w w w w w w w w w w
+[08:16] w w w w w w w w w w w w w w w w w w w w
+[08:16] w w w w w w w w wiggle room. But I said
+[08:17] it needed to hold that 733 735 area in
+[08:21] order for us to continue the move up or
+[08:23] we were going to make a deeper downside
+[08:24] correction and that is exactly what
+[08:26] happened. We did make a deeper downside
+[08:29] correction and uh now we're down to
+[08:34] we came down to 623. I said we would
+[08:37] take out the previous low of 709. And
+[08:39] that's what we did. Not only did we take
+[08:41] out that previous low, we took out the
+[08:42] previous low from April. Also,
+[08:46] uh what I'm looking at now though, what
+[08:48] I do like about Lily, um and I I do like
+[08:52] also what y'all are saying about the
+[08:54] fundamentals because to me, I I love
+[08:56] technical work, but I am not one of
+[08:58] those technical analysis people that
+[09:00] says all you need to look at is
+[09:02] technicals. I also like looking at
+[09:04] fundamentals. My my husband's a
+[09:05] fundamental guy, so we make a really
+[09:07] great duo in our home office here where
+[09:09] we work. So, coming to a monthly chart.
+[09:14] So, one of the things that we do see
+[09:16] when we see one of these huge pullbacks
+[09:18] is we either see a 50% retracement or an
+[09:21] 80% retracement. And the 80% is the 786
+[09:24] retracement. Okay, that's about 80%. And
+[09:27] what have we pulled back to? We've
+[09:29] pulled back to that 80% retracement. And
+[09:32] then um just under it of another swing
+[09:34] I've got a 50% retracement. So I really
+[09:37] like this zone 550 to 614 on Lily. Um
+[09:41] I'm actually very interested in this
+[09:43] stock now myself now that I see that
+[09:45] this we have this price support on the
+[09:47] monthly chart.
+[09:48] >> Some of the stocks I own that we're
+[09:49] getting a lot of questions on because
+[09:51] they pull back u is the big one is
+[09:54] probably super micro. Obviously, this
+[09:56] company has um huge order backlog and
+[09:59] their sales are forecast to be up uh
+[10:01] 8.9%.
+[10:03] Uh but there have been some recent an
+[10:05] analyst trims and their guidance has
+[10:07] been really sloppy and uninspiring. The
+[10:10] main reason I'm holding super micro,
+[10:11] we're still 750% in it. We don't look at
+[10:14] the capital gains taxes, but we do get a
+[10:17] lot of questions on this. So, we we'd
+[10:19] like uh Jason and Tammy's um uh either
+[10:23] reassurance or or guidance on this.
+[10:25] >> Sure. A quick look at SMCI
+[10:29] shows
+[10:31] it's got, you know, again, I should
+[10:34] explain the sweet spot for my scoring is
+[10:36] between 70 and 85. That's optimal. So,
+[10:39] it's just at below these sort of optimal
+[10:42] range. It's technically a little bit
+[10:44] weak, but very strong fundamentals.
+[10:47] Again, we're all about money flows here.
+[10:49] It's in the name of my research firm. We
+[10:52] like to see the greens, money flowing
+[10:54] in. That means institutional support,
+[10:57] people, you know, unusually piling into
+[11:00] the stock. And when you get that over a
+[11:02] prolonged period, you know, you start to
+[11:05] see stuff like this, you know, these big
+[11:09] huge leaps higher. Um so we are
+[11:13] potentially ramping up even though
+[11:15] sloppy guidance earnings it looks like
+[11:17] sort of a temporary move downward and
+[11:19] again uh to Louis and Tammy's point you
+[11:22] know we look towards fundamentals and
+[11:26] the fundamentals of SMCI
+[11:30] are are really strong. It's kind of hard
+[11:32] to get growth like you've gotten out of
+[11:35] SMCI and sustain it for a super long
+[11:38] period of time. So, the stock gets
+[11:40] punished for that. But you're looking at
+[11:42] phenomenal one in threeyear sales and
+[11:44] earnings growth. This did didn't
+[11:45] populate here, but the one-year
+[11:47] estimated sales growth for SMCI is about
+[11:50] 31%.
+[11:52] Um, and you know, sorry, one-year
+[11:56] estimated sales growth is about 24.4%,
+[11:59] one-year estimated earnings growth
+[12:01] 30.6%. So despite not being the darling
+[12:05] that it once was, still has terrific
+[12:08] growth metrics and occupies a really
+[12:10] niche business of uh you know um making
+[12:15] these cloud servers that are optimized
+[12:18] green for AI. So you know AI is not
+[12:22] going anywhere. The hardware components
+[12:24] providers are not going anywhere. I
+[12:26] still like SMCI, but it might be a bumpy
+[12:28] ride for a while. like Louie, I have big
+[12:31] embedded gains that I don't plan on just
+[12:33] spending in pain.
+[12:34] >> Well, as far as my view on SMCI, um I
+[12:37] actually do like it technically at this
+[12:39] point.
+[12:41] So, the risk is very clearly defined for
+[12:43] me. I like this area 40 to 44 because it
+[12:46] does include the pink that pink dotted
+[12:48] line is my 200 simple moving average. Um
+[12:51] and on a monthly chart, I see the same
+[12:54] pattern. This is what I like to see. I
+[12:56] like to see this pattern of where, you
+[12:58] know, it it goes straight up, then it
+[13:01] comes back to a 786, then it takes off
+[13:04] again. Now, we're having that pattern of
+[13:08] higher highs and higher lows. We're just
+[13:09] seeing a pullback inside of a larger
+[13:12] swing. Okay? So, when you zoom in, you
+[13:15] get to see that we're still in this
+[13:17] larger swing
+[13:19] and we're just having a pullback that
+[13:21] defines our risk very clearly. So I
+[13:24] really like this zone of risk 40 to 44.
+[13:27] If you are able to risk a wider zone, I
+[13:30] would include that symmetry at 30 and
+[13:32] make it 30 to 44 because if we take out
+[13:35] that 30 area, we will either retest the
+[13:37] low from the 7th of April or we will
+[13:39] make a deeper downside correction.
+[13:41] >> Now let's talk about sle buy now pay
+[13:43] later name with a knack for beating
+[13:45] expectations. But what do you expect for
+[13:47] them?
+[13:49] >> Well, I should add that their sales are
+[13:50] supposed to be up 48.6. 6% earnings are
+[13:54] forecast to be up 31 and a half%. They
+[13:57] had some recent analyst trims after
+[13:59] their last earnings announcement, but it
+[14:01] has a very good earnings surprise
+[14:03] history.
+[14:04] What happened to Szil is it looks like
+[14:07] it got taken out by the algorithms
+[14:09] because when they announced they had
+[14:12] their net income, which actually dropped
+[14:14] slightly because of an extraordinary
+[14:16] item, but their operating earnings were
+[14:19] 19% better than estimates. and these
+[14:22] algorithms uh just read the newswire and
+[14:25] they didn't have the operating earnings
+[14:26] per share in there and that was
+[14:28] unfortunate and so I think the computers
+[14:30] took it out but uh let's see if uh Jason
+[14:34] Tammy think they can recover. Yeah, I
+[14:36] think uh first of all the algos that's a
+[14:38] great point Louie. I uh back in 2011
+[14:44] maybe I had a client when I was at Caner
+[14:47] on the trading desk you know I was
+[14:49] running derivatives I had 14 traders
+[14:51] working for me. He was asking me hey can
+[14:54] you send me every email you get in the
+[14:56] morning about you know information. So
+[15:00] on a Wall Street desk, people are, you
+[15:02] know, shuttling information in and out.
+[15:04] And I was like, "Dude, that's like 600
+[15:06] emails a day. How you going to those?"
+[15:08] He goes, "I'm not going to read those.
+[15:10] My computers are going to read those and
+[15:12] they go as inputs into my model." You
+[15:14] know, that's almost 15 years ago. So
+[15:16] think about how sophisticated things get
+[15:19] now. And to Louis's point, these algos
+[15:22] just interpret information. They turn it
+[15:24] into, you know, a binary on off and then
+[15:27] they act on it. So, um, I'd agree
+[15:30] because, you know, if I'm going to share
+[15:32] my screen again and we're going to look
+[15:34] at SLE here, you know, this thing has a
+[15:38] phenomenal fundamental score of 79.2.
+[15:40] Again, it's very hard to get a 100 in my
+[15:43] system.
+[15:44] Anything above a 70 is really great.
+[15:47] Technically, it's weak because it's been
+[15:49] punished.
+[15:51] This kind of the score makes things very
+[15:53] easy is 62.1.
+[15:56] This is one that saw great inflows, took
+[15:59] off. You can see how that institutional
+[16:01] money sort of predicts forward price
+[16:04] movement. But now, you know, I would
+[16:07] hate to be a company releasing earnings
+[16:09] in August because all you have to do is
+[16:11] cough and they're going to shoot your
+[16:13] stock. But this company has one year
+[16:16] sales growth 70%, one year earnings
+[16:19] growth of a,000%
+[16:22] three-year earnings growth 527%.
+[16:25] So phenomenal. phenomenal growth. Um,
+[16:28] they have a, you know, a handsome profit
+[16:32] margin, 29%. It's fundamentally really
+[16:35] good. I mean, the good news about this
+[16:38] stock coming down here is that it's the
+[16:41] PE came in, but you know, to Tammy's
+[16:44] earlier point, you sort of have this
+[16:47] longer term uptrend. So, we got really
+[16:49] hyperextended. It pulled back. I think
+[16:51] we actually bounce from here is my
+[16:54] opinion. I like this stock also. Um it
+[16:56] actually has very clearly defined risk
+[16:58] on the daily chart. Uh that pink dotted
+[17:02] line there again that's the 200 simple
+[17:04] moving average and it correlates with a
+[17:06] cluster of support 75 to 87. So the risk
+[17:10] is very clearly defined. If we take out
+[17:11] that air that zone then I would uh I
+[17:15] would not feel as good about the stock
+[17:17] itself. And this is what I like to see.
+[17:18] Okay, I really like to see clearly
+[17:20] defined risk where all you do is put
+[17:23] your stop just underneath that zone and
+[17:25] if it doesn't work then you have
+[17:28] minimized your risk and uh you can move
+[17:32] on to something else that is working.
+[17:33] >> So my latest embarrassment uh is
+[17:36] innovative solutions. This is um company
+[17:39] makes all kinds of great aviation
+[17:41] equipment for commercial and military
+[17:44] and they just announced that um their uh
+[17:47] sales were up 105.2%.
+[17:50] Earnings uh operating earnings are up
+[17:52] 43.3%.
+[17:55] But they had the exact same thing as
+[17:56] sle. They had confusion over net income
+[17:59] versus operate earnings. And it looks
+[18:01] like an algo took the stock out. And uh
+[18:05] I hope it has a big reversal.
+[18:07] as I talked to, it's up in the
+[18:09] aftermarket, but what do you guys see
+[18:11] here? Technically, this just happened.
+[18:12] So, this is
+[18:15] a recent incident.
+[18:16] >> Yeah. Um, so this is one of those stocks
+[18:20] that doesn't often appear on my radar.
+[18:23] It's sort of a lower liquidity name.
+[18:25] Fundamentally, sort of middle of the
+[18:28] road, slightly better. Technically, it
+[18:30] has weakened uh a well certainly here.
+[18:34] You can see this big drop from what was
+[18:37] that 1948 to 1351. So that's the
+[18:41] technical weakness to your point Louie.
+[18:43] Uh this one doesn't really register any
+[18:46] money signals for me. So that
+[18:49] automatically takes me out. It hasn't
+[18:51] appeared on my top 20 report of best
+[18:53] stocks with unusual accumulation. But if
+[18:56] we look into the fundamentals, you know,
+[18:58] great sales and earnings growth, nice
+[19:01] 15% profit margin. uh they do have a
+[19:04] little bit of debt fine. Um they are
+[19:07] slated to grow earnings next year 9.8%
+[19:10] and sales 20%. So on a fundamental basis
+[19:13] I really do like this stock. Uh for me I
+[19:16] need to see a little more liquidity. But
+[19:18] if you're asking what's going to happen
+[19:19] technically I mean you have this huge
+[19:23] move since the beginning of the year or
+[19:25] really rather April we had this big
+[19:27] uptrend. It's still intact. So yeah,
+[19:30] you're pulling back um significantly,
+[19:34] but I think again we bounce. I think we
+[19:36] go through a volatile summer period, you
+[19:40] know, back half of August, September,
+[19:43] and I think this stock's going to find
+[19:44] its mojo for the fourth
+[19:48] >> ISSC. For me, I I came to a monthly
+[19:50] chart because I just wanted to see the
+[19:52] bigger picture and I also wanted to see
+[19:53] if I could get if I could have some um
+[19:57] symmetrical projections. And so what I
+[19:59] mean by that is I'm looking at previous
+[20:00] swings in the market that are equal to
+[20:02] the swing I'm currently in. And I
+[20:04] couldn't see anything on the daily. This
+[20:05] was my daily chart. But on the monthly
+[20:08] chart, I could see data from m, you
+[20:11] know, a much longer time. And that's why
+[20:14] I run so many different time frame
+[20:16] charts. I can see all the way back to
+[20:18] the um high of April of 2007. Okay. And
+[20:22] then the low um from the Mar from March
+[20:24] of 2020.
+[20:26] And uh I do like the pattern here. I
+[20:29] like the way that it looks. We had that
+[20:31] low. I have very very clearly defined
+[20:34] risk here. The zone that I'm looking at
+[20:37] is um about 1112.
+[20:40] If we were to take that out, then I do
+[20:43] think that um we could see a much deeper
+[20:46] downside correction. But the risk is
+[20:48] very clearly defined here. we have a lot
+[20:51] of room to run. Um the target extensions
+[20:55] from that larger swing are not until 37
+[20:59] and 46. Those are the green numbers. So
+[21:03] uh I I do like this setup because the
+[21:05] risk is so clearly defined. Um and uh
+[21:09] the only issue let me look at the moving
+[21:10] averages on the daily. Now I can still
+[21:12] make a case for the bulls because we're
+[21:14] still way above that 200 simple. Okay.
+[21:16] Okay. So, if you wanted to risk down to
+[21:18] the 200 simple moving average, then I
+[21:21] would widen that zone uh to 9 to 11 or
+[21:26] what was it? Let me look back on the
+[21:28] monthly 9 to 12. Okay? So, that we could
+[21:30] include that 200 simple moving average
+[21:33] because we all know that moving averages
+[21:35] by themselves can act as resistance or
+[21:38] support. Uh but when I do have it
+[21:41] correlating with a zone um of Fibonacci
+[21:44] uh then it also uh is even a stronger
+[21:47] zone for me. So a nice cluster a moving
+[21:50] average. I like that zone a lot. 9 to
+[21:53] 12.
+[21:54] >> I want to thank you guys for reassuring
+[21:56] our viewers that uh good stocks bounce.
+[21:59] So uh this might explain why I don't
+[22:02] sell some stocks when they have great
+[22:03] fundamentals. So, we'll look forward to
+[22:05] the bounce and and again, thank you for
+[22:07] reassuring our viewers.
+[22:09] >> Now, let's run through some of the big
+[22:11] names reporting next week. Let's start
+[22:12] with Paulo Alto Networks just bought uh
+[22:15] Cyber Arc. Is this a cyber security
+[22:18] powerhouse in the making?
+[22:19] >> I would add that um Palto Network sales
+[22:22] are supposed to be up 14.3%.
+[22:24] Earnings have been revised higher. This
+[22:26] has a good earnings surprise history,
+[22:28] but this stock has never been as
+[22:29] spectacular as Cyber Arc. So hopefully
+[22:32] Cyber Arcs Mojo will rub off on them.
+[22:35] >> I've always liked Palo Alto Networks. It
+[22:38] just hasn't always performed the way I
+[22:39] like, but I've always loved Cyber Arc.
+[22:43] Um, if we're going to look at PaloAlto,
+[22:46] it's got a middle-of the road map score
+[22:48] of 56.9. Technically, it's weak. Again,
+[22:51] fundamentals strong. We love that. Um
+[22:54] because if anything there's any surprise
+[22:57] this could squeeze to the upside,
+[22:59] especially with these outflow signals we
+[23:02] were seeing recently. That thing was
+[23:04] under heavy pressure, big volume. Um it
+[23:08] is a top ranked stock. It just never
+[23:10] seemed to break out of its range where
+[23:12] it wants to go. Um short-term buying a
+[23:17] company is dilutive. So, you know,
+[23:19] investors don't like it. But Cyber Arc
+[23:21] is a great firm. If we, you know,
+[23:23] quickly take a look at that uh CYBR,
+[23:28] you know, we're going to see super
+[23:30] strong technicals, middle of the road
+[23:32] fundamentals, but look at the money
+[23:33] flows in boying that stock higher. Uh
+[23:37] this thing has a strong history of being
+[23:40] on the top 20 here in the past, you
+[23:44] know, a few years ago before it really
+[23:46] caught its mojo. So, like Louise said,
+[23:48] this could be really accretive to Palo
+[23:50] Alto Network's business. Um, it has
+[23:54] strong sales and earnings growth. It
+[23:56] doesn't really make money, which is not
+[23:59] ideal, but that can be sort of absorbed
+[24:01] into PaloAlto and they're obviously
+[24:03] going to strip it out for other
+[24:05] enhancing businesses in other business
+[24:08] lines. So, I like the move. I like both
+[24:10] stocks. I think it's it's it's a good
+[24:12] match
+[24:13] >> for PaloAlto. From a Fibonacci
+[24:15] perspective, it does have all of the
+[24:16] moving averages on the side of the
+[24:18] bears. However, the risk is very clearly
+[24:20] defined. The setup zone is 168 to 73. If
+[24:24] we take that out, we will either retest
+[24:26] the low from the 7th of August, which is
+[24:28] 165, or make a deeper downside
+[24:30] correction. Now, I did want to pull up a
+[24:31] monthly to see what I see. And um we are
+[24:34] still looking great on a monthly,
+[24:38] honestly. Um, and the zone could be just
+[24:41] a little bit wider here, but what we're
+[24:44] looking at right now is that we're
+[24:46] looking at the swing that we're in where
+[24:47] we came down to that 618. We've bounced
+[24:50] to continue the move up. Um, I would, if
+[24:55] you're looking to get into PaloAlto, I
+[24:57] would use this setup zone 168 to 73. If
+[25:01] you are um already in it and you're
+[25:04] looking to add contracts, that is
+[25:06] another great opportunity for you to be
+[25:08] able to get bullish on a stock that
+[25:10] otherwise does look bearish at the
+[25:12] moment.
+[25:13] >> I would also add for everybody, you
+[25:14] know, we need a cyber hack to get
+[25:16] everybody excited about Palo Alpha
+[25:18] Networks. You know, Cyber Arcs Israeli.
+[25:20] They're just better at it than everybody
+[25:22] else. And um but let's just say Putin
+[25:27] and Trump don't get along and we have an
+[25:29] attack. That would be great for Palo
+[25:30] Alto. So that's probably more important
+[25:33] than their underlying earnings. Let's
+[25:35] talk about Home Depot. Um,
+[25:38] so their sales are forecast to be up
+[25:40] five. Earnings are forecast to be up 22.
+[25:43] Their steady analyst estimates, but they
+[25:45] missed the last two quarters and
+[25:47] obviously this is a big retail bell
+[25:49] weather. What do you guys think?
+[25:50] >> Well, yeah, your point. It's a big bell
+[25:52] weather stock. market gives indication
+[25:54] if people are, you know, spending money
+[25:56] on propping up their homes. And it's
+[25:59] also highly linked to new home sales,
+[26:02] you know, or people buying new homes or
+[26:03] they fixing up their old ones. You know,
+[26:05] from a perspective of whether or not I
+[26:09] like the stock, I've held it for years
+[26:12] and years. It's not the growth darling
+[26:15] it once was, but like you say, Louie,
+[26:18] when you have long-term embedded capital
+[26:19] gains, you kind of deal with the fleas
+[26:23] on an old dog. Uh, fundamentally, it's
+[26:25] middle of the road. Technically, it's
+[26:28] somewhat strong. Um, because we had an
+[26:30] inflow signal that's very encouraging.
+[26:33] We like to see these green inflow
+[26:35] signals after a period of coming out of
+[26:37] a range. You know, we were sort of
+[26:39] rangebound here for a while after the
+[26:41] April pressure and then boom, we get an
+[26:44] inflow signal. That's actually very
+[26:46] bullish
+[26:48] just kind of whatever. You know, it's
+[26:51] it's a huge uh cash cow at this point.
+[26:55] Sales growth one year 4%, earnings
+[26:57] growth negative 1%. They have a 9%
+[27:00] profit margin. Next year they're slated
+[27:03] to grow. Earnings 8.7%, sales 4.2%. This
+[27:07] is not going to be a rocket ship, but
+[27:09] technically speaking, I like this setup
+[27:12] with a new inflow signal. Um, and you
+[27:16] know, if we if Home Depot can make it
+[27:18] through a rocky seasonally seasonal
+[27:21] period historically, I think it has a
+[27:23] good fourth quarter to look forward.
+[27:24] >> As far as Home Depot from a Fibonacci
+[27:26] perspective, um, it has all the moving
+[27:28] averages on the side of the bulls, so it
+[27:30] looks great. the t larger swing targets
+[27:33] are not until way up there at 470 and
+[27:36] 509. So, we have a lot of room to run.
+[27:40] However, uh with Home Depot, because
+[27:42] we've had such a huge pattern of higher
+[27:45] highs and higher lows here, my risk is
+[27:48] not really uh as clearly defined as I
+[27:51] like for it to be. Um that is okay. You
+[27:54] can still use this uh these levels of
+[27:57] support here, but what you're going to
+[27:59] want to do is make sure that you're
+[28:00] using triggers or indicators to show if
+[28:02] the zone is going to hold and put your
+[28:04] stop just underneath whatever support
+[28:05] zone you uh choose. If for some reason
+[28:09] it was able to pull back, it it did pull
+[28:12] back to this uh 382 area, that is an
+[28:16] area I'd really like to look at. um
+[28:18] maybe 380 382 because it's that 200
+[28:21] simple moving average is correlating
+[28:23] with that price support. However, we may
+[28:25] not pull back that far. We could just
+[28:27] bounce off of this 397 to 999 area and
+[28:30] continue that move up to those larger
+[28:32] swing targets. And again, those were 470
+[28:36] and 509.
+[28:37] >> Now, let's talk about lows. Arrival
+[28:39] actually to Home Depot with steadier
+[28:40] results, but which one is kind of
+[28:42] leaning towards a better buy?
+[28:44] >> Well, I would add their sales are
+[28:46] supposed to be up one and a half. their
+[28:47] earnings supposed to be at three and a
+[28:48] half%.
+[28:50] Uh they have steady anal estimates and a
+[28:52] good surprise history, but uh um you
+[28:55] know, Lowe's has been always kind of in
+[28:58] the shadows of Home Depot. So, let's see
+[29:00] what Jason Tammy think.
+[29:02] >> Yeah, I kind of feel like it's a lot of
+[29:05] the same story here. Um
+[29:08] fundamental right off the bat, this is a
+[29:10] middle- of the road stock, so I'm not
+[29:12] really interested in Lowe's. I I get it.
+[29:14] It's a bellweather. I get it. uh you
+[29:17] know it's significant in the home
+[29:19] structure again from an inflows and
+[29:22] outflows perspective. Check this out. We
+[29:24] saw outflows rangebound. Nothing really
+[29:27] happened. We just broke out of this
+[29:30] sideways ragebound action since April.
+[29:32] Looks very similar to Home Depot. We got
+[29:34] a few fresh inflows. It's not a top
+[29:37] ranked stock because its fundamentals
+[29:39] are not great, right? Negative one-year
+[29:42] sales growth, negative threeyear sales
+[29:44] growth. uh earnings growth and three
+[29:48] year uh one year estimated earnings
+[29:50] growth is mediocre. I like to see 10% or
+[29:53] better. Three-year I like to see 10% or
+[29:56] better and it makes a profit margin. So
+[29:57] this is a fine stock, but to me there
+[30:00] are way better fish in the sea. But from
+[30:02] a technical perspective,
+[30:05] you know, look, we're getting inflow
+[30:07] signals. We're trading near a 12-week
+[30:09] high. We're not quite at a 52- week high
+[30:12] yet. I really like 52- week high as a
+[30:15] confirmation for a longer term trend,
+[30:18] but you know, the price is above the
+[30:20] 50-day, 100, and 200 day moving
+[30:23] averages. It's up. We're seeing inflows.
+[30:25] Technically speaking, things are looking
+[30:27] good for lows, but I don't love it
+[30:29] fundamentally.
+[30:30] >> As far as from a technical Fibonacci
+[30:32] technical perspective, yes, like Jason
+[30:34] said, all of the moving averages are on
+[30:36] the side of the bulls here. And um we do
+[30:39] have quite a bit of price support here
+[30:41] again just like we do for Home Depot.
+[30:43] The difference is though Lowe's has more
+[30:45] of an uphill battle. So when I these red
+[30:49] lines that you're looking at, those are
+[30:51] places where the move may stop and we
+[30:52] may make a deeper downside correction.
+[30:54] And the way that I get those is by
+[30:56] looking at previous swings and then
+[30:59] projecting them from those to look and
+[31:02] see, you know, where different places
+[31:04] where the move may stop. Um, and uh, on
+[31:07] Home Depot, we didn't have as much of
+[31:09] that going on, but on Lowe's, we do. We
+[31:11] do have larger swing targets of 308 and
+[31:14] 336 if the low from the 9th of April
+[31:16] stays in place. But, um, I don't like to
+[31:21] trade stocks where I'm so closely stuck
+[31:23] between support and resistance. But, as
+[31:25] long as you, um, know and define your
+[31:29] risk,
+[31:30] um, then you could get in this into this
+[31:33] stock. But you know there again too I
+[31:34] have so many different levels of
+[31:36] support. Uh you would have to pay
+[31:38] attention to where um you possibly would
+[31:41] see some support there on uh lows.
+[31:44] >> Toll Brothers big beat last quarter in
+[31:46] luxury homes but what do you expect for
+[31:48] them?
+[31:49] >> Well I would add that their sales are
+[31:50] forecasted to be at 4.7. Their earnings
+[31:52] are forecasted to climb 1.4. They've had
+[31:55] some recent Alice cuts but that 22.4%
+[31:59] surprise last quarter was a shocker. Uh,
+[32:01] you know, Toll Brothers operates in Reno
+[32:03] where I am a lot and um they got to
+[32:06] discount homes to sell them. So, I don't
+[32:08] know if they can pull out another
+[32:11] surprise out again. Uh, what do you
+[32:12] think, Jason?
+[32:13] >> Yeah, I think um these rate headwinds
+[32:17] have been real for the home builders.
+[32:19] Last year, they were all on fire. uh
+[32:22] they still perform pretty well, but you
+[32:25] know that's a headwind when you have
+[32:27] high rates and people aren't buying
+[32:28] homes and the market housing market is
+[32:30] softening. You know, my mom's trying to
+[32:32] sell her house and all of a sudden a lot
+[32:34] of sellers are popping up. I I will say,
+[32:38] you know, fundamentally it's pretty
+[32:41] strong. I'd like to see a little better,
+[32:43] but that's pretty good. 66.7.
+[32:46] Technically, it's on the weak side.
+[32:48] However, it's got the wind at its back.
+[32:50] Look at all these fresh inflow signals.
+[32:52] If they do have any sort of surprise,
+[32:54] it's going to be a nice gap higher. Um,
+[32:58] this is a stock that's been looking to
+[32:59] get its mojo back since last November.
+[33:02] On a fundamental side, it's kind of
+[33:05] mediocre. I'd like to see more sales
+[33:07] earnings growth, but it's tough to be a
+[33:09] growth powerhouse without a super
+[33:11] vibrant housing market.
+[33:13] uh you know it makes a great profit
+[33:15] margin and manages its debt levels
+[33:17] really well for something like a home
+[33:19] builder.
+[33:21] Technically it's been strong fresh
+[33:23] inflow signals near a 12-week high not
+[33:26] quite at a 52- week high yet got a ways
+[33:28] to go on that but again the price is
+[33:30] above the 50 and 200 day moving
+[33:32] averages. And you know one other thing
+[33:35] to look at is short interest. when a
+[33:38] stock surprises and there's a lot of
+[33:40] short interest, it could squeeze higher.
+[33:42] You know, it's not a ton of short
+[33:44] interest, but this is a large cap name
+[33:45] with a big float. So, that's something
+[33:48] interesting to keep an eye on as well.
+[33:50] But, uh, technically, it's looking like
+[33:52] uh it's got a nice road ahead of it.
+[33:55] >> As far as the stock for me, it has a lot
+[33:57] of room to run. The larger swing targets
+[34:00] from the April 9th low are 192 and 220.
+[34:04] And like Jason said, we have the moving
+[34:05] averages on the side of the bulls. So
+[34:07] technically it does look good. This is a
+[34:10] pretty large area of support that I have
+[34:13] though. It's 115 to 29. I'm not familiar
+[34:16] with how the stock moves if that's too
+[34:19] large of a zone. But what I like about
+[34:21] it is that it includes the 200 simple
+[34:23] and the 50 simple moving averages. So if
+[34:26] we were to get back underneath then them
+[34:28] then the moving averages would be
+[34:30] crossing over to the side of the bears
+[34:31] and the stock wouldn't look as good
+[34:32] anymore. So I do like that area 115 to
+[34:36] 29 as a zone of support on Toll
+[34:39] Brothers.
+[34:40] >> Great. Let's talk about Jack Henry. This
+[34:41] is a payment processor. Their sales are
+[34:43] forecasted uh to go up 8%. Earnings are
+[34:46] forecast to go up 12.9. They've had
+[34:48] steady anal estimates. They got a good
+[34:50] surprise history, but can they keep it
+[34:53] up?
+[34:53] >> Jack Henry. So I I really like that
+[34:56] payments space, digital payments.
+[34:58] Obviously, cash is less and less, but
+[35:01] let's just look at it from my money
+[35:04] flows perspective.
+[35:07] Uh, we got an overall score of 39.7.
+[35:10] Don't love that. Technically, it's weak,
+[35:12] which bodess well uh for reporting. If
+[35:14] they surprise, that's going to be
+[35:16] positive for them. Um, and fundamentals,
+[35:19] it's better than middle of the road. But
+[35:21] look at this technical story. You know,
+[35:24] it's broken levels. Sorry, I got to move
+[35:27] this screen.
+[35:29] It's broken one-year lows on outflows,
+[35:33] which is not a good recipe. Um, you
+[35:37] know, so that that marks a new
+[35:39] downtrend. We're seeing outflows. The
+[35:41] last inflows, it failed uh in what was
+[35:45] that? That was March 7th. Um,
+[35:49] fundamentally
+[35:51] kind of yawnworthy in terms of the
+[35:53] growth metrics. It is profitable. I like
+[35:55] that. uh doesn't have a ton of debt,
+[35:59] great. Um but I need to see more from uh
+[36:04] the growth. So if they come out
+[36:05] surprised and show stronger than
+[36:08] expected growth metrics and they show
+[36:10] strong guidance with the weakness here,
+[36:12] we can expect a nice jump higher. But if
+[36:15] they come in line or you know it's a ho
+[36:19] surprise, I expect sort of more of the
+[36:21] same below this 160 range. I think it'll
+[36:24] eventually recover.
+[36:26] um into the 170s, but in the absence of
+[36:29] like really strong guidance and
+[36:31] forward-looking statements, I'm not
+[36:33] expecting much.
+[36:34] >> As far as Jack Henry uh Fibonacci
+[36:36] analysis wise, um the setup zone for me
+[36:39] is on the monthly chart. It is 146 to
+[36:42] 57. If we take out this area, we will
+[36:45] either retest the low from October in
+[36:47] 2023 or make a deeper downside
+[36:50] correction. I had to come to a monthly
+[36:51] because on a daily, it's not looking
+[36:53] great. All the moving averages are on
+[36:55] the side of the bears and I wasn't able
+[36:57] to find the same sort of support because
+[36:59] I could not look as at as much data but
+[37:03] like I said the zone of support the zone
+[37:04] of risk is 146 to 57.
+[37:07] >> TJX company's guidance will be key after
+[37:10] the retail sales report but what are we
+[37:12] expecting for them? I
+[37:13] >> I would add on retail sales the big news
+[37:15] was the June revision was up. So, uh,
+[37:18] that's going to cause a a a GDP
+[37:20] adjustment probably, but and nine of the
+[37:24] 13 categories are up, although autos
+[37:26] led. So, we're still sputtering, but uh,
+[37:30] there's hope, but TJX is in a tough
+[37:32] place. So, let's see what Jason Tammy
+[37:35] think.
+[37:35] >> Sure. You know, from a retail
+[37:37] perspective, I I'll tell you they're
+[37:39] much better uh, companies for me than TJ
+[37:44] Maxx. It scores 60.3. I like 70 or
+[37:48] better in all three categories. It
+[37:50] doesn't mean any of those technicals or
+[37:52] fundamentals. And then we go into
+[37:55] inflows. Okay, that's promising. You
+[37:57] know, it's looking to break a 52- week
+[37:59] high. That is very promising from a
+[38:01] technical perspective. We like that. Uh
+[38:05] it was a top 20 stock in April and
+[38:07] failed to sort of eclipse this May high.
+[38:12] Looking to break that there. That is
+[38:14] positive. So, uh, looking at a one-year,
+[38:18] threeyear
+[38:19] sales growth rate of sub 10% is not
+[38:22] enticing to me, but it's still positive.
+[38:25] Earnings growth as well, positive. They
+[38:28] make a profit margin. I mean, this is
+[38:30] not a bad company. It's just not a
+[38:32] phenomenal company. So, again, with sort
+[38:36] of the the wind at its sales, what I
+[38:38] will say is when we finally get rate
+[38:40] cuts, the economy, even though we're
+[38:42] sputtering, is still vibrant. uh uh on a
+[38:45] comparative basis CPI only crept up to
+[38:48] 2.7% two you know 20 basis points
+[38:53] and the 60-year history is 3.78 so we're
+[38:58] basically at Jerome's targets even if he
+[39:01] says 2% we're kind of there rates are
+[39:04] high we know they're going to fall that
+[39:06] is going to stimulate the economy and it
+[39:08] should trickle down to retail this is
+[39:10] beneficial for TJ Maxx but again I think
+[39:13] there are other fish in the sea that I
+[39:15] like better, but you know, you could do
+[39:18] worse at the same
+[39:19] >> as far as uh the TJ TJ Maxx stock um and
+[39:24] you know, their their group of stores.
+[39:27] For me, technically it looks good. All
+[39:28] the moving averages are on the side of
+[39:30] the bulls. One of the things that I
+[39:31] really like about it is that when I am
+[39:34] looking at uh resistance for the move
+[39:36] up, there is none. there is nothing
+[39:39] that's going to uh except for maybe you
+[39:42] know retesting the previous high from
+[39:44] the 20th of May which was 135 but I'm I
+[39:47] don't have anything in my way on my way
+[39:51] to those target extensions which are 140
+[39:53] and 145. So the path of least resistance
+[39:56] is for us to continue to move up here.
+[39:58] Again though just like with Home Depot
+[40:00] and Lowe's it's been going straight up
+[40:02] for a while. So I do have quite a bit of
+[40:04] price support. I do like this um area
+[40:07] though 130 to 32 as an area of risk
+[40:11] because if we were to take that out I
+[40:13] don't have support again until the 128
+[40:15] area tradable support. So when you're
+[40:17] looking at my support what you want to
+[40:19] look for as the most important um
+[40:22] numbers are the red numbers because
+[40:24] those are previous swings in the market
+[40:26] that have already happened. So I like
+[40:28] this stock based on what I'm looking at
+[40:30] Fibonacci wise. Target big miss last
+[40:33] quarter, but can they turn it around?
+[40:36] >> I would add that Target is um it's a sad
+[40:38] story. Uh they've had inventory issues.
+[40:41] They're losing um market share on their
+[40:44] grocery business to Walmart.
+[40:47] Worry about this stock. What do you guys
+[40:48] think?
+[40:49] >> Yeah. Um you know, today's list of
+[40:52] stocks doesn't really have me excited
+[40:54] overall. Um I like to see highscoring
+[40:58] stocks. We're talking all middle of the
+[41:00] road and this kind of points to that
+[41:02] whole bell curve thing I think we spoke
+[41:04] about a couple of weeks ago where we're
+[41:07] really looking for just the very
+[41:09] positive tales. I'm I'm tent to traffic
+[41:12] in maybe a hundred stocks, 50 stocks out
+[41:15] of 6,000. So, I'm really picky. Uh
+[41:18] target just, you know, not much to get
+[41:22] excited about for me. uh a cash cow
+[41:25] again you know if we're going to look at
+[41:27] it on a score basis scores middle of the
+[41:29] road 44.8
+[41:31] technically 41.2 to fundamental 50. In
+[41:34] the absence of everything else, I just
+[41:36] move on from there because it doesn't
+[41:38] exhibit the qualities that I like. Uh we
+[41:41] did see two fresh inflow signals, so
+[41:43] that's positive. It is kind of
+[41:44] uptrending from a a miserable April
+[41:48] bottom, but then again, so did
+[41:49] everything in April. Um it doesn't
+[41:52] appear on my top 20, and that's because
+[41:54] of weak fundamentals. They're not
+[41:56] growing sales. They're not really
+[41:58] growing earnings. Uh they have a very
+[42:01] thin profit margin, but obviously they
+[42:03] rely on tremendous volume. I just
+[42:07] there's not much to get excited about. I
+[42:09] guess they they eclipse the 12week high.
+[42:12] That's good. Uh but the moving averages
+[42:14] are not stocked stacked as uh you know,
+[42:17] the last price is um below the 200 day
+[42:22] moving average. Stocks down one month. I
+[42:24] I'm just not excited about target. So
+[42:27] yeah, we could sort of drift along
+[42:28] higher, but any sort of negative
+[42:31] statements, we could take out these
+[42:32] April lows. So me, I'm staying away.
+[42:36] First target for me, um, looking on a
+[42:38] daily here, we do have some pretty, uh,
+[42:41] nicely defined risk around this 100 to
+[42:45] 102 area because it is correlating with
+[42:48] the 50 simple moving average. Um, which
+[42:51] you can see we do have three of the
+[42:53] moving averages back on the side of the
+[42:54] bulls. Those are the moving averages
+[42:56] that I look at at least. The green line
+[42:59] were above it. Okay, that's the 50
+[43:01] simple, the five EMA and the 13 EMA. So
+[43:05] the five is blue, the 13 is red, the
+[43:07] five is crossed back over the 13. So
+[43:10] three of the moving averages are on the
+[43:11] side of the bulls. Uh the only caution I
+[43:13] would give you here is uh that 200
+[43:15] simple is um we're still below it and it
+[43:19] is correlating with price extension from
+[43:22] the low from the 1 of August. But the
+[43:24] risk is very clearly defined here for me
+[43:27] on the daily. I would risk 100 to 102
+[43:31] because if that doesn't hold then we
+[43:34] will retest the low from the 1 of August
+[43:36] at 98 or make a deeper downside
+[43:38] correction. And if you're looking at a
+[43:40] monthly chart and you want a larger zone
+[43:43] of risk um you know that you could look
+[43:46] for if you know if you are already in
+[43:48] the stock itself is 77 to 83. What I do
+[43:53] like about this is that here again
+[43:55] you'll you see that we pulled back 80%.
+[43:58] We pulled back almost to that 786. So
+[44:01] that is what I like to see whenever I
+[44:03] see a huge decrease in a stock. I like
+[44:06] to see it either pull back on a monthly
+[44:08] chart to the 80% or the 50% retracement
+[44:12] and then continue the move up and start
+[44:15] to see a pattern of higher highs and
+[44:16] higher lows which is what you're seeing
+[44:18] here on the daily chart. Let's finish up
+[44:20] on a a much stronger retailer, Walmart.
+[44:23] Obviously, they got steady growth,
+[44:24] strong revenue, sales are supposed to be
+[44:26] up 3.8%.
+[44:28] And um earnings supposed to be up 9.9%.
+[44:30] Positive analyst revisions, good
+[44:32] earnings price history. I actually own
+[44:33] the stock. So, let's uh see what Tammy
+[44:36] says about this.
+[44:37] >> So, as far as Walmart is concerned,
+[44:40] Walmart does have quite a bit of room to
+[44:42] run. You can see the market just opened.
+[44:43] So, the chart is actually moving now.
+[44:46] The t larger swing targets are 112 and
+[44:49] 121. And much like target, there is not
+[44:52] or was it target? No, it was uh TJ Maxx.
+[44:55] There's nothing in our way here. Um as
+[44:57] far as we have already gone through the
+[44:59] 786 retracement of this swing up. So the
+[45:02] path of least resistance is for us to
+[45:04] continue this move up. Um I do have
+[45:06] price support for you here and it is
+[45:08] quite a bit of price support. If you
+[45:10] could risk down to this 93 area that's
+[45:13] correlating with the 200 simple, that
+[45:16] would also include the 50 simple. So 93
+[45:18] to 99 would be my setup zone here on uh
+[45:22] Walmart.
+[45:23] >> Similar thing Walmart middle of the road
+[45:27] score technicals fundamentals. I I guess
+[45:31] what we do like is it's breaking out to
+[45:33] new highs with fresh inflows. This has
+[45:35] been a top 20 stock uh fairly recently.
+[45:40] Um you know, the last time was in April
+[45:43] when people were rushing to quality. Uh
+[45:46] decent
+[45:48] um sales and earnings growth, but you
+[45:52] know, obviously Walmart's not going to
+[45:53] be a big growth behemoth. Uh Louiesie
+[45:56] and I both love growth stocks and I'm
+[46:00] I'm assuming you've owned it for a
+[46:01] while. Um, but technically speaking,
+[46:04] it's looking good. I think the good news
+[46:06] here when we're looking at TJ Maxx, when
+[46:08] we're looking at Walmart, Lowe's, Home
+[46:10] Depot, all these large cap stocks which
+[46:13] kind of got pressured, they're breaking
+[46:15] out to the upside with unusual
+[46:18] institutional support. So, I like that
+[46:21] any positive comments are going to be
+[46:23] tailwinds for these stocks, which is
+[46:25] great for the overall market. Jason,
+[46:27] thank you for pointing out that there's
+[46:29] a healthy rotation underway into the
+[46:32] retail stocks. This week's list of
+[46:33] stocks wasn't as exciting as most, but
+[46:36] let's talk about one strong tech stock
+[46:38] into it. Sales are forecast to go up
+[46:41] 17.7. Earnings are forecast to go up
+[46:44] 33.6.
+[46:45] We got positive analyst revisions, a
+[46:47] good earnings prize history. What do you
+[46:49] think about into it?
+[46:50] >> Well, I'm glad you finally uh got a
+[46:52] stock that gets me excited. Full
+[46:54] discourse, I've owned into it for years.
+[46:58] Uh, very large embedded capital gains,
+[47:01] so I'm not selling it. That said, it's
+[47:03] still showing me the juice. So, let's
+[47:06] just have a look here. Looking at into
+[47:08] it quickly.
+[47:11] Uh, just outside my optimal range of 70
+[47:14] on an overall score. That's because it's
+[47:16] technically weak. We'll look into that
+[47:18] in a second. Fundamentally very strong.
+[47:21] as you mentioned, they're slated to grow
+[47:22] sales and earnings. You know, it's got
+[47:26] punished technically because of this
+[47:27] pullback, but that's sort of a
+[47:29] retracement from breaking out to these
+[47:31] new highs in July. Um on fresh inflows,
+[47:35] it's seen nothing from in but inflows
+[47:38] since May. It's been a top 20 stock
+[47:40] three times in the past few months. That
+[47:43] is great. So, I look at this as just
+[47:45] sort of a natural pullback. Um a good
+[47:48] opportunity to buy it. Again, full
+[47:50] disclosure, I own it. Uh, but when we
+[47:53] look at the fundamentals, you know,
+[47:55] strong sales growth, one in three years,
+[47:58] estimated sales growth, 144 point uh
+[48:01] 14.4%.
+[48:03] Three-year earnings growth is very
+[48:05] strong. A very healthy profit margin,
+[48:07] manageable debt. I really like it. The
+[48:09] PE ratio may be a little bit elevated,
+[48:12] but as you well know, Louie, with growth
+[48:14] stocks, the PE ratio can fall one of two
+[48:16] ways. the price can fall to meet the
+[48:19] earnings or the earnings can grow and
+[48:23] into it has a super strong history of
+[48:25] growing sales and earnings. Technically
+[48:27] it's looking good as it's trading uh you
+[48:30] know near that 12week high. It did pull
+[48:33] back so I kind of like this as an entry
+[48:36] point for that stock personally.
+[48:38] >> Wonderful.
+[48:39] >> Well Jason Tammy always great having you
+[48:41] both here. We have such a big week ahead
+[48:43] with Jackson Holeing data and a loaded
+[48:46] earnings calendar. So, we'll all be
+[48:48] watching very closely. If you enjoyed
+[48:50] today's breakdown, make sure to like,
+[48:51] subscribe, and hit the bell notification
+[48:54] so you don't miss the next market buzz.
+[48:56] And tell us in the comments which
+[48:58] earnings report are you watching for
+[48:59] next week. We'll see you all after
+[49:01] Jackson. Thanks so much, everyone.
+[49:03] [Applause]
+[49:04] [Music]

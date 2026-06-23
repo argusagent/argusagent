@@ -7,9 +7,29 @@ Type: short
 Duration: 0:53 (53s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 21
+Transcript characters: 723
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Louis Navalier here. Well, Trump banned
+[00:04] Nvidia's H20 chips to China. That's
+[00:08] going to result in a $5.5 billion
+[00:11] charge. Extraordinary item. But that
+[00:15] wasn't very profitable for Nvidia. You
+[00:16] know, the B administration had caused
+[00:18] them to make this chips especially for
+[00:21] China, which was a lot slower than its
+[00:23] other AI related ships. So Nvidia can
+[00:26] now divert its resources to build their
+[00:29] most profitable chips like the
+[00:31] Blackwell. So the stock gap down on that
+[00:34] news. Obviously it's a screaming buy. Uh
+[00:36] the Wall Street Journal has an excellent
+[00:38] um article in Nvidia. You can see how
+[00:40] its sales are soaring and how although
+[00:43] China's a growing part of Nvidia sales,
+[00:45] it's
+[00:46] insignificant. So um if you were looking
+[00:49] for a window to buy Nvidia, you just
+[00:51] found it.

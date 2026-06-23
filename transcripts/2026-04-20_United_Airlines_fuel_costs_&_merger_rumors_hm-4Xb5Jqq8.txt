@@ -7,9 +7,33 @@ Type: short
 Duration: 0:53 (53s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 25
+Transcript characters: 881
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] United Airlines travel demand is
+[00:02] resilient, but are fuel costs eating
+[00:04] into margins? Not for long. It's very
+[00:06] hard to explain, but there's a diesel
+[00:08] shortage and there's a jet fuel
+[00:09] shortage, but it's really not in
+[00:11] America, okay? It's elsewhere and as
+[00:14] President Trump says, if you need it,
+[00:15] come get it, okay? Cuz we refine all
+[00:18] that stuff. The sales for United are
+[00:20] supposed to be up 8.8%.
+[00:23] Earnings are supposed to be up 20.8. We
+[00:26] have positive analyst revisions and they
+[00:28] did surprise last couple quarters. Last
+[00:29] quarter was a 9.1% surprise. Obviously,
+[00:32] what's overshadowing United is the
+[00:34] gossip they might merge with American
+[00:36] and create an even bigger airline. So,
+[00:39] that's going to dominate everything,
+[00:40] okay? And obviously, you know, when you
+[00:43] have all these great hubs like they do,
+[00:45] you can charge more. So, we'll find out
+[00:48] if they can extend their monopolistic
+[00:50] dominance of certain airport hubs around
+[00:52] the country.

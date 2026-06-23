@@ -7,9 +7,534 @@ Type: video
 Duration: 20:45 (1245s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 526
+Transcript characters: 18658
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] PPI has gone negative in three of the
+[00:02] last six months. Jobless claims are
+[00:04] rising and China's been stuck in a
+[00:06] deflationary spiral. At the same time,
+[00:09] AI stocks are ripping, retail sales are
+[00:12] on deck, and earnings could set the tone
+[00:14] for fall. With the Fed poised to cut
+[00:17] rates September 17th, the big question
+[00:19] is what happens next? Welcome back to
+[00:22] Navagler Market Buzz.
+[00:24] [Applause]
+[00:24] [Music]
+[00:36] So, Dad, Wall Street's expecting a
+[00:38] September 17th rate cut, a doubbish FOMC
+[00:41] statement, and a dot plot pointing to
+[00:43] more cuts ahead. What do you expect from
+[00:45] Powell and the Fed?
+[00:48] >> Well, I think they're in a bit of a
+[00:50] conundrum because they should have cut
+[00:52] in June. Of course, they didn't know uh
+[00:55] when they had the June meeting that
+[00:57] there were uh the economy was losing
+[00:59] jobs in June. Uh that June payroll
+[01:01] report still scandalous because there
+[01:03] were two huge downward revisions. So
+[01:06] again, we got to get clean data. But
+[01:08] this uh surge in um new claims for
+[01:10] unemployment really did rattle
+[01:12] everybody. The other thing that's going
+[01:15] on is the PPI, wholesale prices have
+[01:18] been negative three out of the last six
+[01:20] months. Now the CPI uh came in a little
+[01:23] hotter than expected but was mostly due
+[01:26] to higher food and energy prices. Energy
+[01:28] prices should be uh declining in the
+[01:30] fall mainly because of the weather. When
+[01:32] the mild weather comes, people drive a
+[01:34] bit less and they use less energy. And
+[01:36] also there's a glitter crude oil right
+[01:38] now. So I think we're going to get some
+[01:40] relief on that energy front. And then um
+[01:44] the dot plots just going to be
+[01:46] absolutely fascinating. I assume the
+[01:48] hawks are going to only want to cut two
+[01:50] more times and some doves on the Fed
+[01:52] might want to cut up to four times, but
+[01:55] the dot plot is really probably going to
+[01:56] be the biggest news and um so I'm really
+[01:59] looking forward to
+[02:00] >> now. Oracle missed on sales and earnings
+[02:03] yet the stock popped about 40% after
+[02:05] upbeat guidance on AI data centers. Is
+[02:08] this AI and data center rally really for
+[02:12] real?
+[02:13] >> Yeah. Uh that's why Oracle um got it
+[02:17] higher. You know, Trump has accelerated
+[02:19] depreciation this year. So all the
+[02:21] companies are rushing to break ground so
+[02:23] they can expense these data centers in
+[02:26] one year. Normally you advertise them
+[02:28] over several years. And so the onshoring
+[02:30] is real and it's led by the data centers
+[02:33] and everybody wants the hot chips and
+[02:36] obviously Nvidia makes the the best. It
+[02:39] it's just it was just wonderful. What
+[02:41] was most interesting is Goldman Sachs
+[02:43] about a week earlier basically said that
+[02:46] the AI stocks and the data center stocks
+[02:49] are kind of in extra innings and and
+[02:51] their run might be be ending soon. And
+[02:54] so that was wrong. Okay. So those stocks
+[02:57] actually got hit a couple weeks ago and
+[02:59] now they've come screaming back. So this
+[03:02] is very very positive.
+[03:04] >> In your last short video, you said you
+[03:06] missed a stock in the data center space.
+[03:08] Which name should we be watching?
+[03:11] >> Well, I actually missed two. And one is
+[03:14] GE Vernova. That's GEV. And the other
+[03:17] one is Verive VRT. So, those companies
+[03:20] are also benefiting immensely from the
+[03:23] data center boom. GE Renova, which um we
+[03:26] got to give Adam Johnson credit because
+[03:28] uh he actually recommended for I did,
+[03:31] but I'm on board now. It's in our
+[03:32] accounts. They make the big turbines to
+[03:35] power all the data centers. There's like
+[03:36] a three-year order backlog and they also
+[03:39] do a lot of green uh and alternative
+[03:41] energy, but the demand for turbines is
+[03:44] overpowering its green energy business,
+[03:46] which is basically slowing down
+[03:47] dramatically.
+[03:48] >> Retail sales hit Tuesday. What's your
+[03:50] read, especially when auto buyers are
+[03:52] rushing into August to snag that EV tax
+[03:54] credit?
+[03:55] >> Yeah, I do think we'll have a good
+[03:57] retail sales report, largely due to auto
+[03:59] sales. You know, there's a lot of
+[04:00] incentives in August to clearries. You
+[04:04] know, I'm on Cadillac's email list and I
+[04:07] keep getting lease specials for all
+[04:10] kinds of things and I notice they're all
+[04:12] 2025 models they want to clear out and
+[04:15] the EV tax credits will go away in
+[04:18] September. So, everybody's rushing to I
+[04:21] don't know if they expire September 1st,
+[04:22] September 30th, but yeah, I think it's
+[04:25] September 30th. Everybody's rushing to
+[04:27] uh get that EV tax credit, but the rush
+[04:30] was on in August, so EV sales will be
+[04:33] very strong.
+[04:34] >> Now, let's check in on some names
+[04:35] everyone's talking about and see what's
+[04:37] cooking this quarter. General Mills,
+[04:40] Cereal, Snacks, Comfort Food. Can
+[04:42] General Mills cook up a surprise, or is
+[04:44] this one getting a little soggy?
+[04:47] >> Yeah. Um, let let's let me mention the
+[04:50] big concern.
+[04:53] This is a multinational
+[04:55] They sell all over the world. In fact,
+[04:58] half the S&P sales are outside of the
+[05:00] United States. And once you leave
+[05:02] America,
+[05:04] economies really aren't growing. Okay? A
+[05:07] lot of it's a demographic problems in
+[05:09] Asia and Northern Europe. So, their
+[05:12] sales uh for General Mills are actually
+[05:15] forecast to decline 6.9%.
+[05:18] Their earnings are forecast to fall
+[05:19] 23.8%.
+[05:22] There has been a small earnings estimate
+[05:24] increase in um in the past month. So
+[05:26] that's that's a a good sign and it does
+[05:29] have a good earning surprise history,
+[05:31] but my expectations for General Mills
+[05:34] are extremely low.
+[05:35] >> Garden restaurants, Olive Garden,
+[05:37] Longhorn Steakhouse, even Ruth Chris.
+[05:39] Are they still serving up growth?
+[05:42] >> Yeah, they are. Their sales are forecast
+[05:44] to rise 10.1%. Earnings are forecasted
+[05:46] to go up uh 14%. Uh there was a small
+[05:49] anal increase in their earnings
+[05:51] estimates in the past three months and
+[05:55] they have a very tiny earnings price
+[05:57] history that I find kind of interesting.
+[06:00] So they they're very good with their
+[06:01] surprises but they're very small. So
+[06:03] they should beat but like most consumer
+[06:06] related stocks their guidance will be
+[06:07] very very important. And what DAR does
+[06:11] is they sell to everybody. They have the
+[06:13] high-end restaurants like Ruth Chris you
+[06:15] mentioned. I think they even have
+[06:16] Capitol Grill now. And uh then they have
+[06:19] the the mass restaurants like Olive
+[06:20] Garden and all. So their guidance on the
+[06:23] consumer is going to be very very
+[06:25] critical and I think that's going to
+[06:26] impact the stock more than the actual
+[06:28] results.
+[06:29] >> Factset, the data is nerd's best friend.
+[06:32] Are they back in the game this quarter?
+[06:35] >> Yes, they are. And I should disclose
+[06:37] that we use factset data systems to run
+[06:39] all our our research like on stock
+[06:41] grader and all. So uh their sales are
+[06:44] forecast to rise 5.6%. Their earnings
+[06:47] are forecast to improve 10.4%. The Allen
+[06:50] community has been very steady with
+[06:51] their estimates. They didn't miss last
+[06:53] quarter though, but uh you know, as Wall
+[06:56] Street booms, they should boom because
+[06:58] they sell to all the money managers and
+[07:01] research folks, people like me. I'm
+[07:03] expecting them to have good results.
+[07:07] >> Now, for FedEx, if the economy is
+[07:09] slowing, the shipping boxes usually tell
+[07:11] the story first. Are they going to
+[07:14] deliver this time?
+[07:15] >> Maybe. Their sales are forecast to
+[07:18] improve 6/10 of a percent. Earnings are
+[07:21] forecast to improve 1.7%.
+[07:25] There were some recent analyst cuts. Uh
+[07:27] they have a mixed earning surprise
+[07:29] history.
+[07:30] So we'll see with FedEx. Uh obviously
+[07:34] um they do participate in e-commerce.
+[07:37] That's still very very healthy.
+[07:41] You know, people can just uh email
+[07:43] everything nowadays and and docuign. So
+[07:46] that has impacted their business a bit.
+[07:48] >> And lastly, Lenar, home builders, is
+[07:50] housing still holding up or are the
+[07:52] cracks starting to show.
+[07:54] >> No, there's still cracks in the housing
+[07:56] market. You cannot sell homes without
+[07:58] discounting. Sales are forecast to
+[08:00] decline 3.9%. Earnings are forecasted to
+[08:03] fall a whopping 43.2%.
+[08:06] There have been analyst cuts in the past
+[08:08] three months. this home builder has an
+[08:10] erratic earning surprise history, but
+[08:13] mortgage rates are starting to come down
+[08:14] now as bond yields come down. And so
+[08:18] that's helping reclarify what's been
+[08:20] going on with the bond market. We
+[08:22] mentioned it the other week, but I you
+[08:24] can't mention it enough. Britain and
+[08:26] France are on the verge of government
+[08:28] collapses.
+[08:30] France has already lost its prime
+[08:31] minister. They have a new one. The prime
+[08:33] minister deals with the budget with
+[08:35] parliament. Marie Le Pen's national
+[08:38] rally party controls parliament. She is
+[08:40] banned from running for president, but
+[08:42] she has a good lieutenant. The EU banned
+[08:44] her. It's a long story. But France is
+[08:46] imploding politically. Britain is just
+[08:48] as bad. Kurimer, the prime minister,
+[08:50] he's actually going to welcome President
+[08:52] Trump on a visit here shortly, a new
+[08:55] visit, but he's lost some key
+[08:56] lieutenants. and the US ambassador to
+[08:59] America basically was terminated in
+[09:01] disgrace because when the Epstein emails
+[09:04] came out, it showed that he was uh he
+[09:07] was doing some really bad stuff with
+[09:10] Jeffrey Epstein. And it's interesting
+[09:13] how all that came down because, you
+[09:14] know, he he was pretty anti-Trump before
+[09:16] Trump got elected and then he's becomes
+[09:20] ambassador. So, I'm sure when that stuff
+[09:22] was released, it was released to
+[09:25] actually take him out. But Kursimer's
+[09:27] got lots of problems. And
+[09:30] you know, half half of Britain can't
+[09:33] even pay their electric bill. I mean,
+[09:36] this is a problem throughout Europe, but
+[09:38] it's very acute in in Britain right now.
+[09:41] And um so they're going to have another
+[09:43] implosion. So what's going to happen is
+[09:45] rates are going to collapse and bond
+[09:48] yields are going to continue to fall.
+[09:50] And and this is also due to the
+[09:52] deflation in China. China has deflation
+[09:55] on the wholesale level since May of uh
+[09:58] it's running at a 2.9% annual pace now
+[10:01] but their consumer inflation uh is also
+[10:04] a negative in the past year down 4/10 of
+[10:06] a percent. So this is what happens when
+[10:10] people get older. They they have already
+[10:12] bought everything. They don't need to
+[10:13] buy anything anymore and things get
+[10:16] liquidated. Um, so we are expecting this
+[10:20] um a pretty dramatic uh decline in
+[10:23] interest rates. This will fix the
+[10:25] housing industry, but it's going to take
+[10:27] some time because there's lots of
+[10:28] inventory out there. And again, you
+[10:31] can't sell a home anywhere unless unless
+[10:35] you have price cuts. Even where I am,
+[10:36] which is this is one of the hottest real
+[10:38] estate markets in the country. You know,
+[10:40] we're just eight miles south of Mara
+[10:42] Largo here. um uh you have to discount
+[10:45] homes as well.
+[10:47] >> I want to bring up something that one of
+[10:49] our subscribers mentioned. You know,
+[10:50] real estate experts are saying that
+[10:52] lower interest rates aren't going to
+[10:54] help the housing market at all because
+[10:57] the real problem is not the interest
+[10:58] rates of mortgages, which are pretty
+[11:00] average historically speaking. The real
+[11:02] problem is the outrageous prices of
+[11:04] homes.
+[11:05] >> That's true. It's hard to explain. The
+[11:07] first thing you should do when you look
+[11:08] at a home, and you'll be in that market
+[11:10] sooner than later, is you want to look
+[11:12] at the price per foot. And uh this works
+[11:14] better in suburbia where all the lots
+[11:17] cost the same or similar.
+[11:19] And uh I can argue that like where we
+[11:23] live, have a home in Reno, you know,
+[11:25] that's a four to 450 a foot market. $400
+[11:32] 450 a foot.
+[11:34] Here in Florida, it's not that way
+[11:36] because the dirt costs a lot more than
+[11:38] the house. But the price per foot has
+[11:41] gone up dramatically as the building
+[11:44] materials have gone up and labor's gone
+[11:47] up. Let's face it, a lot of the illegals
+[11:51] were building homes. And it's
+[11:53] interesting in Florida here, we have
+[11:54] something called E-Verify. And you know,
+[11:57] we're stuck here between two
+[11:58] construction sites. Finally, one home is
+[12:01] done. But most of these homes took eight
+[12:04] years to build. And when Dantis passed
+[12:06] E-Verify,
+[12:08] the biggest builder in town lost all its
+[12:10] workers. In fact, our our neighbor to
+[12:12] the north had to hire new general
+[12:14] contractor. So the the labor reforms are
+[12:17] also having an impact on this.
+[12:19] Hopefully,
+[12:21] you know, things will get back to
+[12:23] normal. Everybody will get a green card.
+[12:25] Uh and we'll have plenty of people
+[12:27] building homes and um and we'll see.
+[12:31] There is this huge fight between uh us
+[12:34] and can over lumber. Uh I happen to know
+[12:37] my Reno home that's mostly Canadian
+[12:39] lumber and uh home was built uh you know
+[12:43] 30 years ago.
+[12:45] You know this has been going on for some
+[12:47] time. So the there is a tariff impact on
+[12:50] building materials as well.
+[12:51] >> Another one of our subscribers wanted to
+[12:53] know what your thoughts are on TRGP.
+[12:56] >> Sure. This is a company in the energy
+[12:59] business. It has a decent dividend
+[13:02] yield. I think 2.45%.
+[13:04] It ranks pretty good in our system. Um,
+[13:06] still has very good forecasted sales and
+[13:08] earnings. The key with the energy patch
+[13:11] is to be drilling predominantly for
+[13:13] natural gas, be involved in the
+[13:15] transportation of gas, you know,
+[13:16] midstream pipelines, but TRGP um, that's
+[13:21] target natural resources passes all the
+[13:24] tests and so it's in our manage account.
+[13:26] So, we're very comfortable with it.
+[13:28] You're going to find most energy stocks
+[13:29] are going to be erratic and you're going
+[13:31] to find most gold stocks erratic. I
+[13:33] recommend seven gold stocks. Now, you
+[13:34] know, these stocks do do trade around
+[13:36] the earnings quite a bit. The one place
+[13:38] I would avoid in the energy patch is the
+[13:40] big integrated companies like the
+[13:42] conicle Phillips, the Chevrons. They're
+[13:44] having a much harder time, but there is
+[13:47] this domestic drilling boom underway and
+[13:49] transportation boom underway and LG boom
+[13:52] underway and that's that's where the
+[13:53] profits are. Another one of our
+[13:55] subscribers wanted to know what are the
+[13:57] eight key measurements one needs to key
+[13:59] in for dividend growth since dividend
+[14:02] greater is no longer available.
+[14:04] >> Sure. Let me clarify this. So my
+[14:07] publisher site
+[14:09] um you can go to market 360 will take
+[14:12] you to the investor place site for all
+[14:14] my newsletters. Um they have
+[14:16] discontinued um dividend grader because
+[14:19] like people weren't clicking on it.
+[14:22] Dividend graders still exist on our
+[14:23] management company site which is
+[14:25] navalier.com
+[14:27] and you click on services naval.com
+[14:30] services and you go to the stock graders
+[14:33] dividend graders all that stuff. But the
+[14:36] dividend grader looks at a few key
+[14:38] fundamental factors namely cash flow
+[14:41] return on equity um the uh it wants a
+[14:44] good um history of increasing dividends
+[14:47] ideally every year. The stocks we
+[14:50] recommend in our dividend growth
+[14:52] portfolios do double their dividends
+[14:54] every six to seven years. The thing
+[14:56] that's so confusing for a lot of folks
+[14:59] is you'll find that dividend growth will
+[15:01] outperform high dividend. Okay? And
+[15:05] there's a bit of an exception in the
+[15:06] energy patch because obviously there's
+[15:08] this American resurgence in energy
+[15:11] underway especially with natural gas and
+[15:13] pipelines and midstream even some LG. So
+[15:16] those a lot of those high dividend
+[15:18] yielding stocks are doing very well. MLX
+[15:21] would be a classic example. The stocks
+[15:23] that do double their dividends every
+[15:25] six, seven years have historically
+[15:27] performed the best. Now all dividend
+[15:29] management is totally dependent upon
+[15:32] bond yields and we need bond yields uh
+[15:35] to continue falling.
+[15:37] In past uh market buzz episodes, we've
+[15:40] shown this ETF called TLT.
+[15:43] That's the iShares 20 plus uh treasury
+[15:46] ETF and that has lost 45% in the last
+[15:51] five years. And so everybody that
+[15:54] invests in bonds has been scared. Okay?
+[15:58] And I need to explain what really
+[16:00] happened. Janet Yellen, our former
+[16:03] Treasury Secretary, she was also the
+[16:05] former Federal Reserve chairman, lost
+[16:08] control of the Treasury market. She
+[16:11] basically abandoned it after some bad
+[16:13] auctions and sold very little Treasury
+[16:15] bond. Everything was a Treasury bill or
+[16:18] note. Now we have Scott Besson. This
+[16:21] guy's much more competent. He's better
+[16:24] managing the yield curve, better
+[16:26] managing the the the long end of the
+[16:29] Treasury curve. So things are calming
+[16:32] down now. We still have to deal with the
+[16:33] bond vigilantes, the ones that get upset
+[16:36] about big deficits that right now
+[16:38] they're busy hitting Britain and France,
+[16:41] but the US will get thrown in that
+[16:43] conundrum every now and then. As yields
+[16:45] come down, your bonds appreciate. As
+[16:47] yields go up, your bonds depreciate.
+[16:49] Again, in the last five years, TLT, the
+[16:54] eyesshares 20 plus year um treasury ETF
+[16:57] lost 45% of its value. So you never want
+[17:01] to be in a rising rate environment. So
+[17:04] all those lifestyle funds that say, "Oh,
+[17:06] you're 70 years old, it should be 70%
+[17:08] bonds." Or, "You're 80 years old, it
+[17:10] should be 80% bonds." All those blew up
+[17:13] in the last five years because that was
+[17:15] bad advice. And dividend growth was a
+[17:19] was an alternative. But I think you'll
+[17:21] see both bonds appreciate as yields come
+[17:24] down. I think you'll see dividend
+[17:26] management appreciate as yields come
+[17:27] down. We had on one of our market
+[17:30] shorts, somebody asked, "Vanguard's
+[17:32] recommending bonds. Why why aren't you?"
+[17:34] And uh you know, it's very precarious
+[17:37] when they recommend bonds. You better
+[17:39] make sure yields are falling. Now, the
+[17:40] Fed controls the short end of the curve,
+[17:42] not the long end. The long end is going
+[17:44] to be set more by inflation. Um uh and I
+[17:48] do basically e economic commerce. But
+[17:51] outside of America, economies are weak
+[17:53] globally and mostly due to poor
+[17:55] demographics. So, we are expecting a
+[17:58] pretty big interest rate collapse. And
+[18:01] one last thing happened, and sorry to go
+[18:03] on so long. We had a subprime auto
+[18:06] lender in Texas uh file for bankruptcy,
+[18:08] and they're going to liquidate. And that
+[18:10] is causing shock waves across the
+[18:13] industry. That is supposed to hurt Black
+[18:15] Rockck and JP Morgan as well. I'm just
+[18:18] reading repeating what Bloomberg has
+[18:20] said. And so we we'll see what the
+[18:22] consequences of this subprime auto
+[18:24] lender uh being liquidated is. It's
+[18:26] alleged that there was some fraud. So it
+[18:28] might be more the fraud than the loan
+[18:30] defaults. But um we have to keep an eye
+[18:33] on the credit markets big time.
+[18:35] >> And lastly, one of our subscribers
+[18:36] wanted to know if first generation
+[18:39] immigrants truly assimilate or do
+[18:40] government benefits and birthright
+[18:42] citizenship create long-term costs for
+[18:44] the US.
+[18:44] >> Yeah, they do assimilate no matter how
+[18:46] they got here. There was a glitch under
+[18:48] the B administration. if you came in,
+[18:50] you couldn't work for 5 months. This
+[18:52] can't if you just crossed the border.
+[18:53] Obviously, Trump is deporting all those
+[18:56] people. Okay? And he wants them to come
+[18:58] back with a green card. In other words,
+[19:00] apply. And the US government's actually
+[19:02] paying them to leave. If you listen to
+[19:04] Christine Gnome's ads, they'll actually
+[19:06] pay you to leave. And then you apply and
+[19:09] and then you come come back with a green
+[19:11] card. Obviously, our universities have a
+[19:12] lot of very smart foreigners. And
+[19:15] obviously, a lot of American companies
+[19:16] want those workers. prove the government
+[19:19] they need foreign workers versus
+[19:20] American. But it's interesting to watch
+[19:22] what's going on. The raid on the LG
+[19:24] battery plant in Georgia was a big deal
+[19:28] because apparently some of those green
+[19:30] workers had overstayed their and Trump
+[19:33] is deporting them and we have to
+[19:35] negotiate with Korea on how to how to
+[19:37] deal with this. Does need their
+[19:38] engineers in those plants directing how
+[19:41] to build them, but hopefully they can
+[19:42] hire more American workers. It's also
+[19:44] important to note that LG has four other
+[19:46] battery plants in America that they're
+[19:48] still working on. So the bottom line,
+[19:50] Trump just changed the rules and
+[19:52] everybody now has to play by the rules,
+[19:54] but we've always had immigration,
+[19:56] but you know, we're going to assimilate
+[19:58] everybody, but and we're better at it
+[20:00] than other countries. But it was
+[20:01] unfortunate the B administration that
+[20:03] there was a five five month period where
+[20:05] you weren't supposed to work and uh
+[20:08] obviously those people might have worked
+[20:09] for cash or something but that's the
+[20:11] rules are becoming very clear right now.
+[20:13] >> Well that's everything we're watching
+[20:15] from the Fed to inflation AI retail and
+[20:19] stocks. The second half of 2025 is
+[20:21] shaping up to be full of surprises. So
+[20:23] stay tuned. Don't forget to like,
+[20:25] subscribe, and drop your questions in
+[20:27] the comments. We love hearing from you
+[20:29] and we will see you all next week for a
+[20:31] new video.
+[20:32] [Applause]
+[20:32] [Music]

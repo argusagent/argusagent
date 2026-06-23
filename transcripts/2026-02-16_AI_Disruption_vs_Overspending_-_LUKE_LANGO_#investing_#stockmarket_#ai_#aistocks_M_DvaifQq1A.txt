@@ -7,9 +7,37 @@ Type: short
 Duration: 1:05 (65s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 29
+Transcript characters: 1061
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The market is simultaneously pricing in
+[00:02] two things right now that can't coexist.
+[00:04] One, AI is going to disrupt all these
+[00:06] industries massively. And two, we're
+[00:08] overspending on AI. Those two fears
+[00:11] cannot be true at the same time. And so,
+[00:13] if you're going to pick one that's
+[00:16] overstated, that's overdone, the one I
+[00:18] would pick is we're overspending on AI.
+[00:20] That I think these AI disruption risks
+[00:22] are pretty real. I do see massive
+[00:25] improvements in the AI models. Claude
+[00:27] Opus 4.6 6 is fantastic. And then today
+[00:30] or yesterday, Gemini launched Deep
+[00:32] Think, which is actually blowing Opus
+[00:35] 4.6 out of the water in terms of
+[00:37] reasoning and all the benchmarks out
+[00:38] there. So, these models are getting
+[00:40] super super good. Seance 2.0. Crystal, I
+[00:43] know you're into into film stuff. That
+[00:44] AI video generator is like sensational.
+[00:47] You're seeing videos of like Tom Cruz
+[00:49] and Brad Pitt having a fist fight on a
+[00:51] building in Los Angeles talking about
+[00:53] Jeffrey Epste. Like, it's it's the
+[00:54] craziest stuff off a two-line prompt.
+[00:56] and it's hyperrealistic. So, these
+[00:59] models are fantastic. I think AI
+[01:00] disruption risks are not overstated.

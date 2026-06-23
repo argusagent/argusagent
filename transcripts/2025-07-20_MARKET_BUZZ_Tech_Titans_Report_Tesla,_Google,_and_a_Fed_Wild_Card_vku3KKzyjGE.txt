@@ -7,9 +7,626 @@ Type: video
 Duration: 24:10 (1450s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 618
+Transcript characters: 21918
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] With earnings dominating the headlines
+[00:01] and big data drops on the horizon, we're
+[00:04] breaking down what really matters. From
+[00:06] home sales to Fed moves, let's get into
+[00:08] it. Welcome back to Navier Market Buzz.
+[00:12] [Music]
+[00:23] Earnings are stealing the spotlight this
+[00:25] week, but there's more on the calendar
+[00:27] than just quarterly results. Let's zoom
+[00:29] out a little bit. Dad, beyond earnings,
+[00:32] we've got key economic indicators coming
+[00:34] up. What are your expectations for
+[00:36] existing home sales and durable goods
+[00:38] orders?
+[00:38] >> Well, to be honest with you, um home
+[00:41] sales and housing starts are a big deal
+[00:43] because they're very soft. They are
+[00:44] discounting home prices everywhere. Even
+[00:47] here in South Florida where I am, which
+[00:48] is really hot, they have to discount
+[00:50] homes to sell them. So, the Fed has to
+[00:53] cut rates. I mean, this is just what
+[00:55] happens when rates get too high and all
+[00:56] the buyers disappear. So, I'm actually
+[00:59] very worried about a lot of the
+[01:00] homebuilders earnings. So, um I would
+[01:03] add that Fed Governor Waller did go on
+[01:06] Bloomberg and and call for a rate cut
+[01:08] and so that's that's good. Means there's
+[01:10] a growing minority that wants to cut
+[01:12] rates in July. So, uh hopefully we'll
+[01:15] get that. But durable goods should be
+[01:17] very good. We had very strong auto sales
+[01:18] and retail sales report. People are
+[01:21] still out buying vehicles. So, I'm
+[01:23] expecting a very positive durable goods
+[01:25] report. Also, we've had a lot of
+[01:26] aircraft orders for Boeing.
+[01:28] >> Looking back for a second, the CPI and
+[01:30] PPI numbers dropped last week. What's
+[01:32] your take on the inflation trend?
+[01:34] >> It's the fifth month in a row that
+[01:36] inflation keeps coming in below
+[01:38] expectations. You know, all the consumer
+[01:40] inflation were two things. Owner's
+[01:43] equivalent rent, which is up 210 of a
+[01:45] percent. That's called the the shelter
+[01:47] costs, and higher gas prices. Gas prices
+[01:50] rose. And also, there were higher
+[01:52] electricity bills because of the heat
+[01:53] wave. So if we back all that out, there
+[01:56] is no inflation on the consumer level.
+[01:58] The PPI was even better. It was flat as
+[02:01] a pancake. Okay. So we were honored that
+[02:05] President Trump broadcasted my little
+[02:07] visit on Fox Business with Maria on the
+[02:09] CPI as it was coming out and uh so we
+[02:12] were on True Social talking about that
+[02:14] and then of course he on True Social he
+[02:16] just laid it all out. Hey, there is no
+[02:18] inflation. He's right. Now, service
+[02:21] costs actually fell in the in the
+[02:23] wholesale report and um its prices rose
+[02:27] 310%, but there's deflation
+[02:30] and we're just we're importing
+[02:32] deflation. It's as simple as that.
+[02:34] >> Now, let's get back to earnings. We're
+[02:35] coming off of a strong start to the
+[02:37] quarter 2 season. What names or sectors
+[02:40] are you watching most closely this week?
+[02:42] >> The strength is still in the semis led
+[02:44] by anything affiliated with Nvidia. So
+[02:46] it's essentially uh Nvidia, Super Micro
+[02:49] and all the data center related stocks.
+[02:51] His leadership has been intact for the
+[02:53] last few weeks. Before that, it was all
+[02:55] quantum computing, although those stocks
+[02:57] are still doing well. And um anything
+[02:59] that earns money that can beat and guide
+[03:01] higher. And you know, I'm really looking
+[03:03] forward to the semis reasserting their
+[03:05] leadership.
+[03:07] >> But I do have to ask, Dad, is the bear
+[03:09] in our driveway a bad omen?
+[03:12] >> No. Um, we have that bear all the time
+[03:17] and and if we don't have that bear, we
+[03:18] have other bears. So, what it is,
+[03:20] there's an apple tree that he likes and
+[03:23] uh the the
+[03:26] deer got all the peaches and the so
+[03:28] they're gone. But I don't know if you
+[03:29] remember, we used to have a big cherry
+[03:31] tree in the driveway. So, the deer would
+[03:34] stand on their hide legs eating the
+[03:36] cherry. And last year, the bear uh
+[03:38] really got mad. He could he couldn't get
+[03:40] up as high as the deer. So, we actually
+[03:42] snapped the cherry tree and how is it
+[03:44] going
+[03:45] >> and we cut it down.
+[03:46] >> Now, let's talk about some stocks that
+[03:48] are reporting this week. Let's do a
+[03:50] quick fire breakdown. Let's start out
+[03:52] with the fast food and consumer index.
+[03:54] >> Sure. Domino's um
+[03:57] uh sales are supposed to be 4%. Their
+[04:00] earnings are supposed to decline one and
+[04:02] a half%.
+[04:04] The analyst estimates are pretty steady
+[04:06] for the stock and uh they did have a
+[04:09] decent surprise last quarter.
+[04:11] Everybody likes pizza. I think Domino's
+[04:13] has the cheese in the crust. Um I I
+[04:16] suspect they'll beat Chipotle. Well,
+[04:18] what can we say about Chipotle other
+[04:20] than you've been known to go there?
+[04:22] Sales are up 4.7%. Uh that's a forecast.
+[04:26] Earnings are forecast to decline uh uh
+[04:29] 4.3%. That's unusual. Analysts have just
+[04:33] trimmed their estimates from 36 cents to
+[04:35] 33 in the last 3 months. But this stock
+[04:38] has a very good earnings price history.
+[04:40] So I think it'll be okay. You know,
+[04:41] their biggest issue is Cava's trying to
+[04:44] compete with them on essentially the
+[04:45] same model. But you know, if you want
+[04:47] your guacamole, guess where you got to
+[04:49] go? So I expect Chipotle to be Coca-Cola
+[04:52] is in the news because one of their best
+[04:55] customers, namely uh President Trump,
+[04:57] demanded that they start putting cane
+[04:59] sugar back in the Coke. So if you go
+[05:01] drink a Coke in Latin America,
+[05:04] it tastes a lot better than an American
+[05:05] Coke which is sweetened with corn
+[05:08] fructose.
+[05:09] So despite that presidential order and
+[05:12] the company admitting they'll start
+[05:14] using cane sugar again, uh it's not
+[05:16] going to affect their bottom line for
+[05:18] this last quarter. So uh this the
+[05:21] situation with Coke is their sales are
+[05:22] supposed to grow about 2%. Earnings are
+[05:26] supposed to decline 3/10en of a percent.
+[05:29] Anal have held very steady for the last
+[05:32] uh two months and they tend to eek out
+[05:34] an earnings surprise. Uh I would worry
+[05:36] more about uh currency risk but uh we've
+[05:39] had a weaker dollar this year and so
+[05:42] that should be uh feeding their bottom.
+[05:43] >> Now let's switch over to autos and
+[05:44] manufacturing. What do you expect for
+[05:46] GM?
+[05:47] >> Well, this is a big one. I think GM's on
+[05:49] a roll to be candid with you. Uh, you
+[05:52] know, they're selling a lot more of
+[05:53] their electric vehicles than anybody
+[05:55] thought. The Cadillac electric Escalade
+[05:58] is massive. We're every time I walk by
+[06:00] one, I'm shocked by the size of it. It's
+[06:02] essentially electrified Hummer, but it's
+[06:04] bigger. And uh, they make a ton of money
+[06:06] on their trucks and of course they're
+[06:08] onshoring to America, diverting a lot of
+[06:11] the production from Mexico back to
+[06:12] America. With that said, their sales are
+[06:15] supposed to drop 4.4% globally.
+[06:18] Earnings are supposed to decline 21.9%.
+[06:23] But um you know the Allen community has
+[06:26] been very cautious on this company. They
+[06:28] have trimmed their estimates I think
+[06:30] largely due to the onshoring which cost
+[06:32] them a bit but they always surprise. You
+[06:35] know I'm looking at GM's uh surprises
+[06:37] last four quarters and they're very
+[06:39] impressive. So I do expect GM to eek out
+[06:42] a surprise. Packar is a trucking company
+[06:44] and they uh their earnings and fortune
+[06:47] are supposed to decline 14.9%.
+[06:50] And their earnings supposed to decline
+[06:53] 38.3%.
+[06:55] They've had some pretty severe analyst
+[06:57] cuts in the last 90 days and they have
+[06:59] missed in the last two quarters. So,
+[07:01] this company's having a hard time. Uh
+[07:04] it's a great company, but uh yeah,
+[07:06] people aren't ordering the trucks. Now,
+[07:07] the new tax bill might stimulate orders.
+[07:09] So, uh that would help a lot because you
+[07:11] know you can have accelerated
+[07:13] depreciation but we will not see it in
+[07:15] the second quarter. Dr. Horton is a home
+[07:17] builder and um their sales are supposed
+[07:19] to decline uh 11.7%.
+[07:22] Their earnings are supposed to climb
+[07:24] 29%.
+[07:26] Um but um although the analyst cut
+[07:29] estimates in the past 90 days, I noticed
+[07:32] in the past 60 days are pretty steady,
+[07:35] but they did have a miss last quarter.
+[07:37] So this is an example of one of the home
+[07:39] builders that's discounting homes to
+[07:41] sell them that might show up in their
+[07:43] bottom line and so I'm not confident
+[07:45] they're going to beat.
+[07:45] >> Now defense stocks are in focus. What do
+[07:47] you think for RTX?
+[07:50] >> Well that's Rathon of course and Rathon
+[07:53] is uh how do I say it in a nice way?
+[07:56] They dominate uh the the federal
+[07:59] government and uh
+[08:02] uh their sales are supposed to be up
+[08:04] 4.5%.
+[08:06] uh their earnings are supposed to be up
+[08:08] 1.7%.
+[08:10] Uh the ounce committee has been very
+[08:11] steady with their estimates.
+[08:14] So they should they should beat uh again
+[08:16] they're they're embedded in our defense
+[08:18] department and they got very consistent
+[08:20] business. They also make a lot of
+[08:22] equipment for playing cockpits and
+[08:24] things like that. Loheed Martin is
+[08:26] another stock for lack of a better word
+[08:28] embedded with the federal government and
+[08:30] a lot of people don't know that Loheed
+[08:32] is a huge IT company for the government.
+[08:35] So, their sales are supposed to be up
+[08:37] 2.5%.
+[08:39] Their earnings are supposed to climb 7
+[08:40] and a half. Pretty steady analyst
+[08:42] estimates in the past 60 days, slight
+[08:44] trend the last 90 days, but this stock
+[08:47] is a much better earning surprise
+[08:48] history. And last two quarters, they've
+[08:51] uh had big surprises. So, I would not be
+[08:53] surprised if they eaked out another
+[08:55] surprise. Okay, so Northwick Grubman uh
+[08:58] again another big US defense contractor.
+[09:00] Their sales supposed to climb 8/10 of a
+[09:02] percent. Earnings supposed to be at 5%.
+[09:06] Similar to Loheed and Rathon there. Uh
+[09:10] Alice have been very steady on the stock
+[09:12] for the last 60 days, but there's a cut
+[09:14] in the last um 90 days and they did miss
+[09:17] big time last quarter.
+[09:21] You know, they're uh they are really
+[09:23] impacted by the fighter jets and things
+[09:25] like that. So, we'll see how they how
+[09:28] they're doing. You know, the fighter
+[09:29] jets aren't always up and running.
+[09:30] >> Now, tech heavyweights are stepping up.
+[09:32] What do you think for Tesla?
+[09:34] >> Oh, Tesla. I'm a little worried about
+[09:36] them because, you know, Elon's been on
+[09:38] the war path and, you know, reshuffling
+[09:41] all the management of the at least the
+[09:43] car company.
+[09:45] So, uh uh obviously they're still the
+[09:49] most popular car in America. So, success
+[09:53] uh and they can make them cheaper than
+[09:55] everybody else. and they still have the
+[09:57] tax credits, the $7,500 tax credits
+[09:59] through September 30th, but after that
+[10:02] they disappear. So, uh, their sales are
+[10:05] supposed to decline 11%.
+[10:08] Their earnings are supposed to, uh,
+[10:10] decline 15.7%.
+[10:13] So, this company's going to be all about
+[10:15] its guidance. Okay? And, um, the ounce
+[10:18] community has turned very cautious on
+[10:19] Tesla. They've cut estimates in the last
+[10:21] three months, just so you know, from 64
+[10:24] cents to 44 cents. Last two months has
+[10:26] been pretty steady, but boy have they've
+[10:29] missed three of the last four quarters.
+[10:32] So, if I was Elon Musk, I'd be talking
+[10:34] about my energy storage business, which
+[10:36] should be booming, especially in light
+[10:38] of the huge fire in Moss Landing in the
+[10:40] Monterey area. All those batteries have
+[10:42] to be replaced. I do not know if Tesla
+[10:44] has a contract for that. Hopefully, they
+[10:46] do. But their Power Wall business is is
+[10:48] doing very, very good. And of course,
+[10:50] he's got to provide guidance on the
+[10:51] Optimus robot. And we've had all these
+[10:54] guests on, Adam Johnson and Luke Langon
+[10:56] and and they're all excited about the
+[10:59] robot. Hopefully he he provides some
+[11:01] guidance on that. And of course,
+[11:02] finally, the robo taxis. The robo taxis
+[11:05] are up and running. A little late, but
+[11:08] they're up and running. They're going to
+[11:10] face increasing competition, not only
+[11:12] from Whimo, but also Uber because Uber
+[11:16] not only has the big deal with
+[11:17] Volkswagen, they they announced another
+[11:18] deal, another company that recently. So
+[11:21] robo taxis are going to become
+[11:22] increasingly common out there and and if
+[11:24] Tesla can capture good market share and
+[11:27] become the market leader that would be
+[11:28] very good. You know Google is an enigma.
+[11:31] They do not provide guidance
+[11:34] but they seem to always beat. Now they
+[11:37] have this one little glitch. The uh
+[11:40] Federal Trade Commission won a ruling to
+[11:42] split them up and I have no idea what's
+[11:44] going on with that. I should I guess but
+[11:48] you know that rule ruling to split their
+[11:50] search engine away from the company is
+[11:53] kind of like um a dog catching a car.
+[11:55] How do you do this? Okay. And so um I
+[11:59] think the government's been u struggling
+[12:01] with that. I use Google Chrome. I
+[12:03] haven't seen any uh changes okay to my
+[12:07] computer. And so uh but their sales are
+[12:10] supposed to be up 10.8%. Um their
+[12:12] earnings supposed to be up 15.2.
+[12:16] The analysts have not changed estimates
+[12:18] for the last 90 days and last quarter
+[12:21] their earnings surprise was 39.7 and
+[12:23] they have a good surprise history. So,
+[12:26] and I think you'll see their ad revenue
+[12:28] up considerably because people are still
+[12:30] clicking a lot. We saw that in the
+[12:31] retail sales report. Okay. Service Now
+[12:33] is um a very established company. It's
+[12:37] uh their software is used in a lot of
+[12:39] enterprises. Sales are supposed to be up
+[12:41] 18.9%.
+[12:43] earnings supposed to be up 13.9.
+[12:46] The analyst estimates are pretty darn
+[12:48] steady. No changes in the last 60 days,
+[12:51] one slight trim in the last 90 days, but
+[12:54] uh they have a good surprise history and
+[12:56] I do expect them to surprise.
+[12:58] >> Now, let's finish off with a couple more
+[12:59] stocks that are reporting this week.
+[13:01] What do you expect for NXPI?
+[13:02] >> NXPI is a semiconductor and
+[13:05] unfortunately it's one of the weaker
+[13:06] ones. Their sales are supposed to
+[13:08] decline 7.3%.
+[13:11] earnings supposed to be up 16.7%.
+[13:14] Uh the ounce community really really
+[13:16] hasn't changed their estimates for this
+[13:18] stock much and they typically eek out a
+[13:21] a tiny earning surprise. So it'll
+[13:24] probably surprise again, but this is not
+[13:26] one of the strongest semiconductors out
+[13:28] there. EQT Corporation, their sales are
+[13:31] forecasted to soar 86.6%.
+[13:34] Their earnings are even stronger.
+[13:37] They're supposed to explode 627.7%.
+[13:43] And um despite all that, the trimmed
+[13:47] their estimates um in the last uh um uh
+[13:51] 3 months, but there's a slight positive
+[13:54] revision last 6 months. So, uh
+[13:56] something's going on. And they do have a
+[13:58] huge earning surprise history. So, this
+[14:01] should be one of the bigger surprises
+[14:03] out there if history repeats. Okay.
+[14:05] Boston Scientific um is actually in our
+[14:08] manage accounts and we recommend our
+[14:10] newsletter. Their sales are supposed to
+[14:12] be up uh 188%.
+[14:15] Their earnings supposed to be up 16.9%.
+[14:19] Uh the ounce community has actually
+[14:21] revised their estimates higher in the
+[14:22] last 90 days and it has a great earnings
+[14:25] price history. This company makes stents
+[14:28] on a lot of cardiovascular uh devices
+[14:30] and uh obviously that business is good.
+[14:32] We have an aging demographic and so
+[14:34] that's benefiting their business. Okay.
+[14:36] Lamb and Weston, for disclosure, your
+[14:38] mom owns it in one of her personal
+[14:40] accounts. We no longer have this stock
+[14:42] under management. We did when there was
+[14:44] a potato shortage. This is the French
+[14:46] fry company. So if you go to the grocery
+[14:49] store and you see at the frozen French
+[14:51] fry section, a big picture of Idaho,
+[14:54] that's that's them. And uh their sales
+[14:56] are forecasted to climb 1.3%. Ernie is
+[15:00] supposed to be up uh 18.2%. 2%
+[15:03] and um with that said the trim estimates
+[15:07] in the last 90 days but last quarter
+[15:09] they had a 26.7%
+[15:12] surprise. I'm personally very curious
+[15:14] about this company because
+[15:18] I I I just need to get a better feel for
+[15:20] how the the potato industry is. Um, I
+[15:23] don't know what caused the shortage in
+[15:25] the in the past and um, uh, hopefully
+[15:28] all that's been alleviated and uh, I
+[15:30] really need some guidance on that, but
+[15:32] uh, this company is a mini monopoly if
+[15:35] you want to invest in French fries.
+[15:37] Okay, Southwest Airlines, well, I fly
+[15:40] them a lot, so I know them very well.
+[15:41] Uh, sales are supposed to decline 7/10en
+[15:44] of a percent. Earnings are supposed to
+[15:46] decline uh, 9.8%.
+[15:50] uh and um there our analyst cuts in the
+[15:53] last 90 days but uh the last 60 days
+[15:56] looks pretty steady.
+[15:58] This company has a great earning
+[16:00] surprise history very strong uh you know
+[16:03] anywhere from 14% to over 200% earning
+[16:07] surprises. So I think they'll beat again
+[16:10] largely because their capacity on their
+[16:12] planes is very good. Uh they're very
+[16:14] monopolistic on their roots. When they
+[16:16] do get competition
+[16:18] sometimes they abandon it. I've seen
+[16:20] them abandon bouts when a legion or
+[16:21] spirit moves in. And um of course
+[16:24] they're supposed to buy spirit. That's
+[16:25] another issue. Uh but they're also very
+[16:28] good with their fuel cost. You know,
+[16:30] fuel costs are are down and uh so that
+[16:33] should help Southwest Blackstone. What
+[16:36] can I say about Blackstone? Uh well,
+[16:38] first of all, they're sucking up to uh
+[16:40] President Trump. Uh they're investing
+[16:42] now in data centers. This is a big uh
+[16:45] real estate related company. They're
+[16:47] also involved in private credit. a huge
+[16:49] Wall Street firm uh uh distributing
+[16:53] uh all kinds of products to financial
+[16:56] advisors and investors. Their sales are
+[16:59] supposed to be up uh 10.2%.
+[17:02] The earnings are supposed to be up 13%.
+[17:05] The analyst estimates have been trimmed
+[17:07] in the last 60 days. So, they've been
+[17:10] reeled in, but they do surprise.
+[17:12] So,
+[17:14] I'm going to expect them to surprise
+[17:16] again. Realy Trust um basically is
+[17:20] investing in data centers. So if you
+[17:21] want to invest in data centers and get a
+[17:23] nice dividend yield, here's your option.
+[17:25] Their um sales are supposed to be up
+[17:28] 6.5%.
+[17:29] Earnings supposed to be up 15.3%.
+[17:32] Uh the analyst community has
+[17:34] aggressively revised their estimates
+[17:35] higher from uh 20 cents 90 days ago to
+[17:39] 31 cents uh recently.
+[17:43] Huge surprises. This company had a 59%
+[17:45] surprise last quarter. So, this should
+[17:48] be riding the data center boom and
+[17:50] should post another nice surprise.
+[17:52] Philip 66 is obviously a oil refiner.
+[17:56] It's funny, you know, the margins on
+[17:58] refining oscillate a lot. A lot of it
+[18:00] has to do with the weather. We are in
+[18:02] the summer months now though where they
+[18:04] uh should be doing a little bit better.
+[18:06] But with that said, there's sales
+[18:08] forecast to decline 17 1.5%. Earnings
+[18:12] are forecast to decline 24.2%.
+[18:15] Analysts have trimmed their estimates uh
+[18:17] pretty aggressively uh in um not in the
+[18:21] last 90 days, even in the last month.
+[18:23] And they did have a big miss last
+[18:25] quarter. So, I don't have high
+[18:27] expectations for it. But again, refinary
+[18:29] margins are all over the place. And uh
+[18:32] there's been a problem in California cuz
+[18:34] California only wants green diesel and a
+[18:37] lot of these companies make diesel they
+[18:39] can't sell. and have been abandoning
+[18:40] California. So, we shall see what
+[18:43] happens, but uh this this one's more of
+[18:45] a wild card, but you know, I really want
+[18:47] to see their guidance because refiners
+[18:50] tend to make more money in the spring
+[18:51] and the winter. Uh and that's just
+[18:54] because they get to change their fuel
+[18:55] blends and prices can go up.
+[18:57] >> Let's end on some subscriber questions.
+[18:59] One of our subscribers wanted to know
+[19:00] what's happening with SMCI.
+[19:03] >> It's improving steadily with Nvidia.
+[19:06] Obviously uh as earning season uh gears
+[19:09] up and Nvidia is the bell weather for
+[19:11] the market. I like to say instead of
+[19:13] having a magnificent 7, we have a
+[19:15] magnificent one. And uh Super Micro
+[19:17] makes the best water cooled rack systems
+[19:19] out there for the cloud centers. And um
+[19:21] we we will have an expert on that uh
+[19:24] knows all about that business. He's an
+[19:25] AI expert as well and he can reiterate
+[19:28] that. But um Super Micros got its mojo
+[19:32] back. So hang on. Root stock was an A in
+[19:35] stock grader and now B. How do you deal
+[19:36] with this seemingly dilemma?
+[19:38] >> Well, I really don't. Uh, first of all,
+[19:40] I respect Tradesmith very much. I put
+[19:42] all my stocks in the Tradesmith system.
+[19:45] Root is not a stock I recommend. Uh, but
+[19:48] it is, of course, our stock creator as
+[19:50] our 6,000 plus other stocks. Their sales
+[19:53] are forecasted to go up u 20%.
+[19:58] Their earnings are supposed to be up
+[20:00] 130.9%.
+[20:02] Um, and they have a big a positive
+[20:04] balance revision. This is an interesting
+[20:06] company because 90 days ago, the
+[20:08] analysts thought that this company would
+[20:10] lose 39 cents a share. Now, they think
+[20:12] they're going to earn 15 cents a share.
+[20:15] That's a big turnaround. And anytime a
+[20:16] stock goes from negative to positive
+[20:18] earnings, it can be explosive. And this
+[20:21] company's earning surprises have been
+[20:22] beyond explosive. Uh, I mean, I'll just
+[20:25] read a couple off to you. two quarters
+[20:27] ago 5 and uh 9% earning surprise
+[20:31] previous quarter,467%
+[20:36] earning surprise so I think you're
+[20:38] grabbing a tiger by the tail any uh
+[20:41] downgrade and tradesmith system is
+[20:43] probably technically related from buying
+[20:46] pressure but what I see here
+[20:47] fundamentally with analyst revisions and
+[20:50] the good surprise history and positive
+[20:52] sales and earnings coming this stock
+[20:54] should be fine so
+[20:56] If you're a long-term investor, there's
+[20:58] no reason not to hold the stock. Also, I
+[21:00] would notice the last seven days,
+[21:02] analysts revised their estimates from 10
+[21:04] cents to 15 cents. That's a big upward
+[21:05] provision. The stock uh should get its
+[21:07] mojo back and it finished pretty strong
+[21:10] here as I'm looking at it.
+[21:12] >> So, the Fed's stated goal is 2%
+[21:15] inflation. Why would they cut rates if
+[21:17] the inflation rate is 2.4? because uh if
+[21:21] you look at in the last two uh excuse me
+[21:24] three months, six months, it's a lot
+[21:26] lower.
+[21:28] Also uh we have a minority of Fed
+[21:30] officials um that have like uh Governor
+[21:34] Waller who went on Bloomberg uh calling
+[21:36] for rate cuts. Furthermore, uh there is
+[21:39] a global interest rate collapse
+[21:41] underway. You know, there Japan has very
+[21:43] low rates. China's rates are below Japan
+[21:46] and China may have to devalue its
+[21:48] currency because it can't cut rates
+[21:50] further. Uh the Bank of England, one of
+[21:53] their governors recently said they're
+[21:54] going to have three more cuts. The ECB's
+[21:56] cut eight times. So as you look around
+[21:58] the world, rates are at or near zero in
+[22:01] a lot of countries. And if they're not
+[22:03] there yet, they'll be there soon. The
+[22:05] whole world has experienced a horrific
+[22:07] demographic decline. They didn't have
+[22:09] enough kids. This is very prevalent in
+[22:11] Asia and especially Northern Europe.
+[22:14] um uh you know, you can't grow an
+[22:17] economy when you have shrinking
+[22:18] households. So there are rate cuts
+[22:21] everywhere and um if I'm an
+[22:24] international investor, I can come to
+[22:26] America. I don't have the demographic
+[22:28] problem. Our country also assimilates
+[22:30] immigrants. So even if as we get older,
+[22:33] we can bring in more immigrants. Of
+[22:35] course, Trump just wants them to have
+[22:36] green cards and be legal. And we have
+[22:38] just a better economy. We have 50 states
+[22:40] competing with each other for business.
+[22:42] So this onshoring that's going on is
+[22:43] real. I do expect uh and the dollar is
+[22:46] getting it mojo back after having a bit
+[22:47] of a setback this year. So I do expect
+[22:50] international capital to continue to
+[22:51] pour in and drive our rates lower and
+[22:53] our Fed will follow market rates lower.
+[22:56] >> And lastly, everybody needs that one big
+[22:59] bang investment where they can throw in
+[23:01] $100 and sell it for a couple of months
+[23:03] later for $100,000. Can you please give
+[23:07] us one of those stocks?
+[23:08] >> That's a little tough. It will probably
+[23:10] be something as big a earning surprise.
+[23:12] Last quarter was silz.
+[23:15] We'll see if they can pull it off again.
+[23:16] It did consolidate here recently. What
+[23:18] happened is Fanny May is changing how it
+[23:22] evaluates credit and it hit some of the
+[23:24] the credit related companies like FICO.
+[23:26] They're the ones that do your credit
+[23:27] score. And uh Sesa got hit in that
+[23:30] selloff just because it might be in some
+[23:32] ETFs that deal with credit and stuff.
+[23:35] So, I think it's a good near-term buy,
+[23:36] but I don't think you'll earn uh a,000%
+[23:40] in two months. Sorry about that.
+[23:42] >> Well, I'll be keeping an eye out on how
+[23:44] it all plays out. Thank you all so much
+[23:46] for watching and supporting us. Don't
+[23:48] forget to like and comment your top
+[23:50] earnings pick and subscribe for more
+[23:51] market breakdowns every week. We'll see
+[23:53] you next Sunday for a new video. Thanks
+[23:55] so much, everyone.
+[23:57] [Applause]
+[23:57] [Music]

@@ -7,9 +7,25 @@ Type: short
 Duration: 0:40 (40s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 17
+Transcript characters: 598
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The second quarter results are in and
+[00:02] the results even shocked me. Our large
+[00:04] cap growth portfolio was up over 21%.
+[00:07] Our fundamental portfolio was up over
+[00:10] 34%.
+[00:11] Some clients pushed me to do a top 15
+[00:13] portfolio, which we're showing you right
+[00:15] now, that was up 42%.
+[00:18] But if you want to find the cremeula
+[00:21] creme, the best stocks we recommend, my
+[00:24] publisher has a 7-day rotation portfolio
+[00:27] of our top 10 stocks in platinum growth.
+[00:29] We're showing you a little tease of it.
+[00:31] So, take advantage of that if you want
+[00:32] to know the best stocks. We're ecstatic
+[00:35] that our models are working very well
+[00:37] and finding the best socks out there to

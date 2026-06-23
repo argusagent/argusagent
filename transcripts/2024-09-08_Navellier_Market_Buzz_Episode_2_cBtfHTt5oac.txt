@@ -7,9 +7,374 @@ Type: video
 Duration: 15:12 (912s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 366
+Transcript characters: 13034
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:05] welcome back to navier Market Buzz
+[00:08] episode two I'm Crystal navier and I'm
+[00:10] joined today again with my dad Lou
+[00:13] navier um so we're coming to you um
+[00:16] virtually online I'm in New York and
+[00:18] you're in Nevada right how are the fires
+[00:21] well they're bad they've evacuated a lot
+[00:23] of the high-end neighborhoods the road
+[00:25] to Lake Tahoe Mount Rose highway is
+[00:28] closed and uh it's quite scary you know
+[00:31] they they have a video it's on the
+[00:32] Weather Channel of all the H is running
+[00:34] away and uh so it's it's a very serious
+[00:37] fire and uh we have smoke above my house
+[00:40] but uh we're pretty far from this fire
+[00:43] but uh you know it'll be scary when you
+[00:45] wake up in the morning you know they
+[00:46] have these little Maps we look at and uh
+[00:49] to tell us if we have to leave wow yikes
+[00:53] that's scary by way I promis to move
+[00:56] your car if we have fire okay good to
+[01:00] hear well everyone we're going to get
+[01:02] started with asking I'm going ask a
+[01:04] couple questions about um this week's
+[01:06] unfolding Market events so let's let's
+[01:09] talk about the obvious last week was
+[01:11] really horrible for the stock market is
+[01:13] there any good places to
+[01:15] hide well last week no uh there's um an
+[01:20] exhibit you're showing called um bepoke
+[01:23] does this um desile report on the
+[01:26] Russell 1000 specifically they sliced
+[01:28] the Russell 1000 the 10 slivers based on
+[01:31] nine different
+[01:32] characteristics and if you notice that
+[01:34] rep on your screen you'll see that uh
+[01:36] everything is down so last week was what
+[01:40] we call an air pocket it was very
+[01:42] unfortunate there was nowhere to hide
+[01:44] and they threw the baby out with a bath
+[01:46] water now the good news for you folks is
+[01:49] good stocks especially fundamentally
+[01:50] Superior stocks do
+[01:52] bounce and bad stocks of course fall
+[01:54] like rocks I also want to remind
+[01:56] everybody this is seasonal the first
+[01:59] half of September is the worst uh period
+[02:02] of the year for the market uh some of it
+[02:04] is the earning season over so profit
+[02:06] taking is natural the other is a lot of
+[02:09] us have to pay estimated taxes on um
+[02:12] Monday September 16th so some people
+[02:14] literally sell stocks to pay their taxes
+[02:17] so this selling pressure should e very
+[02:19] shortly and uh this week we hope to have
+[02:21] a few things that Sparks the market
+[02:24] great uh do you mind giving us an update
+[02:26] on your quarterly back
+[02:28] test yeah um so what we do at the end of
+[02:32] each corly earning season we test how
+[02:34] our fundamental and quantitative models
+[02:36] are working and uh the fundamental model
+[02:40] shows that uh as our ratings Decay uh
+[02:44] performance decays but if largely if
+[02:46] you're in the top 55% of our fundamental
+[02:48] criteria you're doing pretty good and um
+[02:52] then when we put our quantitative
+[02:53] overlay on top of the fundamentals
+[02:55] that's where we're looking for high
+[02:56] alpha low standing deviation stocks the
+[02:58] performance improves immensely however
+[03:01] you have to be in the top 5% so even
+[03:04] though this Market has broadened out to
+[03:06] Encompass more stocks especially some
+[03:07] small cap stocks uh the creme the creme
+[03:10] Remains the top 5
+[03:12] per. okay uh can you talk about the CPI
+[03:16] that's going to be announced on
+[03:17] Wednesday yeah that's going to be a
+[03:19] market mover uh if you remember a couple
+[03:22] months ago when the CPI was negative it
+[03:24] triggered a a a big um small cap rally
+[03:29] and um the market Braden out and
+[03:34] uh last Mon's CPI uh was everything was
+[03:37] pretty flat and almost all the inflation
+[03:40] comes from what they call Shelter costs
+[03:42] or something called owner equipment rent
+[03:45] and home prices are being cut all across
+[03:47] the country rents are weak everywhere
+[03:50] except where you are in Manhattan and in
+[03:52] Baltimore Baltimore is being regeni
+[03:54] right now so other than New York and
+[03:57] Baltimore prices are falling everywhere
+[03:59] and we hope that shows up in shelter
+[04:01] costs and once that finally cracks I
+[04:04] think there'll be a big relief and it'll
+[04:07] allow the FED to cut rates a lot more
+[04:09] than um than some of us think okay well
+[04:12] that's that's good news now what about
+[04:14] the PPI that's going to be announced on
+[04:17] Thursday that's a big deal because um uh
+[04:21] last month H wholesale service cost fell
+[04:25] and that was very encouraging Goods
+[04:27] Prices rose but they've been pretty
+[04:29] erratic and they have fallen in the past
+[04:31] um you know the dollar has been very
+[04:33] strong and when we import something from
+[04:35] somewhere else um it's naturally
+[04:38] deflationary so the main thing to look
+[04:41] at in the PPI is wholesale service and
+[04:44] goods cost and if they're low it means
+[04:47] that um that uh the the low rate of
+[04:51] inflation is going to continue and if
+[04:53] they're negative it might mean that we
+[04:55] have some deflation on the horizon and
+[04:57] that would cause the FED to panic and
+[04:58] maybe cut 50 B bis points so now do you
+[05:01] expect that treasury Ys are going to
+[05:03] fall more given the expectations of the
+[05:06] PPI and the
+[05:08] CPI yes I do if uh the CPI and the PPI
+[05:11] come in below uh Economist expectations
+[05:14] yields will continue to meander lower
+[05:16] because it's just just a sign that
+[05:18] inflation's been defeated for lack of a
+[05:20] better word now the big news of course
+[05:22] on the treasury yield front is that the
+[05:24] shorter term treasure yields have fallen
+[05:26] faster than longer term treasure yields
+[05:28] so our yield curve is finally uninverted
+[05:30] it's normal and um the FED pays more
+[05:34] attention to the short intermediate uh
+[05:36] treasure yields and right now they are
+[05:40] over one and half perc above Market
+[05:41] rates so that means if they're going to
+[05:43] do a quarter point cut they got a cut
+[05:46] six times and now there's a growing call
+[05:49] for them to have a half a percent cut on
+[05:52] the September 18th when they get
+[05:54] together and um that came from one of
+[05:56] the fomc members who gave a speech in
+[05:58] front of a n Dame University um and um
+[06:02] so we're definitely going to be cutting
+[06:04] chairman poell has already uh uh said
+[06:07] that the question is how much are they
+[06:08] going to cut and if we get really dire
+[06:10] inflation news or even evidence of
+[06:13] deflation they'll be cutting 50 basis
+[06:16] points half a percent so because of
+[06:17] these falling interest rates are there
+[06:19] any stocks that are
+[06:20] benefiting sure um the stocks that
+[06:24] benefit the most from falling rates are
+[06:25] insurance companies so uh we have AG DCL
+[06:30] which is Arch Capital group that's a
+[06:31] Bermuda based company a
+[06:33] reinsurer reinsurance companies are
+[06:35] funny they um they are basically there
+[06:38] for natural disasters so I like to joke
+[06:41] that if um you want to pick a
+[06:43] reinsurance stock all you got to do is
+[06:45] predict
+[06:46] earthquakes uh tornadoes uh hurricanes
+[06:49] and floods okay and provided you can do
+[06:52] that you can be in the reinsurance
+[06:53] business but all these insurance
+[06:55] companies have huge Bond portfolios so
+[06:58] as yields um yields fall their bonds
+[07:01] appreciate so they just naturally rally
+[07:04] a couple other stocks are looking really
+[07:05] strong right now are all state that's
+[07:08] alll and Progressive Court pgr one of
+[07:11] the reasons they're doing well is auto
+[07:12] insurance costs have gone up quite a bit
+[07:14] so they're profiting from that plus like
+[07:16] out in the Mountain West where I am uh a
+[07:19] lot of people have lost their fire
+[07:20] insurance and what happens is is um uh
+[07:25] they're picking up new insurance and
+[07:26] homeowners contracts uh both here in
+[07:29] California and other places that are
+[07:31] hard andur Florida would be another
+[07:32] place okay so now in terms of the
+[07:34] commodity crunch stocks um who's been
+[07:37] benefiting from
+[07:38] that uh well there are there is a
+[07:40] commodity Crunch and that's because
+[07:42] China's weak economic news so does
+[07:44] Europe uh you might have seen copper
+[07:46] prices plummet but we do have a copper
+[07:49] company the symbol is bvn and it still
+[07:51] has very strong forecast of sales and
+[07:53] earnings you know copper goes into
+[07:54] everything you know all these hybrid
+[07:56] cars have a lot of copper uh copper
+[07:58] obviously goes into
+[08:00] wiring um it goes into your home when
+[08:02] they build homes so um you know copper
+[08:05] is very sensitive to economic um demand
+[08:08] but right now although copper prices
+[08:11] have fallen we do like bvn quite a bit
+[08:13] and that's our best copper stock and
+[08:15] then we do have a lot of gold stocks so
+[08:18] um AGI would be one AEM would be another
+[08:23] IDR um these are all examples of
+[08:26] precious metal stocks that we own uh
+[08:29] it's very simple um they're doing more
+[08:32] trading in Gold because of the sanctions
+[08:35] on Russia and um so one way to
+[08:38] circumvent this the sanctions is is a
+[08:41] tradeing gold and then gold is something
+[08:44] people like when they have no faith in
+[08:46] central banks so most of these central
+[08:48] banks um have huge deficits they have to
+[08:51] manage probably the worst right now is
+[08:53] Brazil their deficit is 10% of current
+[08:56] GDP and um it's a perceive that deficits
+[09:00] are going to go up no matter who we
+[09:03] elect because uh Rose under President
+[09:06] Trump a rose under President Biden so we
+[09:08] assume that again no matter who we elect
+[09:10] the deficits will continue to rise but
+[09:12] the US is fortunate because we can grow
+[09:14] our economy um we have a something
+[09:17] called household formation we have um
+[09:19] more orderly immigration than other
+[09:21] countries that um uh don't assimilate
+[09:24] the immigrants properly I I realize
+[09:25] immigration is a sense of subject but
+[09:27] the bottom line is people come to
+[09:29] America for work and they do get ass
+[09:30] simulated and we do a better job of it
+[09:33] so we're only one of three major
+[09:34] companies that has a grow excuse me
+[09:36] three major countries that has a growing
+[09:38] population in the world you know China
+[09:40] shrank by over two million people last
+[09:42] year Japan's shrinking most of Europe is
+[09:45] shrinking except for Hungary because
+[09:47] they have a baby initiative in Hungary
+[09:49] they get get tax breaks if you have more
+[09:51] kids uh and um so what's interesting is
+[09:55] is um the US just can have more organic
+[09:58] growth because it has something called
+[10:00] household formation and if you need to
+[10:02] understand this any better just go to
+[10:04] Utah Utah is the fastest growing state
+[10:06] in America why because they create more
+[10:08] households they have more kids in other
+[10:10] states now kind of Switching gears you
+[10:13] were recently on Fox News and you said
+[10:15] that whoever was going to win
+[10:16] Pennsylvania is going to be our next
+[10:17] president that's correct and um I have a
+[10:20] special message I recorded for you but
+[10:22] before I get to that I want to um let
+[10:26] everybody know that we're in full suck
+[10:28] up mode right right now essentially the
+[10:30] candidates are just running around
+[10:32] promis say everything and anything the
+[10:34] Sun the moon the stars the sky some of
+[10:36] the things they're proposing are not
+[10:38] possible um KLA wants to have a 25%
+[10:42] minimum tax on billionaires on
+[10:44] unrealized capital gains that's never
+[10:46] going to get through the courts um
+[10:49] another thing that she wants to do is um
+[10:52] she wants to raise taxes but to her
+[10:54] credit she realized that didn't pull
+[10:56] well so she actually lowered her
+[10:58] proposed capit gains increase uh from
+[11:01] 446 to 28 uh so that is welcome but um
+[11:06] you know she was she got scared because
+[11:08] she uh tried to U propose higher taxes
+[11:11] than some people would tolerate Trump on
+[11:14] the other hand is is promising you know
+[11:16] obviously no taxes on tips which KLA has
+[11:19] also endorsed um no taxes on Social
+[11:22] Security which I'm sure it's going to be
+[11:23] extremely popular with senior citizens
+[11:26] and um uh he actually um in Wisconsin uh
+[11:31] this weekend he promised that um any
+[11:34] country that tries to uh not use the US
+[11:37] dollar as its main currency to trade
+[11:40] he's going to slap 100% tariff on them
+[11:42] and the country that has the biggest
+[11:44] Bullseye is actually Brazil Brazil has
+[11:46] been actively calling to move away from
+[11:47] the dollar but so is India and uh India
+[11:50] does a lot of trade with Russia and
+[11:52] China and China's been trying to
+[11:54] influence other countries another
+[11:55] country that could be a loser in this
+[11:57] would be South Africa so um um but yeah
+[12:01] Trump's going to try to pay for a lot of
+[12:03] the stuff he wants to do with tariffs
+[12:06] and um it'll be interesting to see how
+[12:08] that goes over and of course if you do
+[12:09] have free trade um there won't be a
+[12:12] significant tariff and Biden of course
+[12:14] has taken all the Trump tariffs from the
+[12:16] first administr uh first term and u
+[12:19] double down and actually increased a lot
+[12:21] of them but the debate's going to be
+[12:23] fascinating and I think uh whoever comes
+[12:26] off as being um most Pro energy uh and
+[12:29] the one that's going to be the most
+[12:30] sincere and believable is going to win
+[12:33] and uh Pennsylvania is the big swing
+[12:35] state and with that said I just recorded
+[12:37] a special video about that to better
+[12:40] explain why I think Pennsylvania is so
+[12:42] important hi Lou navali here the reason
+[12:47] I'm addressing you from my fire pit at
+[12:50] my Reno Nevada
+[12:52] home is that natural gas is probably
+[12:54] going to pick our next
+[12:56] president let me elaborate
+[12:59] back in January the bid
+[13:02] administration had an executive order
+[13:05] banning all LG expansion subject to
+[13:09] these exhaustive environmental
+[13:11] reviews this irritated a lot of
+[13:14] folks 16 States sued and a couple months
+[13:18] ago in the fifth circuit which is
+[13:21] Louisiana a federal judge overturned
+[13:24] that Biden LG expansion
+[13:27] ban so now we're thring up again in the
+[13:30] meantime we've Fallen precariously
+[13:34] behind specifically since
+[13:36] May Russia has been exporting more LG to
+[13:40] Europe than we do that wasn't the
+[13:44] plan natural gas in America is
+[13:47] everywhere it's incredibly abundant it's
+[13:50] cheap it's one of our best resources and
+[13:52] makes us super competitive to the rest
+[13:55] of the
+[13:56] world now
+[13:59] you might have heard that KLA Harris
+[14:01] wasn't Pro fracking or Pro offshore
+[14:04] drilling at one time to her credit she's
+[14:07] changed her tune she's now in favor of
+[14:11] fracking the reason she has to do that
+[14:14] is she can't win Pennsylvania without
+[14:17] this
+[14:18] so on Tuesday's
+[14:21] debate whoever's the most pro-energy
+[14:24] most believable most sincere it's
+[14:28] probably going to win that debate and
+[14:30] become our next president because you
+[14:33] can't win the electoral college without
+[14:35] winning Pennsylvania just look at the
+[14:37] map whoever wins Pennsylvania is going
+[14:39] to
+[14:41] win so we're going to talk a lot about
+[14:45] energy in the upcoming weeks but
+[14:48] Tuesday's debate is crucial enjoy it
+[14:52] well thank you so much for sharing that
+[14:54] and thank you so much for answering all
+[14:55] my questions again this is navier Market
+[14:58] Buzz um and we'll see you next week
+[15:01] thank you everyone thanks everybody
+[15:04] [Applause]
+[15:05] [Music]

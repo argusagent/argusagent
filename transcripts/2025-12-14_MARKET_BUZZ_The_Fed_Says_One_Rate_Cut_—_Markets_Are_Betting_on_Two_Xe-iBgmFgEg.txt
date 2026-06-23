@@ -7,9 +7,545 @@ Type: video
 Duration: 20:38 (1238s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 537
+Transcript characters: 18727
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Markets rallied after the Fed's latest
+[00:02] decision. And for once, it feels like
+[00:04] the Fed and investors are finally
+[00:06] aligned. Or are they? Welcome back to
+[00:08] Navier Market Buzz.
+[00:11] [music]
+[00:16] [music]
+[00:20] [music]
+[00:22] Now, Dad, if the Fed finally did the
+[00:24] right thing and the financial market
+[00:26] celebrated, why is the Fed funds futures
+[00:29] market now pricing in two rate cuts in
+[00:31] 2026?
+[00:33] >> Well, um the main reason is is the Fed
+[00:36] diverted some of its balance sheet to
+[00:38] buy short-term treasuries, and that's
+[00:40] tilting the yield curve down further.
+[00:43] And that got everybody all excited
+[00:45] because uh if if Treasury yields go
+[00:47] lower, then the Fed has to follow them
+[00:49] lower. That's the main reason. But the
+[00:51] other reason is Pal during his press
+[00:54] conference basically came out and said
+[00:56] he didn't trust the economic data
+[00:58] especially as it pertains to the labor
+[01:00] market. So this is a big shift for
+[01:02] chairman pal and um you know a lot of
+[01:05] people want to wait for the economic
+[01:06] data like uh Chicago Fed President
+[01:08] Austin Goldsby but for a Fed chairman to
+[01:12] say you're not sure the data is correct
+[01:15] on the job market is shocking and they
+[01:18] telegraphed one more cut next year in
+[01:20] their dot plot but everybody now
+[01:22] anticipates two more cuts. So uh that's
+[01:24] very exciting and that's why the market
+[01:26] rallied. And how does that tie in to
+[01:28] this surprising new push from Elon Musk
+[01:30] and Jeff Bezos to move AI data centers
+[01:34] into space?
+[01:35] >> That is the bizarre news of the week
+[01:37] that was actually reported by the Wall
+[01:38] Street Journal. In their defense, space
+[01:41] is cold. Okay, but I have a technical
+[01:44] question. Even if we could get over the
+[01:45] weight and all that stuff, how do you
+[01:47] transmit all that data? Now obviously I
+[01:49] was on this Forbes cruise and I'm using
+[01:51] Starlink and by and large it's very
+[01:53] impressive but it's it's not like
+[01:55] internet on copper or fiber optic. So
+[01:58] the only way I think they can speed up
+[02:00] the data is to have these huge antennas
+[02:02] you know big radio antennas that would
+[02:04] just gather gather everything and then
+[02:06] put it in copper or fiber. So I think
+[02:09] this is pretty bizarre. Okay. And I
+[02:12] don't think we should invest in this at
+[02:14] this moment. Obviously, they might try
+[02:16] it, but I don't see all the data centers
+[02:18] moving into space anytime soon. But it
+[02:20] was it was interesting news and they
+[02:22] both wanted to boost their rocket
+[02:24] business.
+[02:24] >> And we also heard Jeffrey Gunlatch weigh
+[02:27] in pretty forcefully on Powell's
+[02:29] comments. Caught a lot of attention. Who
+[02:31] is he and why do the markets care when
+[02:34] he critiques the Fed?
+[02:35] >> Well, he's a major bond manager. He's
+[02:38] also what is known as a perma bear. He
+[02:41] usually is somebody the media can rely
+[02:43] on to tell you to get out of stocks and
+[02:46] CNBC had him commenting on the FOMC
+[02:49] statement and PAL's comments and I think
+[02:51] they probably brought him on to you know
+[02:53] be bearish because CNBC's had this
+[02:55] bearish tone led by Ander Ross Sorcin
+[02:58] and Jeffrey was so happy that the Fed
+[03:01] was intervening on short-term treasuries
+[03:03] and shoving the yield curve uh down he
+[03:05] was actually happy. So
+[03:08] in his defense, you know, that TLT,
+[03:11] which is the um uh iShares 20 plus year
+[03:15] Treasury ETF, is still down, you know,
+[03:16] 44% over the past 5 years. So being a
+[03:20] bond manager is not easy. If you buy on
+[03:22] the wrong end of the what we call the
+[03:24] yield curve, you can be destroyed. And
+[03:26] so I understand why he should be grumpy,
+[03:28] but I I just think he should stick to
+[03:31] bonds and leave the the stocks to people
+[03:33] like me. But um I was uh I was happy
+[03:37] that he was happy. You know, it was it
+[03:39] was like a therapy session for him. You
+[03:41] know, it's um and I'm not sure he did
+[03:44] what CNBC wanted because CNBC has been
+[03:46] leading this campaign to basically throw
+[03:50] water on on the GDP growth, the AI boom,
+[03:53] and um you know, Andrew Rossin works
+[03:56] with the New York Times. He got chewed
+[03:57] out by Treasury Secretary Bessett at a
+[04:00] conference and he also got chewed out by
+[04:02] Alex Karp, the planteer CEO. So, you
+[04:05] know, not everybody shares his bearish
+[04:07] view of the world and um and Jeff Gunlop
+[04:10] is a bear that finally turned into a
+[04:12] bull. So, I think that was uh that was
+[04:14] remarkable.
+[04:15] >> Now, globally, China's trade surplus has
+[04:18] now blown past 1 trillion this year. Is
+[04:21] a surplus this large actually hindering
+[04:23] other countries economic growth?
+[04:25] >> Yes, it is. I believe it was the
+[04:26] Financial Times had had an article on
+[04:29] this and they they graphed all the
+[04:31] countries and the only country was not
+[04:33] having a a GDP drag from doing business
+[04:36] with China was India. Now we're not in
+[04:38] that camp either because our um trading
+[04:41] with China has dropped 26% in the past
+[04:43] 12 months. So other than us in India,
+[04:46] everybody else's economic growth is is
+[04:48] hindered. And China does try to dominate
+[04:51] everything. You know, I was on that
+[04:52] Forbes cruise. I noticed in St. Martin
+[04:54] at the way the airport there's a lot of
+[04:56] Chinese car dealerships as I boarded the
+[04:59] plane that the you know the the ramp to
+[05:01] the plane was Chinese the cranes are
+[05:03] Chinese so it's it's very interesting
+[05:06] but according to financial times yeah
+[05:08] they're hindering economic growth and
+[05:10] China's growth themselves is still poor
+[05:13] because of demographics their domestic
+[05:15] demand is just not there so they're
+[05:16] trying to export all over the world but
+[05:19] they what they do is they go in and take
+[05:21] over an industry so they dominate for
+[05:23] example pull the batteries for the cars.
+[05:25] Those battery prices are falling. They
+[05:27] just fell over um a dollar per kilowatt.
+[05:31] Then they dominate TVs now with TCL. Now
+[05:34] that that's new. They built the world's
+[05:36] biggest factory for mini LED TVs. If you
+[05:39] get a high-end Sony TV, it's a mini LED.
+[05:41] It's not an OLED anymore. So, they are
+[05:43] now selling those miniLEDD TVs, a 98 in
+[05:46] version for $1,600. They are also um
+[05:50] selling um 115inch version. It's I think
+[05:54] it's $10,000 but it's still no one can
+[05:57] compete with these things. They are
+[06:01] trying to to take over the world and it
+[06:03] doesn't matter if you're US, Korea or
+[06:05] Japan. Uh if you have market share,
+[06:07] they're going for it. And uh of course
+[06:09] they dominate rare earth and um so yeah
+[06:14] they are one of the reasons the world's
+[06:16] not growing very fast. But meanwhile,
+[06:18] the US is moving in the opposite
+[06:20] direction. What does a shrinking US
+[06:22] trade deficit really tell us about the
+[06:24] economy right now?
+[06:25] >> Yeah, our trade deficit is the lowest in
+[06:27] over 5 years, and the uh exports are the
+[06:29] second highest ever recorded. And it was
+[06:31] mostly from pharmaceuticals and some
+[06:33] other things, those exports. Now, what's
+[06:35] interesting is
+[06:37] um if energy prices ever go up again,
+[06:40] they're not going to because there's 1.4
+[06:42] trillion of oil sitting on oil tankers
+[06:45] around the world. a huge surplus at this
+[06:47] moment. If oil prices start to go up,
+[06:50] the trade deficit could be entirely
+[06:51] wiped out. But our exports in the latest
+[06:53] month grew 3% and imports grew 6/10.
+[06:58] Everything that President Trump's trying
+[06:59] to do, all this onshoring is is working.
+[07:02] And in the latest month, it was mostly
+[07:03] pharmaceutical exports.
+[07:05] >> Now, you mentioned another headline
+[07:06] grabbing attention. More than 1.4
+[07:09] billion barrels of crude oil are
+[07:11] currently sitting on tankers. What does
+[07:13] that kind of buildup mean? means the oil
+[07:16] has nowhere to go. Some of it's the
+[07:17] sanctions on on the Russian ships that
+[07:20] are increasingly struggling to find a
+[07:22] port. Most of those ships will end up in
+[07:24] the Middle East or um India. The tanker
+[07:27] the US seized was notorious for being a
+[07:30] what they call a shadow tanker. Um
+[07:33] I think um President Trump says, "I
+[07:35] guess we'll just take the oil." You
+[07:37] know, he said that tongue and cheek, but
+[07:38] you got to do something with it, right?
+[07:40] So oil goes down in the fall, goes up in
+[07:43] the spring. So, if we don't get a
+[07:45] worldwide demand boom, you know, we
+[07:48] could crack $50 a barrel in oil. Now,
+[07:50] there's one other thing I have to
+[07:52] mention. California is not going to
+[07:54] benefit from falling oil prices. They
+[07:57] had a refinery shut down in Benicia,
+[08:00] California, the Valero refinery. That
+[08:02] was the most modern refinery in
+[08:04] California. The Philips 66 uh refinery
+[08:07] in Southern Cal is now shutting down.
+[08:09] And California now has to import 20% of
+[08:11] its gasoline. those imports are coming
+[08:14] largely from Korea.
+[08:16] Uh and it looks like they're going to be
+[08:18] getting more from Singapore and um
+[08:21] India. Now that's a long ways to ship
+[08:23] gasoline. The other thing because
+[08:25] California has their own unique gasoline
+[08:27] formulas, it's going to be pretty
+[08:28] expensive. So, you know, it's funny, you
+[08:31] know, I guess they're trying to save the
+[08:32] planet by, you know, trying to divert
+[08:34] everybody to a different type of
+[08:36] vehicle, electric vehicle, but, you
+[08:38] know, when you have to send something 20
+[08:40] days or 30 days on a ship to get there,
+[08:43] I don't know if you I don't know if you
+[08:45] save much on the pollution front, uh,
+[08:47] versus refining, uh, there. So,
+[08:50] California has its own unique problem
+[08:52] and Gavin Newsome's of course going to
+[08:53] be running for president and he gets to
+[08:55] explain why he's doing things a little
+[08:58] differently out there.
+[08:59] >> Now, let's switch over to the companies
+[09:00] still set to report this week. Let's
+[09:03] kick things off with Lamb Weston. Fries,
+[09:06] margins, and global demand all in play.
+[09:08] What do you see happening next week for
+[09:10] the stock?
+[09:11] >> Well, the good news is Lamb and Weston
+[09:13] has beaten uh earnings estimates for the
+[09:16] last three quarters. That's the good
+[09:18] news. The bad news is um
+[09:21] their sales are supposed to be down.7%.
+[09:25] Their earning is supposed to be down
+[09:26] 1.7%.
+[09:29] But the analysts have been revising
+[09:30] their estimates higher. In fact, in the
+[09:32] past 7 days, they revised estimates a
+[09:34] bit higher. So, we could have another
+[09:36] nice surprise here. The guidance, of
+[09:38] course, will be crucial. Lamb Wesson, of
+[09:39] course, is the French fry company. They
+[09:41] specialize in frozen French fries.
+[09:43] They're based in Boise. At one time I
+[09:45] owned the stock when there was a a
+[09:46] potato shortage, but that has now been
+[09:48] alleviated with um I think higher prices
+[09:51] to be honest with you. So um so we'll
+[09:54] see if uh what they do, but I I would
+[09:56] bet they're going to surprise because
+[09:57] efficiency.
+[09:58] >> Now home builders have been announcing
+[10:00] very weak results. Is that going to be
+[10:02] anything different for LAR?
+[10:04] >> I doubt it. Uh you know, they've missed
+[10:06] the past two quarters. Uh sales are
+[10:08] forecast to decline 8.2%.
+[10:11] Earnings are forecast to climb 45.9%.
+[10:15] And there have been analyst cuts. Pretty
+[10:17] dramatic, too. So, it looks like they're
+[10:20] getting ready to lay an egg now. So,
+[10:22] what's going on in the home building
+[10:23] world is we have falling real estate
+[10:26] prices around the country. Prices are
+[10:28] down 1.4%.
+[10:30] We even have falling rental prices. I
+[10:32] don't know if that's hit New York yet,
+[10:34] but it's uh it's it's everywhere else
+[10:35] outside of New York. And, you know,
+[10:37] there's deflation in home prices now.
+[10:39] So, it's funny, you know, when the Fed
+[10:41] cut rates, it helped short rates, but it
+[10:43] didn't help the long rates much.
+[10:44] Although, as the short rates go lower
+[10:46] and lower, it will start to pull long
+[10:48] rates down a bit. So, I think we're
+[10:50] going to get some deflation in our uh
+[10:52] economic numbers. Now, Pal didn't
+[10:54] address this. He just mostly the the job
+[10:56] market, but if the Fed sees deflation,
+[10:59] they're going to freak, okay? Because
+[11:01] every economist is trained to fight
+[11:03] deflation. And we have hideous deflation
+[11:05] now in the housing market and this is
+[11:08] hurting all the home builders.
+[11:09] >> Shifting to staples, General Mills has
+[11:11] been defensive but the big question now
+[11:13] is growth. What's your outlook from
+[11:15] here?
+[11:15] >> There is no growth. Uh sales are
+[11:17] supposed to be down 8.8%.
+[11:20] Uh earnings supposed to be down 26.9.
+[11:23] The analysts have trimmed their
+[11:25] estimates
+[11:27] and although this stock has beaten the
+[11:29] last four quarters and so there is hope
+[11:33] of another earnings surprise but I
+[11:36] wouldn't bet on it. So this is very sad.
+[11:38] >> Moving into tech, Micron is riding the
+[11:40] AIdriven surge in memory demand. What's
+[11:44] the key risk or catalyst investors
+[11:46] should be watching? Yeah, the um when
+[11:49] you build the data centers, they want
+[11:50] fast um memory and uh guess who makes
+[11:55] that? It was Micron. Uh their sales are
+[11:57] supposed to be up uh 47% which is of
+[12:00] course outstanding. Their um earnings
+[12:02] are supposed to be up 117.1%.
+[12:06] Uh the analysts are revising their
+[12:09] estimates higher including the last
+[12:11] seven days. So I am expecting a nice
+[12:13] surprise from Micron. This company is
+[12:16] hitting on all cylinders and uh they're
+[12:18] of course benefit from the data center
+[12:20] boom.
+[12:20] >> Back to the consumer, Darden keeps
+[12:22] delivering steady traffic in a mixed
+[12:24] spending environment. Do you expect that
+[12:27] momentum to hold?
+[12:28] >> I do. You know, their sales are supposed
+[12:29] to be up about 6.3%.
+[12:33] Their uh earnings supposed to be up
+[12:34] 3.7%.
+[12:36] The analysts um haven't changed their
+[12:38] estimates in the last couple months. And
+[12:40] last quarter they missed by uh 2%. So
+[12:44] before that they had minor um surprises
+[12:49] like any restaurant company has to
+[12:53] provide positive guidance and if it
+[12:55] provides positive guidance it it will
+[12:56] probably do fine but consumers are
+[12:58] getting out and about a little bit more
+[13:00] and so there is hope but there's no real
+[13:02] growth right now.
+[13:03] >> Looking at logistics FedEx is an
+[13:06] economic barometer but what do you
+[13:07] expect for them?
+[13:08] >> Yeah um you know um their sales are
+[13:11] supposed to be up 3.8 eight. Their uh
+[13:14] earnings supposed to be up 1.4. We have
+[13:17] minor upward analyst revisions uh
+[13:20] including the last 7 days. So that's
+[13:22] encouraging and they have surprised for
+[13:24] the past two quarters. So um you know
+[13:28] they benefit from that online shopping
+[13:29] boom and uh obviously we should have
+[13:31] lots of online shopping this holiday
+[13:33] season. I have hope for FedEx. You know
+[13:36] I have not had this in growth portfolios
+[13:38] because it's not a growth stock. Not a
+[13:40] bad dividend stock to be honest with
+[13:42] you. So, um I have hope. So, let's see
+[13:45] what their guidance is going to be.
+[13:46] >> Staying with housing, is KB Homes going
+[13:49] to do any better than LAR or any of the
+[13:52] other home builders.
+[13:53] >> Yeah, they have been doing better. You
+[13:54] know, they surprised in the past two
+[13:55] quarters. So, that's the good news. The
+[13:58] bad news, their sales are supposed to be
+[13:59] down 16.9%.
+[14:01] Uh their earnings supposed to be down
+[14:03] 29%.
+[14:05] And there are analyst cuts in the past
+[14:07] 90 days, but they seem to manage analyst
+[14:09] expectations better than other
+[14:11] companies. So, um there's there's hope
+[14:13] for KB Homes. And if there's going to be
+[14:14] any recovery in the housing market, it's
+[14:18] going to come from uh somebody like KB
+[14:21] or Toll Brothers. And Toll Brothers, of
+[14:23] course, did miss LA last week. So, we
+[14:25] need a leader in the home building
+[14:26] industry. We'll see if KB can provide
+[14:27] it.
+[14:28] >> Over in Autos, CarMax continues to face
+[14:30] pressure. What do you expect from here?
+[14:32] >> Yeah, you know, it's funny. I I
+[14:34] recommend Carvana, but I do not
+[14:36] recommend CarMax. They had a massive
+[14:38] miss last quarter. Whether or not they
+[14:40] were hindered by thatricolor
+[14:43] subprime auto lender uh going bankrupt,
+[14:46] but they're struggling. Their sales are
+[14:48] forecast to be down 9 12%.
+[14:50] Uh their earnings are forecast to be
+[14:52] down 62.6%.
+[14:55] But the analysts have slashed their
+[14:57] estimates. Just so you can see how bad
+[14:59] they've slashed estimates. 90 days ago
+[15:02] they were expecting 84 cents a share.
+[15:04] Now they're expecting only 31 cents a
+[15:05] share. So this company is still reeling
+[15:08] from a massive earnings disappointment.
+[15:11] There are financing issues out there on
+[15:13] auto world because the u there's a lot
+[15:15] of subprime auto loans and now that one
+[15:18] of the bigger subprime auto lender
+[15:20] lenders went bankrupt. That's not good.
+[15:21] CarMax is struggling and that's
+[15:23] unfortunate but we'll see if there's any
+[15:26] any green shoots or raise of hope with
+[15:28] the results and their guidance. On the
+[15:29] retail side, Nike's brand power is
+[15:31] strong, but China demand remains a
+[15:34] question mark. Where do you see this
+[15:36] trending?
+[15:36] >> Yeah, that's a great a great point. You
+[15:38] know, they had a huge surprise last
+[15:40] quarter. So, they're out of the penalty
+[15:42] box and they have surprised for the
+[15:44] previous four quarters. Um but, you
+[15:45] know, they're still struggling because
+[15:46] their sales are supposed to be down
+[15:47] 1.2%.
+[15:49] Uh earnings are supposed to be down 52%.
+[15:53] And um
+[15:56] uh and the analyst community has cut the
+[15:58] estimates in the last 90 days from 50
+[16:01] cents to 37 cents a share. But what's
+[16:03] odd about Nike is their surprises are
+[16:06] just big and last quarter was uh 84 and
+[16:08] a.5%.
+[16:10] So this is a real real wild card. It
+[16:12] looks like they're trying to turn it
+[16:14] around but as you pointed out their
+[16:16] international sales to China and other
+[16:18] markets has been lackluster. Now, you
+[16:20] know, we have the World Cup. We have
+[16:22] other things going on. We'll see if they
+[16:24] can benefit from that, but we're going
+[16:26] to need some guidance from Nike moving
+[16:28] forward.
+[16:29] >> Back to package foods. Kagra pricing
+[16:31] power is cooling. What's your call going
+[16:34] forward?
+[16:34] >> Well, they had a nice surprise last
+[16:36] quarter, so I have some hope for them to
+[16:38] be honest with you. Before that, they
+[16:40] did miss a couple quarters, but their
+[16:42] sales are supposed to be down 6.4%.
+[16:46] Uh, their earnings supposed to be down
+[16:48] uh 37.4.
+[16:50] And the ounce have trimmed the
+[16:51] estimates, but again, they had a big
+[16:53] surprise last quarter, 17%.
+[16:55] So, we'll see if they can keep that
+[16:57] trend and that momentum. So, they would
+[16:59] have to post another surprise and
+[17:01] provide good guidance. We'll see if they
+[17:02] can dig themselves out of the hole.
+[17:04] >> Travel names have been volatile.
+[17:06] Carnival is seeing hot demand but
+[17:08] carrying heavy debt. What's your read on
+[17:10] this one?
+[17:11] >> All right, let me talk about earnings.
+[17:13] We'll come back and talk about that.
+[17:15] Okay. Carnival has surprised the past
+[17:17] four quarters. previous quarter was a
+[17:19] nice beat. Their sales is supposed to be
+[17:20] up 7.5%.
+[17:23] Their earnings supposed to be up 77.4%.
+[17:27] And the analysts have revised their
+[17:28] estimates um
+[17:31] a good um 25% higher in the past 90
+[17:34] days. So that's a good sign. So they're
+[17:36] hitting on all cylinders. So I I do I do
+[17:38] want to address debt. CFO of every
+[17:41] company is taught what they teach in
+[17:43] finance 101, which is do we borrow with
+[17:46] debt or equity? And if my internal
+[17:48] return equity is 12%
+[17:50] and I can borrow at 6%, I'm going to
+[17:52] borrow. If my internal return equity is
+[17:54] 4% and I got to borrow at 6%, I'm not
+[17:57] going to borrow. I prefer to raise money
+[17:58] by selling stock actually. So what
+[18:01] finance 101 is all the kids in class
+[18:04] learn do I borrow with debt or equity?
+[18:05] And there's actually chart they can
+[18:07] graph it. Where's the break even whether
+[18:09] we use debt or stock? Now there has been
+[18:11] a lot of debt financing. Even the
+[18:13] private credit industry is financing the
+[18:15] data centers for Oracle and things like
+[18:16] that. So I don't think debt should be a
+[18:19] shunn. Guys running these companies know
+[18:21] what they're doing. And if you have a
+[18:23] high return on equity and you can borrow
+[18:24] below that rate, more power to you. And
+[18:27] that's how you add value and boost your
+[18:29] earnings and and overall resorts
+[18:31] results. So a Carnival um should beat
+[18:34] and I don't own them, but I do own RCL,
+[18:37] Royal Caribbean, and the cruise ship
+[18:38] industry is very healthy. And wrapping
+[18:40] up with paychecks, the company is
+[18:42] tethered to the labor market as hiring
+[18:44] trends shift. What are you expecting?
+[18:46] >> Well, they provide a very important
+[18:48] service, so I'm not too worried about
+[18:49] paychecks. Uh they did beat last
+[18:52] quarter. Their sales are supposed to be
+[18:53] up 17.9%.
+[18:56] Uh their earnings supposed to be up
+[18:57] 8.1%.
+[19:00] Balance estimates are pretty steady. The
+[19:02] only issue with a stock is when it does
+[19:03] surprise, it's not usually a big
+[19:05] surprise. So, um, this is not exciting
+[19:08] enough for me to buy it right now, but,
+[19:11] um, if they have a bigger surprise and
+[19:13] provide positive guidance, it'll get my
+[19:15] attention.
+[19:15] >> Great. Well, thank you so much for
+[19:17] answering all my questions. Thank you to
+[19:19] you all again for watching and
+[19:20] supporting us. Make sure to hit that
+[19:22] like button and subscribe if you haven't
+[19:24] already. If you have any questions that
+[19:25] you want us to answer in the next video,
+[19:27] please leave them in the comments below.
+[19:29] But until then, we will see you all next
+[19:30] week for a new video. Thanks so much.
+[19:54] >> [music]
+[20:13] [music]

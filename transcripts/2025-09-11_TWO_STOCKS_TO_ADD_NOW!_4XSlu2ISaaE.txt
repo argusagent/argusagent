@@ -7,9 +7,34 @@ Type: short
 Duration: 0:57 (57s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 26
+Transcript characters: 961
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Hi everybody, Louis Navalier here. Well,
+[00:02] the stock market is amazingly strong so
+[00:05] far in September and this is a period of
+[00:07] time where there's seasonal weakness,
+[00:08] but clearly everybody's getting excited
+[00:10] about the Fed rate cut and all the
+[00:12] evidence that's coming out like soaring
+[00:15] unemployment claims, the highest in four
+[00:17] years that'll make the Fed cut rates.
+[00:19] Now, even though we've had a lot of
+[00:20] strength, there are some very strong
+[00:22] stocks starting to pull back now. So, if
+[00:25] you're looking for some good buys today,
+[00:26] the best buy is Celestica. That's CLS.
+[00:30] That stock has very strong sales, even
+[00:32] stronger earnings because their margins
+[00:34] are expanding. Shot up here a few days
+[00:36] ago. Now it's consolidating. The other
+[00:38] stock that's a good buy right now is
+[00:40] Planter Technologies. So that's PLTR. So
+[00:43] obviously that's the big AI applier run
+[00:45] by Alex Karp and it's a very very
+[00:48] powerful stock. So, take advantage of
+[00:50] these pullbacks and um I'll keep
+[00:53] updating these short videos anytime I
+[00:55] see some great buys.

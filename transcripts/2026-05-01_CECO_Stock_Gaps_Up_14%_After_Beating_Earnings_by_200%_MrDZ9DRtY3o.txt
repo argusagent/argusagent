@@ -7,9 +7,35 @@ Type: short
 Duration: 1:01 (61s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 27
+Transcript characters: 949
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Out of everything reporting this week,
+[00:01] what is the one earning announcement
+[00:03] that you're most excited about?
+[00:05] >> Well, you know, well, we had Coherent
+[00:07] this morning, okay? And that came out
+[00:10] better than expected. They beat, but the
+[00:12] stock is down cuz
+[00:14] it got hit with profit taking, but I'm
+[00:16] very happy with everything it did. I
+[00:17] think this the one stock that I'm most
+[00:20] excited about is one that was in the
+[00:22] doghouse. It was CECO, and they are up
+[00:26] sharply. Just so you know, they
+[00:29] beat analyst expectations by almost
+[00:31] 200%, and they have a big order backlog.
+[00:35] So, I'm pretty happy with CECO, and they
+[00:37] gapped up as I talked to they gapped up
+[00:39] 14%. So, it just shows that earnings
+[00:42] work, but even when you surprise, you
+[00:44] have to buy that good guidance. The
+[00:46] order backlogs for all these companies
+[00:48] is becoming a big big deal. So, not only
+[00:51] must you beat, guide higher, then you
+[00:54] must also say my order backlog's getting
+[00:56] bigger. And that's CECO's big order
+[00:59] backlog result in great quarterly
+[01:01] results.

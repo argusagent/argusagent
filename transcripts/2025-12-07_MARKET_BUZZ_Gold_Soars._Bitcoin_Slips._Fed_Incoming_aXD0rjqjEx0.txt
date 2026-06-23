@@ -7,9 +7,642 @@ Type: video
 Duration: 23:20 (1400s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 634
+Transcript characters: 19546
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The market is still rippling. Earnings
+[00:02] continue to surprise and we've got a
+[00:04] packed lineup from Fed to gold versus
+[00:06] Bitcoin to some big names reporting this
+[00:08] week. Let's get right into it. Welcome
+[00:10] back to Navellier Market Buzz.
+[00:21] >> [music]
+[00:25] >> So Dad, the market keeps surging and the
+[00:27] Santa Claus rally is strong with sales
+[00:29] up 8.2% earnings up 16.5%
+[00:33] and a 9.6% surprise rate. Can things get
+[00:37] even better? Well, based on positive
+[00:40] analyst revisions and guidance from
+[00:42] companies, yes. So, just for the record,
+[00:44] that was the strongest sales in 3 years.
+[00:48] The strongest earnings in 4 years.
+[00:51] The biggest surprises in 4 years.
+[00:54] But the companies have guided higher and
+[00:57] analysts are revising estimates higher.
+[00:59] That's why we're rallying right now.
+[01:01] Because it's kind of a quiet time of
+[01:03] year.
+[01:04] But the analysts got caught behind, you
+[01:06] know, and they have to start revising
+[01:08] their estimates higher and that's
+[01:10] creating buying pressure underneath the
+[01:12] stocks.
+[01:13] Plus, you know, we had that January
+[01:15] effect the days before Thanksgiving,
+[01:17] early January effect.
+[01:19] And that means we're going to get a real
+[01:20] January effect and so normally we
+[01:22] meander higher in December. The last 10
+[01:25] days of December are actually the
+[01:26] strongest. I believe you're you're going
+[01:27] to be showing a bespoke chart. It
+[01:30] illustrates that historically.
+[01:32] But yeah, I'm I'm pleasantly surprised
+[01:34] cuz often we get profit taking in early
+[01:36] December and we're off to a very strong
+[01:38] start this month. And let's just clear
+[01:40] something up right now. No one should be
+[01:42] selling.
+[01:42] >> No, unless you have to pay taxes or
+[01:45] you know, want to gift. Uh
+[01:47] A lot of people gift. People I'm
+[01:49] supposed People my age are supposed to
+[01:51] gift to you, you know. But no, it's lock
+[01:54] and load time. If they do want to sell,
+[01:56] I would recommend
+[01:58] or they cuz they need cash or whatever,
+[01:59] I would recommend maybe the first week
+[02:01] of February. Cuz usually we get some
+[02:04] consolidation then. But we'll have
+[02:06] another big earnings surge to drive the
+[02:09] stocks higher and that's really what's
+[02:11] going on. We use your stock grader and
+[02:13] eight-factor model for basically every
+[02:16] one of these videos and you just did a
+[02:19] backtest. Can you talk a little bit
+[02:20] about that?
+[02:22] We
+[02:23] do a backtest of stock grader and
+[02:24] eight-factor fundamental model at the
+[02:26] end of each quarterly earning season.
+[02:28] So, end of May, end of August, we just
+[02:30] did one in November.
+[02:32] In the last couple quarters, the results
+[02:34] have surprised me.
+[02:35] Because the market isn't broadening out,
+[02:37] it's getting more narrow.
+[02:39] So, the quantitative grade on stock
+[02:41] grader, we can buy in the top 10%.
+[02:44] That's essentially the A's and the A
+[02:46] pluses. Previous quarter was top 25. In
+[02:48] the eight-factor fundamental model, we
+[02:50] can only buy the top 10%. Previous
+[02:52] quarter was top 15.
+[02:54] So, we've got more narrow. What also
+[02:56] showed up in the backtest
+[02:58] is some of the F stocks which are
+[03:00] normally poor did well cuz of short
+[03:03] covering rallies.
+[03:04] So, a short covering rally is not a
+[03:07] sustainable rally. When those kind of
+[03:08] stocks rally, then the stocks will have
+[03:11] to consolidate.
+[03:13] So, I think you'll see some churning
+[03:15] moving ahead and it's all based on
+[03:17] analyst estimates.
+[03:19] And if the analysts start to continue to
+[03:21] revise estimates higher, those stocks
+[03:22] will be rewarded.
+[03:24] Um otherwise, the low stocks will be
+[03:27] back in the filling. So, it's still a
+[03:29] very narrow market. Still a very AI and
+[03:32] gold driven market.
+[03:34] There exceptions like Eli Lilly broke
+[03:36] out, you know.
+[03:38] Um
+[03:38] But um
+[03:40] Yeah, the the bigger getting bigger and
+[03:43] we got on the creme de creme.
+[03:44] >> I'm glad you mentioned gold and we've
+[03:46] been talking about gold stocks for quite
+[03:48] a bit. Right now, year-to-date, it's 59%
+[03:51] up while Bitcoin is down about 3%. So,
+[03:54] is gold becoming the preferred currency?
+[03:58] Well, it is for the central banks. The
+[03:59] central banks are buying gold to give
+[04:01] them more credibility.
+[04:03] Cuz most central banks don't have
+[04:05] credibility now. A good example is the
+[04:07] Bank of Japan is now struggling because
+[04:09] the the new Prime Minister is going to
+[04:11] spend a lot of money
+[04:12] and it's going to basically neuter the
+[04:14] Bank of Japan.
+[04:15] So, if they buy more gold, they'll have
+[04:17] more credibility. Same thing with the
+[04:19] Bank of England. Akshata Murty
+[04:21] basically chased some of the wealthy out
+[04:23] of Britain with the tax increases and
+[04:25] now they don't have enough money for
+[04:27] their budget, so they're raising taxes
+[04:29] on the
+[04:30] on the middle class and they're even
+[04:32] going to have a mileage tax in Britain.
+[04:36] Doesn't kick in, I think, till 2027, but
+[04:39] the bottom line is you'll be taxed for
+[04:41] how many miles you drive on the highway.
+[04:42] So,
+[04:46] um
+[04:47] I you know, there's a thing called bond
+[04:49] vigilantes out there.
+[04:51] And if the bond vigilantes think that
+[04:54] the government is mismanaged and won't
+[04:56] be able to pay their debt, they do
+[04:57] punish those government bonds. So, these
+[05:00] governments are held hostage to these
+[05:02] people right now. So, we'll
+[05:04] we'll see what happens. But the US is in
+[05:07] in such better shape than everybody
+[05:08] else.
+[05:09] Because we're growing when everybody's
+[05:11] stagnant.
+[05:13] Uh you know, China's going to have to
+[05:14] devalue its currency. Their rates are
+[05:15] below Japan. And although we'll be
+[05:17] lowering rates, we're going to lower
+[05:19] rates slower than everybody else. And
+[05:21] and so I'm expecting the dollar to get
+[05:24] strong and the US to be an oasis. The
+[05:27] other thing is the US is demographically
+[05:28] stronger. We're younger than a lot of
+[05:30] these other countries in Asia, northern
+[05:32] Europe. And we are still creating
+[05:34] households and we also we do assimilate
+[05:35] our immigrants.
+[05:37] Of course, President Trump wants
+[05:38] immigrants to have green cards and all
+[05:40] that stuff and work permits.
+[05:42] But that's really the only change.
+[05:45] So, I'm not worried at all, but
+[05:49] everybody else is and that's why gold's
+[05:51] doing so well.
+[05:52] Gold buying was up 41% in January, 25%
+[05:56] February. It's been strong all year
+[05:58] long.
+[05:59] And uh became buy gold at Costco now.
+[06:02] Physical gold is turned out to be a
+[06:04] great investment and I
+[06:07] you know, you got to decide you you want
+[06:09] to lose 3% on Bitcoin or do you want to
+[06:11] make 59% on gold? To me, that's it's
+[06:14] pretty simple. So, I think a lot of the
+[06:16] crypto people will naturally um
+[06:19] follow the central bank buying pressure
+[06:21] and and gravitate to gold. Now, I know
+[06:23] that a lot of people watch Joe Rogan's
+[06:25] podcast, but recently the founder of
+[06:28] Nvidia was just on the show. What stood
+[06:30] out to you from that interview? Well, I
+[06:32] I love
+[06:33] Jensen, the founder of Nvidia. I guess
+[06:36] you could say I have a man crush on him.
+[06:38] Um
+[06:40] You know, I I think on Wall Street you
+[06:42] have to bet on some of these
+[06:43] billionaires. So, I bet on Jensen. I'm
+[06:46] grossly overweight in Nvidia stock.
+[06:48] I've also
+[06:50] bet on Alex Karp, who's
+[06:53] Palantir Technologies CEO.
+[06:56] And um
+[06:57] I just think when you listen to Jensen
+[07:00] talk, he is very thorough, very
+[07:03] innovative, very honest.
+[07:06] And he deserves everything he's gotten
+[07:08] because
+[07:10] he created chips that no one understood
+[07:12] why they have to have these
+[07:15] graphic processing units and
+[07:17] he would It was funny on Joe Rogan, he
+[07:20] announced when he upgraded the chips
+[07:22] these new designs and no one understood
+[07:24] what he was doing and actually hit the
+[07:26] stock for a while. Even I got out. You
+[07:28] know, we made over 1,000% in Nvidia a
+[07:30] long time ago and we got out, but we've
+[07:33] been in it and we're now well up over
+[07:35] 4,000% and um
+[07:38] I I I'm I'm very comfortable and
+[07:40] confident in Nvidia's dominance will
+[07:42] continue even as they get into quantum
+[07:44] computing cuz
+[07:45] they have a quantum computing simulator,
+[07:47] they had a quantum computing contest,
+[07:49] but he's a very thoughtful very
+[07:52] great CEO.
+[07:54] There's also
+[07:56] the start of the interview,
+[07:58] there was some insight into um
+[08:01] uh when he met
+[08:03] with the Trump administration and um
+[08:06] Howard Lutnick, our Commerce Secretary,
+[08:09] made it clear that they felt that Nvidia
+[08:12] was a treasure of of America.
+[08:15] And anything he wants, just Howard gave
+[08:17] him his card and said, "You call me and
+[08:19] I'll get in touch with the president for
+[08:20] you." And so far, his relations with the
+[08:23] Trump administration have been very
+[08:24] good. Now, Jensen, of course, wants to
+[08:26] sell chips in China. He thinks um
+[08:28] China's still going to dominate AI long
+[08:29] term and obviously he's going to try to
+[08:32] get permission to
+[08:33] sell some type of chip in China when
+[08:36] President Trump allows it. The Biden
+[08:38] administration had made him redesign the
+[08:40] chips for China, basically slow down the
+[08:42] bus of the transfer rate of data.
+[08:45] So, um
+[08:46] he's There's a lot of potential
+[08:48] expansion in Nvidia
+[08:50] because their forecasts and sales and
+[08:52] earnings don't include
+[08:54] China sales. And when those China sales
+[08:56] get approved, they'll they'll be doing
+[08:57] pretty good.
+[08:58] >> Now, I know that there's been some
+[08:59] flirting on whether or not the Fed is
+[09:01] going to cut on December 10th, but what
+[09:03] is the latest insight regarding that?
+[09:05] Well, we had an ADP payroll report and
+[09:08] it showed that um
+[09:11] we
+[09:12] we lost jobs in November, but October
+[09:16] was was revised up.
+[09:18] So, it was kind of a wash, but the
+[09:21] bottom line we lost jobs.
+[09:23] Now, there's new claims for unemployment
+[09:25] coming out, they're still very very low.
+[09:27] So, it's still a very stagnant job
+[09:29] market and Fed will have to react to
+[09:31] that.
+[09:32] And I think the other reason the Fed
+[09:34] needs to cut rates other than the the
+[09:36] employment data is the
+[09:39] the cause of our inflation was called
+[09:41] owner's equivalent rent, shelter costs.
+[09:44] We've had lots of evidence that's gotten
+[09:46] so much softer.
+[09:48] And so, we may be teetering on
+[09:51] deflation.
+[09:52] We obviously have very low energy prices
+[09:55] and so, it's it's going to be very
+[09:57] interesting. I I think the Fed is behind
+[10:00] and I think they need to not only cut on
+[10:03] December 10th, they need to continue to
+[10:04] cut.
+[10:05] We should be getting a guidance from the
+[10:07] Fed. They usually have a dot plot. I
+[10:09] think I believe it's due on December
+[10:10] 10th.
+[10:11] And then we'll see what the rest of the
+[10:12] committee says.
+[10:14] But the the big news of course for the
+[10:16] Fed is that
+[10:18] President Trump has picked the Federal
+[10:20] Reserve Chairman.
+[10:21] He will not be announcing it until
+[10:23] January cuz it's a big deal that
+[10:24] announcement. And he doesn't want to
+[10:27] announce it in the holidays cuz no one
+[10:28] will be paying attention.
+[10:30] But start the new year, he's going to
+[10:31] announce it.
+[10:33] The new pick has to get
+[10:35] um
+[10:37] uh congressional approval and we all
+[10:39] think it's Kevin Hassett because uh it
+[10:42] was just reported that the Trump
+[10:44] administration is considering Scott
+[10:45] Bessent
+[10:47] to take over the Council of Economic
+[10:48] Advisers that Kevin Hassett is is that's
+[10:50] his current job. So Scott Bessent will
+[10:53] have two jobs, Treasury Secretary
+[10:55] Council of Economic Advisers. I think
+[10:57] people have to realize there's a very
+[11:00] good team behind President Trump. I love
+[11:03] not only Kevin Hassett who's a happy
+[11:05] positive person, Howard Lutnick is a
+[11:07] cheerleader for America as are most
+[11:09] commerce secretaries, but Howard's more
+[11:11] gregarious and outgoing.
+[11:13] And then Scott Bessent's amazing. He
+[11:15] fixed everything Janet Yellen screwed
+[11:17] up.
+[11:19] And we've showed charts that if you
+[11:20] invested in a
+[11:22] um
+[11:23] uh the iShares 20 plus your Treasury ETF
+[11:26] you lost 43% in the past 5 years because
+[11:29] the long end of the Treasury curve was
+[11:31] oscillating and causing
+[11:34] l- um losses for people and uh
+[11:38] he fixed that and the yield curve went
+[11:40] from inverted to normal.
+[11:42] Uh so there's a very good team uh behind
+[11:44] uh President Trump and in Scott Bessent
+[11:47] we trust uh
+[11:49] in Kevin Hassett I trust and again
+[11:51] Howard Howard Lutnick is a very good
+[11:53] cheerleader. There's still a couple of
+[11:55] earnings ahead. Let's talk about Toll
+[11:57] Brothers. Is the luxury housing boom
+[11:59] still alive?
+[12:00] >> Not really. Toll Brothers is better than
+[12:03] most home builders because they sell um
+[12:07] to retirement communities and there's
+[12:08] more cash sales, okay? And uh so they're
+[12:11] in in better shape than some of the
+[12:13] other home builders who are dependent
+[12:14] upon financing.
+[12:16] So here's what's supposed to happen with
+[12:18] Toll Brothers. Their sales are forecast
+[12:19] to decline
+[12:21] .5%.
+[12:23] Their earnings um
+[12:25] are supposed to be pretty flat.
+[12:28] The analyst community uh has been held
+[12:30] pretty steady with their estimates.
+[12:32] And Toll Brothers has surprised the last
+[12:35] couple of quarters although they missed
+[12:37] a three quarters ago. But um this is the
+[12:39] best of a bad sector.
+[12:41] So I would hope that Toll Brothers would
+[12:44] would continue to surprise and provide
+[12:45] some positive guidance. Cuz they really
+[12:47] need that in the housing industry.
+[12:50] It's um it's really pretty dire out
+[12:53] there for outside of luxury homes so
+[12:55] that Toll Brothers builds.
+[12:56] >> Now for AutoZone, with people keeping
+[12:58] cars longer, do they crush expectations
+[13:01] again?
+[13:01] >> AutoZone um used to have a wonderful
+[13:04] earnings surprise history.
+[13:07] But unfortunately they've missed the
+[13:08] past four quarters.
+[13:10] So that's gone and but their sales are
+[13:12] supposed to be up 8.5%
+[13:15] um earnings are should be up slightly.
+[13:19] But analysts are trimming their
+[13:20] estimates and that's not a good sign.
+[13:23] So
+[13:25] I've lost some confidence in AutoZone uh
+[13:27] in the past they also used to buy a lot
+[13:29] of their stock back.
+[13:31] And um
+[13:32] and I think they were manufacturing a
+[13:34] lot of their earnings surprises with the
+[13:36] low stock buybacks.
+[13:38] So this is still a great company. I wish
+[13:40] them well.
+[13:41] But uh it's because the analysts have
+[13:43] trimmed the estimates and it's had a
+[13:44] poor earnings surprise history
+[13:46] I don't have a lot of faith in it right
+[13:48] now. And for Adobe, can they prove
+[13:50] they're still the king in the AI-powered
+[13:52] creative world?
+[13:53] >> Yeah, they are. Uh this is a monopoly
+[13:56] and I like monopolies. Adobe is a stock
+[13:58] that's beaten the past four quarters.
+[14:01] Their sales are supposed to be up 9%.
+[14:04] Their earnings are supposed to be up
+[14:05] 12.2.
+[14:07] Uh and the analysts have revised their
+[14:10] earnings estimates slightly higher. So
+[14:11] Adobe looks pretty good.
+[14:13] The surprises have are small, but
+[14:15] they're consistent.
+[14:17] Now this stock is not strong enough for
+[14:19] me to recommend it cuz 12% earnings
+[14:21] growth isn't doesn't get me excited.
+[14:24] But um it's maintaining its monopoly. It
+[14:28] should surprise and it is a bellwether
+[14:30] stock.
+[14:30] >> Now for Oracle, does the cloud
+[14:32] transformation finally show in the
+[14:34] numbers? I hope so. You know, Oracle uh
+[14:37] surged um
+[14:38] when it had gave up beat guidance
+[14:41] and then it's been giving it back.
+[14:44] And um so we really need some evidence
+[14:48] that that guidance they provided last
+[14:50] quarter is coming to fruition.
+[14:53] Just so you know, the analysts are
+[14:54] expecting their sales to be up 15.2%.
+[14:57] Uh earnings are supposed to be up 11.3.
+[15:00] Um the analysts have revised their
+[15:03] estimates higher. So hopefully it
+[15:04] surprises. It's only surprised once in
+[15:07] the past four quarters. So I just think
+[15:09] Oracle has to be more upbeat with its
+[15:11] guidance and and then everything will be
+[15:12] fine. But yeah, the the stock has after
+[15:15] it gapped up and the short sellers try
+[15:16] to pick on it. So um hopefully it will
+[15:20] it will be fine. We should also mention,
+[15:22] you know, you're in at our house in
+[15:23] Florida and that's uh
+[15:25] Larry Ellison is our neighbor down the
+[15:27] street. So he's the chairman of Oracle.
+[15:28] So I I I want him to do well cuz I I
+[15:32] want to compliment Larry if I run into
+[15:33] him. Okay.
+[15:35] Now with AI demand exploding
+[15:37] is there another beat coming for
+[15:39] Broadcom?
+[15:40] >> Yeah. They have a good earnings surprise
+[15:41] history so I expect them to beat. Uh
+[15:43] just so everybody knows
+[15:45] analysts are forecasting that their
+[15:47] sales will be up 24%.
+[15:49] Um earnings are forecast to two
+[15:53] rise 31.7%
+[15:55] and steady with their estimates. I don't
+[15:57] really have any criticism Broadcom
+[15:59] except their earnings surprises are very
+[16:02] tiny.
+[16:03] But they're good. They're consistent.
+[16:05] So I personally would like them to
+[16:06] surprise a little bit more, maybe give
+[16:08] some better guidance.
+[16:10] But um this is a very solid and
+[16:12] relatively safe stock.
+[16:13] >> Last but not least, Costco. Are we going
+[16:15] to get another classic Costco beat?
+[16:18] >> Yeah, we should.
+[16:20] For disclosure, Costco is is a our
+[16:22] holding in our managed accounts. Your
+[16:24] mom owns it personally.
+[16:25] A lot of it by the way.
+[16:28] They had a huge beat in the previous
+[16:29] quarter. Here's what
+[16:32] uh the analysts were expecting uh
+[16:39] sales to be up 8.1. That's excellent.
+[16:42] Earnings are supposed to be up uh
+[16:44] 5.9. They'll probably beat.
+[16:47] There've been no change in analysts'
+[16:48] estimates and Costco is one of these
+[16:50] stocks where the
+[16:52] earnings surprises are uh minor, okay?
+[16:56] Here's the deal. Costco, you know,
+[16:58] actually fell on our quantitative
+[16:59] ranking.
+[17:01] Uh but I held on to it cuz the
+[17:02] fundamentals are so good. And that
+[17:04] happened with with me with Lilly.
+[17:07] It got weak quantitatively, but
+[17:09] fundamentally good and I held I stuck
+[17:11] with Lilly and it I got rewarded for it.
+[17:13] Cuz it's looking a lot better now.
+[17:15] So I'm expecting the same thing from
+[17:18] Costco.
+[17:20] The issue with Costco is
+[17:22] uh first of all, they're major gasoline
+[17:24] retailer. They have a lot more of their
+[17:25] own brands now, the Kirkland brands.
+[17:28] I mean they you know, they have Kirkland
+[17:30] golf balls, Kirkland uh
+[17:32] uh golf clubs. I think they have
+[17:33] Kirkland olive oil, you know, Kirkland
+[17:36] wine.
+[17:38] >> [gasps]
+[17:38] >> If anything you want as long as it says
+[17:40] Kirkland on it now. And um
+[17:43] but consumers will spend when it's
+[17:46] priced right.
+[17:49] And um
+[17:51] one of the new things that's happening
+[17:53] is
+[17:55] TVs are getting cheaper because there's
+[17:58] this company called TCL in China that
+[18:00] built the world's biggest factory for
+[18:02] micro LED TVs which are really high-end
+[18:05] TVs. The high-end Sonys are micro LED.
+[18:07] And you can buy a 98 TV at Costco for
+[18:10] $1,600 at Best Buy. Uh because of the
+[18:12] price match. It's 98 inches. It's huge.
+[18:15] It's heavy.
+[18:16] And they've got other great buys there
+[18:18] too. OLED TVs and things like that. So
+[18:22] you know,
+[18:23] you know, Costco generates traffic. And
+[18:26] I personally like Costco
+[18:28] cuz it's catering to more affluent
+[18:30] wealthy people, what we'll call the
+[18:31] K-shaped recovery, more boomers.
+[18:34] So I'm I'm expecting good things from
+[18:36] them.
+[18:37] But um we'll find out and but so far so
+[18:40] good because they print out sales and
+[18:42] same store sales and they were better
+[18:44] than expected.
+[18:45] >> Now let's move on to some subscriber
+[18:46] questions. Can you talk about Royal
+[18:48] Caribbean? Uh I own that stock. I'm on a
+[18:51] cruise ship now. I'm on the Forbes
+[18:52] cruise.
+[18:54] I'm in the cruise ship library. Um we're
+[18:57] parked.
+[18:59] But Royal Caribbean sales are supposed
+[19:01] to be up 13.7%.
+[19:03] Their earnings are forecast to go up
+[19:05] 70.9%.
+[19:08] Big big earnings surprise. Analysts have
+[19:10] trimmed estimates slightly, but it has a
+[19:11] very good earnings surprise history.
+[19:14] So uh
+[19:16] yeah, it's uh
+[19:18] it's a solid hold.
+[19:20] Not every stock has 70.9% forecast
+[19:23] earnings growth. So that's why I don't
+[19:25] sell stocks even if they burp a little.
+[19:28] And Royal Caribbean's a core holding of
+[19:30] mine.
+[19:30] >> Can you compare PSTG to SMCI?
+[19:33] >> Uh it's similar because um
+[19:37] it missed in its recent quarter as did
+[19:39] SMCI, but then SMCI guided higher.
+[19:43] So here's where we are with um
+[19:45] Pure Storage um PSTG.
+[19:48] Their sales are supposed to be up uh
+[19:51] 17.3%
+[19:54] Their earnings is supposed to be up 43.
+[19:56] uh
+[19:57] 5
+[19:59] The analysts have revised their earnings
+[20:01] estimates slightly higher.
+[20:03] So, it looks pretty good except they
+[20:06] missed last quarter, but before that
+[20:07] they had three beats in a row.
+[20:09] So, Pure Storage um
+[20:12] is
+[20:13] is doing good. SMCI doesn't look that
+[20:16] strong as far as earnings growth is, but
+[20:18] their sales growth is spectacular.
+[20:20] So, the the the deal with SMCI is the
+[20:23] 5-year order back.
+[20:25] And and customers trying to upgrade to
+[20:27] the um
+[20:28] Blackwell chips. And of course, next
+[20:30] year we'll have a a new chip um starting
+[20:32] up in 2026. SMCI is one of Nvidia's
+[20:35] biggest customers, so I'm sticking with
+[20:37] it and you know, because we're up 700%
+[20:39] we don't want to
+[20:40] pay the capital gains.
+[20:41] So, uh
+[20:43] we're going to stick it out with SMCI,
+[20:44] but Pure Storage is uh
+[20:46] is on the radar and is up and coming and
+[20:48] would be in our portfolios had they not
+[20:50] missed last quarter, but
+[20:53] I have hope for them. You were bullish
+[20:55] on PSIX recently. What happened to that
+[20:57] stock? It's just a small cap that got
+[20:59] hit with profit taking in the uh
+[21:02] data center correction. Uh their sales
+[21:04] are supposed to be up 11.4%.
+[21:07] Uh the analyst community has revised
+[21:09] their estimates higher. Last quarter it
+[21:10] had a 22.5% surprise.
+[21:13] So, I'm expecting great things from
+[21:15] PSIX.
+[21:17] It is a funny stock that likes to sit
+[21:19] and likes to
+[21:20] And lastly, housing feels frozen with
+[21:22] high prices, high rates, builders
+[21:25] discounting. Does that push the Fed
+[21:27] toward more cuts? Yeah, the Fed has to
+[21:29] probably cut
+[21:31] at least three times. They have to go
+[21:33] from restrictive, which they are now, to
+[21:35] neutral.
+[21:37] And I think it's going to take three
+[21:38] cuts.
+[21:39] So, um and you know, there's no reason
+[21:42] for them to be restrictive on the
+[21:44] economy.
+[21:45] You know, we we need the job growth. We
+[21:47] don't have the inflation out there. We
+[21:49] are going to have a 5% GDP growth next
+[21:51] year without a lot of inflation.
+[21:53] So, the Fed might as well just join the
+[21:55] party and
+[21:56] help facilitate this incredible rally.
+[21:59] And that's going to be the big
+[22:00] difference between Kevin Hassett Hassett
+[22:01] and Trump. Well, thank you so much for
+[22:03] answering all my questions and thank you
+[22:04] to you all for asking such amazing
+[22:06] questions. Dad, enjoy the cruise. Thank
+[22:09] you all so much for watching. Please
+[22:10] give this a like and subscribe if you
+[22:12] haven't already and we will see you all
+[22:13] next week for a new video.
+[22:24] >> [music]

@@ -7,9 +7,548 @@ Type: video
 Duration: 19:07 (1147s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 540
+Transcript characters: 18974
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] We've had too much fun too fast and the
+[00:02] S&P just hit its 15th record high this
+[00:05] year. And when things get good this
+[00:07] quickly, you have to wonder, are we
+[00:09] overheating? So, we brought back one of
+[00:11] our favorite technical experts to help
+[00:13] us figure that out. We are thrilled to
+[00:16] have Tammy Marshall, the Fibonacci
+[00:18] Princess, back with us to make sense of
+[00:20] where we are in this rally. Tammy, it is
+[00:23] so great to have you back.
+[00:24] >> Hey Krystal, thank you so much for
+[00:26] having me again. Lou Ann Krystal, I'm so
+[00:28] glad to be here.
+[00:29] >> Tammy, we really are excited to have you
+[00:31] back on Market Buzz because CNBC the
+[00:33] other day reported that only 22% of the
+[00:36] stocks in the S&P 500 are actually being
+[00:38] in the index. Should just work tell us
+[00:40] about the market right now as it seems
+[00:42] to be getting more narrow
+[00:44] as we go higher. We are so extremely
+[00:46] extended. What I'm showing you here is
+[00:48] the SPX cash monthly chart. Now, I don't
+[00:51] use overnight data, so you know, since
+[00:53] we are recording pre-market,
+[00:56] this is
+[00:58] the close as of yesterday.
+[01:01] But we are approaching that second
+[01:04] target. This is a monthly chart. Okay,
+[01:06] the first target was 7188,
+[01:09] which is where I expected a a pullback.
+[01:11] And if you look here on the daily chart,
+[01:13] I still have their target one.
+[01:16] And that was off of the 30th of March
+[01:20] low. We have way surpassed that at this
+[01:23] point. When we did get around it, we did
+[01:26] get a little pullback and I was looking
+[01:28] for us to have a bigger pullback than we
+[01:30] had, but we have continued this
+[01:33] basically insane rally up. We are
+[01:37] approaching that second target, which is
+[01:40] at 74.
+[01:41] Like I said, we are very extended in
+[01:43] this market. I keep saying, "Hey, trail
+[01:45] up those stops and lock in those
+[01:47] profits." But we just continue to go. As
+[01:49] on Nasdaq cash, same story. Very
+[01:52] extended. We've actually met both of the
+[01:54] targets on Nasdaq cash. So, now I have
+[01:57] some symmetrical projections where the
+[01:59] move may stop. A 28,852 to 97 is where
+[02:03] we failed from. And then IWM, same
+[02:05] story. We're very extended here. We've
+[02:08] met the first target extension off that
+[02:10] 30th of March low. The tech second one
+[02:12] is at 291. You know, I would add that
+[02:15] this is was a weird earning season
+[02:17] because it took off before the earnings
+[02:20] commenced and the analyst revisions to
+[02:23] the upside were the strongest in 5
+[02:24] years. And this earning season is
+[02:26] definitely the strongest in over 20
+[02:28] years. You know, the S&P earnings are
+[02:29] going to be up over 20. And Nvidia used
+[02:32] to be the grand finale, but I think
+[02:33] Micron will be the even a bigger
+[02:35] exclamate. It's going to be interesting.
+[02:37] How much do you think we have to
+[02:38] retrace? Do we have to get back 5, 6,
+[02:41] 8%? Do you have any idea? Well, I'll
+[02:42] tell you what I do is I look at previous
+[02:44] swings in the market. And as you can see
+[02:46] there on the 4th of May, I did have us
+[02:50] pull back into symmetrical support
+[02:52] around that 71-72 area. So, what I do is
+[02:56] say that the high is in place from
+[02:58] today, which looking at my overnight ES
+[03:00] charts, we're almost up to retesting
+[03:03] that high from yesterday on ES. But, if
+[03:06] the high is in place of 7385,
+[03:09] what I do is I go and I look at all of
+[03:11] these previous swings that we've had and
+[03:14] I say, "Well, maybe we can find support
+[03:16] here." But, I'll be honest with you.
+[03:18] What I would personally like to see is I
+[03:20] would like to see a nice pullback to
+[03:22] maybe around the 50 SMA, which would get
+[03:24] us back to around 6850 just to be able
+[03:27] to have that big flush for us to feel
+[03:30] really comfortable about getting bullish
+[03:32] again. But, you know,
+[03:33] I don't want to keep anybody from
+[03:34] getting bullish just because we're
+[03:36] extended because the thing is is we saw
+[03:38] this last year. We kept wanting for
+[03:40] there to be a even bigger pullback than
+[03:42] what we got February to to April. But,
+[03:45] we never got that and we just continued,
+[03:47] you know, to go back up. So, I would
+[03:50] say, you know, stay bullish. Be sure to
+[03:52] define your risk, make sure you know
+[03:55] where you're wrong. That's what my work
+[03:57] helps people do is say, "Hey, this is
+[03:59] where I'm wrong." And right now, like I
+[04:01] said, if that high is in place from
+[04:02] yesterday, what I'm looking for for
+[04:04] price support on SPX would be about 7279
+[04:07] to almost 7300 just with a lot of those
+[04:10] previous swings we've seen. Uh in a
+[04:12] previous episode of Market Buzz, we were
+[04:14] discussing how we think it's maybe 10:00
+[04:17] at the party. I guess we want to know
+[04:19] when's it going to be 1:00 a.m. and All
+[04:21] the good wine has been served at this
+[04:23] party, right? Okay. That's the way we
+[04:25] feel at this point. When does everybody
+[04:27] get in the club and then they get tired
+[04:29] and pass out, right? I'm there. I'm
+[04:31] there. We've overstayed our welcome at
+[04:33] this point. So, Tami, help me out.
+[04:35] Historically, does the market usually
+[04:37] get this concentrated right before it
+[04:39] rolls over and corrects? Yes. I mean,
+[04:42] historically, right? That's That's why
+[04:43] we say many moves tend to terminate at
+[04:45] extensions of previous swings. And a lot
+[04:47] of people use Fibonacci work. It's at
+[04:49] this point it works in spite of itself
+[04:51] cuz so many people use it. But, when you
+[04:54] get up to those 1 2 7 2 extensions, 1 6
+[04:57] 1 8, yes, you're getting extended and
+[04:59] it's time to take profits and look for
+[05:02] pullback in order to continue the move
+[05:04] up.
+[05:05] >> So, Tami, one of the frustrating things
+[05:07] for me is our friends at Bespoke
+[05:09] documented that the positive earnings
+[05:12] and the analyst revisions were only
+[05:14] really in three sectors, which was
+[05:16] energy, utilities, and tech. And the
+[05:19] other seven sectors in the S&P were
+[05:21] pretty lackluster. So, do you see it
+[05:23] expanding to other sectors? I mean, I
+[05:25] know Lilly obviously had good earnings
+[05:27] and might help that sector, but there's
+[05:30] other things holding that sector back
+[05:32] like Pfizer and stuff. So, I mean, did
+[05:34] you I would hope the breadth and power
+[05:36] would would expand. I mean, GDP's going
+[05:37] to get better in the second quarter, so.
+[05:40] Well, I think what, you know, there's a
+[05:41] lot of people that are like, "Well, this
+[05:43] stock market's going straight up, but
+[05:44] some some these stocks are are not
+[05:46] participating." And I'm like, yeah, but
+[05:48] it could be a good opportunity. You
+[05:49] know, we've had this conversation before
+[05:51] where even good strong stocks have large
+[05:54] pullbacks. That is actually what I would
+[05:57] say would be a good idea here is if this
+[05:59] money starts flowing out out of some of
+[06:01] these stocks that are going straight up,
+[06:04] you know, that we've seen this is this
+[06:05] is Micron monthly chart. I
+[06:08] I've sold about half of my Micron, but
+[06:11] I'm still holding quite a bit of it, but
+[06:13] you know, getting up here on the 700
+[06:16] area, I mean, it's just been crazy. You
+[06:18] know, AMD the same way,
+[06:20] uh you know, Qualcomm. These stocks are
+[06:22] really strong, but you know, you say,
+[06:24] "Hey, listen, what about the other
+[06:26] stocks that are struggling?" I mean,
+[06:28] like Palantir. You know, I've got to
+[06:30] find risk around the 129 to 131 area on
+[06:34] a monthly chart here again, you know, we
+[06:36] had a really nice what I call a a
+[06:38] two-step pattern here that happened
+[06:40] around 116 to 23.
+[06:42] Lockheed Martin, okay, on a daily chart
+[06:44] looks terrible, but on a monthly chart
+[06:47] having a nice pullback around that 500
+[06:49] area, a huge cluster of Fibonacci
+[06:52] support. You know, these are the type of
+[06:53] things I like to look at when I see like
+[06:55] Raytheon. Raytheon's a great stock. On
+[06:58] the monthly chart, it's had a nice
+[06:59] pullback to that 170 area. Uh Home
+[07:02] Depot, Bristol Myers. Listen, Tractor
+[07:05] Supply Company. I mean, I want to bring
+[07:06] this one up because
+[07:08] uh you know, interesting side story. One
+[07:11] of our really good friends, they have a
+[07:14] farm up just outside of Atlanta and the
+[07:16] other day, unfortunately, an animal got
+[07:18] into their chicken coop and her
+[07:21] her oldest daughter, who's about nine,
+[07:23] takes care of the chickens and and
+[07:24] something got in there and took care of
+[07:26] all but one hen and one baby chicken and
+[07:29] uh
+[07:30] she she told her husband, "Oh my
+[07:32] goodness, she can't Jojo can't see
+[07:34] this." So, she she she had him watch the
+[07:37] children and he she ran to Tractor
+[07:39] Supply and and bought 80 baby chicks in
+[07:42] a box. So, Tractor Supply is not going
+[07:44] anywhere. The farmers are using Tractor
+[07:45] Supply, but it's having a giant
+[07:47] pullback. We're right around this 30
+[07:49] area. You know, you want to look for
+[07:51] stocks that pull back anywhere from 50
+[07:53] to 80% on a monthly chart. So, there's a
+[07:56] lot of good opportunities here that I'm
+[07:58] seeing in some stocks that are pulling
+[08:01] back in this bullish market.
+[08:02] >> We're having a spider outbreak here in
+[08:04] Florida, and our generator is full of
+[08:07] black widows. At least the generator guy
+[08:08] warned us about it. But I don't open it
+[08:10] very much, but I do know
+[08:13] when you have a spider problem that you
+[08:16] can get rid of them with chickens. I
+[08:17] don't know if I have a Tractor Supply
+[08:18] near me, but I'm probably near one.
+[08:20] >> You do.
+[08:21] There's got to be one over there around
+[08:22] there somewhere. [laughter]
+[08:23] Okay, well, I I I know we have lots of
+[08:25] chickens down in Miami, and they're
+[08:27] starting to disappear in Fort
+[08:28] Lauderdale, but uh
+[08:30] you know, I I just need them to hang out
+[08:32] here for a while, and and then I'm sure
+[08:34] the town will call me like, "What's
+[08:35] going on?" You know. Oh my gosh, dad.
+[08:37] >> Guineas will do that for you, too.
+[08:38] They'll clean up ticks, all kinds of
+[08:40] stuff.
+[08:41] Okay.
+[08:42] I didn't know you had a chicken farm.
+[08:46] Just ask Just ask the South Georgia
+[08:48] girl.
+[08:49] >> [laughter]
+[08:50] >> I know all about all these things.
+[08:52] I'm from a farm.
+[08:53] >> [laughter]
+[08:54] >> So, Tammy, it kind of looks like we
+[08:56] might be due for a breather here
+[08:57] eventually, but even with that said,
+[09:00] this year is off to such a strong start.
+[09:02] Are we looking at another 1999?
+[09:05] Possibly, you know,
+[09:07] I think it's definitely possible. Now,
+[09:09] that that's what I was looking I was
+[09:11] looking for. You know, when I was
+[09:12] looking at the SPX monthly chart, I was
+[09:14] looking for when we started pulling
+[09:17] back, I really wanted us to pull back to
+[09:22] around 5900, but we just didn't get that
+[09:25] pullback. We only pulled back to about
+[09:27] 6300. I'm looking for something like
+[09:30] that, you know, that 20 the 20 you know,
+[09:33] not necessarily 1999, but I was looking
+[09:36] at least to something that would make
+[09:38] sense in 2020 and 2022. And we just
+[09:41] didn't get that kind of pullbacks. So,
+[09:43] uh
+[09:44] I think we're all, you know, most people
+[09:47] out there that have been trading for a
+[09:48] very, very long time, we're all looking
+[09:51] for that big pullback that some of maybe
+[09:55] the younger traders have not
+[09:57] experienced. Um so, I don't think any of
+[10:00] us will be surprised when it does
+[10:02] happen. Well, you know, we have very fun
+[10:04] memories of '99. That was our best year
+[10:06] ever. We had a couple of portfolios up
+[10:07] over 100. But, um it's going to be
+[10:09] really interesting because the order
+[10:12] backlogs have at least for the data
+[10:14] centers. Emerging is almost a bigger
+[10:17] deal than the higher guidance. Um you
+[10:19] know, like Bloom Energy orders uh last
+[10:22] quarter were double their their sales.
+[10:25] So, the backlogs are just getting bigger
+[10:27] and bigger.
+[10:28] And you know, as we go into next year,
+[10:30] we're going to have tougher
+[10:30] year-over-year comparisons. But, I don't
+[10:33] know. Some of these order backlogs are 3
+[10:35] years out. It's just amazing. And then
+[10:37] Nvidia announced because of the war in
+[10:39] Reuben will be a full war next year
+[10:42] that their sales and earnings are
+[10:44] supposed to be up over 100% next year.
+[10:46] Even stronger than now. It's just
+[10:47] amazing that a company that size can
+[10:49] have accelerated sales and earnings
+[10:51] momentum. By the way, I did note that
+[10:53] apparently on the China trip Jensen's
+[10:55] going to be traveling with Trump. So,
+[10:57] he's you know, he's he's going to turn
+[10:58] that trip into US Chamber of Commerce. I
+[11:01] think the Exxon CEO's going to be on the
+[11:03] Air Force One and Jensen's going to be
+[11:05] on it. I guess they're going to be doing
+[11:06] Let's Make a Deal over there. But, it'll
+[11:07] be fascinating to watch. I'll tell you
+[11:09] this is this is amazing. And it's it's
+[11:12] fun while it lasts. And I I've had
+[11:14] explained to some clients that, you
+[11:17] know, this is not normal. Okay.
+[11:20] It's It's especially hard to explain to
+[11:22] them when 80% of the stocks are not
+[11:24] going up.
+[11:25] You know, and they're like, "Hey,
+[11:26] listen. The market's going straight up.
+[11:28] You know, why have
+[11:29] What's going on with this account?" And
+[11:31] it's like, well, not everything is going
+[11:33] straight up. So,
+[11:35] >> Yeah.
+[11:35] And I do want to ask you, Louie, because
+[11:37] you you know, you know a lot more about
+[11:38] fundamentals than I do. I'm I'm
+[11:40] definitely just a technical girl, which
+[11:42] is great because I work in an office
+[11:44] with my husband who's a fundamentals
+[11:45] guy. Thank goodness, you know, home
+[11:47] office. But, how do you think that um
+[11:50] you know, how they're basically
+[11:51] oversold, they don't have enough
+[11:52] product? How do you think that that's
+[11:54] going to affect uh AMD and Micron and
+[11:57] you know, those companies?
+[11:58] I I
+[11:59] That's for me, it's a signal that these
+[12:02] could roll over because demand is great,
+[12:05] but if you don't have the products, you
+[12:07] can't fill the demand. Yeah, well, AMD's
+[12:11] going to be making the low-grade AI
+[12:13] stuff. Um
+[12:14] we don't own AMD but obviously had a
+[12:16] spectacular quarter. But, you know, not
+[12:19] all AI has to be regenerative learning,
+[12:21] machine learning. That's what Nvidia
+[12:23] specializes in. We've had guests on that
+[12:25] do um There was a guy named Paul who his
+[12:27] company's called Natural Intelligence.
+[12:29] He just got bought out by a defense
+[12:31] contractor. He was basically building uh
+[12:34] like a smart Alexa in in consumer
+[12:36] devices. So, these machines learn who we
+[12:38] are, you know, like the new
+[12:39] refrigerators know when your food's
+[12:41] going bad, they see you drink a beer at
+[12:43] 5:00 every day, they'll say, "Hi, you
+[12:45] want a beer?" You know, and
+[12:47] >> Wow, that's amazing. So, you know,
+[12:50] because of Wi-Fi and everything, you
+[12:52] know, they're all studying us and
+[12:55] I I I think the AI Paul was doing was
+[12:58] it's kind of like our pets. Are we
+[13:00] training our pets or are they training
+[13:01] us, you know? So, there's going to be a
+[13:03] lot of low-grade AI kind of things going
+[13:05] on cuz you don't have to do machine
+[13:07] learning on everything. And but that
+[13:09] machine learning regenerative AI is what
+[13:11] Nvidia's thing is. But, going back to
+[13:13] Micron, you know, Micron has always been
+[13:16] a low PE ratio stock cuz the prices of
+[13:19] memory have been very volatile. Right
+[13:21] now, there's there's a shortage of
+[13:23] memory, so they have pricing power. And
+[13:25] they're the other building new plants
+[13:26] and all and uh going to be ramping up
+[13:28] production. So, I'm pretty comfortable
+[13:30] with Micron that they will have the
+[13:31] strongest sales and earnings of any
+[13:33] stock this quarter. And that will be the
+[13:35] grand finale. Uh but it just doesn't
+[13:37] carry the multiple. Uh you know, most of
+[13:39] my techs, even with say I mean something
+[13:41] like a Palantir and you know, I trade uh
+[13:44] right now with a rally I'm trading
+[13:46] barely 17 times forecasted earnings.
+[13:49] Now, Palantir would be a little higher,
+[13:50] but even if it is P/E ratio is not high
+[13:53] uh relative to earnings forecasted
+[13:54] earnings. It I don't think we're
+[13:56] fundamentally we're overbought at all.
+[13:58] It's just people finally realize that
+[14:01] some of these things just are perpetual
+[14:03] motion machines. It's I hate the
+[14:04] summertime, hate August, hate early
+[14:06] September. Very seasonally weak periods.
+[14:09] It's interesting how we can get through
+[14:10] that. I mean, I'm sure we'll be
+[14:11] correcting by then because the earnings
+[14:13] that are going to come out in in July
+[14:15] are going to be phenomenal. Then
+[14:16] everybody's going to disappear for the
+[14:18] summer and and we'll have the seasonal
+[14:19] weakness. So, I say that all the time
+[14:22] and and last couple August I've gone up,
+[14:24] so. Yeah, I I was going to say that's
+[14:26] the thing is that it it is usually
+[14:28] seasonally weak and we've been looking
+[14:30] for that and then it it hasn't happened
+[14:33] um you know, the last couple years, so.
+[14:36] It it's important to to warn our clients
+[14:39] uh from the bumps, you know.
+[14:40] >> Yeah, absolutely. There's a lot of greed
+[14:42] I've sensed. I've had people
+[14:44] not quite yell at me, but say, "What's
+[14:46] wrong with Nvidia?"
+[14:49] Uh you know, it's just hasn't announced
+[14:51] yet. Uh you know, it's still going
+[14:53] >> Well, Tesla's the same way. I mean, if
+[14:55] you look at Tesla, you know, this is my
+[14:57] Tesla chart. Yeah. You know, it it it's
+[15:00] it's not really doing much right now. I
+[15:02] mean, it it the yesterday it finally had
+[15:04] a new a great bounce. It uh was able to
+[15:07] get over that 200 SMA and what I'm
+[15:09] saying is I want to see that 400 day
+[15:11] area hold
+[15:13] in order for us to continue this move up
+[15:15] cuz that's where the 200 SMA is. Um I do
+[15:18] have some timing for a high and some
+[15:19] price resistance here, but uh you know,
+[15:21] Tesla's the same story. You know, it's
+[15:24] Oh, what's what's going on with Tesla?
+[15:26] Why isn't it going straight up? Well,
+[15:29] All I know is
+[15:30] they're they're stop making cars in one
+[15:32] factory to make Optimus model number
+[15:34] three or Model 3. So, but those all go
+[15:37] to the factory floor. I don't I don't
+[15:38] think they'll be in our homes anytime
+[15:40] soon. But, that's the ultimate goal. So,
+[15:42] we'll see if Elon can keep it up. So.
+[15:44] Well, Tammy, with everything you're
+[15:45] saying right now, what stocks do you
+[15:47] think are great buys right now? Well,
+[15:49] >> [sighs and gasps]
+[15:50] >> let's see. I actually think that Rocket
+[15:53] Lab is interesting. It's not near the
+[15:56] targets. The targets are 111 and 126.
+[15:58] And when I was on Charles Payne back in
+[16:00] December,
+[16:01] he actually asked me. He said, "Where do
+[16:02] you see Rocket Lab going?" And this was
+[16:05] back, you know, we were back kind of in
+[16:06] this area right in here. And I said, "I
+[16:09] see it going to 100." And it went to
+[16:11] 99.58.
+[16:12] So,
+[16:13] pretty close. Pretty close. Then we had
+[16:16] a really big pullback. I actually gave
+[16:18] price support on X um at Trader Tammy
+[16:21] one on X. And
+[16:23] uh it was support correlating with the
+[16:24] 200 SMA. It was a nice bounce from that
+[16:27] support. Then we came up to got a little
+[16:29] extended here. Now we're pulling back
+[16:31] again. And I do like uh if we include
+[16:34] that uh 50 SMA, the setup zone would be
+[16:37] 73 to 78
+[16:40] for Rocket Lab. I've actually owned this
+[16:43] one and added more, but I've actually
+[16:44] owned it since it was $5. So, it's been
+[16:46] a while, you know, I've added along the
+[16:47] way, but that was my initial buy. Also
+[16:49] like uh Sharp Ninja. Then they just had
+[16:52] good earnings and guided higher. It's
+[16:54] testing the 50 simple moving average
+[16:56] along with the 200 simple moving
+[16:58] average. So, what I would like to see is
+[17:00] uh this like 110 106 to about 11 area to
+[17:04] hold. That's defined Fibonacci risk.
+[17:07] What I mean by that is that you can put
+[17:09] your stop just underneath that. And if
+[17:11] the trade doesn't work, then you're able
+[17:14] to keep your losses minimal cuz that's
+[17:16] the key, right? Is keeping the losses
+[17:17] minimal, keeping the gains maximal. Um I
+[17:20] also like Monster Energy Drink. Um it
+[17:23] also is above the 200 and the 50 now.
+[17:26] Has some nice price support here. It's
+[17:29] uh what I would like to see hold here is
+[17:32] uh let's see, at least around this 73 to
+[17:35] maybe 75 area in order to continue the
+[17:37] move up cuz these are stocks that are
+[17:39] not extended yet, that look good, have
+[17:41] all the moving averages on the side of
+[17:42] the bulls, and have a lot of room to
+[17:45] run. I mean, the targets on
+[17:47] Monster Energy Drink are 91 and 97. I
+[17:49] can't even say that word, so don't laugh
+[17:51] too hard.
+[17:51] >> It's It's a great stock. It was our one
+[17:53] of our biggest winners ever. Awesome.
+[17:55] Don, it seems like you're really bullish
+[17:57] on the optical stocks. Can you share
+[17:58] which ones are recent buys?
+[18:01] Yeah, of course Corning had very good
+[18:03] earnings and acted very well. We don't
+[18:06] own Corning, but our favorites are
+[18:07] Ciena, c i e n,
+[18:10] and Ubiquiti, u i.
+[18:13] Uh both those have pulled back here
+[18:15] recently. So, when I get money to
+[18:17] invest, I wait for pullbacks. And those
+[18:19] happen to be two um AI-related stocks
+[18:22] that had recently pulled back. So, um
+[18:25] I I think that if you're looking for a a
+[18:28] near-term bargain, those are the two
+[18:29] that I came up with.
+[18:30] >> And Tammy, how does this kind of fit
+[18:32] with your thesis? Well, you know, of
+[18:35] course, I want to look for Fibonacci
+[18:36] support, and I just love that Louis
+[18:38] likes strong stocks that are having a
+[18:40] pullback because then you can define
+[18:42] your risk. Um the first level of risk I
+[18:44] have is 516, then the next level is
+[18:46] 507.08, and then underneath that is
+[18:49] around the 500 area for price support.
+[18:52] Thank you so much, Tammy, for joining us
+[18:54] today. And thank you so much for helping
+[18:56] us make sense of this crazy market that
+[18:58] we're in. As always, Tammy's links will
+[19:01] be in the description below. But again,
+[19:02] thank you so much, Tammy, for joining
+[19:04] us. Thank you for having me again. Thank
+[19:06] you, Tammy.

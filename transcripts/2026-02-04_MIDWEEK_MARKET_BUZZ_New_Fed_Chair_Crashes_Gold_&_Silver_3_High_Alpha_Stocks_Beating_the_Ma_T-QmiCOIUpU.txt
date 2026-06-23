@@ -7,9 +7,333 @@ Type: video
 Duration: 12:00 (720s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 325
+Transcript characters: 11795
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] A new Fed chairman nominee caused the US
+[00:02] dollar to firm up and trigger a sell-off
+[00:04] in gold and silver, but gold quickly
+[00:07] bounced back. We'll set the record
+[00:08] straight. Welcome back to Navier Market
+[00:10] Buzz. [music]
+[00:16] So, Dad, Kevin Worsh nomination
+[00:18] strengthened the dollar and triggered
+[00:20] gold and silver selloff, but gold
+[00:22] bounced right back. What happened?
+[00:24] >> Well, gold probably was due to burp, but
+[00:27] silver had a 30% correction. So that was
+[00:30] pretty violent. Uh I think a lot of that
+[00:32] was associated with the options and
+[00:34] leverage ETFs. But the main thing is
+[00:37] that Wall Street was expecting
+[00:40] a uh dovish nominee. Somebody they
+[00:43] somebody that would do whatever
+[00:44] President Trump wants him to do. And
+[00:46] Kevin Walsh is not that guy. He's Scott
+[00:49] Bessett's favorite. And he is a big Fed
+[00:51] critic. He's a specifically a critic of
+[00:54] quantitative easing, which is money
+[00:55] printing. And and just so everybody
+[00:57] knows, the government always prints a
+[00:59] certain amount of money. If you have 4%
+[01:01] inflation, they're going to print 5%
+[01:03] money. Uh they always print a little bit
+[01:04] more than inflation because you don't
+[01:05] want deflation. But um the bottom line
+[01:09] is he is well respected and he's not a
+[01:13] yes man, but he will shake up the Fed.
+[01:16] And um and Wall Street just had to sit
+[01:19] there and figure this out. And now that
+[01:21] they figured it out, we're getting back
+[01:23] to normal. And gold's had an incredible
+[01:25] rebound. silver will take a little
+[01:27] longer to get back to where it was. But
+[01:29] I'm not worried about Kevin Walsh. He's
+[01:32] again a very serious fellow. When he
+[01:34] goes in front of the Senate, he will not
+[01:36] be talking about cutting interest rates
+[01:37] appease President Trump. He'll be
+[01:39] talking about economic models and how
+[01:42] the Fed drives to the rearview mirror
+[01:44] too much and they got to fix their
+[01:45] modeling. And um these are things he's
+[01:48] openly criticized the Fed on before. So,
+[01:50] I think this is a good pick and
+[01:52] President Trump decide to pick the
+[01:55] weekend before uh before the Super Bowl
+[01:57] because the sports news was a little
+[01:59] soft to make this announcement. Uh he's
+[02:01] going to get bipartisan confirmation.
+[02:03] >> France's inflation just hit 4%. The
+[02:06] lowest in 5 years. So, is deflation
+[02:10] coming to Europe?
+[02:11] >> Unfortunately, it probably is. France
+[02:13] announced that their um deaths are
+[02:15] exceeding their bursts. So, that means
+[02:17] they're losing households. And um
+[02:19] anytime this happens to an economy, it
+[02:21] kind of goes into a tail spin. It's this
+[02:23] is what's happening in China. That's why
+[02:25] they have such hideous deflation. It
+[02:27] causes real estate prices to decline
+[02:29] unless they can get people making a
+[02:32] bunch of babies and creating more
+[02:34] households and let in immigrants that
+[02:36] assimilate. France is in a bit of a
+[02:38] death spiral right now. And um you know,
+[02:41] they can't pass a budget. Marie Le Pen
+[02:43] controls the parliament. the prime
+[02:45] minister is supposed to work on the on
+[02:46] the on the budget but they haven't been
+[02:48] able to do so. The pensions in France
+[02:50] are sacred and no one wants their
+[02:52] pension messed with but um the bond
+[02:55] vigilantes are watching France very
+[02:57] carefully. These are the big
+[02:58] institutional and international bond
+[03:01] investors. I think France is going to be
+[03:03] one of many countries in Europe that are
+[03:06] going to be continuing to experience
+[03:07] deflation as um they lose households and
+[03:10] their population shrinks. So now on
+[03:12] Tuesday, the NASDAQ declined 1.43%.
+[03:17] But my account with 77 stocks rose 1.2%.
+[03:21] How did that happen?
+[03:22] >> Well, that's by design. That's why we
+[03:24] have high alpha, low beta stocks. It was
+[03:26] aided by Palunteer, which not only beat
+[03:30] analyst estimates, but guided higher. It
+[03:32] was aided by another stock called
+[03:34] Woodward that is in your account, which
+[03:36] again beat analyst estimates and guided
+[03:38] higher.
+[03:40] And then we did have this gold rally
+[03:42] with gold up over 7% on Tuesday and
+[03:45] that's a bounce back from the violent
+[03:47] reaction the previous couple days and
+[03:50] and you have 20 gold stocks and that's
+[03:53] that helped your account. Now the the
+[03:55] real damage in NASDAQ has been in the
+[03:57] software stocks and you do have one I
+[03:59] haven't sold yet called Shopify. It's
+[04:01] SHOP. I'd like its earnings to come out
+[04:04] and I like to analyze it after that. But
+[04:06] I have been trimming software stocks
+[04:08] that are have very good forecasted sales
+[04:11] and earnings just because that sector's
+[04:12] gotten to be very very volatile. So you
+[04:15] know it it it's every stock for itself
+[04:17] in earnings announcement season but your
+[04:19] portfolio is full of high alpha low beta
+[04:23] stocks that just don't track the market.
+[04:26] And that's that's what stock grader
+[04:28] does. The quantitative grade is alpha
+[04:30] divided by deviation which is looking
+[04:32] for stocks that just move independently
+[04:34] of the market. And so we do have some
+[04:37] high beta stocks, but overall our beta
+[04:39] is is much lower than the market and our
+[04:41] stocks are much more resilient. And so
+[04:43] I'm very proud that we were able to go
+[04:45] up on a down day.
+[04:46] >> So an investor's best defense is a
+[04:48] strong offense. Can you give some
+[04:50] examples of high alpha and low beta
+[04:52] stocks other than your gold stocks?
+[04:55] >> Sure. A Wilden Group, that's WLDN, gets
+[04:58] a lot of government contracts and has
+[05:00] been very resilient. Very strong
+[05:02] forecast sales and earnings. uh ESLT,
+[05:05] that's Elbert Systems, that's a defense
+[05:07] contractor based in Israel, but they do
+[05:09] a lot of business with the big US
+[05:11] defense contractors. Obviously, there's
+[05:13] a lot of interesting things going on in
+[05:15] in the Middle East. The US likes to
+[05:17] install, you know, a defensive shield
+[05:19] before it does any actions. ESLT is
+[05:23] behind the scenes and perfecting these
+[05:25] missile shields. And they are again
+[05:26] Israeli stock, but works with US defense
+[05:28] contractors. Incredible order backlog.
+[05:31] We have a um pharmaceutical I I really
+[05:34] like uh Arena Pharmaceuticals that's
+[05:36] AUP. Their forecast sales and earnings
+[05:38] are excellent. And then we have Cardinal
+[05:40] Health which is just medical supplies C.
+[05:43] These are all low beta stocks but they
+[05:46] have very good forecasted sales and
+[05:48] earnings and uh they have positive
+[05:49] analyst revisions and that's really
+[05:51] what's driving uh my stocks this
+[05:53] earnings announcement season. The
+[05:54] analyst community has been aggressively
+[05:56] revising earnings estimates higher and
+[05:58] it's showing up in the data. That's
+[06:00] great. Now I want to move over to a
+[06:01] subscriber question. Can you explain why
+[06:04] Nvidia ranks as a C in your grader and
+[06:06] kind of walk through us again what your
+[06:09] grading system means?
+[06:10] >> Sure. An A is a strong buy. A B is a
+[06:13] buy. A C is a hold. A D is a sell. I
+[06:16] call D's dogs. And an F is a strong
+[06:19] sale. I call an F a dog with fleas. So
+[06:21] um 70% of my grade is the alpha over
+[06:25] standard deviation. That quantitative
+[06:26] ratio. However, our eight factor
+[06:29] fundamental model has been beating our
+[06:31] quantitative model. Both models work.
+[06:34] When I test the models, I I graph how
+[06:36] they work. I figure out the decay rate
+[06:38] where I can data mine. But the
+[06:40] fundamental models are working better.
+[06:42] And so, you'll find me holding quite a
+[06:44] few C-rated stocks when they have
+[06:47] incredible fundamentals. And Nvidia
+[06:49] happens to be one. Uh, you know, Nvidia
+[06:51] sales are forecast to be up over 66%,
+[06:53] earnings forecast to be up over 70%.
+[06:56] Nvidia for a company of size is still
+[06:59] has accelerating sales and earnings
+[07:00] momentum. That Vera Rubin chip which is
+[07:04] going to be five times more powerful and
+[07:06] 10 times more energy efficient. There's
+[07:08] going to be a replacement cycle on those
+[07:09] chips. So u there's a lot of exciting
+[07:12] news behind Nvidia. But Nvidia, let's
+[07:15] face it, is huge. It's bigger than the
+[07:17] entire British stock exchange. It's
+[07:19] bigger than the French, German, Italian
+[07:22] stock exchanges combined. So it has a
+[07:24] bit of a physics issue when stocks get
+[07:26] big. It's trading at under 20 times
+[07:28] forecasted earnings. It's pretty good
+[07:30] value in my opinion and um I look
+[07:33] forward to to Nida's earnings
+[07:34] announcement which would be at the end
+[07:35] of earnings announcement season. I would
+[07:37] add it doesn't always go up because the
+[07:40] market makers out there, the Jane
+[07:41] Streets, the um Citadels, the Virtue
+[07:43] Financials, they're often writing a lot
+[07:45] of call options on Nvidia and if Nvidia
+[07:47] gaps up, they have to fill those call
+[07:49] options. So they often um don't really
+[07:52] want to. So they might run a mean
+[07:54] reversion program or something try to
+[07:55] knock the stock down temporarily.
+[07:57] Obviously a lot of people have attacked
+[07:59] Nvidia but it is unbelievable success
+[08:02] story and I have no intention of selling
+[08:04] it. It's I'm going to be holding the
+[08:06] stock to the end of the decade. Uh this
+[08:08] is my second time in Nvidia. You know
+[08:10] we're up over 4,000%. Uh and it it's a
+[08:12] core holding even though it's 18% of
+[08:14] some of our portfolios.
+[08:16] >> So I know you were a little bit
+[08:17] disappointed that the Atlanta Fed
+[08:19] revised their GDP estimate to 4.2% 2%
+[08:22] but we just had a pretty positive ISM
+[08:24] report. What's going on?
+[08:26] >> Yeah, that was the manufacturing survey
+[08:28] and it turned up after being down for 12
+[08:31] consecutive months and so all the
+[08:33] details were incredible. Order backlogs
+[08:36] and I'm I was ecstatic. So it's a sign
+[08:38] that the economy is broadening out, the
+[08:40] onuring's working. You know the really
+[08:43] what we have to do to get manufacturing
+[08:45] going in America, believe it or not, is
+[08:47] just get the housing market going
+[08:48] because there's a lot of durable goods
+[08:50] and a lot of things are going homes.
+[08:52] Okay? And a lot of those things are
+[08:53] manufactured in America. So the the
+[08:56] turnup in the ISM manufacturing was very
+[08:59] very welcome. And I don't know how much
+[09:01] it's going to influence Atlanta Fed. You
+[09:03] know, we have a a situation now where we
+[09:05] had a partial government shutdown. So
+[09:08] we're not going to get the January
+[09:09] payroll number on Friday. we will get
+[09:11] the ADP report and we'll see how that
+[09:13] is. But you know it's we just again we
+[09:16] just don't have all the economic data we
+[09:17] normally do. So I rely on the private
+[09:19] surveys ISM the conference board uh and
+[09:22] of course I subscribe to private
+[09:24] economists like Ed Yardini Ian
+[09:27] Shepardson and um and great researchers
+[09:30] like BSpoke. So, it's going to be
+[09:32] interesting to see what happens, but it
+[09:34] looks like the economy is we're we're
+[09:36] going to hit our 5% GDP growth, and if
+[09:38] we can fix the housing market, we will
+[09:40] hit uh 6% briefly um sometime this year.
+[09:43] >> And lastly, can we end on what your
+[09:46] thoughts are on USR? Is it a buy? Is it
+[09:48] a hold? What's your opinion?
+[09:50] >> Well, President Trump is diverting even
+[09:52] more money to uh to Rare Earths, and USA
+[09:56] is is a rare earth play that's
+[09:58] benefiting from all that news. uh it
+[10:01] doesn't have the fundamentals I want it
+[10:02] to have. The most profitable one is MP
+[10:04] materials. So US is going to have a good
+[10:08] stock grade uh because of the
+[10:10] quantitative grade but until the
+[10:11] fundamentals are there I I'm not going
+[10:13] to buy it. So you know I I have uh 1,200
+[10:18] stocks are A-rated and you only have 77
+[10:20] stocks in your account. So I go through
+[10:23] every single stock and make sure I have
+[10:25] those fundamentals each and every
+[10:27] quarter. And it's interesting now is
+[10:30] we've been fine-tuning the portfolio as
+[10:31] we always do every earning season, but
+[10:33] we haven't been selling stocks with good
+[10:35] sales and earnings. We're just trying to
+[10:36] buy something with stronger, more
+[10:38] reliable sales and earnings. So, um,
+[10:41] that's what we're doing.
+[10:42] >> And to wrap up, Pepsi just beat, but
+[10:44] they actually decreased the price of
+[10:46] their snacks, like Doritos. What's going
+[10:48] on here?
+[10:49] >> Well, according to Pepsi, they're
+[10:50] listening to their customers who seem to
+[10:52] be stressed about the cost of groceries.
+[10:55] So they gave him a gift and uh they cut
+[10:58] the price up to 15% of Doritos and Lays.
+[11:01] Now they are introducing more healthy
+[11:03] chips, you know, that have more protein
+[11:06] and less salt. They're uh introducing
+[11:08] more chips that are baked instead of,
+[11:10] you know, fried. So it's a good
+[11:12] marketing ploy. You know, obviously
+[11:14] Pepsi spends a fortune on these ads,
+[11:16] especially Doritos. I don't think we've
+[11:18] ever watched a Super Bowl that doesn't
+[11:20] have a Doritos ad in it. So, I think
+[11:22] it's pretty smart marketing and I'm sure
+[11:24] that the costs of their ingredients went
+[11:26] down a bit. You know, wholesale food and
+[11:28] energy prices were falling uh last I
+[11:31] looked in the producer price index. So,
+[11:32] at least we have a company passing it on
+[11:34] and hopefully they'll capture more
+[11:36] market share.
+[11:37] >> Well, great. Thank you so much and thank
+[11:39] you to you all for watching. We hope you
+[11:41] enjoyed this midweek update. If you have
+[11:43] any questions that you want us to answer
+[11:44] in this upcoming video, please leave
+[11:46] them in the comments below. But until
+[11:48] then, thank you so much for liking and
+[11:50] subscribing, and we will see you this
+[11:51] Sunday for a new video.
+[11:56] >> [music]

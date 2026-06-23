@@ -7,9 +7,29 @@ Type: short
 Duration: 0:48 (48s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 21
+Transcript characters: 740
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] that the big news on Uber is Volkswagen.
+[00:03] They are entering the robo taxi
+[00:05] business. It'll be the VW
+[00:07] buzz and um and they're and they're
+[00:10] backed by Volkswagen. So, we are about
+[00:12] to have robo taxi wars. Whimo is getting
+[00:15] in more cities. That's Google.
+[00:17] Obviously, Tesla is launching the robo
+[00:20] taxi initially with a Model Y and then
+[00:21] hopefully with with the driverless
+[00:23] vehicle, you know, without a steering
+[00:24] wheel and all. And um and then we're
+[00:28] going to have Uber. And of course, the
+[00:29] IDBuzz is a very practical vehicle. It
+[00:31] can hold a lot. Uh and you will be able
+[00:34] to order it on your phone. And they're
+[00:35] going to start it in Los Angeles because
+[00:37] they want uh the media attention in a
+[00:40] big urban area. So when you think of
+[00:43] Uber, um don't be surprised if they win
+[00:46] the robo taxi

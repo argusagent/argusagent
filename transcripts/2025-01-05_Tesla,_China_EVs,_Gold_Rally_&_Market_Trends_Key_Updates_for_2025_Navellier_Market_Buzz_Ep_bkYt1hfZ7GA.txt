@@ -7,9 +7,577 @@ Type: video
 Duration: 24:22 (1462s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 569
+Transcript characters: 19866
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:06] hello everyone welcome back to navier
+[00:08] Market Buzz episode 19 I'm chrysta naier
+[00:10] and I'm joined again this week with my
+[00:12] father Lou navier we hope you all had a
+[00:14] wonderful New Year's now Dad we have to
+[00:17] talk about Tesla what are you thinking
+[00:18] about them at this
+[00:20] point well it's interesting they kind of
+[00:23] mass the the strength after New Year's
+[00:25] Day because they went down uh their
+[00:28] fourth quarter sales rep 2.2% compared
+[00:31] to a year ago but their overall sales
+[00:33] did drop finally so they're struggling a
+[00:35] bit in China they've had some layoffs in
+[00:38] Germany um in the US they're still doing
+[00:40] pretty good um getting rid of that um
+[00:43] $7,500 EV tax credit will actually help
+[00:46] them they'll become more dominant versus
+[00:49] um other um competitors in the US
+[00:52] probably Hyundai is their biggest
+[00:53] competitor right now but um Tesla's a
+[00:58] lot more than just its car
+[01:00] their uh full self-driving or what they
+[01:02] call FSD is getting rave
+[01:06] reviews um they are selling tons of
+[01:09] these um Power walls and the commercial
+[01:13] battery storage facilities um you know
+[01:15] I'm in San Diego here and uh there's a
+[01:18] lot of solar and power walls here cuz
+[01:22] San Diego Gas and Electric a long time
+[01:24] ago gave up its grid when California was
+[01:27] trying to you know have a state grid and
+[01:31] anyway um uh so when you move here it's
+[01:35] kind you have to kind of put your own
+[01:36] solar and uh and power walls and in fact
+[01:40] that's what uh Uncle Jeff did when he
+[01:43] and Aunt Debbie did when they moved here
+[01:45] um otherwise electricity is very
+[01:47] expensive but uh Tesla has a booming
+[01:50] power wall business and energy storage
+[01:53] business and then finally when they get
+[01:54] that robotaxi going I think it's really
+[01:56] going to help them um obviously they'll
+[01:58] be competing with whmo uh which is
+[02:00] Google they use totally different
+[02:02] systems you know whma was based on lidar
+[02:05] which is
+[02:06] radar we have liar in some of our cars
+[02:08] especially for night vision um to see
+[02:11] animals and things when we drive around
+[02:13] Tesla uses a camera based system so uh
+[02:15] it's going to just be interesting which
+[02:16] system is better and um so Tesla's sorry
+[02:21] to rebound but um they're the one that
+[02:23] kind of screwed up the whole party now
+[02:25] we're not recommending Tesla uh it does
+[02:28] rank a b in our system
+[02:30] uh which is a buy but it just doesn't
+[02:32] hit all my criteria their operating
+[02:34] margins did start to expand last quarter
+[02:37] and they resume expanding that would be
+[02:39] good for the stock um then my other
+[02:42] comment um about Tesla is I do hold in
+[02:46] some manage accounts and some clients
+[02:47] asked me to buy it for them are the
+[02:48] Chinese EV makers still doing
+[02:51] well super well uh Le Auto just reported
+[02:54] a big uh sales increase but byd is the
+[02:57] leader and of course they're vertically
+[02:59] integrated they make their own batteries
+[03:02] um fact Tesla uses the byd blade battery
+[03:06] and it's um model y that makes in
+[03:08] Germany you know as you go farther up in
+[03:11] the hemisphere the lithium ion batteries
+[03:13] don't work as well when it gets cold and
+[03:15] Germany's up there pretty high kind of
+[03:17] like Canada so uh uh an iron phosphate a
+[03:21] battery will last a lot longer you can
+[03:23] 100% charge it if you crash the car it
+[03:24] doesn't catch on fire there's a lot of
+[03:27] good things byd is doing but by has
+[03:30] already sensed the shift in the market
+[03:32] and they're building more hybrids but
+[03:34] not only they leading EV sales
+[03:37] internationally uh they are also selling
+[03:39] a lot of hybrids but Le Auto makes kind
+[03:42] of a a luxury EV they're based in Hong
+[03:46] Kong uh they had a big sales increase so
+[03:50] CH the the Eevee boom is going to
+[03:52] continue uh in
+[03:54] China uh China's very proud of its
+[03:56] industry and but their cars are so much
+[03:58] cheaper because they use the U
+[04:01] predominately iron phosphate
+[04:03] batteries and if we start to put those
+[04:05] batteries in EVs and Tesla does on its
+[04:09] cheapest model 3 four does on its
+[04:11] cheapest uh Machi then the then prices
+[04:15] will um start to come down so help me
+[04:17] out if the EV sales remained strong why
+[04:20] did the S&P Global PMI for China
+[04:23] decline because China's a huge
+[04:25] manufacturing economy and they do a lot
+[04:27] more than just um so solar and batteries
+[04:31] and EVS um they are really struggling um
+[04:36] you got to realize the average person in
+[04:39] China invested heavily in real estate
+[04:42] and uh there's a lot of what they call
+[04:44] ghost towns in China big buildings
+[04:47] people bought for speculation they never
+[04:49] lived in you know in New York you have a
+[04:52] very tiny um skyscraper on your Central
+[04:55] Park uh that was bought by a lot of
+[04:58] Chinese and the joke is no one's living
+[05:00] in it I'm sure someone's living in it
+[05:01] but uh that's what they do they
+[05:03] literally would buy real estate for
+[05:05] investment and they got overbuilt and
+[05:08] then China is shrinking as as a nation
+[05:10] you know they lost 2.08 million people
+[05:13] in
+[05:14] 2023 I'm sure they lost another 2
+[05:16] million people last year we'll get the
+[05:18] official number soon and it's just
+[05:20] really hard to grow your economy um the
+[05:23] other thing is um president Chi is anth
+[05:27] authoritarian uh when he became
+[05:30] president for life he uh essentially got
+[05:33] rid of what we call a lot of the
+[05:34] reformers a lot of the pro business
+[05:36] people and um and a lot and there's just
+[05:40] a lot of Chaos in China right now he's
+[05:42] been purging his military but a lot of
+[05:45] decisions don't get made unless they go
+[05:46] to president Chi and you know it's it's
+[05:48] hard to do everything so that's why they
+[05:51] tend to get overbuilt so quickly and
+[05:52] they're putting tons of stimulus in
+[05:54] their economy their interest rates are
+[05:56] collapsing uh the tenear bonal at a
+[05:59] record low
+[06:00] their central banks going be cutting
+[06:01] rates a
+[06:02] lot and um uh so they got a lot of other
+[06:06] problems out there and then of course
+[06:08] they may soon have bigger tariffs than
+[06:10] Mr Trump uh or president-elect Trump but
+[06:14] uh he did invite president CH to his
+[06:16] inauguration I don't think he's coming
+[06:18] but there will be a dialogue and um and
+[06:21] that will be very interesting I see that
+[06:23] the ISM Manufacturing report in December
+[06:25] improved so now does that mean that the
+[06:27] manufacturing recession is almost over
+[06:31] yeah not quite it did improve
+[06:33] dramatically a lot more than economists
+[06:35] expected uh new orders was very
+[06:38] encouraging it was uh I think
+[06:41] 52.5 and um any reading over 50 signals
+[06:45] an expansion but the overall number is
+[06:47] still below 50 and Manufacturing in
+[06:50] America has contracted for 25 of the
+[06:53] last 26 months according to
+[06:56] ISM and uh but we're getting looks like
+[06:59] we're trying to crawl out of a hole
+[07:00] finally a lot of just fixing
+[07:02] manufacturing is fixing the housing
+[07:04] market you know when when people are
+[07:06] buying homes they buy a lot of durable
+[07:08] goods you know appliances
+[07:11] furniture and um uh it's it's imperative
+[07:15] we fix housing to get
+[07:16] manufacturing uh fixed in America but um
+[07:20] it's very very encouraging what we saw
+[07:21] there was a big upturn and Autos um
+[07:24] airplane orders are doing better okay so
+[07:28] these are also big things to drive
+[07:30] manufacturing so now let's switch over
+[07:31] to what you expect from the ism service
+[07:33] report the fed's fomc minutes and also
+[07:37] the payroll
+[07:38] reports the ism service report um for
+[07:42] November was very disappointing it
+[07:44] decelerated sharply no one expected that
+[07:47] so we want to see uh it's still above 50
+[07:50] it still says it's expanding and the US
+[07:53] is a service-based economy uh 70% of our
+[07:56] economic growth is services so we want
+[07:59] make sure that's still healthy uh it
+[08:01] looks like it was a good holiday
+[08:02] shopping season um but um nothing
+[08:07] outlandish or anything so we just want
+[08:10] to see that it it resumed um
+[08:13] expanding the other thing um uh on those
+[08:17] fed fomc minutes those are going to be
+[08:20] very interesting because there was some
+[08:23] disension on the FED one of the FED
+[08:25] Governors the Cleveland fed president
+[08:27] voted not to uh cut rates
+[08:29] um there was a lot of um disagreement on
+[08:33] what we call the Dot Plot how many uh
+[08:36] Ray Cuts is going to be the consensus
+[08:37] was two but some were expecting three
+[08:40] others are expecting one so we just want
+[08:42] to get a feel for the infighting within
+[08:44] the fed you know drone pow the FED
+[08:47] chairman tries to you know make sure
+[08:49] everybody moves in tandem with him but
+[08:52] that has fallen apart and he admitted
+[08:54] during his press conference which kind
+[08:56] of red markets that they seemed to be um
+[09:00] losing a grip on forecasting uh uh
+[09:04] economic outcomes so that didn't Inspire
+[09:07] confidence but um that's what we want to
+[09:10] see and um it so those minutes are going
+[09:13] to be more interesting than normal as
+[09:15] far as the payroll reports are
+[09:17] concerned uh uh ADP uh on Wednesday is
+[09:21] going to be the most accurate that's the
+[09:22] private payal survey I don't really
+[09:24] trust the government report on Fridays
+[09:26] because there's a lot of seasonal
+[09:27] adjustments you know the government
+[09:29] still thinks we hire a lot of workers to
+[09:32] to work the stores during the holidays
+[09:34] and even though everybody's shopping
+[09:35] online although they they do hire more
+[09:38] people for the warehouses and delivery
+[09:40] services so there will be a big seasonal
+[09:43] adjustment on that payroll number but um
+[09:47] uh and then of course the revisions are
+[09:49] always interesting uh unemployment has
+[09:51] risen you know in America it was 3.4% uh
+[09:55] several months ago and last I look it's
+[09:57] 4.2 so we want to see uh uh if that's
+[10:01] still there's still pressure on it if
+[10:03] there is upward pressure on unemployment
+[10:06] it will literally cause the FED to um
+[10:08] just continue to cut rates the other
+[10:10] thing is uh continuing unemployment
+[10:13] claims are at a at the highest level in
+[10:16] the last few years so uh there is some
+[10:18] structural unemployment in America we
+[10:21] got to keep an eye on so um unemployment
+[10:24] is going to influence the FED heavily
+[10:26] now can you explain what is a carry
+[10:28] trade and does it have any influence on
+[10:29] the Mexican
+[10:31] peso absolutely you know one of the
+[10:34] surprises last year is how weak the
+[10:37] Mexican peso was because Mexico is um a
+[10:41] very very strong manufacturing economy a
+[10:45] lot of people think they're um they're
+[10:47] the new China okay uh of course we have
+[10:50] facilitated that with NAFTA and and
+[10:53] we've moved a lot of plants and so have
+[10:56] Germany and other manufacturers moved
+[10:57] their plants to Mexico
+[10:59] and then they come AC into the United
+[11:01] States with no tariffs because of a
+[11:03] NAFTA and Trump may try to modify that
+[11:06] but the the amount of Commerce that we
+[11:10] do with Mexico and Canada under NAFTA is
+[11:13] immense and of course Trump did threaten
+[11:16] these 25% tariffs uh if they don't
+[11:18] secure their borders but both countries
+[11:20] seem to be doing that right now so going
+[11:23] back to
+[11:25] Mexico uh there are two theories on the
+[11:27] carry trade one is that Japan where
+[11:31] rates are are very low was putting money
+[11:33] in Mexico to get higher
+[11:36] yields but then the the strength in the
+[11:38] Japanese Yen uh caused them to unwind
+[11:41] that trade which shoved the peso down
+[11:45] the other theory is a lot of folks in um
+[11:48] in Mexico were investing in the United
+[11:51] States and uh to get not only higher
+[11:54] rates but um benefit from our strong
+[11:56] dollar so carry trades are again where
+[11:59] you borrow in one country to invest in
+[12:02] another and you play the rate
+[12:04] differentials but what screws it all up
+[12:06] is the is the
+[12:08] currency and um unfortunately um uh that
+[12:12] has weighed on the Mexican peso and but
+[12:15] I'm very optimistic for Mexico long term
+[12:17] I mean if any country is going to
+[12:19] benefit from our economic growth it's
+[12:21] Mexico so uh I would hope that the peso
+[12:25] firms up fast so now on new years's
+[12:28] Ukraine cut off the Russ natural gas
+[12:30] what are the consequences going to
+[12:33] be well there's some countries that
+[12:35] don't agree with Russia countries that
+[12:37] um are not obeying Mr Putin right now
+[12:40] and their gas has been cut off and
+[12:42] they've stopped their manufacturing but
+[12:44] this really
+[12:45] hurts Slovakia and Hungary and then that
+[12:49] gas that that used to go through Ukraine
+[12:52] from Russia often does make its way to
+[12:54] the Czech Republic and um and Austria so
+[12:59] Slovakia and Hungary are the first
+[13:00] victims and um that's bad because you
+[13:04] know Germany has been Outsourcing
+[13:06] immensely uh to uh uh Slovakia and
+[13:09] Hungary like um your McAn truck uh was
+[13:12] made in Slovakia last I thought and so
+[13:15] is the for cayen and um Vector hardi Q8
+[13:20] was made in uh in Slovakia so again you
+[13:23] need
+[13:24] cheap gas and to have cheap electricity
+[13:28] so you can um um have a manufacturing
+[13:32] economy and then the reason Hungary is
+[13:35] important Volkswagen makx almost every
+[13:37] one of its engines in Hungary The Only
+[13:40] Exception I think is Porsche you know um
+[13:43] the the flat six the Porsche has is made
+[13:45] made in zuas but um all the other
+[13:48] engines are made in hungry okay for
+[13:51] Volkswagen group even the Bentley
+[13:53] engines so what what happens is is um
+[13:58] you know this is hurt Germany's economy
+[14:01] because their electri prices are double
+[14:03] ours and they're triple China's and now
+[14:06] it's hurting some of the countries they
+[14:08] Outsource to so uh they have to get this
+[14:11] fixed now um there's this coal front
+[14:14] over North America right now especially
+[14:16] the Midwest and East and Europe gets
+[14:18] those quite a bit too so um yeah they
+[14:22] may they some people may um get to uh
+[14:25] stay at home because they have to close
+[14:27] factories this also uh not only hurts
+[14:31] Ukraine because they used to get up to a
+[14:32] billion dollars a year for Transit fees
+[14:34] this gas it also does hurt Russia
+[14:37] somewhat I'm sure Russia will divert the
+[14:39] gas somewhere else but um it's
+[14:43] fascinating that Ukraine and Russia were
+[14:46] doing Commerce with each other while
+[14:48] they're at war with each other you know
+[14:50] it's it almost doesn't make sense and um
+[14:54] but I guess Ukraine uh just in good
+[14:58] conscious can't do business with Russia
+[15:00] and so this is going to be very
+[15:01] interesting what happens so now kind of
+[15:04] switching over to stocks one of our
+[15:05] subscribers wanted to know what you
+[15:06] thought about super micro versus ver of
+[15:10] Holdings I would own both uh I want to
+[15:13] be very clear on super micro um we've
+[15:16] been in that stock a lot earlier than
+[15:17] most people so we have
+[15:20] gains it has been on a roller coaster
+[15:24] because uh they have a new auditor and
+[15:27] their audited results will be out short
+[15:29] but um they do last I looked have 180%
+[15:33] forecast at sales
+[15:34] growth and um they make the um the um
+[15:39] servers that go in the cloud centers and
+[15:42] they're water cooled for the Nvidia
+[15:44] chips uh we have a friend in the
+[15:47] um AI chip business in Boise and he
+[15:50] thinks those super micro racks are the
+[15:53] best um so uh that's that um so we are
+[15:58] very Bull on super micro although it has
+[16:01] been on an incredible roller coaster CU
+[16:03] there was a Hindenburg report saying
+[16:06] that their sales are inflated and what
+[16:08] it is is they have a their order backlog
+[16:11] is so big um you they're booking sales
+[16:14] that they may not deliver on in four or
+[16:16] five years but it just goes old backlog
+[16:19] so I don't have a problem with it um ver
+[16:21] of of course is one of the best
+[16:23] performing stocks at S&P last year we've
+[16:25] been in it for some time it still ranks
+[16:27] very very high um and um they help build
+[16:31] out the cloud and uh and and those water
+[16:34] cool server Farms that super micro
+[16:37] facilitates as well so both are are
+[16:40] great stocks to hold and um but you have
+[16:44] to take a brave pill super micro and
+[16:46] both stocks are off to a strong start
+[16:48] this year another one of our subscribers
+[16:49] wanted to know what you thought about
+[16:51] CLE and
+[16:53] CLS um CLE of course is uh did also get
+[16:58] hit with the h report you know some of
+[16:59] our stocks are explosive and when they
+[17:01] go up 4 or
+[17:03] 500% these short sellers come in and try
+[17:05] to prick that bubble and they did that
+[17:07] on super micro now they're doing on on
+[17:10] sezzle but the stocks have come roaring
+[17:12] back because there's no analyst cuts
+[17:15] sezzle um I guess is the best way to say
+[17:19] SLE and another stock we have a payment
+[17:22] systems that's
+[17:23] py they facilitate people that have
+[17:26] credit problems uh so when you buy
+[17:29] something you can make four
+[17:32] payments um you can put it on layaway
+[17:34] and pay a little
+[17:36] later and uh and szel borrows at pretty
+[17:39] high rates and marks them up even
+[17:40] further to the
+[17:41] consumers so you know we have a
+[17:44] situation in America
+[17:47] where uh credit default rates are the
+[17:50] highest in um in since
+[17:54] 2010 and if you're a struggling consumer
+[17:57] and you don't want to
+[17:59] have a bad credit score you might have
+[18:01] to use uh uh czzle or or payus and um
+[18:06] and that's what they do they facilitate
+[18:09] payment plans
+[18:10] um so some people think they're
+[18:13] predatory but you know they have a
+[18:16] service and there's always a certain
+[18:17] amount of people out there will have
+[18:18] credit issues so CLE is one of our most
+[18:22] explosive stocks and soft a good stock
+[18:24] this year celestica CLS ranks super high
+[18:28] in her system
+[18:29] I've had that stock for some time and as
+[18:32] long as they're A or B rated you you can
+[18:34] continue to hold it and um you're
+[18:36] showing the rating right now for
+[18:38] celestica so it's a strong strong stock
+[18:41] to to own and if you haven't bought it
+[18:43] yet you're welcome to buy some more can
+[18:45] you explain to me why gold resurged
+[18:47] after New Year's
+[18:49] Day yeah it's um it's because the
+[18:53] central banks around the world are
+[18:55] screwing up um so let me give some
+[18:59] examples uh China's rates are
+[19:01] collapsing they have the lowest 10year
+[19:03] bond yields they ever they're um um I
+[19:07] think they're going to crack through 1.6
+[19:08] here
+[19:09] soon uh they've got all kinds of
+[19:12] incentives to try to lift their
+[19:14] economy um but China is losing
+[19:18] population at a rapid
+[19:20] Pace um so is Europe and um there's just
+[19:24] a lack of confidence in governments as
+[19:27] well as central banks
+[19:29] and that causes everybody to buy gold
+[19:31] and much of the world is in a recession
+[19:34] except for
+[19:35] America so it's up to president Trump to
+[19:38] take our sputtering 3% GDP growth from
+[19:43] Mostly
+[19:44] Services fix manufacturing get us to
+[19:47] 4% um get a peace dividend by making
+[19:50] peace in the world get us to 5% we won't
+[19:53] be able to sustain that that long but
+[19:55] and lift the entire world so in the
+[19:58] meantime everybody just loading up on
+[19:59] gold because uh there's just a lack of
+[20:03] confidence in governments now our rates
+[20:06] are still very high in America compared
+[20:08] to everybody else but rates come down
+[20:11] elsewhere our rates will come down too
+[20:12] and that will further fuel um gold
+[20:15] buying so um uh what you need to to
+[20:19] suppress gold from going up is a strong
+[20:22] currency which we
+[20:23] have uh High rates they're modly high
+[20:26] and a strong economy and um and of
+[20:30] course there's cultures out there that
+[20:31] love gold India China the Middle East
+[20:36] and of course we have a lot of gold bugs
+[20:38] in America as well so you discussed a
+[20:40] flight to Quality on a podcast you did
+[20:41] after New Year's Day can you give us
+[20:43] some
+[20:44] examples yeah so again it looked like
+[20:48] the market wasn't going up right after
+[20:50] New Year's day but it was under the
+[20:52] surface and what it was is Tesla's a big
+[20:54] weight in NASDAQ and Tesla went down
+[20:58] because uh
+[20:59] um their annual sales decline um but
+[21:01] their quarterly sales are up but uh
+[21:04] nonetheless uh Tesla maths the strength
+[21:07] under the surface so I'm a static
+[21:10] because as far as I'm concerned
+[21:12] um uh there's a flight to Quality
+[21:15] underway and I saw it in my stock so
+[21:18] some examples would be Nvidia their um
+[21:22] sales are forecasted to be up 72% uh
+[21:25] their earnings are forecast to be up
+[21:27] 63.9% they postive bance revisions so
+[21:30] you're showing a um how N Video has done
+[21:33] well um U Carpenter Technology their
+[21:37] sales are forecast up
+[21:40] 7.7% uh their earnings are forecast up
+[21:42] 90.4% again postive Valance revisions
+[21:45] they're off a great start this
+[21:47] year uh Sprouts um Farmers Market um
+[21:52] their uh sales were up
+[21:55] 15.1% their earnings were uh earnings is
+[21:59] supposed to be up about
+[22:00] 47.3% of positive oun revisions when the
+[22:03] oun revising rest's higher it creates uh
+[22:06] lot
+[22:07] surprises Decker's outdoor we've talked
+[22:09] about that um the shoe company deck
+[22:13] their sales are forecast 9 half% and
+[22:16] they have positive Al Provisions we
+[22:18] talked earlier about ver
+[22:21] VRT uh their sales are supposed to be at
+[22:24] 15.5% uh earnings supposed to be at
+[22:26] 45.9% again positive balance revision
+[22:28] these are all stocks at start of the
+[22:30] Year very very strong now finally what
+[22:32] are some small caps that have started
+[22:34] this year strong as well yeah and small
+[22:37] caps are again like bunnies they sit
+[22:39] they hop they sit they hop um so when
+[22:41] they move it's significant also uh the
+[22:44] fact that small caps participate means
+[22:46] that uh we're getting a January fact um
+[22:49] but
+[22:50] um argon agx is um probably the best
+[22:54] example their sales are supposed to be
+[22:56] of
+[22:57] 20.2% they're supposed to be up 28.7%
+[23:00] they have positive an revisions kava's
+[23:02] uh sales are forecasted to be up 16%
+[23:05] their earnings are forecast to be up
+[23:06] 18.3% and they have positive ounce
+[23:09] revisions I love Cava and they're really
+[23:11] competing against Chipotle right now
+[23:14] wonderful keep eating there I appreciate
+[23:15] it help help my stocks um gigal Cloud uh
+[23:20] their sales are forecast to be up 17 .8%
+[23:23] pow Industries which we've talked about
+[23:25] a lot their sales are supposed to be up
+[23:27] 19.9
+[23:29] 9% RS of forecast be up
+[23:32] 31.8% very positive bance revisions
+[23:34] under pal that's a good sign czzle we we
+[23:37] already talked about as at positive an
+[23:40] revisions and then vital Farms which
+[23:42] we've talked about this organic chicken
+[23:44] stock uh their sales are forecast up
+[23:47] 18.1% so these are all examples of small
+[23:50] caps that popped in the new year so not
+[23:53] only do we have good leadership in the
+[23:55] quality stocks looks like we're getting
+[23:57] a generary effect so that has me very
+[24:00] very
+[24:01] happy great well thank you so much for
+[24:03] answering all my questions and thank you
+[24:05] to you all again for liking and
+[24:07] subscribing once again if you have any
+[24:09] questions please leave them in the
+[24:10] comments below but until then we'll see
+[24:12] you next week with a special guest
+[24:15] [Applause]
+[24:15] [Music]

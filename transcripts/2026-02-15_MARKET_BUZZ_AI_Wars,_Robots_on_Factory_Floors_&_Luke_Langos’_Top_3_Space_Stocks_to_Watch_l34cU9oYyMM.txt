@@ -7,9 +7,893 @@ Type: video
 Duration: 29:40 (1780s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 885
+Transcript characters: 31903
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Robots on factory floors, AI battling
+[00:03] for dominance, crypto versus gold, and
+[00:05] three space stocks you won't want to
+[00:07] miss. Today, we're asking who is
+[00:08] actually leading the next technological
+[00:10] revolution, and where should investors
+[00:12] be putting their money? Welcome back to
+[00:14] Navellier Market Buzz.
+[00:17] >> [music]
+[00:23] [music]
+[00:29] >> Today, we have a very special guest,
+[00:31] Luke Lango, the senior analyst at
+[00:33] InvestorPlace. Thank you so much, Luke,
+[00:35] for joining us today. Yeah, thanks for
+[00:36] having me, Crystal and Louie. It's
+[00:37] always great to sit down and talk shop
+[00:39] with you guys. Let's start with
+[00:40] robotics. You know, Boston Dynamics
+[00:42] seems to have this epic battle with the
+[00:45] Tesla's Optimus. Who's actually ahead
+[00:48] right now?
+[00:48] >> Yeah, I would say there's a near-term
+[00:50] and a long-term here. In the near-term,
+[00:52] I would actually say that Boston Dynamic
+[00:54] is is winning, that the Atlas robot is
+[00:56] very impressive. It's got incredible
+[00:58] range of motion. It has incredible
+[01:00] capabilities in terms of the amount of
+[01:01] weight it can lift, I think over 120 lb
+[01:04] or something to that effect, uh
+[01:05] considering its miniature size. Um and
+[01:08] they're going into factories cuz Hyundai
+[01:10] is is a majority owner, obviously, and
+[01:12] and Boston Dynamics going into factories
+[01:15] in Hyundai factories in Georgia, I
+[01:17] believe, for electric vehicle
+[01:18] production. So, I would say right now, I
+[01:21] mean, just based on the the evidence,
+[01:23] that the Atlas robot is probably the
+[01:27] most sophisticated, most advanced
+[01:28] humanoid robot in the United States
+[01:31] today. Uh but I think Tesla has some
+[01:33] structural long-term advantages that
+[01:36] will enable Optimus to be better by, you
+[01:39] know, 20 Elon has his own timelines, so
+[01:42] I don't really want to throw out
+[01:42] timelines for Elon. But in the next few
+[01:45] years, I think Optimus will emerge as a
+[01:47] leader because of a massive data
+[01:50] advantage. Tesla has so much data when
+[01:52] it comes to
+[01:54] mobility, when it comes to operating
+[01:56] cars in the real world, when it comes to
+[01:59] how people interact with hardware. So, I
+[02:02] do think they have a lot of massive data
+[02:03] advantage there. And then I think that
+[02:05] they have an AI advantage with with
+[02:07] Grok. That I think Elon's consolidating
+[02:09] his whole empire, right? We saw XAI
+[02:11] merge with X, and then now we've seen
+[02:13] that merge with SpaceX. That's going to
+[02:16] go public, and I think ultimately that
+[02:18] entity merges with Tesla. And you have
+[02:21] this one giant Elon total conglomerate.
+[02:23] So, then Optimus will be able to pull
+[02:25] resources from SpaceX great engineers,
+[02:28] pull XAI Grok stuff in there, pull So,
+[02:31] it's just like there's there's a lot of
+[02:32] resources that they can pull on to make
+[02:35] Optimus really, really strong in the
+[02:36] long term. So, I would say BD's winning
+[02:38] right now, but Tesla probably wins the
+[02:41] the long game here. Excellent. So, just
+[02:43] so everybody understands, uh Boston
+[02:45] Dynamics is private, but their big
+[02:47] customer's Hyundai. And so, the the
+[02:50] robots are initially going in the
+[02:51] Hyundai factory in Georgia, and then the
+[02:54] Optimus robots are supposed to go in the
+[02:56] Tesla factories. Is is that correct?
+[02:58] Yeah, that's that's the big spill that
+[03:00] that Elon's given, right? Phase one is
+[03:01] roll out internally in our factories,
+[03:04] phase two is sell to other companies to
+[03:06] use in their factories, and phase three
+[03:08] is sell to people like you and me in our
+[03:10] homes for $20,000 a pop. That that's his
+[03:12] big master roll out plan. It was
+[03:15] supposed to be 2026 is the year of
+[03:17] internal testing, 2027's the year of
+[03:19] getting it to other companies, and
+[03:20] 2028's the year that we get it to
+[03:22] households. Elon's timelines tend to be
+[03:24] a few years too aggressive, so maybe
+[03:26] it's more like, you know, extend that
+[03:28] out to 2032 or something, but that is
+[03:30] his master roll out plan. Okay. Well,
+[03:31] it's going to be exciting to have the
+[03:32] robot walk the dog.
+[03:36] Since you talked about the merger with
+[03:38] all the Tesla entities, this fuss that
+[03:40] they're going to put AI in space, that's
+[03:43] decades away, right? I mean, that seems
+[03:45] like a physics problem to put all those
+[03:47] data centers in space, even though it's
+[03:49] cool up there. Yeah, I would say Elon
+[03:52] absolutely believes and I think there
+[03:54] are some a lot of physics principles
+[03:56] that would support him in this argument
+[03:57] that that is the future of AI compute is
+[04:00] putting data centers in space. I think
+[04:02] there's also a political angle to this
+[04:04] that I believe seven states now either
+[04:07] six or seven states have proposed
+[04:09] legislation to stop data center
+[04:10] construction in their states. Uh and
+[04:12] it's bipartisan. New York has it as
+[04:14] proposed and so is Florida. Uh DeSantis
+[04:16] is is really against data centers. Um
+[04:19] they're driving up electricity because
+[04:20] they don't actually add labor, right?
+[04:22] You know, when TSMC builds a big
+[04:23] factory, that does add labor, but when
+[04:25] Microsoft throws up a data center, it
+[04:27] doesn't doesn't really add labor. The
+[04:28] construction, sure, but long term, no.
+[04:30] So, there's like this bipartisan
+[04:31] movement to kind of halt construction of
+[04:33] data centers across the US. So, I think
+[04:35] that Elon's trying to skirt that. He's
+[04:37] going to be like, "Hey, here's the
+[04:37] solution, right? Stop building them on
+[04:39] Earth. Let's let's go up to space." In
+[04:40] terms of timeline for it, there's
+[04:42] already been There is a data center in
+[04:44] space powered by Nvidia that is helping
+[04:47] power um the Gemini model. So, one does
+[04:51] exist. Google also has a project which
+[04:53] has been really hot. They're throwing
+[04:55] data centers up in space. 2027 is when
+[04:57] they're going to launch a constellation,
+[04:59] so to speak. So, that's their timeline.
+[05:01] Elon thinks that if he raises he's
+[05:03] trying to raise up to 30 billion, I
+[05:04] think, with this IPO in June um that he
+[05:06] can take that money almost immediately
+[05:08] and throw it into to launching these
+[05:10] data centers in space. Elon's multiple
+[05:12] up there by the end of the year. That's
+[05:13] what he said. Again, Elon timelines are
+[05:15] not uh reality timelines, but it feels
+[05:18] like the next big wave of AI compute, AI
+[05:21] infrastructure, and you're seeing the
+[05:24] stocks attached to this movement respond
+[05:27] as you would expect.
+[05:28] >> Woody,
+[05:29] I'm shocked you said that Kathy Hochul
+[05:31] doesn't want data centers. You think,
+[05:33] you know, up for Upstate New York, which
+[05:35] is pretty empty, and all that
+[05:37] hydroelectric, and they got all the fast
+[05:38] fiber optic in New York for Wall Street,
+[05:41] you'd think they'd want to have some
+[05:42] data centers. I mean, if New York
+[05:44] doesn't want them, they'll they'll just
+[05:46] go to Canada, you know, cuz again they I
+[05:48] don't I don't I think that is the wild
+[05:50] card which could accelerate the orbital
+[05:52] compute thing. I mean, obviously you and
+[05:54] I are very plugged into the news cycle
+[05:56] and the news cycle this week has been
+[05:57] very much AI's going to take our jobs,
+[06:00] right? Like that's been the that's been
+[06:02] the news cycle. The is AI disruption
+[06:04] risk. We've seen software stocks get
+[06:05] hammered. We saw bank stocks take a hit
+[06:07] when the new finance AI stuff came out.
+[06:10] We've seen commercial real estate stocks
+[06:12] got hit really hard. CBRE like its worst
+[06:14] drop since COVID. JLL, too.
+[06:16] Transportation logistics stocks, you
+[06:18] know, like wait, what? How are these
+[06:20] getting hit? Uh so, AI disruption fears
+[06:22] are very much real. If that picks up
+[06:24] speed, uh then going into the midterms,
+[06:27] I think you could have like this big A
+[06:29] political platform could be anti-AI.
+[06:31] Like if you elect me, I will stop this
+[06:34] AI disruption and get us back to a
+[06:36] normal level or normal playing field, if
+[06:39] you will. I think that could be a big
+[06:40] political platform. And then people are
+[06:42] going to be like, "Well, we can't stop
+[06:43] cuz China's building it. We got to be
+[06:44] first." And so, then Elon comes to the
+[06:45] table like, "Hey, here's the solution,
+[06:47] guys. Let's go to space, right?" And
+[06:49] then you don't have to worry about the
+[06:50] future.
+[06:50] >> Yeah.
+[06:51] So, I think there's like a political
+[06:53] accelerant, potential political
+[06:54] accelerant.
+[06:55] >> I don't think that's a top political
+[06:57] priority. I know I know Bernie Sa-
+[07:00] Bernie Sanders called for stopping the
+[07:02] data centers cuz they didn't want the
+[07:03] billionaires to get richer, but uh
+[07:06] you know, a lot of Americans have bet on
+[07:08] billionaires, so that would not be good
+[07:10] for their 401(k)s. So, we'll see where
+[07:12] it goes.
+[07:13] >> Let's shift to commodities. With all the
+[07:14] volatility in crypto, should investors
+[07:16] be relocating towards gold or even gold
+[07:18] mining stocks? I am very positive on the
+[07:22] bull thesis for metals in general. So,
+[07:25] beyond gold, silver, platinum,
+[07:27] palladium, uh copper, aluminum, although
+[07:30] aluminum had a tariff headline today
+[07:31] that wasn't so great, but I think the
+[07:33] structural bull thesis for these metals
+[07:35] is very strong. Uh gold, I think
+[07:37] everyone knows the bull thesis there.
+[07:38] Hedge against, you know, dollar
+[07:40] devaluation, hedge against inflation,
+[07:42] hedge against a lot of different things,
+[07:43] uncertainty. That's fine. I actually
+[07:45] like the rest of the metals complex
+[07:47] better because there's an AI demand
+[07:49] vector
+[07:50] that is emerging. That when you throw up
+[07:51] a data center, you need silver. It's the
+[07:54] best conductor in the world. And you
+[07:56] know, we've used copper cables for a
+[07:58] very long time. And suddenly, you know,
+[08:00] all these companies, they want a
+[08:01] competitive advantage. So what's the
+[08:02] competitive advantage? Well, upgrade the
+[08:04] copper to silver. So once one
+[08:06] hyperscaler does that, then all the
+[08:08] hyperscalers do it. So then you're
+[08:10] getting a massive upgrade cycle in these
+[08:12] cables to to silver. And so I think
+[08:14] there's a massive new demand vector for
+[08:16] silver. There's a lot of platinum and a
+[08:18] lot of palladium in these data centers
+[08:19] as well. Of course, there's still going
+[08:21] to be a lot of copper in these data
+[08:22] centers. And so I think you're getting a
+[08:23] demand super cycle for metals that
+[08:26] thanks to the AI data center buildout at
+[08:29] the same time that people are looking to
+[08:32] invest in hard assets as a store of
+[08:34] value. People are a little bit concerned
+[08:36] about the dollar. People are a little
+[08:38] bit concerned about overvaluation in
+[08:39] stocks. People are really concerned
+[08:41] about about cryptos. And so I think
+[08:44] money is flowing out of some of these
+[08:46] things into these hard assets that are
+[08:48] simultaneously historically great stores
+[08:51] of value and benefiting from a demand
+[08:53] supercycle at the same time. Like why
+[08:55] wouldn't you want to own that? Right?
+[08:57] That makes a lot of sense. It's very
+[08:58] logical. So that I I am very positive on
+[09:00] on that bull thesis. But now with silver
+[09:02] with that recent 30% drop, was that
+[09:05] really fundamentals or was that driven
+[09:07] by leveraged ETFs and option
+[09:09] speculation? Yeah, I think it was a lot
+[09:11] of leverage got built up in there. I
+[09:12] mean, I think what what you saw happen
+[09:13] is that crypto money moved into silver.
+[09:15] Right? That crypto money Bitcoin has not
+[09:18] done what it's supposed to do. You know,
+[09:19] I I'm a long-term Bitcoin believer. I'm
+[09:21] a long-term Bitcoin bull. I've liked it
+[09:23] for 6 7 8 years, but it's I've been very
+[09:27] disappointed with what it's done in this
+[09:29] last in this cycle. That it hasn't acted
+[09:32] like a risk-on asset. In 2025 when tech
+[09:35] stocks, the Nasdaq, the whole NASDAQ
+[09:37] rally more than 20%
+[09:39] Bitcoin fell 6%. So it didn't act like a
+[09:41] risk-on asset. That's really
+[09:43] disappointing. And then it didn't act
+[09:45] like a safe haven, right? It was
+[09:46] supposed to be digital gold, but gold
+[09:48] has picked up all this steam and
+[09:49] momentum over the last 6 months and
+[09:50] Bitcoin has crashed 60%.
+[09:53] So it's like
+[09:54] you're not risk-on, you're not safe
+[09:56] haven, you're kind of stuck in no man's
+[09:58] land. And so I think a lot of long-term
+[10:00] believers have kind of not thrown in the
+[10:02] towel, but temporarily kind of
+[10:04] suppressed their enthusiasm, their
+[10:06] optimism in there reallocating dollars.
+[10:09] I think you saw a lot of dollars
+[10:10] reallocate from crypto into silver. And
+[10:12] when crypto money goes into silver, it
+[10:15] seeks leverage because silver typically
+[10:17] doesn't give you the returns that that
+[10:19] cryptos do. So it seeks leverage. It
+[10:21] seeks options. It seeks way to really
+[10:24] put some torque on that on that and then
+[10:26] I think you know, it obviously we all
+[10:27] knew it was going to blow up at some
+[10:28] point and so you did it blew up and you
+[10:29] got the 30% drop. We found some good
+[10:31] stability in the last week or so after
+[10:34] that 30% decline. We haven't made new
+[10:35] lows. We're kind of just consolidating
+[10:37] around that level and I think it's
+[10:39] basing for the next move higher. That's
+[10:40] my opinion. Okay. So let's go to the big
+[10:43] news. Obviously NVIDIA is going to be
+[10:45] announcing soon. And
+[10:48] uh
+[10:48] it looks like a lot of their customers
+[10:50] are reporting just record results. Super
+[10:52] Micro sales were up 123%.
+[10:56] Guidance higher. They a huge order
+[10:57] backlog. Vertiv Holdings had blowout
+[11:01] results. Taiwan Semi announced that
+[11:03] their sales were
+[11:04] in January were up 37%. That was above
+[11:06] their guidance of 30% for the year. So
+[11:10] this all seems to
+[11:11] to be setting NVIDIA up for a massive
+[11:14] surprise. What do you see? Oh, I agree.
+[11:17] The market is simultaneously pricing in
+[11:19] two things right now that can't coexist.
+[11:22] One, AI is going to disrupt all these
+[11:24] industries massively and two, we're
+[11:25] overspending on AI. Those two fears
+[11:28] cannot be true at the same time. And so
+[11:31] if you're going to pick one
+[11:33] that's overstated, that's overdone, the
+[11:35] one I would pick is we're overspending
+[11:37] on AI. Then I think these AI disruption
+[11:39] risk are pretty real. I do see massive
+[11:43] improvements in the AI models. Claude
+[11:45] Opus 4.6 is fantastic. And then today,
+[11:48] or yesterday, Gemini launched Deep
+[11:50] Think, which is actually blowing Opus
+[11:52] 4.6 out of the water in terms of
+[11:54] reasoning and then all the benchmarks
+[11:56] out there. So, these models are getting
+[11:58] super, super good. See Dance 2.0.
+[12:00] Crystal, I know you're into into film
+[12:02] stuff. That AI video generator is like
+[12:04] sensational. You're seeing videos of
+[12:05] like Tom Cruise and Brad Pitt having a
+[12:07] fistfight on a building in Los Angeles
+[12:10] talking about Jeffrey Epstein. Like it's
+[12:11] it's the craziest stuff off of a
+[12:13] two-line prompt and the type of
+[12:15] realistic. So, these models are
+[12:17] fantastic. I think AI disruption risk
+[12:19] are not overstated. I think the AI
+[12:20] overspending risk are overstated. At
+[12:23] your point, every single company in the
+[12:25] AI supply chain, in that AI spending
+[12:28] blast radius, Applied Materials, Arista
+[12:31] Networks, Synopsys, they're reporting
+[12:33] fantastic numbers. So, how does Nvidia
+[12:35] not report fantastic numbers? So, I
+[12:36] think they're going to report fantastic
+[12:37] numbers and hopefully put to rest these
+[12:39] fears that the AI spending train is
+[12:42] slowing down or it's it's too much, too
+[12:44] soon. I think that Nvidia can, you know,
+[12:46] Jensen Huang is a genius at calming
+[12:49] investors on that conference call. And I
+[12:51] think he will do a great job this time
+[12:53] of calming fears about overspending and
+[12:54] saying, "Hey, this this is actually just
+[12:56] getting started." Yeah, not only is a
+[12:58] great founder and you know,
+[13:01] is a calming investors, he's also a
+[13:03] great politician. He gets to work with
+[13:05] China, he gets to work with Trump, you
+[13:06] know,
+[13:08] bridge all the gaps. You know, my you
+[13:10] know, even though Nvidia's our largest
+[13:12] holding, we're grossly overweighted in
+[13:13] it, you know, it's just interesting how
+[13:16] a company with $5 trillion market cap
+[13:19] can still have their earnings and sales
+[13:21] accelerate. It's it's really a an
+[13:23] interesting physics thing and because
+[13:25] Nvidia's worth more than the entire
+[13:27] British stock market or worth more than
+[13:29] the French, German, and Italian stock
+[13:31] markets combined, it's just going to be
+[13:33] interesting to watch
+[13:35] uh you know, how the results can impact
+[13:38] that stock. It's uh certainly going to
+[13:40] shore it up. I've got it under 20 times
+[13:43] forecasted earnings when I look at a
+[13:44] couple years. So, it's uh it's going to
+[13:47] be a
+[13:48] wonderful grand finale to this earnings
+[13:50] announcement season. Yeah, I I think the
+[13:52] when you talk about Nvidia and all the
+[13:54] AI supply chain stocks, they are
+[13:55] dramatically undervalued on a P multiple
+[13:57] basis because investors seem to be
+[14:00] fearful of the cyclicity of the
+[14:02] semiconductor spending, right? They're
+[14:04] fearful that oh, we've reached peak
+[14:05] CapEx for AI and so earnings are going
+[14:07] to decelerate or fall next year or this
+[14:10] is this is as good as it gets and so
+[14:11] they're priced like the memory stocks
+[14:13] are a great example of this. Micron,
+[14:14] Western Digital, Seagate, they all trade
+[14:16] at pretty low P multiples and it's
+[14:18] because memory is historically very
+[14:19] cyclical and they're concerned that
+[14:21] we've reached the peak of this cycle. My
+[14:23] argument there is So, this year the
+[14:26] hyperscale five are going to spend $710
+[14:28] billion on CapEx. That's basically $2
+[14:30] billion a day. I think that is the new
+[14:32] floor. I don't think that is a ceiling.
+[14:34] I think that is the floor for the next 5
+[14:36] to 10 years. I think these guys are
+[14:37] going to spend $700 billion or more per
+[14:40] year for the next several years. And so,
+[14:43] I think these low P multiples on the in
+[14:46] the supply chain including Nvidia are
+[14:48] nonsensical. And I think you're going to
+[14:50] get a re-rate higher on multiple plus
+[14:52] the earnings growth and you get that
+[14:53] one-two punch and you get a lot of alpha
+[14:55] on those names. So, that's that's how I
+[14:56] look at it. That's why I think the
+[14:57] recent kind of choppiness in a lot of
+[14:59] these supply chain stocks is a
+[15:01] tremendous opportunity, Nvidia included.
+[15:03] So, in your view, who's actually leading
+[15:05] the AI software race right now? So,
+[15:08] everybody wants to know who's who's
+[15:09] going to win, right? Like that's that's
+[15:10] the big question. I my response always
+[15:12] is we're in the third mile of a
+[15:13] marathon. So, I think it's very foolish
+[15:16] to call a winner. So, it looked like
+[15:18] OpenAI was going to run away with it,
+[15:19] right? And then Google punched back with
+[15:21] Gemini and Gemini was amazing. And then
+[15:24] Anthropic punched back with Claude, and
+[15:25] it looked like that was going to be the
+[15:26] best model. And then now Gemini's back
+[15:28] with Deep Think, and ChatGPT's got Codex
+[15:31] and Frontier and all this stuff. So,
+[15:32] they're all launching these new models
+[15:33] that are getting exponentially better,
+[15:35] and the lead keeps, you know, changing.
+[15:37] When you look at like the betting
+[15:38] markets, who's going to have the best AI
+[15:39] model by the end of February is one of
+[15:41] the big big bets out there. And it's
+[15:43] just oscillating like crazy because it's
+[15:46] too early to call a long-term winner
+[15:48] here. And I think that's fabulous for
+[15:50] the supply chain stocks. So, what does
+[15:51] that mean? It means you have
+[15:53] a bunch of competitors
+[15:56] who all think they can win. And if you
+[15:58] think you can win a race, then you're
+[16:00] going to spend like you're going to win
+[16:01] the race.
+[16:03] And so, that's why I think that $700 is
+[16:05] is the new floor. That if it looked like
+[16:07] Google was just going to run away with
+[16:08] it, then OpenAI's investors would stop
+[16:10] giving them money, and they would say,
+[16:11] "You know what? Sorry, let's close up
+[16:12] shop." Or, you know, Anthropic would be
+[16:15] like, "You know what? We can't spend any
+[16:16] more. We're not seeing the returns."
+[16:17] Like, and so then all of a sudden the
+[16:19] spending does slow. But because they're
+[16:21] all so competitive and leapfrogging one
+[16:23] another, they're all going to keep
+[16:24] spending like crazy. And the supply
+[16:26] chain stocks are all going to keep
+[16:27] benefiting. Who's ahead right now? I
+[16:29] would say at this very moment, as of
+[16:31] this recording, probably Gemini has a
+[16:32] slight lead. But Anthropic's not too far
+[16:35] behind, and ChatGPT's not too far behind
+[16:37] that. And then probably next month, if
+[16:39] we had the same recording and the same
+[16:41] question, I would have a different
+[16:42] answer. And the month after that it'd be
+[16:43] a different answer. And that is That's
+[16:45] the game we're in right now. Third mile
+[16:46] of a marathon. So, we're in a perpetual
+[16:48] motion machine.
+[16:51] There you go.
+[16:52] >> All right. Let's talk about the job
+[16:54] situation. Obviously, the January
+[16:56] payroll was better than expected. I
+[16:58] think lost 42,000 government jobs, but
+[17:01] created 172,000
+[17:03] private jobs, although that disagrees
+[17:05] with ADP, but it seems like there might
+[17:07] be hope on the job front. Now, Stanford
+[17:10] wrote this report The Hoover Institute
+[17:12] wrote a report why the computer science
+[17:14] majors at Stanford couldn't get jobs.
+[17:17] And uh this was this is a few months
+[17:18] ago. And uh obviously that's half of
+[17:20] their graduates. So it's a kind of a big
+[17:22] deal. You know, you went to Caltech, you
+[17:25] know a lot of smart people. I assume
+[17:27] they're all employed, right? Anybody can
+[17:28] get a job gets a job, right? But they
+[17:30] just might not all be able to work for
+[17:32] JPL or their first choice. Yeah, I I
+[17:34] would say that in my circle, everyone's
+[17:39] employed, but nobody wants to leave.
+[17:41] That people are afraid that if they do
+[17:43] leave, cuz I In 2021, 22, even going
+[17:47] into 23, there was a lot of jumping.
+[17:49] Everybody in my circle was jumping.
+[17:51] People were at Tesla and they left Tesla
+[17:53] to go to SpaceX. They were at SpaceX and
+[17:55] left SpaceX to go to Rocket Lab. Or they
+[17:57] were Like there was a lot of jumping
+[17:58] because people felt very comfortable
+[18:00] that if I leave this job, my skill set
+[18:02] is so valuable that I can find
+[18:05] employment anywhere else. That comfort
+[18:07] is like completely gone now. So
+[18:09] everybody's still employed, but even if
+[18:12] they hate their job, they're not even
+[18:13] considering leaving. Because they are
+[18:15] fearful that they've heard horror
+[18:17] stories of other friends who did leave
+[18:19] or quit or got laid off and they're
+[18:21] just, you know, twiddling their thumbs.
+[18:23] Like they there is no employment for
+[18:24] them right now. So I would say that in
+[18:27] my circle, that's what has happened.
+[18:28] Everyone is employed, everyone has jobs,
+[18:30] but nobody wants to leave. And I think
+[18:33] you're seeing that in the job sector,
+[18:34] right? The quits rate has been has been
+[18:35] steadily declining. And
+[18:37] I think that's Yeah, I think that's
+[18:39] that's a micro cause. And that's
+[18:40] especially true in the tech sector,
+[18:42] computer science sector, engineering
+[18:44] sector, where you're seeing this AI
+[18:46] disruption risk the most prevalent.
+[18:49] >> Let's talk space. What are your favorite
+[18:50] space stocks right now and why? And
+[18:52] beyond space, what other sectors or
+[18:54] specific stocks are you most excited
+[18:56] about?
+[18:56] >> Yeah, I would say, I mean, I got my big
+[18:58] three of space, Planet Labs, PL, Rocket
+[19:02] Lab, RKLB, and uh AST SpaceMobile, ASTS.
+[19:05] So that's my big three. I think they're
+[19:07] all going to benefit tremendously from
+[19:10] what I expect to be an accelerated
+[19:11] orbital compute ramp over the next 12 to
+[19:14] 36 months because Planet Labs is already
+[19:17] working with Google to do orbital
+[19:19] compute. Because what's going to happen
+[19:21] here is Elon's going to do it and if he
+[19:24] does it well, it's going to create FOMO
+[19:26] amongst everybody else because they own
+[19:29] SpaceX and SpaceX is one of only two or
+[19:32] three companies that can repeatedly get
+[19:34] into space. So, if Microsoft sees that,
+[19:38] they're going to be very desperate to
+[19:40] find their own rockets to get to space.
+[19:42] And if Alphabet sees that, they're going
+[19:43] to be very desperate to get their own
+[19:44] rockets to go to space. And they're not
+[19:45] going to go to space fast cuz they don't
+[19:46] want to rely on their competitor to
+[19:48] launch them into space. So, they're
+[19:49] going to go to the Planet Labs of the
+[19:51] world. They're going to go to the Rocket
+[19:52] Labs of the world. And so, I think these
+[19:54] companies benefit tremendously from a
+[19:57] FOMO catch-up trade or catch-up spending
+[20:00] wave by everyone not named Elon,
+[20:03] everyone not in the Elon universe in the
+[20:05] AI world. And so, I think those stocks
+[20:08] are going to benefit tremendously. Then
+[20:09] AST SpaceMobile, they do networking.
+[20:12] And I think again, that's going to be a
+[20:13] catch-up trade that as Elon consolidates
+[20:16] his empire, obviously his orbital
+[20:19] communication part of that is a huge
+[20:21] piece of that. And so, they're going to
+[20:23] need, they meaning Microsoft, Alphabet,
+[20:25] Amazon, the others, are going to need
+[20:27] some orbital communication as well. And
+[20:29] that's AST SpaceMobile. That's the only
+[20:30] other one out there that's viable
+[20:33] besides what's in Elon's universe. And
+[20:34] so, I think these three stocks are going
+[20:36] to benefit from a FOMO trade from the
+[20:38] rest of the AI world as Elon does
+[20:40] successfully pioneer orbital compute. So
+[20:42] Luke, are all the satellites pretty much
+[20:44] solar powered cuz I know
+[20:47] a long time ago when NASA launched
+[20:49] Voyager, they had nuclear batteries
+[20:52] cuz they last longer. So, is it is it
+[20:54] mostly solar powered cuz they're just
+[20:56] running around the earth? I would say
+[20:57] most of them are solar powered. But
+[20:59] they're different solar panels. They're
+[21:00] not like you can't just take like a
+[21:03] you know, a solar panel that Enphase
+[21:04] makes here on earth and you know, throw
+[21:06] it up there on in space that physically
+[21:08] does does not work. So they have to be
+[21:09] very special custom solar panels and
+[21:12] actually Rocket Lab has a whole division
+[21:14] dedicated to making those those custom
+[21:16] solar panels. That's another reason I
+[21:17] think they can benefit tremendously. And
+[21:19] I assume that space debris is could hurt
+[21:22] them. I guess it depends on what orbit
+[21:23] they're in, right? I mean Yeah, so I
+[21:25] think all these are going to go up into
+[21:27] LEO, so low earth orbit. I think they're
+[21:29] you know, debris is is a problem,
+[21:31] radiation is a problem. You're going to
+[21:33] need a a rad harden they call it
+[21:35] radiation harden this equipment because
+[21:37] if you get a radiation blast and the
+[21:38] data center just fries, that's no good.
+[21:41] So you got to you got to rad harden
+[21:42] everything. The GPUs got to get rad
+[21:44] harden, the networking has to get rad
+[21:45] harden. All that stuff has to get rad
+[21:47] harden. That's more of an internal job.
+[21:49] There's not really like a company that
+[21:50] sells rad hardening solutions. So
+[21:52] unfortunately there's not really a way
+[21:54] to play that, but that is something that
+[21:55] has to happen. It's an additional cost
+[21:57] factor. That looks fascinating. So final
+[21:59] question, Luke. Quantum computing,
+[22:01] obviously I've written reports on it. I
+[22:04] think you've done promotions on it. It's
+[22:07] it's my perception and and just correct
+[22:09] me if I'm wrong that we have Okay, we
+[22:12] got Vera Rubin from Nvidea. It's going
+[22:14] to be big upgrade cycle. Then we got one
+[22:16] more special chip after Vera Rubin. And
+[22:18] after that Nvidea can't make the chips
+[22:20] faster cuz they're approaching the
+[22:22] atomic level on the circuit board. And
+[22:24] that's why they have um uh they had a
+[22:27] quantum day and they had the
+[22:29] Everybody's trying to figure out how to
+[22:30] program the quantum computers. So when
+[22:34] will this explode? Will explode in, you
+[22:36] know, 2030 or 2032? And and then we know
+[22:41] they they got good sales. Then when will
+[22:44] the earnings eventually show up? So I
+[22:45] guess that's my question. Yeah, I mean I
+[22:47] would say your timeline is pretty spot
+[22:48] on there. You know, we we get an upgrade
+[22:50] cycle from Nvidea once a year pretty
+[22:52] much. Uh so we'll get another one in 27.
+[22:55] And then 28 is probably when rubber
+[22:56] meets the road. And so that's when we
+[22:58] have to have some quantum stuff in
+[23:00] there. I don't know if it's a pure
+[23:01] quantum chip or if it's partial partial
+[23:03] quantum, but we're going to have have to
+[23:05] have some quantum in there. So, I think
+[23:06] 2028 could be seen as a year like a real
+[23:09] inflection point for a lot of these
+[23:10] quantum players. And I think the
+[23:12] inflection point is going to be that
+[23:13] Nvidia makes some splashy acquisition.
+[23:16] That I don't think it's going to be like
+[23:17] IonQ suddenly is growing at 1,000%
+[23:20] year-over-year. I think it's going to be
+[23:21] IonQ gets bought out at 1,000% premium
+[23:24] and then grows inside of Nvidia at a,
+[23:26] you know, 1,000% year-over-year or
+[23:28] whatever it may be. So, I think that's
+[23:29] kind kind of what happens and then maybe
+[23:31] if Nvidia does that, Alphabet does the
+[23:32] same thing
+[23:33] because they have their TPU program,
+[23:35] their tensor processing unit program to
+[23:36] compete with Nvidia's GPUs. So, maybe
+[23:39] you get multiple splashy acquisitions in
+[23:41] the space. I think that can come in in
+[23:42] 2028. But I this is the next big thing.
+[23:45] Market's just cooled on it because I
+[23:46] think, you know, macroeconomic stuff and
+[23:49] AI disruption fears and everything is
+[23:50] kind of taking front center and so
+[23:52] investors sell the the risky stuff
+[23:54] first. And this is obviously out on the
+[23:55] risk spectrum because it's long duration
+[23:57] in nature. You know, I I nothing about
+[23:59] the underlying fundamental growth thesis
+[24:01] for quantum has changed in the last
+[24:02] three to four months. Just the price
+[24:04] action on these stocks due to other
+[24:05] factors. So, if you're willing to look
+[24:07] past that and and be a long-term player
+[24:09] here, I think this is this is a good
+[24:11] opportunity for for a lot of these
+[24:12] stocks. I think you have to be a little
+[24:14] discerning. Not all of them will
+[24:16] succeed. You have to look at who's got
+[24:18] the technical supremacy, if you will.
+[24:20] And in my view, based on the people I've
+[24:22] talked to and the research I've done,
+[24:23] IonQ is is like head and shoulders above
+[24:25] a lot of the others in the space right
+[24:27] now. And yeah, so that's that's where we
+[24:29] are. We're we're very bullish on IonQ
+[24:32] and less bullish on on the others in in
+[24:34] the space just from a technical
+[24:36] perspective. Well, let's summarize it
+[24:38] for people. So, Ion
+[24:40] IonQ invented qubits, which is how you
+[24:43] package the data for the the the quantum
+[24:46] computing. D-Wave won the Nvidia
+[24:48] programming contest and then Rigetti's
+[24:51] an encryption expert. What am I missing?
+[24:54] Is is that kind of the track everybody's
+[24:56] going on right now? Yeah, I I would say
+[24:59] Rigetti spy on encryption, D-Wave
+[25:01] longest running player in the game, a
+[25:03] lot of experienced talent there. They've
+[25:06] been doing this the longest. And then
+[25:08] IonQ's real trick, if you will, or
+[25:11] special sauce is their trapped ion
+[25:14] computing stuff, which allows us that's
+[25:16] that's
+[25:17] Don't want to get too technical. It's a
+[25:18] specific way to do quantum computing
+[25:20] that allows them to miniaturize it. And
+[25:22] they do that better than than everybody
+[25:24] else. They can get these quantum
+[25:25] computers as opposed to those big kind
+[25:26] of gold spiral things that you see
+[25:29] sometimes in your Google quantum
+[25:30] computers. They miniaturize it into
+[25:32] chips. And so that's why we like them
+[25:34] the best. We think that is a major
+[25:35] technical breakthrough that
+[25:36] miniaturization is a major technical
+[25:38] breakthrough that they are way ahead of
+[25:40] everybody else on and is going to be pay
+[25:42] huge commercial dividends in the long
+[25:44] run. And I have one final AI question
+[25:47] cuz I thought you might give us some
+[25:49] insight in that. Are we ever going to
+[25:50] have AI for dummies? You know, we used
+[25:52] to have those books, you know, finance
+[25:54] for dummies amazing things.
+[25:56] Because the machine learning looks at so
+[25:58] much data,
+[25:59] I would just think that we could have
+[26:02] look at some correlated things and not
+[26:04] look at everything. And and we could
+[26:07] have cheaper, more efficient AI.
+[26:09] You know, kind of like our Alexa in our
+[26:11] home. I mean, it doesn't need to look
+[26:13] into our credit card and figure out who
+[26:15] we are based on our spending patterns.
+[26:17] And you know, we'll be getting all these
+[26:18] home AI devices, consumer appliance type
+[26:21] devices. So to to me it it's like some
+[26:25] AI is is going to be like our pets or
+[26:27] our kids conditioning us. You know what
+[26:29] I mean? Uh
+[26:30] we might think we're training them, but
+[26:32] they're really training us. So is there
+[26:34] ever going to be this I don't know if
+[26:36] dumb AI is the right description, but or
+[26:39] less correlated AI or or more targeted
+[26:42] AI, I guess is what I'm trying to say.
+[26:44] Yeah. So in the industry, we call it
+[26:47] LLMs versus SLMs. So LLMs are large
+[26:51] language models. That's what we all
+[26:52] know, ChatGPT, Grok, and Gemini, and
+[26:55] Claude. And then there's SLM's, which
+[26:57] are small language models. So, for to
+[26:59] your point, that's AI for dummies. Like,
+[27:01] okay, I want AI on my fridge. I don't
+[27:03] need it to know the answer to the
+[27:05] universe. I just need it to know about
+[27:07] the fridge, right? And the foods inside
+[27:09] of it. So, that would be a small
+[27:10] language model. And so, there are the
+[27:13] companies are working on on SLM's, and
+[27:15] that's mostly through their inference
+[27:16] pivot. So, as opposed to doing the
+[27:17] training, they're doing the inferencing,
+[27:19] they're doing cloud or they're doing
+[27:20] edge compute. And that's where I think
+[27:22] the next big bottleneck could be in
+[27:24] artificial intelligence, actually. That
+[27:27] if you kind of look at what have been
+[27:28] the biggest winners in the AI train over
+[27:30] the last 3 years, there have been
+[27:32] bottlenecks that have emerged, and the
+[27:34] companies in those bottlenecks are the
+[27:35] ones that just kind of pop off like
+[27:37] crazy. Like, we had the bottleneck first
+[27:39] in in GPUs, then we had the bottlenecks
+[27:41] next in
+[27:42] in servers and SMCI and Dell, and those
+[27:45] stocks went crazy. Then you had a
+[27:46] bottleneck in networking, Lumentum,
+[27:48] Coherent, Crito. Then you had a
+[27:49] bottleneck in cooling equipment, you had
+[27:51] a bottleneck in power, you had a
+[27:52] bottleneck in memory. So, they've been
+[27:54] kind of just one bottleneck after the
+[27:55] other, and that's kind of sparked these
+[27:57] massive rallies in these stocks over a
+[27:59] short amount of time. I think the next
+[28:01] bottleneck could be, to your point, at
+[28:03] this shift to SLM's, AI for dummies, to
+[28:06] inference, and that's going to create a
+[28:07] bottleneck in edge chips. So, these are
+[28:09] smaller chips, more efficient chips.
+[28:11] They're not like the GPU Ferraris,
+[28:13] they're just like little edge Fords, if
+[28:16] you will, or edge Toyotas, right? And
+[28:18] Ambrella is really good at that.
+[28:20] Qualcomm, surprisingly, is really good
+[28:22] at that. NXP is really good at that. And
+[28:25] so, these are stocks that kind of been
+[28:27] Qualcomm, specifically, a sleeping titan
+[28:30] in this space. All these other chip
+[28:31] stocks have gone crazy, but Qualcomm is
+[28:33] not at all. It's been stuck in the mud.
+[28:35] But, I think it could wake up in a big
+[28:36] way if edge AI does become the next
+[28:38] bottleneck. That's a stock that could
+[28:40] follow, you know, kind of like a Micron
+[28:43] or a not an SMCI, that's too small. A
+[28:46] Micron or a Dell sort of kind of hockey
+[28:49] stick growth over a matter of 12 months.
+[28:51] So, I think that's a space that could
+[28:52] wake up. I do think that's a big pivot
+[28:54] that's coming as a pivot to SLMs and
+[28:56] these mini models that don't need to
+[28:58] know the answers to the universe, just
+[28:59] need to know
+[29:03] So Wonderful. Wonderful. Well, thank
+[29:04] you, Luke. You gave us some insight that
+[29:06] we just don't hear every day. So, we
+[29:08] really appreciate you painting a picture
+[29:10] of where we're headed. Yeah, thanks guys
+[29:12] for having me. Always a pleasure. Thank
+[29:13] you all so much for watching. We really
+[29:14] hope you enjoyed this video and really
+[29:16] appreciated all of Luke's insights.
+[29:18] Please make sure you give this video a
+[29:20] like and subscribe if you haven't
+[29:21] already, but we will see you all this
+[29:22] Wednesday for a new midweek update.
+[29:25] Thanks so much, everyone.
+[29:27] >> [music]
+[29:33] [music]

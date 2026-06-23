@@ -7,9 +7,810 @@ Type: video
 Duration: 34:15 (2055s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 802
+Transcript characters: 29209
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:14] Hello everyone. Welcome back to Navalier
+[00:16] Market Buzz episode 33. I'm Crystal
+[00:18] Navalier and I'm joined this week with
+[00:20] my father Louis Navalier. We have an
+[00:22] extra special guest, Dr. Ed Yardini, who
+[00:24] is the president of Yardini Research,
+[00:26] providing global investment strategy.
+[00:29] He's the author of predicting the
+[00:30] markets and has over 40 years of
+[00:32] experience forecasting the economy. His
+[00:34] past roles include leadership at oink
+[00:37] Associates, Credential, and Deutsch
+[00:39] Bank, as well as positions at the Fed,
+[00:41] the US Treasury, and Colombia Business
+[00:43] School. Thank you so much, Ed, for being
+[00:45] here. Sure. Thank you. And I'd like to
+[00:48] add that we buy Ed's research at my
+[00:50] management company. Uh I am hooked on
+[00:53] Ed's charts uh because, you know, the
+[00:54] charts often say it better than I can.
+[00:57] So, we really do appreciate Ed's
+[00:59] insight. Thank you. Now, Ed, you issued
+[01:02] a quick take alert on the vigilantes.
+[01:04] Can you explain to our viewers why
+[01:06] they're so influential and why you say
+[01:08] they hit a home run? Well, uh, I coined
+[01:12] the the phrase bond vigilantes back in
+[01:16] 1983. Uh, there was a a terrible
+[01:19] inflation uh experience during the 1970s
+[01:22] that uh most bond investors didn't
+[01:25] anticipate. So they bond investors
+[01:27] weren't vigilant. Uh inflation soared.
+[01:29] Uh the Fed had to raise interest rates
+[01:32] and uh bond investors lost a lot of
+[01:35] money in in the bond market. Uh then um
+[01:39] at that time Fed chairman Paul Vulker
+[01:42] came in raised interest rates
+[01:43] dramatically in the late 70s broke the
+[01:46] back of inflation and wouldn't you know
+[01:48] it just as inflation was basically
+[01:50] heading down for many years. Uh we saw
+[01:53] the emergence of bond
+[01:55] investors becoming bond vigilantes. They
+[01:58] they were suddenly they'd gotten
+[02:01] religion and realized how important
+[02:02] inflation was. Uh so anyways, in the
+[02:04] 1980s, there were about three episodes
+[02:07] where there was concern that inflation
+[02:09] was making a comeback. Everybody was
+[02:10] very twitchy about inflation after what
+[02:13] happened in the 1970s. And sure enough,
+[02:16] the bond vigilantes basically took law
+[02:18] and order into their own hands, they
+[02:20] basically were saying if the Fed and
+[02:22] fiscal authorities aren't going to keep
+[02:24] inflation down, they're going to be
+[02:27] vigilant and uh and react to it. So bond
+[02:29] vigilantes are really just bond
+[02:31] investors that um you know are very
+[02:34] nervous about uh inflation and now
+[02:36] they're also very nervous about the size
+[02:38] of the federal uh deficit and the debt.
+[02:41] So they've actually become more powerful
+[02:43] because there's a lot more federal debt.
+[02:45] Uh, when I coined the phrase bond
+[02:46] vigilantes back in 1983, I I went back
+[02:49] and and read what I wrote and I and I
+[02:52] and and I wrote that the bond vigilantes
+[02:54] were very upset about a $200 billion
+[02:57] deficit uh at an annual rate. Now we're
+[03:00] looking at$ two trillion dollar deficits
+[03:02] and higher. Um, and so this uh this
+[03:05] problem hasn't gotten any better and the
+[03:07] bond market has gotten more powerful in
+[03:10] in dealing with this issue. And as we've
+[03:12] seen recently, um, uh, we've seen
+[03:15] President
+[03:17] Trump kind of blink and, uh, postpone
+[03:20] his 90day reciprocal tariffs because the
+[03:23] bond market was acting very poorly as
+[03:26] bond vigilantes worried that the the
+[03:28] trade war could at least initially
+[03:31] revive inflation because tariffs would
+[03:34] mean higher prices.
+[03:36] Now, do you have any idea how the 145%
+[03:40] tariffs on China might eventually be
+[03:41] resolved?
+[03:43] No idea other than both both sides have
+[03:48] a great deal to lose if it doesn't get
+[03:50] resolved. And uh it seems as though it's
+[03:53] kind of, you know, a clash of the titans
+[03:56] here between President Xi of China and
+[04:01] President Trump. They're both big egos.
+[04:03] They both are very powerful and uh they
+[04:07] both don't want to come out of this
+[04:08] thing looking like they they gave in. Um
+[04:11] but um you know I I see that you're uh
+[04:15] you've got the Hudson River in the in
+[04:17] the background and that Trump came uh
+[04:20] from Queens, moved to Manhattan, and
+[04:22] he's a New York City uh real estate
+[04:25] developer. And u when when these
+[04:27] developers uh get together and uh just
+[04:31] try to work things out with their unions
+[04:33] and politicians and all that, they
+[04:35] scream at each other uh behind closed
+[04:37] doors so none of us have to hear it. Uh
+[04:39] and they bully each other and they
+[04:41] threaten each other and then they come
+[04:43] up with a deal and come out come out of
+[04:45] the room smiling and shaking hands like
+[04:47] they just worked out a great deal for
+[04:49] everybody concerned. the the problem we
+[04:51] have is Trump is using these same skills
+[04:54] but not behind closed doors and he's
+[04:56] using it on a global basis. So it's it's
+[04:58] messy, it's ugly, it's not a pretty
+[05:00] thing to watch. Uh but uh at the same
+[05:04] time at the end of the day he does want
+[05:05] to do a deal. So let's hope that uh he
+[05:09] really is a at good at at doing deals.
+[05:11] He's got a spotty record as a as a
+[05:13] businessman, but uh you know, clear
+[05:16] clearly u he's trying to negotiate some
+[05:19] deals that are beneficial to the US and
+[05:21] he's trying to uh use America's economic
+[05:24] power to bully other countries countries
+[05:27] to uh kind of give us what we want. But
+[05:30] it's going to be real hard to bully
+[05:31] China. Um but there may be another game
+[05:35] plan here. It's conceivable that he's
+[05:38] got no interest in doing a deal with
+[05:40] with China. It's conceivable that uh the
+[05:42] US has come to the conclusion that China
+[05:44] is a geopolitical uh threat to the
+[05:47] United States and what we're trying to
+[05:49] do is uh ruin their economy and it may
+[05:52] not be that hard to do. I think we're
+[05:54] trying to I think that's the game plan.
+[05:55] Well, what's interesting is that the
+[05:57] Financial Times this past week implied
+[05:59] that China might be getting close to
+[06:01] devaluing their currency. Do you think
+[06:03] that this actually might happen?
+[06:05] Uh yeah, I mean it's ab absolutely uh
+[06:08] possible. uh which then means that the
+[06:10] the dollar is strong relative to the to
+[06:12] the yuan. Uh so you know on the one hand
+[06:16] Trump is raising the the the prices of
+[06:19] buying stuff from China with with the
+[06:23] tariffs. On the other hand, China is
+[06:25] saying well we can uh you know tit for
+[06:27] tat and we'll we'll devalue our currency
+[06:31] and reduce that price. So, uh, well, and
+[06:35] of course that's been one of the
+[06:36] complaints here of the Trump
+[06:38] administration is that, uh, they're
+[06:40] looking not just at posted tariffs, uh,
+[06:42] but they're also looking at at trade
+[06:44] barriers. They're looking at currency
+[06:46] manipulation. Uh, they don't want to see
+[06:48] currency manipulation. If the Chinese
+[06:50] come and basically, you know, poke a,
+[06:53] you know, thumb
+[06:55] in in in Trump's face, then uh by by
+[07:00] devaluing, it could be the continuation
+[07:03] of what is already looking like just a
+[07:07] downright straight out trade war. Not a
+[07:10] pretty thing to watch and obviously it
+[07:12] has a lot of impact on all of us. Now,
+[07:13] with crude oil prices at a 4-year low,
+[07:17] is there hope that consumer prices might
+[07:19] remain soft despite this 10% mandatory
+[07:22] tariffs? It's a good question, and I
+[07:24] think the answer is clearly yes. Um,
+[07:26] it's it's a situation where uh the
+[07:30] commodity markets have been very weak,
+[07:32] particularly the oil price. Uh we have
+[07:34] seen the price of oil coming down. And
+[07:36] again, there may be a lot of
+[07:38] geopolitical considerations there.
+[07:40] Ronald Reagan defanged Russia, kind of
+[07:44] broke up the Soviet Empire u by by uh
+[07:49] working with the Saudis to lower the uh
+[07:52] the price of oil. He told the Saudis
+[07:55] basically, you know, if we're really our
+[07:57] allies, uh we we need your help here and
+[07:59] we need you to produce more oil. Uh and
+[08:02] it worked. Uh the Soviet Union's uh
+[08:05] revenues imploded. uh they also had
+[08:08] Chernobyl which made them realize how
+[08:10] how danger dangerous they are to
+[08:12] themselves. So the Soviet empire
+[08:14] collapsed and I think now Trump sees
+[08:17] lower oil prices is serving a similar
+[08:19] purpose of uh emiserating impoverishing
+[08:24] uh bankrupting Russia's uh war effort
+[08:27] here by reducing their revenues from
+[08:30] selling oil. I mean, clearly there are a
+[08:32] lot of sanctions on on Russian oil, but
+[08:34] the Russians are getting it to China.
+[08:35] They're getting it to India. They're
+[08:37] getting it out. Um, so that uh that
+[08:40] that's that's something that Trump
+[08:43] uh is clearly orchestrating here. And
+[08:47] OPEC plus just recently announced that
+[08:49] they're actually going to produce more
+[08:50] oil in a world where Chinese demand has
+[08:53] been affected by their own domestic
+[08:55] property recession. Also, the Chinese
+[08:58] are all driving or mostly driving or
+[09:00] increasingly driving um electric
+[09:03] vehicles and so they need le less oil.
+[09:07] Uh and it's kind of a strange situation
+[09:10] because Trump said drill baby drill, you
+[09:13] know, we're going to be the we're going
+[09:15] to continue to produce more oil and gas
+[09:17] and pump it out. Uh the problem is if it
+[09:20] drops the price, which it is, it gives
+[09:22] less incentive to drill baby drills. So,
+[09:25] you know, it is still a a relatively
+[09:27] free market, but u all in all there's a
+[09:30] lot of moving parts here and what's
+[09:31] going on in the oil market. But to your
+[09:33] point, yeah, sure. I mean, energy is a
+[09:36] very important part. When uh Trump was
+[09:39] uh uh running for president, he he
+[09:42] promised that he'd bring prices down and
+[09:45] and he never said that he would actually
+[09:46] bring meat prices down or auto insurance
+[09:50] prices down. What he said is that he'll
+[09:52] bring oil prices down. And since oil is
+[09:54] such an important part of cost that that
+[09:58] in turn would help to take the pressure
+[10:00] off of other prices. So and and that
+[10:03] could take a little while to see it
+[10:05] unfolding. But again, everything is so
+[10:08] bizarrely complicated u because while
+[10:11] he's uh backed off and postponed the
+[10:14] reciprocal tariffs on everybody except
+[10:17] uh China for 90 days, uh he's also going
+[10:20] through with his 25% tariffs on imported
+[10:24] cars. I I really don't understand the
+[10:26] need for that. I don't see a national
+[10:28] security interest in in that at all. and
+[10:31] it's extremely disruptive to uh the
+[10:34] trade between Mexico and and Canada. Uh
+[10:38] but uh the um that's going to lead to
+[10:41] higher uh auto prices uh and uh really
+[10:44] quite within the next few months and
+[10:46] that in turn will lead to higher auto
+[10:48] insurance and higher maintenance and uh
+[10:51] repair costs. And the reason I raised
+[10:54] all that is because that was a big
+[10:55] problem that we've had over the past two
+[10:57] years uh with resurgent uh inflation.
+[11:01] So, um, it's it's a pity that he didn't
+[11:04] also hold off on the 25% tariff on autos
+[11:08] and why, you know, he Navaro and some of
+[11:12] the other hawks on trade feel it's
+[11:14] necessary that we produce all the parts
+[11:16] of a car, including transmissions and
+[11:18] engines and you know, we do produce a
+[11:20] lot of the parts here, but um, you know,
+[11:22] it's a very u in complicated supply
+[11:27] chain and um, raising the cost of
+[11:30] producing a car is uh is not what he
+[11:33] promised in terms of bringing prices
+[11:35] down. Now with all this chaos and
+[11:37] anxiety, do you think that Scott Basset
+[11:40] and Kevin Hasset are the best
+[11:41] administration officials to calm the
+[11:43] financial markets?
+[11:45] Doesn't really matter much what I think
+[11:48] we we've got them whether whether you
+[11:51] you think they're doing a good job or
+[11:53] not. Uh I think
+[11:55] uh Peter Navaro is is a disaster. Um,
+[12:00] and I have good company in that regard.
+[12:02] Uh, Elon Musk called him dumber than a
+[12:05] sack of bricks. Um, and I think that's
+[12:10] actually a pretty accurate description.
+[12:11] I mean, he's annoying me big time by
+[12:15] saying that, oh, the stock market
+[12:18] decline is no big deal. It's like, well,
+[12:21] maybe not not to him. I don't know. I
+[12:22] don't know what he's got his money
+[12:24] invested in, but a lot of Americans have
+[12:27] their money invested in America. Uh, you
+[12:30] know, Maril Lynch used to have an ad,
+[12:32] you know, bullish on America, and the
+[12:33] idea was you you want to invest in
+[12:35] America because you believe in America
+[12:37] and you're contributing to America. Uh,
+[12:41] and uh,
+[12:42] even Bessant kind of annoyed me by by
+[12:46] saying that well, we're focusing on uh,
+[12:49] uh, on Main Street rather than Wall
+[12:51] Street. I mean, that sounds like a kind
+[12:54] of that sounds actually pretty socialist
+[12:56] uh for a guy who's a hedge fund guy and
+[12:59] should know better. The reality is 60%
+[13:02] of Americans have some exposure to the
+[13:04] market. And while, you know, the
+[13:06] wealthiest obviously have the the
+[13:08] majority of the ownership of equities,
+[13:11] um the uh the ownership that lower
+[13:14] income, lower wealth people have to them
+[13:16] is just as important, maybe more
+[13:18] important. Uh and uh I I know that from
+[13:21] uh personal experience. I I went to my
+[13:24] barber uh on Sunday and u he's open on
+[13:27] Sundays. Uh uh there's nobody there. I
+[13:30] sat down. He started cutting my hair and
+[13:33] a guy walks in. He say, "Hey, how are
+[13:36] you?" He said, "Ah, terrible." I said,
+[13:37] "What's the matter?" Said, "I lost
+[13:39] $40,000 in two days last week." He says,
+[13:42] "It's horrible. I don't get what's going
+[13:44] on." And then somebody else walks in and
+[13:46] they start talking about the market. So
+[13:49] I I don't know what their the incomes of
+[13:50] these people, but even the barber
+[13:52] complained and I'm sure he's not
+[13:53] independently wealthy. Uh so I I think I
+[13:57] think the fact is uh Wall Street is Main
+[13:59] Street. Uh Wall Street depends on Main
+[14:01] Street. Uh and um this notion that it
+[14:05] doesn't really matter what the stock
+[14:06] market's doing is is just wrong. So Ed,
+[14:09] I think the dollar's down 8% this year.
+[14:11] That's uh pretty dramatic. Uh that
+[14:14] that's why treasury prices are going
+[14:16] higher, right?
+[14:17] the
+[14:17] international investors and our treasury
+[14:20] securities are nervous.
+[14:22] Yeah, I think um you know we have seen
+[14:24] the stock market down, the dollar down
+[14:26] and bond bond prices down. That's not
+[14:28] not a good combination. And suddenly
+[14:30] people are asking whether US treasuries
+[14:33] are actually um a safe a safe asset to
+[14:37] to own and with the kind of volatility
+[14:39] we're seeing in the bond market. So uh
+[14:42] yeah, I think uh I I think where the uh
+[14:46] Trump uh uh people are uh naive is in
+[14:50] believing you could just upend uh the
+[14:53] global geopolitical and economic order
+[14:56] all in one time and that it's not going
+[14:59] to have all sorts of unintended
+[15:01] consequences. Uh I mean some of the
+[15:03] consequences have actually been
+[15:04] positive. Uh we have seen the Chinese
+[15:07] responding to uh Trump tariffs 2.0 by
+[15:12] stimulating their consumers. I don't
+[15:14] think it's going to work, but we've been
+[15:15] asking them to do this for a long time.
+[15:18] Uh we've been asking the Germans to
+[15:19] spend more on defense and run deficits
+[15:22] to stimulate their economy and and
+[15:24] they're doing that. So those have been
+[15:26] positive consequences. But uh the
+[15:29] negative consequences have been uh
+[15:32] perception that the United States might
+[15:34] actually shoot itself in in both feet
+[15:36] and get hurt by these tariffs more than
+[15:38] the rest of the world. In which case uh
+[15:41] interest rates would have to go down at
+[15:43] some point and that would be bad for the
+[15:45] dollar. But I I think the the dollar
+[15:48] issue uh is u the flip side of what's
+[15:51] going on the dollar is what's going on
+[15:52] with gold. Uh we've been bullish on gold
+[15:54] since it crossed above 2,000. Uh and um
+[15:59] it just looked like a breakout on the
+[16:01] charts, but um there's been a good
+[16:03] reason for that. And uh and that is when
+[16:06] Russia invaded Ukraine, the United
+[16:09] States froze the the assets that were
+[16:12] accessible to us um of of of Russia. And
+[16:16] so the central banks in countries that
+[16:19] we don't get along with like Russia,
+[16:20] like China, uh, Venezuela, Iran, they
+[16:24] all realize that they don't want to have
+[16:28] currencies like the dollar that can be
+[16:30] frozen on them. And so they um they've
+[16:34] been buying gold. Uh, so I think that's
+[16:37] I think we're almost going to back to a
+[16:39] gold standard in in some ways. And that
+[16:41] that is in fact weak weakening the
+[16:43] dollar. I I think the backup in bond
+[16:46] yield is is partly related to that. I
+[16:48] think it's also related to the fact that
+[16:50] uh
+[16:51] uh China and Germany and Europe are are
+[16:54] running running more stimulative deficit
+[16:57] financed policies which has driven up
+[17:00] their bond yields and uh so you know the
+[17:03] bond market's a global market and so
+[17:05] that's pushed bond yields higher and
+[17:08] then I think you know at some point here
+[17:11] um supply is going to matter. I've been
+[17:13] doing this for 45 years and uh you know
+[17:17] I've been I've come to conclude that
+[17:19] I'll worry about the the deficit and the
+[17:21] debt when the bond market worries about
+[17:23] it. Uh well I have a feeling the bond
+[17:25] market is getting quite unsettled uh
+[17:28] with the course we're on with regards to
+[17:30] deficit uh financing so much spending.
+[17:33] You know I'm glad you mentioned gold.
+[17:34] Um, we recommend five uh gold stocks and
+[17:37] um I think comics uh their inventories
+[17:41] were up 43% in January and then they
+[17:43] were up uh 25% in February and the the
+[17:47] dumping of gold in America is even going
+[17:50] to impact our GDP estimate at least Fed
+[17:54] says so. It's quite shocking. Yeah, it
+[17:59] it certainly is. Um but uh yeah, gold uh
+[18:03] gold looks like uh it's hard to come up
+[18:05] with a reason not to like gold. Uh I
+[18:08] mean the geopolitical uh situation's
+[18:11] only getting testier, I would think. I
+[18:14] mean uh maybe things are settling down
+[18:16] and the United States is directly
+[18:17] negotiating with Iran. Uh but I'm not
+[18:20] convinced that much is going to come out
+[18:22] of that. So that still may may be a
+[18:24] situation that gets resolved militarily.
+[18:27] Uh but the uh the most unnerving
+[18:29] geopolitical uh hot spot right now is
+[18:32] Taiwan and um you know um you know the
+[18:38] we're kind of like poking sticks at each
+[18:40] other here between uh uh you know the
+[18:42] the the United States and and China. And
+[18:45] the Chinese says okay if you want to
+[18:47] start an economic war we can we can up
+[18:50] the ante here and make it a military
+[18:52] situation by blockading Taiwan. uh the
+[18:56] economic impact for the global economy
+[18:58] because of the semiconductor trade could
+[19:01] be a real a real problem. Uh so um
+[19:06] things things are uh you know this is
+[19:09] kind of the new world disorder.
+[19:11] Hopefully it'll become you know a new
+[19:13] world order that that works for
+[19:15] everybody but right now it looks quite
+[19:18] disorderly. I mean clearly the ideal
+[19:20] situation is that that Trump turns out
+[19:23] to be a great negotiator and you know
+[19:25] he's claimed that you know many
+[19:27] countries have come and said they're
+[19:29] willing to negotiate and of course Trump
+[19:31] prefers not to actually negotiate. He
+[19:33] prefers to bully everybody and say you
+[19:36] tell me what you're going to do to make
+[19:37] me happy. Uh which is a great way to
+[19:40] negotiate if you've got you know he
+[19:42] keeps talking about cards that he's got
+[19:43] the cards and other countries don't have
+[19:45] the cards. Uh but uh if other countries
+[19:48] get really annoyed and don't play his
+[19:51] game, uh it could it could backfire as
+[19:53] it seems to be doing with uh with with
+[19:55] China. I mean, I I think they're
+[19:58] actually surprised in the administration
+[20:00] that the the Chinese didn't just uh kind
+[20:03] of roll over and say, "Let's negotiate
+[20:05] and give you what you
+[20:07] want." The Chinese aren't going to do
+[20:09] that. Yeah. Yeah. And the tariff numbers
+[20:12] keep changing. I think today it's uh
+[20:14] their their tariffs are 125% on us.
+[20:17] Yeah. Well, that's that's a trade war.
+[20:20] That's retaliation. Y I mean, when they
+[20:23] when when the administration kind of put
+[20:25] this thing out, they talked about
+[20:27] reciprocal tariffs. And reciprocal is a
+[20:30] much kinder, gentler word than
+[20:32] retaliatory. Retaliatory means you just
+[20:35] keep raising them. reciprocal means you
+[20:37] you raise it to what they're charging
+[20:40] you and say, "Okay, now if you don't
+[20:41] like that, let's let's talk them down
+[20:43] together. Let's reciprocally lower
+[20:45] them." Um, and uh that's what we're
+[20:48] doing with just about every country
+[20:49] except China where we're talking about
+[20:52] uh we're seeing retaliation.
+[20:55] Yeah. Yeah. It's amazing.
+[20:58] Now, Ed, could you explain the clash of
+[21:00] civilizations that is hindering the
+[21:01] economic growth in Europe?
+[21:04] Well, it's uh again it's a geopolitical
+[21:07] issue. It's not pretty to watch. Um you
+[21:10] know, it's it's one thing to have a huge
+[21:13] inflow of uh immigrants uh illegal
+[21:17] immigrants coming coming uh to your
+[21:20] country. Immigrants historically have
+[21:22] usually been a source of of economic
+[21:24] growth of uh of of great advances. uh
+[21:28] immigrants uh you know clearly taken a
+[21:31] lot of risk when they come in illegally
+[21:33] to um they've taken a lot of risks to to
+[21:35] enter the country to leave the place
+[21:37] that they'd been at. Uh they they're
+[21:40] aspirational. They want better for their
+[21:42] children so they work really hard and
+[21:44] then their children go to school and but
+[21:47] uh a lot of it really depends on the um
+[21:50] the extent to which uh we get a melting
+[21:53] pot situation. And if you don't have a
+[21:55] melting pot and instead you have a clash
+[21:57] of civilizations where the incoming
+[22:00] immigrants, you know, all live in their
+[22:02] own neighborhood um and maintain their
+[22:06] own laws as as is the case with um
+[22:10] immigrants from the Middle East uh
+[22:14] adopting maintaining their own culture
+[22:17] and their own law. When these uh
+[22:19] cultures don't mix, it turns out to be
+[22:22] uh potentially a nightmare. You get more
+[22:25] crime. Uh you get extreme partisanship
+[22:29] between the immigrants who then you know
+[22:32] who presumably somehow or other uh are
+[22:34] integrated into the society to the
+[22:36] extent that they can they can vote. Um
+[22:40] and so it creates a lot of tension. Uh
+[22:43] it's it's not kumbaya. It's like it's
+[22:45] not like, you know, we all we can all
+[22:47] get together along together. Um, and
+[22:51] then when you have uh things breaking
+[22:53] out in the Middle East, uh the
+[22:56] partisanship in Europe gets even worse
+[22:59] and you see flags of uh of of countries
+[23:03] in the Middle East instead of the
+[23:05] countries that uh that you know the
+[23:08] European countries um where the
+[23:10] demonstrations are occurring. That's
+[23:12] that's not a healthy sign. And so um I
+[23:16] think uh Europe has a couple of
+[23:18] problems. One is they're aren't have the
+[23:21] the the people who historically were the
+[23:24] locals stopped having babies. The
+[23:26] fertility rate collapsed and so their
+[23:28] populations haven't been growing and
+[23:31] they
+[23:31] actually welcome immigrants with the
+[23:34] idea that you know they need the
+[23:36] workforce. They need they need people to
+[23:39] work. Um but again not all of those
+[23:42] immigrants necessarily want to work.
+[23:44] Some of them are are you know expect to
+[23:47] to get support from the welfare system.
+[23:50] Uh so you know some do work but uh then
+[23:53] they don't integrate well into the into
+[23:55] the politics into the culture of of the
+[23:57] country. So Europe I think is a is a
+[24:00] real big mess. I mean, it's still fun to
+[24:03] go sightseeing there, though. Not that
+[24:04] much fun because there too many
+[24:06] tourists, but tourism really still is is
+[24:09] a big industry for them. Um
+[24:12] uh but but all in all, uh the the chi
+[24:16] the the Chinese are are also a problem
+[24:18] for for the Europeans because um the you
+[24:22] know, one of the big industries in in
+[24:24] Europe has been the luxury auto market.
+[24:27] Um or the autos in general. Uh the the
+[24:30] Germans are famous for their
+[24:32] engineering, particularly their autoeng
+[24:33] engineering. And yet uh they have not
+[24:37] kept pace with electric vehicles the way
+[24:39] the Chinese have. And the Chinese are
+[24:42] basically dumping um the cars in in
+[24:46] Europe. Um and the Europeans have let
+[24:48] this happen. Yeah. I'm glad you brought
+[24:50] up demographics. It seems like the whole
+[24:52] world is shrinking uh except for maybe
+[24:55] US, India, maybe a little Brazil. So,
+[24:58] it's just hard to grow when you have
+[25:00] fewer households, right? Yeah. You've
+[25:02] got to Well, it means that you've got to
+[25:04] do with productivity. I'm I'm pretty
+[25:06] bullish on the outlook for the United
+[25:08] States notwithstanding all
+[25:11] the tumultuous uh events of the that
+[25:15] we're experiencing now. uh but I think
+[25:18] uh the technology solves problems and
+[25:21] one of the major problems on a global
+[25:23] basis is we we don't have enough workers
+[25:26] and um productivity that can solve that
+[25:29] problem uh technology can solve that
+[25:31] problem by boosting productivity which
+[25:34] has been kind of happening and so u I
+[25:37] think there's still a potential for it
+[25:39] as a matter of fact in 2019 I started to
+[25:42] speculate that you know what maybe the
+[25:43] decade up ahead here kind of rhymes with
+[25:46] the 1920s 2020s, 1920s, uh maybe this is
+[25:50] going to be the roaring 2020s, uh
+[25:53] because of all these technological
+[25:54] innovations that can enhance
+[25:57] productivity. And it uh it worked great
+[25:59] in the first half of the decade, now
+[26:01] working in the second half. Uh and
+[26:03] obviously my a lot of people remind me
+[26:06] all the time that the 1920s ended very
+[26:08] badly with Smooth Holly and a depression
+[26:11] and deja vu all over again is certainly
+[26:14] aspects of that right now with these uh
+[26:17] these tariff concerns. Uh so I I I still
+[26:22] remain optimistic that we'll get through
+[26:23] this and things will be resolved in a
+[26:26] beneficial way and that technology will
+[26:29] boost productivity and the second half
+[26:31] of the uh of of the current decade will
+[26:35] be be an area an era of of growth. I
+[26:39] don't know that I'd go for you know a
+[26:40] golden era. Um I think Trump's got this
+[26:44] golden age idea uh of the late 1900s. Um
+[26:48] I don't know why he wants to go back
+[26:50] that far. The country, you know, is much
+[26:51] wealthier now, much better off, much
+[26:54] cleaner. Um so this this guilded age
+[26:58] idea he has is uh a little strange, but
+[27:01] um you know, the the goal is to
+[27:03] uh continue. You know, America has
+[27:06] actually been uh very wealthy and and
+[27:10] growing. Real GDP is an all-time record
+[27:12] high. Consumption per household is at an
+[27:15] all-time record high. uh the net worth
+[27:17] of the household sector is at an
+[27:19] all-time record high. And I know that
+[27:22] there's a lot of controversy about
+[27:23] wealth and income inequality. But you
+[27:25] know, a lot of it has to do with age.
+[27:27] The baby boomers are very
+[27:30] wealthy. That's because we watched Star
+[27:32] Trek and Spock told us live long and
+[27:35] prosper. Baby boomers have been living
+[27:38] long and along the way they bought
+[27:39] houses, they bought uh life insurance
+[27:42] policies, they bought stocks, they put
+[27:44] money in mutual funds, uh 401ks and um
+[27:48] these things assets have performed very
+[27:51] well and they now have half of the net
+[27:54] worth of the household sector. And guess
+[27:56] what? They're not going to hang around
+[27:58] for too many more years. And there's
+[28:00] going to be I think there's already a
+[28:02] lot of intergenerational
+[28:04] uh uh transfers. Louie, I'm not going to
+[28:06] ask you about, you know, whether you pay
+[28:09] your daughter's credit card bills. I'm
+[28:10] sure you don't. She looks like she's a
+[28:12] real entrepreneur and and an independent
+[28:14] uh uh young lady. But, uh I'm still I
+[28:19] got five kids and I'm still helping a
+[28:20] couple of them with their I mean, auto
+[28:22] insurance was
+[28:24] $5,000. Uh you know, I don't know how
+[28:27] young kids can can really do it on their
+[28:29] own. So, I think there's a lot of uh
+[28:31] baby boomers helping even their adult
+[28:33] kids. Ed, do you have any idea who Trump
+[28:36] might nominate to be the next Fed
+[28:38] chairman?
+[28:40] Uh that's a scary uh question. Um
+[28:44] because uh you know, clearly he is going
+[28:47] to want to put somebody in there that'll
+[28:49] make the Fed less independent. And I
+[28:51] think uh most economists uh would like
+[28:54] to see the Fed remain independent. Uh
+[28:57] certainly everybody in the financial
+[28:58] markets would like to see the Fed remain
+[29:00] independent. Uh the good news is that u
+[29:04] the Senate has the role of uh approving
+[29:08] his any nominee. So anybody who's like
+[29:13] too far to the Trump, you know, there
+[29:14] used to be a left and there used to be a
+[29:16] right. Now I think there's also a Trump.
+[29:18] I, you know, I don't know what that
+[29:21] political extreme is, but if if
+[29:23] anybody's is too supportive of, of
+[29:26] Trump, they probably won't get get
+[29:27] approved. Uh, there have been names
+[29:30] mentioned, but uh I I think it's going
+[29:32] to be somebody that that's a surprise.
+[29:34] It could be Scott Bessant, you know, if
+[29:36] if Trump thinks he's uh giving him some
+[29:39] some good advice. It certainly is not
+[29:42] going to be Navaro uh who's kind of a
+[29:45] talk about a loose cannon. Uh, so I I
+[29:49] don't know, but it it could be Besson.
+[29:51] And finally, we see that your dog Max is
+[29:53] in a lot of your videos. Could Yeah. Is
+[29:55] this his favorite napping spot? He loves
+[29:58] to nap there. Uh, he he always comes in
+[30:01] when when I do these video calls. And I
+[30:05] I I I I put him right to right right to
+[30:08] sleep. So, he he's really enjoying it.
+[30:11] Uh, he he's, you know, when the market
+[30:14] was taking a dive la last week, he he
+[30:16] wasn't here. I don't know. He he had a
+[30:18] sense that maybe I was getting a little
+[30:20] edgy and and jittery, but he's a very
+[30:22] calming influence on me. And I'm working
+[30:24] on uh setting up a a cryptocurrency with
+[30:28] his face on it, you know, kind of like
+[30:30] the the Dogecoin. So, we'll we'll see if
+[30:33] that works out. That's wonderful. I love
+[30:36] that. Well, Ed, I do have your book and
+[30:39] for everyone that's watching, where can
+[30:40] they purchase this? Uh just online on on
+[30:44] Amazon. It's a great read. would highly
+[30:46] recommend to you all. And then uh while
+[30:48] we're doing uh commercials uh if people
+[30:51] want to see uh uh for individual
+[30:54] investors, we have a product called the
+[30:56] ardeniquicktakes.com and they could give
+[30:58] that a try. Okay. Thanks again, Ed.
+[31:00] Appreciate you. You're welcome. Now,
+[31:02] let's switch over to some of the stocks
+[31:03] that are announcing earnings. Dad, what
+[31:05] do you think about Netflix?
+[31:08] Well, their sales are forecast to go up
+[31:10] um 12.1.
+[31:12] Earnings are forecast to go up
+[31:14] 8.7. There have been some minor analyst
+[31:17] cuts, but Netflix is always about new
+[31:20] subs subscriber growth and their
+[31:22] guidance. So, um you know, as long as
+[31:25] they paint a pretty picture going
+[31:26] forward, the stock should act very very
+[31:29] well. And it's not quite in the
+[31:30] Magnificent 7, but if it's right behind
+[31:33] it and uh it is a market bellweather, so
+[31:36] I expect them to have good results and
+[31:37] good guidance. Now, what do you expect
+[31:39] for Taiwan Semiconductor?
+[31:42] Well, this is a big bell weather and
+[31:44] this is probably the most important uh
+[31:46] earnings announcement. Um, their sales
+[31:49] are forecasted to go up
+[31:51] 40.6%. Earnings are forecast to go up
+[31:55] 48.1. Uh, their guidance remains very
+[31:58] important. But if Taiwan Semi has great
+[32:00] um earnings and positive guidance, then
+[32:03] um it it lifts Nvidia and all the other
+[32:06] semiconductor stocks. So, this is a big
+[32:08] one and uh as Ed pointed out, you know,
+[32:12] it's um they're in a political hot spot.
+[32:14] Uh they are trying to move a lot of
+[32:17] manufacturing to their huge facility in
+[32:20] Arizona. So, um we'll see. But um right
+[32:24] now um the most of the good chips are
+[32:27] made in Taiwan. But that big plant in
+[32:30] Arizona is supposed to be making the
+[32:33] fancy uh chips that go in the in the
+[32:35] Apple laptops, the Microsoft Surface
+[32:38] laptops. Um and uh it'll be interesting
+[32:42] if we can onsource a lot of their
+[32:44] manufacturing. Now, what do you hope to
+[32:45] see for the retail sales report?
+[32:48] Well, um it better be good. uh we really
+[32:52] do need consumers to cheer up and uh
+[32:54] start spending and uh you know spring is
+[32:58] arriving and people should be getting
+[32:59] out and about more. I I like to look at
+[33:02] uh where they're spending and of all the
+[33:04] categories I I would like a a majority
+[33:07] to be up. But uh we um let's just hope
+[33:10] it's up. If it's down uh that would be
+[33:13] horrible. And uh but from what I can
+[33:16] tell, it looks like consumers are pretty
+[33:18] busy out and about buying and uh it's
+[33:21] going to be interesting
+[33:23] cuz they've dumped a lot of goods in
+[33:25] America trying to beat the tariffs and
+[33:27] they're going to have to discount that
+[33:28] stuff to sell it. So uh you know, we we
+[33:32] really do need retail sales to be
+[33:34] positive and uh I'm expecting a a
+[33:37] positive report, but it better improve
+[33:39] in the upcoming months with all the
+[33:40] discounts they'll be offering us. Well,
+[33:42] thank you so much everyone for joining
+[33:44] us this week. We really hope you enjoyed
+[33:46] it and also listening to Ed's insights.
+[33:48] Thank you so much again for liking,
+[33:50] commenting, and subscribing. If you have
+[33:52] any questions that you'd like us to
+[33:53] address next week, please leave them in
+[33:55] the comments below. But until then, we
+[33:57] will see you all next week for a new
+[33:58] video.
+[34:00] [Applause]
+[34:00] [Music]

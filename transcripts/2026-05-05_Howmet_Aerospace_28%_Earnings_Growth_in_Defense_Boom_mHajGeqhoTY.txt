@@ -7,9 +7,28 @@ Type: short
 Duration: 0:43 (43s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 20
+Transcript characters: 725
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Howmet Aerospace reports this week.
+[00:02] Defense and Aerospace has been on fire.
+[00:04] Is this one flying under the radar? Oh,
+[00:06] no. This is a very good stock. It's It's
+[00:08] definitely on my radar. We've owned the
+[00:11] stock for some time. Their sales are
+[00:13] supposed to be up 15.4%. Earnings are
+[00:15] supposed to be up 28.6. Analysts revised
+[00:17] their estimates higher from a dollar two
+[00:20] 90 days ago to a dollar 11 per share now
+[00:23] and it has a very good consistent
+[00:25] surprise history. A huge supplier to the
+[00:27] aerospace industry, the defense
+[00:29] industries. Obviously experts in
+[00:31] titanium and all kinds of interesting
+[00:33] metals. I have very high hopes for this
+[00:35] stock and expect good guidance as well
+[00:37] as a a nice beat. And
+[00:39] again, we own the stock in managed
+[00:40] accounts and recommend newsletters.

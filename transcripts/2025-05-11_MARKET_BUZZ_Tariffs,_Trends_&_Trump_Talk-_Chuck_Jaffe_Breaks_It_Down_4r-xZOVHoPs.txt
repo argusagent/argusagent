@@ -7,9 +7,803 @@ Type: video
 Duration: 31:31 (1891s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 795
+Transcript characters: 28659
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:14] Hello everyone. Welcome back to Navalier
+[00:15] Market Buzz, episode 37. I'm Crystal
+[00:18] Navalier and I'm joined again this week
+[00:19] with my father, Louis Navalier, where we
+[00:21] have an extra special guest, Chuck
+[00:23] Jaffy. He's the host of the Money Life
+[00:25] Show and is also a writer on Market
+[00:27] Watch. Thank you so much, Chuck, for
+[00:28] being here. Oh, thank you so much for
+[00:30] having having me. Great to see you guys.
+[00:33] Um, Chuck is essentially a man of the
+[00:37] people. Uh, he his followers to his
+[00:39] radio show are very loyal. And then when
+[00:42] he sends me a list of stocks to comment
+[00:44] on, it's usually about 200 stocks, okay,
+[00:47] with who these people are, where they're
+[00:49] located and all. So, Chuck has a massive
+[00:51] following out there. Um, and um, also
+[00:54] columnist for Market Watch. So, it's an
+[00:56] honor to have you on the show, Chuck.
+[00:58] Uh, Louie, if we ever sent you a list
+[01:02] that only had 200 stocks on it, I would
+[01:04] be stunned. Uh, my audience loves
+[01:06] getting a chance to to check with you
+[01:08] and they love hearing it from you
+[01:10] directly, even though we always tell
+[01:11] them to go to the stock trader. No, we
+[01:14] have that issue.
+[01:17] So, Chuck, I'd like to first ask you if
+[01:19] your viewers are more nervous than
+[01:21] normal with all the tariff drama and the
+[01:23] economic uncertainty. Money Life is a
+[01:25] 1-hour daily podcast. We just celebrated
+[01:28] our 13th anniversary. We do an hour of
+[01:30] talk a day. We've done more than
+[01:32] 3,250 episodes. Basically, if the
+[01:35] market's open, so are we. And we talk
+[01:38] with the best and the brightest names.
+[01:40] And the audience that comes to us, well,
+[01:42] quite honestly, they come to us as
+[01:44] average investors, but they don't stay
+[01:46] as average investors for very long
+[01:48] because if you're listening to an hour
+[01:49] of really smart financial talk every
+[01:52] day, you deacto
+[01:54] become better than that quickly, but
+[01:57] they all still think they're average
+[01:59] investors. Like, it's very interesting.
+[02:02] You know, they'll send me notes and I
+[02:03] have a great relationship with a lot of
+[02:05] these people and they're asking
+[02:07] questions and what have you. and their
+[02:08] questions clearly show that they're
+[02:10] doing well. They've been investing for a
+[02:12] long time, all these other sorts of
+[02:14] things. So, they're average investors in
+[02:17] mindset, above average investors in
+[02:19] terms of what they have and what they
+[02:22] know. And oh yeah, they're very nervous,
+[02:24] but a lot of that also is about their
+[02:26] position in life. So, there's two
+[02:29] different sets, actually three different
+[02:31] sets of the audience. The folks who are
+[02:35] young, who have found us and love the
+[02:38] financial talk, they are opportunity
+[02:40] driven right now. They are, what are you
+[02:42] putting on sale that I can buy? What am
+[02:44] I going to be able to take advantage of
+[02:46] in the current times? The ones who are
+[02:48] about my age, and I'm in my early 60s or
+[02:52] older, they are terrified of sequence of
+[02:54] return risk right now. sequence of
+[02:56] return risk is that idea that like right
+[02:59] now, you know, I'm my my wife and I are
+[03:02] looking to replace the roof on the
+[03:04] house. That means there's a bunch of
+[03:06] cash that has to come out at a time when
+[03:08] I don't really want to sell things. So,
+[03:11] if you haven't pulled aside enough cash
+[03:12] or what have you, you run the risk that
+[03:15] the market's going to tank right as you
+[03:16] need to start pulling your money.
+[03:18] There's a group that is terrified of
+[03:20] that. And then there's the group that's
+[03:21] in the middle. They're not the real
+[03:22] young investors. They are trying to look
+[03:25] at how they can transition their
+[03:26] portfolio early. In other words, they
+[03:29] want to go from I'm in the accumulation
+[03:31] phase to can I add some income in here
+[03:34] and and maybe get some protection. And
+[03:36] that's really the three groups. But are
+[03:38] they nervous? They're all nervous. All
+[03:40] of them. Do any of your viewers have
+[03:41] Trump derangement syndrome? We don't
+[03:44] talk much politics on the show, though
+[03:46] guests frequently go in that. Just
+[03:48] answered a question, actually two
+[03:49] questions this week. one from somebody
+[03:52] who wrote me and said, you know, you
+[03:54] didn't give Trump credit for the nine
+[03:56] straight days that the market got better
+[03:58] and you didn't do whatever to give
+[04:01] President Trump more credit. And then I
+[04:03] have the others who will say that, you
+[04:07] know, you give Trump too much credit.
+[04:08] Don't you realize he's tanking the
+[04:10] economy? But the vast majority of my
+[04:12] audience, they're not at either of those
+[04:16] extremes. They're much more in the
+[04:18] middle. and they've come to us because
+[04:20] they want to do this on their own. You
+[04:22] know, disagreement makes a market on
+[04:24] every time you're saying buy something,
+[04:27] Lou, somebody else is selling it.
+[04:29] There's obviously a disagreement there.
+[04:31] My audience, like all investors, lives
+[04:33] in the middle of that disagreement.
+[04:34] They're trying to come up with their own
+[04:36] side. They're not usually arguing with
+[04:38] me. So, there's a few, but not many.
+[04:41] What I think is very funny is like if
+[04:42] you look at the reviews on our show,
+[04:44] you'll find the one that like gives us
+[04:46] one star and says they're a great
+[04:47] right-wing echo chamber and like the day
+[04:50] later you'll find a one-star review from
+[04:52] somebody else who goes left-wing fascist
+[04:55] whatever. So yeah, we're right where we
+[04:58] want to be. We're somewhere in the
+[05:00] middle and most of our audience gets
+[05:01] that. Yeah. For the people that I have
+[05:03] that are are really upset about what's
+[05:06] going on, I like to remind them that
+[05:09] that Trump, I think, as of April uh 17th
+[05:12] got in the money management business. Uh
+[05:14] Devon Nunes announced on True Social
+[05:16] that uh they have four portfolios um
+[05:19] manage accounts through Schwab that uh
+[05:22] that are Trump theme through Yorktown
+[05:24] Securities. It's a subadvisor. So, um,
+[05:27] it's funny cuz he had that market call
+[05:29] on True Social and, uh, you know, bye
+[05:32] bye bye exclamation and I think he had
+[05:34] another one, but he's going to have to
+[05:36] start throwing disclosures on. No,
+[05:39] that's a money management company. So,
+[05:41] it's uh,
+[05:45] you say he's going to have to put the
+[05:47] disclosures on. You don't think he's
+[05:48] going to change the regulations?
+[05:51] I mean, that's there's the other way.
+[05:53] There's there's that way around when
+[05:55] when you have that specific role.
+[05:57] There's that way around or you just make
+[05:59] it that there's not enough regulators
+[06:00] left to find you even though it's very
+[06:03] obvious what you're doing if you don't
+[06:05] make those disclosures. I mean, yeah, I
+[06:08] clearly have folks who are upset about
+[06:10] it, but they're not upset about it when
+[06:11] they come to the show. They they will
+[06:12] occasionally say that guy was off the
+[06:14] charts. But, you know, we had recently
+[06:18] we had Jason Ferman, who was Obama's
+[06:20] chief economist on the show. He would of
+[06:22] course be on the left side of things and
+[06:23] he was on like two days after Danielle
+[06:25] D. Martino Booth. She'd be on the right
+[06:27] side of things. And again, we're
+[06:30] somewhere in the middle. And I had
+[06:31] different audience members who wrote me
+[06:33] saying, "I hated her and I loved him or
+[06:35] I hated him and I loved her." And that
+[06:39] seems about right for me. I I wish we
+[06:41] could get to where we would just have
+[06:42] civil discourse because that's much more
+[06:45] important than sides. Yeah. Yeah. Well,
+[06:49] I think he's going to have to put
+[06:50] disclosures on. Um I don't think you
+[06:52] have to register with the SEC to hit a
+[06:54] certain size, but I if I was working for
+[06:57] him, I would tell him put disclosures
+[06:59] on. And I can't wait to read those
+[07:01] disclosures. As somebody who digs into
+[07:04] the paperwork and the footnotes and does
+[07:06] that sort of stuff, yeah, I would be
+[07:08] very excited to read those just for
+[07:10] giggles. Like that'll just tell you I I
+[07:12] don't have much of a life, right? Like
+[07:14] that's what I'd want to read. But yeah,
+[07:16] I would dig reading that stuff. There
+[07:18] you go. All right. Kind of talking about
+[07:21] Trump. He recently put a 10% baseline
+[07:24] tariffs on Britain. Do you think that
+[07:25] this is kind of calming investors right
+[07:28] now? Well, I think anything that gives
+[07:31] some measure of certainty is
+[07:34] calming and we need some of that.
+[07:39] You know, I don't know that a trade deal
+[07:41] with Great Britain, which with whom the
+[07:44] tariffs are purportedly about trade
+[07:47] deficits, we don't run a trade deficit
+[07:49] with them.
+[07:51] So, I I don't I I think if you wanted to
+[07:54] dig into it, you could go, I don't fully
+[07:56] get the logic and I don't understand it
+[07:58] when it applies to Great Britain and I'm
+[08:00] more worried about other stuff. I think
+[08:02] of all the countries, you have to
+[08:04] resolve the China issue. And I think
+[08:06] there are plenty of investors who will
+[08:07] be rightfully nervous until we know
+[08:10] what's going to happen with China. And
+[08:12] I'm not sure we're going to know for a
+[08:14] little while. And the real question, and
+[08:16] as we record this, it's May the 9th on
+[08:18] Money Life on May the 9th. We have a
+[08:20] great interview with David Kelly, the
+[08:22] chief global strategist at at JP Morgan
+[08:25] Asset Management.
+[08:26] And
+[08:28] David made the point that we're quickly
+[08:31] going to get to the spot where the
+[08:33] uncertainty causes long-term
+[08:35] damage. And and that's the bigger side
+[08:38] is that anything that gives us certainty
+[08:40] will help, but we need to see enough to
+[08:43] know that we're not seeing long-term
+[08:46] economic damage created by a certain
+[08:49] stretch of uncertainty. and his opinion
+[08:51] and my economic training is not anywhere
+[08:54] near his, but I would happen to agree
+[08:56] would suggest that we're getting close.
+[08:58] So, the trade deal with Britain was
+[09:01] good, but there's a lot more that needs
+[09:04] to go. And I will, by the way, point out
+[09:06] that for everybody who does have Trump
+[09:07] derangement syndrome and all those other
+[09:08] sorts of things, if you really wanted to
+[09:11] dig in and find reasons like why would
+[09:13] you put a tariff on the island with the
+[09:17] penguins? It's not what everybody
+[09:20] thought it was. If you wanted to think
+[09:22] about it, think about it as if a country
+[09:23] said, "We're going to put a tariff on
+[09:24] the United States, but we're not going
+[09:25] to put it on Puerto Rico because Puerto
+[09:27] Rico is, you know, only for tourism and
+[09:30] only does whatever." There would be some
+[09:32] enterprising person who says, "Here's my
+[09:34] factory. I've moved it to Puerto Rico.
+[09:36] Now the tariffs don't apply." Right?
+[09:38] That's not giving anybody credit. That's
+[09:40] just saying if you set up rules and
+[09:42] people don't like your rules, they look
+[09:44] for ways to break your rules. They could
+[09:46] have just said Australia and all of its
+[09:49] territories and covered it that way.
+[09:51] They didn't. That gave us all a good
+[09:53] laugh about penguins being taxed, but
+[09:55] whatever. Now, for insecure investors,
+[09:57] do you recommend any gold stocks?
+[10:01] So, I'm old enough to have lived through
+[10:04] the periods where in the the 70s and
+[10:08] 80s, people would have a static uh
+[10:12] allocation to gold and they would hold
+[10:14] five or 10% of their portfolio in gold
+[10:16] and that would just always be there. And
+[10:18] then gold absolutely stunk up the joint
+[10:20] for like decades as an asset and people
+[10:23] were like, "Yeah, you really don't need
+[10:24] it, etc." And then gold came back and
+[10:26] rallied and people again kind of chased
+[10:29] it. Look, if you want the ballast in
+[10:31] your portfolio that gold provides, a
+[10:34] static allocation to it makes a lot of
+[10:36] sense. If you want to try to time the
+[10:38] market and say, "Hey, there's going to
+[10:39] come a period where I want to be 30, 40,
+[10:42] 50%
+[10:43] gold." I while I can't say I don't know
+[10:46] people who do that. In fact, I once had
+[10:48] a doctor who told me that was a big his
+[10:50] his strategy was gold and real estate
+[10:52] and not all the other stuff in quotes.
+[10:54] But but the vast majority of people and
+[10:57] certainly the beginners no the issue for
+[11:00] a lot of beginners especially with gold
+[11:02] is okay you like the idea of having
+[11:04] ballast you really don't understand how
+[11:06] it works like people buy gold because
+[11:08] it's a hedge for in against inflation.
+[11:10] It hasn't been a great hedge against
+[11:12] inflation as we've seen inflation creep
+[11:13] up. That's because historically it
+[11:15] really only works as a hedge if you've
+[11:17] got high inflation like 5% inflation for
+[11:21] a long stretch of time. Not two and a
+[11:23] half% inflation. That's not the area
+[11:25] where gold does well. What gold has done
+[11:27] well is it's been a good hedge against
+[11:29] geopolitical risk. And there is plenty
+[11:31] of that right now. So if it makes you
+[11:34] sleep better at night, great. But if it
+[11:36] doesn't, you're probably going to wind
+[11:37] up pretty close to being in the same
+[11:39] place if you look at a lifetimes of of
+[11:41] investing. So I wouldn't tell somebody
+[11:43] who's fairly new to be like, "Wow, you
+[11:46] have to have gold." Yeah. I should
+[11:49] remind everybody, you can just buy gold
+[11:51] from Costco now. So, uh, it's, uh, it's
+[11:56] readily available, although it's always
+[11:57] runs out of Costco. So, um, Chuck, do
+[12:01] you do you think people are like your
+[12:04] viewers, they seem somewhat manic and
+[12:07] want to just chase hot trends like AI or
+[12:10] quantum computing or uh, do you think
+[12:12] they want to chase earnings? What's your
+[12:15] opinion of uh, the masses out there? the
+[12:18] the
+[12:19] masses are not
+[12:21] chasing, but the ones who do are the
+[12:23] ones who make the heads.
+[12:27] And what the average people chase is
+[12:30] really interesting to me. So I I tell a
+[12:34] story 100% true, absolutely important in
+[12:38] the etmology of my show. We have a
+[12:41] segment called the navigator which we do
+[12:44] in conjunction with the active
+[12:45] investment company alliance which is a
+[12:47] group in the closedend fund space and
+[12:51] I'm not going to try to explain
+[12:52] closedend funds here but for those who
+[12:55] who don't know them really interesting
+[12:58] way to be making income plays. Well, we
+[13:02] do this in conjunction with with this
+[13:04] group. And when we announced that we
+[13:07] were going to do it, you know, we do
+[13:09] three or four interviews every day. So,
+[13:11] we're going to have one interview a week
+[13:13] always on something tied to closed end.
+[13:16] And my audience when I did it kind of
+[13:19] sent me that, Chuck, we know you got to
+[13:20] get paid, but really one thing a week on
+[13:23] closedend funds, I don't see it.
+[13:26] Whatever. Now, several years into this,
+[13:28] my audience is like, could we do more on
+[13:30] closedend funds? And I'll tell you,
+[13:34] because you've seen the ticker list,
+[13:35] Lou, for stocks, my ticker list for
+[13:39] closedend funds is longer significantly
+[13:42] than my ticker list for traditional
+[13:43] mutual funds. That's an audience that's
+[13:46] come around and said, "Hey, I crave the
+[13:49] income and I crave the buying on a
+[13:51] discount and all the things that
+[13:52] consumers want to do." So consumers go
+[13:55] where they're trained and where they're
+[13:56] comfortable. But yes, there's a whole
+[13:58] bunch of folks who have some measure of
+[14:00] FOMO, fear of missing out, and they want
+[14:03] to make sure they're in on the trend.
+[14:06] And then I I'll point out then there are
+[14:08] some who will say, I've got my base
+[14:11] portfolio and I've got my fund money and
+[14:14] with my fund money, heck yeah, go where
+[14:16] I've got the chance to do the most with.
+[14:18] So with all that being said, what would
+[14:20] you recommend for investors that are
+[14:21] just starting?
+[14:25] Well, the most important thing for an
+[14:26] investor who is just starting is keep in
+[14:28] mind your time frame and that it's very
+[14:31] long and that in the course of a
+[14:33] lifetime of investing while while Lou
+[14:37] and I have been around long enough that
+[14:39] we can quote and and talk about big
+[14:42] events from memory and what have you
+[14:44] that you can't really feel them like
+[14:46] here's the lesson that that people need
+[14:50] to remember out of Black Monday from 198
+[14:52] 1987, still the worst day that any
+[14:55] investor alive today has lived through,
+[14:58] right? Because the great the stock
+[15:00] market crash in 1929, there's no one who
+[15:02] was investing then because you had to
+[15:04] have been an adult who would be alive
+[15:06] today. So there's no investor alive who
+[15:08] lived through the 1929 crash. But here's
+[15:12] what I know. If you invested were
+[15:14] investing in 1987 as I was and you are
+[15:17] now in your 60s as I am, no matter what
+[15:21] you did on Black Mon on Black Monday in
+[15:24] 1987, you are not looking at it going,
+[15:27] "Man, I can't retire now because of what
+[15:29] I did on that
+[15:31] day. It doesn't exist. It's not no
+[15:33] matter how that was, no matter how you
+[15:35] felt that day, you were riding the
+[15:37] market down 20 plus percent." You do not
+[15:39] look back years later and go, "Oh, that
+[15:42] was the one. That's the reason why I got
+[15:44] to work till I'm 70." So, keep in mind
+[15:46] your time frame and understand that you
+[15:49] make money by being in the market. Be
+[15:52] broadly
+[15:53] diversified, but understand that it's
+[15:55] going to be scary. That's okay. When
+[15:59] it's scary, just slog away whatever you
+[16:01] can slo away and keep going because
+[16:04] progress is made not on the day-to-day
+[16:08] basis but on the how much can you get
+[16:10] working for you and give it enough. Then
+[16:12] do you think investors should start with
+[16:14] ETFs or stocks?
+[16:16] Well, it's an interesting question and
+[16:20] what I'll tell you is it's easier to
+[16:22] evaluate a single stock than it is an
+[16:26] ETF or a mutual fund because you can
+[16:29] look in and go, I believe in the
+[16:30] business. I can get all the the the
+[16:33] confidence in my convictions, encourage
+[16:34] my convictions to say, I love this idea
+[16:36] and I want to own it. But it's easier to
+[16:39] own a basket of
+[16:42] stocks, in other words, an ETF, than it
+[16:45] is to do a an individual stock. So
+[16:48] ultimately, I would pick ETFs as your
+[16:51] baseline and say set down a big chunk of
+[16:55] your money and say, I'm going to own the
+[16:57] market or I'm going to own all stocks or
+[16:59] I'm going to split it up large large
+[17:01] cap, small cap, whatever it might be.
+[17:03] Get the index to be your basics if
+[17:05] you're a young startout investor. and
+[17:07] then add to it some individual
+[17:10] stocks. But if you had to pick one to
+[17:13] start with, pick the diversified one
+[17:15] because it's going to give you the best
+[17:17] chance to say, "I can strap myself to
+[17:19] this roller coaster. I don't have all my
+[17:21] eggs in one basket and I can ride out
+[17:23] whatever's going to happen." So, Chuck,
+[17:26] do you think the average investor knows
+[17:28] about ETF spreads and and that they can
+[17:31] go on a morningstart.com to check the
+[17:32] spread before they buy or sell?
+[17:34] Absolutely not, Luke.
+[17:37] Nope, they don't. And and my reason for
+[17:40] saying this is look, before I joined
+[17:43] Market Watch, but even while I started
+[17:45] with Market Watch, etc., I was a
+[17:47] nationally syndicated financial
+[17:48] columnist for about 30 years and writing
+[17:52] different things. But for pretty much
+[17:54] that entire time, one column a week was
+[17:56] on investing in mutual funds and ETFs
+[18:00] and pretty much never got asked the
+[18:01] question by anybody about spreads.
+[18:06] And as much
+[18:08] as as guys who watch funds, we want to
+[18:11] make sure that people understand
+[18:15] it. I I hate watching anybody pay too
+[18:18] much for just about
+[18:20] anything. And and yet at the same time,
+[18:22] I cannot look at some investor and go,
+[18:25] "You didn't reach your financial goals
+[18:27] because you weren't watching the
+[18:28] spread."
+[18:30] I could say you didn't reach your
+[18:31] financial goals short term or this trade
+[18:33] didn't turn out as well or you could
+[18:34] have done a little bit better. But I
+[18:36] can't look at somebody and say, "Hey,
+[18:38] over the course of the last 20 years
+[18:41] since you started investing in
+[18:43] ETFs, you know, you're badly hurt by the
+[18:47] spreads, especially when I could look at
+[18:49] some investors in traditional mutual
+[18:51] funds from the 1980s and 90s going, you
+[18:54] hung on with that stinker and its 2%
+[18:56] expense ratio for way too long."
+[18:58] So
+[19:00] yeah, uh I don't think most people know
+[19:01] that Wall Street makes their money on
+[19:03] spreads. Um we actually have um a
+[19:06] special guest uh on next week who uh did
+[19:10] an exhibit that showed if you bought QQQ
+[19:13] at the opening and you sold the close
+[19:15] every day since it's been around, you
+[19:17] know, 40 plus years, you actually lose
+[19:19] 53% of your money. In other words, the
+[19:21] daily spreads are bigger than the daily
+[19:22] gains, right? But if you bought in at
+[19:25] the close and still at the opening,
+[19:26] you're up about
+[19:27] 2,300%. And if you bought and hold,
+[19:30] you're up 900 some odd percent. So,
+[19:34] uh, spreads are an issue. And, uh, that
+[19:37] 15 minutes after the close is when all
+[19:39] the pros settle up and, uh, they get
+[19:42] more favorable pricing. Well, I also
+[19:44] think that it's not just that spreads
+[19:48] can be an issue and that you can find
+[19:49] ways that yes, bad execution will cost
+[19:52] you, but think about as well things that
+[19:54] we've got. You know, we've been talking
+[19:55] about like investing in gold or what
+[19:57] have you. People think that if I own
+[20:00] certain types of mutual funds, I'm
+[20:01] holding the asset. You know, crypto
+[20:03] funds do not directly track the price of
+[20:06] crypto. It's the daily price of crypto.
+[20:08] And trading something on its daily price
+[20:10] is a lot different than trading it on
+[20:12] its long-term buy and hold price and
+[20:14] things along those lines. And yes, I
+[20:17] want to know about spreads. I certainly
+[20:19] pay attention to the spreads, but I
+[20:21] would tell most folks first pay
+[20:23] attention not just to what your fund
+[20:24] owns, but how it owns it if you're
+[20:27] especially if you're doing anything that
+[20:29] is out of the ordinary. And then take a
+[20:31] look at the execution because the
+[20:32] execution, somebody is getting executed.
+[20:35] It might be you. Now, Chuck, in an old
+[20:37] video, we talked about the theory of
+[20:39] sell in May and go away. I was wondering
+[20:41] if we could get your thoughts on the
+[20:42] seasonality theory
+[20:47] there. So, a number of seasonality
+[20:49] theories come from Yale Hirs, who was
+[20:51] the founder of the Stock Traders
+[20:53] Almanac. His son Jeffrey runs the
+[20:55] Almanac now. And I don't think I think
+[20:58] there's enough data out there that I
+[21:00] don't believe that seasonality is simply
+[21:03] coincidental, right? At the same
+[21:07] time, I don't think for most people it's
+[21:10] an efficient way to run their
+[21:13] money. You know what I would tell
+[21:16] anybody is whether it's sell and may and
+[21:18] go away or any other broad theory of the
+[21:21] market. You again have to have the
+[21:24] courage of your convictions.
+[21:26] And the people who I know who are
+[21:29] interested in selling May and go
+[21:31] away
+[21:33] struggle when we get to May and the
+[21:38] market happens to be doing well at that
+[21:39] point or what have you. It's like oh but
+[21:41] but I want to keep going. I think this
+[21:43] is going to keep well anything that
+[21:46] you've got whether it's that or anything
+[21:48] else if you have a discipline and you
+[21:50] break the
+[21:51] discipline you're now going to get
+[21:53] punished by the discipline. So to me,
+[21:57] any of those things can work, but it
+[22:00] starts with you having enough courage in
+[22:02] your convictions that you're going to do
+[22:04] whatever it is all the time. It would be
+[22:07] as if if I said, you know, take it from
+[22:09] that to exactly what you guys do. If I
+[22:12] said, I'm going to follow Lou Navalier
+[22:15] exactly, and when my stock gets a bad
+[22:18] grade, I'm out of it. and then my stock
+[22:21] gets a bad grade and I'm like, "Oh, but
+[22:23] I've held it for so long and it helped
+[22:24] put my kids through college or or I'm
+[22:27] gonna have a big capital gain. I don't
+[22:29] want to pay the capital gain right now
+[22:30] or whatever it might be." The minute I
+[22:33] don't follow the methodology the way Lou
+[22:36] follows it, I don't get the results that
+[22:39] Lou gets. And I can believe in what he
+[22:41] does. I can believe in that that stock
+[22:43] grades work, but they may not work the
+[22:45] way I'm going to do it. So with any of
+[22:48] those things, you've got to be able to
+[22:50] pull the trigger when you're supposed to
+[22:51] pull the trigger. And selling May and go
+[22:54] away is hard. Like if you get to, you
+[22:56] know, you get through the the go away
+[22:58] period and you're looking at the market
+[23:00] and it's not priced the way you want it
+[23:03] to be priced, it's tough to go, "Yeah,
+[23:04] let me buy in right now." So you know,
+[23:06] it's extra decisions. Extra decisions
+[23:08] are hard. Well, thank you, Chuck. Yeah.
+[23:11] Thank where can everyone watch your
+[23:13] show? Well, watching us, we do have a
+[23:16] YouTube channel, though we're not really
+[23:17] a video podcast. You can find us at
+[23:20] moneylifehow.com or you can find us
+[23:22] wherever you're searching for great
+[23:24] podcasts. It is moneyife with Chuck
+[23:27] Jaffy. You can search my name or you can
+[23:28] just search for the show. And we're
+[23:30] there every weekday, five days a week,
+[23:32] every day the market's open. And we'd
+[23:34] love to have more of your audience come
+[23:37] and find us because we've got guests.
+[23:39] Well, couple times a year they include
+[23:41] Lou Neavalier, but they are guests where
+[23:44] Lou is good com in good company all the
+[23:46] time. Perfect. Well, thank you so so
+[23:49] much for being here. We really really
+[23:51] appreciate your time. Thanks. Anytime,
+[23:54] guys. I'd love to come back. Thank you
+[23:55] so much for having Take care. So, Dad,
+[23:57] on your recent podcast, you were very
+[23:59] frustrated with the FOMO statement. Have
+[24:01] you calmed down since? No.
+[24:05] No.
+[24:07] Um, and I had a bunch of Marlargo
+[24:10] members tell me to send it to Trump. Uh,
+[24:13] um, they thought he'd like it, but basic
+[24:16] I said the Fed's disobeying Trump and
+[24:20] Treasury Secretary Basset and we have
+[24:23] deflation
+[24:24] and they're looking for inflation
+[24:27] bogeyman that hasn't appeared. You know,
+[24:29] we have the lowest gas prices
+[24:31] in in four years, and that permeates
+[24:35] everything. They've dumped all these
+[24:36] goods on America. Now they got to
+[24:38] discount them to move them.
+[24:41] Um so yeah, I uh I don't see I don't get
+[24:44] it. Okay. Um the I mean the Bank of
+[24:49] England just cut, the ECB is going to
+[24:51] cut some more. Uh European Central Bank.
+[24:55] Uh global rates are coming down. China
+[24:58] is the new Japan. The rates are at or
+[25:00] near zero. They might have to do a
+[25:02] currency
+[25:03] devaluation. Uh I realize we have the
+[25:06] highest rates and we we have the
+[25:08] strongest
+[25:09] currency, but uh you know the the Fed
+[25:12] should not ignore market rates and
+[25:14] that's what has me so frustrated. And I
+[25:17] have some credibility because you know I
+[25:18] work for the Fed right out of college so
+[25:21] I kind of know what these guys think but
+[25:23] they put some people in the Fed that
+[25:25] just aren't qualified. So, um I I really
+[25:30] am frustrated, but I I think you'll see
+[25:32] the Fed cutting. Speaking of inflation,
+[25:34] what do you expect for Tuesday's April
+[25:36] CPI report? It' be outstanding. Um the
+[25:40] real estate inflation's definitely come
+[25:41] down. You know, I'm in Reno right now
+[25:43] and they're cutting the price of homes.
+[25:45] Have been for some time. Uh the builders
+[25:48] can't sell homes unless they do price
+[25:51] cuts. Um you know, rents are coming down
+[25:54] everywhere except where you are, of
+[25:55] course. And um it's just uh owner's
+[25:59] equivalent rent should be coming down
+[26:01] and that's been the the the main
+[26:03] catalyst for inflation. So um and then
+[26:06] we got falling gas prices now. So CPI
+[26:09] should be excellent.
+[26:11] Um very I it'll it'll drive rates lower.
+[26:15] That's what we want to see. And what do
+[26:17] you expect for the PPI report? Well,
+[26:19] that's always interesting. You have to
+[26:21] look at wholesale goods uh and services.
+[26:24] I suspect goods are still falling
+[26:27] because of you know all the commodity
+[26:29] prices are falling except for gold and
+[26:32] um so I expect goods prices to still be
+[26:35] very soft. Um but the um service cost is
+[26:38] the big one and and u last we looked
+[26:41] service costs were were tame. So if we
+[26:44] get um a good CPI good PPI it just puts
+[26:48] more pressure on on the Fed to cut. Now,
+[26:51] April retail sales will be announced on
+[26:53] Thursday. Is it true that people are
+[26:55] hoarding? Yeah. Uh you're showing a a
+[26:58] few exhibits that um uh from one's an
+[27:02] industry survey uh open table
+[27:05] reservations
+[27:07] uh and um it looks like people are out
+[27:11] were buying stuff because they thought
+[27:13] prices were going up.
+[27:15] So, uh, a good example is I think the
+[27:19] toilet paper comes from Canada. So, uh,
+[27:22] I don't know if we have toilet paper
+[27:23] shortages yet, but yeah, if you're
+[27:25] worried about tariffs on Canadian goods,
+[27:27] you can stock up on them. So, retail
+[27:29] sales should be fine because they're
+[27:31] hoarding. So, the earning announcement
+[27:32] season is winding down. Are there any
+[27:35] important announcements next week? Yeah,
+[27:37] we still have a few. Applied materials,
+[27:39] their sales are forecasted to go up 7.1.
+[27:42] Earnings are forecast to rise uh 10.4.
+[27:46] They have steady analyst estimates and a
+[27:48] good earnings price history. Um that's a
+[27:52] semiconductor equipment company, but
+[27:54] semis are busy. So I'm expecting good
+[27:57] results. Um Copart, which is
+[28:00] interesting. This is the salvage yards
+[28:02] for uh cars. And so if you wreck your
+[28:05] car and the insurance company gives you
+[28:07] money, Copart takes what's left of it
+[28:09] and auctions it off and sends the money
+[28:12] to the insurance company minus their
+[28:14] fee. Uh a lot of people go to the Copart
+[28:16] lots and we'll look at a car and try to
+[28:19] rebuild it, you know, uh especially the
+[28:21] body shop guys. So um their sales are
+[28:25] forecast to improve 9%. Uh their
+[28:28] earnings are forecast to rise
+[28:30] 6.9. They're steady analyst estimates.
+[28:32] They have good surprise history and
+[28:34] because of all the fears on tariffs and
+[28:36] stuff, used car prices uh should be
+[28:39] firming up, although they did fall in
+[28:41] the previous month. Oh, and then we have
+[28:43] deer. I feel so sorry for John Deere. I
+[28:46] mean, their sales are forecasted decline
+[28:50] 20.7%. Earnings are forecast to decline
+[28:54] 34.1. There's recent analyst cuts. Um,
+[28:57] deer missed its last quarter and it
+[29:00] continues to struggle. There's all kinds
+[29:02] of explanations why deer's having a hard
+[29:05] time. One is the European farmers
+[29:07] weren't making any money under the net
+[29:10] zero stuff, you know, cuz they had to
+[29:12] give up 30% of their land, call their
+[29:14] herds, you know, that's why they killed
+[29:16] 6,000 dairy cows in Ireland last year.
+[29:19] And furthermore, they had to use organic
+[29:21] versus chemical fertilizer. So that cuts
+[29:24] your output. That hurts your income. And
+[29:26] the reason there were farm protests all
+[29:28] over Europe is Europe would just import
+[29:30] food from Latin America. Didn't play by
+[29:32] those rules. So deer can't sell a
+[29:35] tractor in Europe. They became obsessed
+[29:37] with their cost. They moved a bunch of
+[29:39] their manufacturing to Mexico. Obviously
+[29:41] now they got President Trump to deal
+[29:43] with. Okay. Who wants it back in
+[29:46] America? So it's it's there it's a mess.
+[29:49] And uh uh this is a great American
+[29:52] company. Uh obviously agriculture is
+[29:55] very efficient. Um but um uh it's just
+[29:59] not deer's time right now. And then uh
+[30:02] probably the biggest one's going to be
+[30:04] Walmart. Their sales are forecast to
+[30:06] rise
+[30:07] 2.9. Earnings are actually forecast to
+[30:09] drop 3.8. I think it'll be better than
+[30:11] that. The have trimmed their estimates a
+[30:13] bit in the past 3 months, but Walmart
+[30:15] has a very good earning surprise
+[30:16] history. So I'm I'm expecting a surprise
+[30:19] and their guidance is going to be
+[30:20] crucial. Same store sales are going to
+[30:22] be a big deal. Uh they just announced
+[30:24] Costco same store sales decelerated to
+[30:27] slightly over 7%. So we want to see what
+[30:30] the same store sales are.
+[30:32] Walmart's been benefiting immensely from
+[30:35] grow groceries. You a lot more middle
+[30:37] class people shopping there for
+[30:39] groceries. So their their guidance will
+[30:41] be everything and that'll um that'll
+[30:44] kind of give you some insight into the
+[30:46] consumer. So, uh, you know, next week's
+[30:50] going to be good for for, uh, economic
+[30:52] news and and and, um, Walmart will be
+[30:56] important for, uh, investor settlement
+[30:59] and, um, painting a picture where the
+[31:01] consumer is. Perfect. Well, thank you so
+[31:03] much for answering all my questions and
+[31:04] thank you to you all again for watching
+[31:06] and supporting us. If you have any
+[31:08] questions that you want us to address in
+[31:10] the next video, please leave them in the
+[31:11] comments below. But until then, we will
+[31:13] see you all next week for a new video.
+[31:16] [Applause]
+[31:17] [Music]
+[31:30] Heat.

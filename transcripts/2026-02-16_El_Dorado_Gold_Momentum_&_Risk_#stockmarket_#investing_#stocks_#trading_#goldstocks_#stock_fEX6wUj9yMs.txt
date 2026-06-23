@@ -7,9 +7,30 @@ Type: short
 Duration: 0:46 (46s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 22
+Transcript characters: 800
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Staying with gold, El Dorado Gold. Is
+[00:02] this report more about execution or
+[00:04] geopolitical risk?
+[00:05] >> No, it's mostly about execution. This
+[00:07] stock actually broke out and moved up in
+[00:09] rank on our system. It's one of our
+[00:11] highest ranked gold stocks. We've had
+[00:13] the stock under management for some
+[00:14] time, but when we look at it on just a
+[00:17] pure momentum basis, this is one of the
+[00:19] winners. And it did consolidate when all
+[00:21] gold stocks consolidate when the price
+[00:23] dropped. But it's uh really rebounded
+[00:25] here impressively. And it's funny, you
+[00:27] know, I calculate risk and when there's
+[00:29] a lot of buying pressure, the risk
+[00:31] actually drops. And this is example of a
+[00:33] stocks whose volatility dropped because
+[00:36] of the relentless buying pressure. So
+[00:38] that gave it an A quantitative grade and
+[00:41] it has an overall grade of A. So, I
+[00:44] really like El Dorado at this

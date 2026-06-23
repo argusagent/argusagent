@@ -7,9 +7,591 @@ Type: video
 Duration: 22:40 (1360s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 583
+Transcript characters: 20230
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The Iran ceasefire is already falling
+[00:02] apart. We saw that oil crash 16% and
+[00:05] then shot back over $100. So I can
+[00:07] understand if a lot of you are feeling
+[00:09] frozen. But don't worry, there is
+[00:12] opportunity here. Louis found [music]
+[00:14] three energy stocks positioned to win
+[00:16] from this chaos. We have an integrated
+[00:18] major, a refiner, [music] and one that
+[00:20] no one is watching. Plus we have 13
+[00:22] companies that are reporting next week.
+[00:24] Let's get into it. Welcome back to
+[00:26] Mampler Market Buzz.
+[00:30] >> [music]
+[00:36] [music]
+[00:40] >> Jack, what happened with the ceasefire
+[00:42] and why is it falling apart?
+[00:44] >> Well, the IRGC, the Iranian Republican
+[00:47] Guard wants to charge tolls. So I
+[00:49] believe on um Wednesday, four boats went
+[00:52] through. On Thursday, 15 boats went
+[00:55] through, including some Chinese oil
+[00:57] tankers. And they're trying to charge up
+[01:00] to 2 million per boat for passage and
+[01:02] they want you to check in with them and
+[01:04] hug the coastline and they're saying you
+[01:06] can't go anywhere cuz there's mines and
+[01:09] whether that's true or not is another
+[01:10] matter, but uh obviously President Trump
+[01:12] doesn't want them to charge tolls.
+[01:14] Obviously they're going to be annoying a
+[01:16] lot of people, but you know, those ships
+[01:18] are a lot of money and to a lot of
+[01:20] people it's probably worth paying 2
+[01:21] million just to get the ships moving and
+[01:23] out of there. You know, there's a day
+[01:25] rate for ships. So if they sit, you
+[01:27] still have to pay. And and I'm not even
+[01:29] sure the insurance companies are even
+[01:30] wanting to pay. So this is kind of like
+[01:32] the Somali pirate thing, you know? This
+[01:35] is a new business for the IRGC cuz Trump
+[01:37] screwed up their other businesses. So I
+[01:39] think that's the the big bottleneck. And
+[01:42] then of course when they did the
+[01:43] ceasefire, they thought Israel would not
+[01:46] attack Lebanon and Israel did not agree
+[01:49] to that. So that caused some confusion.
+[01:51] So there are talks in this
+[01:54] Islamabad, Pakistan and JD Vance, our
+[01:57] vice president's going over there to
+[01:59] have the talks and we'll see if we get
+[02:01] much progress. But the good news is it's
+[02:03] all about economics. And and
+[02:06] we'll see
+[02:07] we can come to terms. It is compound
+[02:09] complex and very uncertain. So a lot of
+[02:12] traders will just sell off going into
+[02:14] the weekend. That's probably what what I
+[02:16] expect.
+[02:17] >> Now oil dropped 16% on Wednesday, the
+[02:20] biggest one-day crash since 2020. Then
+[02:22] Thursday it shot back above $100. What
+[02:25] is driving this and where does oil
+[02:27] settle from here?
+[02:28] >> Okay, well, it's kind of confusing
+[02:30] because there's Brent crude, which is
+[02:32] sweet and expensive, and the Brent crude
+[02:34] is mostly from Libya and Nigeria.
+[02:37] It's very sweet light crude that doesn't
+[02:39] have much of any sulfur in it. And
+[02:42] then there's the West Intermediate,
+[02:44] which is a lower grade crude. As I'm
+[02:46] talking to you, that's over $98 a barrel
+[02:48] at this moment. So still pretty pricey.
+[02:51] And then of course there are the what we
+[02:54] call the heavy crudes, like Russia's is
+[02:56] a heavy crude and it has to be
+[02:58] discounted and it just takes a lot more
+[03:00] refining, a lot more energy to extract
+[03:02] oil from heavy crude. Obviously the the
+[03:04] tar sands in Canada, they they literally
+[03:06] steam those tar sands to get the oil
+[03:09] out. And that's kind of expensive, too.
+[03:11] And and that is is usually sold at a
+[03:13] discount. So and Venezuela of course is
+[03:16] heavy. So the the grade of crude oil
+[03:18] just depends on how the viscous it is,
+[03:21] how much sulfur and other things are in
+[03:24] the crude that they have to refine out.
+[03:25] >> So with all this going on, let's get
+[03:28] into your first stock with the most
+[03:29] obvious play, the integrated major.
+[03:32] Which one is it, what do they do and why
+[03:34] this one?
+[03:34] >> Yeah, um well, the it's CVE. It's a
+[03:38] Canadian oil company based in Calgary
+[03:41] and it has a very good forecast of sales
+[03:43] and earnings. So that's why I like it.
+[03:45] You know, the Canadian oil stocks have
+[03:47] been holding up better than the big
+[03:49] integrated American ones. And I just
+[03:52] think they have a more consistent market
+[03:54] and their institutional holders are
+[03:56] reliable. You know, in America, we had
+[03:59] the ESG craze and
+[04:02] fossil fuels
+[04:04] uh as a percent of the stock market
+[04:06] dropped to less than 2% of market value.
+[04:09] And now they're climbing back and you
+[04:12] know, we're pro fossil fuel now.
+[04:14] But there's still a lot of people that
+[04:16] don't want to invest in American energy
+[04:18] stocks like a lot of universities and
+[04:21] blue states and
+[04:23] uh you know, one of the guys running for
+[04:25] governor in California, Tom Steyer, he
+[04:28] he led the the
+[04:30] the ban on fossil fuel investing at the
+[04:33] Stanford endowment and he's running for
+[04:35] governor now. So it just in Canada,
+[04:38] there's they have their owners of these
+[04:41] big Canadian energy companies are just
+[04:44] more reliable and that's why their
+[04:46] stocks are so much less volatile. So
+[04:48] there's no push in Canada to get rid of
+[04:51] all their oil companies. So I really
+[04:52] like CVE. Again, it's based in Calgary.
+[04:56] Their forecast sales and earnings are
+[04:58] fine and I can't say that for most
+[05:00] energy stocks.
+[05:01] >> The Atlanta Fed's GDP model is showing
+[05:04] 1.3% growth for quarter one. That's
+[05:07] pretty weak. Is the oil crisis dragging
+[05:09] down growth or are we already slowing?
+[05:11] >> Oh well, yeah, sure, it takes money out
+[05:13] of your wallet um
+[05:15] because of prices at the pump.
+[05:17] It's also causing the cost of goods to
+[05:19] go up because of high diesel costs.
+[05:22] You know, they released the um
+[05:24] CPI and uh
+[05:27] uh gasoline was up 18.9%
+[05:30] in March, but I
+[05:32] fuel oil was up 44%.
+[05:35] And fuel oil and and other distillates
+[05:37] are jet fuel, diesel and those costs
+[05:40] were outrageous. So so even though the
+[05:43] Fed tries not to control food and
+[05:45] energy, there's going to be a residual
+[05:47] inflation from higher transportation
+[05:50] costs. So that's unfortunate. And the
+[05:53] other thing that's interesting is the
+[05:55] surge in energy stopped the deflation in
+[05:57] China. We had news today that China for
+[06:01] the first time in 3 years did not have
+[06:03] deflation. And you know, what happens
+[06:05] when you have deflation? Everybody drags
+[06:06] their feet on ordering something because
+[06:09] the prices keep falling every month. And
+[06:11] now that prices finally decide to go up
+[06:13] for the first time in 3 years in China,
+[06:15] maybe it'll help their orders and help
+[06:17] their economy. So we'll see. I mean,
+[06:19] obviously it's a a food and energy
+[06:21] bubble that's going through world
+[06:23] economies and hopefully in a few months,
+[06:25] but it's is impacting thing. And of
+[06:27] course the CPI was up 9/10 percent for
+[06:30] March. That sounds horrific, but that
+[06:32] was in line with what economists
+[06:34] expected. And the the core CPI was only
+[06:37] up 2/10 and that was a lot less than
+[06:39] economists expected. They were expecting
+[06:40] 3/10. So believe or not, that CPI was a
+[06:43] good report.
+[06:44] >> All right, now let's get into your
+[06:45] second stock pick. This is a refiner.
+[06:48] Why refiner specifically right now? So
+[06:51] my best refiner is ENE, which is the
+[06:54] Italian energy company. There's a
+[06:57] shortage of refined product and we have
+[07:00] it in America. It's really hard to
+[07:02] explain, but I'll do my best. So when
+[07:05] you refine a barrel of oil, you get
+[07:08] about 19 gallons of gas, you get about
+[07:10] 12 gallons of diesel and then you get
+[07:13] some jet fuel and other distillates. So
+[07:15] you just can't take oil and make it all
+[07:16] gas. So why they're closing the
+[07:18] refineries down in California is they
+[07:21] don't want made from oil or the jet fuel
+[07:24] made from oil. They want the jet fuel
+[07:27] and diesel made from organic compounds
+[07:29] like soybeans. I like to say bird poop
+[07:32] because you know, they're the chicken
+[07:34] coops have a lot of waste and you can
+[07:36] throw that in to make diesel. Obviously
+[07:39] making diesel from bird poop and
+[07:42] soybeans is is more expensive than
+[07:45] making it from oil. So what happened in
+[07:47] California is they're making all this
+[07:49] product they couldn't sell and they have
+[07:51] to ship it somewhere. And and then they
+[07:53] have to have separate facilities just to
+[07:55] to make the California blended diesel
+[07:57] and it's just not profitable. So that's
+[07:59] why the refineries are shutting down and
+[08:01] they have to import from elsewhere. And
+[08:03] and California's not letting up. They're
+[08:05] obsessed with making sure they get bio
+[08:07] jet fuel, okay? So that is part of the
+[08:11] problem in America and it's mostly on
+[08:13] the West Coast, but then when you go uh
+[08:16] to the rest of the world, there was an
+[08:18] acute diesel and jet fuel shortage. And
+[08:21] uh
+[08:22] and that just caused the cost to go up.
+[08:24] So it's a problem. Now that the ships
+[08:27] are going through the straits, I mean,
+[08:29] they just it's just a trickle, but at
+[08:31] least some are getting through.
+[08:32] Hopefully the the shortages will be
+[08:35] alleviated and um
+[08:38] there was a surplus when the war
+[08:39] started. Now there's a shortage. So my
+[08:41] best refiner is ENE. And the reason I
+[08:45] like them is they have all the access to
+[08:47] the sweet crude from Africa, Libya,
+[08:49] Nigeria. So they have not been as
+[08:51] disrupted as other energy companies. Cuz
+[08:54] again, it's coming straight from Africa
+[08:56] to Italy. Love it. We have a integrated
+[08:58] major, a refiner, and now the third
+[09:00] stock. This one is a little bit of a
+[09:02] sleeper. Most people might not think it
+[09:04] as an energy play. Can you explain?
+[09:06] Well, this is a a midstream pipeline
+[09:08] company. It's called MPLX. You don't buy
+[09:10] this for growth, you buy it for the
+[09:12] dividend yield and cash flow. It yields
+[09:14] 7.7%. It is an MLP. So if you do buy the
+[09:18] stock, you are going to get
+[09:20] a K-1 and that K-1 will annoy your
+[09:22] accountant because then you have to file
+[09:24] tax returns in other states. But in
+[09:26] general, the the the midstream pipeline
+[09:28] companies have done amazing well under
+[09:30] under President Trump because he he
+[09:33] pushed natural gas. And we've had this
+[09:35] incredible natural gas and LNG boom. And
+[09:37] and
+[09:38] MPLX is a is a symbol. Uh
+[09:41] I've recommended the stock for a
+[09:43] dividend in dividend accounts. And
+[09:45] again, yields 7.7%,
+[09:48] but okay, it is a
+[09:50] an MLP, which means you will get a K-1
+[09:53] and that makes your tax filing more
+[09:55] complicated.
+[09:56] >> So those are the three energy stocks, an
+[09:58] integrated major, a refiner, and the
+[10:00] sleeper. Now, let's shift to earnings
+[10:02] because Monday morning it all kicks off.
+[10:05] Let's start out with JP Morgan, the
+[10:06] bellwether. What are you watching here?
+[10:08] Their results are going to be fine. You
+[10:10] know, Jamie Dimon has made some comments
+[10:13] that he's worried about inflation and
+[10:16] all that stuff, but Jamie is the world's
+[10:18] biggest worrywart, and he's going to be
+[10:20] drowned out by our new Fed chairman
+[10:22] soon. But, right now
+[10:24] JP Morgan's sales are supposed to be up
+[10:26] 7.9. Their earnings are supposed to be
+[10:28] up 8.3.
+[10:30] We have positive analyst revisions. They
+[10:32] did miss last quarter, so that was
+[10:34] unusual for Jamie and JP Morgan. People
+[10:37] are going to be looking to see if
+[10:39] they're losing any more in their private
+[10:40] equity investment or private credit
+[10:42] investments. They had a loss a a few
+[10:44] couple of quarters ago.
+[10:46] Um obviously, Jamie's been critical of
+[10:49] um private credit as as have we, and um
+[10:53] and and then everybody be looking at
+[10:55] their loan loss reserves. JP Morgan's is
+[10:58] a flagship bank, and I expect them to um
+[11:01] do well, and hopefully they'll surprise.
+[11:03] Again, they did not surprise in the last
+[11:05] quarter. Now, Bank of America is
+[11:07] announcing on Tuesday. How do they
+[11:09] compare? Bank of America is just not as
+[11:12] good as JP Morgan. That's my comment.
+[11:15] Their Their sales are supposed to be up
+[11:17] 9 and 1/2%. Their earnings are supposed
+[11:19] to be up 12.4.
+[11:21] Unless they slightly revise estimates
+[11:23] higher, they have surprised. But, my big
+[11:26] criticism of Bank of America, it's just
+[11:28] a big behemoth.
+[11:30] And uh they still have to streamline
+[11:32] their banking operations. They obviously
+[11:34] own Merrill Lynch, and um they're just
+[11:37] not as um
+[11:39] they're just not as dominant or dynamic
+[11:40] as JP Morgan, so. But, um right now it
+[11:43] looks like they're going to have better
+[11:44] sales and earnings according to the
+[11:45] analyst estimates. Now, Citi is also on
+[11:48] Monday with JPM. Still in turnaround
+[11:51] mode? Yeah, you know, Citibank is a
+[11:53] little different. They are not as
+[11:55] dominant in credit cards as JP Morgan
+[11:57] is, but they do issue a lot of credit
+[12:00] cards to third parties, and those
+[12:03] third-party uh credit cards are never
+[12:06] never as safe as a direct issue. So,
+[12:09] that has weighed on them, and they did
+[12:11] have a big miss in the previous quarter.
+[12:13] So, their sales are supposed to be up
+[12:14] 9.3%
+[12:15] earnings are supposed to be up 33.9.
+[12:17] That's outstanding. We do have positive
+[12:20] analyst revisions, but again, like JP
+[12:22] Morgan, they missed last quarter. So,
+[12:24] all these banks can have their good
+[12:26] sales and earnings, but they have to
+[12:28] guide higher, and and they and a lot of
+[12:30] times they're increasing their loan loss
+[12:32] reserves. And and Citibank as they're a
+[12:35] little bit more aggressive on the credit
+[12:36] card side might have to do that. So,
+[12:39] that that will be the the overriding
+[12:41] factor. Next up are investment banks.
+[12:44] What are you seeing for Goldman Sachs?
+[12:45] Well, Goldman Sachs is interesting. It's
+[12:47] a trading firm, obviously, and
+[12:49] underwriting firm. They're in the SpaceX
+[12:51] pipeline. There's 21 investment firms
+[12:54] behind the SpaceX IPO. So, they will be
+[12:58] reaping a windfall from that, but their
+[13:00] sales are forecast to be up 12.2%.
+[13:03] Earnings are forecast to be up 14.4.
+[13:06] We have positive analyst revisions, and
+[13:08] they did have a good earnings surprise
+[13:11] last quarter of 20.2%. So,
+[13:14] I think they'll they'll be doing a
+[13:16] little bit better. You know, investment
+[13:18] banks underwrite securities. They do
+[13:20] merger and acquisition deals, and so
+[13:23] they get most of their revenue from
+[13:24] selling bonds, selling stocks, or
+[13:26] secondary offerings, and their merger
+[13:29] and acquisition deals. And and they have
+[13:31] their own
+[13:31] trading groups to to profit from it and
+[13:34] and profit centers. The merger and
+[13:35] acquisition activity's been pretty busy,
+[13:37] so hopefully that's going to go straight
+[13:39] to Goldman Sachs' bottom.
+[13:40] >> Staying with investment banks, we have
+[13:42] Morgan Stanley. Is deal flow coming
+[13:44] back?
+[13:45] >> Yeah, you know, Morgan Stanley's going
+[13:47] to be behind the SpaceX IPO as are 21
+[13:50] other firms, and their sales are
+[13:52] supposed to be up 11%.
+[13:55] Their earnings are supposed to be up
+[13:57] 15.8.
+[13:59] We do have positive analyst revisions,
+[14:00] and they have a good surprise history,
+[14:02] but like Goldman Sachs, it's all going
+[14:04] to be about their investment banking
+[14:06] revenue and the guidance going forward.
+[14:08] So, I think most of these companies,
+[14:10] Goldman and Morgan, are obviously going
+[14:12] to be very excited about the SpaceX IPO
+[14:15] >> [snorts]
+[14:15] >> because that'll help them next quarter.
+[14:16] And last for the banks, we have
+[14:18] BlackRock. This is an asset management
+[14:20] giant. What are their flows telling us?
+[14:23] >> Well, they're huge, you know.
+[14:25] You have friends that work there, and
+[14:28] they're down the street from me. And
+[14:29] their sales are supposed to be up 24.2.
+[14:33] Earnings are supposed to be up only 4.6,
+[14:36] and the analysts have been cutting their
+[14:37] estimates, and they have had negative
+[14:40] surprises the past two quarters. So, I
+[14:42] think what's overhanging BlackRock,
+[14:45] other than they have a lot of assets,
+[14:47] which is good, is they were late to get
+[14:49] into private credit, and all the
+[14:50] concerns over private credit worry
+[14:52] people. And so, they're going to have to
+[14:54] clarify if they're going to have to
+[14:56] boost their loan loss reserves or pay
+[14:58] their private credit investors less
+[15:00] interest. So, that's an issue.
+[15:02] Personally, I think the market's been
+[15:03] too narrow to just do normal ETF
+[15:06] investing and index investing, which
+[15:08] BlackRock specializes in, and so they
+[15:11] just don't have a lot of stuff to be
+[15:12] excited about. But, private credit is is
+[15:15] an overhang on them, and they're just
+[15:17] going to have to address it head-on, and
+[15:19] I'm sure they will not have investor
+[15:22] losses, but they might have to eat some
+[15:24] losses internally if they made some bad
+[15:26] loans. Now, let's shift to consumer
+[15:28] names. We have PepsiCo, and recently
+[15:31] they stole the Coca-Cola bear. So, is
+[15:33] that helping their sales? Is that the
+[15:35] polar bear? Yeah, in their recent ads. I
+[15:38] don't know if you've seen it, but the
+[15:39] polar bear has to go to therapy because
+[15:42] he did a blind taste test with Pepsi and
+[15:45] and Coca-Cola, and he chose Pepsi, so
+[15:47] he's like having an existential crisis
+[15:49] now.
+[15:50] That is compound complex. The good news
+[15:53] for Pepsi is their sales are supposed to
+[15:54] be up 5.6.
+[15:56] Um
+[15:57] earnings are supposed to be up 4.3, so
+[16:00] slight margin compression. They have
+[16:02] missed for four quarters in a row. This
+[16:03] is a big national,
+[16:06] and you know, the economies around the
+[16:08] world are kind of weak. So, I have very
+[16:10] low expectations for PepsiCo. I realize
+[16:12] they own Pizza Hut and some other
+[16:14] things, but
+[16:15] I have very low expectations cuz four
+[16:18] quarters in a row is miss is big. And
+[16:20] again, their sales internationally are
+[16:22] more important. Hopefully, the their new
+[16:24] spokesman the polar bear boost their
+[16:26] bottom. Next up, we have CarMax. This is
+[16:28] a big-ticket discretionary used car
+[16:30] sales. What are you seeing for them?
+[16:32] Well, they're not doing as good as
+[16:33] Carvana, but their sales are forecast to
+[16:36] fall 4.9%
+[16:38] earnings are forecast to fall 63.1%.
+[16:42] But, there's positive analyst revisions
+[16:44] on the last 90 days, and they did have a
+[16:46] big surprise last quarter. Used car
+[16:48] prices are up right now. So, this one is
+[16:51] a real wild card. So, um we'll see if
+[16:54] they can surprise again. But, they've
+[16:56] been too erratic for me to even look at
+[16:58] them, to be honest. And of course, the
+[16:59] forecast sales and earnings are net. So,
+[17:02] yeah, this is it. What we call a dog
+[17:03] with fleas, and hopefully
+[17:05] they'll surprise and shake some of those
+[17:07] fleas off. Let's switch to some tech
+[17:08] names. We have Netflix streaming.
+[17:10] Subscriber growth is what everyone
+[17:12] watches, but what are you seeing? That's
+[17:14] a big deal for Netflix. First of all,
+[17:16] Netflix has been freed from the the
+[17:18] Warner Brothers acquisition. So,
+[17:21] um that's a big deal. And I think that's
+[17:24] the big most important thing, and now
+[17:25] they can just focus on programming. You
+[17:28] know, they're trying to do more sports,
+[17:29] but when you stream their sports, it
+[17:31] gets blurry cuz I guess they better get
+[17:34] some more servers. Proof that we need
+[17:36] more data centers. Sales are supposed to
+[17:38] be up 15.5.
+[17:40] Earnings are supposed to
+[17:42] be up 18.6. We um have some analyst
+[17:45] trims in the last 3 months, and they did
+[17:48] have a small surprise last quarter. But,
+[17:50] as always as you just mentioned, it's
+[17:52] always about are you adding new
+[17:53] subscribers, and are you getting those
+[17:55] subscribers upselling into more premium
+[17:58] services like 4K top television. So, so
+[18:01] we'll see. Next up, we have ASML. They
+[18:04] are the machines that make the chips. Is
+[18:06] AI still working? Yeah, the whole
+[18:08] semiconductor business, the circuit
+[18:10] board business is all very firm. ASML
+[18:14] obviously etches all the chips on the
+[18:16] wafers.
+[18:17] Their sales are supposed to be up 11.8%
+[18:20] earnings are supposed to be up at 10.6.
+[18:22] Good analyst revisions, but they missed
+[18:25] last quarter. Oops. So, they're going to
+[18:27] have to surprise and and provide good
+[18:29] guidance. And if they don't do that,
+[18:31] they will be in the doghouse. While
+[18:32] we're talking about chips, let's end on
+[18:34] Taiwan Semiconductor. They are the
+[18:36] manufacturer for all of the chips such
+[18:39] as Nvidia. So, what are you looking at
+[18:42] for them? Stunning. Sales are supposed
+[18:44] to be up 33.2.
+[18:47] Earnings are supposed to be up 56.3.
+[18:50] A big upward analyst revisions, good
+[18:52] surprises, but their sales are running
+[18:55] faster
+[18:56] than their guidance, and they do release
+[18:58] sales, so it looks awfully good for
+[19:00] Taiwan Semi right now. So, this one
+[19:03] should hit out of the park. And of all
+[19:04] the stocks we've talked about, this is
+[19:06] the best one. Okay, so to recap, we have
+[19:08] three energy stocks plus all these
+[19:10] earnings kicking off on Monday. What
+[19:12] should people watch this weekend
+[19:13] besides, of course, the Masters? Well,
+[19:16] and the negotiations in Obama
+[19:19] land Pakistan where JD Vance is, so
+[19:22] we'll see if we make any progress. You
+[19:24] know, I'm at the money show down in
+[19:27] Hollywood, Florida, not right now, but
+[19:28] I'll be there shortly. And there's a lot
+[19:30] of charts on the taco trade where where
+[19:32] Trump changes his policy. So, and how
+[19:35] profitable the taco trade is. So, we'll
+[19:37] see if they have any announcement that
+[19:39] gets the market excited. But, you know,
+[19:42] wars have no economic value whatsoever.
+[19:45] So, it set the world back cuz of higher
+[19:48] energy costs and food costs and
+[19:50] fertilizer shortage. So, it is in
+[19:51] everybody's best interest to move on and
+[19:54] and get this resolved once and for all.
+[19:56] Now, for your three energy stocks, we
+[19:58] have MPLX, CVE, and E. If you had to
+[20:02] pick one of those three, which one would
+[20:04] it be? Ooh, that's tough. It's CVE. You
+[20:07] know, the Canadian energy stocks are
+[20:09] just better. Of course, they sell most
+[20:11] of the United States cuz we have
+[20:12] refineries to south of them, and um we
+[20:15] do charge 10% tariffs on their oil, but
+[20:18] uh and they do sell to us at a discount.
+[20:20] Alberta is a very um prosperous province
+[20:22] in Canada, and and their business is
+[20:24] booming.
+[20:25] We're very dependent upon that.
+[20:27] And uh so, I think um
+[20:30] yeah, I think they're just much more
+[20:32] stable. But, then again, the reason the
+[20:34] stocks are more stable, you don't have
+[20:36] people in Canada telling everybody to
+[20:38] get out of Canadian energy stocks. In
+[20:40] America, you still have states that are
+[20:42] openly hostile to fossil fuel companies.
+[20:45] You have universities that will not
+[20:47] invest in fossil fuel companies. Not in
+[20:49] Texas, Louisiana, Oklahoma, but in
+[20:52] California, Oregon, Washington,
+[20:54] Massachusetts, New York, investing in
+[20:57] fossil fuels is considered to be
+[20:59] unethical. And so, even though ESG has
+[21:02] died,
+[21:03] uh
+[21:04] there are still remnants of it out
+[21:06] there, and that's why our integrated oil
+[21:08] companies in America aren't doing as
+[21:10] good as the Canadian ones. So, there we
+[21:12] have it. Three energy stocks positioned
+[21:14] for this chaos. If this helped you,
+[21:16] please hit that like button. Drop a
+[21:18] comment which energy stock you're
+[21:20] looking at. Of course, hit that
+[21:21] subscribe button if you enjoyed, but
+[21:23] we'll see you at this Wednesday for a
+[21:25] midweek update.
+[21:53] >> [music]
+[22:07] [music]
+[22:33] [music]

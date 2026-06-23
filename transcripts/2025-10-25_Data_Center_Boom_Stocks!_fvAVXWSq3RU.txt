@@ -7,9 +7,28 @@ Type: short
 Duration: 0:54 (54s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 20
+Transcript characters: 708
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The data center boom is very real.
+[00:02] GE Renova not only exceeded analyst
+[00:06] expectations and raised guidance, their
+[00:08] order backlog for their natural gas
+[00:11] turbines is up over 50% in the last 12
+[00:15] months. Vertiv Holdings, which makes
+[00:16] critical infrastructure in the data
+[00:19] centers, their order backlog is up 55%
+[00:22] and of course they blew it out and
+[00:24] raised guidance. And finally, Comfort
+[00:25] Systems, which provides all the air
+[00:27] conditioning for the data centers, had
+[00:30] spectacular results and their order
+[00:33] backlog is up 65%.
+[00:37] So, GEV, VRT, and FIX are these symbols
+[00:43] of these three incredible data center
+[00:45] related companies that are booming. I
+[00:48] think you better have them in your
+[00:49] portfolio because they're going to keep
+[00:51] appreciating for a long, long time.

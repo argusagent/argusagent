@@ -7,9 +7,35 @@ Type: short
 Duration: 1:03 (63s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 27
+Transcript characters: 993
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Now, Rivian has had some recent estimate
+[00:02] trims, but what do you expect for them?
+[00:05] Well, believe it or not, their sales are
+[00:06] forecast to decline
+[00:08] 15.5% and operating earnings are
+[00:11] supposed to improve 40.8, but they're
+[00:12] still negative. So, there's operating
+[00:14] earnings and this overall earnings. So,
+[00:18] I just want you to know it's supposed to
+[00:19] be less bad. Um, but there were some
+[00:22] analyst estimate trims. The big story
+[00:24] with Rivian is Volkswagen is now behind
+[00:27] it. uh Scout Motors, which is the um VW
+[00:31] truck they're going to be building in um
+[00:34] uh South Carolina, made in alliance with
+[00:36] Rivian, and it's causing a lot of grief
+[00:37] for the dealers because Scout's going to
+[00:39] a direct model, which Rivian does, and
+[00:41] bypassing the dealers, but um you know,
+[00:44] they they got 5 billion bucks from
+[00:46] Volkswagen as a commitment and um and
+[00:49] the Scouts is supposed to be using the
+[00:51] Rivian software and everything in its
+[00:53] vehicle. So, um I think this is a
+[00:56] company that has just to guide higher
+[00:58] and it'll be fascinating to see if the
+[01:00] Scout and the Rivian are sold

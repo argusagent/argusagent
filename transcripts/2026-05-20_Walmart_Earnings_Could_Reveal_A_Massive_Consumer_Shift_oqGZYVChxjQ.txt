@@ -7,9 +7,34 @@ Type: short
 Duration: 0:54 (54s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 26
+Transcript characters: 888
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Walmart reports this week, and this is
+[00:01] the biggest read on the US consumer
+[00:04] you'll get all year.
+[00:05] >> Walmart's really five stores in one.
+[00:07] They are the biggest supermarket
+[00:08] retailer in America now.
+[00:11] I own the stock and manage accounts.
+[00:13] Their sales are supposed to be up 6.7
+[00:15] percent or so. Their earnings are
+[00:17] supposed to be up 7.8. So, we have some
+[00:20] margin expansion. We have no analyst
+[00:22] estimate changes. The stock has had kind
+[00:25] of small surprises in the last couple
+[00:27] quarters. I think Walmart's always about
+[00:28] same-store sales
+[00:30] growth and also about attracting more of
+[00:33] the mid-to-higher income consumers. In
+[00:36] the past, Walmart catered to
+[00:37] lower-income consumers. They had a
+[00:39] paycheck cycle where their sales were
+[00:42] strong in the in the middle of the month
+[00:43] and the in the third week when the
+[00:45] paychecks came out. Walmart has uh
+[00:49] basically buried that and gone upscale.
+[00:51] I have very high hopes for Walmart. And
+[00:53] again, I own the stock.

@@ -7,9 +7,37 @@ Type: short
 Duration: 1:09 (69s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 29
+Transcript characters: 1011
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Retail sales for March just came out.
+[00:02] They were up
+[00:04] 1.4%. That was the strongest retail
+[00:07] sales report in 2 years. It was led by
+[00:10] auto sales which up a whopping
+[00:13] 5.3%. Obviously, consumers are
+[00:15] responding to all the incentives that
+[00:17] the dealers are providing and maybe some
+[00:21] consumers are trying to beat the tariff
+[00:23] consequences, but uh 11 of the 13
+[00:26] categories were up. Okay. And that's the
+[00:29] most important thing. And gas station
+[00:30] sales obviously fail because fuel prices
+[00:32] are lower. So this was a stunning
+[00:36] stunning retail sales report. And it
+[00:38] just shows when spring arrives,
+[00:39] consumers get out and about, they spend
+[00:41] money. Uh and uh we can't have a
+[00:44] recession when we have robust consumer
+[00:46] spending like this. So the recession
+[00:48] fears should be over. Uh the economy
+[00:51] could still contract in the first
+[00:53] quarter due to the dumping of goods and
+[00:55] uh there was a lot of gold dump in
+[00:57] America. Um, so that's going to distort
+[01:00] the numbers, but we are not in a
+[01:02] recession. We are in a progrowth
+[01:04] environment. And uh I I'm just ecstatic
+[01:07] with today's retail sales results.

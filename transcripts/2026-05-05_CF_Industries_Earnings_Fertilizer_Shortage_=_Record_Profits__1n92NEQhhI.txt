@@ -7,9 +7,39 @@ Type: short
 Duration: 0:59 (59s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 31
+Transcript characters: 1053
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] with Industries reports this week, are
+[00:02] higher fertilizer prices supporting
+[00:04] them?
+[00:04] >> Oh, yeah. Yeah, absolutely. Their sales
+[00:06] are supposed to be up 11.8%
+[00:09] their earnings is supposed to be up
+[00:10] 34.4%
+[00:12] so we have margin expansion because
+[00:14] earnings are outpacing sales growth. We
+[00:16] have very positive analyst revisions.
+[00:17] They have gone from 224 a share uh 90
+[00:20] days ago to 266 a share today and last
+[00:24] quarter there they had a 23.9% surprise.
+[00:27] So, yeah, it looks very very good for
+[00:28] them because of the fertilizer shortage.
+[00:31] I would point out there is a drought for
+[00:33] much of the Midwest. That's unfortunate.
+[00:35] Uh so, that's going to hurt crop yields,
+[00:37] but uh yeah, there's a worldwide
+[00:38] fertilizer shortage, especially potash.
+[00:41] Uh CF Industries is more nitrogen-based
+[00:43] fertilizer. You know, that's in short
+[00:44] supply too because of the the uh
+[00:46] straight up her moose situation. So,
+[00:47] yeah, it's time for them to reap record
+[00:49] profits. Uh these uh fertilizer
+[00:51] companies are very cyclical. So, you
+[00:53] know, you shouldn't expect good earnings
+[00:55] growth every quarter, but uh this is
+[00:56] should be a stunning quarter for CF
+[00:58] Industries.

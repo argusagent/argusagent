@@ -7,9 +7,31 @@ Type: short
 Duration: 0:48 (48s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 23
+Transcript characters: 810
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Target reports this week is the American
+[00:01] consumer cracking? No. Uh going to read
+[00:04] their sales report, they were out and
+[00:05] about spending. Sales of Target is
+[00:08] supposed to be up 2.8, earnings is
+[00:09] supposed to be up 8.2.
+[00:12] We have some actual upward analyst
+[00:14] revisions on Target in the last 7 days
+[00:16] from $1.36 to $1.41, so that's a good
+[00:19] sign. And last quarter they had a 13%
+[00:23] earnings surprise, much bigger than
+[00:25] normal. So, Target in the past was in
+[00:27] the doghouse because they were losing
+[00:29] market share to and some supermarkets.
+[00:32] They have a supermarket business, too.
+[00:33] But, they turned it around last quarter,
+[00:35] apparently got better inventory
+[00:36] management. So, we want to see
+[00:38] improvement on top of this. Not strong
+[00:41] enough for me to buy it, but hopefully
+[00:43] they can the improvement they had last
+[00:44] quarter will continue and we'll have
+[00:46] another nice surprise.

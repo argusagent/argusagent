@@ -7,9 +7,24 @@ Type: short
 Duration: 0:45 (45s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 16
+Transcript characters: 560
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Oh, greetings from the money show in
+[00:02] Miami. Well, inflation is non-existent.
+[00:07] Uh the PPI was negative. Biggest um uh
+[00:12] miss 8/10 of a percent. Uh it was down
+[00:15] half a percent. Comments are accepting
+[00:17] 3/10en up. So economists can hit the
+[00:19] broad side of the barn as far as the PPI
+[00:22] is
+[00:22] concerned. Of course, the CPI also came
+[00:25] in lower than expected. And uh here's
+[00:28] the deal. CPI is running lowest pace in
+[00:31] four years. PPI wholesale prices are
+[00:34] running at the lowest pace in five
+[00:37] years. So there is no inflation. Okay.
+[00:40] The Fed should cut. It's as simple as
+[00:42] that. They're above market rates.

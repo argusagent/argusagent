@@ -7,9 +7,38 @@ Type: short
 Duration: 1:06 (66s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 30
+Transcript characters: 1094
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] At Navalier Market Buzz, we are excited
+[00:02] to have a new midweek edition that will
+[00:04] come out every Wednesday. This will be
+[00:06] especially important during earnings
+[00:08] announcement season which is just about
+[00:10] to commence. In the meantime, this week
+[00:12] we're talking about CES, the consumer
+[00:13] electronic show. Nvidia has already
+[00:15] announced their new Ver Ruben chip. It's
+[00:18] in production. It'll be delivered later
+[00:19] this year. It boosts the AI computing
+[00:22] power five-fold while cuts energy
+[00:24] consumption 10fold. So, as AI gets
+[00:27] cheaper and faster, it's going to expand
+[00:29] exponentially. Nvidia is also heavily
+[00:31] involved in the self-driving
+[00:33] technologies for all the robo taxis and
+[00:36] of course robotics as well. But the most
+[00:38] interesting news at CES, believe it or
+[00:40] not, is RGB televisions. What are those?
+[00:43] Well, they're basically the mini and
+[00:45] microLEDD TVs. RGB is just their new
+[00:48] fancy word, but they're becoming
+[00:50] increasingly common and bigger. Last
+[00:52] year, they had 115inch versions. This
+[00:55] year, Samsung announced 130inch version.
+[00:58] So, check out Naval Market Buzz's
+[01:00] midweek edition. It's up now. And enjoy.
+[01:03] And we'll also, of course, have a
+[01:04] another video for you on

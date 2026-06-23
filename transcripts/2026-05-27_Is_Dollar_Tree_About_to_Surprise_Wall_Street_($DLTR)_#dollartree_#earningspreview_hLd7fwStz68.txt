@@ -7,9 +7,30 @@ Type: short
 Duration: 0:39 (39s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 22
+Transcript characters: 677
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Dollar Tree is down 22% this year
+[00:02] heading into their earnings this week.
+[00:04] Is this a warning sign? Maybe. Uh their
+[00:07] sales are supposed to be up 7.1%.
+[00:09] Their earnings are supposed to be up
+[00:10] 23.2.
+[00:12] They also been held steady on their
+[00:13] earnings estimates. I think if
+[00:15] anything's held Dollar Tree back is it
+[00:17] has a good surprise history, but last
+[00:19] quarter it only had a 1.1% surprise. So,
+[00:22] if it has a bigger surprise, as good
+[00:23] seems for sales growth, I think the
+[00:25] stock will
+[00:26] will do well. Obviously, they cater to
+[00:28] consumers that might be being affected
+[00:30] by gas prices. So, I think that's some
+[00:32] of the anxiety out there. So, we'll see
+[00:34] if
+[00:35] they're providing good value to those
+[00:37] people and their sales are still
+[00:38] growing.

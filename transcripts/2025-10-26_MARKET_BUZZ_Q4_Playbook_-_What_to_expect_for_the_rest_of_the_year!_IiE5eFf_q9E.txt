@@ -7,9 +7,739 @@ Type: video
 Duration: 26:05 (1565s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 731
+Transcript characters: 22564
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Markets are heading into the final
+[00:01] stretch of 2025. Will we see a Santa
+[00:04] Claus rally or more turbulence? Powell
+[00:06] is signaling cuts, investor sentiment is
+[00:08] shifting, and the stage is set for a
+[00:10] pivotal Q4. Let's break down what to
+[00:12] expect and answer some of your questions
+[00:14] along the way. Welcome back to Navellier
+[00:16] Market Buzz.
+[00:18] [Applause]
+[00:19] [Music]
+[00:31] So Dad, we're heading into the final
+[00:32] stretch of the year. What should
+[00:33] investors expect for October, November,
+[00:36] and December as we move towards 2026?
+[00:39] I'm going to try to walk you through
+[00:40] this week by week.
+[00:42] The second half of October is better
+[00:44] than the first half.
+[00:46] Largely because earnings are coming out.
+[00:48] This earnings announcement season is the
+[00:51] uh off to the strongest start in 4
+[00:53] years.
+[00:54] Earnings are up over um
+[00:56] 14.6% on average for the S&P.
+[00:59] The whole quarter, they're estimating
+[01:01] 11, but we're off to a strong start.
+[01:03] We've had big multinationals uh like
+[01:06] General Motors and 3M announce, and um
+[01:10] I'm most excited about GE Vernova. Their
+[01:12] results were stunning, and their
+[01:14] forecast for their their power
+[01:16] generation business is just
+[01:18] unbelievable. Their order backlog is
+[01:20] huge.
+[01:21] So that's helped lift the entire market.
+[01:23] The other big news uh of course is uh
+[01:25] gold has um had its biggest correction
+[01:28] in 12 years, but I expect that to
+[01:29] rebound quickly. That was all technical
+[01:31] in nature.
+[01:33] So we're we're finishing the uh October
+[01:36] on a strong note.
+[01:38] November is seasonally much stronger
+[01:40] than most months and even October.
+[01:43] So if anything, we're going to
+[01:45] accelerate into November.
+[01:47] We often get an early January effect
+[01:49] where the small mid caps uh take off. Uh
+[01:52] they've been doing of course incredibly
+[01:53] well this year. That's very healthy. And
+[01:56] typically, we rally right up to
+[01:58] Thanksgiving.
+[01:59] Thanksgiving is a happy time of year.
+[02:01] People get together for friends, family,
+[02:04] football, and food. And that positive
+[02:06] sentiment seems to help the stock
+[02:08] market, helps investor sentiment. As we
+[02:10] go into December, it will get a little
+[02:12] bumpier just cuz of tax selling. A lot
+[02:14] of people like to harvest their losses,
+[02:17] cut their capital gains liability.
+[02:19] Uh but the last week of December uh
+[02:22] between the Christmas and New Year is
+[02:24] spectacular. And and then I expect a a
+[02:26] strong start for the year. So I like to
+[02:29] tell people it's this is lock and load
+[02:31] time. We placed our bets for earnings
+[02:33] announcement season.
+[02:35] We're going to let those earnings one
+[02:44] by one dropkick and drive the stocks US
+[02:46] multinationals have done. Uh that the
+[02:48] stock market is trying to broaden out.
+[02:50] >> Are there any risks that could derail an
+[02:53] end-year rally?
+[02:55] Uh the main risk would be um
+[02:58] uh
+[02:59] something extraordinary. And when I
+[03:02] wrote this uh Barron's editorial
+[03:03] forecasting uh
+[03:05] an 8% rise in the S&P um
+[03:08] for the fourth quarter and uh
+[03:10] an 18% rise next year, the only risk was
+[03:13] a potential black swan event from the
+[03:15] credit markets.
+[03:17] And we had that for a day or so with
+[03:19] Jamie Dimon's cockroach comment. You
+[03:21] know, obviously, Jamie Dimon was upset
+[03:24] that um
+[03:25] JP Morgan had to write off 3.4 billion
+[03:28] in in loan
+[03:29] uh loans in the um
+[03:32] in the third quarter, including uh 170
+[03:34] million in a company called Tricolor,
+[03:36] which was a subprime auto lender that
+[03:38] filed for liquidation. There's no doubt
+[03:41] that the loan losses are rising, okay?
+[03:44] But they still seem to be contained.
+[03:47] And you know, in the previous issue of
+[03:49] Navellier Market Buzz, we were talking
+[03:50] about Capital One.
+[03:52] And their results were fine even though
+[03:53] their loan loss reserves went up. So you
+[03:56] know, these companies plan a a certain
+[03:58] default rate.
+[04:00] But uh we are going to get key Fed cuts
+[04:03] uh starting the last week of October.
+[04:06] We're getting another cut in December at
+[04:07] the next uh Federal Open Market
+[04:09] Committee meeting.
+[04:11] And um the real key is to start lowering
+[04:13] rates to help uh
+[04:15] to help the 50% of Americans that have
+[04:17] debt issues. Which sectors usually hold
+[04:19] up best in Q4?
+[04:22] Uh it's not so much a seasonal thing.
+[04:24] What you'll see is if it gets cold, then
+[04:27] natural gas stocks will do very, very
+[04:29] well. Basically, when you invest in
+[04:30] natural gas, you like to have a freezing
+[04:33] cold winter and a hot miserable summer
+[04:35] cuz it makes demand go up. Natural gas
+[04:37] is used to generate electricity and heat
+[04:39] homes, of course. When you have these
+[04:41] like these these uh cold fronts, you
+[04:43] want it in also in a big metro area.
+[04:46] So let's just say, I don't know,
+[04:48] Spokane, Washington is cold. No one
+[04:50] cares about that. They they want Chicago
+[04:53] to freeze over, New York, the Northeast,
+[04:55] Washington D.C. They want freezes in
+[04:58] Texas.
+[05:00] Get that kind of cold weather in big
+[05:01] metro areas.
+[05:03] That's what helps natural gas, okay?
+[05:07] The demand for new pipelines and
+[05:09] midstream is is up sharply because
+[05:11] they're they're rushing to supply the
+[05:14] gas to all the data centers, but I would
+[05:16] expect utilities to be firm. I like the
+[05:19] independent utilities that sell the
+[05:21] excess power and have more
+[05:22] profitability. And
+[05:24] but uh utilities are going to be firm.
+[05:27] Um
+[05:27] you know, but this is still not really a
+[05:29] sector market.
+[05:31] Even in tech cut, you know, I got to buy
+[05:33] the the best semis, the best networking
+[05:36] companies. I just can't buy the whole
+[05:38] sector.
+[05:39] So stock picking is thriving this this
+[05:41] year versus sector management.
+[05:44] >> While we're talking about energy, one of
+[05:45] our subscribers wanted to know what your
+[05:47] thoughts are on crude oil prices this
+[05:49] quarter. Well, crude oil obviously fell
+[05:51] below $60 a barrel due to excess supply.
+[05:55] But President Trump uh just uh signed an
+[05:57] order to put a million barrels of crude
+[05:59] oil in the Strategic Petroleum Reserve,
+[06:01] so that might tighten up supply a bit.
+[06:04] Furthermore,
+[06:06] ExxonMobil is exporting crude oil from
+[06:08] Guyana all the way to India
+[06:10] uh because uh the US wants India to use
+[06:13] uh less Russian oil.
+[06:15] So
+[06:17] it looks like the supply is trying to
+[06:19] tighten up, but we are in the fall
+[06:22] and winter months.
+[06:24] And that is when demand is lowest.
+[06:27] And then demand starts to pick up in
+[06:29] February and March, and then prices
+[06:31] naturally rise. So a lot of the the lull
+[06:34] you see in crude oil right now is just
+[06:37] weather related. And the other thing is
+[06:39] the rest of the world is kind of in a
+[06:41] recession. Asia is very lackluster. I
+[06:43] know China says they're growing.
+[06:45] Domestically, they're they're not doing
+[06:47] well at all. Deflation ravaging their
+[06:49] economy. Europe is definitely in
+[06:51] recession, okay? Especially northern
+[06:53] Europe. Spain, Portugal probably the
+[06:55] only exceptions.
+[06:57] So when economic activity is lackluster,
+[07:01] demand drops.
+[07:03] So you've got the global um
+[07:06] uh
+[07:06] you got the global economic slowdown
+[07:09] plus weather is mostly impacting crude
+[07:11] oil. But in America, we're growing. Last
+[07:14] I looked, 3.8% GDP growth. And next
+[07:16] year, we expect to hit 5%.
+[07:18] >> Do you expect any rate cuts for 2026?
+[07:21] Absolutely. I'm expecting a global
+[07:23] interest rate collapse. And the reason
+[07:26] is is Asia is not growing.
+[07:28] They're not having kids.
+[07:30] Japan has the highest birth rate in
+[07:32] Asia, but not enough to replace their
+[07:35] households. Northern Europe is the same.
+[07:37] Spain and Portugal are growing from
+[07:39] immigration.
+[07:40] But the rest of Europe is um stagnating
+[07:43] big time.
+[07:44] France is totally dysfunctional.
+[07:47] About to fall into recession.
+[07:49] And then of course, Germany is in the
+[07:51] third year of recession. We have this
+[07:52] global economic slowdown. The deflation
+[07:55] that is characterized the Chinese
+[07:57] economy since May of 2022
+[08:00] looks like it's getting worse based on
+[08:01] the recent uh real estate data.
+[08:05] Uh so I'm just expecting that deflation
+[08:07] to spread around the globe,
+[08:09] and that will will cause interest rates
+[08:11] to fall further.
+[08:12] But um
+[08:14] we're going to get a dot plot in
+[08:15] December, okay? We'll see where the uh
+[08:18] Fed's at at that time.
+[08:20] But I do expect rate cuts in in the new
+[08:22] year largely because of the global
+[08:24] interest rate collapse.
+[08:25] >> So now let's move on to some subscriber
+[08:27] questions. One of our subscribers wanted
+[08:29] to know what are some alternative safe
+[08:31] havens to gold?
+[08:32] >> Well, gold is one of the best, but as
+[08:34] people learned recently, it's volatile.
+[08:36] And so when gold contracted over 5%, a
+[08:39] lot of our gold miners contracted over
+[08:41] 10%
+[08:42] percent uh intraday, but I do want to
+[08:44] assure everybody those gold miners have
+[08:46] very good sales and earnings.
+[08:48] And those sales earnings will lift the
+[08:49] stocks.
+[08:51] But uh gold gold is definitely the best.
+[08:53] You can go to industries that are we
+[08:55] call them ostrich uh stocks. Stocks with
+[08:58] their head in the sand and are oblivious
+[09:01] to everything else. So a good example of
+[09:03] an ostrich stock is Costco. It caters to
+[09:06] fairly wealthy households. Very strong
+[09:09] same-store sales growth. Monopolies are
+[09:12] good places to hide. Nvidia is clearly a
+[09:15] monopoly. Uh so you want to look at
+[09:16] high-margin companies that dominate
+[09:18] their business. You want to make sure
+[09:20] their margins are expanding. We have a
+[09:22] portfolio at at the management company
+[09:24] called Defensive Alpha
+[09:26] that buys these ostrich stocks. And it's
+[09:28] We typically buy up to 20. And uh if we
+[09:31] can't find 20, we'll have some cash
+[09:33] reserves. So technically, it's a
+[09:35] tactical portfolio cuz the cash reserves
+[09:37] will vary. But yeah, I would recommend
+[09:40] ostrich stocks in addition to to the
+[09:42] gold stocks. And what's your take on
+[09:43] Scott Bessent's plan to revalue the gold
+[09:46] at Fort Knox?
+[09:48] Well, first of all, Scott Bessent came
+[09:50] out and said the gold is in Fort Knox
+[09:52] cuz there's in the world of the
+[09:54] internet, there are some rumors that
+[09:55] maybe it disappeared. It would be hard
+[09:58] to move. It's kind of heavy. The second
+[09:59] thing is is that he um
+[10:02] he made it very clear he's not going to
+[10:04] revalue it on the Treasury's balance
+[10:06] sheet. So, that's according to Bloom uh
+[10:09] Bloomberg. So, you know, the internet
+[10:11] tries to get everybody excited uh with
+[10:14] some scandalous headlines and all
+[10:17] and that's a
+[10:18] for lack of better word, a false story.
+[10:20] >> While we're talking about gold, one of
+[10:21] our subscribers mentioned that sometimes
+[10:23] gold can be historical. How do you know
+[10:25] that this isn't going to be another
+[10:26] bust?
+[10:28] Because the buying pressure is
+[10:29] relentless. It's mostly from central
+[10:31] banks.
+[10:33] In the past, this is several years ago,
+[10:35] gold had a um a cycle tied to the Indian
+[10:39] wedding season cuz I guess they were
+[10:41] giving gold gifts during the for the
+[10:43] weddings and that was retail demand, but
+[10:45] now this is institutional demand.
+[10:47] Central banks have lost credibility in
+[10:48] the world. They can't raise rates
+[10:50] because of big deficits.
+[10:53] People are wondering, you know, is this
+[10:54] currency good? So, what they do is they
+[10:56] just load up on gold, okay? And uh
+[10:59] because gold is is uh
+[11:02] is a is a legitimate reserve uh for the
+[11:05] central banks.
+[11:07] The other thing that's interesting is um
+[11:09] Venezuela raided their central bank
+[11:13] under Maduro.
+[11:14] And they were melting gold bars in
+[11:17] Uganda.
+[11:19] They came from Venezuela that uh um
+[11:21] that were interesting.
+[11:23] Apparently World War II uh World War II
+[11:25] had all the Liberty ships crossing
+[11:26] Atlantic.
+[11:27] I guess the US needed some oil from
+[11:29] Venezuela.
+[11:30] We paid for the oil in gold bars.
+[11:33] So, Maduro's regime took those gold bars
+[11:35] and was were melting them
+[11:37] in Uganda. You know, uh
+[11:39] when you raid the central bank,
+[11:42] your currency is worthless.
+[11:44] And that's what's happened to Venezuela.
+[11:45] So, that's a good lesson.
+[11:47] The other thing is, you know, we live in
+[11:49] a world where there's a lot of money in
+[11:50] cryptocurrency and all the gold um had a
+[11:53] recent correct correction here, biggest
+[11:55] in 12 years.
+[11:57] It's still surged 50% this year
+[12:00] and it's still perceived to be a lot
+[12:01] safer than cryptocurrency.
+[12:03] So, I wouldn't be surprised some of that
+[12:05] crypto money ends up in gold as well.
+[12:07] So, people shouldn't worry about the
+[12:08] cycles. While we're on metals, any quick
+[12:11] thoughts about silver and platinum?
+[12:14] Well, platinum is obviously an
+[12:16] industrial metal. It's in your catalytic
+[12:18] converters. Obviously, as we get more
+[12:20] hybrid cars and uh
+[12:23] more fuel-efficient cars, that demand
+[12:25] can drop. Uh so, you got to watch the
+[12:26] automotive industry. Platinum is very
+[12:28] popular for jewelry, especially in
+[12:30] Japan.
+[12:31] It is heavier though than gold. Uh it's
+[12:34] mostly the industrial demand that's
+[12:35] going to drive platinum.
+[12:37] Silver is three times more volatile than
+[12:38] gold. Uh it has industrial demand,
+[12:41] but it is very very volatile. So, hang
+[12:44] on
+[12:45] uh if you're if you're buying silver. I
+[12:47] I'm not recommending any silver platinum
+[12:50] stocks now. I Some of my gold miners
+[12:52] do mine some silver as well.
+[12:55] Uh you know, silver
+[12:57] recently approached an all-time high.
+[13:00] Didn't quite get there, but it got
+[13:01] close. What about Franco-Nevada? How
+[13:03] does that name look heading into Q4?
+[13:06] Well, Franco-Nevada has always been
+[13:07] perceived to be one of the the safest
+[13:10] gold miners out there. Pays a dividend
+[13:12] as well. I've seen it on my radar. It's
+[13:14] technically acting well. I haven't
+[13:16] bought it because I do a deep dive in
+[13:18] the sales and earnings
+[13:20] and it wasn't as strong as it uh 11 of
+[13:22] the gold stocks I recommend.
+[13:24] But if you like a a nice dividend on
+[13:26] your gold stocks, Franco-Nevada is a
+[13:29] good choice. Now onto stocks. We've had
+[13:31] a lot of great questions that came in.
+[13:33] What are your thoughts on SoFi and
+[13:35] Robinhood right now? Well, SoFi uh has
+[13:38] very strong forecast of sales and
+[13:39] earnings and I have not bought it yet,
+[13:42] but it's uh looking pretty darn good.
+[13:46] Robinhood looks fine. It it got
+[13:47] volatile,
+[13:49] but
+[13:50] it's pretty simple. Robinhood is
+[13:52] is created a platform to buy crypto. The
+[13:55] Securities and Exchange Commission,
+[13:56] which is closed down right now with the
+[13:58] government shutdown, has been
+[14:00] facilitating them creating the platform
+[14:02] to hold crypto where you have to have
+[14:04] segregated account.
+[14:05] Our SEC Chairman Paul Atkinson in his
+[14:07] disclosure documents
+[14:09] uh showed they had over 6 million in
+[14:11] crypto, none of it was Bitcoin.
+[14:13] So,
+[14:15] as the as the um
+[14:17] uh as the the laws come out how to hold
+[14:20] crypto in client accounts and segregate
+[14:22] it, that's uh that really helps
+[14:24] Robinhood.
+[14:25] What Sam Bankman-Fried got convicted on,
+[14:28] even though no investors lost money in
+[14:29] the end,
+[14:30] is he was commingling of the assets. So,
+[14:32] your money would be mixed with somebody
+[14:34] else's instead of a segregated account.
+[14:37] And that's largely what they got him on.
+[14:38] Now with Sezzle, are you worried about
+[14:41] any weak results because of the loan
+[14:43] loss provisions?
+[14:44] No, not at all.
+[14:46] Uh
+[14:46] Sezzle charges outrageous interest
+[14:48] rates.
+[14:50] They can have loan losses,
+[14:52] but like Capital One,
+[14:55] they're they'll be fine.
+[14:57] So, uh Sezzle's uh loans are very
+[14:59] short-term.
+[15:00] You can go to a store and you have to
+[15:02] pay in 4 months or so.
+[15:04] A lot of people are hooked on that kind
+[15:05] of credit
+[15:07] and they don't want to lose it.
+[15:09] Um you know, Sezzle's loan losses are
+[15:12] are very minor. What's your read on
+[15:14] Galaxy Digital? Well, this is an
+[15:15] interesting company because it's making
+[15:17] a transition
+[15:19] uh from negative to positive earnings
+[15:21] growth.
+[15:22] I'm not sure their earnings are going to
+[15:24] be positive uh
+[15:25] this quarter because
+[15:27] um they're forecast to be down slightly.
+[15:30] Their uh losses are
+[15:33] from the analyst community have been cut
+[15:35] to uh
+[15:36] just a couple cents a share.
+[15:38] Their sales are explosive.
+[15:41] They're supposed to be literally
+[15:43] 1,000%
+[15:45] 7%. That's ridiculous, okay?
+[15:48] Uh this company is helping to house
+[15:51] digital assets in data centers.
+[15:55] So, you know, we have this thing called
+[15:57] a stablecoin,
+[15:59] which is technically um a cryptocurrency
+[16:01] tied to the dollar. So, you can use the
+[16:04] blockchain
+[16:05] and the theory is is more people adopt
+[16:07] stablecoins, we will be able to transfer
+[16:09] money quicker and with fewer fees and
+[16:12] all that stuff.
+[16:13] Right now, when you do a Zelle or a wire
+[16:16] transfer, there's a lot of parties
+[16:17] involved. There can be fees as well. Not
+[16:20] so much on the Zelle, but the wire
+[16:21] transfers.
+[16:23] So, this is an explosive company. It
+[16:26] kind of came out of nowhere
+[16:28] and uh it's too early for me to buy it.
+[16:31] Uh they have also missed analyst
+[16:32] estimates,
+[16:34] but let's see if those that spectacular
+[16:36] sales growth materializes.
+[16:38] Let's see if um
+[16:41] uh if they start to have positive
+[16:43] earnings.
+[16:44] So, um if if they keep this growth up
+[16:47] and earnings are positive and they beat
+[16:49] analyst estimates
+[16:51] and the analysts continue to revise
+[16:52] estimates higher, I will be interested
+[16:54] in it.
+[16:55] There was also an interesting thing that
+[16:57] happened where uh PayPal
+[16:59] apparently uh
+[17:01] printed too many or made too many
+[17:03] stablecoins
+[17:04] and like
+[17:06] 300 trillion or some ridiculous amount
+[17:08] and they had to unwind that as if it
+[17:10] never happened. So, this is a this is
+[17:12] kind of the wild west,
+[17:14] but because the US is pushing
+[17:16] stablecoins, which again are tied to the
+[17:18] US dollar, I do think that this company
+[17:20] might have a good future, but this is
+[17:22] too early for me yet.
+[17:23] >> Can you touch on QBTS and SMR? Okay. So,
+[17:27] I've written all a lot of reports on
+[17:29] QBTS as well as IONQ
+[17:32] and even we've touched on Rigetti.
+[17:35] Uh so, I just should summarize
+[17:39] what these are.
+[17:40] IONQ
+[17:42] packages data for quantum computing
+[17:44] something called quidbits.
+[17:46] D-Wave won the the programming contest
+[17:48] that Nvidia had how to program quantum
+[17:51] computers.
+[17:52] And Rigetti is involved in encryption.
+[17:55] In fact, they got an Air Force contract
+[17:56] recently. IONQ and D-Wave have strong
+[17:59] sales.
+[18:00] D-Wave is the only one that beat analyst
+[18:02] estimates, but that was two
+[18:06] quarters ago, not the last quarter. All
+[18:08] these stocks because they don't have
+[18:10] positive earnings growth are going to be
+[18:12] under pressure
+[18:13] So, if you see a stock go up 300%,
+[18:18] do not be surprised if it has to give
+[18:19] back 2/3 of that gain.
+[18:22] It's normal. We saw this in the
+[18:23] solid-state wave many years ago. There
+[18:26] was a stock called QS, which is a a
+[18:29] solid-state battery company backed by
+[18:31] Volkswagen and Bill Gates. Um it went
+[18:33] nuts for a while. Uh it's the same as
+[18:35] QuantumScape, by the way. And um even
+[18:37] though they have some commercial
+[18:38] commercial applications now, it's
+[18:40] nowhere near as strong as it once was.
+[18:42] So, your risk with the quantum computing
+[18:45] stocks, the small modular reactor stocks
+[18:47] like NuScale,
+[18:49] is that you know, they they everybody
+[18:51] gets excited on the technology,
+[18:53] but then they they come back down to
+[18:55] earth as we wait for the earnings to
+[18:57] materialize and a lot of people don't
+[18:59] want to wait several years for earnings.
+[19:02] Now, NuScale has explosive sales growth,
+[19:04] okay?
+[19:05] But their earnings are supposed to be
+[19:07] still be negative for a while. Glenn
+[19:09] Youngkin, uh the governor of Virginia,
+[19:11] was on Bloomberg recently talking about
+[19:13] that how Virginia is the data center
+[19:14] capital and uh they they want the the
+[19:17] small modular reactors in Virginia. And
+[19:20] so, we'll see when they get built. But,
+[19:22] you know, under President Trump, there
+[19:24] we want nuclear power, but you know,
+[19:27] you have to realize that these you're
+[19:29] buying you're investing in a technology.
+[19:32] You're not investing in earnings at this
+[19:33] moment.
+[19:34] But I But that said, I do like a D-Wave.
+[19:37] I have it in accounts the clients asked
+[19:39] me to buy it for. I don't have it in my
+[19:41] normal managed accounts cuz I only buy
+[19:42] things that earn money. D-Wave got a lot
+[19:44] of clients excited and I don't own
+[19:47] NuScale, but uh it's perceived to be one
+[19:49] of the winners
+[19:50] when small modular reactors come to
+[19:52] fruition.
+[19:54] And now let's talk about a few others.
+[19:55] What's your take on Master Brand?
+[19:57] Unfortunately, that company's earnings
+[19:59] are forecasted to decline 10%. Sales are
+[20:03] supposed to decline 5.5%. They did beat
+[20:05] previous quarter.
+[20:07] But yeah, this doesn't get me excited.
+[20:09] This is what Stock Raider's for.
+[20:12] Um we have a link at the bottom of
+[20:13] Market Buzz to access Stock Raider.
+[20:16] Click on the link and you can key in all
+[20:17] your stocks.
+[20:19] The beauty of Stock Raider you can save
+[20:21] portfolios.
+[20:22] So once you key in and save your
+[20:23] portfolio, it's updated every week for
+[20:25] you automatically.
+[20:26] And Astrea Labs?
+[20:28] Well, Astrea's uh sales are supposed to
+[20:30] be up 82.5%
+[20:32] earnings are supposed to be up almost
+[20:33] 70%
+[20:35] Uh this company has a good surprise
+[20:36] history, positive balance, comments and
+[20:38] revisions.
+[20:39] So we have very smart subscribers. So
+[20:42] congratulations.
+[20:43] With that said, I don't have this under
+[20:44] management yet, but it's uh definitely
+[20:46] on my radar to be reviewed. And lastly,
+[20:48] Jefferies.
+[20:50] Well, Jefferies has up to $710 million
+[20:53] in dollars in exposure
+[20:55] due to the First Brands bankruptcy.
+[20:58] And First Brands is a major auto parts
+[21:01] supplier to
+[21:03] AutoZone, NAPA, O'Reilly Auto Parts,
+[21:07] Walmart. When the company filed for
+[21:10] bankruptcy, one of the creditors says
+[21:12] we're missing 2.
+[21:14] Whether that's true or not, we'll see.
+[21:15] There's also a a Department of Justice
+[21:18] investigation
+[21:20] in the First Brands to see if there's
+[21:21] any theft or bad accounting. So yeah, I
+[21:24] don't know of that $710 million exposure
+[21:29] how much Jefferies would have to pay. 3
+[21:31] 400 million.
+[21:33] But that's a big hit and then Jefferies
+[21:35] isn't as big as a JP Morgan.
+[21:37] So I would definitely stay away from
+[21:39] Jefferies
+[21:41] while the First Brands controversy
+[21:43] persists. And to wrap up, what's
+[21:45] investor sentiment like right now? Are
+[21:47] we still climbing a wall of worry?
+[21:50] Well, that's a really interesting
+[21:52] question. You know, if you study my
+[21:54] industry, the investment publishing
+[21:55] industry, you'll notice there's two
+[21:57] themes. There's the greed theme. Let's
+[22:00] get rich, whether we do it in AI stocks
+[22:04] or quantum computing stocks or
+[22:06] data centers.
+[22:08] There's that theme.
+[22:10] And then there's the theme that the
+[22:11] world's ending. One of the things that's
+[22:13] frustrating for people like me
+[22:16] is the
+[22:18] the editors that are more negative often
+[22:21] are some of the top sellers.
+[22:24] So there's just a lot of people out
+[22:26] there
+[22:27] that buy these investment newsletters to
+[22:30] tell them to do nothing. And um
+[22:33] I'm not in that camp, you know, I'm in
+[22:35] the I'm I eat my own cooking. I do this
+[22:38] research cuz
+[22:39] you know,
+[22:40] I invest for our family and for our
+[22:43] clients.
+[22:44] And um so I'm obsessed with this.
+[22:48] And all I care about is finding a silver
+[22:51] lining critical path.
+[22:53] But because the indices um
+[22:56] haven't done as good as stock picking,
+[22:59] I think uh investor sentiment is not as
+[23:01] strong as it could be. I think it's
+[23:03] going to get stronger
+[23:04] with the two Fed rate cuts.
+[23:06] The other thing is investors are seem to
+[23:08] be getting hooked
+[23:10] on these leverage ETF products where you
+[23:12] can buy, you know, two or three times
+[23:15] Nvidia. And these are high fee products
+[23:17] with big spreads.
+[23:19] So I urge caution on that, okay?
+[23:22] I'd rather you own the stock versus any
+[23:24] kind of derivative product.
+[23:26] But yeah, investor sentiment should get
+[23:28] better and better in the new year.
+[23:30] Now, we have one major glitch. Andrew
+[23:33] Ross Sorkin, of course, CNBC fame, uh
+[23:36] New York also writes for the New York
+[23:38] Times,
+[23:39] wrote a new book
+[23:41] about 1929.
+[23:43] And that was a a severe market crash cuz
+[23:46] some investors back then were leveraged
+[23:47] 10 to 1.
+[23:49] So he went on 60 Minutes and they
+[23:51] basically painted a picture
+[23:54] that
+[23:55] there are parallels to 1929 to today.
+[23:59] And I found that outrageous. That is not
+[24:02] true at all.
+[24:04] And although Andrew Ross Sorkin didn't
+[24:06] signal that we would
+[24:08] the market would peak out immediately,
+[24:10] I just thought that was very
+[24:11] irresponsible. Is there leverage? Yes.
+[24:13] It's in the options markets.
+[24:16] It's in the ETF markets.
+[24:18] But that the leverage is contained. Can
+[24:20] you get get get go on margin? Yes.
+[24:23] But you can't do 10 to 1. You're going
+[24:25] to do 2 to 1. So there are no
+[24:27] similarities to 1929 to today.
+[24:30] If we have any similarities, it's the
+[24:32] go-go 90s.
+[24:33] 98, 99, first quarter uh
+[24:37] uh of uh 2000 were exciting times and
+[24:39] the market then peaked in March 2000.
+[24:43] So
+[24:44] there is a similarity, but it's not
+[24:46] 1929. I I have no idea why Andrew Ross
+[24:49] Sorkin went on went on Sorkin
+[24:52] went on
+[24:53] 60 Minutes and
+[24:55] said what he said. I I found that to be
+[24:58] very irresponsible.
+[25:00] So
+[25:01] I'm I'm worried I'm I'm actually
+[25:03] worried.
+[25:05] Because CNBC's a big channel out there.
+[25:07] I
+[25:08] I don't watch CNBC that much, but when I
+[25:10] do watch it,
+[25:11] they don't seem to be too happy.
+[25:14] And that bothers me. We are going to hit
+[25:15] 5% GDP growth next year with all the
+[25:17] onshoring.
+[25:18] So I think we should just grow and
+[25:20] prosper from it.
+[25:22] And GE Vernova is a classic example.
+[25:24] Their order backlog is getting bigger
+[25:26] and bigger and bigger. And this
+[25:27] onshoring, the data centers, the
+[25:30] moving the pharmaceutical production to
+[25:32] the United States, moving the automotive
+[25:34] to the United States. This is all real.
+[25:36] Well, that's your cue for playbook, a
+[25:38] mix of opportunity and caution as we
+[25:40] close out 2025. Thanks to everyone who
+[25:43] sent in questions. We'll keep featuring
+[25:45] more in upcoming episodes. Don't forget
+[25:47] to like and subscribe and we will see
+[25:49] you all next week for a new video.
+[25:52] [Applause]
+[25:52] [Music]

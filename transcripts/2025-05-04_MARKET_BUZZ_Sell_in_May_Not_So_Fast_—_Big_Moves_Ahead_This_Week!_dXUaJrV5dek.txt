@@ -7,9 +7,596 @@ Type: video
 Duration: 24:33 (1473s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 588
+Transcript characters: 21333
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:14] Hello everyone. Welcome back to Navalier
+[00:16] Market Buzz episode 36. I'm Crystal
+[00:18] Navalier and I'm joined again this week
+[00:19] with my father Louis Navalier. Now Dad,
+[00:22] before we get into some of the earning
+[00:23] announcements, let's talk about the
+[00:26] economic landscape. What is this sell in
+[00:28] May and go away about?
+[00:31] Well, um you're showing some charts from
+[00:34] our friends at Bpoke that show that the
+[00:37] market is um notoriously soft uh
+[00:40] starting in May and that continues
+[00:42] through the summer months and then the
+[00:45] market gets its mojo back in uh in
+[00:47] November. So, this seems to be caused
+[00:50] predominantly by the pension funding
+[00:51] season. uh you know people have already
+[00:54] uh filed their taxes and and made their
+[00:57] uh pension
+[00:58] contributions. So the money uh pouring
+[01:00] in the stock market starts to sputter uh
+[01:03] usually by May. you can still, you know,
+[01:06] fund pensions like SEP programs and uh
+[01:09] that's a self-employment um IRA and
+[01:12] things like that, but um and then 401ks
+[01:14] and stuff are still contributing. But um
+[01:18] the big IRA contributions and things
+[01:20] like that uh usually dry up after April.
+[01:24] So we we have this swoon in the market
+[01:28] and the seasoning week period is
+[01:30] actually
+[01:32] um uh late uh late August, early
+[01:36] September, uh there's an estimated tax
+[01:38] payment due on September 15th. And even
+[01:41] though the IRS is very precise, you
+[01:42] know, if you don't withhold enough,
+[01:44] they'll find you. um on the interest um
+[01:48] uh people seem to kind of drag their
+[01:50] feet and then make a big tax payment
+[01:52] midepptember and uh that that just seems
+[01:55] to have pressure on the market. So I
+[01:58] know everybody's enthusiastic. We just
+[02:00] had the biggest rally in the market in
+[02:02] uh for the S&P in 20 years. We had nine
+[02:05] straight days up, but um we are
+[02:08] overbought right now. So we're we it's
+[02:11] going to get bumpy. In a recent YouTube
+[02:13] short, you had said that we're in a
+[02:14] deflationary environment. Can you expand
+[02:17] on that? Sure. Um, in fact, the Wall
+[02:20] Street Journal um uh just had an article
+[02:23] uh talking about how um commodity prices
+[02:26] are falling pretty much everything
+[02:27] except gold and that's because um a lot
+[02:30] of countries are in recession. You know,
+[02:32] the orders in Asia are way down um due
+[02:35] somewhat to the chaos with the trade and
+[02:37] excess inventories. Uh Europe is
+[02:40] definitely in recession. Okay. Um and uh
+[02:43] so basically we have deflation. Uh we
+[02:47] saw it in the last two months of the
+[02:49] consumer price index. The the most
+[02:52] recent producer price index plunged. Uh
+[02:55] the PCE based on the calculations uh the
+[02:58] components it looks flat as a pancake.
+[03:01] So we're in a deflationary environment.
+[03:03] All economists are trained to fight
+[03:05] deflation. The issue we have with our
+[03:07] Fed is um obviously our Fed chairman is
+[03:10] not an economist. He's a lawyer and they
+[03:12] have put some new people in the Federal
+[03:14] Reserve that are not qualified, you
+[03:16] know, and uh they seem to move with a
+[03:18] consensus. So, I'm a little worried
+[03:19] about the Fed. I don't know why they
+[03:21] play hard ball and and um they better be
+[03:24] cutting here pretty darn quick because
+[03:25] if they don't cut, we'll get into a
+[03:27] deflationary spiral and that is not a
+[03:30] good thing. If Europe's in a recession,
+[03:31] why is the German stock market going up?
+[03:34] That's a great question. you're showing
+[03:36] a chart of the DAX index and um how it
+[03:40] went down abruptly on the um essentially
+[03:42] the the liberation day um tariff
+[03:44] announcement and how it's almost erased
+[03:47] all the losses and um obviously that's
+[03:51] for a variety of reasons. Uh one is they
+[03:53] have a new uh chancellor uh Mr. Mertz u
+[03:57] the other thing is that um they're
+[03:59] anticipating a favorable resolution of
+[04:02] the tariffs. Obviously, President Trump
+[04:05] suspended the reciprocal tariffs and
+[04:07] they're anticipating favorable
+[04:10] negotiations. So, essentially, if all
+[04:12] countries drop their trade barriers,
+[04:15] okay, there will be no reciprocal
+[04:17] tariffs. So, in the end, we might have
+[04:19] freer trade as a result. Okay, so this
+[04:23] is not being reported in the media
+[04:25] because the media is overwhelmingly
+[04:27] negative, especially the British media.
+[04:30] They don't like our president. And you
+[04:32] got to realize in politics you have to
+[04:34] have a scapegoat. You want to make sure
+[04:36] any problem you have with your country
+[04:38] isn't due due to you. And uh so Trump is
+[04:42] essentially become not only a scapegoat
+[04:44] for Europe and escape goat for all the
+[04:46] world's uh problems. But um uh if if the
+[04:50] Germans aren't worried about the
+[04:52] tariffs, I don't think we should be. And
+[04:54] uh I wanted to show that chart uh just
+[04:58] so everybody can see how dramatic the
+[05:00] reversal has been. Uh Europe's also very
+[05:02] interesting. You know, Volkswagen
+[05:03] announced um stronger sales uh in the
+[05:06] first quarter. You know, Volkswagen is
+[05:08] beating Tesla in EV sales in Europe and
+[05:12] um but their uh earnings plunged over
+[05:16] 40% largely due to the fact that they
+[05:18] don't make them as much money on EVs as
+[05:21] they do on on what we call internal
+[05:23] combustion engine cars. So, um, because
+[05:26] Europe is mandating all EVs by 2035,
+[05:31] um, if I was running Volkswagen or
+[05:33] Mercedes or
+[05:34] BMW, I would just pick up and move my
+[05:37] manufacturing to America so I could
+[05:39] continue to build internal combustion
+[05:41] engine vehicles well beyond 2035 because
+[05:44] in Europe, they're not going to be
+[05:45] allowed to do that. And of course, all
+[05:47] those companies have plants in America
+[05:49] right now. Uh uh President Trump said he
+[05:52] would give the the foreign workers visas
+[05:55] in case they have to bring workers over
+[05:57] here to set up shop. So um uh it's going
+[06:01] to be very interesting how things
+[06:02] unfold, but if Europe is happy, we
+[06:05] should be happy. And that's my main
+[06:06] message. Now, we have some key economic
+[06:09] releases this week. What do you predict
+[06:11] for the ISM service on Monday? It should
+[06:13] be up. Uh ISM manufacturing was very
+[06:16] disappointing. Um and um it dropped the
+[06:18] lowest level in several months. bottom
+[06:20] line and
+[06:21] um uh so we need the service sector of
+[06:24] the economy to carry us and uh we are a
+[06:26] service consumer-led economy. Um we had
+[06:30] obviously stunning retail sales in
+[06:32] March, April should be okay as well. So
+[06:35] I need to see that in ISM service
+[06:37] report. Um otherwise you you'd lower the
+[06:40] GDP estimates for the second quarter. Uh
+[06:42] just so you know the uh the Atlanta Feds
+[06:45] uh estimated about 2 and a half% GDP
+[06:47] growth on the second quarter. It's
+[06:48] early. You know, we got a lot of months
+[06:50] to go, but uh you know, we should have a
+[06:53] nice economic rebound here. So now, why
+[06:55] was the Conference Board Consumer
+[06:56] Confidence Index so disappointing?
+[06:59] Well, yeah, there was a buzz kill last
+[07:00] week. Although the market kept rallying,
+[07:02] I was shocked. I mean, I I was I I dug
+[07:07] into the details. You're showing charts
+[07:09] here how the present situation um
+[07:12] component was basically okay but
+[07:14] expectations had collapsed. Okay. So
+[07:17] there's all these components in the
+[07:19] consumer confidence index and people
+[07:21] just had horrible expectations and I
+[07:23] would chalk that up to the news media
+[07:27] you know uh the buzzkill uh the warnings
+[07:29] that the shelves are going to be empty
+[07:30] and things like that. I mean, you got to
+[07:33] realize if you are on the opposite side
+[07:35] of Donald Trump and you want to
+[07:36] humiliate this guy, you just have to
+[07:39] have empty store shelves. And you he met
+[07:42] with uh Target, Home Depot, and Walmart
+[07:45] and all at once. And uh obviously he
+[07:48] doesn't want that. And uh you know, you
+[07:51] get all these articles that the port of
+[07:53] Los Angeles is ground to a halt and and
+[07:56] you know, Asia's not shipping us
+[07:58] anything. Well, one reason is is the
+[08:01] imports surged 41.3% in the first
+[08:04] quarter. So, they're all stuck with all
+[08:06] this inventory for now. But, you know,
+[08:09] uh Donald Trump probably heard himself
+[08:11] when he said, "Well, you there may only
+[08:13] be $2 to pick from uh at the store
+[08:15] instead of 30 and and uh they might cost
+[08:18] a little more." So, this is what's been
+[08:22] being blasted out there in the media and
+[08:25] it's it's it's basically caused the
+[08:27] average consumer to be depressed about
+[08:30] the outlook and that's unfortunate. And
+[08:32] what do you expect of the trade deficit
+[08:34] on Tuesday? Well, that's the final
+[08:36] calculation of um all the trade details,
+[08:39] but um we have the basic components that
+[08:42] show that uh in the first three months
+[08:45] this this year the the amount of imports
+[08:48] surged again
+[08:49] 41.3%. Uh now we have excess goods
+[08:52] that'll have to get discounted for
+[08:53] retailers to move. Uh that had a
+[08:56] negative drag on our GDP. Uh it was
+[08:58] actually 4.8% drag on our GDP although
+[09:02] inventories rose I think 2.3%. So that
+[09:05] adds back to the GDP. But um you know we
+[09:08] had a negative GDP in the first quarter
+[09:10] but when you adjust it for all the trade
+[09:12] we're doing okay. The um uh so this is a
+[09:17] buzzkill and everybody was trying to
+[09:19] beat the tariffs and of course the
+[09:22] tariffs have been suspended so uh
+[09:24] comrades will prevail. So I think the
+[09:27] the deficits in the upcoming months will
+[09:29] be more important than what we've just
+[09:31] seen. And finally, let's talk about the
+[09:32] allimportant FOMC statement on
+[09:34] Wednesday.
+[09:36] Well, obviously we as a minimum they
+[09:39] have to have doubish language. Okay. Uh
+[09:42] two, uh they need to uh acknowledge
+[09:45] economic
+[09:47] reality. So, here's economic reality.
+[09:50] Deflation. Um we had a a bad um weekly
+[09:55] jobless claims number. Could have been
+[09:56] seasonal due the spring break. And um
+[09:59] the payroll report looked pretty good on
+[10:01] the surface, but they didn't show u much
+[10:04] of the do doge cuts. So uh once we
+[10:07] include all the Doge cuts, the um
+[10:09] payroll should be flat as a pancake. Uh
+[10:12] ADP was disappointing. Uh it was weakest
+[10:15] um uh private payroll growth in years.
+[10:18] So the Fed seems to be um
+[10:22] anticipating that inflation is going to
+[10:24] resurge even though we have no evidence
+[10:26] of that in the data. And uh Treasury
+[10:29] Secretary Bessett and President Trump
+[10:31] have called for them to be cutting rates
+[10:33] and uh the main reason they need to cut,
+[10:35] they're way above market rates. So if
+[10:38] the Fed does not cut on Wednesday, uh
+[10:41] the market will crash. Okay? We'll have
+[10:44] an abrupt selloff unless the the
+[10:46] language is so so
+[10:48] um so doubbish. So, um I'm expecting a
+[10:52] Fed rate cut and this will be the first
+[10:54] of um uh four rate cuts I'm anticipating
+[10:58] this year. I should also add that
+[11:00] traders if like Bloomberg surveys the
+[11:02] traders are also expecting four rate
+[11:04] cuts. The reason is is uh the ECB, the
+[11:07] European Central Bank has cut seven
+[11:09] times, but there's more cuts coming
+[11:11] largely because Europe's in a recession
+[11:13] and um and also their inflation is um
+[11:17] pretty um uh pretty low over there. Um
+[11:20] also our inflation should get better
+[11:23] because you know home builders have to
+[11:25] discount homes to sell them right now.
+[11:27] So consumers um um are are are stressed.
+[11:32] Okay. And it looks like that housing
+[11:35] inflation has finally hit a wall and
+[11:37] that because again builders are
+[11:39] discounting homes. So the Fed better cut
+[11:42] and if they don't we could have a big
+[11:44] selloff. So that's my main message. Now
+[11:46] let's switch over to some of the earning
+[11:47] announcements this week. What do you
+[11:49] expect for Cummings? Well, their sales
+[11:50] are forecast to decline uh 2.7%.
+[11:53] Earnings are forecast to slip 3.1%.
+[11:56] This is the company that makes uh the um
+[11:59] a lot of truck engines uh including on
+[12:02] the Dodge pickups and uh they make gen
+[12:05] big commercial generators. Uh there have
+[12:08] been some recent analyst cuts so I'm not
+[12:10] sure Cummings is going to surprise. So
+[12:13] its guidance is going to be crucial. Um
+[12:15] and this is a stock that is affected by
+[12:17] the value of the dollar. Uh the dollar
+[12:20] has been weak this year and that would
+[12:21] normally help its sales um because they
+[12:24] they do export to uh these huge
+[12:27] generators to other places but um uh
+[12:31] guidance will be everything on Cummings.
+[12:33] Now with Tyson should we expect another
+[12:35] beat this quarter?
+[12:38] Yeah, you know their sales are only
+[12:39] forecasted to go up half a percent. So
+[12:41] that's nothing but their earnings are
+[12:43] supposed to be up 32%.
+[12:45] We have steady analyst estimates and
+[12:48] this company has a great earning
+[12:49] surprise history. So this is obviously
+[12:51] known as the chicken stock. Okay. Um but
+[12:55] they did buy Iowa beef processors years
+[12:57] ago. So that this is an integrated food
+[13:00] producer and um and their goods are
+[13:04] usually cheaper than what we call all
+[13:05] the organic food. So um but uh due to
+[13:09] higher chicken prices they're going to
+[13:11] make some extra um earnings and extra
+[13:14] money. Now with Ford, how pivotal will
+[13:16] management's forward guidance be this
+[13:18] time? It's everything because their
+[13:20] sales are forecast to decline
+[13:23] 10.3%. Earnings are forecasted to pledge
+[13:27] 96.7%. There's analyst cuts. So their
+[13:30] guidance is going to be everything. Now
+[13:32] outside of Tesla, Ford is the next most
+[13:34] domestic US auto manufacturer.
+[13:37] And even though Trump lowered the
+[13:39] tariffs um um on the stuff made in
+[13:42] Canada to 15%
+[13:44] uh for a year and then um uh a year from
+[13:48] now they'll go up to 25. Ford has a lot
+[13:51] of really hard decisions to make because
+[13:53] Canada can make aluminum cheaper than we
+[13:55] can because the hydroelectric up there
+[13:57] is um so cheap and aluminum requires a
+[14:01] lot of energy. So, Ford has aluminum
+[14:04] bodies for like the F-150 and there's
+[14:06] other aluminum bits and cars and uh but
+[14:10] the U F-150 engine block that V6 engine
+[14:14] is also aluminum and also made in
+[14:16] Canada. So, um you know, GM just
+[14:20] announced after Trump lowered the
+[14:21] tariffs, it's still they're still going
+[14:22] to take a $5 billion hit. Now GM's
+[14:25] making a lot in Mexico and but Ford's uh
+[14:28] has more domestic workers uh in in the
+[14:32] US and they got a um some hard decisions
+[14:35] to make. So their guidance will be
+[14:37] everything. Now Clorox has had a solid
+[14:39] history of earning surprises. Could that
+[14:41] pattern continue?
+[14:43] Yeah, you know this is a big
+[14:45] multinational and um their sales are
+[14:47] forecasted to decline 54. Earnings are
+[14:51] forecasted to plunge 8.9, but we have a
+[14:53] weaker dollar that might help them.
+[14:56] There has been minor analyst cuts, but
+[14:59] uh despite the the negative forecast
+[15:01] sales earnings, they do have a good
+[15:03] earnings surprise history. Obviously,
+[15:05] they make all kinds of important
+[15:06] household products, um uh the most
+[15:09] interesting thing is it's barbecue
+[15:11] season now. And um the Kingsford
+[15:14] briquettes that they sell are actually
+[15:17] compressed sawdust. A lot of people
+[15:18] don't know that. Okay. So, then they
+[15:21] have a black dye to make it look like
+[15:23] charcoal. They obviously dominate that
+[15:25] business. And uh but if you have a
+[15:28] charcoal barbecue, um you might want to
+[15:30] actually buy chunks of charcoal versus
+[15:32] Kingford Briquettes. So, now what do you
+[15:34] expect for Archer Daniels Midland? Well,
+[15:35] their sales are forecasted to be up only
+[15:38] 6/10 of a percent. Earnings are forecast
+[15:40] to decline uh
+[15:41] 54.1%. There are analyst cuts and it has
+[15:45] literally a horrific uh earning surprise
+[15:47] history. So I have very low expectations
+[15:50] for this company. Also this company is
+[15:53] huge in animal feed. Okay. And the um
+[15:57] number of cows in America are low. Okay.
+[16:01] Um farmers are just not keeping the
+[16:03] herds of animals they once did. Okay.
+[16:06] And that seemed to hurt the company's
+[16:08] bottom line. Is arristia network shaping
+[16:11] up to be another high confidence beat?
+[16:13] Yeah. Sales are forecast to rise 24.4%.
+[16:17] earnings are forecast to be up
+[16:19] 18.8. Um there's positive analyst
+[16:21] revisions uh recently and they have a
+[16:23] very good earning surprise history. So
+[16:25] basically the networking companies look
+[16:27] great. Now Super Micro did confuse some
+[16:30] people by saying their sales dropped off
+[16:32] in in in March, but Super Micro makes
+[16:35] the really high-end stuff. Uh Arisa
+[16:38] doesn't make all that. So um don't let
+[16:41] Super Micro be a buzzkill to u Orisa
+[16:44] Networks. They should beat. And what do
+[16:46] you expect for Ford for Fordinet?
+[16:48] Uh Fordinet is uh sales are supposed to
+[16:50] rise 13.9%. Earnings is supposed to be
+[16:53] up 24.3. That's healthy. That means
+[16:56] their margins are expanding. We got
+[16:58] steady analyst assessments of very good
+[16:59] earnings price history. This is a cyber
+[17:01] security company for all the cloud
+[17:04] networks and that's obviously very very
+[17:06] important. So um uh they they're going
+[17:09] to beat now. Rivian has had some recent
+[17:11] estimate trims but what do you expect
+[17:13] for them? Well, believe it or not, their
+[17:16] sales are forecast to decline 15.5% and
+[17:19] operating earnings are supposed to
+[17:21] improve 40.8, but they're still
+[17:22] negative. So, there's operating earnings
+[17:25] and the overall earnings. So, I just
+[17:28] want you to know it's supposed to be
+[17:29] less bad. Um, but there were some
+[17:32] analyst estimate trims. The big story
+[17:34] with Rivian is uh Volkswagen is now
+[17:36] behind it. uh Scout Motors, which is the
+[17:39] um VW truck they're going to be building
+[17:42] in um uh South Carolina, made in
+[17:45] alliance with Rivian. You know, it's
+[17:46] causing a lot of grief for the dealers
+[17:48] because Scouts going to a direct model,
+[17:50] which Rivian does, and bypassing the
+[17:52] dealers, but um you know, they they got
+[17:55] 5 billion bucks from Volkswagen as a
+[17:57] commitment and um and the Scouts is
+[17:59] supposed to be using the Rivian software
+[18:02] and everything in this vehicle. So, um,
+[18:05] I think this is a company that has just
+[18:07] to guide higher and it'll be fascinating
+[18:09] to see if the Scout and the Rivian are
+[18:11] sold together. Given Disney's historical
+[18:14] ability to surprise, is there room for
+[18:15] optimism this quarter? I hope so. You
+[18:19] know, I um I have a hard time figuring
+[18:21] Disney out. Uh, they do have um a good
+[18:24] earning surprise history. Their sales
+[18:26] are forecasted to be up 4.7, but
+[18:29] earnings are supposed to be barely up
+[18:32] like 3/10en of a percent. And some
+[18:34] analyst cuts, but uh you know, they
+[18:37] they've been mismanaging a lot of their
+[18:40] franchises, for lack of a better word,
+[18:42] and uh they just need some big hits on
+[18:44] the movies and things. Obviously, uh
+[18:46] Snow White was a flop. Okay.
+[18:49] And um uh but there's a lot of movies
+[18:52] coming out this summer and hopefully
+[18:55] some of that rubs off on Disney, but um
+[18:58] I I just have very low expectations for
+[19:00] them. And finally, is Uber going to have
+[19:02] another big surprise this week?
+[19:06] Yeah. Uh their sales are forecasted to
+[19:08] go up 14.6%, earnings are forecast to go
+[19:11] up
+[19:12] 295.6%. So that's obviously incredible.
+[19:15] There's been positive analyst revisions
+[19:17] and a very good earning surprise
+[19:18] history. I have two comments about Uber.
+[19:20] I I just took them the other day in Fort
+[19:22] Lauderdale. And uh normally what you do
+[19:25] is you order Uber on the phone and then
+[19:28] you go to the ride share area. Well, I
+[19:31] did that in Fort Lauderdale and they
+[19:34] wanted to pick me up somewhere else
+[19:36] where they saw my I was ordering on the
+[19:38] phone and apparently they have a new
+[19:40] pickup area but it's not marked yet in
+[19:42] the airport. So, it's very confusing.
+[19:44] So, be aware that if you order your Uber
+[19:47] early and it doesn't show up, it's
+[19:49] because it it's it's tracking you where
+[19:51] you initially ordered. So, um that's my
+[19:54] consumer um advice for the week. But the
+[19:58] big news on Uber is Volkswagen. They are
+[20:01] entering the robo taxi business. It'll
+[20:03] be the VW
+[20:04] buzz and um and they're and they're
+[20:07] backed by Volkswagen. So, we are about
+[20:09] to have robo taxi wars. Whimo is getting
+[20:12] in more cities. That's Google.
+[20:15] Obviously, Tesla is launching the robo
+[20:17] taxi initially with a Model Y and then
+[20:19] hopefully with a with a driverless
+[20:21] vehicle, you know, without a steering
+[20:22] wheel and all. And um and then we're
+[20:25] going to have Uber and of course the
+[20:27] IDBuzz is a very practical vehicle. It
+[20:29] can hold a lot uh and you will be able
+[20:31] to order it on your phone and they're
+[20:33] going to start it in Los Angeles because
+[20:34] they want uh the media attention in a
+[20:37] big urban area. So, when you think of
+[20:41] Uber, um, don't be surprised if they win
+[20:44] the robo taxi war. And finally, let's
+[20:46] end on some subscriber questions. Can
+[20:48] you talk about what's going on with
+[20:50] Super Micro computer? Sure. The company
+[20:53] uh pre-announced that their sales
+[20:55] plunged in March because their customers
+[20:58] wanted the the Blackwell chip, not the
+[21:00] Huh uh 20 chip. So, this is Nvidia's
+[21:04] latest and greatest chip. So, they
+[21:06] lowered their sales guidance and and
+[21:08] their earnings forecast. Um uh they will
+[21:11] have an official announcement soon, but
+[21:13] uh that was a bit of a buzzkill and um
+[21:16] uh but they do make the best water
+[21:19] cooled rack systems for the Nvidia chips
+[21:22] and the people I know that in the cloud
+[21:25] computing business all love super micro.
+[21:28] So, um their business looks fine. It
+[21:32] looks like um it they just have to wait
+[21:35] for the Blackwell chips to to install.
+[21:36] And again, their their sales are in the
+[21:39] billions. So, um I don't want you to
+[21:42] worry too much about this. So, but the
+[21:44] stock did get hit and starting to
+[21:46] recover. My cost basis in Super Micro is
+[21:49] so low. I'm still up 500% in the stock.
+[21:53] So, I don't intend to sell it. Um you
+[21:56] know, when I sell a stock with a low
+[21:57] cost basis, it can annoy my clients. The
+[22:01] other thing is uh there is some
+[22:02] confusion on super micro because it had
+[22:04] a 10 for one split. So um everybody
+[22:08] needs to check uh um their um their cost
+[22:13] basis. They might have more shares than
+[22:14] they they think. Another one of our
+[22:16] subscribers asked that it appears that
+[22:18] someone with the knowledge of Trump's
+[22:20] upcoming tariff decisions could make a
+[22:22] lot of money on the market.
+[22:24] That's correct. Uh the market surged
+[22:25] last Friday because China dropped its
+[22:28] tariffs on a lot of US goods and um that
+[22:32] was a big deal. Essentially, China
+[22:34] blinked. They need those things, things
+[22:36] like the little semiconductors that go
+[22:38] in all the cars and things. And
+[22:41] um um PresidentQi from China and
+[22:46] President Trump uh reportedly supposed
+[22:48] to get together in May. I don't know if
+[22:50] that's going to happen or not. Uh but it
+[22:53] would be great if it did. The issue is
+[22:55] PresidentQi has a hard time traveling uh
+[22:58] there's a lot of turmoil in China and
+[23:00] they like to say if he travels too far
+[23:03] he might come back and not be president.
+[23:05] So um so President Trump would probably
+[23:08] have to go meet him somewhere nearby,
+[23:10] you know, Singapore, Vietnam, some place
+[23:11] like that. And um it would be good
+[23:15] though for the for them to get together
+[23:16] and just get rid of these fears once and
+[23:19] for all. the fears in Europe um of the
+[23:23] tariffs have have collapsed. Okay.
+[23:26] Largely because when they get together
+[23:28] with all these countries uh they're
+[23:30] dropping their trade barriers. So we we
+[23:32] don't we won't have reciprocal tariffs.
+[23:35] And the only issue is then Trump guilts
+[23:37] these countries to buy US goods. So the
+[23:41] trade negotiations are going
+[23:42] magnificently. The only thorn right now
+[23:44] is China. But when it all is said and
+[23:47] done, we're going to have freer trade
+[23:49] throughout the world. And a lot of
+[23:52] people don't see that, but that is uh
+[23:55] what I expect. Well, perfect. Thank you
+[23:57] so much for answering all my questions.
+[23:58] And thank you to you all again for
+[24:00] liking, commenting, and subscribing and
+[24:02] supporting us. If you have any questions
+[24:04] that you'd like us to address in the
+[24:05] next video, please leave them in the
+[24:06] comments below. Also, all of Louis free
+[24:09] links are also in the description along
+[24:11] with a link to his new book. But until
+[24:13] then, we will see you all next week with
+[24:15] a special guest for a new video. Thanks
+[24:17] so much.
+[24:19] [Applause]
+[24:19] [Music]

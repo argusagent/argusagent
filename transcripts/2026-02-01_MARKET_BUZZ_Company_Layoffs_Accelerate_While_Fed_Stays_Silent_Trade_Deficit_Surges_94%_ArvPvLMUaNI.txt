@@ -7,9 +7,790 @@ Type: video
 Duration: 29:40 (1780s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 782
+Transcript characters: 28018
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Layoffs are surging. The trade deficit
+[00:02] just exploded. Today we're asking, is
+[00:04] the economy showing cracks the Fed
+[00:06] refuses to see? Welcome back to Navier
+[00:09] Market Buzz.
+[00:11] [music]
+[00:18] [music]
+[00:23] So, Dad, here in New York City, people
+[00:25] my age are terrified about layoffs.
+[00:28] Major companies announced cuts this past
+[00:30] week. Is AI replacing workers faster
+[00:33] than we thought?
+[00:34] >> It appears so. The biggest layoffs were
+[00:36] um United Parcel Service. Those are high
+[00:38] paid jobs. You know, those are Teamster
+[00:40] jobs. They did lose a postal service
+[00:42] contract and did have to shrink the
+[00:44] number of centers they have. As you
+[00:46] know, Amazon had more layoffs and but a
+[00:49] lot of companies are just announcing
+[00:50] layoffs. And when they announce layoffs,
+[00:52] the stocks tend to rally because people
+[00:53] think they're going to their operating
+[00:55] margins are going to improve. So it sure
+[00:57] looks like AI is having an impact and um
+[01:01] but if we go back to Amazon and UPS
+[01:04] obviously a lot of that's the the
+[01:05] warehouse auto automation and um you
+[01:09] know it's getting to be interesting. So
+[01:12] um I I there's a lot of insecurity out
+[01:15] there. It showed up in the consumer
+[01:16] conference report which was horrible was
+[01:19] was the worst in 12 years. So um yeah
+[01:22] everybody's on edge right now.
+[01:23] >> Now I want to switch over to the trade
+[01:25] deficit. It jumped 94.6%
+[01:28] in November. Gold exports dropped 6.8
+[01:31] billion while pharmaceutical exports
+[01:34] rose 6.7 billion. Does this derail the
+[01:37] spectacular GDP growth you predicted?
+[01:40] >> Well, it definitely put a dent in it
+[01:42] because the Atlanta Fed cut their
+[01:44] estimate uh after that report came out,
+[01:46] fourth core GDP estimate from 5.4%
+[01:49] to 4.2%.
+[01:52] And uh the reason I was anticipating
+[01:54] robust GDP growth is I was looking at
+[01:56] the robust uh exports and and the lack
+[01:59] of imports. And we hit a a low uh um uh
+[02:03] in October, one of the lowest trade
+[02:05] deficits ever. But unfortunately, as you
+[02:08] pointed out, it just went up 94.6% from
+[02:10] October to November. And before it was
+[02:13] we had a lot of gold exports. Now the
+[02:15] gold exports are falling down over over
+[02:18] October. Before we had a lot of
+[02:19] pharmaceutical exports, now we have
+[02:21] pharmaceutical imports. You know, it's
+[02:23] interesting longer term, you know,
+[02:25] because we're such a big energy country
+[02:27] between LG, which is expensive now
+[02:29] because of all the cold weather, the
+[02:30] crude oil and refined products, you
+[02:32] know, that that should be overpowering
+[02:34] our trade trade deficit. So, I'm still
+[02:36] very very bullish that the trade
+[02:38] deficit's going to meander lower and
+[02:40] could eventually disappear. Also, we
+[02:42] have a weak dollar and that makes our
+[02:44] exports extra competitive. But uh this
+[02:46] was a shocker and a lot of people were
+[02:48] blaming Trump because he likes to
+[02:50] flip-flop on the trade policies and you
+[02:52] saw him do that with Korea. I guess
+[02:54] Korea didn't reach the agreement that
+[02:56] the Trump was expecting them. So he's
+[02:58] about to impose 25% tariffs on them if
+[03:01] they don't. And I'm sure Korea will come
+[03:03] to an agreement. I mean we do a lot of
+[03:05] business with South Korea. We have cars.
+[03:07] We have, you know, LG televisions and
+[03:10] all kinds of things. Um it it's just
+[03:12] fascinating to watch. It was a it was a
+[03:14] big surprise and I I think the Fed
+[03:16] should have cut um because there's just
+[03:19] too much anxiety over economic growth,
+[03:22] the the labor market and uh it's
+[03:24] unfortunate they didn't cut this this
+[03:26] past week.
+[03:27] >> You mentioned gold exports dropping, but
+[03:29] investors are doing the opposite.
+[03:31] They're buying gold like crazy. I mean,
+[03:33] I can't even buy gold at Costco anymore.
+[03:35] There are shortages everywhere. So, is
+[03:37] gold really headed to $10,000 per ounce?
+[03:40] >> Yeah. You know, it's interesting. Ed
+[03:42] Yardini, let's give Ed credit. He uh
+[03:44] called for $5,000 gold well before it
+[03:47] happened and he said by the end of the
+[03:48] decade we might be at $10,000.
+[03:51] I'm going to agree with him on that only
+[03:53] because I don't see any sign of this
+[03:56] buying pressure ebbing. Basically, you
+[03:59] can't buy gold now. It's it's out of
+[04:01] stock. Whether you're buying from a gold
+[04:03] dealer or you're buying from uh Costco,
+[04:06] uh it's really hard to get. And in the
+[04:08] past, you know, sometimes you have to
+[04:09] wait up to two weeks to get your gold.
+[04:11] Of course, then the price could be a lot
+[04:12] higher by the time you get it. So, it's
+[04:14] just easier to buy the gold stocks than
+[04:16] the actual metal right now in my
+[04:18] opinion. And the buying pressure is just
+[04:20] relentless. And then, of course, we have
+[04:22] the whole crypto saga where a lot of the
+[04:25] crypto people are are probably buying
+[04:28] more gold now. And then finally, we have
+[04:30] the whole central bank saga where the
+[04:32] central banks um have lost their
+[04:34] credibility. Some of the governments
+[04:36] have lost credibility. Um, so the what
+[04:39] we call the central bank buying of gold
+[04:41] is going to continue. But I just want to
+[04:43] remind everybody gold had its biggest
+[04:45] week since 2008 during Davos. So what
+[04:48] what happened during Davos is the world
+[04:51] didn't look very impressive to
+[04:53] investors. Okay, obviously President
+[04:55] Trump was asserting himself. So was
+[04:57] Scott Bessett and and Howard Lutnik and
+[05:00] Europe looked very weak. So as a result,
+[05:03] gold just had its best week since 2008.
+[05:06] And uh this is going to continue.
+[05:08] There's no sign that Japan can fix its
+[05:11] budget woes. There's no sign that
+[05:13] Britain can fix its budget woes. And
+[05:15] there's no sign that France can fix its
+[05:17] budget wos. Um France and Britain both
+[05:20] have had try to tax the wealthy at a
+[05:22] higher rate and it's not working. So in
+[05:25] America, we don't quite have that issue
+[05:26] because, you know, our economy is so
+[05:28] strong. It's generating a lot of tax
+[05:30] revenue and um and and obviously we're
+[05:34] still growing. We still keep adding
+[05:35] people, although less. The population
+[05:37] statistics came out and we are adding
+[05:39] less than we used to, probably because
+[05:40] the immigration reform, but we're still
+[05:42] going to have immigrants because we need
+[05:44] them.
+[05:45] >> While we're seeing a safe haven demand
+[05:47] here, China's caught in a deflation doom
+[05:49] loop, falling prices, crashing demand,
+[05:51] and a real estate crisis. Could this
+[05:54] economic contagion spread globally?
+[05:56] >> It already has. First of all, this is
+[05:58] what happens when your society shrinks
+[06:00] and they have shrinking households in
+[06:02] China and uh that's why they have empty
+[06:04] real estate and Chinese citizens like to
+[06:06] invest in real estate and but they they
+[06:09] bought a bunch of real estate as
+[06:11] investment they intend to move to and
+[06:13] those buildings never got finished. They
+[06:14] just got a bunch of ivy and stuff
+[06:15] growing on them now. So, China's a mess
+[06:18] and um and the Wall Street Journal
+[06:21] pointed out that merchants really have
+[06:23] to discount to sell and that just puts
+[06:25] more deflationary pressure on everybody.
+[06:28] So, China's very busy exporting. Their
+[06:30] exports are still pretty good even
+[06:32] though they're down to the United
+[06:33] States. But, oh my goodness,
+[06:34] domestically, that's where the
+[06:36] deflationary spirals really out of
+[06:38] control. And the only way they can fix
+[06:40] that is to devalue their currency.
+[06:42] China's interest rates are lower than
+[06:44] Japan. You can't cut rates. So you have
+[06:46] to devalue the currency and that would
+[06:48] cause prices to go up and stop the
+[06:50] deflationary spiral. So that is what I'm
+[06:53] expecting. But in the meantime, we're
+[06:55] all importing that deflation from China
+[06:57] and I think you'll find inflationary
+[06:59] pressures are going to continue to eb.
+[07:00] >> Switching gears to corporate news.
+[07:02] Howard Lutnik asked Mercedes to move
+[07:04] their headquarters to Alabama. What is
+[07:07] behind this?
+[07:08] >> Well, I'm not surprised cuz that came
+[07:10] out a while ago. uh you know Germany has
+[07:14] a green party and the green party shut
+[07:17] the nuclear plants down and uh basically
+[07:20] went to heavy renewables and works
+[07:22] pretty good in the summer just in the
+[07:24] winter it's not that good and what
+[07:25] happened is their electricity is four
+[07:27] times higher than ours and so they
+[07:30] started to outsource Hungary Poland
+[07:32] Czech Republic Slovakia now those
+[07:35] eastern European European countries are
+[07:37] very dependent upon natural gas and some
+[07:39] of these come from Russia and some was
+[07:41] come from Ukraine
+[07:42] But natural gas has gotten more
+[07:43] expensive. So those countries are less
+[07:45] competitive. So President Trump's idea
+[07:48] was just move it to America. I mean, we
+[07:50] got a fourth of the electricity costs
+[07:52] you have. We've got five southern states
+[07:55] that want your business. They're going
+[07:56] to throw incentives at you. Our labor is
+[07:58] very qualified and good, but you you can
+[08:00] bring your labor over here. We'll give
+[08:01] them work visas. So this is the first
+[08:04] assault to try to move the German auto
+[08:07] industry to America. and they already
+[08:09] have their their plants and everything
+[08:11] here. But I thought it was incredibly
+[08:13] brazen and I think Mercedes was quietly
+[08:16] polite. You know, they're proud of their
+[08:17] German roots, but um I I think Howard
+[08:21] Lutnik is right and I think it's going
+[08:23] to fester over there. The other reason
+[08:24] they should come here other than the
+[08:26] cost savings and is the rules in the EU.
+[08:29] They're forced to build hybrids. They
+[08:31] have these emission standards they can't
+[08:33] comply with. Mercedes has been
+[08:36] complaining as is BMW. uh they can't
+[08:38] compete with the Chinese EVs over there
+[08:39] which are basically have no duties in
+[08:42] Europe. So basically they could just
+[08:44] move their operations to America and and
+[08:46] uh we're not going to make them do all
+[08:48] that. We're going to let them build big
+[08:50] engines that uh big engines that get
+[08:52] horrible miles and you don't have to
+[08:54] have hybrid systems and you can still
+[08:56] build out for other markets but uh you
+[08:59] know auto industry would would thrive in
+[09:01] America versus being choked off as it is
+[09:04] now because of the EU regulations. Good
+[09:06] idea by Howard. I love Howard Lutnik. I
+[09:09] mean, I he can be costic, but he's in
+[09:11] the end he's right.
+[09:12] >> Before we get to next week's earnings,
+[09:14] can we talk about the wild rides in
+[09:16] Celestea, Carvana, and Seagate this past
+[09:18] week?
+[09:19] >> Sure. Well, Celesteica beat on sales.
+[09:22] Sales were up 42%. Earnings are better
+[09:24] than expected. They got it higher. It
+[09:26] did get hit with profit taking. Back up
+[09:28] the truck on this one. Not worry about
+[09:30] it all. Now, Carvana got hit with a
+[09:32] short selling report, but then a bunch
+[09:34] of analysts came out and defended it,
+[09:36] started to bounce back. You know,
+[09:37] there's a lot of confusion in the used
+[09:39] car buying business, but Carvana seems
+[09:42] to know how to manage it much better
+[09:44] than everybody else. So, I'm sticking
+[09:45] with Carvana now. And then Seagate
+[09:48] Technology was our winner for the week,
+[09:49] up almost 30%. Uh, you know, it it um
+[09:53] just reaffirmed that the data centers
+[09:55] are booming and wasn't the only data
+[09:58] center stock that took off. So that is
+[10:00] the strength of the US right now and we
+[10:02] are winning. Uh the one comment I would
+[10:05] have is you might have noticed Microsoft
+[10:07] didn't rally after it earnings came out.
+[10:09] Their cloud business wasn't as strong as
+[10:11] some people anticipated. Um there's a
+[10:14] European company, German company SAP.
+[10:17] Their cloud related business wasn't as
+[10:19] strong as some people anticipated. So
+[10:22] there was a little cloud over the cloud
+[10:24] if I can say that. But Microsoft has had
+[10:27] some outages. you know, the big Outlook
+[10:29] outage last week where they had all
+[10:31] these fishing emails showed up and it
+[10:33] was annoying a lot of people. So, I
+[10:35] think this is mostly isolated to
+[10:37] Microsoft and they are a huge cloud
+[10:39] provider, but they got competition
+[10:41] coming on Fast and Furious from Oracle.
+[10:44] So, um I think the cloud's still very
+[10:46] healthy and growing.
+[10:47] >> Now, let's dive into next week's
+[10:49] earnings report. Disney's streaming wars
+[10:52] continue. Are they finally making Mickey
+[10:54] Mouse money or losing their sparkle?
+[10:56] Well, that's a real good question. And
+[10:58] uh so let's talk about Disney. Uh
+[11:01] they're doing better. They've beat the
+[11:02] past four quarters. Their sales are
+[11:04] supposed to be up um 3.7. That's
+[11:07] excellent. And uh their earnings
+[11:09] supposed to be down 10.5. Uh the
+[11:11] analysts have trimmed the estimates. So
+[11:13] I think they've set themselves up for
+[11:15] another surprise. So I'm very
+[11:17] comfortable with Disney. They own ESPN.
+[11:19] ESPN's doing some different things now.
+[11:21] You know, when you watch a football
+[11:23] game, you have like three different
+[11:24] versions of it. You have the the regular
+[11:26] announcers, then you have a Pat McAfee
+[11:29] or you that team is commenting. He's big
+[11:31] on YouTube and all and and you can also
+[11:34] watch the the game from top down. It
+[11:36] looks a little better to some people
+[11:38] when you see it from looking down on it.
+[11:40] So, let let's see if they can pull it
+[11:42] through. I have hope for Disney. I was
+[11:44] encouraged what they did last quarter.
+[11:46] Is it strong enough for me to buy it?
+[11:47] Absolutely not. Um but uh I can see
+[11:50] they're on the road to improvement.
+[11:51] >> Palunteer keeps landing government
+[11:53] contracts. Is this AI darling justified
+[11:55] or are investors under a spell?
+[11:57] >> Yeah, you should back up the truck on
+[11:59] Palunteer. It actually has been weak
+[12:01] recently. A lot of people complain about
+[12:03] price earnings ratio, but their sales
+[12:06] are supposed to be up over 62%.
+[12:08] Their earnings are supposed to be up
+[12:10] over 64.1%.
+[12:12] The analysts have revised their
+[12:13] estimates higher in the last 3 months
+[12:15] and has big surprises. This is an AI
+[12:17] applier. The other AI applier out there
+[12:20] is apploving which had some upgrades
+[12:21] recently. So, I think as long as
+[12:24] Palanteer beats and continues to guide
+[12:26] higher, it will will be fine. But, uh,
+[12:28] we need Palunteer. They're making
+[12:30] government more efficient. They're
+[12:31] making the military more efficient. So,
+[12:33] let's hope they keep doing what they do.
+[12:35] >> Now, for Tyson, between the bird flu and
+[12:37] changing diets, can this chicken giant
+[12:40] still bring home the bacon?
+[12:42] >> Of course they can. Now, they are they
+[12:44] did close a plant in Nebraska. caused a
+[12:47] lot of grief because you know it's most
+[12:50] of the workers in that town and uh they
+[12:53] also many years ago they bought Iowa
+[12:55] beef processors so Tyson's big in beef
+[12:58] as well as chicken but um the chicken
+[13:02] business is largely good because the
+[13:04] beef prices are so high and uh and
+[13:06] that's because the herds are low but uh
+[13:08] sales are supposed to be up 2.9%
+[13:11] earnings supposed to be down 17.5%
+[13:14] the analyst estimates are very steady
+[13:16] but this certainly is a good surprise
+[13:17] history. So, I'm expecting another nice
+[13:20] surprise from Tyson. Is it strong enough
+[13:22] for me to buy? No. But, uh, I have hope.
+[13:25] And then one thing we must all add as an
+[13:28] American somehow, whether it was Tyson
+[13:30] or somebody else, we've engineered
+[13:32] bigger chickens than the rest of the
+[13:33] world. So, when you go somewhere else in
+[13:35] the world, the chickens are a lot
+[13:36] smaller. You get to America, oh my god,
+[13:38] they're huge. They're like little
+[13:40] turkeys. Now whether that's from us
+[13:41] feeding him hormones and other things is
+[13:43] another matter but you know let's let's
+[13:45] give ourselves credit for making the
+[13:47] world's biggest chickens.
+[13:49] >> Broadidge makes shareholder meetings
+[13:51] possible. Boring business or a beautiful
+[13:54] cash machine?
+[13:55] >> Well, this is a very important company
+[13:57] because it sends out all our proxies
+[13:58] that we have to vote on and things like
+[14:00] that. But um they are benefiting from
+[14:04] Wall Street being healthy. You know this
+[14:06] is a value stock though. Their sales are
+[14:08] supposed to be up 1%. Earnings supposed
+[14:10] to be down 12.7%.
+[14:13] Um, the Allen have trimmed their
+[14:14] estimates, but last quarter they had a
+[14:16] 21.2% surprise. So, I don't financials
+[14:20] this would be considered a financial,
+[14:22] but there is some M&A activity out there
+[14:24] and as that picks up, they'll get more
+[14:26] busy because they got to do all the
+[14:28] voting on that. So, I have I have hope
+[14:30] for this stock, but again, it's not
+[14:33] strong enough for me to pick it up.
+[14:34] >> Eaton's writing the boom. Is this
+[14:36] industrial giant electrifying
+[14:38] portfolios?
+[14:39] >> Yes, it is. And um uh in full
+[14:42] disclosure, I owned Eat and I sold it,
+[14:45] but it's it's went higher. This is an
+[14:47] example of me selling a good stock to
+[14:49] buy better stocks, but uh their sales
+[14:52] are supposed to be up 13.6. Uh their
+[14:54] earnings supposed to be up 17.3.
+[14:57] The analysts just trimmed the estimates
+[14:59] slightly, but it's insignificant and
+[15:01] their surprises are very minor. They
+[15:03] have a huge automotive business. Uh, in
+[15:05] fact, Eaton makes what they call the
+[15:06] direct shift transmissions, ESG
+[15:08] transmissions. Uh, and they do other
+[15:11] transmissions and other automotive
+[15:13] components as well, and they do have a a
+[15:16] a growing data center business, the the
+[15:19] catalyst of their growth, but it just
+[15:21] wasn't strong enough for me to to keep
+[15:23] holding it. So, I did sell it, but I I
+[15:25] wish them well. I wish all my alumnists
+[15:28] well, and most of the stocks I sell do
+[15:30] go higher. I'm just trying to jump on
+[15:32] something with faster sales and earnings
+[15:34] growth. So, this will this company will
+[15:35] probably have solid results.
+[15:36] >> With health trends shifting and
+[15:38] consumers cutting back, is Pepsi losing
+[15:40] its fizz?
+[15:41] >> Well, I guess we'll have to see the
+[15:42] Super Bowl commercials to figure out if
+[15:45] Pepsi's got its mojo back, but in the
+[15:47] meantime, their sales are supposed to be
+[15:48] up 4.3%. Their earnings supposed to be
+[15:51] up 14.1. This is good. Now, this is a
+[15:54] big multinational. There are no analyst
+[15:56] estimate cuts and has a decent surprise
+[15:59] history. So, I have hope hope for it.
+[16:02] But again, this is this would be
+[16:04] considered a value stock. Wouldn't be
+[16:06] considered something strong enough for
+[16:07] me to buy. But uh it is evidence of a of
+[16:11] an improving global economy because
+[16:12] they're also very big internationally.
+[16:14] >> Super Micro went from AI superstar to
+[16:17] accounting scandal, dumpster fire or
+[16:20] phoenix rising.
+[16:21] >> Well, let's just back up what's going on
+[16:23] with Super Micro since I own a ton of it
+[16:25] and I got into it a lot earlier than
+[16:27] everybody else and I'm still up a lot.
+[16:30] But what happened? a professional short
+[16:33] seller who's no longer around accused it
+[16:36] of inflating its sales. So what
+[16:38] happened? They had an incredible order
+[16:40] backlog on sales pushing 5 years and
+[16:43] there was nothing wrong with accounting.
+[16:45] I went through it. They had an auditor
+[16:47] who quit and uh the new auditor is doing
+[16:49] fine. But they do have a founder who's a
+[16:53] little costic. He's a brilliant engineer
+[16:56] and he apparently doesn't like talk
+[16:57] about accounting. But they did miss last
+[16:59] quarter. But they they then provided
+[17:02] guidance of just this quarter being
+[17:04] incredible. So, we're holding it because
+[17:06] their sales are supposed to be up 82.1%.
+[17:09] And I'll be honest with you, I don't
+[17:10] care if the sales are up 68% or 90%. I
+[17:14] just want to see strong sales growth.
+[17:15] Now, their margins have come under
+[17:17] compression and their earnings are
+[17:18] supposed to fall 19.1. So, you might,
+[17:21] why would I own this stock? Well, you
+[17:24] know, I don't want to pay the capital
+[17:26] gains to sell it. You know, there is
+[17:28] another company out there, VRT, that's
+[17:30] competing with it, making water cool
+[17:32] rack systems as well. And um VRT is a
+[17:35] lot healthier. That's Fertip, by the
+[17:37] way. So, I'm going to hold Super Micro
+[17:39] because of the order backlog. Now, they
+[17:41] also have hinted that the customers
+[17:44] always want the latest and greatest
+[17:46] chips and so we'll see if they have any
+[17:48] comment on that. You know, Ver Rubin
+[17:50] will be shipped in the fall. So I think
+[17:52] everybody should be happy with their
+[17:53] black wall chips right now, but
+[17:56] eventually they will shift to Vera Rubin
+[17:58] and uh and and that's supposed to be 10
+[18:01] times more energy efficient, a lot
+[18:02] faster. So there's going to be a
+[18:03] replacement cycle helping all these
+[18:05] companies as well. So um I'm proud I
+[18:08] found Super Micro early. I don't think
+[18:10] the short seller was comments were valid
+[18:12] at all. I stuck with the stock
+[18:14] throughout all that scandal, we should
+[18:16] say, even going through another auditor.
+[18:18] But if the company has any problem, it's
+[18:20] its founder and CEO is just not that
+[18:23] Wall Street friendly. So, let's hope
+[18:25] they have a a good results and a good
+[18:28] call and all will be forgiven.
+[18:30] >> FedEx should benefit from e-commerce,
+[18:32] but numbers are all over the map. Can
+[18:34] they deliver?
+[18:35] >> Well, that's an interesting question.
+[18:37] Well, how do I say this in a nice way?
+[18:40] They're improving. Their sales are
+[18:41] supposed to be up 5.6. Their earnings
+[18:44] supposed to be down 10.6 six and also
+[18:46] trimmed the estimate slightly, but they
+[18:48] had a big surprise last quarter, 17.2.
+[18:51] So, it looks like they're picking up.
+[18:52] And um
+[18:55] I have issues with FedEx Ground. You may
+[18:57] know that we've been known to have wine
+[18:59] delivered to our house every now and
+[19:00] then. And um we're always fighting with
+[19:02] our FedEx Ground guy and we've been
+[19:04] known to chase him down the street to
+[19:05] get our wine because he he um doesn't
+[19:07] like to go up our driveway to deliver.
+[19:09] He just likes to put a note and and then
+[19:11] the wine disappears. So, and he usually
+[19:13] goes back. So, I have this personal
+[19:16] animosity to this one delivery driver in
+[19:18] our neighborhood. So, I should stop that
+[19:20] right now and say that FedEx had a nice
+[19:22] surprise. They are improving. I wish
+[19:24] them well. Again, this will not be in my
+[19:26] portfolio. It's not strong enough.
+[19:27] >> Google's facing AI competition. Can they
+[19:30] maintain their search dominance?
+[19:32] >> Yeah, they've done a phenomenal job with
+[19:34] Gemini and uh you know, I use a Google
+[19:37] Chrome and somehow Gemini is talking to
+[19:39] me all the time and even when I don't
+[19:41] want it. So, let's talk about Google.
+[19:43] Their sales are supposed to be up 15.5%.
+[19:48] Their earnings supposed to be up uh 23%.
+[19:52] Uh the analysts have revised their
+[19:53] estimates higher and last quarter they
+[19:55] had a 26.9%
+[19:57] surprise. That is outstanding. The
+[20:00] biggest problem with Google is they
+[20:01] don't give guidance. But um they it
+[20:04] certainly looks like they've
+[20:06] still in the uh chat GP throne um from
+[20:10] Microsoft because Microsoft was behind
+[20:12] chat GPT and their Gemini is now um the
+[20:17] preferred search engine out there. Of
+[20:18] course, Grock is very popular too. Um so
+[20:22] uh I have a lot of hope for Google. I
+[20:24] don't own it at this moment, but it's on
+[20:27] my radar and I might be adding it. Eli
+[20:29] Lily's weight loss drugs are printing
+[20:31] money. Is this pharma giant unstoppable?
+[20:34] >> Yes, it is. I own it. It's one a very
+[20:36] large allocation in our portfolios. And
+[20:38] their sales are supposed to be up 32.7%.
+[20:42] Their earnings supposed to be up uh
+[20:44] 30.6%.
+[20:46] And the analysts have been revised
+[20:49] higher in the past three months. This
+[20:51] company's got a great surprise history.
+[20:53] Last quarter was 19.2.
+[20:56] So, I got a lot of hope for Eli Liy and
+[20:59] they're doing what Trump wants. They're
+[21:00] making the drugs here and exporting
+[21:02] them.
+[21:02] >> Qualcomm's betting big on AI smartphones
+[21:05] and laptops. Game changer or overhyped?
+[21:07] >> No, they um well, they came out with 3G,
+[21:10] then 4G, then 5G, and you know, 5G is
+[21:13] pretty fast. Um, in fact, you get a 5G
+[21:15] hotspot from a lot of the the phone
+[21:17] companies, cell phone companies, but
+[21:19] their sales are supposed to be up uh
+[21:21] 3.9%. Their earnings are supposed to be
+[21:24] down 7/10 of a percent. Uh but the
+[21:26] analyst have revised their estimates
+[21:28] higher in the last 90 days and it has a
+[21:30] good surprise history. Not big surprises
+[21:32] but consistent. So I would expect
+[21:34] Qualcomm to uh to post good results and
+[21:37] I I hope they earn money. This is a
+[21:39] flagship. It's not strong enough for me
+[21:41] to own it but it it is improving.
+[21:43] >> Toyota's going allin on hybrids while
+[21:45] others push EVs. Smart strategy or stuck
+[21:48] in neutral.
+[21:49] >> Well, how do I say this in a nice way?
+[21:52] It looks like Toyota was smarter than
+[21:54] everybody else. So during the EV boom,
+[21:57] Toyota wanted to do hybrids, not all
+[21:59] electric. And it turned out they're
+[22:01] right. Um, once the incentives for EVs
+[22:04] were pulled, and they weren't just
+[22:05] pulled in America, they were pulled in
+[22:07] other countries as well, EV sales uh uh
+[22:10] kind of dried up. Now, in a super urban
+[22:13] area, EVs are very popular, but as you
+[22:16] have to drive more and more, they're
+[22:18] less popular. Hybrids are the best of
+[22:21] both worlds. They're great for the city
+[22:22] driving. Obviously, the the Prius is
+[22:24] phenomenal. Toyota's hybrid system is
+[22:27] actually used by other auto
+[22:28] manufacturers. We had a um Porsche
+[22:31] Cayenne hybrid many years ago.
+[22:34] Transmission was a Toyota transmission.
+[22:35] Porsche actually used all the Toyota
+[22:38] bits to make that truck. And um the
+[22:40] other thing that's going on with Toyota,
+[22:42] Lexus just had record sales and they
+[22:44] they have a new luxury brand called
+[22:46] Century, which they have used in Japan.
+[22:49] they're going to start trying to roll
+[22:50] out in other markets. I do not know if
+[22:52] it's coming here, but it's kind of like
+[22:55] a Maybach brand and it'll be interesting
+[22:57] if they try to sell that in America.
+[22:59] Obviously, their Lexuses sell very very
+[23:01] well. So, yeah, this is the leading
+[23:03] automotive company in the world and and
+[23:05] the most efficient and their sales are
+[23:08] supposed to be at 39. Their earnings
+[23:10] should be flat. There was an analyst cut
+[23:12] pretty dramatic in it recently. So, so
+[23:15] we shall see. I don't know if that was
+[23:16] for tariffs or what, but obviously they
+[23:18] built a lot of the their vehicles in
+[23:21] America, especially all the trucks. So,
+[23:23] I have hope for Toyota. They did not
+[23:25] surprise last two quarters, but if you
+[23:28] want one of the the leading automotive
+[23:30] manufacturers, this is it. TM
+[23:33] >> Uber's finally profitable, but robo
+[23:36] taxis are coming. Is their ride about to
+[23:38] end?
+[23:38] >> I don't think so. Uber has, of course,
+[23:41] its own robo taxi service. It's
+[23:43] launching in LA. And uh what's
+[23:45] interesting is Tesla has a software
+[23:47] upgrade coming out where your car your
+[23:51] Tesla can become a robo taxi. And I
+[23:53] think this is going to be rolled out a
+[23:54] little bit more carefully. But in
+[23:56] theory, you know, you could park your
+[23:57] car and it could be out there for 10
+[23:59] hours a day being a robo taxi. So I
+[24:02] think it's going to take some time
+[24:03] because Uber has the lead and they also
+[24:06] have their own robo taxi service. Uh
+[24:09] they're all launched in LA and other
+[24:11] markets. They use other vehicles. They
+[24:12] like vans because vans are um can carry
+[24:16] more more load. Their sales are supposed
+[24:18] to be up 19.8%.
+[24:21] Uh their earnings supposed to be down
+[24:22] 80% though. So and their earnings
+[24:25] analysts haven't changed their estimates
+[24:26] at all. But last quarter they had a 353%
+[24:31] earnings surprise. So we shall see. I
+[24:33] think when the robo taxi wars are over,
+[24:36] whoever has the best software and Uber
+[24:38] has a lead. And I do expect Uber to win
+[24:41] the robo taxi wars largely due to its
+[24:43] software.
+[24:44] >> Amazon's cutting costs and pushing AI
+[24:46] hard. Can they keep the e-commerce
+[24:48] crown?
+[24:49] >> Well, let's just talk about Amazon a
+[24:51] bit. Uh Amazon years ago when Bezos was
+[24:54] busy running it. This is when he lived
+[24:56] in Seattle before he moved to Florida
+[24:58] and ran off and got married again. When
+[25:00] he was running it, Amazon was all cloud
+[25:02] computing and retail actually wasn't a
+[25:05] profit center. It's kind of like a
+[25:08] it basically was treading water. The
+[25:10] management now at Amazon is making sure
+[25:12] every aspect of Amazon is efficient. Uh
+[25:16] so they've automated the warehouses like
+[25:18] crazy. Um they've announced more and
+[25:22] more layoffs. But however, when they
+[25:24] announced some layoffs and they hired
+[25:25] some temp workers. So, it's it's
+[25:28] interesting on the layoffs here this
+[25:30] last week. They didn't uh announce temp
+[25:33] hiring, but they as a company, they're
+[25:35] becoming much more efficient. Now, they
+[25:38] have that whole Whole Foods venture, but
+[25:40] they also had another supermarket that
+[25:42] they're um curtailing um their business
+[25:46] on because I guess it hasn't been that
+[25:48] profitable. And that's where some of the
+[25:49] layoffs were centered. So, um we shall
+[25:52] see. Now, sales supposed to be up 12 and
+[25:54] a half%. earnings supposed to be up uh
+[25:57] 4.3
+[25:58] polus uh estimates are steady but my
+[26:01] goodness this company has big surprises
+[26:03] and last quarter was 25% previous
+[26:06] quarter 26% so I'm expecting another
+[26:09] surprise and but it's it's just not
+[26:12] strong enough for me to own right now
+[26:13] and I have my average sales earnings are
+[26:15] stronger than this but we wish Amazon
+[26:17] well it's obviously something almost
+[26:20] everybody uses nowadays
+[26:21] >> bloom energy's fuel cells could power
+[26:23] the AI data center. Boom. Real deal or
+[26:26] pipe dream?
+[26:27] >> Oh, no, no, no. This is the real deal.
+[26:29] And Bloom Energy is mostly doing it with
+[26:31] Oracle in Brookfield, which owns data
+[26:34] centers. And the reason the stock shot
+[26:36] up this year is they uh uh agreed to
+[26:40] build a big plant in Wyoming to provide
+[26:42] clean electricity. So, Bloom Energy
+[26:45] takes a natural gas pipe, runs it
+[26:47] through their natural gas fuel cells,
+[26:48] and in theory, it's a lot greener than
+[26:50] running natural gas through a turbine.
+[26:53] So, as the as the cloud booms, you know,
+[26:55] it gets a lot of criticism for all the
+[26:58] the carbon emissions and things like
+[27:00] that. In fact, um forget which British
+[27:02] magazine I was reading that was highly
+[27:05] critical of America destroying the
+[27:07] planet from our data centers. Anyway,
+[27:09] Bloom Energy's fuel cells are just a lot
+[27:11] more efficient. So, uh obviously the um
+[27:15] you know, a lot of tech companies like
+[27:17] Microsoft want to do nuclear. Obviously,
+[27:19] that's green because there's no carbon
+[27:20] nuclear, but doing it with the fuel
+[27:22] sales, it makes a lot of sense. And this
+[27:24] company uh didn't make money until
+[27:26] recently. It's explosive what they're
+[27:28] doing now. Their sales are supposed to
+[27:30] be up 12.7.
+[27:32] They're uh uh um the earnings are
+[27:36] forecast to be down uh 30%, but this
+[27:39] company has huge surprises historically.
+[27:42] So, I'm I'm just going to let them come
+[27:44] out and guide higher. you know, two
+[27:46] quarters ago, they had a 457% surprise
+[27:49] and the previous quarter was a 47%
+[27:51] surprise. So, with all the new contracts
+[27:53] in the pipeline, I think uh the future
+[27:56] is very bright for Bloom and the but
+[27:58] this company's going to trade more on
+[27:59] its guidance than anything else. I
+[28:01] forgot to mention, we own it. We own
+[28:02] Bloom Energy.
+[28:03] >> Okay. Well, perfect. Thank you so much
+[28:05] for joining us this Sunday. If you
+[28:07] haven't checked out our last Sunday
+[28:09] video, we are currently doing a giveaway
+[28:12] for 5,000 subscribers. We will end this
+[28:15] giveaway starting this week. So, please
+[28:17] make sure to check out that video and
+[28:19] fill out the Google form so that you can
+[28:22] win a free signed book. But thank you
+[28:24] all so much for watching. Give this
+[28:25] video a like and subscribe if you
+[28:27] haven't already. But we will see you
+[28:28] this Wednesday for a midweek update.
+[28:57] >> [music]
+[28:59] >> Hey,
+[29:06] [music]
+[29:12] >> [music]
+[29:35] [music]

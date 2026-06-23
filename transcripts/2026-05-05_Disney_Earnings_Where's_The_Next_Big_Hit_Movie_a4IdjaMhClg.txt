@@ -7,9 +7,22 @@ Type: short
 Duration: 0:35 (35s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 14
+Transcript characters: 511
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] This week is Disney's make or break
+[00:02] moment. Can the magic return?
+[00:04] >> Maybe. Their sales are supposed to be up
+[00:05] 5.1%. Their earnings are supposed to be
+[00:08] up 3.2%. We do have analyst cuts from
+[00:11] $1.65 to $1.50 in the last 90 days. And
+[00:15] their last couple earnings surprises
+[00:18] were pretty small. So, yeah, Disney
+[00:20] needs a big hit movie. So, we'll see.
+[00:24] Uh and obviously Milani is mad at Jimmy
+[00:26] Kimmel. So, that doesn't help the new
+[00:28] CEO of Disney. Unless it has a massive
+[00:31] surprise and good guidance, I have very
+[00:33] low expectations for Disney.

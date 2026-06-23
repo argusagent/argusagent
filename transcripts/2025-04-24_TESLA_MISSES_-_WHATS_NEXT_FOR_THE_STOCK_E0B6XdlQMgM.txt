@@ -7,9 +7,35 @@ Type: short
 Duration: 1:14 (74s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 27
+Transcript characters: 978
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] season is off to a very very strong
+[00:02] start. Um even the stocks that miss are
+[00:06] going higher. The most um obvious one is
+[00:10] Tesla. Horrific earnings miss. Their
+[00:13] energy storage business uh basically
+[00:16] mask a lot of the automotive
+[00:18] problems. But uh of course the energy
+[00:20] storage businesses gets their batteries
+[00:22] from China. So that might become
+[00:24] problematic with the tariffs. Hopefully
+[00:26] the tariffs will be cut soon.
+[00:28] Uh the main thing is Elon Musk said he'd
+[00:31] be back at the job soon. Uh he's leaving
+[00:34] his Doge job and uh it's very clear that
+[00:38] the full self-driving software will be a
+[00:41] big money maker by 2026 according to
+[00:43] Elon and the robo taxi will be off to a
+[00:46] strong start uh soon although they'll be
+[00:49] Tesla Model Y's. Elon did take a shot at
+[00:52] Whimo. Okay. and he doesn't like the way
+[00:54] their software works, the LAR system,
+[00:58] and uh he basically implied his system
+[01:00] is better than theirs. So that hope for
+[01:03] robo taxis transporting us uh in the
+[01:06] future uh basically allowed Tesla to to
+[01:11] rally even though they had a huge huge
+[01:13] That's

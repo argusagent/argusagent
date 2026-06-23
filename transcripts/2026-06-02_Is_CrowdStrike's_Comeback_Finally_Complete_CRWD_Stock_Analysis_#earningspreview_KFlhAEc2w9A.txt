@@ -7,9 +7,30 @@ Type: short
 Duration: 0:45 (45s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 22
+Transcript characters: 763
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] CrowdStrike has had an interesting
+[00:01] history. Is their comeback complete?
+[00:03] >> Kind of. Right now what's going on,
+[00:05] there's a big reversal in software
+[00:07] stocks. It happened because Snowflake
+[00:10] beat and it negated the argument that AI
+[00:12] was going to basically put all the
+[00:14] software companies out of business,
+[00:15] especially the software for service
+[00:17] companies. So there's this big short
+[00:19] covering rally go underway right now in
+[00:22] the software stocks and that is
+[00:24] definitely helping CrowdStrike. Their
+[00:26] sales supposed to be up 23.6%.
+[00:29] Their earnings supposed to be up 46.2.
+[00:32] No analyst changes and their earnings
+[00:34] surprises have been tiny last couple
+[00:35] quarters. Before that they had bigger
+[00:37] surprises. So I would like to see them
+[00:40] beat. I would like to see them guide
+[00:41] higher and and hopefully have a nice
+[00:43] surprise.

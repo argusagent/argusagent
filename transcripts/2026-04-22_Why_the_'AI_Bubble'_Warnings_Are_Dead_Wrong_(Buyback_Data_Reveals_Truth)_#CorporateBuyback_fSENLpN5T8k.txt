@@ -7,9 +7,36 @@ Type: short
 Duration: 0:59 (59s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 28
+Transcript characters: 1023
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Are we about to see a massive wave of
+[00:02] corporate buying hit the market?
+[00:03] >> Yeah, it's already up 36% this year as I
+[00:06] mentioned a bit earlier. What that does
+[00:08] is it shows that price earnings ratio is
+[00:10] down because you're reducing the the
+[00:12] supply of stock outstanding. This is a
+[00:14] very good sign. So companies have cash,
+[00:17] it's burning a hole in their pocket and
+[00:19] they've decided to take that cash and
+[00:21] increasingly buy back their stock. You
+[00:22] know, even in large cap we're trading at
+[00:24] only 15 times forecast earnings. That's
+[00:26] assuming that we'll be up over 60% this
+[00:29] year and you know, my earnings are are
+[00:31] running right now in large cap over
+[00:33] 120%. So I'm expecting that they'll grow
+[00:36] up half as much as earnings and that
+[00:38] there'll be a lot of PE compression
+[00:40] because of the following. So the
+[00:41] buybacks are just part of the PE
+[00:43] compression story. So this is very, very
+[00:46] bullish. So all those people that warn
+[00:48] about, you know, AI bubble or an AI
+[00:51] apocalypse are basically clueless. I'm
+[00:54] sorry to say it that way, but you know,
+[00:56] this is a very, very bullish environment
+[00:58] we're in.

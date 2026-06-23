@@ -7,9 +7,29 @@ Type: short
 Duration: 1:01 (61s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 21
+Transcript characters: 792
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] There are a few things helping the stock
+[00:02] market rally. On Tuesday, Treasury
+[00:05] Secretary Scott Bessett was in a special
+[00:08] um closed door summit with JP Morgan and
+[00:12] basically he said that the uh current uh
+[00:15] trade uh standoff with China cannot be
+[00:18] sustained and he was uh it would be
+[00:22] deescalated soon. President Trump uh
+[00:25] basically came out and confirmed that.
+[00:28] Uh he said that we're going to be quote
+[00:30] unquote very nice to China and made it
+[00:33] very clear that the final tariffs will
+[00:36] be nowhere near the 145% where they are
+[00:38] today. And one last thing, um President
+[00:43] Trump then said he's not going to fire
+[00:44] uh Fed Chairman Pal and he basically
+[00:48] accused the media of making things up.
+[00:51] So uh whatever we had been worried
+[00:53] about, we're not worried anymore. Oh, by
+[00:56] the way, uh, President Trump and Chinese
+[00:59] President Chi will be meeting in

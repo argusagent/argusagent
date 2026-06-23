@@ -7,9 +7,473 @@ Type: video
 Duration: 18:15 (1095s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 465
+Transcript characters: 17160
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Six days ago, investors were dumping AI
+[00:02] stocks. Today, the market is overbought
+[00:05] again. What has changed? Did President
+[00:07] Trump just trigger another taco trade?
+[00:10] Are memory stocks about to launch the
+[00:12] next wave of AI winners? And could a
+[00:14] surprise from the Fed or the G7 summit
+[00:17] derail this rally? Let's get into it.
+[00:20] Welcome back to Navier Market Buzz.
+[00:27] Dad, let's start with the straight of
+[00:29] Hormuz. It reopened and the market snap
+[00:31] back in just six trading days. Did Trump
+[00:34] trigger another taco trade?
+[00:36] >> There's no doubt that President Trump is
+[00:38] doing another taco trade by essentially
+[00:42] calling off the naval blockade on Iran.
+[00:44] The straight her traffic is picking up.
+[00:47] It's supposed to be fully operational by
+[00:50] Friday. And that's important because
+[00:52] they have to replenish a lot of the
+[00:55] crude oil inventories that have been
+[00:57] depleted. Even we're still depleting the
+[00:59] strategic petroleum reserve right now.
+[01:01] We apparently we're going to order
+[01:02] another 172 million barrels released. So
+[01:06] I I want everybody to realize that crude
+[01:08] oil prices might be firm because we're
+[01:10] in the middle of peak summertime demand.
+[01:12] Everybody's trying to replenish their
+[01:13] inventories. So your biggest price
+[01:15] relief is going to be right after Labor
+[01:18] Day when worldwide demand drops. But
+[01:20] going back to the correction that you
+[01:23] cited, I think the real bad one was on
+[01:25] Friday, June 5th. What happened after
+[01:28] that violent sell-off? Then we had a
+[01:31] retest for two days and now we've erased
+[01:34] all the losses and the memory stocks are
+[01:37] breaking the new highs right now. there
+[01:39] is still an acute shortage of memory and
+[01:42] it should lift a lot of more AI related
+[01:44] stocks up. Not all are at new highs yet,
+[01:47] but they will be. And uh it's just
+[01:49] amazing how we can go from being
+[01:51] oversold, overbought in just six trading
+[01:54] days. So I find it healthy that good
+[01:57] stocks bounce. I find it healthy that
+[01:59] our president obviously wants to spark
+[02:02] the market and and also lower crude oil
+[02:05] prices long term. And so all is good.
+[02:10] >> Let's go back to AI stocks. Memory
+[02:11] stocks like Micron and Seagate are
+[02:13] breaking into new highs. So does that
+[02:15] help names like Verdib, Quana Services,
+[02:17] G, Vernova, Bloom Energy, and Comfort
+[02:20] Systems to become the next AI winners?
+[02:22] >> Yeah, it will pull all those stocks
+[02:24] higher. They are not at new highs right
+[02:26] now, but it will pull them all higher.
+[02:28] The reason memory stocks are doing so
+[02:30] well is the there is an acute memory
+[02:32] shortage, and that's keeping prices very
+[02:35] high. So, everybody's all excited about
+[02:37] the memory stocks. And of course, Micron
+[02:39] still has to announce and their
+[02:41] forecasted sales and earnings are
+[02:43] ridiculous. Last I looked, sales are
+[02:45] supposed to be up over 260%. Earnings
+[02:47] will be up over 910%. And uh that's just
+[02:51] ridiculous. I mean, it's Micron will
+[02:54] have the strongest sales of earnings of
+[02:55] any stock this quart.
+[02:57] >> So, the AI trade has become a lot bigger
+[03:00] than just Nvidia.
+[03:01] >> Yeah. and it and all those other stocks
+[03:03] you just rattled off that are helping
+[03:05] build out the data centers. The biggest
+[03:07] thing we all it goes back to the order
+[03:10] backlog. A lot of these companies like a
+[03:12] Bloom Energy were announcing new orders
+[03:15] that were doubled their sales. Okay, so
+[03:18] you have exponential growth in data
+[03:21] centers. You have a three-year order
+[03:23] backlog and companies are out raising
+[03:25] money now. You know, we saw Super Micro
+[03:28] do a secondary stock offering so they
+[03:30] could fulfill the orders. Even Nvidia
+[03:32] did a bond offering, okay, to raise
+[03:36] money to help build everything out. So,
+[03:39] everybody's spinning up a storm. Again,
+[03:42] this is over 50% of our construction in
+[03:44] America. And the the order backlogs are
+[03:46] real. Now, obviously, there's a push
+[03:48] back against data centers in the
+[03:50] Northeast, but, you know, they just put
+[03:52] them in Pennsylvania. That's close
+[03:54] enough. And there are other states that
+[03:56] are having to push back against data
+[03:58] centers, but uh the the US is a big
+[04:02] country and even if there was a national
+[04:05] ban on data centers, they would just all
+[04:07] go to Canada. So, you know, it's this
+[04:10] push back on data centers is really kind
+[04:12] of stupid in my opinion and it's just a
+[04:15] way to to stir the pot and get people
+[04:17] upset over something they shouldn't be
+[04:19] upset about. I mean, the only way to
+[04:21] stop it is to stop cell phones and cell
+[04:24] phones need AI, so we need data centers.
+[04:26] >> Now, I want to switch gears because the
+[04:28] core inflation came in soft and Treasury
+[04:31] yields keep drifting lower. Does the Fed
+[04:33] finally have to admit inflation is under
+[04:36] control.
+[04:36] >> It's not under control yet, but it is
+[04:39] looking good, and it definitely looks
+[04:41] transitory. Now, transitory is a phrase
+[04:44] that the Fed has used in the past, and I
+[04:46] expect them to use that phrase on
+[04:48] Wednesday in the FOMC statement. Uh, I
+[04:51] can't write the FOMC statement, we have
+[04:53] a new Federal Reserve chairman. But we
+[04:55] do definitely want to hint that
+[04:57] inflationary forces are cooling off. But
+[04:59] what happened is because of the high
+[05:00] cost of diesel and jet fuel, the cost of
+[05:03] goods and services rose. But uh the uh
+[05:06] you know as those prices start to
+[05:08] moderate hopefully all the other
+[05:10] inflationary forces will come down. So
+[05:13] it definitely looks like it's transitory
+[05:16] >> but it seems like the Fed is still
+[05:18] reluctant to move.
+[05:19] >> Yeah. Because they have to follow market
+[05:22] rates. So any of us could be Fed
+[05:24] chairman or an FOC member. All you have
+[05:27] to do is follow market rates. So when
+[05:28] market rates go down, you catch up. So
+[05:31] the Fed has been notoriously behind the
+[05:33] curve. Catching up with market rates,
+[05:35] but the fact that Treasury yields are
+[05:36] meandering lower is a good sign. And so
+[05:39] I I do expect a rate cut later this
+[05:42] year.
+[05:42] >> Now the G7 summit is underway. We have
+[05:44] Trump, Macron, and Starmer all in the
+[05:47] same room. How explosive does this get?
+[05:50] >> Well, I mean, let's face it. President
+[05:52] Trump really doesn't have any friends in
+[05:54] Europe. He did have Prime Minister
+[05:57] Maloney from Italy, but she denied the
+[06:00] US using the mil military bases and
+[06:02] flying over Italy on the Iran action. So
+[06:05] that ticked him off. And then he had a a
+[06:07] little tiff with the pope. And obviously
+[06:09] when you Italian prime minister, you
+[06:11] have to pick the pope over President
+[06:12] Trump. Now we have we sent JD Vance to
+[06:16] basically try to make up a Maloney. We
+[06:19] also said Marco Rubio. But I'm going to
+[06:21] be very curious about Melon and Trump's
+[06:24] interactions. As we I'm talking to you
+[06:27] today, Italy is apparently investigating
+[06:30] Apple. The the biggest problem we have
+[06:32] with us in Europe, other than NATO and
+[06:35] where the money goes because some of the
+[06:37] NATO funding was not for defensive
+[06:40] purpose for the Ukrainian military. Some
+[06:42] of it was for their pensions and things
+[06:44] like that. So there's this tiff on NATO
+[06:46] spending. But the the real big thing is
+[06:49] called the digital services act in the
+[06:51] EU and they are just hellbent on
+[06:54] continuing to find our US tech companies
+[06:57] to force them to do open source
+[06:59] software. Once software is open source
+[07:01] they can read all our emails and texts.
+[07:04] They don't have to get permission or
+[07:05] subpoena anybody. Kirsty wants to ban
+[07:09] social media you know Tik Tok, Snapchat,
+[07:11] YouTube to everyone under 16. So, you
+[07:15] know, Europe is is fighting with our
+[07:18] tech companies and our tech companies,
+[07:20] let's face it, are monopolies and
+[07:22] they've come to President Trump for
+[07:24] protection. And that's the real breaking
+[07:27] point in our our relationship with
+[07:28] Europe right now. And Europe is not a
+[07:30] free speech place. You know, if you, you
+[07:33] know, get a a look at something, you hit
+[07:35] a like, you could be arrested in in
+[07:38] Britain or Germany. You know, they they
+[07:40] they don't like social media. And so
+[07:44] that's the problem we have and I don't
+[07:46] think that's going to be resolved but
+[07:48] it's very it's a very tur relationship
+[07:51] and I I they there's a joint communicate
+[07:54] after the end of the G7 and I I just not
+[07:56] sure what it's going to be. I'm trying
+[07:58] to figure out what we have in common. So
+[08:01] so other than supplying them with
+[08:02] energy. So
+[08:03] >> but didn't Trump threaten 100% tariffs
+[08:06] on French wine if France refuses to drop
+[08:08] its digital service taxes?
+[08:10] >> Yes. Yes, he did. So this is bigger than
+[08:13] just wine and social media.
+[08:15] >> Yeah. Yeah. Well, it's it, you know,
+[08:17] Trump throws his weight around and likes
+[08:19] to intimidate people and then he cuts a
+[08:21] deal. So, we'll see if uh he can cut a
+[08:24] deal with France. The other problem with
+[08:26] Mcronone, who's the French president,
+[08:28] you know, he's only backed by a minority
+[08:30] of people in France, mostly people
+[08:32] around Paris. You know, Marie Le Pen
+[08:35] really runs France. uh she controls the
+[08:37] parliament and France can't even pass a
+[08:39] budget because Mcronone you know
+[08:42] represents a minority. See, Europe runs
+[08:44] on coalition governments. And so
+[08:46] basically, if you win, you win x% of the
+[08:50] vote, but to get a consensus, you have
+[08:52] to get people from the Green Party or
+[08:54] something. And so that's why Chancellor
+[08:57] Mertz is still, you know, not trying to
+[09:00] turn on the nuclear plants and things
+[09:01] like that because the Green Party in
+[09:04] Germany doesn't want it. And he actually
+[09:06] had to curtail the number of natural gas
+[09:09] power plants they were putting in
+[09:11] because the Green Party doesn't want it.
+[09:13] So this is compound complex and I I
+[09:17] think a lot of these coalition
+[09:18] governments just don't govern properly.
+[09:21] I will say Maloney does run Italy. She's
+[09:25] in control. Kurt Simer is obviously
+[09:27] going to be on his way out. You know,
+[09:28] his party might throw him out and so
+[09:31] it's going to be interesting to watch.
+[09:33] But I I I don't have a lot of hope for
+[09:35] Europe long term. I I think the EU is
+[09:37] probably better off breaking up. Now,
+[09:39] before we get into subscriber questions,
+[09:41] the second half of June is historically
+[09:43] strong and we're heading into the
+[09:44] Russell reconstruction. What do
+[09:46] investors need to know?
+[09:48] >> Well, the list gets refined every Friday
+[09:50] and then the last Monday of the month is
+[09:52] when the the stocks pop because they're
+[09:54] being added to the indices. And so, it's
+[09:57] Friday after the close, they keep
+[09:58] refining the list of the stocks will be
+[10:01] going in the Russell 10,000 indices. But
+[10:04] because there's so much money in
+[10:06] indexing, the actual day they're added
+[10:08] to the index, the stocks tend to pop. So
+[10:11] the last Monday of June should be a very
+[10:14] good month for us. Couple decades ago, I
+[10:17] remember popping over 6% in one day from
+[10:20] the from the realignment. And Russell's
+[10:22] trying to dilute its impact by leaking
+[10:25] it out and refining the list. But the
+[10:28] still the index reconstitution day is a
+[10:32] big deal. And so the we have a lot to
+[10:35] look forward to and that's why June is a
+[10:37] seasonally strong month. I will add
+[10:39] we're getting positive balance revisions
+[10:40] right now. So that's definitely causing
+[10:44] buying pressure under a lot of stocks.
+[10:45] >> Okay, let's start out with our first
+[10:46] subscriber question. The 10-year bond
+[10:49] rate, do you see this going up or down
+[10:51] for the rest of the year?
+[10:52] >> I see it meandering lower for a variety
+[10:55] of reasons. One is we do have a Fed
+[10:58] chairman that wants to cut rates. Two,
+[11:01] the dollar is very strong. It's it's had
+[11:04] tremendous gains against the Japanese
+[11:05] yen. So everything we import from Japan
+[11:07] is cheaper. Uh three, the US economic
+[11:11] growth is outpacing all countries
+[11:13] including China. And so the the the
+[11:15] countries with slower growing economies
+[11:18] and actually lower rates. So that would
+[11:20] be China, Japan, all of Europe, their
+[11:24] currency should be getting weaker
+[11:26] against the dollar and and so everything
+[11:28] we import will be cheaper. So that's
+[11:30] deflationary. Finally, AI is not
+[11:34] inflationary. It's a productivity gain
+[11:36] and so I do think that will help. And
+[11:39] finally, the trade deficit is going to
+[11:41] be a lot tighter because of all the
+[11:43] onshoring and especially our energy
+[11:46] exports. So that all adds to GDP growth.
+[11:49] So that 5 to 6% GDP growth I'm
+[11:52] forecasting by the third quarter is
+[11:54] non-inflationary in my opinion. and
+[11:57] everything we import will be
+[11:58] increasingly deflationary because their
+[12:01] currencies. The final thing is
+[12:03] demographics. We have better
+[12:04] demographics in America. All countries
+[12:07] except for the US and India are are
+[12:09] shrinking in population. Okay? All major
+[12:12] economies out there. Portugal is growing
+[12:15] from immigration. Spain is growing from
+[12:17] immigration. But the rest of Europe is
+[12:18] shrinking. And when you have fewer
+[12:20] people paying into the system to pay
+[12:22] taxes and all because you have fewer
+[12:23] households, what's happening is the
+[12:26] central banks increasingly have to do
+[12:27] quantasing or money printing. And that
+[12:30] may explain why gold's doing so well.
+[12:32] Gold has got its mojo back here
+[12:34] recently. And the reason we ended up in
+[12:37] all these gold stocks was central bank
+[12:38] buying pressure. So central banks have 9
+[12:40] and a half trillion in US treasuries,
+[12:42] but believe it or not, they have even
+[12:43] bigger gold reserves. So, I I just see a
+[12:46] lot of positive things happening that
+[12:48] will be disinflationary. So, that will
+[12:52] cause our 10ear yield to go down.
+[12:54] >> Okay, next up, we get this question
+[12:56] quite a lot. We talked about this in one
+[12:58] of our last videos, but let's just clear
+[13:00] everything up one more time. Our
+[13:02] subscribers are saying that some of our
+[13:04] stocks are already up a lot, sometimes
+[13:06] even four times. Can you explain to
+[13:09] everyone why you would still buy
+[13:10] something that is still up that much?
+[13:12] >> It's very simple. because the sales and
+[13:14] earnings are growing. You know, your
+[13:16] average stock, like in your portfolio,
+[13:18] is up over 180%.
+[13:21] Okay? And that's common when you look at
+[13:23] any of my newsletters, you know, we have
+[13:25] the the gain average gain losses there.
+[13:27] And uh it's okay to buy something, okay,
+[13:30] that has gone up a lot as long as it's
+[13:33] sales and earnings are growing. So, I
+[13:36] like monopolies, okay? And we are we are
+[13:40] have publicly traded stocks are becoming
+[13:42] increasingly dominant. So I would argue
+[13:44] that Nvidia is a monopoly. I would argue
+[13:47] that Apple's a monopoly, Amazon's
+[13:49] monopoly. Microsoft still has monopoly,
+[13:51] but I don't own Microsoft.
+[13:54] And I don't own Amazon either, although
+[13:55] your mom has it in her personal account.
+[13:58] So what's what's going on is when we run
+[14:02] the stocks to that eight factor
+[14:04] fundamental model, we as long as the the
+[14:07] margins are still expanding and earnings
+[14:09] are going fast in sales and the analysts
+[14:11] are still revising their estimates
+[14:12] higher and they're still surprising and
+[14:14] providing good guidance, I'm going to
+[14:15] stick with stocks. So you know, a lot of
+[14:18] investing is betting on a billionaire.
+[14:20] So I bet heavily on Jensen Wong, the
+[14:22] Nvidia founder. I bet heavily on Alex
+[14:26] Karp, the Palunteer executive. You know,
+[14:29] I I did buy Google. Okay. And so now I'm
+[14:33] betting on Sergey Brin.
+[14:34] >> So essentially, a stock that's up four
+[14:36] times with strong fundamentals can
+[14:38] actually be safer than a cheap stock
+[14:39] with weak fundamentals.
+[14:41] >> Absolutely. That's what theative
+[14:43] analysis we do. What we're doing is
+[14:46] we're looking at the stock's movement
+[14:48] independent of the market divided by its
+[14:50] volatility. And risk to me isn't the
+[14:52] angle of ascent. it's dispersion. So a
+[14:55] lot of these stocks are moving in a very
+[14:57] tight trading range. The standard
+[14:58] deviation is tight and eventually the
+[15:00] buying pressure will get more erratic.
+[15:02] The stock will get more volatile. It'll
+[15:03] fall my quantitative ranking. But right
+[15:05] now a lot of these lock and load on
+[15:07] these stocks. You know it's you know
+[15:10] there's a lot of media coverage again
+[15:12] about all the billionaires. Now the rich
+[15:14] are getting richer. Yeah. Because they
+[15:15] they run these monopolies, these
+[15:17] dominant companies and fortunately the
+[15:19] public can invest in them. And I would
+[15:22] encourage you to do that. We got a
+[15:23] question about Jim Chanos who is a
+[15:25] renowned short seller. Is there still a
+[15:27] role for hedging in this bull market?
+[15:29] >> No. No. Because you're in the strongest
+[15:32] earnings environment in several years.
+[15:35] The economic boom is unreal. It's it's
+[15:39] getting stronger and stronger. We we're
+[15:41] getting evidence housing is finally
+[15:42] firming up. Uh so that's good. That's
+[15:45] been a drag on economic growth. So no,
+[15:47] it's this is a party. This is like the
+[15:49] 1990s, the internet craze. Now we have
+[15:52] the AI craze and you know we've shown in
+[15:56] the past the bespoke charts of the
+[15:58] internet vers in the '9s versus AI now
+[16:02] and uh we're not even halfway through
+[16:04] this. So we got a long ways to go and
+[16:07] the order backlog keeps getting bigger
+[16:09] and bigger. It's it's going to be
+[16:10] wonderful. Obviously Jim Chenos was on
+[16:12] on CNBC and CNBC has probably the most
+[16:16] negative commentary on the markets. You
+[16:19] know it's part of NBC. NBC doesn't like
+[16:22] Trump and and uh they just try to throw
+[16:25] cool water on on this on his success
+[16:28] because the midterm elections are coming
+[16:30] up and and they're part of the
+[16:32] mainstream media. So you don't get that
+[16:34] obviously on Fox, so you don't get that
+[16:36] on Bloomberg. I think Bloomberg's much
+[16:38] more neutral, but you know, you have
+[16:40] Andrew Ross Sorcin that keeps talking
+[16:42] about how it's like 1929 and it's not.
+[16:45] So I don't recommend Andrew's new book.
+[16:48] I really don't. And lastly, what are
+[16:50] your thoughts on Unusual Machines?
+[16:53] >> Well, this is certainly a hot stock and
+[16:55] as I talked to you, it's up sharply. Uh
+[16:57] sales are supposed to be up 320%.
+[16:59] Earnings supposed to decline 172.5.
+[17:03] Uh the analysts have been still cutting
+[17:06] their estimates. They're estimating
+[17:08] minus 10 cents a share. So, it's still
+[17:10] operating loss. And last quarter had a
+[17:12] massive miss. Before that, had a big
+[17:14] surprise and another massive miss. So
+[17:17] you are grabbing a tiger by the tail.
+[17:19] You're grabb buying a company with
+[17:21] explosive sales growth and I would wait
+[17:23] till the earnings materialize. I would
+[17:26] wait till they the analysts become more
+[17:28] positive. I would wait until uh you know
+[17:31] it is surprising and exceeding analyst
+[17:33] estimates. So good news, explosive
+[17:36] sales, bad news, no earnings yet. And
+[17:40] you know, a lot of these public
+[17:41] companies just have to have a better
+[17:43] relationship with the analyst community
+[17:46] and this is an example of a stock that
+[17:49] needs to improve on that.
+[17:50] >> So, we have some quality stocks on the
+[17:52] watch, mechanical tailwinds, and a Fed
+[17:54] that needs to catch up. And that's the
+[17:56] setup heading into the second half of
+[17:58] June. Are you buying the AI
+[17:59] infrastructure names or waiting for a
+[18:01] pullback? Let us know in the comments,
+[18:03] and make sure to give this video a like
+[18:04] and subscribe if you enjoyed it. We'll
+[18:06] see you this Sunday for a new video.

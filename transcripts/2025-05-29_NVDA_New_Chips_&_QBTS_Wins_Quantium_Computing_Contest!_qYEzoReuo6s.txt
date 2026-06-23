@@ -7,9 +7,35 @@ Type: short
 Duration: 1:12 (72s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 27
+Transcript characters: 958
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Well, I hope you enjoyed Nvidia's
+[00:02] outstanding earnings announcement and
+[00:03] their positive
+[00:05] guidance. Well, I think I should tell
+[00:07] you what's headed for Nvidia. Looking
+[00:09] out in the future, in 2026, the second
+[00:13] half, they will introduce their Reuben
+[00:16] GPU. That'll be even faster than the
+[00:18] current Blackwell Ultra. Then in 2028,
+[00:22] they're going to introduce their Fman
+[00:25] GPU, and that will be the fastest yet.
+[00:28] Now, after that, they won't be able to
+[00:30] make their GPUs faster because they're
+[00:32] cramming so many transistors on the
+[00:34] chips. They're approaching the atomic
+[00:36] level. In fact, right now, the Blackwell
+[00:39] has 28 billion transistors on the chip.
+[00:43] So, how does Nvidia speed things up
+[00:45] after that? It's very simple. It's
+[00:47] called quantum computing. At their AI
+[00:50] developers conference, they had a
+[00:52] quantum computing contest. And guess who
+[00:55] won? Dwave. The symbol is
+[00:58] QBTS. So, Nvidia is your best bet for
+[01:02] both AI and quantum computing. But
+[01:04] D-Wave has obviously um won a big
+[01:08] contract and uh they're doing very well.

@@ -7,9 +7,40 @@ Type: short
 Duration: 1:06 (66s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 32
+Transcript characters: 1067
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Biotech. I know that that word makes
+[00:02] some people a little nervous in this
+[00:04] market, but you keep coming back to this
+[00:06] one.
+[00:06] >> AEUPH is the biotech stock we like. It's
+[00:09] small cap and the main reason we like it
+[00:12] is their uh sales are supposed to be up
+[00:14] uh 14.6%.
+[00:16] Their earnings are supposed to be up uh
+[00:19] 54.7.
+[00:21] We have very strong upward analyst
+[00:23] revisions on this stock from 18 uh cents
+[00:26] just 3 months ago to 25 cents uh
+[00:29] recently. And uh just in the last 7 days
+[00:32] analysts have revised their estimates
+[00:34] from 20 to 25 cents. So, we got really
+[00:36] strong analyst estimates and this stock
+[00:38] has a wonderful, wonderful earning
+[00:40] surprise history. So, I'm expecting big
+[00:42] things from this stock. But the only
+[00:44] thing is it's it's a small cap, so it's
+[00:46] going to move more like a bunny. But uh
+[00:49] small caps are are better values than
+[00:51] the bigger stocks.
+[00:52] >> Well, that combination is hard to find.
+[00:53] Why hasn't the market caught up to this
+[00:55] one yet? Because no one believes it till
+[00:57] the earnings come out and then the stock
+[00:59] pops and then they fall asleep again.
+[01:01] So, the fundamentals are there. It's
+[01:03] just a matter of when the market
+[01:04] notices.

@@ -7,9 +7,27 @@ Type: short
 Duration: 0:39 (39s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 19
+Transcript characters: 615
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Can Broadcom keep delivering AI field
+[00:02] growth?
+[00:02] >> Yeah, in fact Barron's just said so.
+[00:04] They picked top five stocks that have
+[00:06] gone parabolic and that will continue to
+[00:08] do well and Broadcom was mentioned as
+[00:10] one of the five. Their sales are
+[00:12] supposed to be up 47.4%
+[00:14] and their earnings are supposed to be at
+[00:15] 51.6.
+[00:17] We have positive revisions on the stock
+[00:19] from 216 90 days ago to 240 a share now.
+[00:23] They've even revised up in the last 7
+[00:25] days. The only issue with Broadcom is
+[00:28] the surprises are always tiny. Last
+[00:30] quarter was 1.3%. So, like most AI
+[00:33] related stocks, they have to beat, they
+[00:35] have to guide higher, but yeah,
+[00:37] Broadcom's a a solid pick.

@@ -7,9 +7,28 @@ Type: short
 Duration: 0:41 (41s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 20
+Transcript characters: 699
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Dell reports this week. The stock is up
+[00:02] 75% since their last print. Can they
+[00:04] keep up this momentum? Yeah, they're
+[00:06] benefiting from the data center boom,
+[00:08] too. Uh, their sales are supposed to be
+[00:09] up 53%. Their earnings are supposed to
+[00:11] be up 91.2%.
+[00:13] I would add that the analyst have
+[00:15] revised estimates significantly higher
+[00:17] in the last 90 days and I I like the
+[00:19] fact that the last 7 days have raised
+[00:22] estimates a bit. It had a 10.7% surprise
+[00:24] last quarter. So, yeah, it's it
+[00:26] definitely makes rack systems that you
+[00:28] need in the data centers. They're not
+[00:30] the biggest player there, but it's
+[00:32] growing. So, I have a lot of hope for
+[00:34] Dell. I do not own the stock yet, but
+[00:36] it's an example how the AI boom is
+[00:39] lifting all these tech stocks.

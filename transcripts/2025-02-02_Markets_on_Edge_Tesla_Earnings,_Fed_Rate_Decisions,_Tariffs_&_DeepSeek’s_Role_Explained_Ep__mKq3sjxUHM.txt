@@ -7,9 +7,1412 @@ Type: video
 Duration: 1:01:04 (3664s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 1404
+Transcript characters: 49134
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:13] hello everyone welcome back to navali
+[00:15] Market Buzz episode 23 I'm Crystal
+[00:17] navier and I'm joined again this week
+[00:19] with my father Lou navier and also Jason
+[00:21] Bodner who is a co-founder of map
+[00:23] signals welcome back everyone if you
+[00:25] didn't get a chance to watch our latest
+[00:27] episode it's earning season and each
+[00:29] week Lou and Jason will be discussing a
+[00:31] new round of stocks for their earning
+[00:32] announcement season but before we get
+[00:35] into that we do have some breaking news
+[00:37] that we have to talk about can you guys
+[00:39] explain what deep seek is and why did it
+[00:41] create an earthquake in the stock
+[00:44] market well that's the number one
+[00:46] selling app on the Apple Store uh people
+[00:50] are comparing to chat
+[00:52] GPT and they think it's pretty darn
+[00:55] good so uh they're using nidia's older
+[00:59] chips
+[01:00] and somehow Wall Street came to a
+[01:02] conclusion that I guess we don't need
+[01:04] new chips or we don't need a new
+[01:07] electric grid and and we don't need to
+[01:10] make any further progress because the
+[01:12] Chinese are perfected AI the timing of
+[01:15] it was very
+[01:16] suspicious because um it was announced
+[01:19] on Sunday during the football playoffs
+[01:22] trust me every single Trader on Wall
+[01:23] Street was watching those football games
+[01:25] and they were not paying attention to
+[01:27] the market aftermarket and it went down
+[01:30] quite a bit on Sunday so gap down
+[01:32] Monday um I think it's a gross
+[01:35] overreaction um uh it was a great buying
+[01:38] opportunity uh your mom loaded up on
+[01:41] more Nvidia on Monday and when it sold
+[01:44] off but the D the company's building out
+[01:46] the data centers actually got hit even
+[01:48] more and some like Eaton have already
+[01:50] announced so um I think those are
+[01:53] probably the best bu right now to be
+[01:55] honest with you but I think it's a i it
+[01:58] just to me it bore Market
+[02:00] manipulation it was a shot across the
+[02:02] bow from the Chinese Communist party to
+[02:06] to kind of take some Mojo away from
+[02:07] president Trump after his SoftBank
+[02:10] announcement they were're going to spend
+[02:11] up to half a bill 500 billion dollars on
+[02:15] AI infrastructure and all so I I was um
+[02:19] it it's the volatility was was
+[02:21] mindboggling but uh thank God Earnie
+[02:24] season is here to to ride all those
+[02:25] stocks and and drive them higher so uh
+[02:28] I'm in complete agreement with you there
+[02:30] were some very suspicious things there
+[02:33] um first of all you know not really on a
+[02:36] conspiratorial note
+[02:38] but let's think this through for a
+[02:40] moment like you said Trump announced 500
+[02:42] billion for Stargate uh you had weeks
+[02:45] earlier Jensen Wang the CEO of Nvidia
+[02:48] come out and throw cold water on Quantum
+[02:51] Computing stocks let's not forget one of
+[02:53] the for runners in the race of quantum
+[02:55] Computing is Buu uh the Chinese big Tech
+[03:00] company um and then Trump during his
+[03:03] campaign Trail was threatening all sorts
+[03:04] of tariffs against China so like Louis
+[03:07] said like you said I think it was a
+[03:09] great opportunity to hit him where it
+[03:11] hurts in the most crowded trade and
+[03:13] let's not forget deep seeks founder Len
+[03:16] Wang Fang and I may be saying that wrong
+[03:19] um was a hedge fun guy when he was uh 30
+[03:22] in 2015 he founded high flyer hedge fund
+[03:26] a quantitative hedge fund made a bunch
+[03:28] of money grew it to 8 B ion dollars
+[03:30] under management and you're legally not
+[03:33] allowed to short stocks in China but you
+[03:36] know where you can short stocks is in
+[03:38] the United States of America so if it
+[03:40] were me and I were the state of China
+[03:43] and I police every single word that
+[03:45] comes out of that country I would
+[03:46] coordinate a you know Direct Hit attack
+[03:50] on the most crowded trade I'd find a way
+[03:52] to profit from it I'd short all these
+[03:55] stocks I'd cover lower but I'm with you
+[03:57] Louie I don't think this one
+[03:59] announcement is going to seismically
+[04:01] shift the entire AI landscape but even
+[04:03] if it does let's just say it does what
+[04:07] that really does is open up the field of
+[04:09] competition for small and midcap stocks
+[04:12] uh to finally get into this AI race and
+[04:14] maybe wrestle some of the control from
+[04:16] the largest but still the chip
+[04:18] manufacturers we need more chips and
+[04:20] Nvidia was a super strong grower way
+[04:23] before AI was even a whisper putting out
+[04:25] the best gpus out there so me I'm in the
+[04:29] same camp as you it was a shock to the
+[04:31] market but uh I think we'll be back on
+[04:35] track and we already had a huge bounce
+[04:36] since I have to say I'm shocked to hear
+[04:39] you say that the Deep seek
+[04:41] founder is a better Trader than Paul
+[04:46] Pelosi well that's only temporary
+[04:51] okay so now let's talk about Tesla why
+[04:54] did Tesla rise after missing analyst
+[04:56] consensus estimates by 4.8%
+[05:00] because their guidance was ridiculous um
+[05:03] I mean to test this credit I mean
+[05:05] they're struggling with cars now uh
+[05:07] they're having sales issues they got to
+[05:10] Discount the
+[05:11] cars um you know they're $25,000 car
+[05:15] never showed up hopefully it'll
+[05:17] eventually show up they'll have to put
+[05:19] the cheaper lfp batteries on them before
+[05:21] the tffs hit them but um the um the one
+[05:25] thing that they are doing right is the
+[05:27] uh energy storage it's the largest
+[05:30] energy storage in America is in Moss
+[05:32] Landing a Monteray area it was on fire
+[05:36] and somehow when they built out mosy and
+[05:38] moral Bay they forgot to use LP
+[05:41] batteries uh and they were using iron
+[05:43] phosphate batteries which can catch on
+[05:44] fire so hopefully Tesla will get the
+[05:47] contract to replace that entire battery
+[05:50] facility uh which is now got the wrong
+[05:53] batteries and
+[05:55] um energy storage is um very popular all
+[05:59] the solar systems and all the um but
+[06:02] everybody wants the robo taxi you know
+[06:05] even me I I when they did their
+[06:08] production at Universal Studios the show
+[06:10] the future the robo the robo van or bus
+[06:15] uh the robo
+[06:16] taxi the from a video production point
+[06:19] of view it was magnificent from a
+[06:21] technology point of view it was we
+[06:23] questioned it but now um Elon Musk said
+[06:27] that the robo uh taxi is coming we will
+[06:30] start in uh Austin Texas in the summer
+[06:33] and um and eventually we'll just have
+[06:35] pods driving us around with no steering
+[06:38] wheel no driver and that's the future
+[06:41] and everybody wants to see that yeah and
+[06:43] I think all of the above is true and
+[06:47] let's not
+[06:48] forget elon's part of the government now
+[06:51] um so there's a bit of
+[06:55] uh unspoken Golden Boy um
+[07:01] effect uh for a company now so you know
+[07:06] and it'll be interesting right because I
+[07:08] know a lot of the public servants have
+[07:11] to sell their interest in companies so
+[07:14] for instance my former boss Howard
+[07:16] lutnick when I was working at kener
+[07:18] Fitzgerald upon confirmation of his seed
+[07:21] he said he would sell everything now
+[07:23] what's really fascinating about this is
+[07:25] the government mandates when you go into
+[07:27] public service that you have to divest
+[07:29] all your public interest I guess except
+[07:32] for Nancy Pelosi but um what happens is
+[07:37] you get to sell it tax-free so back when
+[07:41] the world was ending in in the great
+[07:43] financial crisis and Secretary of
+[07:45] Treasury Henry Paulson came into his
+[07:48] seat he was required to sell his Goldman
+[07:51] sax stock and I think it was 800 million
+[07:55] at the time I I can't recall the exact
+[07:57] figure but there was a tax bill of zero
+[08:00] so a lot of these public servants will
+[08:02] be forced to set divest their Holdings I
+[08:04] think because doge is maybe not a
+[08:08] official government position I'm not
+[08:10] exactly sure how that's going to work
+[08:11] but let's not forget he has the full
+[08:14] faith in backing of the executive branch
+[08:17] at the highest level right now so now
+[08:19] when the Bank of Canada and the European
+[08:21] Central Bank cut rates last week why did
+[08:23] the FED stop cutting key interest
+[08:25] rates well that's a great question and I
+[08:28] think the main main reason is is the Fed
+[08:30] just wants to see what in the hell's
+[08:32] going to happen with the tariffs and I
+[08:35] guess we'll find out soon because uh
+[08:38] looks like they're going to start on
+[08:39] Canada and Mexico first and those are
+[08:42] our allies so if we're slapping tariffs
+[08:45] on our
+[08:45] allies what are we going to do to China
+[08:49] so there's all this economic uncertainty
+[08:51] caused by the tariffs and I think the
+[08:53] FED just wants to wait and
+[08:57] see yeah um I agree but I still think
+[09:00] rates are coming down and I I cite that
+[09:03] chart we talked about last week where we
+[09:06] have uh a strong history since 2007 of
+[09:09] the Market's expectations of where rates
+[09:11] go versus the actual fed funds rate has
+[09:14] a nearly perfect record of getting it
+[09:17] wrong and the Dot Plot is still
+[09:20] indicating that uh even the FED
+[09:23] Governors themselves are expecting key
+[09:25] rates to fall over the course of the
+[09:27] next year or two so the pace and the
+[09:30] rate of hikes might be in question uh
+[09:32] sorry Cuts might be in question but the
+[09:34] cuts themselves I think uh you may want
+[09:38] to try and filter through the noise and
+[09:41] uh the expectation is rates will come
+[09:43] down CPI
+[09:46] inflation and uh fed funds still has a
+[09:49] significant Gap that typically closes
+[09:51] historically so I fully expect rates to
+[09:54] fall um but you know they're cautious
+[09:57] they're wait and see but it's clear
+[10:00] which direction things are going for me
+[10:02] the the most important thing the FED did
+[10:04] is they removed their inflation Target
+[10:07] from the fomc statement so uh right now
+[10:10] we just had the the cons uh personal
+[10:13] consumption expenditures index updated
+[10:15] that's the fed's favorite indicator was
+[10:17] up 2/10 in December it's up 2.6 trillion
+[10:20] 12 months the core rate and um actually
+[10:23] the core rate's up 2.8 the overall rates
+[10:26] up 26 12 12 months but the fed no longer
+[10:30] has a 2% inflation Target they removed
+[10:32] it so I found that very interesting um
+[10:36] but I I do agree with Jason um I do
+[10:39] think because Europe's slashing rates
+[10:41] they got another three to four rate Cuts
+[10:42] in Europe because they're in a severe
+[10:44] recession I expect um that as Global
+[10:48] rates come down we'll take it push our
+[10:50] treasury heals lower and the FED of
+[10:52] course will catch up a market rates and
+[10:54] cut the other thing that was happening
+[10:57] last week you know Volkswagen has to pay
+[10:59] like
+[10:59] 1.7 billion doll or Euro fine for
+[11:02] emission standards and so uh they are
+[11:05] now exploring uh opening a third and
+[11:07] fourth plant in America they have one in
+[11:10] Chattanooga uh the Scout Motors plant is
+[11:12] being built in um South Carolina Scott
+[11:15] Keel runs the Scout and then um uh but
+[11:19] they're looking at an aie plant and a
+[11:20] Porsche plant so um you know electricity
+[11:23] is so expensive in Germany right now uh
+[11:26] that they're really in trouble and
+[11:28] they're losing their manufacturing base
+[11:30] and that's why that German election is
+[11:32] so important so if they don't elect
+[11:34] somebody that's going to turn back on
+[11:35] the nuclear plants and get him some
+[11:37] cheap
+[11:38] electricity um you know um Germany is
+[11:41] doomed to be honest with you I hate to
+[11:43] be um sad about and the other thing
+[11:47] that's going on is you they put all
+[11:49] these windmills in and the wind isn't
+[11:51] blowing you
+[11:52] know they're all stressed out by this so
+[11:55] it's uh the the German election will
+[11:58] will set the tone but the fact that and
+[12:01] and Trump already mentioned like bring
+[12:03] your plants to America I'll let your
+[12:06] I'll give your workers the work visas
+[12:07] and all that stuff I I it's going to be
+[12:10] very interesting to see what happens so
+[12:12] this is why the FED just wants to sit
+[12:14] and watch because there's a lot of
+[12:16] moving parts now let's switch over to
+[12:18] discuss some of the upcoming earning
+[12:19] announcements let's start out with Tyson
+[12:23] Foods well Tyson of course is the big
+[12:25] chicken stock okay and uh
+[12:30] there is a bird flu
+[12:32] okay so that's probably going to
+[12:34] overshadow their earnings but their
+[12:36] sales are supposed to be up
+[12:38] 1.1% earnings are supposed to be up
+[12:40] 27.2% as you probably know chicken
+[12:42] prices are up analyst of Revis resting
+[12:45] slightly higher stock has a good earning
+[12:47] surprise history but with all that said
+[12:51] the guidance is going to be everything
+[12:52] and so they're going to have to guide uh
+[12:55] how the bird flu is affecting their
+[12:57] their
+[12:57] future yeah yeah you know this one uh is
+[13:01] I know it's it was a huge highflyer
+[13:04] growth stock for you um previously Louie
+[13:08] you know they have Jimmy Dean Hillshire
+[13:10] Farm I think ballpark the hot dogs
+[13:15] um the the the growth has come out of
+[13:18] the company right it's just become kind
+[13:20] of this this cash generating machine but
+[13:25] if if there's either an adjustment up or
+[13:27] down either way the stock is going to be
+[13:29] extremely volatile so like you said
+[13:32] about the bird flu couple that with no
+[13:34] growth over the past uh one year for
+[13:37] earnings um they're just eeking out a 2%
+[13:40] profit margin they're pretty levered in
+[13:43] debt about
+[13:44] 57% and uh you know the growth for next
+[13:47] year they're only estimating sales
+[13:48] growth 1.4% but estimating earnings
+[13:51] growth 16% for the whole year it's got
+[13:54] to be about margins so if anything's
+[13:56] disrupting the supply it will be reflect
+[13:59] Ed in the share price there's also
+[14:01] political risk with Tyson because a lot
+[14:04] of the workers in their plants are not
+[14:05] legal but they're trying to make them
+[14:07] legal and I cannot imagine president
+[14:10] Trump would raid their factories and
+[14:12] Deport those workers well he likes
+[14:14] chicken McNuggets too much that's true
+[14:17] and also food prices would go up and
+[14:19] that would make them very popular so and
+[14:21] also we we want the everybody to work so
+[14:24] uh so right now they're not raing
+[14:26] factories they're raing apartments and
+[14:28] things like that and uh so uh there is
+[14:31] but there is political risk for Tyson
+[14:33] now the Nora virus is kind of running
+[14:35] rampant in New York City I'm very
+[14:37] curious what you think about
+[14:40] Clorox well as you know uh that is one
+[14:43] of your mother's favorite products okay
+[14:47] and I can't believe she doesn't own the
+[14:48] stock um this company is based in
+[14:51] Oakland
+[14:53] California their sales are forecasted to
+[14:55] be down
+[14:57] 18.3% uh the uh earnings are forecasted
+[15:01] to be down
+[15:03] 35.2 uh this is an example of a stock
+[15:05] that's getting hit by a strong US
+[15:08] dollar and so I guess we're going to
+[15:10] have to get a lot of more diseases and
+[15:12] uh and uh
+[15:15] another covid vaccine another covid
+[15:19] disease or something to get its sales up
+[15:21] but right now uh uh it is not a good
+[15:24] stock to buy yeah I agree with you Louie
+[15:26] this one scores right in the middle of
+[15:28] my system
+[15:29] 53.4 you know middleof the road
+[15:32] technical score because it's been choppy
+[15:33] sideways action I mean there's been
+[15:35] recent strength uh since
+[15:38] September but uh fundamentally it's
+[15:41] middle of the road and you know no sales
+[15:45] growth they had one great one-year
+[15:47] earnings growth but three-year sales and
+[15:49] earnings growth is negative for this
+[15:51] stock they eek out a profit margin of 4%
+[15:55] and they do that on tremendous volume
+[15:57] obviously in global distribution but
+[15:59] they have a tremendous debt to equity
+[16:01] ratio they borrow a lot of money um
+[16:05] sales are estimated to grow 2.4% next
+[16:09] year they're estimated to grow earnings
+[16:11] 5.9% next year but that would still put
+[16:14] them in negative growth mode and me
+[16:16] personally I like grow stocks so uh
+[16:19] unless they come out and shock the world
+[16:21] like they did in covid uh when
+[16:24] everybody's scrambling to buy Bleach I
+[16:26] don't see major Tailwinds for this Stu
+[16:29] so do you expect a similar situation for
+[16:31] Eli
+[16:32] Lily Lily is one of our largest Holdings
+[16:35] um I think it's going to be
+[16:38] spectacular their sales are supposed to
+[16:40] be up
+[16:41] 43.5% their earnings are supposed to be
+[16:44] up 10
+[16:46] 7.6% I will admit the analysts have
+[16:48] trimed their estimates slightly uh
+[16:50] because there's a perception that glp1
+[16:53] drug sales are slowing down but they
+[16:55] dominate glp 1's drug sales and um so
+[17:00] I'm expecting great things from them
+[17:02] they did Miss in the previous quarter
+[17:04] but their absolute sales and range
+[17:06] growth are stunning yeah Eli Lily is a
+[17:08] great scoring stock in my system 67.2 so
+[17:11] that's just below the buy range of 70 to
+[17:14] 85 but not by much um really strong
+[17:18] technicals and very convincing
+[17:20] fundamentals which is what I like the
+[17:22] best about it this stock has
+[17:25] retreated um significantly
+[17:30] since its September Highs but for the
+[17:33] year it's up 6.4% but if you look at a
+[17:37] you know a six-month or onee chart it's
+[17:39] really it's off from its high of 950 it
+[17:43] hit a low of just call it
+[17:46] 725 so all that is to say with sort of
+[17:50] mediocre onee sales growth which was
+[17:55] actually it was strong 20% not mediocre
+[17:58] but uh one-year earnings growth was down
+[18:00] 16% this company has negative free cash
+[18:04] flow less capex and they're heavily
+[18:06] levered so this is a scenario where if
+[18:09] they come out and they disappoint the
+[18:12] stocks already traded down from its
+[18:14] Highs but if they come out and they beat
+[18:17] I would expect uh some serious upward
+[18:20] pressure on the stock because negativity
+[18:22] is already priced in and that might be
+[18:24] that you know sort of glp1 slowdown that
+[18:27] you cited Louie but uh this stock is
+[18:30] sort of one of those it's it's a little
+[18:33] bit beaten down if they surprise I
+[18:35] expect a big
+[18:36] bounce do you think fizer will have a
+[18:38] similar
+[18:40] situation no fizer um was too dependent
+[18:44] upon the government to be caned with you
+[18:47] and they're
+[18:48] still recovering from that but their
+[18:51] sales are still nonetheless going to be
+[18:52] up
+[18:53] 21.2 earnings supposed to be at
+[18:56] 36.3 but uh they were dependent upon the
+[18:59] government for their business um they
+[19:01] have surprise um but um you know um
+[19:07] we'll see you know this is one of the
+[19:09] reasons there's going to be pressure on
+[19:10] drug
+[19:12] prices yeah fascinating Point uh little
+[19:15] known fact Louie I worked at fizer when
+[19:18] they were rolling out the Blockbuster
+[19:20] drug Viagra which has obvious benefits
+[19:24] um back then but it was a great example
+[19:28] of creating a massive product with
+[19:31] massive demand in the pipeline as
+[19:33] opposed to one forced by the government
+[19:35] and angling for that contract and like
+[19:37] you said vaccinations are down
+[19:40] substantially they're facing some sort
+[19:42] of criticism right now um onee sales
+[19:46] growth down 42% one year earnings growth
+[19:49] down
+[19:50] 93% and this is coming off that ramp
+[19:53] down from uh those vaccine sales so yeah
+[19:58] you know they a ton of free cash flow a
+[19:59] 4% profit margin they're not really
+[20:03] slated to grow sales or earnings next
+[20:05] year so I don't see major Tailwinds for
+[20:07] this stock either I'd love to see some
+[20:09] big block Blockbuster in the pipeline
+[20:12] that is not relyant on a federal mandate
+[20:14] they also got um immunity from making
+[20:18] the vaccines so there's a lot of
+[20:20] criticism that if you died of covid Co
+[20:23] complications from the vaccine you can't
+[20:25] sue fizer yeah so um it it just it has a
+[20:30] bad taste in a lot of people's mouth um
+[20:33] you know but it is what it is and
+[20:36] uh but they are making some money and
+[20:38] and I think the government will be under
+[20:40] pressure to cut drug prices because
+[20:42] they're making so
+[20:43] much I think this is also a great
+[20:45] example of how the market
+[20:48] um says has its final say in the share
+[20:51] price you know back from uh 2022 highs
+[20:56] of you know $52
+[20:58] the Stock's trading around 26
+[21:01] 27 um so it for my system it's ranking
+[21:07] below mid with a 43 so I usually pass on
+[21:13] those so I'm starting to understand why
+[21:15] Pepsi is the second largest beverage
+[21:18] provider what are your expectations for
+[21:21] them well you know um this is a tough
+[21:26] consumer business their sales are
+[21:28] supposed to be up only
+[21:30] 0.14% that's nothing okay their earnings
+[21:34] are supposed to be up
+[21:36] 9.2
+[21:38] um the analysts trim the estimate
+[21:41] slightly they do surprise but this is a
+[21:44] multinational the multinationals are
+[21:46] finding a lot of currency risk and I
+[21:49] believe Pepsi owns U some restaurant
+[21:51] chains and things like that as well so
+[21:54] uh as well as a lot of snack food so um
+[21:57] they've hit saturation but right now the
+[21:59] strong dollar is holding them
+[22:01] back yeah I think that's a great word
+[22:03] saturation uh this scor is a
+[22:06] 39.7 so
+[22:08] really below average scores for me uh
+[22:12] they also own lays you know duritos
+[22:14] Cheetos all those things Gatorade um
+[22:17] they have a great Suite of Brands but
+[22:19] none of them are growing uh so you know
+[22:22] they're selling into a market that's
+[22:24] also becoming more health conscious uh
+[22:27] so now you have potentially RFK coming
+[22:30] in and making America healthy again and
+[22:32] a lot of these manufacturers are using
+[22:35] dyes additives you know heavy corn syrup
+[22:39] things that aren't particularly good for
+[22:40] you and that's sort of the The Sweet
+[22:43] Spot of these manufacturers so it
+[22:45] wouldn't surprise me to see them pivot
+[22:48] and go healthy uh to a certain degree
+[22:50] and roll out another product Suite but
+[22:52] that's going to take a little while so
+[22:54] for these earnings I'm not expecting
+[22:56] much uh one-ear estimated earnings
+[22:58] growth of 4.6% one year estimated sales
+[23:01] growth at 2% you know it's not really
+[23:04] moving the needle they are profitable
+[23:06] but they're just not growing so
+[23:07] saturation I think was a perfect word
+[23:10] I'm sure Doritos will have a good Super
+[23:12] Bowl commercial but uh I'm always amazed
+[23:15] how big the Dorito section is in the
+[23:18] supermarket I mean it's huge I mean that
+[23:21] it's I can't I can't imagine they're
+[23:23] going to make another kind of Dorito
+[23:25] they make so they're going to try and
+[23:26] make a healthy one mark my
+[23:29] words they should put RFK on the cover
+[23:32] with exactly you know yeah
+[23:35] so so I do think that we should have
+[23:38] some positive expectations for cummmins
+[23:40] incorporation
+[23:41] right Cummings is a very interesting
+[23:44] company this is uh they make huge diesel
+[23:46] engines that the trucks use you know
+[23:49] caterpillar deer you know um they all
+[23:53] run in these big diesel engines but
+[23:55] believe it or not their sales are going
+[23:56] to be down 5.3
+[23:59] and uh the earnings are only supposed to
+[24:01] be up
+[24:02] 133% uh estimates are okay with this
+[24:05] stock they do have a good surprise
+[24:07] history I'm going to be more curious
+[24:09] about their guidance this is an example
+[24:11] of a a company that can be hurt by the
+[24:15] strong dollar because again they make
+[24:17] huge uh diesel engines that go into
+[24:20] everything generators all kinds of stuff
+[24:22] so um let's I I want to see what their
+[24:26] dollar comments
+[24:27] are yeah interesting point this one
+[24:29] scores about a 64 for me my sweet spot
+[24:32] is 70 to 85 so again just outside got
+[24:35] good one-ear sales growth bad one-year
+[24:38] earnings growth good three-year sales
+[24:40] growth bad three-year earnings growth
+[24:42] and their profit margin is 2% I like
+[24:45] really profitable companies and ones
+[24:47] that are expanding their margins as
+[24:48] they're growing this one has a healthy
+[24:50] amount of debt at
+[24:52] 81% um one year's earnings is estimated
+[24:57] to grow 7.9 % and oneyear sales 2.2%
+[25:01] those aren't huge figures so there isn't
+[25:03] a huge growth multiple priced in but you
+[25:06] look at the price chart of this stock
+[25:08] and it is up monstrous I mean over the
+[25:10] past five years it's up 100% but we've
+[25:14] seen a significant portion of that
+[25:16] growth just this year from a low you
+[25:19] know one year ago of like
+[25:22] 237 it's now
+[25:24] trading uh off of Highs at 360 so I
+[25:28] think this is an example where there's a
+[25:30] lot of you know optimism built into the
+[25:33] share price so if they even fall short a
+[25:35] little bit I would expect downward
+[25:37] pressure on the stock so we do support
+[25:39] alphabet incorporation by posting on
+[25:41] YouTube but what does that mean for
+[25:43] their stock the issue with Google is not
+[25:46] sales and earnings growth their sales
+[25:47] are going to be up 12% their earnings
+[25:50] are going to be up
+[25:52] 29.8 uh they tend to have a good
+[25:54] surprise history even though they don't
+[25:56] guide higher the thing that's over
+[25:58] hang Google is the government's uh
+[26:01] antitrust decision on them to split the
+[26:03] company up and so when when the
+[26:07] Department of Justice got uh prevailed
+[26:09] and won against Google this is the
+[26:11] equivalent of the dog catching the car
+[26:13] like what does the dog do now okay
+[26:16] obviously dogs are gonna go for a wild
+[26:18] ride and I think trying to to split up
+[26:22] Google as fut time so now and of course
+[26:25] now we have President Trump so we'll see
+[26:28] how what what happens to them but uh
+[26:30] right now they do make the best search
+[26:32] engine and uh obviously they have
+[26:34] YouTube which we use and they have a lot
+[26:36] of very important channels
+[26:39] so it's a good stock uh I don't own it
+[26:42] but it's it's it's a very reliable part
+[26:45] of the Magnificent
+[26:47] 7 yeah uh I I don't bet against Google
+[26:51] um I think anybody who has in the past
+[26:54] has been severely injured uh the stock
+[26:57] rank to 79.3 right in my sweet spot uh
+[27:02] buy Zone um that said you know the
+[27:07] company's $2.3 trillion like how much
+[27:10] bigger is it going to get it would
+[27:13] actually be interesting if it were
+[27:15] broken up because then I would feel like
+[27:17] there's opportunity to grow the
+[27:19] individual Parts but phenomenal one in
+[27:22] threeyear sales growth a profit margin
+[27:24] of 24% they have nearly $70 billion of
+[27:28] free cash flow sitting around uh very
+[27:31] low debt and you know year to date this
+[27:35] stocks up
+[27:37] 6.1% five years
+[27:39] 176% it it just defies gravity keeps
+[27:43] getting bigger and they're slated to
+[27:45] grow sales and earnings next year at
+[27:47] about 12% each um you know there's very
+[27:51] little to dislike about that stock and
+[27:54] if there is a breakup I think this is
+[27:57] one of those cases where the sum the
+[27:59] individual components could be worth
+[28:01] substantially more if they operate so
+[28:04] it'll be really interesting to see you
+[28:06] know a strong history of upside on this
+[28:09] stock you know I I I expect good things
+[28:12] Advanced Micro Devices isn't doing too
+[28:15] hot right now what do you expect for
+[28:16] their
+[28:17] earnings they mention that um you know a
+[28:20] lot of people don't understand why AMD
+[28:23] is suffering but um supposed to be a
+[28:26] little better this next quarter there's
+[28:28] sales are supposed to be up
+[28:29] 22% earnings supposed to be at
+[28:33] 41.1 um analysts are kind of quiet on
+[28:36] the
+[28:37] stock um but you know they they're
+[28:40] behind uh everybody's making these
+[28:42] custom chips in Taiwan like apple and um
+[28:46] and Microsoft for their new Surface
+[28:49] books and um but AMD is fighting back
+[28:53] and the sales mares is going to be good
+[28:55] but they have to provide good guidance
+[28:57] but we had good news is on the
+[28:58] semiconductor equipment manufacturer so
+[29:02] it could help lift this stock but um
+[29:04] this one's not hit on all cylinders so
+[29:06] it's not in my
+[29:08] portfolios uh this is one I hold in on
+[29:10] publishing portfolio and I admittedly
+[29:12] bought it when it was doing better uh
+[29:15] but I do agree with you there's a lot of
+[29:19] optimism built in the stock and where
+[29:21] the share price is depressed here if we
+[29:23] get any positive statements of a
+[29:25] resumption of Prior growth this stock
+[29:27] could explode and that's not just me
+[29:30] talking my position because we have one
+[29:33] one year sales and earnings growth was
+[29:35] down and that's really what you know
+[29:38] took the uh the took this stock out at
+[29:42] the knees and you can see it in the
+[29:44] share price it's just been trending down
+[29:46] from above 200 to say 120
+[29:50] um however that said it is profitable
+[29:54] they have a ton of free cash flow and
+[29:56] they're estimated to grow earnings next
+[29:58] year 49% and estimated to grow sales
+[30:02] 25% if those things hit or if they uh
+[30:05] post guidance that even suggests they'll
+[30:08] meet or exceed that I would expect big
+[30:10] upward pressure on the stock because
+[30:12] it's so beaten down right now uh they
+[30:15] are one of the biggest producers of
+[30:17] chips they're not going anywhere they're
+[30:18] not going out of business and now
+[30:20] there's this you know recent tail uh
+[30:22] headwind with the Deep seek thing moving
+[30:25] against them so I'd be fascinated to see
+[30:28] some positive comments because I think
+[30:29] it could be significant boost to the
+[30:32] share price so the other day when I was
+[30:34] um going on the subway and taking
+[30:36] different stops I noticed that there was
+[30:39] almost always a Chipotle that was right
+[30:41] outside of my subway stop and I actually
+[30:43] looked that New York City um is the city
+[30:47] that has the most amount of Chipotle and
+[30:49] as an avid consumer I'm very curious
+[30:51] what you expect for their um earning
+[30:54] announcement sales are supposed to be up
+[30:56] 13.3
+[30:58] uh uh earnings are supposed to be up
+[31:03] 18.9 Allen Community is quiet good
+[31:05] earning surprise
+[31:07] history I mean you know a lot of places
+[31:10] in America don't have good Mexican food
+[31:12] you know obviously if you live in you
+[31:15] know California Arizona Texas Etc you
+[31:19] you get good Mexican food but um this is
+[31:22] how people get Mexican food outside
+[31:24] those key States and um it's they' got
+[31:27] got very loyal consumers you know
+[31:29] they've been around
+[31:30] forever their sales and earnings growth
+[31:33] have been phenomenal uh they got a new
+[31:37] CEO right trying to turn things around
+[31:39] with that said one year sales growth of
+[31:42] 14% one year earnings growth 38%
+[31:44] phenomenal three gear sales and earnings
+[31:46] growth at 12% profit margin and they're
+[31:49] slated to grow earnings 18.4% next year
+[31:53] and
+[31:54] 13.4% next year for sale so it'll be
+[31:56] interesting how this you know turnaround
+[32:00] or redirection is going and I think a
+[32:02] lot of those comments are going to be
+[32:04] crucial um but I expect strong numbers
+[32:07] either way you know whether or not they
+[32:09] meet or beat or disappoint is another
+[32:12] matter but I'm really interested to see
+[32:14] how these new initiatives are going for
+[32:17] Chipotle so I think more people are
+[32:19] starting to switch over to um uh solar
+[32:22] rooftops but what does that mean for
+[32:24] nphase energy
+[32:28] this was a big winner for me and then it
+[32:29] lost its Mojo and now it's starting to
+[32:32] come back uh sales are supposed to be up
+[32:35] 24.8 earnings are supposed to be up
+[32:39] 39.6 uh the Allen have been quite under
+[32:42] their estimates but it has missed the
+[32:44] past three quarters so when it went to
+[32:47] more of a commercial solar with the
+[32:50] utilities and all uh in Phase um was
+[32:53] trying to to help out but it didn't work
+[32:55] out um if if you have an invy system on
+[32:59] your home and they're very popular in
+[33:00] California you can set it so it looks
+[33:03] like you're not there when you're there
+[33:05] and that would allow you to live in
+[33:06] California and not pay your income taxes
+[33:08] if you don't mind lying um but you know
+[33:12] it's uh it was one of my big Winners
+[33:14] I've been out of for a few years um but
+[33:17] they do make the best uh software uh and
+[33:22] to for your power wall to talk to your
+[33:24] solar and again if you do have a
+[33:26] California home and don't want to pay
+[33:28] taxes you can set it so you're not it
+[33:31] looks like you're not there so um I I
+[33:34] personally find that hilarious but
+[33:37] uh there are a lot of people that live
+[33:39] in California
+[33:41] that say they that tell the tax man they
+[33:44] live somewhere else and phase like you
+[33:46] said big winner and then lost its Mojo
+[33:50] like you said it it scores a 39.7 so
+[33:52] that's below average for me but it's
+[33:54] mainly in the technical world meaning
+[33:57] this stock has been beaten up uh because
+[34:00] it was such a growth high flyer and
+[34:02] there was so much optimism built into
+[34:04] the stock when they started to
+[34:05] disappoint they really took this stock
+[34:08] down from highs uh in you know 2022 this
+[34:13] stock was a $300 stock even more uh I
+[34:18] think it hit a high of 320 we're now
+[34:21] trading at around 50
+[34:24] $62 um why that's interesting to me is
+[34:27] because the the fundamentals are still
+[34:29] really solid they did have negative
+[34:31] one-year sales growth of minus 2% but
+[34:35] positive oneye earnings growth 10%
+[34:37] positive three-year sales and earnings
+[34:39] growth of 48 and 61% each but this stock
+[34:43] is all about the forward all about their
+[34:45] comments even with a 19% profit margin
+[34:47] which is huge they do have a lot of debt
+[34:50] because they have a lot of
+[34:52] equipment uh you know to manufacture Etc
+[34:56] but with oneyear estimated earnings
+[34:58] growth at
+[34:59] 59% and one-ear estimated sales growth
+[35:01] at 23% those are some serious metrics so
+[35:05] if there's any wiggle room of surprise
+[35:09] in there with such a beaten down share
+[35:11] price I mean this thing could Gap up to
+[35:13] 75 easily um or even higher uh and if
+[35:18] they disappoint we're sort of already
+[35:20] down at the bottom of the barrel so
+[35:21] it'll be interesting to see now Walt
+[35:24] Disney is kind of a Powerhouse but what
+[35:25] do you expect for their earnings
+[35:29] you know they were good last quarter um
+[35:32] their sales supposed to be at
+[35:34] 4.2 uh earning supposed to be up
+[35:37] 17.4 looks like uh and the all have
+[35:41] revised estimates higher so it looks
+[35:43] like streaming starting to work um but
+[35:46] you know you're just one hit away from
+[35:49] your latest movie too so uh I I I
+[35:52] suspect they're going to surprise it
+[35:54] doesn't hit all my criteria but they are
+[35:56] improving
+[35:59] yeah Disney is
+[36:02] a sort of right outside that buy zone
+[36:06] for me 69 strong technicals but really
+[36:09] strong fundamentals I love the one in
+[36:12] threeyear sales and earnings growth they
+[36:14] do make a profit margin of 5% I'd like
+[36:16] to see that margin expand over time they
+[36:19] have tons of free cash flow which means
+[36:22] more Acquisitions of Brands and
+[36:23] franchises and things like that they're
+[36:26] still monetizing the St St Wars
+[36:28] acquisition from a couple of years ago
+[36:31] uh but we've seen a Slowdown in the roll
+[36:33] out of content at least I have but then
+[36:35] again I don't have kids who are watching
+[36:36] that stuff right now estimated to grow
+[36:39] earnings 13 a half% estimated to grow
+[36:41] sales 5 a half% each for next year um so
+[36:46] yeah the forward-looking statements are
+[36:48] critical but again this is a stock
+[36:50] that's gapped up after a really
+[36:53] disappointing summer uh the shares
+[36:56] traded down as low as call it 85 I think
+[37:00] uh so we're back up around 115 so if we
+[37:02] get any positive comments and they can
+[37:05] clear that high of
+[37:07] 121 which was earlier in the year in
+[37:09] March you know it's it's blue skies from
+[37:13] there so I'd be really interesting
+[37:16] interested to see positive comments
+[37:18] about growth metrics that exceed their
+[37:20] expectations this thing could trade
+[37:22] significantly higher now let's switch
+[37:24] over to qualcom incorporation what do
+[37:26] you expect for them they're not a bad
+[37:28] company they're not in my portfolios but
+[37:31] their sales are supposed to be up
+[37:34] 9.9 earning supposed to be up
+[37:37] 7.8 uh the Allens have revised higher
+[37:40] good earning surprise history so I
+[37:43] expect them to beat but like most techs
+[37:45] they're going to have to guide
+[37:47] higher yeah qualcomm's one I've owned
+[37:50] for a long time I'm up you know's call
+[37:52] it one and a half% uh one one and a half
+[37:56] times 150 % I'd like to see that uh
+[38:00] better performance for the amount of
+[38:01] time that I've owned the stock um that
+[38:04] said right now it's scoring 62 above mid
+[38:09] sort of right across the board
+[38:10] technicals and fundamentals sales and
+[38:13] earnings growth is is good um but sales
+[38:16] growth is in the single digit percent so
+[38:18] it's hard to grow your earnings if
+[38:20] you're not growing your sales
+[38:22] substantially unless you're cutting your
+[38:25] cost or increasing your margin
+[38:29] uh that said they make a very nice
+[38:30] profit margin of
+[38:32] 26% and they're slated to grow sales and
+[38:34] earnings next year in the singled digit
+[38:37] percent now uh the company has been sort
+[38:40] of trading in this sideways range since
+[38:42] July of last year so I'm looking for
+[38:47] anything to break the share price up or
+[38:49] down I think uh we're probably going to
+[38:52] see a beat and a guide higher which
+[38:55] could push the share price up towards
+[38:57] one 90 and on a path towards uh breaking
+[39:00] new highs that that if they disappoint
+[39:02] this thing is headed for lows so it's a
+[39:04] really binary situation I'm interested
+[39:07] to see what happens here Dad you're a
+[39:09] car guy what do you think about Ford
+[39:10] mortars probably gonna be the winner of
+[39:12] these tariffs because they have more us
+[39:15] plants than anybody else GM is pretty
+[39:17] much outsourced as
+[39:19] manufacturing um but their sales are
+[39:21] supposed to be down 9/10 of percent uh
+[39:24] earnings are supposed to be up 11.7
+[39:27] obvious they dominate
+[39:28] trucks uh and a lot of their trucks are
+[39:30] expensive like the Ford Raptor the
+[39:32] Bronco
+[39:34] Raptor um minor analyst uh Cuts here um
+[39:38] you know I think the main thing is they
+[39:40] have to guide higher uh they have been
+[39:43] losing money on electric the Maki is a
+[39:46] big seller in fact the the maki's
+[39:48] outsold the normal Mustang and so we
+[39:51] want some better guidance on the EV
+[39:54] front and an overall guidance but yeah
+[39:57] they still dominate trucks so they
+[39:59] should be fine but uh if these 25%
+[40:04] tariffs stick oh my God it's going to be
+[40:07] a windfall for for for Ford because
+[40:10] everybody in Canada and Mexico is going
+[40:12] to have to move back across the border
+[40:14] you know Ford's already here so uh this
+[40:18] really helps helps Ford Jim by the way
+[40:20] beat and uh then they went down uh so
+[40:25] uh this is going to be very very very
+[40:27] interesting yeah Ford's another one of
+[40:29] those saturated companies like you said
+[40:32] you know they had that nice bump bump
+[40:34] from the electric that electric Mustang
+[40:36] and all that stuff the F-150 is still I
+[40:40] think without question their best
+[40:42] product uh it's tried and true for the
+[40:44] pickup drivers that's sort of the the
+[40:47] gold standard uh the company ranks a 36
+[40:50] out of a 100 in my system so you know me
+[40:54] I'm not particularly interested in it
+[40:56] and that's because I love big growing
+[40:59] companies with expanding sales earnings
+[41:01] margins and that just has a great uh
+[41:05] forward view for continued strength Ford
+[41:09] on the other hand it's it's a ve very
+[41:11] old company it's cash cow it's it's
+[41:15] eeking out a 2% profit margin uh sales
+[41:18] and earnings growth aren't like
+[41:20] phenomenal they're positive it's not
+[41:23] great though three-year earnings growth
+[41:24] is down 111%
+[41:27] um the estimates for next year are
+[41:30] really what's interesting to me because
+[41:32] they're estimated to grow earnings next
+[41:35] year negative
+[41:37] 8.7% so shrinkage and they're estimated
+[41:40] to shrink sales negative
+[41:43] 1.3% now that said this stock is trading
+[41:46] down near lows for the year just above
+[41:48] 10 bucks so like Louie like you said if
+[41:53] if they guide higher you know we're
+[41:55] going to see some nice up Ward Revision
+[41:57] in the stock going back towards highs of
+[42:00] $14 that we saw in July um but you
+[42:06] know it's a sideways chart sideways
+[42:09] growth and it just EES it all out and a
+[42:12] lot of people own it for the dividend
+[42:14] it's got a nice forward yield um but
+[42:17] other than that it's not really
+[42:19] attractive to
+[42:20] me now what are your thoughts on kako
+[42:25] Phillips I don't conical Phillips
+[42:28] anymore I used to own it U but Exon uh
+[42:31] surprised here recently after gotten
+[42:34] lower um but kico sales are supposed to
+[42:37] be down
+[42:39] 7.1% their earnings supposed to be down
+[42:43] 23.7 uh the analysts have actually
+[42:45] revised their estimat slightly higher
+[42:47] this company also makes a lot of money
+[42:49] in refining although according to xon
+[42:52] that was under pressure um you know the
+[42:55] way refining works the bigger the
+[42:57] difference between the what we call the
+[42:59] crack spreads light oil and heavy oil
+[43:01] the more the refiners tend to make uh
+[43:04] but the spreads have been a little
+[43:05] tighter lately so um this company has a
+[43:08] history of beating I expect them to beat
+[43:10] but like anything guidance is key you
+[43:13] know and uh the the real energy boom
+[43:15] under Trump is not so much crude oil
+[43:17] it's Central gas so um uh you know maybe
+[43:21] that they can elaborate on that and and
+[43:23] give some powerful guidance yeah I think
+[43:26] it's a great point about the crude oil
+[43:28] um kico scores 48 right in the middle
+[43:32] has very strong fundamentals weak
+[43:34] technicals and a lot of those weak
+[43:36] technicals like you just said has to do
+[43:37] with crude oil you know looking at a
+[43:40] one-year chart of oil we've been very
+[43:42] range bound and right now oil is trading
+[43:45] at around 7230 right in the lower middle
+[43:49] part of the range um so without real
+[43:51] strength of oil price analysts are not
+[43:54] expecting expanded margins on these
+[43:57] major producers and you can see the
+[44:00] share price of kico Phillips greatly
+[44:03] mirrors what oil has been doing you know
+[44:06] that said like I said scores of 48 um
+[44:09] the company's got really strong
+[44:12] fundamentals in the sense that uh
+[44:16] oneyear sales and earnings growth while
+[44:19] negative threeyear sales and earnings
+[44:21] growth is huge uh profit margin of 19%
+[44:24] so that oneyear compression of margin is
+[44:27] really hurting them they're estimated to
+[44:29] grow earnings 6.2% next year and sales
+[44:33] 135% next year but I you know until you
+[44:37] see significant uh upward price on the
+[44:40] price of oil I don't think this thing is
+[44:43] going to be reporting Rosie guidance um
+[44:47] so I'm not expecting much from kanuka no
+[44:50] we all love Amazon and correct me if I'm
+[44:52] wrong I do think that we can expect good
+[44:54] things from
+[44:55] them yeah they um they at one time you
+[44:59] know just used to make money on uh AWS
+[45:03] their cloud
+[45:04] computing and um but now they make money
+[45:07] on everything and a lot of the delivery
+[45:10] is now being outsourced um so they got
+[45:14] Bean counters running Amazon now their
+[45:17] sales are supposed to be up
+[45:19] 10.2 uh their earnings supposed to be
+[45:22] 48.6 uh we got positive allance
+[45:24] revisions uh big surprises
+[45:27] your mom owns it um I don't I I hold it
+[45:31] for some clients but it's not my perer
+[45:33] models but I do expect it to do very
+[45:36] very
+[45:38] well yeah this is another stock I don't
+[45:41] B bet against
+[45:42] 75.9 right in the middle of our buy Zone
+[45:46] what I look at very strong technicals
+[45:48] solid fundamentals could be a little
+[45:50] better here's where it is for Amazon
+[45:53] it's about the margin growth now the
+[45:56] profit margin
+[45:57] you can't expect tremendous growth the
+[46:00] way it had for nearly two decades uh
+[46:03] just growing those sales with negative
+[46:06] earnings forever now like like you said
+[46:08] they're making money they're making a 5%
+[46:10] profit margin so they're estimated to
+[46:14] grow sales uh
+[46:16] 21.7% next year and earnings around
+[46:20] sorry uh let me reverse that they're
+[46:22] estimated to grow earnings
+[46:24] 21.7% next year and sales
+[46:27] 10.8% so each incremental growth that
+[46:30] they're seeing if they can manage their
+[46:32] margins that's going to translate into
+[46:34] bottom line growth and that's where the
+[46:36] real power of this company can be it
+[46:39] doesn't necessarily have to grow sales
+[46:40] and earnings but now that they're
+[46:42] turning profitability in other divisions
+[46:45] uh you know that's a good forecast for
+[46:47] future strength so the growth I'd like
+[46:50] to focus on is in the profit margin the
+[46:53] the other example of how Amazon squeezes
+[46:56] people you um UPS had uh horrible
+[46:59] results and um they are actually going
+[47:02] to deliver less Amazon products uh
+[47:06] because I guess Amazon was squeezing
+[47:07] them too hard so
+[47:10] wow it just shows how the bean counters
+[47:12] are running Amazon right now and finally
+[47:15] what are your expectations for fordon
+[47:17] net well this company is uh uh a big um
+[47:23] Service Company to the cloud and uh they
+[47:26] provide far walls all kinds of good
+[47:29] stuff they are a bell weather um so we
+[47:33] want to see what they say about the
+[47:35] cloud and security Etc uh their sales
+[47:38] are supposed to be up 12.8 earnings
+[47:41] supposed to be up
+[47:43] 19.1 um POS of bance revisions it looks
+[47:47] like it's going to be a nice surprise I
+[47:49] do not own the stock at this time I have
+[47:51] owned it in the
+[47:53] past yeah foret is in Anonymous with
+[47:57] cyber security in this day and age where
+[48:00] people are getting ripped off left and
+[48:01] right and there scams all over the place
+[48:03] their products and services are in high
+[48:05] demand this thing is one that I have not
+[48:08] bet against in the past it's
+[48:10] 79.3 it's got that golden score for me
+[48:14] really strong fundamentals
+[48:16] 75% if anything the technicals are a
+[48:19] little overheated so if they meet
+[48:23] expectations and they don't issue
+[48:25] stronger guidance I would expect share
+[48:27] prices to trade down however this thing
+[48:30] has a strong history of beating and
+[48:34] guiding higher and a massive growth
+[48:36] engine so we're talking oneyear sales
+[48:38] growth at 20% earnings growth is
+[48:41] 36% the three year is similar uh higher
+[48:45] double digits it makes a nasty profit
+[48:48] margin of 22% they have tons of free
+[48:51] cash flow and they're slated to grow
+[48:53] earnings next year
+[48:55] 88.1% and sales
+[48:58] 12.4% I mean the shares have risen 326
+[49:01] per in five years and they do that on
+[49:04] these historic beats they Gap up they
+[49:07] Gap up they Gap up they've seen a lot of
+[49:09] institutional money flows um they don't
+[49:12] pay a dividend yet so they're still in
+[49:13] very strong growth mode I really like uh
+[49:17] this setup for this company but it is
+[49:19] predicated on keeping that Rosy guidance
+[49:23] and keeping optimism because if they
+[49:25] just meet which might be phenomenal
+[49:28] numbers and they don't guide higher I
+[49:30] think we would see pressure on the share
+[49:32] price now let's switch over to
+[49:33] subscriber questions one of our
+[49:34] subscribers wanted to know what your
+[49:36] thoughts were are on
+[49:39] smci I'm still uncomfortable with smci
+[49:42] because they're forecasted sales are
+[49:44] 180.4 per. and earnings are forecast 11
+[49:48] 19.6 I know they have a new auditor um
+[49:51] the Anice are still revising their
+[49:53] estimates
+[49:54] higher um and so um I'm going to wait
+[49:58] for the earnings to go dramatically
+[50:00] higher you know we do have a friend in
+[50:02] the in the AI business chip business he
+[50:05] says that super micro makes the best
+[50:07] rack system best servers by far uh dell
+[50:11] and HP have not been able to really
+[50:13] capture market
+[50:14] share so I'm sticking with the stock
+[50:17] obviously I bought it a long time ago
+[50:19] well before anybody knew about it I
+[50:21] still have huge capital
+[50:22] gains I I don't want to realize but I do
+[50:26] want those good or needs to come out and
+[50:28] drop kick and drive that stock higher
+[50:29] and of course they have a new auditor so
+[50:31] they're going to announce a couple
+[50:32] quarters I believe when they announce
+[50:34] yeah this is a stock that I hold in a
+[50:36] publishing portfolio you know we doubled
+[50:41] then tripled our money took two-thirds
+[50:43] off the table I hold the rest for free
+[50:46] but I'm with you Louie I mean the stock
+[50:48] scores of 50 right in the middle
+[50:51] technically it's a 32 fundamentally it's
+[50:54] a 75 so this is one of those instances
+[50:58] where people beat it up because they
+[51:00] thought the growth is
+[51:02] unsustainable um and then you know the
+[51:05] most recent pressure uh with AI
+[51:11] um uh affected the stock a couple of
+[51:14] days ago the Deep seek thing uh and like
+[51:17] you said they had the sort of accounting
+[51:20] Scandal and all that stuff they have a
+[51:22] new auditor they fought off the short
+[51:24] sellers report the shares have been tra
+[51:26] ing near lows uh but you look under the
+[51:29] hood and it's a totally different story
+[51:31] 110% one-year sales growth 80% one-year
+[51:35] earnings growth three-year sales growth
+[51:38] 64% three-year earnings growth
+[51:40] 117% they make a profit margin of 8%
+[51:43] which should be expanding because
+[51:45] they're estimating sales to grow uh 21%
+[51:49] next year and earnings to grow 23% next
+[51:52] year stocks up
+[51:54] 900% in 5 years
+[51:57] even though it's trading uh down
+[51:59] significantly from highs of 118 it's
+[52:02] trading near
+[52:03] 28 um I think there's a lot of Runway
+[52:06] they make a great product their servers
+[52:09] are optimized to be green so more energy
+[52:12] efficient power efficient so your
+[52:13] savings on the powering cost nobody else
+[52:16] really has that slant and nobody's
+[52:18] growing like them so uh I think this is
+[52:21] a case where they got uh humbled a
+[52:25] little bit and um I'd be interested for
+[52:28] one to see if growth is going to resume
+[52:30] these or maintain these phenomenal
+[52:33] digits another one of our subscribers
+[52:34] wanted to know what your thoughts were
+[52:36] are on
+[52:38] PSN that's Parson's group um their um
+[52:41] sales earnings look wonderful um just so
+[52:45] everybody knows um their sales supposed
+[52:47] to be up
+[52:50] 17.6 earning is supposed to be at
+[52:52] 32.3 and also revised your estimates
+[52:55] from 84 cents to 9 1 cents the last 90
+[52:58] days um great Earnie surprise history
+[53:01] and Lock and Load on pars I'm not
+[53:03] worried about it at all uh was impacted
+[53:06] by um the uh deep seek news because it
+[53:11] does um a lot of work with the cloud
+[53:14] computing and things like that but they
+[53:16] they also provide a lot of services to
+[53:18] the government so I'm not worried about
+[53:20] this stock one
+[53:22] bit yeah this is another one where we
+[53:25] overlap I have this in a publishing
+[53:27] portfolio right now it's scoring a 50
+[53:30] but it's the same story as smci
+[53:32] technically it's weak uh you know beat
+[53:34] up with deep seek like you said um
+[53:36] fundamentally it's one of the best out
+[53:39] there 79% scoring for me and that's due
+[53:42] to huge one-year sales and earnings
+[53:45] growth very strong three-year sales and
+[53:48] earnings growth it is making a profit
+[53:51] margin which should expand with these
+[53:53] Rosy one-year estimates so I'm really
+[53:57] interested to see the one-year earnings
+[53:59] estimate right now is
+[54:01] 15.1% and the one-year sales estimate
+[54:04] 8.8% growth if we get any any sort of
+[54:09] beat in there and positive
+[54:11] forward-looking statements you know this
+[54:14] share price has gone straight down from
+[54:17] a high of 112 to where are we now around
+[54:20] 80 bucks uh there's been a lot of
+[54:23] pressure when I see a lot of pressure on
+[54:25] a fundamentally super Superior stock and
+[54:28] people get caught off sides on a really
+[54:31] positive earnings uh call you know I I
+[54:36] say a little prayer for the shorts is
+[54:38] all I'm saying I I I expect good things
+[54:40] for person and I would add that Parsons
+[54:43] is um provides the FAA with a lot of
+[54:46] systems obviously the FAA is under
+[54:48] scrutiny to the to the tragic CRA crash
+[54:51] in DC um but this is a huge government
+[54:55] contractor and
+[54:56] um you know they they do cyber security
+[54:59] missile defense intelligence masing
+[55:02] ground
+[55:03] systems
+[55:05] um they I Su you know I assume they have
+[55:09] somebody sucking up to the Trump
+[55:10] Administration right now um because they
+[55:13] have a lot of business with the
+[55:15] government and they're huge in the cloud
+[55:17] all those servers you see in Virginia on
+[55:20] the way to to Dallas Airport U they're
+[55:22] in there uh using operating those a lot
+[55:26] of those
+[55:28] things now before we end I think we need
+[55:31] to talk about the Trump
+[55:32] tariffs yeah I'm a little surprised I
+[55:35] thought Mexico and Canada were our
+[55:37] friends um I thought that
+[55:41] um I I thought that they would do
+[55:44] exactly what Trump wanted them to do and
+[55:46] then the tariffs would not M show up but
+[55:49] I'm
+[55:50] wrong and uh so if this is how he treats
+[55:53] our
+[55:54] friends uh God help every all the other
+[55:56] countries okay um so uh that means 100%
+[56:01] tariffs on China could really happen and
+[56:04] um we'll see how Europe sucks up to us
+[56:06] as well um but um you know Trump wants
+[56:10] to replace the income tax system with
+[56:13] tariffs and that's what the government
+[56:14] used to do U before we had an income tax
+[56:17] and if he succeeds in doing this uh
+[56:20] he'll go down history as a as as a great
+[56:23] president but the um it's it's risky
+[56:27] what doing what he's doing is is very
+[56:29] risky and it's creating a lot of
+[56:30] uncertainty yeah so Trump tariffs we've
+[56:32] moved from being a um producer nation in
+[56:37] the 50s 60s 7s to a consumer Nation
+[56:41] almost exclusively so setting up tariffs
+[56:44] on items that come in or out you know I
+[56:50] always felt like this was Trump's
+[56:52] bargaining chip this was his posturing
+[56:55] he's pounding his chest flexing his
+[56:57] muscle but it's almost like you said the
+[56:59] dog that caught the car now what he
+[57:01] can't go back on it so we'll be really
+[57:04] interesting to say because I always felt
+[57:07] like these were threats to get uh people
+[57:10] to do what he wanted and and we saw that
+[57:12] with Colombia right he said we're going
+[57:14] to deport detainees Colombia said no he
+[57:17] said fine here's a 25% tariff Colombia
+[57:20] said never mind we were just kidding
+[57:22] we'll do whatever you want and we'll
+[57:24] take an unlimited number of details
+[57:26] and I think that was the tact that he
+[57:29] was going for with everyone so it's
+[57:32] really interesting to see because like
+[57:34] you said it is risky it has a lot of uh
+[57:38] of implications but
+[57:40] um uh it's an interesting time he is
+[57:43] focused on America you can't argue that
+[57:45] yeah Canada grew at 1.8% in the fourth
+[57:48] quarter I think that's the annualized
+[57:50] rate uh they will be in a recession uh
+[57:52] if these tariffs kick in and uh he will
+[57:56] basically tell them that move your
+[57:59] manufacturing to America and and uh he's
+[58:01] already told that to Europe Volkswagen's
+[58:03] responded positively um I I'm I'm a
+[58:07] little surprised you know Canada's
+[58:09] biggest Leverage is power uh
+[58:12] manufacturing always goes where there's
+[58:14] cheap
+[58:15] electricity and uh they I guess they
+[58:17] could put some tariffs on uh on the
+[58:19] hydro they sell us so they got some
+[58:21] direct current
+[58:22] grids um he's putting a 25% tariff on
+[58:25] Alberto oil you know that and there's no
+[58:28] pipelines in Canada to go elsewhere they
+[58:31] have to send it through America so this
+[58:33] is getting to be very interesting and
+[58:36] now we go back to Mexico we got leverage
+[58:38] on them because they're they're they're
+[58:40] buying us gas to uh to run their
+[58:43] manufacturing so it's this is going to
+[58:45] be compound complex but uh Canada will
+[58:48] definitely go into recession if this
+[58:50] kits and I think he
+[58:52] relishes telling the Canadian workers
+[58:55] you just moved America I'll give you
+[58:56] work permits and um I think that I I'm
+[59:00] going to this is a wild card it's it's a
+[59:03] lot to make people move you
+[59:05] know uh I'm sure GM and everybody's
+[59:08] talking to him right now and it's this
+[59:12] is a this is the biggest game of chicken
+[59:14] I think I've ever seen and um I have no
+[59:16] idea how it's going to turn out it is
+[59:19] it's also interesting when you factor in
+[59:21] you know how big tech places like Apple
+[59:26] their headquarters to Ireland in tax
+[59:28] safe places uh during a democratic
+[59:31] administration because you got to pay
+[59:33] your fair share and we see an example
+[59:35] where the people who have the means like
+[59:38] large multi-billion dollar corporations
+[59:40] just pick up and move and Trump doesn't
+[59:43] want that he wants them all coming back
+[59:45] so let's not forget about that in the
+[59:47] Arsenal either he can you know he hasn't
+[59:51] even talked about tax policy he's trying
+[59:53] tariffs first see where that goes then
+[59:56] talk about taxation to repatriate some
+[59:58] of these companies and production in
+[01:00:00] dollars here in the states so I think he
+[01:00:02] has a few things in his Arsenal to try
+[01:00:05] but uh we know he's a ruthless
+[01:00:08] negotiator and he's willing to uh to get
+[01:00:11] down and dirty and that's what it looks
+[01:00:13] like might be happening yeah so if I was
+[01:00:16] Canada Mexico I would just
+[01:00:18] be I'd be having the biggest hissy fit
+[01:00:21] uh right now I mean they if they're not
+[01:00:24] in DC on Saturday I'll be sh
+[01:00:27] well I appreciate you both for answering
+[01:00:29] all my questions and for all your
+[01:00:30] Insight and thank you to you all for
+[01:00:32] liking and subscribing and also
+[01:00:35] commenting we really appreciate all your
+[01:00:36] comments if you would like to ask any
+[01:00:38] questions for the next video please
+[01:00:40] leave them in the comments below but
+[01:00:42] until then we will see you all next week
+[01:00:44] to discuss a new round of stocks for
+[01:00:45] their earning announcement season thank
+[01:00:48] you so much
+[01:00:49] [Applause]
+[01:00:50] [Music]

@@ -7,9 +7,21 @@ Type: short
 Duration: 0:28 (28s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 13
+Transcript characters: 467
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Analog Devices reports this week, and if
+[00:02] you own anything that runs on a chip,
+[00:04] you should be watching this one. Dad,
+[00:06] what do you expect for them?
+[00:07] >> Their sales are supposed to be up 33.1%
+[00:09] according to the analyst community.
+[00:11] Earnings are supposed to be 56.9%.
+[00:14] We have positive analyst revisions in
+[00:16] the last 3 months, and the stock has a
+[00:18] very good surprise history and and very
+[00:21] steady sales growth. This is a very safe
+[00:24] semiconductor, and I think it'll it'll
+[00:26] beat and guide higher.

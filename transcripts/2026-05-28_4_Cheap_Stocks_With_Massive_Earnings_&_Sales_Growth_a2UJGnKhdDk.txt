@@ -7,9 +7,332 @@ Type: video
 Duration: 12:00 (720s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 324
+Transcript characters: 11453
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] You all asked for cheap stocks with real
+[00:02] fundamentals, so here is your bonus
+[00:04] episode. Before we get into the names,
+[00:06] Dad, why are low-priced stocks worth
+[00:09] paying attention to right now
+[00:10] specifically? A lot of investors just
+[00:13] default to the big names.
+[00:14] >> Well, there's a perception out there
+[00:16] that people buy stocks that are low
+[00:19] price, they can potentially make more
+[00:21] money. And I can tell you that I don't
+[00:24] really believe in that, but there's no
+[00:26] doubt if you buy a $5 stock and it goes
+[00:27] to 15, it's you're going to make a lot
+[00:29] of money. So,
+[00:31] I have not validated that through my own
+[00:33] research, but it is just a bias people
+[00:36] have out there to buy
+[00:37] a low-priced stocks, and I happen to
+[00:39] found four of them that have great
+[00:41] fundamentals, so we should talk about.
+[00:43] >> So, are earnings a surprise factor that
+[00:45] are amplified at smaller companies that
+[00:48] a beat would normally barely move a mega
+[00:50] cap?
+[00:50] >> Well, yeah, that the small caps again
+[00:52] are like bunnies.
+[00:54] You've had lots of bunny analogies, but
+[00:57] yeah, that
+[00:59] they tend to react more to the actual
+[01:01] quarterly earnings announcements than
+[01:03] the big stocks. The big stocks often
+[01:05] anticipate the quarterly earnings. As
+[01:07] you saw what Nvidia did this last
+[01:10] earnings announcement season, it ran up
+[01:12] before their earnings came out. They
+[01:13] even right now we have Micron running
+[01:15] before its earnings have come out. So,
+[01:17] big stocks tend to anticipate earnings,
+[01:19] small caps and low-priced stocks tend to
+[01:22] react in the wake of their earnings.
+[01:24] >> Let's start out with stock number one
+[01:25] that you found. This is an AI play, but
+[01:27] not the kind people are used to hearing
+[01:29] about. What is this company and what do
+[01:31] they actually do?
+[01:32] >> Well, this is eGain, the ticker is EGAN,
+[01:36] and they're a software stock and they
+[01:37] have an AI agent that their customers
+[01:40] can use for better customer service. So,
+[01:43] here's the deal. Their revenue was up
+[01:45] 7.1% in the latest quarter, and then
+[01:48] their earnings rose to 9 cents a share.
+[01:51] A year ago, they were 0 cents, so that
+[01:54] was almost an infinite gain. And
+[01:56] excluding their extraordinary items, or
+[01:58] operating earnings are even stronger
+[01:59] than they were 11 cents a share. Now,
+[02:01] their
+[02:02] earnings were basically 57.5% better
+[02:06] than analysts expected, so that's
+[02:07] outstanding. And they did post a tiny
+[02:10] revenue surprise as well. This stock had
+[02:12] been under pressure, I think, with the
+[02:14] selling pressure on software stocks,
+[02:16] with the perception AI is going to
+[02:18] replace all software, and there was this
+[02:20] selling pressure in the sector. So, this
+[02:22] stock did get caught up in that, but in
+[02:24] the wake of these latest quarterly
+[02:26] results and that 57.5% earnings
+[02:28] surprise, I think this stock's a
+[02:30] phenomenal near-term buy. EGAN, E-gain.
+[02:33] >> All right, now let's go into stock
+[02:34] number two. We go from AI software to a
+[02:37] gold miner. Sales are forecasted to
+[02:40] surge. Dad, what is this stock and what
+[02:43] is this company?
+[02:44] >> Well, this is TRX, which is our
+[02:45] lowest-priced gold stock of the 20-plus
+[02:48] gold stocks we recommend. Uh their sales
+[02:50] are forecasted to go up 187
+[02:53] uh percent. The analysts have revised
+[02:55] their estimates to 4 cents a share um
+[02:57] just up from 2 cents several days ago.
+[02:59] So, they doubled their earnings
+[03:01] estimate. This stock does have a great
+[03:03] earnings surprise history, which is
+[03:04] important because not every gold stock
+[03:06] does that. So, I like the upward analyst
+[03:08] revisions. Now, please, please, when you
+[03:10] buy my gold stocks, we're buying them
+[03:12] for sales and earnings. We're not buying
+[03:14] them for the gold prices, okay? So, our
+[03:17] gold stocks all have very strong
+[03:19] forecasts of sales and earnings for up
+[03:21] to three quarters out. So, this is a
+[03:23] stock that will continue to have record
+[03:26] sales and earnings. Gold prices are
+[03:28] expected to remain elevated largely due
+[03:30] to central bank buying pressure, okay?
+[03:33] And what happens is when the the yield
+[03:35] curve tilts up, some of the banks lose
+[03:37] money with their treasury operations.
+[03:39] That happened with the French central
+[03:41] bank. They have to use their gold
+[03:42] reserves to offset those trading losses
+[03:45] or the losses that happen when interest
+[03:47] rates go up. So, that's why we own gold
+[03:50] stocks. But TRX is the smallest, It's
+[03:52] got positive analyst revisions and it
+[03:54] should have a nice surprise. So, if
+[03:57] you're looking for something that can go
+[03:59] up a lot, it would be TRX.
+[04:00] >> While we're on the topic of gold, let's
+[04:02] get into stock number three. Dad, talk
+[04:05] to us a little bit about this one and
+[04:06] why this is your third pick.
+[04:08] >> This is Integra Resources. Their sales
+[04:10] are forecast to go up 45.2%.
+[04:13] Uh earnings are forecast to rise 71.4.
+[04:16] The analysts have raised their estimates
+[04:18] to 12 cents up from 10 cents just a
+[04:20] month ago. It This one has a more
+[04:23] erratic earnings surprise history, but
+[04:25] the surprises aren't as important on
+[04:27] gold stocks
+[04:28] some other sectors, but the bottom line
+[04:31] is it's strong sales, strong earnings.
+[04:33] Obviously, there's a a gold and silver
+[04:35] boom. That's what they do. So, another
+[04:37] low-priced gold miner that you can bet
+[04:39] on.
+[04:39] >> All right, let's get into stock number
+[04:41] four. Please share with everyone why
+[04:43] this one was your fourth pick.
+[04:45] >> Intellicheck provides basically ID
+[04:48] services, age verification services.
+[04:51] It's an important software that
+[04:54] obviously many retailers have to use.
+[04:56] Now, their sales were up 12.9% last
+[04:59] quarter. Their earnings came in line
+[05:02] with analysts' expectations of 3 cents a
+[05:04] share and the stock kind of went down
+[05:06] after that because
+[05:08] sales were just a tad below analyst
+[05:09] estimates and earnings were in line.
+[05:11] But, the analyst community has revised
+[05:14] their estimates from only 1 cent to 4
+[05:17] cents for next quarter in the past
+[05:18] month. So, that's a big 300% upward
+[05:21] analyst earnings revision. And again, we
+[05:24] usually get positive analyst earnings
+[05:25] revisions before big earnings surprises.
+[05:28] So, even though IDN did not surprise
+[05:31] last quarter, was in line, I'm
+[05:33] anticipating a big surprise next
+[05:34] quarter. Uh the stock has pulled back. I
+[05:37] do think it's a very good near-term buy.
+[05:39] >> Let's just do a quick recap before we
+[05:41] get into some of your other subscriber
+[05:42] questions. First stock, we have eGain,
+[05:45] 57% earnings surprise. We have TRX gold
+[05:49] mining and massive sales forecast. I T R
+[05:53] G another great gold miner and lastly
+[05:56] IDN with rising estimates. Let's get to
+[05:59] your questions. One of our subscribers
+[06:01] asked about MXL Max linear. What are you
+[06:05] seeing for this company?
+[06:06] >> Well, I think we have very smart
+[06:08] subscribers because MXL sales are
+[06:11] forecast up at 51.3%.
+[06:13] That's excellent. Their earnings are
+[06:16] supposed to be up 1,547.4%.
+[06:20] Obviously, that's outstanding. The AL's
+[06:22] community in the past month has gone
+[06:25] from 19 cents a share estimate to 33
+[06:28] cents. That's a big upward revision and
+[06:30] this stock has a wonderful earning
+[06:32] surprise history. So, uh Max linear is
+[06:35] hitting on all cylinders. Uh it ranks
+[06:37] well in our criteria and I'm expecting a
+[06:40] a nice surprise because of those upward
+[06:43] analyst revisions and just so everybody
+[06:45] knows, this company makes a
+[06:47] communication chips. Uh they're involved
+[06:50] in radio frequency and digital
+[06:52] processing. So, they're they're also
+[06:55] involved in data compression. So,
+[06:57] they're behind the scenes
+[06:59] 4G and 5G, but their business is very
+[07:02] good right now.
+[07:02] >> Another subscriber asked about RDW
+[07:05] Redwire. They're space infrastructure.
+[07:07] Where do you stand on this company?
+[07:09] >> Well, like a lot of space stocks, it's
+[07:11] pretty exciting. Their sales are
+[07:13] supposed to be up 73.9%.
+[07:16] Obviously, that's outstanding.
+[07:18] Unfortunately, they're not earning money
+[07:20] yet. Uh they're forecast to lose 15
+[07:22] cents a share. They are forecast to lose
+[07:25] money all next year. So, yeah, if you
+[07:28] want to play this space game, here you
+[07:30] got a a stock with explosive sales
+[07:31] growth, but unfortunately, no earnings
+[07:34] growth and they did surprise last
+[07:37] quarter, but before that they missed.
+[07:39] So, I am going to avoid red wire until
+[07:43] it's more predictable.
+[07:45] It scores better on our eight factor
+[07:46] fundamental model.
+[07:47] >> Another viewer commented, "What would
+[07:49] you say to SMCI fans who want to buy
+[07:51] more before the stock goes up?"
+[07:53] >> I think uh as much as
+[07:56] I love SMCI and own a ton of it, okay? I
+[08:00] think uh it should be a hold for most
+[08:02] people. And the reason is is Jensen
+[08:04] Huang from Nvidia did tell them in a
+[08:07] nice way to get their act together
+[08:09] because they were accused of making
+[08:11] water-cooled rack systems in Taiwan and
+[08:14] selling those to China, okay? And
+[08:16] obviously that's why their co-founder
+[08:17] got charged and had to resign from the
+[08:20] company. Now, I think that's a good
+[08:21] development cuz that co-founder was a
+[08:23] bit of a caustic fellow that caused some
+[08:25] confusion. There's no doubt that SMCI
+[08:28] has a massive, massive order backlog
+[08:30] that is going to continue to have over
+[08:33] 100% sales growth moving forward. Their
+[08:36] operating margins are re-expanding, so
+[08:38] their earnings should uh be growing
+[08:40] faster than sales.
+[08:42] But the stock just is not acting as well
+[08:44] in our quantitative model. In our
+[08:46] fundamental model, it's perfect. Scores
+[08:48] perfectly. So, I think it's a a solid
+[08:51] hold. I do not want to sell it, but it
+[08:54] has fallen rank in my quantitative model
+[08:56] because of all the volatility. So,
+[08:58] again, I don't mean to be a buzzkill. I
+[09:00] own the stock. I think we're up a little
+[09:02] more than 600% in it and it will
+[09:04] continue to go higher, but I have so
+[09:06] many AI stocks to pick from that are
+[09:08] going to give you a smoother ride.
+[09:09] >> Now, UI took a big hit. Were their
+[09:11] earnings really that bad?
+[09:13] >> There is confusion over Ubiquiti's
+[09:15] overall earnings and their operating
+[09:17] earnings. So, I'm going to give you
+[09:18] both. Their net income was $3.86 a share
+[09:22] uh compared to $2.98 a share a year ago.
+[09:25] And that was fine. Their operating
+[09:28] earnings, this is the one the analysts
+[09:29] pay attention to, was $3.88 a share
+[09:33] compared to $3 a share a year ago. And
+[09:35] those operating earnings beat Zacks
+[09:38] consensus estimates by 70 cents. So
+[09:40] Zacks was estimating $3.18,
+[09:43] they earned $3.88 cents a share.
+[09:46] Revenues by the way
+[09:48] grew impressively and also beat Zacks
+[09:52] estimates. The problem is there's other
+[09:54] services out there that says Ubiquiti
+[09:56] missed operator earnings by 9 and 1/2%.
+[10:00] So the question is do you believe Zacks
+[10:02] or do you believe the other services?
+[10:04] That's the confusion, okay? And the
+[10:06] stock went down on that news because
+[10:08] anything that's negative on the
+[10:11] headlines will take the stock down. As
+[10:13] far as I'm concerned, this company's
+[10:16] going to continue to have very good
+[10:17] sales and earnings growth. They make
+[10:19] networking solutions not only for our
+[10:22] homes and businesses, but especially for
+[10:24] the data centers, especially the 10G
+[10:26] hookups for all the fiber optic
+[10:28] connections. So this company will
+[10:30] continue to benefit from the data center
+[10:32] boom as are many companies like Cisco
+[10:34] Systems for example. So I'm going to
+[10:37] stick this out for another quarter and
+[10:39] hopefully that during that next quarter
+[10:41] everybody agrees on the surprises that
+[10:43] this company generates.
+[10:45] >> Let's answer one more subscriber
+[10:46] question. In a recent video we were
+[10:48] talking about SpaceX IPO and one way
+[10:52] about it is the Baron funds. Can you
+[10:54] talk a little bit about what that is and
+[10:56] if people should invest in them?
+[10:57] >> Sure. Well Ron Baron is an Elon fan boy.
+[11:01] He I don't think he's ever sold any of
+[11:03] his Tesla stock. If he hasn't, I I don't
+[11:05] remember. And he has a massive interest
+[11:07] in the SpaceX. He bought in when it was
+[11:10] private. It's very hard to do that in a
+[11:12] mutual fund, but he's got a special fund
+[11:14] charter to do that. So if you did want
+[11:16] to get access to the SpaceX before the
+[11:18] IPO, you could take an interest in one
+[11:21] of the Baron funds. I would encourage
+[11:23] you to compare all them to Morningstar.
+[11:26] They'll show you what their holdings are
+[11:27] and you can buy the ones that have the
+[11:29] SpaceX holdings. There's also a pretty
+[11:32] good CNBC article. If you just Google a
+[11:34] CNBC Ron Baron, it should show up and
+[11:37] it'll talk about this. But yeah, Ron
+[11:39] Baron has bet on Elon. I bet on Jensen
+[11:41] Huang, Alex Karp, some other
+[11:43] billionaires. Ron Baron has bet on Elon
+[11:46] and has rewarded him handsomely.
+[11:48] >> We hope you enjoyed this bonus episode.
+[11:50] Stay tuned for Sunday's video. We'll be
+[11:52] having a special guest as well. As
+[11:54] always, drop any questions that you want
+[11:56] us to answer. Well, we'll see you this
+[11:58] Sunday for a new video.

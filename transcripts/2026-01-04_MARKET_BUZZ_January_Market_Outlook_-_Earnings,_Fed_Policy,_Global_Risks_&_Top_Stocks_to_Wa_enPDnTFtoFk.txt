@@ -7,9 +7,392 @@ Type: video
 Duration: 15:21 (921s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 384
+Transcript characters: 13534
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Happy New Year, everyone. January is
+[00:02] historically a strong month for markets
+[00:04] with record sales, earnings, and
+[00:06] positive guidance often right around the
+[00:08] corner. But, are markets setting up that
+[00:10] way again this year? Welcome back to
+[00:12] Navellier Market Buzz.
+[00:14] [Applause]
+[00:15] [Music]
+[00:27] The stock market seems to have lost a
+[00:28] little bit of momentum lately. Is this
+[00:30] just a slow holiday trading, or is it
+[00:33] something more? It's basically holiday
+[00:35] trading, but
+[00:36] the good news today, which is the first
+[00:39] business day in January, we did see our
+[00:41] data center stocks explode. So, that was
+[00:44] a good sign that
+[00:46] what we call the creme de la creme, the
+[00:48] quality stocks, are tracking
+[00:49] institutional buying pressure. So, I
+[00:52] have hope. That's 45% of my portfolio,
+[00:54] so I'm off to a strong start for the
+[00:56] year. Our friends at Bespoke released
+[00:58] their fourth-quarter
+[01:00] report, and it looks unusually mixed
+[01:02] with no clear trend. What do you think
+[01:05] the market is telling us here? Yeah,
+[01:06] that data center report you're showing,
+[01:08] if you look at the bottom right-hand
+[01:11] corner, that is the
+[01:13] the best-performing stocks.
+[01:16] They're up over 4.7% in the fourth
+[01:18] quarter, and they were actually the
+[01:19] worst-performing stocks prior to fourth
+[01:21] quarter. So, that was just evidence that
+[01:24] we had a mean reversion rally, a
+[01:27] low-quality rally. We confirmed that
+[01:29] when we tested our ABCD F stock rating
+[01:32] that the F stocks did unusually well.
+[01:35] And when you get those kind of rallies,
+[01:37] they don't last very long. They're not
+[01:39] sustainable. So, we expect that there to
+[01:42] be a big flip in January where those
+[01:45] kind of stocks will fizzle. The creme de
+[01:48] la creme like we own, the stocks with
+[01:49] good sales and earnings, will uh
+[01:51] reassert their leadership. And so, we're
+[01:54] off to a good start, and
+[01:56] but it that was an unfortunate thing
+[01:58] that happened in the fourth quarter. It
+[01:59] actually started October 22nd, ran
+[02:01] through mid-November. That there were
+[02:03] just a lot of turmoil. This is when all
+[02:05] the
+[02:06] people were questioning the valuation of
+[02:08] AI, and they were even questioning the
+[02:10] value of Costco and other valuations,
+[02:13] and short-sellers like Michael Burry
+[02:15] were being glorified by the media. So,
+[02:18] that really did disrupt the market quite
+[02:20] a bit, but now it's time for earnings,
+[02:21] and it's judgment day in the next few
+[02:24] weeks.
+[02:25] Now, speaking of the fourth quarter,
+[02:28] Tesla warned that production may come in
+[02:30] lower than expected. What does this
+[02:32] signal for Tesla? Yeah, they did
+[02:34] announce their fourth-quarter sales
+[02:36] today, and they were even lower than the
+[02:38] expectations, but the stock didn't get
+[02:40] hit.
+[02:41] So, basically, here's what's going on.
+[02:43] Tesla sales have declined for 2 years in
+[02:46] a row on on their EVs. BYD is now the
+[02:49] largest seller of EVs in the world, and
+[02:52] Tesla is really focused more on its
+[02:55] other businesses like energy storage,
+[02:57] which is a very good business for for
+[02:59] them right now. They are also obsessed
+[03:02] with the robo-taxi. Elon's vision is
+[03:05] that we will not need cars one day. We
+[03:07] will just summon these these cars or
+[03:10] pods to take us around. And so, they are
+[03:13] going full force on the robo-taxi
+[03:15] business, and that is why investors in
+[03:18] Tesla are excited, and why Tesla's been
+[03:21] doing relatively well. But, we'll see if
+[03:23] Elon can fulfill that vision. Now, we're
+[03:26] starting the new year with major
+[03:27] international developments, a blackout
+[03:29] in Moscow, and escalating protests in
+[03:32] Iran. Can events like these have a real
+[03:35] impact on the stock market? Yeah, they
+[03:37] can. Obviously, President Trump's New
+[03:39] Year wish was for peace in the world.
+[03:42] Obviously, that's what he wants with the
+[03:43] Ukraine and Russia, but Ukraine is
+[03:45] hitting at Russia's energy
+[03:47] infrastructure, and the blackout in
+[03:49] Moscow, I'm sure was very embarrassing.
+[03:51] So, we'll see if we get anywhere. You
+[03:53] know, there's a lot of accusations
+[03:55] flying back and forth, but we do want
+[03:58] peace in the world. There's no doubt
+[03:59] about that. So, the Iranian protesters
+[04:03] are quite fascinating. It's largely due
+[04:05] to that the Iranian currency has dropped
+[04:06] 60%
+[04:08] against the dollar in the past year. So,
+[04:10] the protest started in the bazaar when
+[04:13] the merchants threw up their hands, says
+[04:14] we can't operate with this really weak
+[04:16] currency. It quickly spread to involve
+[04:19] the students who want, you know, reforms
+[04:21] and things like that, and it spread to
+[04:23] major cities. This at least in its fifth
+[04:25] day now as I talk to you, and even in
+[04:28] the holy city of Qom, uh they there's
+[04:31] protests. But, the Iranian security
+[04:33] forces have opened up fire with live
+[04:35] bullets. Apparently, several people have
+[04:36] been killed. One of the leaders was a
+[04:39] law student. She's already been
+[04:41] arrested. The mullahs are not in charge
+[04:44] of a majority of Iranians, and they have
+[04:47] to kind of promote conflict to stay in
+[04:49] power, but President Trump has on Truth
+[04:53] Social said he wants to protect the
+[04:55] protesters. I have no idea how he plans
+[04:57] to do that, but obviously, the whole
+[04:59] world is on edge right now. And if we
+[05:02] can get any kind of regime change in in
+[05:05] Iran, it's going to be welcome
+[05:07] because Iran was funding terrorism
+[05:09] around the world. And you know, once you
+[05:11] get a new government and and you get
+[05:13] reforms, you know, you can welcome back
+[05:14] in the international community, and
+[05:16] resolve sanctions on Iran. Hopefully,
+[05:19] this will this will get resolved once
+[05:21] and for all, and but it's
+[05:24] very tense right now, and the news is
+[05:26] very sketchy. With global uncertainty
+[05:28] rising, investors often turn to gold. Is
+[05:31] gold still a good investment right now?
+[05:33] Absolutely. Mainly because the central
+[05:35] banks are slowly losing control. What's
+[05:37] happened is as these societies age, they
+[05:40] can't pay their debt cuz they're losing
+[05:42] households, and some of these societies
+[05:45] have grown through immigration, but the
+[05:47] immigrants haven't been assimilated or
+[05:49] as prosperous. So, a lot of these
+[05:51] central banks are very nervous. Britain,
+[05:54] France, well, it's France is under the
+[05:56] European Central Bank, but France still
+[05:58] can't do a budget for two well, last 2
+[06:00] years now. So, they're they're a mess.
+[06:02] And what's going to be happening is the
+[06:05] only way you can cope when you can't
+[06:07] make your interest payments is to lower
+[06:09] your rates to outer near zero. Now,
+[06:11] China has already done that. Their rates
+[06:14] are lower than Japan, but they're still
+[06:16] struggling with this horrific deflation.
+[06:19] So, their only alternative is going to
+[06:20] be to devalue their currency. So,
+[06:22] currency devaluations, lower rates are
+[06:25] going to be the future in the upcoming
+[06:26] years. The US is going to be the last to
+[06:29] cut, but I'm very, very worried that
+[06:33] deflation is going to be showing up in
+[06:35] our economic numbers very soon. Most of
+[06:37] our inflation was real estate related.
+[06:39] We've shown in past episodes of Market
+[06:41] Buzz of falling rental costs in the last
+[06:44] 5 months. We just got news um
+[06:47] on the new year that condo prices down
+[06:50] 1.4% September and October. And
+[06:52] actually, they survey the major metro
+[06:54] areas. Between falling home prices,
+[06:57] lower rental costs, and owners'
+[06:59] equivalent rent shelter cost should be
+[07:00] coming down. We obviously have low crude
+[07:03] oil prices. We have a glut. If we get a
+[07:06] successful resolution with Venezuela
+[07:08] where we can go in and help them boost
+[07:10] production with other US energy
+[07:12] companies. If we get a new regime change
+[07:15] in Venezuela, then we'll have
+[07:17] permanently low energy prices cuz
+[07:19] Venezuela has the the biggest oil
+[07:21] reserves in the world. So, there's a lot
+[07:23] of fascinating things going on, but
+[07:25] between low energy, falling real estate
+[07:27] costs, and of course, all that deflation
+[07:29] we
+[07:30] import from
+[07:32] China, I do think deflation's going to
+[07:34] be the big news this year. As a minimum,
+[07:36] the Fed's got to cut 100 basis points,
+[07:38] and we'll we'll have that clarified when
+[07:40] President Trump picks the new Fed
+[07:42] chairman.
+[07:42] >> So, if deflation is becoming a real
+[07:44] risk, what does that mean for the
+[07:45] Federal Reserve's policy decisions?
+[07:47] Means that
+[07:49] you can't look in the rearview mirror to
+[07:51] do policy. You have to look ahead. And
+[07:54] what our Fed did wrong last year is they
+[07:57] assumed there would be hidden um
+[08:00] inflation from tariffs,
+[08:02] and it never showed up. And just as an
+[08:04] example, there's no tariffs that affect
+[08:06] the producer price index. There's only
+[08:09] about 13 or 14% of the CPI that's
+[08:12] affected by tariffs. So, I subscribe to
+[08:14] all these independent economists, and
+[08:16] they didn't see any tariff danger, okay?
+[08:19] And of course, the tariffs turned out to
+[08:21] be not as bad as some people feared
+[08:23] because, you know, President Trump said,
+[08:25] "Let's make a deal." You know, if they
+[08:26] start to buy more US stuff, then
+[08:29] he's nicer to them. And right now, we
+[08:31] have the second highest exports ever
+[08:33] with low crude oil prices. And of
+[08:35] course, we we export a lot of crude. So,
+[08:37] you know, I I just think, you know,
+[08:39] people try to scare us. I think I think
+[08:42] that it was unfortunate that Powell bit
+[08:44] into that narrative, and whatever he was
+[08:46] anticipating never materialized. I mean,
+[08:48] it was month after month after month,
+[08:50] the CPI and PPI were coming better than
+[08:53] expected. And you know, I I I think they
+[08:56] ought to go on their economic models
+[08:58] instead of driving through the rearview
+[08:59] mirror. And that's what Stephen Moore
+[09:01] has been trying to push. That's what
+[09:03] Christopher Waller saw. He saw the
+[09:06] decline in the labor market before the
+[09:08] labor department announced it. And so,
+[09:09] we need people with good economic
+[09:11] models, not people that just react.
+[09:14] >> The upcoming announcement, as you said,
+[09:16] for the next Federal Reserve chair is
+[09:17] getting a lot of attention. How
+[09:19] important is that decision for the
+[09:21] markets? Well, the markets are going to
+[09:22] want somebody independent. So, they're
+[09:24] going to prefer Christopher Waller or
+[09:26] Kevin Warsh over Kevin Hassett, but I
+[09:30] still think Kevin Hassett would be a
+[09:31] fascinating Fed chairman because again,
+[09:34] he's just the happiest person around.
+[09:37] Okay? Maybe SpongeBob is happier than
+[09:40] Kevin Hassett, but other than SpongeBob,
+[09:42] I can't imagine a happier human being.
+[09:45] He's just a very positive person, and I
+[09:47] think it would be great to have a
+[09:48] positive Fed chairman. Obviously, he has
+[09:51] accounts of economic advisers now, and
+[09:54] he's a cheerleader for America, but I
+[09:56] would like him to be a cheerleader for
+[09:57] America if he comes to fruition. So now,
+[10:00] Dad, what stocks are forecasted to post
+[10:02] the strongest earnings in the upcoming
+[10:04] weeks? Yeah, um this is what we live
+[10:07] for. Earnings season is our judgment
+[10:08] day. But, let me just rattle off a whole
+[10:11] bunch of them. Kinross Gold, that's KGC.
+[10:14] Their sales are forecast to be up uh
+[10:17] 46.8% earnings are forecast to be up
+[10:20] 194%.
+[10:22] They have a very good earnings surprise
+[10:23] history. It's probably my safest gold
+[10:25] stock. A good core holding. Nvidia, as
+[10:27] big as it is, uh sales and earnings are
+[10:30] accelerating. Their sales are supposed
+[10:32] to be up 66.7%
+[10:34] earnings are supposed to be up 71%
+[10:36] They have a very good surprise
+[10:39] These estimates haven't changed a lot
+[10:41] since they
+[10:42] announced their sales to China on the
+[10:44] H200 chips. So, uh we do expect their
+[10:47] guidance is going to remain strong
+[10:48] because
+[10:50] their Chinese sales are are going to be
+[10:52] picking up. So, Nvidia's
+[10:55] uh there's a good reason it's our
+[10:56] largest holding. And uh it should just
+[10:59] be stunning. Another uh stunning stock
+[11:01] is Palantir Technologies PLTR. Their
+[11:04] sales are supposed to be up 62%. Their
+[11:06] earnings are supposed to be up surprise
+[11:08] history. They are an AI
+[11:13] implementer. They're implementing AI
+[11:15] better than most companies are. And this
+[11:18] is part of the productivity enhancement
+[11:19] that's going on in America. Fortunately,
+[11:21] they have a lot of government contracts
+[11:22] and their government can is getting more
+[11:24] efficient. Seagate Technology STX, their
+[11:27] sales are supposed to be up uh 17.4%
+[11:30] earnings are supposed to be up
+[11:32] uh 37.6%. They do have a good surprise
+[11:34] history. Some people may know Western
+[11:36] Digital was the best performing stock uh
+[11:39] last year uh in the market in the S&P.
+[11:42] Uh obviously, Seagate Technology is the
+[11:43] same business Western Digital. So, um
+[11:46] they're benefiting from the data center
+[11:47] boom. Celestica
+[11:49] that's actually a Canadian company. Uh
+[11:51] their sales are supposed to be up 37%
+[11:54] earnings are supposed to be up uh 58.1%.
+[11:57] They have a great surprise history. So,
+[11:59] I'm counting on them. The one stock that
+[12:01] did get uh beaten up a little bit was
+[12:03] UI. They're the uh uh the data switches
+[12:06] uh for networks. And uh and then of
+[12:09] course, the high-speed uh
+[12:11] uh connections for the data centers. So,
+[12:13] cuz the data centers have to run at
+[12:15] least 5 gigabits on data transfer. You
+[12:18] can actually buy UI equipment when if
+[12:20] you go from like a 1 gig to a 2 gigs in
+[12:24] your house, you have to get new
+[12:25] switchers cuz most of the old switchers
+[12:27] won't work above uh 1 1 gig. And so, you
+[12:30] might have to go buy a 2.5 gig switchers
+[12:33] uh
+[12:34] uh if you upgrade your equipment and
+[12:36] you'll be UI makes equipment for the
+[12:38] home, too. Eli Lilly LLY, sales are
+[12:41] supposed to be up 31.3%.
+[12:43] Earnings are supposed to be up um 34.9%.
+[12:46] They have a very good surprise history.
+[12:48] They do have more exciting uh weight
+[12:50] loss drugs in the pipeline. They are
+[12:52] onshoring, doing what Trump wants,
+[12:54] making the
+[12:55] uh pharmaceuticals here, so they're in
+[12:57] good standing. Carpenter Technology CRS,
+[12:59] their sales are supposed to be up 8.4%.
+[13:02] Earnings are supposed to be up 33.4%.
+[13:04] Very good surprise history. And uh we
+[13:07] are picking up some healthcare stocks
+[13:09] now. Cardinal Health CAH, their sales
+[13:11] are supposed to be up 17.4%.
+[13:14] Earnings are supposed to be up 19%. So,
+[13:16] as good as all these stocks are, not
+[13:18] only must they exceed analyst estimates,
+[13:20] they must guide higher. And uh provided
+[13:23] they do that, things will be fine. But,
+[13:26] uh this is what we live for. This is why
+[13:28] earnings season is so important. And
+[13:30] again, we're off to a great start
+[13:32] already cuz uh data center related
+[13:34] stocks are 45% of my portfolios. On uh
+[13:38] January 2nd, they gapped up intraday
+[13:41] and that's so that we're off to a strong
+[13:43] start, that we're going to be an
+[13:44] earnings-driven market and a
+[13:46] fundamentally focused market. And uh the
+[13:48] market is slowly going to broaden out.
+[13:50] And of course, we will be hitting 5% GDP
+[13:53] growth no later than the second quarter
+[13:55] of this year, but we might actually
+[13:57] touch it in the first quarter. The first
+[14:00] weeks of the year often set the tone for
+[14:02] what comes next. We'll be tracking how
+[14:03] earnings, global events, and the Federal
+[14:05] Reserve shape the market's next move.
+[14:08] Thank you all so much for watching.
+[14:09] Please give this video a like and
+[14:11] subscribe if you haven't already. But,
+[14:13] we will see you all next Sunday for a
+[14:15] new video.
+[14:29] [Music]

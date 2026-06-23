@@ -7,9 +7,502 @@ Type: video
 Duration: 19:13 (1153s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 494
+Transcript characters: 17763
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Well, we hope you had a wonderful
+[00:01] holiday and it is now time for the 2026
+[00:04] predictions, possible wild card events,
+[00:07] and the best monopoly stocks. Welcome
+[00:08] back to Navier Market Buzz.
+[00:15] [music]
+[00:21] [music]
+[00:23] Now Dan Maria continues to give you
+[00:25] credit for predicting a 5% GDP growth in
+[00:28] 2026 and you are starting to look a lot
+[00:31] more credible after the third quarter
+[00:33] GDP was revised up to 4.3% annual pace.
+[00:37] What did you see that economists didn't
+[00:39] see?
+[00:39] >> Well, what happened is um the reason for
+[00:43] the big upward revision to third quarter
+[00:45] GDP was because of trade. It added 1.6%
+[00:49] to the 4.3% GDP growth. So, we have the
+[00:52] second highest exports ever recorded and
+[00:55] imports are are running a lot lower
+[00:56] right now. So, I was watching the trade
+[00:59] numbers and anticipating that that would
+[01:01] help and it did. So, that's what I saw
+[01:04] to be honest with you. And the reason
+[01:07] I'm much more optimistic about 2026
+[01:11] is uh going to have even better trade
+[01:13] numbers. And on top of that, you know,
+[01:16] the data center boom is getting bigger
+[01:18] and uh we have tax cuts next year. So,
+[01:21] it's there's a lot to look forward to.
+[01:23] >> But the conference board reported that
+[01:25] consumer confidence has fallen for five
+[01:27] consecutive months. Why is consumer
+[01:29] spending growth at a 3.5% annual pace?
+[01:32] >> Yeah, that's a bit of a conundrum. Uh
+[01:34] the conference board reports very valid
+[01:35] and um there's something called present
+[01:38] situations and then forecasted and
+[01:40] people are just grumpy about the future.
+[01:42] Uh hopefully they'll cheer up in the
+[01:44] holidays here. Uh I think a lot of it's
+[01:45] the job markets still pretty spotty but
+[01:48] yeah consumer spending was growing at a
+[01:50] three and a half uh percent annual pace
+[01:52] in the third quarter GDP report. So the
+[01:54] question is how can that happen when
+[01:58] confidence is so weak and the answer is
+[02:00] uh the baby boomers there's a thing
+[02:02] called a K-shaped economic recovery
+[02:05] where the boomers the people that own
+[02:07] homes and have stock portfolios have
+[02:10] more discretionary money to spend. And
+[02:12] as you go down the uh um the age ladder,
+[02:16] people run out of money. It's as simple
+[02:17] as that. So, and the conference board is
+[02:20] a survey and they probably didn't call
+[02:22] enough baby boomers. But, you know, the
+[02:24] the economy should broaden out here. You
+[02:27] know, there's a lot of criticism that
+[02:29] Trump's just helping rich people and all
+[02:31] that stuff, and that's obviously his
+[02:32] political opposition, but there is a tax
+[02:35] cut coming next year, and uh it it it
+[02:38] will put more money in people's pockets.
+[02:41] If you put money in people's pockets,
+[02:42] they tend to spend it even if they're a
+[02:44] little grumpy.
+[02:44] >> But then why do you expect 2026 economic
+[02:47] growth to be faster?
+[02:48] >> Uh there's three reasons. One is those
+[02:51] tax cuts. Second is the data centers
+[02:54] which were an AI which was overpowering
+[02:56] our economy. Their orders are up 20%
+[02:59] quarter over quarter and they're up uh
+[03:01] 50 to 65% year-over-year. So that boom
+[03:04] will continue. And then finally, how do
+[03:06] I say in a nice way? it's uh the exports
+[03:09] are going to get even bigger and uh the
+[03:12] exports are so big it might actually
+[03:14] close the trade deficit and eliminate it
+[03:16] and the main reason is is just all that
+[03:18] onshoring. Uh if you look at the last
+[03:21] trade number it was due to uh
+[03:23] pharmaceutical exports. The
+[03:25] pharmaceuticals were made in Ireland and
+[03:28] Switzerland not that long ago. Now the
+[03:29] US is making them. Eli Liy is leading
+[03:31] the way. Another is all the automotive
+[03:33] onshoring. You know, you can buy a BMW
+[03:36] vehicle from South Carolina, but it has
+[03:38] a lot of tariffs on it because it has
+[03:40] German parts. Well, they're going to
+[03:41] have more Americanmade parts on those
+[03:43] vehicles. So, it just everything is
+[03:45] returning to America right now. Now, a
+[03:47] lot of our new plants, manufacturing
+[03:49] plants are totally automated and
+[03:51] extremely efficient. So, this is a very,
+[03:54] very exciting time for what we call
+[03:56] productivity too. And productivity adds
+[03:58] to GDP growth.
+[03:59] >> Now, residential real estate in the past
+[04:01] two quarters has declined. Can Trump
+[04:03] help firm up a battered housing sector?
+[04:06] >> Yeah, he has to. So, according to this
+[04:08] um most recent GDP report, residential
+[04:11] real estate was a 5.1% annual drag on
+[04:14] GDP in the second and the third
+[04:16] quarters. That's the annual pace and
+[04:18] obviously we have a a home builder as
+[04:20] president. Okay. So, we have to fix this
+[04:23] and fix it fast. Uh because rental
+[04:25] prices have fallen. Uh we've shown that
+[04:27] previous market uh buzz video fallen for
+[04:30] four straight months. Before that, it
+[04:31] was unchanged. So 5 months of just no
+[04:34] growth and then home prices are soft all
+[04:37] around the country. Now we happen to be
+[04:39] in Ranch of Santa Fe, California, which
+[04:41] obviously a very affluent pace, but even
+[04:43] home sales are soft here and a lot of
+[04:46] that has to do with insurance. Okay. So
+[04:50] uh they have to get rates down and we
+[04:52] probably going to need some insurance
+[04:54] reform. Obviously we've had fires in
+[04:56] this part of the world.
+[04:57] >> Is the risk of deflation tied to the
+[04:59] housing market wos? Yeah, that's that's
+[05:01] a big one. Most most of our CPI
+[05:04] inflation was this thing called owner's
+[05:06] equivalent rent and it has now gone poof
+[05:09] and disappeared and it might even turn
+[05:11] negative. Uh so that means inflation is
+[05:13] going to be gone. We have the lower
+[05:16] crude oil prices. Okay. Uh that's going
+[05:19] to keep the prices at the pump down
+[05:21] except here in California because they
+[05:23] are shutting down refineries and a
+[05:25] pipeline and it's just kind of a mess
+[05:27] here. But outside of California, the
+[05:29] prices of the pump should be falling.
+[05:31] Furthermore, food costs are also
+[05:33] moderating finally. Okay. So we get the
+[05:37] cause of the callus of inflation was
+[05:40] housing and now housing is soft and so
+[05:43] we are going to get relief and finally
+[05:45] we are importing deflation from China.
+[05:47] Okay. And I can't stress that enough
+[05:50] where uh you're showing a a clip of uh
+[05:53] how you can buy a 98 inch TV at Best Buy
+[05:55] for I think uh
+[05:59] 13 or $1,400. So that's pretty darn
+[06:01] cheap. Um not not all of us need a 98
+[06:03] inch TV, but if you want one, it's
+[06:05] cheap. And that's just a sign of the
+[06:07] deflation we see. You know, America is
+[06:09] such an efficient economy. Between the
+[06:11] Costos and the Walmarts, we just get
+[06:13] everything a lot cheaper than the rest
+[06:14] of the world. And one last thing you're
+[06:16] going to see happening, the dollar has
+[06:18] firmed up in in recent months and it's
+[06:20] going to get stronger and stronger and
+[06:22] as those currencies get weaker, it just
+[06:24] means everything gets cheaper. So yeah,
+[06:26] we are bordering on deflation as I
+[06:28] mentioned on on on Maria's show and
+[06:30] every economist is trained to fight
+[06:32] deflation and that's why somebody like
+[06:34] Christopher Waller, one of the the
+[06:36] candidates for Federal Reserve chairman,
+[06:38] they said we got to cut at least 100
+[06:40] basis points. I'm sure President Trump
+[06:42] would like a 200 basis point cut and
+[06:44] that will fix the housing market and add
+[06:46] to GDP growth.
+[06:47] >> But is the fear of deflation causing
+[06:49] gold prices to sore?
+[06:51] >> Yeah, it is. You're showing a chart in
+[06:53] the last 3 years of gold uh silver and
+[06:56] platinum, believe it or not, silver and
+[06:57] platinum have just passed gold in
+[06:59] appreciation. And um there's just a lack
+[07:01] of confidence in central banks period
+[07:03] around the world. And because gold is a
+[07:06] is a reserve currency, the banks keep
+[07:09] buying more gold to to basically shore
+[07:11] up their credibility. Silver and
+[07:13] platinum are due to industrial demand.
+[07:15] The data centers do help this demand for
+[07:18] silver. Platinum is obviously goes in
+[07:20] your catalytic converters. Um can also
+[07:22] use it for jewelry, but the demand for
+[07:25] platinum is also up. Uh Russia is a huge
+[07:27] supplier of platinum and prices are also
+[07:29] up because people are trying not to buy
+[07:31] from Russia. Now globally, Europe seems
+[07:33] to be on edge right now with the protest
+[07:35] and the cancellation of fireworks in
+[07:37] Paris. What is going on?
+[07:38] >> Yeah, it's it's well Eddie Yardini
+[07:41] talked about that was in our show about
+[07:43] a class of civilizations. And
+[07:46] essentially what's happened in a lot of
+[07:47] major city centers, they are dominated
+[07:49] now by immigrants like Brussels. It's
+[07:52] dominated by all the new immigrants they
+[07:53] let in. And so the culture has changed.
+[07:56] Some of these people are not pro-
+[07:58] European. Okay? And that caused France
+[08:01] to cancel their fireworks because
+[08:03] they're on alert for potential terrorist
+[08:06] events. And uh Turkey just arrested over
+[08:09] 115 people that were planning, you know,
+[08:12] attacks on Christmas markets and things
+[08:13] like that. Fortunately, we got through
+[08:15] Christmas without an incident. But yeah,
+[08:17] the Paris fireworks show is a big deal
+[08:19] and it's now cancelled. So that's not
+[08:21] good for their economy. But the other
+[08:23] thing that they've been protesting is a
+[08:26] lot of the foreign policies and this has
+[08:27] been going on forever. But the protests
+[08:29] are starting to work. Kurimer um you
+[08:32] know London was shut down with the
+[08:33] farmers being upset about inherence
+[08:35] taxes. So Kershmer the prime minister is
+[08:38] going to now provide uh enhance tax
+[08:40] relief to the farmers. So that worked.
+[08:42] The uh French protests were much more
+[08:44] interesting because they were spraying
+[08:46] manure on government buildings and they
+[08:49] also did not only in Paris they did in
+[08:51] Brussels and that was all about
+[08:52] callulling their herds. There is a some
+[08:55] of the cows are sick and they say if
+[08:56] your cow's sick, you got to kill it. But
+[08:58] even if your cows are healthy, you got
+[09:00] to call the herds to comply with net
+[09:02] zero. And this has been going on for
+[09:03] years. So like in Ireland, they're
+[09:05] killing like 6,000 dairy cows a year and
+[09:08] uh all for net zero reasons. And then
+[09:10] the last reason the farmers in Europe
+[09:12] are so upset, Germany's trying to push
+[09:14] through a bill to allow a lot of free
+[09:16] trade with Latin America where they
+[09:18] literally put the cows on a boat and
+[09:19] send them to Europe. Okay? or they send
+[09:21] all their agriculture products and boats
+[09:24] to Europe. And guess what? They don't
+[09:25] have to play by any of the rules the
+[09:27] European farmers do. So the European
+[09:29] farmers are just very very upset. And
+[09:31] this is just one of the many things that
+[09:33] undermines the European Union. Okay? A
+[09:36] lot of people don't agree with their
+[09:37] mandates. And the European Union
+[09:39] conceptually is fine. It's supposed to
+[09:41] be a trade and monetary union. But what
+[09:43] they do is they say you must do this or
+[09:46] we'll deny you money. Okay? And there's
+[09:49] just a lot of push back especially in
+[09:52] Eastern Europe. Okay, Poland, Hungary,
+[09:55] the Czech Republic have pushed back. But
+[09:58] the all these revolts were started with
+[10:00] farmers and they actually started in the
+[10:02] Netherlands of all places. And um so um
+[10:06] I would not be surprised if the European
+[10:09] Union eventually implodes. You Britain's
+[10:11] already left it and I would not be
+[10:12] surprised if another country or two
+[10:14] leaves
+[10:15] and um we'll have to see. Uh it may not
+[10:18] happen next year, but it may happen the
+[10:20] year after when the there's more
+[10:21] elections.
+[10:22] >> All right, let's talk about some
+[10:23] predictions. What are the wild cards for
+[10:25] 2026?
+[10:26] >> Well, obviously it's Ukraine, Venezuela,
+[10:30] and the midterm elections. As far as
+[10:32] Ukraine is concerned, obviously uh
+[10:34] President Lzenski is meeting with
+[10:36] President Trump at Margo. They're uh
+[10:39] he's working on pulling the troops out,
+[10:40] having a demilitarized zone. Uh he needs
+[10:43] security agreements. Europe has been
+[10:45] caught out of these negotiations. It's
+[10:47] pretty much Ukraine, Russia, and the US
+[10:49] negotiating this. Europe seems to be
+[10:51] very upset with this, but they've also
+[10:53] been pulling their aid from Ukraine,
+[10:55] which makes President Lzinski really
+[10:58] kind of have to pick up uh the pace of
+[11:00] uh pushing this peace deal. So, we'll
+[11:02] see if Russia cooperates. Obviously, the
+[11:05] framework actually came from Russia and
+[11:08] uh whether that's right or wrong, that's
+[11:09] what's happened. So, we want to want to
+[11:12] have peace and prosperity and that would
+[11:14] that would provide a relief rally if we
+[11:16] could stop that fighting. The next thing
+[11:17] is what are we doing in Venezuela? We
+[11:20] got naval blockades. We've um you know
+[11:23] killed over 100 people on these drug
+[11:26] boats. I think there's been at least 29
+[11:28] strikes. What are we doing? And we've
+[11:29] already seized two super tankers full of
+[11:32] oil. These are sanctioned tankers. Now,
+[11:34] Chevron has a licensing agreement in
+[11:36] Venezuela and those tankers are allowed
+[11:38] to pass. But clearly uh but then Chevron
+[11:41] can't send the money back to Venezuela.
+[11:42] That's another that's another thing
+[11:44] that's going on. So obviously uh
+[11:46] President Maduro is being uh choked off
+[11:48] financially and um I assume he's going
+[11:50] to have to go into exile somewhere. And
+[11:52] um but the US is reasserting its
+[11:55] leadership. We're essentially I wouldn't
+[11:57] say we're abandoning Europe, but we
+[11:59] basically are less interested in
+[12:01] protecting Europe, especially as they
+[12:02] change culturally and don't share
+[12:04] Western values, you know, and so we're
+[12:06] asserting ourselves in in our
+[12:09] hemisphere. And whether that's right or
+[12:11] wrong, what's another matter? A lot of
+[12:13] people think it's more about oil than
+[12:15] anything. But because Venezuela has the
+[12:17] biggest oil reserves in the world, I'm
+[12:19] sure the US would like to help that
+[12:21] country grow and prosper and and we're
+[12:23] going to have to send in another more
+[12:25] oil companies than just Chevron to to
+[12:27] help them do that. So, it's going to be
+[12:29] interesting, but it's a wild card. And
+[12:31] if obviously we can boost Venezuela's
+[12:33] oil production, we're going to
+[12:34] permanently have low oil prices. We're
+[12:36] the lowest now in 5 years right now. As
+[12:38] far as the midterm elections are
+[12:39] concerned, that's why the media is so
+[12:41] negative because the President Trump's
+[12:43] opposition can't have good news for the
+[12:45] next 11 months. So, they're just going
+[12:47] to have to basically throw mud on
+[12:49] everything that happens, you know,
+[12:51] saying that the economic recovery is
+[12:53] unequal. It's inequitable. They have to
+[12:55] complain about everything and anything,
+[12:57] you know, inflation and jobs. And it's
+[13:00] up to President Trump to go out and sell
+[13:02] it. You know, he's pretty good at that.
+[13:04] So, but if if he does not maintain a
+[13:07] Republican majority in Congress, then he
+[13:10] won't get anything done. He will be a
+[13:12] lame duck and they'll just start to try
+[13:13] to impeach him like they did before. And
+[13:15] uh so he doesn't want that to happen.
+[13:17] And so he's going to be working very
+[13:19] very hard. But those are the big events
+[13:21] that I foresee. But there's a a lot of
+[13:24] prosperity in the pipeline just from all
+[13:25] that on shoring. And hopefully that will
+[13:27] filter down. It'll lift most Americans.
+[13:30] Now, what are the best Oasis stocks if
+[13:32] things get bumpy in 2026?
+[13:34] >> Yeah. So, uh what we've done is we've
+[13:37] sorted our stocks by their net operating
+[13:39] margins after taxes. Um uh Interdigital,
+[13:43] which is IDCC, has a 53.5%
+[13:46] u net operating margin. Nvidia has a 53%
+[13:50] net operating margin. Robin Hood uh has
+[13:53] a 51.9% net operating margin. Um,
+[13:57] apploving that's a 50.4% net margin. Uh,
+[14:02] AGI which is gold stock um is uh 33.5%
+[14:07] net operating margins. AM another gold
+[14:09] stock 32.6.
+[14:11] Lily is 31%.
+[14:14] Which is pretty impressive. You know
+[14:15] they they're cut they've been forced to
+[14:17] cut the price of drugs but they're
+[14:19] making it up in volume. Okay. Uh then we
+[14:22] have UI which is uh cabling and all the
+[14:24] data centers and you can even buy UI
+[14:27] switches for your home especially when
+[14:28] you upgrade your internet you need new
+[14:30] switches. Um uh their operating margins
+[14:33] are 28.7.
+[14:35] Uh Palunteer technologies we've talked
+[14:37] about a lot which is of course a
+[14:38] fundamental a stock net operating
+[14:40] margins are 28.1%
+[14:43] and and it's effectively a monopoly.
+[14:46] Pinross Gold, that's KGC, is 27.3%.
+[14:51] And then, believe it or not, Royal
+[14:52] Caribbean, uh, the cruise line is 23.2%.
+[14:56] So, the reason operating margins are
+[14:59] important is that I watch them and when
+[15:01] they're fat like they are, then these
+[15:03] companies are monopolies dominating
+[15:05] their business. Eventually, competition
+[15:07] can arrive, okay? And um, but while
+[15:10] they're the margins are fat, you just
+[15:12] enjoy it. Okay? And monopolies are safe.
+[15:15] Okay, these are fundamentally safe and
+[15:18] superior stocks. If the operating
+[15:20] margins come under compression, sure,
+[15:21] I'll sell them. But usually they can
+[15:24] dominate their respective business for
+[15:26] two, three, four, five years and beyond.
+[15:29] And obviously Nvidia is the most
+[15:32] dominant at this time, but clearly we
+[15:34] have a lot of other monopoly related
+[15:37] stocks. So that's how you get rich. You
+[15:39] buy these monopoly stocks, you hang on.
+[15:42] They all have good sales and earnings.
+[15:44] You can see they have wonderful stock
+[15:45] grades and that's our goal, get you
+[15:47] rich.
+[15:47] >> And I want to end on a subscriber
+[15:49] question. Can you talk about the
+[15:50] inverted yield curve?
+[15:51] >> Yeah, that was a problem under Janet
+[15:54] Yellen and specifically our former
+[15:56] Treasury Secretary lost control of our
+[15:58] Treasury auctions and we had some very
+[16:00] poor long-term bond auctions. So, you
+[16:03] know what she did? She just sold more
+[16:05] intermediate and shorter term Treasury
+[16:07] securities and that's why we had an
+[16:09] inverted yield curve for some time now.
+[16:13] That has been fixed under Scott Bessett.
+[16:15] Okay, I realize that long-term rates
+[16:17] went up a little after the last Fed
+[16:19] meeting, but short-term rates have come
+[16:21] down and the Fed has taken money from
+[16:23] their balance sheet and they're
+[16:24] purposely pushing short-term rates down
+[16:26] with their open market activities and
+[16:28] the Fed funds rate is a short-term rate.
+[16:30] So, that's why we know we're going to
+[16:31] have more Fed rate cuts. But Scott
+[16:33] Besset, our treasury secretary, fixed
+[16:35] the um the inverted yield curve and it's
+[16:38] now normal. It's getting steeper and in
+[16:40] Scott Besset we trust.
+[16:42] >> And lastly, can you talk about Tesla?
+[16:43] >> Yeah, Tesla stock is very strong and
+[16:46] it's mainly strong on the anticipation
+[16:48] of the robo taxi. In fact, they are now
+[16:52] making uh the uh you know the twodoor
+[16:56] robo taxi without the steering wheel. So
+[16:59] you will get in, there'll be a pad for
+[17:00] you and it will take you somewhere. So
+[17:03] these are supposed to be launched here
+[17:04] pretty soon. Now Tesla's also very proud
+[17:07] that when San Francisco had a power
+[17:09] failure, they their robo taxis kept
+[17:12] going while the Whimo stopped. Now in
+[17:14] defense of Google Whimo, they stopped
+[17:16] because the traffic lights went out.
+[17:18] Okay, they thought that might be
+[17:19] dangerous. Okay,
+[17:21] >> cuz you know they they can see the
+[17:23] lights and all. And um but Tesla's very
+[17:25] very exciting about this robo taxi
+[17:28] service. They're launching it and uh
+[17:30] they're it's a big deal and we'll see if
+[17:33] we're going to have autonomous pods take
+[17:35] us everywhere and that's the that's the
+[17:38] future that Elon has predicted and
+[17:40] people um you know believe in Elon. They
+[17:43] want him to become a trillionaire.
+[17:44] They've given him a great pay package.
+[17:46] We'll see if he can fulfill this vision.
+[17:49] And that's why the stock's doing so
+[17:51] well, even though the car sales aren't
+[17:53] that strong right now.
+[17:54] >> Well, thank you so much for your
+[17:55] predictions. Thank you all for watching.
+[17:57] Let us know in the comments below what
+[17:58] your 2026 predictions are. Make sure to
+[18:01] give this video a like and subscribe if
+[18:03] you haven't already. But we will see you
+[18:04] all next week for a new video. And happy
+[18:06] New Year's.
+[18:08] [music]
+[18:19] Hey,
+[18:21] [music]
+[18:28] [music]
+[18:31] hey, hey.

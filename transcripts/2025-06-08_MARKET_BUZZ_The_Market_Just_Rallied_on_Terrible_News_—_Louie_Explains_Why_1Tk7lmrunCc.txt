@@ -7,9 +7,469 @@ Type: video
 Duration: 19:25 (1165s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 461
+Transcript characters: 16475
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:00] [Music]
+[00:00] [Applause]
+[00:00] [Music]
+[00:12] Hello everyone. Welcome back to Navalier
+[00:14] Market Buzz episode 41. I'm Crystal
+[00:16] Navalier and I'm joined again this week
+[00:18] with my father Louis Navalier. Now Dad,
+[00:20] can you explain to everyone why the
+[00:22] stock market rallied in the wake of poor
+[00:24] economic news last week?
+[00:27] Yeah. Well, we've been secretly rooting
+[00:29] for bad news because we want the Fed to
+[00:32] cut. And although the paper report on
+[00:35] Friday was deemed positive because it
+[00:37] was slightly better than expected, uh
+[00:40] the rest of the week um was pretty
+[00:42] horrible news. It started with um the
+[00:45] ISM manufacturing report being down for
+[00:48] the third straight month. Uh the other
+[00:51] thing that happened is um the ISM
+[00:54] service index took an abrupt uh decline.
+[00:57] Uh it has only been under 50 four times
+[01:01] in the last 60 months. Below 50 signals
+[01:03] a contraction. It's 49.9. So that's not
+[01:06] a big contraction but it it was alarming
+[01:09] and below uh economist
+[01:11] estimates. And then uh China's factory
+[01:14] gate uh which is their PMI. This is the
+[01:17] the Caitlyn survey uh which is um a
+[01:20] private survey that we respect versus
+[01:22] the government surveys in China. Uh it
+[01:25] showed a big contraction
+[01:27] manufacturing and then uh I can just go
+[01:30] on and on but um the uh ADP payroll
+[01:33] report was the the lowest in over two
+[01:37] years. Uh and then the other comment I
+[01:40] have is um uh the ECB cut rates and so
+[01:44] the gap between our rates and the ECB is
+[01:46] getting wider and wider. That was the
+[01:48] eighth straight rate cut from the
+[01:50] European Central Bank. So, President
+[01:52] Trump made it very clear he'd like the
+[01:54] Fed to cut a full 1%. Of course, they
+[01:56] won't do that. that'll go in quarter
+[01:58] percent increments, but there's um uh uh
+[02:04] the Fed has to cut and bond yields did
+[02:06] meander a little lower last week,
+[02:08] although they did imp uh go up again on
+[02:11] the on the paper report on Friday. So,
+[02:15] uh the thing that's really interesting
+[02:17] is the Atlanta Fed was estimating 4.6%
+[02:21] GDP growth. This is GDP now. Now they're
+[02:25] 38.
+[02:26] So you might wonder how can the economy
+[02:30] be
+[02:31] growing if uh you know manufacturing's
+[02:35] in a contraction and services just
+[02:37] turned down uh u at least according to
+[02:40] ADP payroll growth is poor. Well, what's
+[02:44] happening is um it's the trade deficit.
+[02:48] And what happened in April is we had the
+[02:51] biggest uh dollar drop in the trade
+[02:54] deficit ever recorded. And it fell
+[02:58] 55.5%. That was the second largest
+[03:00] percentage decline ever
+[03:02] recorded. And uh the green shoot in that
+[03:04] report is our exports rose 3%. Now
+[03:07] that's amazing because we export a lot
+[03:08] of uh oil and crude oil prices are
+[03:11] lower. So, it seems like what Trump's
+[03:14] trying to do, which is to get other
+[03:16] countries to buy US goods, and he's
+[03:18] mostly trying to sell energy and
+[03:20] agriculture because that's the easiest
+[03:22] to sell, seems to be working. So, um if
+[03:26] our exports continue to grow at that
+[03:28] pace, we're going to be in great shape.
+[03:30] So, that's um largely what's going on.
+[03:33] And um
+[03:35] um but uh yeah, it was a very impressive
+[03:38] rally. And the other comment I have is
+[03:41] we tend to rally going into holiday
+[03:43] weekends and uh you know July 4th is
+[03:46] coming up and uh I know it's a ways away
+[03:49] but uh um you know people are in a good
+[03:53] mood right now. Now there's been quite a
+[03:55] lot of drama recently. Is it possible
+[03:57] that investors were distracted by the
+[03:59] Elon Musk versus Donald Trump insults?
+[04:02] We were definitely distracted. that kind
+[04:04] of screwed up the um meeting with German
+[04:07] Chancellor Mertz. You know, after uh
+[04:10] President Trump meets with a world
+[04:12] leader, they go into uh that special
+[04:14] room in the White House and meet the
+[04:16] press. And of course, all the questions
+[04:17] are about Elon. But I'm very
+[04:20] disappointed because Elon knew the inner
+[04:22] workings of this bill better than almost
+[04:25] anybody sitting here, better than you
+[04:27] people. He knew everything about it. He
+[04:29] had no problem with it. All of a sudden,
+[04:30] he had a problem. and he only developed
+[04:32] the problem when he found out that we're
+[04:34] going to have to cut the EV mandate
+[04:35] because that's billions and billions of
+[04:37] dollars when that was cut and Congress
+[04:40] wanted to cut it. Uh he became a little
+[04:43] bit different and I can understand that.
+[04:45] But he knew every aspect of this bill.
+[04:47] He knew it better than almost anybody.
+[04:49] And I'll be honest with you, um
+[04:52] President Trump was restrained, but he
+[04:54] can only be restrained so long. So, it
+[04:58] it uh evolved into something pretty
+[05:00] horrible and and embarrassing for all
+[05:03] parties
+[05:04] concerned. Um, last I saw, President
+[05:08] Trump might sell that pretty red Tesla
+[05:11] Model Y he bought. Um, he insinuated
+[05:14] that maybe we'll cancel some of Elon's
+[05:16] uh SpaceX contracts. Elon responded,
+[05:20] "Well, I guess I'll shut down this
+[05:22] rocket." And then then cooler heads
+[05:24] prevailed and that's not happening at
+[05:26] this moment. But uh you know there's a
+[05:28] lot of government contracts through u
+[05:30] SpaceX. Okay. And um uh so we these two
+[05:35] gentlemen better figure this out pretty
+[05:37] darn quick. But um Elon started it.
+[05:40] Okay. And
+[05:42] he went over the top and he accused
+[05:45] Trump of being in the Epstein reports.
+[05:47] And of course, um, Epstein used to go to
+[05:50] Marargo and Trump kicked him out of
+[05:52] Marlargo, but there's, you know,
+[05:53] pictures with Trump,
+[05:55] Melania, Epstein, and, um, his
+[05:58] girlfriend Maxwell, which of course is
+[06:00] in prison. And Epstein, of course, is
+[06:02] dead.
+[06:04] But, uh, you know, it it got below the
+[06:07] belt, for lack of a better word, uh, and
+[06:10] Elon has since, uh, started to, uh, try
+[06:15] to undo the damage that, uh, he did,
+[06:18] but, uh, you know, he really hurt his
+[06:19] stock and on Thursday. It did bounce
+[06:22] back on on Friday. This is Tesla stock.
+[06:25] So, uh, hopefully uh, everybody will be
+[06:27] normal and cooler heads will prevail
+[06:30] and, uh, everybody will pretend to be a
+[06:32] grown-up for a change. So this
+[06:34] Wednesday, June 11th, you're going to be
+[06:35] on Mornings with Maria for the CPI
+[06:37] announcement, but can you share what you
+[06:39] expect for it? Yeah, I expect owner's
+[06:41] equivalent rent, which is shelter costs
+[06:44] that continue to decline. Uh if you look
+[06:46] at the real estate markets around the
+[06:48] United States, home prices are being cut
+[06:51] everywhere. It's just very hard to sell
+[06:53] homes now. You know, existing home sales
+[06:55] are very soft. So that should show up in
+[06:57] the data. Uh there are
+[07:00] surplus rental properties around the
+[07:02] country except of course where you are.
+[07:06] So hopefully we'll get some relief from
+[07:07] owner's equivalent rent because that's
+[07:10] been the main catalyst of inflation and
+[07:13] then when that kicks in uh then um the
+[07:16] CPI will um continue to decline. Uh it's
+[07:20] been down to the last 3 months. Uh the
+[07:23] other comment I'd have is we do need the
+[07:25] CPI to be weak uh to encourage the Fed
+[07:27] to cut rates. You know their Beigebook
+[07:29] survey which you highlighted in Navler
+[07:33] market buzz short uh did show a map of
+[07:36] um the US and the Fed districts and you
+[07:39] know nine of the 12 are experiencing uh
+[07:42] lackluster growth or contracting growth.
+[07:45] So again I don't know what the Fed is
+[07:47] waiting for. Um, the Wall Street Journal
+[07:50] insinuated that some of the data that's
+[07:52] being collected is uh being done on poor
+[07:55] assumptions, but it was a really a kind
+[07:58] of a scandalous article because it it
+[08:00] just insinuated things that didn't
+[08:01] really give a lot of facts. So, we hope
+[08:04] we get a a very um uh weak CPI because
+[08:09] we want the Fed to cut. So, then what do
+[08:12] you expect for the PPI on Thursday?
+[08:15] Well, that's going to be even more
+[08:16] dramatic because the PPI has uh
+[08:19] contracted sharply in the last two
+[08:22] months and essentially we're uh
+[08:25] importing deflation from China and
+[08:27] there's a glut of inventory from all the
+[08:29] goods dumping in the first quarter and
+[08:31] that's going to put downward pressure on
+[08:33] prices as well. So, uh, you know,
+[08:36] there's service costs and there's
+[08:37] wholesale good costs. Um, but you know,
+[08:40] we still have lower energy prices. So,
+[08:43] I'm expecting the PPI to to be flat to
+[08:46] down and, um, and for the deflationary
+[08:50] forces to continue to persist. Are there
+[08:52] any more significant earning
+[08:54] announcements this week? Very few. Uh,
+[08:57] Muckers is going to uh, announce their
+[09:00] sales are forecasted to decline 9/10 of
+[09:02] a percent. means are forecasted decline
+[09:05] 15 and
+[09:07] a.5%. This company has pretty steady
+[09:09] analyst estimates and actually a good
+[09:11] earning surprise history but you can see
+[09:13] it's for lack of a better word it's kind
+[09:15] of stagnated. Oracle sales are
+[09:17] forecasted to rise 9% which is good but
+[09:20] their earnings are only supposed to
+[09:22] improve 7/10en of a
+[09:24] percent. Oracle unfortunately has had
+[09:26] some analyst cuts and they have really a
+[09:28] really bad earning surprise history. So
+[09:31] with Oracle, their guidance is going to
+[09:33] be everything and they're of course
+[09:35] behind Stargate building out the cloud
+[09:37] infrastructure for AI. So that's
+[09:40] probably going to be the biggest news
+[09:41] driving Oracle moving forward. Adobe
+[09:44] sales are forecasted to be up 9.2%.
+[09:47] Earnings are forecast to improve 10.9.
+[09:50] Uh Adobe has steady analysis estimates
+[09:52] and a very good earnings price history.
+[09:54] So uh Adobe should should beat. But
+[09:58] otherwise, yeah, we're running out of
+[10:00] stocks. You know, uh earning season's
+[10:02] essentially over. Can you update our
+[10:04] viewers on your latest quarterly back
+[10:06] test of Stock Raider and your eight
+[10:08] factor fundamental model? Sure. Uh
+[10:10] you're showing charts of um our back
+[10:12] tests and what we do at the end of each
+[10:14] quarterly earnings season. We take a
+[10:16] snapshot to see the breath and power of
+[10:20] stock grader and our eight factor
+[10:21] fundamental model. And the fundamental
+[10:23] model, believe it or not, is working the
+[10:25] best. Those eight factors just so
+[10:28] everybody knows are sales growth, margin
+[10:30] expansion, earning stability, earnings
+[10:32] momentum, cash flow, return equity,
+[10:34] provisions, and earning surprises. That
+[10:37] eight factor fundamental model clearly
+[10:39] shows that the top nine bar graphs, the
+[10:42] top 45% of stocks in our database are
+[10:46] clearly beating the market. And that is
+[10:48] exactly the same as it was at the end of
+[10:50] February when we did the other back
+[10:52] test. So this back test was done at the
+[10:54] end of May and we'll do the next one at
+[10:56] the end of August. Um so the
+[10:58] fundamentals uh continue to beat the
+[11:01] market. Now as far as the overall uh
+[11:03] stock grade we have in our stock grader
+[11:06] that changed dramatically. Um now we can
+[11:09] buy in the top uh 25% up from only the
+[11:13] top 5% in the in the February back test.
+[11:16] So this is a big deal. This means the
+[11:18] breath and power of the market is
+[11:19] increasing. So the reason we test these
+[11:23] models is we want to know the decay
+[11:24] rate. How deep can we data
+[11:27] mine? You know we compare the models to
+[11:29] ski slopes. So when we get a what is
+[11:32] called a black diamond run a very uh
+[11:35] narrow uh market and an abrupt decay we
+[11:39] actually beat the market by more
+[11:40] dramatic margin. When uh the model
+[11:44] starts to encompass more stocks and the
+[11:46] decay is slower like a a a green run on
+[11:49] the ski slope then we won't be able to
+[11:51] beat the market as dramatically. But uh
+[11:54] I guess one of the reasons this is such
+[11:56] a good year for us is we've had a very
+[11:59] very abrupt dec decay early in the year
+[12:02] and it really helped us break out and um
+[12:05] like I was looking at the fundamental a
+[12:06] portfolio. It's up over 27% this quarter
+[12:09] already. So that's that's a good sign.
+[12:12] And um uh we're very excited that our
+[12:15] models are working and uh again uh Stock
+[12:18] Rider is free for everybody. So just
+[12:20] look at the links below, key in your
+[12:21] stocks and uh make sure you have
+[12:24] predominantly A-rated stocks and you can
+[12:25] have this performance too. Could you
+[12:28] share with our viewers what stocks are
+[12:30] highly rated?
+[12:32] Sure. Um Argon, which is AGX did
+[12:35] announce last week and beat Gapped up.
+[12:38] Uh this uh helps build out the power
+[12:40] grid and the the cloud data centers. So
+[12:43] that's a highly rated stock. You're
+[12:45] showing it's A-rated. Um, Power
+[12:48] Solutions International, uh, PSIX also
+[12:51] looks excellent. Uh, again, A-rated
+[12:53] stock. Um, they are more involved with
+[12:56] the oil fields and the building the
+[12:59] energy infrastructure out there. You
+[13:00] know, we are drilling for natural gas
+[13:02] like crazy. We're expanding the LG. Uh,
+[13:05] but uh, even something like a data
+[13:07] center will need generators to keep
+[13:09] going when the power goes out. So, that
+[13:11] helps them. Uh, HCI group is
+[13:14] interesting. And this is the insurance
+[13:16] company insurers a lot of homes in
+[13:18] Florida and you would think that'd be a
+[13:20] bad business cuz you know uh they have
+[13:23] hurricanes and all but uh they've had
+[13:25] stunning results and they are um just
+[13:29] looking great here and they're of course
+[13:30] A-rated
+[13:33] uh biosciences that's n we've talked
+[13:36] about that in the past that was one of
+[13:37] Paul Hickeyy's uh favorite
+[13:39] stocks they are all about wellness uh
+[13:43] extending your your your life uh span.
+[13:45] There's a a supplement you can take
+[13:48] called NAD. Probably a lot of people
+[13:50] heard about it. It basically slows your
+[13:53] cells from degenerating. Our cells can
+[13:55] only like regenerate like seven times
+[13:57] and then we die I guess. And uh so that
+[14:01] will slow that process down and so that
+[14:05] stock looks really good. Uh Universal
+[14:07] Technical Institute which is UTI
+[14:10] uh also looks excellent. Uh these uh
+[14:13] this company uh trains all the mechanics
+[14:16] to work with the computers at the car
+[14:17] shops. Uh they do a lot more than that,
+[14:19] but they basically uh train technicians
+[14:22] and but everything's now computerized
+[14:24] and so their business is booming.
+[14:26] Carpenter Technology CRS um has been a
+[14:30] very good performer for us. Now this
+[14:32] company is involved in making titanium
+[14:35] and especially alloys. Obviously um they
+[14:38] supply the aerospace industry. Um, so
+[14:41] they're they continue to do amazingly
+[14:43] well. Brinker International, which is
+[14:46] called um, EAT is the symbol. It's a big
+[14:50] restaurant chain. They're doing well
+[14:52] because consumers are out and
+[14:53] about. And then finally, uh, stock we've
+[14:56] talked about in the past. E-wave, the
+[14:59] symbol is QBTS, also scores very high.
+[15:02] The only cautionary comment I have on
+[15:04] D-Wave, it's not earning money yet, but
+[15:06] it sales are strong and their um
+[15:09] operating losses are better than analyst
+[15:12] estimates. We hope they will be one of
+[15:15] the first quantum computing stocks to
+[15:17] make money, but it is a very speculative
+[15:20] stock and been very exciting for
+[15:21] everybody. QBTS. It's interesting you're
+[15:24] mentioning about D-Wave because one of
+[15:25] our subscribers actually shared with us
+[15:27] in our comments that they had purchased
+[15:29] D-Wave and it has increased 16fold.
+[15:33] Yeah, I think we have to thank my
+[15:34] publisher uh Investor Place for this. Um
+[15:38] they got on the quantum uh computing um
+[15:42] uh craze early. They started with OQ
+[15:46] which literally went up uh over
+[15:49] 1,400%. And there's Encore was
+[15:52] D-Wave uh which is
+[15:54] QBTS and um you know they um they've
+[15:58] been issuing special reports on these
+[16:00] stocks for some time and I'm not the
+[16:02] only editor uh at investor place that's
+[16:05] benefiting from this recommendation and
+[16:07] these were special reports. Now,
+[16:09] normally I don't buy stocks until they
+[16:11] earn money, but everybody wants to know
+[16:13] about up and cominging technologies
+[16:16] uh like quantum computing or small
+[16:18] modular reactors and things like that.
+[16:21] And um uh the quantum computing stocks
+[16:24] uh led by IOQ and D-Wave are the creme
+[16:27] creme. Now other quantum computing
+[16:29] stocks going up, but IO and Q and Dwave
+[16:32] have the strongest sales. So I now I
+[16:34] would encourage this viewer to try to
+[16:36] diversify a little. Okay. Um, and it
+[16:39] sounded like that's this one's the main
+[16:42] stock they own. So, u maybe they can
+[16:45] diversify in a few more stocks. While
+[16:47] we're talking about stocks, one of our
+[16:49] subscribers wanted to know what your
+[16:50] thoughts are on Dell versus SMCI. Sure.
+[16:53] So, SMCI Super Microcomput, uh, this is
+[16:56] a core holding of ours. Um, they
+[16:59] basically put the Nvidia Blackwell chips
+[17:01] in the cloud. They make these water
+[17:03] cooled rack systems. Uh you might have
+[17:06] heard Jim Kramer say that Dell's going
+[17:08] to beat um a super micro and that's just
+[17:12] not true. Uh so I have friends in the
+[17:14] cloud business. I have friends in the AI
+[17:17] business and everybody swears by super
+[17:20] micro computer period. Uh is Dell uh
+[17:23] capturing some market share? Just a bit.
+[17:26] But the bottom line, Super Micro remains
+[17:28] the leader and um they had a huge order
+[17:31] backlog because everybody wants those
+[17:33] Nvidia chips, but they make the best
+[17:35] water cooled rack systems. So, I'm very
+[17:38] comfortable holding uh Super Micro
+[17:41] computer. And again, we're still up over
+[17:42] 800% in it. So, we're very very
+[17:45] reluctant to uh to sell it um because we
+[17:49] don't want to pay the taxes, but can we?
+[17:51] And lastly, one of our subscribers
+[17:52] wanted to know what you think about AMD
+[17:54] versus Nvidia. Nvidia is superior. Um,
+[17:58] they uh have stronger sales and
+[18:01] earnings. Uh, they got a better battle
+[18:03] plan. They're going to continue to
+[18:05] dominate the AI chips for regenative uh
+[18:09] AI uh to the end of the decade. They're
+[18:12] leading the the transition to uh quantum
+[18:15] computing as well.
+[18:17] So, uh, I'm a big Nvidia fan and, you
+[18:20] know, we're up, uh, over 3,400% in it,
+[18:23] and that's why we won't sell it. Um, and
+[18:25] this is our second time in
+[18:27] Nvidia. AMD is doing better, though.
+[18:30] Okay, they make lower grade uh, uh,
+[18:33] chips and those chips can be used for
+[18:35] AI. Um, but uh, if you show stock
+[18:38] grader, um, you know, AMD just isn't as
+[18:41] strong
+[18:43] on my system as it has been. And then
+[18:45] Nvidia, by the way, for a while slipped
+[18:47] to a D, but um I I really go on the on
+[18:50] the forecast, the sales and earnings and
+[18:52] the fundamentals, and I'm extremely
+[18:54] pleased with Nvidia. Well, thank you so
+[18:56] much for answering all my questions, and
+[18:58] thank you to you all again for liking,
+[19:00] commenting, and subscribing. If you have
+[19:01] any questions that you want us to
+[19:02] address next week, please make sure to
+[19:04] leave them in the comments below. But
+[19:06] until then, we will see you all next
+[19:07] week with a very special guest for a new
+[19:10] video. Thanks so much,
+[19:12] everyone. Yeah.
+[19:14] [Music]

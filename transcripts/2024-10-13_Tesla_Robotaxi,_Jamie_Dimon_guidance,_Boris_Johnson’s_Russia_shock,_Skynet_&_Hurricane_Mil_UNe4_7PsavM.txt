@@ -7,9 +7,634 @@ Type: video
 Duration: 26:14 (1574s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 626
+Transcript characters: 21715
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:02] [Music]
+[00:06] hello everyone welcome back to navier
+[00:08] Market Buzz episode seven I'm Crystal
+[00:11] navier and I'm joined again this week
+[00:13] with my father Lou navier and we have a
+[00:15] special guest Evon marchev who is the
+[00:17] investment strategist at navier welcome
+[00:20] Avon where are you located today I'm in
+[00:23] Milbourne New Jersey right outside of
+[00:25] New York City and you're gonna have to
+[00:26] excuse my dog because she's barking
+[00:29] that's okay Dad where are you I'm at
+[00:32] your grandma's house in salano Beach
+[00:33] California very good very good well
+[00:36] let's jump in I would love to talk about
+[00:38] the Tesla Robo taxi event that happened
+[00:41] last
+[00:42] week yeah I'm actually working on an
+[00:44] article on that um for market watch I
+[00:47] thought it was an incredibly well
+[00:49] choreographed event it was at Universal
+[00:52] Studios in Burbank and you know Elon got
+[00:54] in the the robo taxi and went around a
+[00:57] building and popped back up they also
+[01:00] introduced a robo van which was very F
+[01:03] futuristic can hold 20 plus people and
+[01:05] or carry cargo and then he also had his
+[01:08] Optimus robot serving
+[01:10] drinks uh the Optimus robot um can do
+[01:14] some household chores including walking
+[01:16] the dog I think the Optimus robots at
+[01:19] least 10 years out I think the main
+[01:21] thing is robotaxis are supposed to be
+[01:24] introduced in late
+[01:25] 2026 or
+[01:27] 2027 they'll be tested in um San
+[01:31] Francisco and Austin Texas they're
+[01:33] behind wio which is Google's uh product
+[01:36] I I've been in San Francisco a bit in
+[01:38] recent weeks and the Whos are everywhere
+[01:40] what happens with a whmo when it gets a
+[01:42] little lost um a human intervenes and
+[01:45] takes control and hopefully Tesla will
+[01:48] have something similar what's
+[01:49] interesting is weo uses liar which is
+[01:54] heat from animals or pedestrians a lot
+[01:56] of cars with the with the night vision
+[01:58] have lar built in their cars the Tesla
+[02:00] system only uses cameras so it's going
+[02:02] to be interesting which uh system works
+[02:05] the best and uh but I think it's
+[02:07] imperative that Elon gets these Robo
+[02:10] taxis out there because Cen is believing
+[02:13] and he does get some criticism because
+[02:16] he likes to introduce things and they
+[02:17] don't materialize right away kind of
+[02:20] kind of like a sports car and and uh so
+[02:24] it's uh I I think he he needs to test
+[02:27] these things as soon as possible but uh
+[02:30] I I thought it was very well uh prepared
+[02:32] event and unfortunately the stock sold
+[02:34] off because they no one figured out how
+[02:35] to monetize this right away but long
+[02:38] term I think they're on the right track
+[02:40] now do you want to talk about the JP
+[02:41] Morgan quarter announcement that was
+[02:44] great um beat on on on everything they
+[02:47] got it higher and Jamie Diamond wasn't
+[02:49] manically depressed uh you know Jamie
+[02:52] Diamond is probably more powerful than
+[02:54] the FED chairman and this is the biggest
+[02:56] the best run Bank in America and and if
+[03:00] if he's happy we should be happy okay so
+[03:03] I think that's set a very good tone
+[03:04] obviously falling rates uh are going to
+[03:07] help all the banks um there's a if you
+[03:09] read the bank earnings will be coming
+[03:11] out this week uh they expect falling
+[03:14] rates are going to help Schwab probably
+[03:16] the most so um we should get more good
+[03:19] bank uh um earnings and as far as the
+[03:22] what we call the delinquency rates
+[03:24] they're still there and some banks may
+[03:26] have to boost their loan loss reserves
+[03:28] like City Bank but uh but we'll
+[03:31] see ion I see you thinking do you have
+[03:34] any comment on it so I do think the
+[03:38] glasses half full like the only flying
+[03:41] the ointment is uh Warren Buffett
+[03:44] raising cash like the world is ending
+[03:46] you know he's I think he sold a third or
+[03:49] a quarter of his Bank of America stake
+[03:51] which was
+[03:52] humongous he sold a lot of Apple he's
+[03:56] still I mean I think his cash position
+[03:58] is well above $200 billion I haven't
+[04:01] seen the last
+[04:03] um the last filing but he's raising cash
+[04:08] very very aggressively as the market is
+[04:10] making all-time highs now the Market's
+[04:13] not cheap but nobody cares how expensive
+[04:16] the market is in the last three months
+[04:18] of the
+[04:19] year and so far there is no sign of a
+[04:22] recession and I do think we'll have a
+[04:24] probably pretty decent finish uh to the
+[04:28] year if we don't have something crazy
+[04:30] going on on the geopolitical front which
+[04:33] is you can really forecast ahead of time
+[04:35] it's not an economic indicator who's
+[04:38] going to blow up which missile where you
+[04:40] know we don't
+[04:42] know but you know this Israeli Iran
+[04:45] situation people are assuming it's going
+[04:47] to be just an exchange of blows if it
+[04:51] turns out to be a protracted tit forat
+[04:55] shooting of
+[04:56] missiles it's hard to kind of forecast
+[04:59] where things go because it might go
+[05:01] Regional and you know we're just waiting
+[05:03] to see how it plays
+[05:06] out that's a perfect segue I wanted to
+[05:08] ask you about what the uh British prime
+[05:10] minister Boris Johnson commented about
+[05:13] Russia not invading
+[05:15] Ukraine well I don't think the
+[05:17] ukrainians can win this
+[05:19] war simply because they're outnumbered
+[05:22] and
+[05:22] outgunned now you can throw all kinds of
+[05:26] weapons at them and if they don't have
+[05:29] the man power and if they stretched too
+[05:31] thinly which they
+[05:33] are um I'm I mean how are they going to
+[05:35] win what they going to keep invading
+[05:37] Russia without
+[05:38] people um so what the Russians are doing
+[05:44] is like a classic Russian strategy they
+[05:46] don't care about human losses
+[05:48] unfortunately that's how they
+[05:51] are and they're basically bleeding you
+[05:54] Ukraine dry that's what it looks like to
+[05:56] me from the sideline so I don't believe
+[05:59] Ukraine can push any type of Front Line
+[06:03] back
+[06:04] to where the borders were before the war
+[06:07] so there's going to be some sort of a
+[06:09] negotiated settlement otherwise Putin
+[06:12] can keep doing what he's doing we can
+[06:14] keep throwing money at Ukraine and um
+[06:18] you're going to have another year of of
+[06:20] the same stalemate by the way the
+[06:22] Russians are making
+[06:23] progress so whoever gets into the White
+[06:27] House in November
+[06:30] better figure out some sort of a
+[06:33] um diplomatic solution because I I don't
+[06:36] think this is going to go anywhere the
+[06:38] way it is at present and the only other
+[06:40] way you can tip the
+[06:42] scales if you send in troops from other
+[06:45] countries and that means World War I I
+[06:47] don't think anybody wants that so yeah I
+[06:49] should add that you know Boris Johnson's
+[06:51] on a book tour which is kind of
+[06:53] revisionist history and um uh lazinski
+[06:59] ran on doing a peace deal with Russia
+[07:01] but Boris Johnson talked him out of
+[07:03] it as in the US and so we're kind of
+[07:07] responsible for what happened rightly or
+[07:09] wrongly um but the most controversial
+[07:11] thing he said in the book is that that
+[07:14] Russia wouldn't invaded if Trump was
+[07:16] president and um he's doing that to get
+[07:19] hits for his book uh whether that's true
+[07:22] or not I don't know but uh zon has
+[07:25] pointed out that the war is just a mess
+[07:27] you you got a million people injured and
+[07:29] and or maimed and uh and when you lose
+[07:32] 40% of your population as Ukraine can
+[07:35] you you can't restore your country uh
+[07:38] your infrastructure is obviously harmed
+[07:40] and you you just can't grow your your
+[07:43] your economy uh very effectively when
+[07:45] you lose 40% of your population so this
+[07:48] is a mess and hopefully there'll be a
+[07:50] peace agreement but uh uh it's a it's a
+[07:53] big distraction it's amaz it's amazing
+[07:55] how it's not in the news anymore so so
+[07:58] uh I mean I don't think Putin is a good
+[08:01] guy but what you need to realize is the
+[08:04] Russians view Ukraine as part of their
+[08:08] sphere of
+[08:09] influence so it's almost like let's say
+[08:12] China shows up to Mexico and pulls
+[08:14] Mexico in a Chinese military Alliance I
+[08:16] don't think the United States is going
+[08:17] to like that at all so the same thing
+[08:20] happens with Ukraine and NATO you show
+[08:22] up at Ukraine you know you want to fold
+[08:25] Ukraine into NATO and the Russians find
+[08:27] that unacceptable
+[08:29] and also there was something called an
+[08:32] orange Revolution before the Russians
+[08:33] took Crimea the Russians viewed that as
+[08:36] a cud they don't believe it's a
+[08:39] revolution they think it was organized
+[08:41] from somebody there is a very
+[08:43] interesting film by um Oliver Stone
+[08:46] which is a very controversial director
+[08:48] it's available on YouTube it's called
+[08:49] Ukraine on fire it's a documentary if
+[08:53] you watch that documentary you'll see
+[08:56] that the the actual events the way
+[08:59] unfolded it's factual there's all kinds
+[09:01] of evidence there um is not what people
+[09:05] say you know
+[09:07] officially say it happen in in back in
+[09:10] 2014 during the orange Revolution so the
+[09:13] Russians view this as an encroachment on
+[09:15] their sphere of
+[09:17] influence and they may be verified and
+[09:20] and whatnot but I don't think they're
+[09:21] going to let it go I don't believe
+[09:23] there's a way to push the Russians out
+[09:25] of
+[09:26] Ukraine not militarily I should Russia I
+[09:30] guess hit some Ukrainian grain ships
+[09:32] last week which uh well that was a new
+[09:34] one because um I guess there had been
+[09:36] some sort of agreement not to hit the
+[09:38] ships but uh whatever agreement they had
+[09:41] might have expired because they they
+[09:42] started hit the grain ships so they're
+[09:45] they're trying to hurt Ukraine
+[09:47] economically I think that's a response
+[09:49] for the Ukrainian incursion into Russia
+[09:52] well I'd love to transition over into
+[09:54] kind of what we can expect this week um
+[09:56] in terms of retail sales do you expect
+[09:58] them to improve
+[10:01] I do um because we had that very strong
+[10:04] ISM Services report retail sales um are
+[10:08] going to be interesting because you know
+[10:09] your gas prices have dropped so you want
+[10:12] to see did the Savings in gas get spent
+[10:15] somewhere else so the overall number may
+[10:18] not be that impressive because your
+[10:20] sales at gas stations are going to be
+[10:21] down but the question is where did the
+[10:24] spending go and and how many
+[10:27] categories um we're up uh now I expect
+[10:31] online sales to be very good uh there's
+[10:33] incredibly strong at Costco so I'm sure
+[10:35] they're strong everywhere else including
+[10:37] Amazon so uh but we should see a
+[10:40] positive retail sales report but the the
+[10:43] the overall number won't be that
+[10:44] impressive because again falling gas
+[10:47] prices now what about for the housing
+[10:50] starts well they should pick up because
+[10:52] mortgage rates are coming down we had a
+[10:54] surge in um building permits and things
+[10:57] a while back you know the the home
+[10:59] builders that build multif family units
+[11:02] they have to Discount a lot single
+[11:04] family homes are a lot stronger a lot of
+[11:06] the housing starts have been multifam so
+[11:08] the housing Market's still mixed but you
+[11:11] know our pick in the housing sector is
+[11:13] told Brothers they're more expensive
+[11:14] homes and they're not as sensitive to
+[11:17] the gyration of the economy that's a
+[11:19] perfect segue one of our subscribers
+[11:21] actually asked um how they didn't expect
+[11:23] mortgages to spike they want to know how
+[11:25] the future housing market is looking
+[11:28] it's going to be okay because uh
+[11:30] building permits surge housing starts
+[11:32] surge so there's a lot of planning in
+[11:34] the works Spike and mortgage rates is
+[11:36] almost 50 basis points in the last month
+[11:38] because bond yields have risen so this
+[11:41] is a little disturbing I would tell
+[11:43] people if you want to refinance just go
+[11:45] ahead and refinance you can refinance
+[11:46] later if you want depends how many
+[11:48] points and stuff you have to play
+[11:50] hopefully you can do it without points
+[11:51] it's a sector of the economy that should
+[11:53] improve the fastest as rates come down
+[11:55] the FED continues to
+[11:57] cut so there's something with housing
+[11:59] that a lot of like people that have
+[12:04] watched the market in the last 30
+[12:06] years um nonprofessionals don't
+[12:10] appreciate there is a structural
+[12:12] shortage of houses on the market which
+[12:15] is the direct consequences of what
+[12:19] happened with the housing bubble back in
+[12:21] 2007 2008 they underbuilt houses below
+[12:26] the normal household creation rate so
+[12:29] now there's a shortage of anywhere
+[12:31] between three and 5 million homes
+[12:34] because country is bigger there's more
+[12:35] people
+[12:36] living and there there aren't enough
+[12:38] houses so what happened in this spike in
+[12:42] mortgage rates which I don't believe
+[12:44] it's ever happened before we had
+[12:46] mortgage rates rise and house prices
+[12:49] rise at the same time that's never
+[12:51] happened before so the fact that
+[12:53] mortgage rates are are off their highs
+[12:57] it doesn't you know only mean probably
+[12:59] housing prices will go higher in fits
+[13:01] and
+[13:02] starts you know so this structural issue
+[13:05] in the housing market is not going to
+[13:07] change today tomorrow might change in
+[13:10] five years with the right
+[13:12] policies but this problem in housing
+[13:14] will persist so I don't see the housing
+[13:17] market going lower anytime soon if
+[13:20] there's a shortage between three and
+[13:22] five
+[13:23] million um homes on the market we also
+[13:26] had another question from one of our
+[13:28] subscribers wanted to know about the
+[13:30] highflying stock
+[13:32] ALR yeah this was a a stock I recommend
+[13:35] early in the year and it did go up 500%
+[13:37] and it gave back almost 80% of that gain
+[13:40] alir is a cyber security firm based in
+[13:43] Israel they announced uh the latest
+[13:45] scared results they earned 41 cents a
+[13:47] share unfortunately the analysts said
+[13:50] their operating earnings were down 10
+[13:51] cents a share so this gets confusing
+[13:54] when companies announce you have your
+[13:56] overall results and then you have your
+[13:58] operating results results and because of
+[14:01] that confusion the stock got hit I'm
+[14:03] going to hold the stock through another
+[14:05] quarterly announcement season because I
+[14:07] expected sales and earnings to continue
+[14:09] to grow but there seems to be some
+[14:12] operating earnings confusion on Al and
+[14:15] you got to realize that every company in
+[14:17] Israel is you know they've lost some of
+[14:19] their employees their IDF reserves they
+[14:21] have to go help defend their country but
+[14:24] uh Israel's always been the leader of
+[14:26] cyber security so I'm expecting Al to
+[14:30] continue to be a leader well with that
+[14:32] being said um what do you both expect
+[14:33] for the quarter three earning
+[14:36] announcements well they're supposed to
+[14:37] be at 4.8% but that's uh that's down
+[14:41] from the previous quarter but I think
+[14:43] they'll be a lot better and the banks
+[14:44] are already going to start um lifting
+[14:47] that number and um you know what our
+[14:51] testing showed is you got to be in the
+[14:52] top 55% of stocks are the best
+[14:54] fundamentals otherwise your performance
+[14:57] drops off the cliff based on analyst
+[14:59] estimates it looks awfully good as ion
+[15:02] was mentioning we should have a nice
+[15:03] year in rally because this is a
+[15:05] seasonally strong time of year the
+[15:07] second half October is much stronger
+[15:08] than the first half and October is a
+[15:10] seasonly strong month despite October 87
+[15:13] so last 30 plus Year's October strong uh
+[15:17] the uh November's also seasonally strong
+[15:20] uh it's a happy time of year people get
+[15:22] in a holiday mood that happiness seems
+[15:24] to rub off on the stock market and then
+[15:27] um and then finally um
+[15:29] uh we often get an early January effect
+[15:32] uh um and the small caps catch up so uh
+[15:36] we're expecting a a stunning earnings
+[15:38] announc season as always it's going to
+[15:40] be every stock for themselves I think
+[15:42] the uh the test was when super micro uh
+[15:46] announced that they had better than
+[15:47] expected U sales and that stock shot up
+[15:51] and um so that was a good sign uh what
+[15:55] we have to look forward to so negative
+[15:59] seasonality did not work out this year
+[16:01] so the same way there's positive
+[16:03] seasonality there's negative seasonality
+[16:05] and the worst month of the year with
+[16:08] better than 1% negative return is
+[16:10] September and September was up this year
+[16:14] and I think that was the first time in
+[16:16] five years September is up so if
+[16:18] negative seasonality is
+[16:20] positive it may mean that positive
+[16:22] seasonality is even more positive that's
+[16:24] what it looks
+[16:26] like I I think the it's it's entirely
+[16:29] possible we end up having a 30% year up
+[16:32] year in the S&P because we're up already
+[16:33] 20% for the year it's very uneven those
+[16:38] 20% does don't mean the average stock is
+[16:40] up 20% because up until
+[16:44] July the vast majority of gains were in
+[16:47] the top 10 or 20 stocks in the S&P
+[16:51] 500 but that has started to change
+[16:54] Market's kind of broadening out so um I
+[16:56] think we'll have a strong finish to the
+[16:58] year the only thing that I can predict
+[17:00] is obviously geopolitics and I'm hoping
+[17:03] that's going to stay contained you know
+[17:07] in the next two or three months I would
+[17:09] add that M2 has a had a surge here and
+[17:12] the stock market usually does follow M2
+[17:15] so M2 is the money supply basically the
+[17:19] money in your bank account uh and
+[17:21] short-term savings accounts that uh any
+[17:24] CD over year gets excluded from uh uh
+[17:28] from from um M2 but the surge in
+[17:31] M2 is highly correlated to the
+[17:34] Improvement the stock market so that
+[17:36] bodess very well and um and hopefully
+[17:40] we'll this election uncertainty will
+[17:42] dissipate right after the election
+[17:44] hopefully the election won't be
+[17:46] contested and then we can just adapt and
+[17:49] go on Avana I'd like to ask you why you
+[17:51] call citadel's algorithm Skynet so so
+[17:55] it's not only the Citadel that runs
+[17:56] those algorithms the the logic
+[17:59] proprietary trading Deck Des on Wall
+[18:01] Street Wall Street is run by Goldman
+[18:03] Sachs trading patterns of the stock
+[18:05] market inaday have changed over
+[18:08] time and there's a lot of flipping and I
+[18:12] suspect I have no way to prove it that's
+[18:14] directly correlated with the huge
+[18:17] volumes in the options Market the game
+[18:19] of of of options that expire every day
+[18:22] everyday options exploration now is
+[18:25] shorting options and the only way that
+[18:26] can be done profitable is without ithm
+[18:29] so I think there is like a feedback loop
+[18:32] between the options market and the
+[18:34] Futures Market that creates a very nasty
+[18:38] flipping pattern throughout the day that
+[18:41] just the only way it can be capitalized
+[18:43] on is with computers or by individual
+[18:47] Traders if they expect to see what it is
+[18:50] that they're saying the overall Market
+[18:53] there's there's studies been that have
+[18:55] been done a huge part of the moves over
+[18:59] time or made overnight not during the
+[19:02] day so it was um I think best fol that
+[19:07] did this
+[19:08] study if you bought and sold uh at the
+[19:12] closer if you bought it the the close
+[19:16] and sold it the open you actually had a
+[19:19] lot higher returns than if you actually
+[19:21] traded
+[19:22] intraday so it's almost like a the the
+[19:26] long-term moves are done
+[19:29] um
+[19:31] overnight over time and then intraday
+[19:35] the market flips just so they can do the
+[19:37] op options
+[19:39] Arbitrage it's a pretty
+[19:43] um there there's a book called Flash
+[19:45] Boys by Michael Lewis it came out in
+[19:50] 2015 and
+[19:52] basically he says computers have taken
+[19:55] over and people are just being led by
+[19:57] the nose by by software programs there
+[20:01] there's a company that in order to shave
+[20:03] three
+[20:04] milliseconds between Chicago and New
+[20:07] York in order to Arbitrage between
+[20:09] Futures and the cash Market actually dug
+[20:12] up some Farm fields and buried a shorter
+[20:16] fiber optic cable so they can have a
+[20:19] speed Advantage between the two
+[20:21] exchanges that's how much money is at
+[20:23] stake and that's not really done by
+[20:26] people that's done by computers and it's
+[20:29] getting worse and worse and worse by the
+[20:30] day you know it's um I don't know where
+[20:33] it's going but
+[20:36] uh I kind of liked it more when people
+[20:39] were running the show not not computers
+[20:42] I would add that the reason that Ken
+[20:44] Griffith is so
+[20:46] rich is I think he perfected a perpetual
+[20:49] motion machine
+[20:51] um the options Market is equivalent of
+[20:55] the of a dog chasing its tail once it
+[20:57] starts chasing its tail it can't stop
+[21:00] and uh 43% of options uh issued are are
+[21:04] daily and when you write an option you
+[21:07] collect a premium so it appears that
+[21:09] Citadel and some of the other
+[21:11] algorithmic Traders are very very busy
+[21:14] selling options and collecting these
+[21:17] premiums but they of course don't want
+[21:18] to pay the premiums so uh as if the
+[21:22] stocks it close to the option
+[21:23] exploration price uh then uh of course
+[21:27] um they have to invest some mean
+[21:29] reversion program to bring the stock
+[21:31] down so they don't have to pay so
+[21:33] there's a lot of games that go on during
+[21:34] Market hours ion is Absolut right about
+[21:38] um uh that the the best um picture of
+[21:43] the market URS aftermarket so we buy
+[21:47] research from bepoke and bepoke has
+[21:50] proven and they issue these charts every
+[21:52] now and then based on spy and
+[21:56] QQQ that if you bought uh
+[21:59] those uh very popular
+[22:01] ETFs at the opening and you sold them at
+[22:04] the
+[22:05] close uh you lose money since their
+[22:08] Inception uh in 40 the last 40 years on
+[22:11] the other hand you buy them at the close
+[22:14] and sell them at the opening you're up a
+[22:18] couple thousand plus percent. so Market
+[22:21] hours is what we call a killing field
+[22:24] okay and there's a lot of things that
+[22:27] are are going on and there's a lot of
+[22:30] games and
+[22:31] gimmicks uh when we sold our broker
+[22:34] dealer business back in
+[22:36] 2013 one of our incentives was is just
+[22:39] to get out of bad trading pipes uh
+[22:42] because some of these firms would would
+[22:45] not allow us for lack of better word
+[22:47] best execution uh there was one firm uh
+[22:50] Bank Capital just bottom um that U big
+[22:54] public company that would only let us
+[22:56] trade at 10:30 Eastern 1:30 to Eastern
+[22:59] Market only we could not work in order
+[23:02] and um so uh what happened with our our
+[23:05] private client group is
+[23:07] we we sold our broker we cut off our
+[23:10] broker dealer ties and uh just
+[23:12] Consolidated all our business of Schwab
+[23:14] because we like Schwab's execution and
+[23:16] um and how they let us work orders and
+[23:19] things but um there's a lot of games
+[23:21] that go on during Market hours and um
+[23:24] when we do sell we like to sell in the
+[23:26] strength when we buy We Like to Buy in
+[23:28] dips
+[23:29] uh and that's because we're trying to
+[23:31] move the opposite of what citadel's
+[23:33] doing perfect well I'd love to finish
+[23:35] off ask you what are your favorite
+[23:37] near-term stocks right
+[23:39] now well the insurance companies
+[23:41] obviously Survived Hurricane Milton uh
+[23:44] All State and Progressive which are
+[23:47] homeowners auto insurance companies were
+[23:49] down sharply a week ago Monday and then
+[23:53] they went up every day thereafter the
+[23:55] main reason is is Hurricane Milton uh
+[23:59] uh was losing strength as it approached
+[24:01] Florida it hit a coldfront and obviously
+[24:03] it did a lot of damage but nowhere near
+[24:05] as bad as initially feared and the other
+[24:08] insurance company other than alll and
+[24:10] pgr that um that rebounded most
+[24:14] dramatically was HCI group that is a
+[24:16] homeowners insurance company in Florida
+[24:19] that we own it was up sharply Friday my
+[24:22] Best Buy near term is pal pal
+[24:25] Corporation this is what we call a
+[24:26] fundamental a stock this stock ran in
+[24:28] the top 20% of sales margin expansion
+[24:31] earnings stability earnings momentum
+[24:33] cash flow return Equity oun earnings
+[24:35] revisions earnings surprises it is a
+[24:37] small cap stock so it it tends to move a
+[24:39] little bunny like sit hop sit hop but it
+[24:42] uh it was sitting on Friday it didn't go
+[24:44] up and uh it's a very good near-term buy
+[24:47] that's pwl the the big lagger in the
+[24:51] stock market has been the small cap
+[24:53] index Russell
+[24:55] 2000 and that's the index
+[24:58] of companies that benefits the most from
+[25:01] Federal Reserve rate Cuts so if we get
+[25:04] more rate
+[25:06] cuts which you know some people say we
+[25:08] should other people say we shouldn't
+[25:11] that depends on how inflation plays out
+[25:13] if we do get more Fed rate cards I think
+[25:17] it's entirely possible that the small
+[25:19] cap index does exactly what it did last
+[25:22] year this time which basically
+[25:24] outperformed
+[25:25] dramatically it's very hard you can ask
+[25:28] ask your dad very hard to pick small cap
+[25:30] stocks because they're not correlated to
+[25:32] the index as much as large cap stocks
+[25:34] are the large cap indices they kind of
+[25:37] do their own
+[25:38] thing but as far as a macro call I think
+[25:42] we should see out performance in the
+[25:44] Russell 2000 Index which is also
+[25:47] tradable through all kinds of ETFs and
+[25:49] and
+[25:51] whatnot perfect well thank you both for
+[25:53] answering all my questions and Avon
+[25:55] thank you so much for being here today
+[25:57] again please like And subscribe and if
+[25:59] you have any questions to ask us next
+[26:01] week leave them in the comments but for
+[26:03] now thank you so much and we'll see you
+[26:05] next week
+[26:07] [Applause]
+[26:07] [Music]

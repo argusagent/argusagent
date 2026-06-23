@@ -7,9 +7,511 @@ Type: video
 Duration: 20:26 (1226s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 503
+Transcript characters: 18328
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:06] hello everyone welcome back to navier
+[00:08] Market Buzz episode 11 I'm Christa
+[00:10] navier I'm joined again with my father
+[00:12] Lou navier and we also have a special
+[00:15] guest today Gary Alexander who is the
+[00:17] editor of nav Market mail which is a
+[00:19] weekly EET written by Gary Jason Bodner
+[00:22] Ivon marev Brian Perry and of course my
+[00:24] dad Gary likes to write with a
+[00:26] historical perspective and is also an
+[00:28] expert in gold very welcome to navali
+[00:31] Market Buzz well thank you so much it's
+[00:33] good to be here with you both so first
+[00:35] off I was wondering if you could put
+[00:37] into perspective what Tuesday's election
+[00:39] results mean for investors is this a
+[00:41] political
+[00:42] earthquake uh it seems like it because
+[00:45] once again the polls were way off they
+[00:47] were really way off the last two Trump
+[00:50] um elections as well Trump got a lot
+[00:53] more votes in 2020 than the polls
+[00:55] anticipated and even more so th this
+[00:58] year and the Republic or Trump votes
+[01:01] Rose in every state except perhaps my
+[01:04] state of Washington but all the votes
+[01:06] aren't counted yet so we don't know that
+[01:08] for sure so I would call it a landslide
+[01:11] earthquake whatever you wish because it
+[01:13] was very clear Senate and House as well
+[01:16] and as far as investors we can get into
+[01:18] that but uh it's a good historical model
+[01:23] to have this kind of move right now like
+[01:26] you mentioned there was a discrepancy
+[01:28] between the bootes since 20 20 where did
+[01:31] those 14 million votes just disappear on
+[01:33] the Democratic side yeah I feel that's
+[01:36] an unwarranted fear so far uh I just
+[01:39] looked up California they have 5 and a
+[01:41] half million votes haven't been counted
+[01:42] yet and uh also four other states in the
+[01:46] west uh all but Utah would be
+[01:48] democratically held States Washington
+[01:50] Oregon Alaska and Utah and California
+[01:54] just haven't counted all our votes
+[01:55] neither is Maryland uh that's under 80%
+[01:58] so once you get all those votes in I
+[02:01] think it'll be fairly close to the total
+[02:03] vote of 2020 but with this PS there was
+[02:07] a lot of vote harvesting by Zucker bucks
+[02:10] and others in 2020 in a Mad Dash to keep
+[02:14] Trump out but there wasn't that mad dash
+[02:17] this year I mean Zucker and Zuckerberg
+[02:20] and all the other Silicon Valley people
+[02:22] with a couple of notable exceptions had
+[02:25] come around to see that Trump had some
+[02:27] value and Vance is a good partner that
+[02:29] US dollar surged after the election
+[02:31] results and the treasury bond yield also
+[02:33] Rose but gold prices actually faltered
+[02:36] so is that because International
+[02:37] investors have confidence in the US
+[02:39] economy well that happened right away
+[02:42] the first 24 hours people with itchy
+[02:45] trigger fingers and enter thumbs and
+[02:46] everything else wanted to make a trade
+[02:48] right away but gold recovered and the
+[02:51] tenure yield came back down to where it
+[02:54] was before uh the dollar shot up really
+[02:57] fast but came back to where it was
+[02:59] before so I think calmer Minds by
+[03:02] Thursday had said okay let's not
+[03:03] overreact here uh it's going to be good
+[03:06] but not heaven on Earth they're not
+[03:08] going to solve the deficits overnight
+[03:10] they're not going to end the war in
+[03:11] Ukraine and Israel overnight this is
+[03:14] going to take a lot of work and really
+[03:16] some cooperation uh on all sides to
+[03:19] happen so yes there was a big move
+[03:21] internationally but the reaction was
+[03:25] back to okay the bull market continues
+[03:28] but not in an you know a huge one-way
+[03:31] Direction up always up I also noticed
+[03:33] that Bitcoin surge in the wake of the
+[03:35] Trump Victory is that because Trump
+[03:36] wants the US to be a cryptocurrency
+[03:39] leader um yeah Trump likes the King
+[03:42] Dollar theme a lot more than the others
+[03:45] and yeah it has its pros and cons to to
+[03:49] have a strong dollar but I noticed the
+[03:50] brick uh Nations met and they want to
+[03:53] have a uh alternative coner con uh
+[03:56] currency but who's going to trust the
+[03:58] paper from China from India from Brazil
+[04:01] from Russia
+[04:02] please the only other competitor for a
+[04:05] while was the euro but it's not been a
+[04:08] strong competitor in n in international
+[04:10] reserves Global reserves gold has now
+[04:12] surpassed the Euro as the number two
+[04:14] holding after the dollar which is more
+[04:17] than 50% of all Holdings so gold
+[04:19] standard isn't really back officially
+[04:21] but the international central banks have
+[04:24] voted more for gold than for any other
+[04:26] paper currency in the last 10 or 15
+[04:28] years I I would ask Gary that you know
+[04:31] Brazil seems to be teetering on a mess
+[04:33] because their uh deficits over 10% of
+[04:36] their current GDP and um of course their
+[04:39] interest rates are artificially high so
+[04:41] Lulu D Silva is uh um pushing his luck
+[04:44] for lack of a better word and um uh the
+[04:48] other thing that we find interesting is
+[04:50] the Wall Street Journal had this article
+[04:51] how Europe is now headless because
+[04:54] macron is leading France but he's in the
+[04:56] minority party now he called an election
+[04:58] and he prevailed because there's too
+[05:00] many parties in France they all fighting
+[05:02] with each other but of course Germany uh
+[05:05] um their coalition government fell apart
+[05:07] this week so they're going to have to
+[05:08] have elections they'll be a vote in own
+[05:10] confidence and um last I looked Olaf
+[05:13] schel um party only had 16% of the vote
+[05:18] in the the regional elections recently
+[05:20] and his other Coalition partner the
+[05:22] green party only had 10% so that means
+[05:25] only 26% of Germany's governing right
+[05:28] now so that The Wall Street Journal had
+[05:30] this headless article that Europe's
+[05:32] headless and uh what a mess and um I
+[05:35] also find it interesting
+[05:38] that that um when they gave Ukraine some
+[05:42] money they gave him a loan they didn't
+[05:44] give him money like Biden does they just
+[05:46] said oh here's a $50 million loan from
+[05:48] the the money we see is from Russia so
+[05:51] they want their money back apparently so
+[05:54] amazing but you know Trump uh you know
+[05:56] is now talking to all these foreign
+[05:57] leaders and if uh if he starts to
+[06:00] negotiate uh with Putin and lazinski and
+[06:04] uh uh is he supposed to be with Biden is
+[06:07] it because you know he's not president
+[06:08] right now so uh doesn't he have to be
+[06:10] careful about what he talks to him about
+[06:13] oh that's true it's it's a
+[06:14] constitutional situation in which you
+[06:16] can't only have one president at a time
+[06:19] and you cannot negotiate a peace Accord
+[06:22] when you're a president elect that's
+[06:24] very clear uh however I don't uh imagine
+[06:28] that would stop them from talking about
+[06:30] what they might do come January 20th
+[06:33] yeah yeah I know when uh we was talking
+[06:35] lensy um he put Elon Musk on the phone
+[06:39] so that was probably pretty
+[06:42] interesting so now how does the stock
+[06:44] market perform when one party has
+[06:46] control of both Congress and the White
+[06:49] House well I looked that up to make sure
+[06:51] I got the right answer because I thought
+[06:53] I knew all the facts but gridlock still
+[06:56] holds uh sway that's when one party is
+[06:59] in the presidency and another party in
+[07:01] Congress because there are checks and
+[07:02] balances the market likes that because
+[07:04] it keeps government under control they
+[07:06] don't have a monopoly power which gives
+[07:08] them a feeling of invincibility they can
+[07:11] pass anything do anything uh you know
+[07:13] most presidents have tried that their
+[07:15] first two years and then their first
+[07:17] midterm they get a big spanking and the
+[07:19] voters say no we don't want that we
+[07:21] don't want big big big government plans
+[07:24] so that's happened uh to most presidents
+[07:26] recently but when you have the triple uh
+[07:29] the trifecta of the house White House
+[07:31] and Senate that's only been true in the
+[07:34] last 90 years for only eight years for
+[07:36] the Republicans in about 22 years since
+[07:40] World War II for the Democrats when the
+[07:42] Democrats have complete power of all
+[07:44] three the market S&P has average 6.7%
+[07:48] gain when the Republicans it's a small
+[07:51] sample so I hate to generalize that's
+[07:53] the first two years of Eisenhower the
+[07:56] middle four years of George W bush and
+[07:58] the first two years of trump that's only
+[07:59] eight years but it's average 13.5% which
+[08:03] is very close to the the gridlock
+[08:05] average so a republican sweep is twice
+[08:08] as good as a democratic sweep but not
+[08:11] quite as good as split Powers so Gary
+[08:14] where is Lopez Island where you
+[08:17] live Lopez island is part of the San
+[08:19] Juan Islands chain which due to a little
+[08:22] War called the pig War long story but
+[08:25] short version is an American settlers a
+[08:29] British guy's Pig and so Britain and
+[08:32] America went to war over who owns these
+[08:33] islands that was
+[08:35] 1859 and um took 15 years to solve there
+[08:38] was an American Camp of future Civil War
+[08:42] generals on one side and British camp on
+[08:44] the other but they never shot a a rifle
+[08:46] at all at each other it was finally
+[08:48] decided by the um Kaiser vilhelm of
+[08:52] Germany that U the us would have these
+[08:54] islands so thanks Germany appreciate it
+[08:57] and so we are the Western most Island um
+[09:01] archipelago in the United States it's
+[09:03] very independent it's like a buffer
+[09:05] State between US and Canada we're very
+[09:07] close to Victoria BC the capital of
+[09:09] British Columbia and so it's isolated
+[09:12] living it's limited in the sense that
+[09:14] you can't really get off the island that
+[09:16] easily the ferry system is limited we're
+[09:19] like Barnacles on the Rock here hard to
+[09:21] get off and uh it's also very nice not
+[09:25] to have a lot of people driving through
+[09:27] who are strangers so it's low crime and
+[09:29] everything else so I assume your
+[09:31] electricity is mostly
+[09:34] hydroelectric yes that's true in the
+[09:36] Northwest for almost every community and
+[09:38] uh the Columbia River system is almost
+[09:41] half of the hydroelectric power in the
+[09:42] US it's such a mighty River uh I lots of
+[09:46] stories about the Columbia but there are
+[09:47] multiple dams and I've seen quite a few
+[09:49] of them they're masterpieces of
+[09:51] engineering and yeah they they provide
+[09:54] 85% of our Island power it's connected
+[09:57] through an underwater cable and our main
+[09:59] problem here is once in a while um that
+[10:02] cable gets interrupted or cut in in one
+[10:05] case and especially in the early years
+[10:07] when my parents lived here they'd have
+[10:09] five or six days in the winter with no
+[10:12] electricity that doesn't happen anymore
+[10:14] but we sometimes get one or two days
+[10:16] with no electricity so that's been a
+[10:19] problem because of the remoteness of the
+[10:22] islands so with the AI data centers that
+[10:24] are on the Columbia River do you think
+[10:27] it's possible that Trump can double the
+[10:28] electric grid to the to power the AI
+[10:31] expansion that is anticipated in the
+[10:33] upcoming
+[10:34] years that's a good question I think
+[10:36] Louis probably has a better answer than
+[10:38] I do but I would say that he has this
+[10:40] honeymoon period and he better use it
+[10:43] well without having big government
+[10:46] programs to encourage Private Industry
+[10:48] in a way that Elon and Vic and others
+[10:51] would advise him to get Private Industry
+[10:54] involved and not make it a big
+[10:56] government boondoggle but I I I think
+[10:58] that's wor would be pointed Lou do you
+[11:00] agree yeah um you know data centers goes
+[11:04] where the the electricity is cheap so
+[11:06] that's obviously the Columbia River
+[11:07] Gorge um near Lake me in Las Vegas um
+[11:12] Chattanooga is pretty hot uh because
+[11:14] they have uh uh very cheap electricity
+[11:18] there of course they have dams and
+[11:19] things and they have extremely fast
+[11:21] internet uh other places we would get
+[11:24] data centers is wherever there's nuclear
+[11:26] okay because that's cost effective and
+[11:29] um once we leave hydroelectric and
+[11:31] nuclear then uh probably natural gas
+[11:34] would be the cheapest electricity out
+[11:36] there uh interestingly um Constellation
+[11:40] Energy said that at least in in in
+[11:43] Pittsburgh area that natural gas was
+[11:46] cheaper than nuclear and they shut down
+[11:47] Three Mile Island but Microsoft's making
+[11:50] them a start one reactor in Three Mile
+[11:52] Island because Microsoft wants some
+[11:55] carbon free electricity but we would
+[11:57] assume under Trump that they could fire
+[11:59] up natural gas plants all over the
+[12:01] country of course there might be some
+[12:03] State opposition so those States won't
+[12:05] get the data centers but uh there's
+[12:07] enough states that are pro- natural gas
+[12:10] and already have a lot of natural gas
+[12:12] power plants that it would work out so
+[12:15] um you know it's interesting in in uh
+[12:18] Reno you know we have Apple and Google
+[12:20] there and we have uh uh the data centers
+[12:23] there because um well there's a lot of
+[12:25] reasons but one reason is they can use
+[12:27] the the Desert Air at night to cool the
+[12:29] centers but they're mostly geothermal
+[12:32] okay and solar out there Al we do have a
+[12:35] natural gas power plant so uh they use a
+[12:38] little of everything in Reno but yeah I
+[12:40] think uh with the help of natural gas
+[12:43] Trump can definitely uh Bu The Grid we
+[12:46] narrowly escaped a natural gas ban here
+[12:49] in one of our state initiatives on the
+[12:51] ballot uh 51 to 49% we can now use
+[12:54] natural gas but it was a close call and
+[12:57] they tried to ban it so kind of
+[12:58] switching years dad what do you expect
+[13:00] for the Consumer Price Index
+[13:02] announcement on
+[13:03] Wednesday well it's supposed to be up
+[13:05] 210 of a percent it might be up uh a
+[13:08] little bit more in the core rate with
+[13:09] the CPI we we're always looking at owner
+[13:12] equivalent rent it has starting to cool
+[13:14] off at shelter costs and if it finally
+[13:17] uh continues to decline uh then then
+[13:22] consumer inflation will disappeared
+[13:23] literally 90% of consumer inflation has
+[13:26] been shelter cost so that's one of those
+[13:29] indicators that the details will be more
+[13:31] important I'll actually be on Fox
+[13:33] Business when that report's coming
+[13:35] out with Maria that morning so what
+[13:37] about the wholesale prices on the
+[13:39] producer price index announcement on
+[13:41] Thursday well that's going to be lower
+[13:43] because they don't have owners
+[13:44] equivalent run or shelter costs on that
+[13:46] and then of course um we have the strong
+[13:48] dollar as you mentioned and uh the
+[13:50] stronger the dollar the cheaper our
+[13:53] Imports and uh the price of goods um uh
+[13:56] have been down since some months usually
+[13:58] on the strong dollar months uh and the
+[14:01] wholesale service costs were pretty tame
+[14:03] too so those are going to be the two key
+[14:05] components but I believe they're
+[14:06] expecting that to be
+[14:08] unchanged uh so we are expecting a very
+[14:10] good producer price report do you expect
+[14:13] that the retail sales report on Friday
+[14:15] is going to be positive they better be
+[14:18] because that's our economic growth the
+[14:20] consumer and service costs are carrying
+[14:23] the entire economy I think economists
+[14:25] are expecting 410 but uh I would not be
+[14:27] surprised it was 7 or 810
+[14:30] and um the last retail sales report was
+[14:32] just wonderful we had 10 of the 13
+[14:35] Industries up and you know um gas sales
+[14:38] were down because the gas prices fell so
+[14:41] um if we can get another report like
+[14:44] that with uh a lot several Industries up
+[14:47] it's going to bode very very well for
+[14:50] robust GB GDP growth and how Gary had
+[14:54] mentioned before with the stocks right
+[14:56] now I'd love to know what your favorite
+[14:58] stocks picks are after a very strong
+[15:00] week well first of all um we are
+[15:03] definitely having an early January
+[15:04] effect uh the small cap stocks have gone
+[15:07] absolutely
+[15:08] Bonkers uh I was actually shocked how uh
+[15:12] big the rally was when the when Trump
+[15:14] got elected and uh I guess no one
+[15:18] anticipated a sweep of that magnitude so
+[15:21] uh that's a very good sign for America
+[15:24] and um you know the small caps tend to
+[15:27] do better when the Dollar's strong
+[15:30] um and uh the main comment I'd have is
+[15:34] if you just look at some of the stocks
+[15:35] we've been talking about in the recent
+[15:37] weeks and I'll just name them first
+[15:39] would be gigac Cloud as I'm talking to
+[15:42] you they're up sharply because they had
+[15:43] very good earnings another one that uh
+[15:46] is stunning I mean absolutely stunning
+[15:49] is this uh pow industries that we've
+[15:51] recommended and it has not announc their
+[15:53] earnings yet got it's already run up
+[15:55] quite a bit beyond studying is the
+[15:57] sezzle that we talked about you know as
+[16:00] I'm talking to right now it's um up 80%
+[16:03] in a day okay and it was running early
+[16:05] in the week so I'm sure it had 100% weak
+[16:09] but it had a huge huge earning surprise
+[16:13] uh and um so that stock is celebrating
+[16:16] that and this is the key with small caps
+[16:18] is they're very volume sensitive so when
+[16:21] the money pours in
+[16:23] the to say they can explode is a bit of
+[16:26] an
+[16:27] understatement and then if you're you're
+[16:29] looking for some stocks that haven't
+[16:31] exploded uh one of the ones we talked
+[16:33] about earlier was this vital Farms the
+[16:36] itl it's an organic uh chicken stock uh
+[16:40] organic eggs and things um they actually
+[16:43] beat on sales and earnings and I was
+[16:46] pretty happy with the report but there
+[16:47] was a a report that came by that says
+[16:50] they were in line and when that report
+[16:52] came out the stock got hit because
+[16:54] people read the headlines they don't
+[16:56] read the details but then later Zach
+[16:58] came out clarified no no they beat on
+[17:00] sales and earnings so U this stock kind
+[17:03] of got manipulated by the algorithms and
+[17:07] uh it is a phenomenal near-term buy
+[17:09] because it beat you know last I looked
+[17:11] at 60% sales growth and or EXC me 60%
+[17:15] earnings growth and sales were very
+[17:16] strong as well um a couple stocks are
+[17:20] now getting away from us that didn't
+[17:23] rally tremendously when Trump got
+[17:25] elected but then now they're catching up
+[17:27] is Sprouts Farmers Market sfm they now
+[17:30] they had already beaten earlier they
+[17:32] were just lagging but as of Friday now
+[17:34] they're taking off uh this is a Whole
+[17:36] Foods alternative and of course food
+[17:39] costs have actually settled back down
+[17:41] and maybe all the prices in the stores
+[17:43] haven't been cut yet so guess who's
+[17:46] patting the profits and then finally um
+[17:48] I think Costco's a really good buy right
+[17:50] now they have not announced yet but they
+[17:53] had announced very good same store sales
+[17:55] and uh they were kind of quiet till
+[17:57] Friday so what's happening to this
+[17:59] Market is it's rotating you know um the
+[18:03] stocks that were spectacular remain
+[18:05] spectacular but the stocks that uh maybe
+[18:08] just didn't go up the first day now
+[18:10] they're they're starting to run the
+[18:11] second day that's what sfm and um and
+[18:15] Costco are doing so uh those are all
+[18:17] examples of uh of what's happened this
+[18:20] week also can we talk about smci sure um
+[18:25] they provided uh guidance it wasn't
+[18:28] quite as strong as some analysts wanted
+[18:31] but the stock did um uh well it's been
+[18:33] all over the place this week but the
+[18:35] bottom line is their sales are going to
+[18:37] be up at least
+[18:38] 186% and the earnings will be up 126%
+[18:41] and that's the low end of the estimates
+[18:44] uh so I don't have stocks that have that
+[18:46] kind of explosive sales and earnings
+[18:48] growth uh they also had an independent
+[18:50] auditor uh looked at what they were
+[18:52] doing for three months they found
+[18:54] nothing wrong with with their accounting
+[18:56] practices of course they have a new
+[18:58] audit and then we'll be updating their
+[19:00] 10K and they are not going to be
+[19:02] delisted by NASDAQ as Jim Kramer implied
+[19:05] um I think the big controversy with
+[19:07] super micro is their order backlog is
+[19:10] just massive and you know when you're
+[19:12] booking orders and you might not be able
+[19:14] to fill them in four or five years you
+[19:16] know some people question like those
+[19:18] aren't current sales those should be
+[19:20] amortised well I did corporate
+[19:22] accounting and guess what those are
+[19:23] current sales you book them and they go
+[19:25] in the backlog so I don't think they're
+[19:27] doing anything wrong
+[19:29] uh but clearly people are hungry for
+[19:31] these Nvidia chips and uh super micro
+[19:35] had access to them and you know it's
+[19:37] possible somebody maybe plac too many
+[19:40] orders with super micro to get access to
+[19:42] those chips but uh as far as I'm
+[19:44] concerned they they are um they are fine
+[19:48] and the stock has erased its gains this
+[19:51] year but uh just let these phenomenal
+[19:54] sales and earnings come out and I think
+[19:56] the stock will be a big winner next year
+[19:58] and it's already firmed up a bit well
+[20:00] thank you so much to you both for
+[20:02] answering all my questions and thank you
+[20:04] to you all again for watching please
+[20:06] don't forget to like And subscribe once
+[20:08] again if you have any questions that you
+[20:09] want us to address next week please
+[20:11] leave them down in the comments below
+[20:13] but until then thank you so much for
+[20:14] watching and thank you Gary so much for
+[20:16] being here oh thank you it was a
+[20:18] pleasure
+[20:19] [Applause]
+[20:19] [Music]

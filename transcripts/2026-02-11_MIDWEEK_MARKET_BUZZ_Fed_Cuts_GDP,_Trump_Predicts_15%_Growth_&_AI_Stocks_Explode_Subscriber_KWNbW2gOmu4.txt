@@ -7,9 +7,646 @@ Type: video
 Duration: 22:18 (1338s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 638
+Transcript characters: 21902
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The Fed could be shaking up the economy.
+[00:02] Trump is forecasting 15% GDP growth and
+[00:05] the AI boom is on fire. T S M also just
+[00:08] posted 37% January sales growth. Let's
+[00:12] see what this all means for your money.
+[00:13] Welcome back to Navellier Market Buzz.
+[00:17] >> [music]
+[00:21] >> The Atlanta Fed just lowered the fourth
+[00:23] quarter GDP to 3.7%.
+[00:26] What's driving that change?
+[00:28] >> Unfortunately, it was the December
+[00:29] retail sales report. It came in
+[00:31] unchanged. Economists were expecting a
+[00:33] 4/10% increase. So, that was kind of a
+[00:35] buzzkill for holiday spending. But, uh
+[00:38] the November retail sales report was
+[00:41] revised up from 3/10 to 6/10%. Now, uh
+[00:45] we might get a revision. We'll see. But,
+[00:47] um that was the main catalyst. The
+[00:49] retail sales report is late because of
+[00:52] the government shutdowns because we keep
+[00:53] having them again. Uh we have a partial
+[00:56] one again. But, um
+[00:59] that's that was the real reason. And it
+[01:02] doesn't really matter. We're in the
+[01:04] first quarter now. It looks awfully good
+[01:06] right now. So, I think we have a lot to
+[01:08] look forward to. Now, the big news
+[01:10] yesterday was that President Trump
+[01:11] forecast 15% growth under Fed Chairman
+[01:15] Kevin Warsh. Do you think that that's
+[01:18] realistic? Well, he was talking to Larry
+[01:19] Kudlow. Um even Larry Kudlow was
+[01:21] shocked. Um but, obviously, President
+[01:24] Trump has set a very, very high bar. And
+[01:26] the main thing with Kevin Warsh is to
+[01:29] get interest rates down. Uh Kevin has uh
+[01:32] predicted big productivity increases
+[01:35] thanks to AI. And um if we have these
+[01:38] huge efficiencies, okay? Uh thanks to AI
+[01:41] and and these huge productivity gains
+[01:42] that of course Ed Yardeni talked about
+[01:44] last week. Yeah, it it we could we could
+[01:47] just blow through the traditional GDP
+[01:49] growth. But, we've never seen growth
+[01:51] that high ever, okay? So, uh I think
+[01:54] President Trump knows how to set a very
+[01:55] high bar. And
+[01:57] now it's up to his staff to uh reach
+[01:59] that. So he's kind of like a pole
+[02:01] vaulter, you know what I mean?
+[02:03] It's not an easy thing to achieve. So
+[02:05] but you got to admire him. He's he's
+[02:07] forecasting three times the GDP growth I
+[02:09] was forecasting uh so you know, I'll if
+[02:12] I I see him at Mar-a-Lago I will try to
+[02:14] have a discussion with him about this
+[02:16] and thank him for setting a high bar.
+[02:17] Now considering consumer and trade data,
+[02:20] December retail sales came in flat and
+[02:22] the trade deficit is rising. How should
+[02:24] investors think about near-term growth?
+[02:26] Uh they should just ignore all that cuz
+[02:28] their earnings are just unbelievable. We
+[02:30] couldn't have a better earnings
+[02:31] environment. Uh it's just in my case it
+[02:34] started with Super Micro sales being up
+[02:37] 123%
+[02:39] while she was expecting 82. Uh
+[02:41] we had um
+[02:43] Taiwan Semiconductor just announced
+[02:45] almost 37% sales growth in January. They
+[02:48] provided 30% sales growth guidance for
+[02:51] the whole year.
+[02:53] Uh that's the strongest monthly sales
+[02:54] growth in uh
+[02:56] uh several months and uh
+[02:59] it
+[03:00] it just means the AI boom is
+[03:02] accelerating. It's not decelerating.
+[03:05] You got Super Micro Nvidia's biggest uh
+[03:07] customer with incredible sales. You've
+[03:09] got TSM who makes the Nvidia chips and
+[03:12] other high-end chips, you know, for the
+[03:14] Microsoft Surface lap uh uh
+[03:16] top and uh of course all the Apple
+[03:19] computers just announcing incredible
+[03:21] results.
+[03:22] It's real. I mean, the AI boom is real
+[03:25] and even energy can't hold it back
+[03:26] because when they build a data center if
+[03:28] they can't get the hook up to the power
+[03:30] grid they just get a natural gas line
+[03:32] and they they have their own power.
+[03:34] That's what Bloom Energy does. That's
+[03:35] what GE Vernova will sell smaller
+[03:38] turbines so they can have their own
+[03:40] little turbines running their uh their
+[03:42] own little power plant. It's just
+[03:44] unbelievable what the environment we're
+[03:46] in. And uh you know, I was in Reno
+[03:48] recently and there's a a beautiful town
+[03:50] I Verdi, beautiful mountain valley and I
+[03:53] looked at the other day and it's gone.
+[03:55] It's all data centers. I mean, it's just
+[03:57] unbelievable. I mean, we have a lot of
+[03:59] valleys in Nevada. It's the most
+[04:00] mountainous state in America. But,
+[04:02] they're just taking valleys and putting
+[04:03] in that data centers everywhere. So,
+[04:05] it's going to be interesting what's
+[04:07] happening. Shifting to global rest, the
+[04:09] US Navy seized its eighth tanker in the
+[04:12] Indian Ocean. Is this shadow fleet
+[04:14] disappearing? Yeah, they were chased an
+[04:17] actual um tanker from Venezuela all the
+[04:20] way to the Indian Ocean. Took a month.
+[04:21] They finally seized it. Obviously,
+[04:24] Russia uses shadow fleet, so does Iran,
+[04:26] cuz these countries are sanctioned.
+[04:29] But, we're not going to let Venezuela
+[04:31] oil
+[04:32] um
+[04:32] disappear with shadow fleets. Of course,
+[04:34] President Trump thinks that's uh his oil
+[04:37] or
+[04:38] he he's the oil he seized from Venezuela
+[04:40] is goes to um
+[04:42] Houston to get refined.
+[04:44] Yeah, I think if you're Iran or Russia,
+[04:47] this is intimidating because the US
+[04:49] Navy's
+[04:51] disabling the shadow fleets. But, right
+[04:53] now it's mostly against Venezuela, which
+[04:55] of course the US is claiming the oil.
+[04:57] And we'll see if it if it intimidates
+[04:59] Iran and Russia. And of course, uh
+[05:01] President Trump did the deal with a
+[05:02] trade deal with India. And part of that
+[05:04] deal was India would stop buying Russian
+[05:06] oil. And that's what's shocking because
+[05:10] India and Russia have a long-term
+[05:11] trading relationship. India had
+[05:13] refineries to to process the heavy sour
+[05:16] crude from Russia. So, I'm still waiting
+[05:18] to see if that's going to come to
+[05:20] fruition, okay? Because you're you're
+[05:22] breaking centuries of trade between two
+[05:25] countries. So, it's going to be
+[05:27] fascinating to see what happens. But,
+[05:28] yeah, the US is taking over the world
+[05:30] and uh
+[05:31] dictating the trade terms. You know, if
+[05:33] you
+[05:34] comply with the US, they can lift the
+[05:36] sanctions.
+[05:36] >> Can you talk a little bit about Iran's
+[05:38] nuclear negotiations? What's going on
+[05:41] with them? Yeah, well, the US met with
+[05:42] Iran and Qatar and they agreed to start
+[05:45] negotiating. But, President Trump has
+[05:47] moved over 100 uh uh
+[05:50] cargo planes to the Middle East, and
+[05:52] we're arming up to try to intimidate
+[05:54] Iran. So, if they don't do what Trump
+[05:57] wants in the nuclear negotiations, which
+[05:59] of course dismantle everything, he's
+[06:01] apparently planning a strike. And uh you
+[06:04] know, this is a show of force, but we
+[06:07] haven't had this kind of mobilization
+[06:08] since the Gulf War. So, we are
+[06:10] definitely trying to intimidate Iran.
+[06:13] And uh so, this is going to be
+[06:15] fascinating to see what happens. I think
+[06:16] the main thing is if there is any event
+[06:19] with Iran, you do not want to have
+[06:21] American hostages. This is what
+[06:23] destroyed Jimmy Carter's presidency. So,
+[06:26] I suspect whatever strikes we have will
+[06:27] be fast and furious, and and it'll be
+[06:30] against all their military targets and
+[06:32] nuclear targets. So, we shall see. You
+[06:35] know, it's
+[06:36] Iran's a mess. You know, they've been
+[06:38] killing each other, and even if the
+[06:40] Ayatollah's gone, they might still be
+[06:41] killing each other. So, it it's just
+[06:43] it's just a mess. I don't
+[06:45] I don't know how to fix the problem over
+[06:47] there, but I'm not I'm not defending the
+[06:49] Ayatollah. He's an old man. He's going
+[06:51] to
+[06:52] be dead soon, probably. You know,
+[06:53] obviously he lives in a cave, and we'll
+[06:55] see if President Trump tries to strike
+[06:57] at that cave or or kidnap him, you know.
+[07:00] But I usually do want an order uh from
+[07:03] an international court or something
+[07:04] before you
+[07:05] take that kind of actions.
+[07:07] I think it'll just be the strikes
+[07:09] against the nuclear targets and and the
+[07:11] and the military.
+[07:13] And we'll see what's left of Iran after
+[07:15] that, and what kind of leadership
+[07:16] emerges.
+[07:17] >> Now, you all have given us so many
+[07:19] amazing subscriber questions. So, the
+[07:20] rest of this video is going to be
+[07:22] answering all of your wonderful
+[07:23] questions. Let's start out with for
+[07:25] investors, which copper and lithium
+[07:27] names do you favor? Well, I favor
+[07:30] BVN, which is a Peruvian copper company.
+[07:33] They also uh mine gold and some other
+[07:36] things, but uh it is highly ranked in
+[07:38] our system. It's in in our managed
+[07:40] accounts. The highest ranked uh lithium
+[07:42] stock would be SQM. I can't pronounce
+[07:44] that one either. That's from Chile.
+[07:46] That's the big lithium producer. But, um
+[07:48] it's not in our accounts at this time.
+[07:50] But, B Vienna's. So, now let's zoom in
+[07:52] on AI and tech. Considering fundamentals
+[07:55] versus hype, SMCI delivered strong
+[07:57] earnings, but carries a weak fundamental
+[07:59] grade. Is that a buy or a hold? It's a
+[08:02] buy right now because it was upgraded.
+[08:04] Their sales were up uh
+[08:06] uh 123%. Their earnings beat Their
+[08:09] earnings are not growing as fast as
+[08:10] sales
+[08:12] uh did uh some margin compression. But,
+[08:14] uh
+[08:15] because they beat the higher guidance,
+[08:17] Super Micro's was upgraded to a
+[08:19] fundamental B. So, since this question
+[08:22] was asked, the grade's gone up. So, uh
+[08:25] you can relax down Super Micro. Palantir
+[08:27] is pulling back. Is it a buying
+[08:29] opportunity or time to take profits?
+[08:32] It's a screaming buy. Palantir is uh uh
+[08:35] the best AI applier followed by Apple
+[08:38] loving. And it's there's been a salt on
+[08:41] software stocks in general by Wall
+[08:43] Street. And I just think you back up the
+[08:45] truck to Palantir. This is Alex Karp.
+[08:48] And you know, to get rich on Wall
+[08:49] Street, you have to bet on some
+[08:50] billionaires. The billionaires I bet on
+[08:52] are are Jensen Huang of Nvidia and Alex
+[08:54] Karp. So, hang on. Enjoy the ride.
+[08:57] Intuit is down sharply despite solid
+[08:59] growth. Are AI disruption fears
+[09:01] overdone? Well, Intuit got uh caught up
+[09:04] in the software sell-off. And that's
+[09:06] most unfortunate. You know, it's time to
+[09:07] do our taxes thanks to uh TurboTax,
+[09:10] which is an Intuit product. They'll be
+[09:12] very, very busy. So, I think Intuit will
+[09:15] will bounce. But, unfortunately, got
+[09:17] caught up in the broad software
+[09:18] sell-off. I mean, the narrative out
+[09:20] there so just everybody understands is
+[09:21] that AI was going to destroy all the
+[09:23] software companies. And that's a bogus
+[09:25] argument. So, uh
+[09:26] I
+[09:27] I just think you should ignore that.
+[09:29] With that said, even I trimmed software
+[09:31] um
+[09:32] that had very good forecast sales and
+[09:34] earnings just because the underlying
+[09:35] market volatility. Intuit is a
+[09:38] is a victim of that. Now, for AppLovin,
+[09:40] what's your view on fundamentals,
+[09:42] growth, and valuation? Well, AppLovin
+[09:44] had a big bounce here, and it's very odd
+[09:47] why it had a bounce. There was a uh
+[09:50] firm that criticized it, accused it of
+[09:52] uh
+[09:53] laundering money for some people in
+[09:55] Asia.
+[09:57] And they retracted their criticism. And
+[10:00] of course, it did a lot of damage to the
+[10:01] stock, but that's why the stock bounced
+[10:03] back. But, the forecast sales and
+[10:04] earnings are incredible. So, I I love
+[10:07] AppLovin. It's APP.
+[10:09] Um they're um let's just let the the
+[10:12] fundamentals come through, but
+[10:14] you know, when a stock gets attacked,
+[10:16] whether it was Super Micro well over a
+[10:17] year ago or AppLovin recently,
+[10:20] you know, it's still kind of in shock
+[10:22] because it was going up in that smooth
+[10:23] steady manner. So, uh
+[10:25] uh you know, I'm I'm happy that the the
+[10:28] accuser retracted the criticism.
+[10:31] But, uh the damage was still done
+[10:33] technically. So, um
+[10:35] just be aware of that, but AppLovin long
+[10:37] term will will recover, and I didn't
+[10:39] sell the stock. I own the stock.
+[10:41] Robinhood seems tied to crypto and
+[10:43] options activity. Is it a buy at these
+[10:45] levels? Well, no. It uh its earnings
+[10:48] beat, but its sales didn't. And because
+[10:50] of that, the stock has been punished.
+[10:52] So, it's going to have a dead cat
+[10:54] bounce, and it's going to recover
+[10:56] somewhat, but it has fallen a rank in my
+[10:58] system. We have it under management, and
+[11:00] we'll be closely watching it. It's
+[11:02] officially a hold in my system now, but
+[11:05] uh the fact that it missed on sales is
+[11:07] is a big deal. And that's because of the
+[11:09] crypto chaos. The crypto's fallen quite
+[11:11] a bit. Now, Robinhood does other things
+[11:13] than crypto. You know, you can buy ETFs,
+[11:16] and you can buy normal normal stocks and
+[11:18] everything, but they have a big portion
+[11:21] of business to crypto, and that hindered
+[11:23] their sales. It's in the penalty box in
+[11:25] my system right now, and I'll be
+[11:26] monitoring very closely. If their
+[11:28] analyst cuts, it'll cause me to sell the
+[11:29] stock. Now, it beat on earnings
+[11:31] estimates, so I don't know if I'll get
+[11:33] any analyst cuts, but the sales
+[11:34] disappointment was uh about the stock
+[11:36] getting hit. Breaking down top stock
+[11:39] names, can you walk through Mag 7
+[11:41] stocks? Where are you bullish versus
+[11:42] cautious? Well, if you look at Stock
+[11:44] Trader, unfortunately, Amazon is a D,
+[11:47] and I think it might get upgraded sooner
+[11:49] or later because Amazon has good
+[11:51] management and is running all parts of
+[11:53] its business very well. But, they're
+[11:54] spending a fortune on robotics,
+[11:57] automating the warehouses, spending a
+[11:59] lot of money on AI, and that's why the
+[12:01] stock got hit, okay? But, uh it doesn't
+[12:04] hit Stock Trader's criteria right now.
+[12:07] It is a D, which is a sell. I personally
+[12:09] think it'll get upgraded to a C here
+[12:10] shortly. So, the next stock is Apple.
+[12:13] It's C-rated in Stock Trader, which is a
+[12:15] hold. If you have low basis at Apple
+[12:17] stock, you can hold it. Your mom has has
+[12:19] it in her personal account. Apple's
+[12:21] pretty simple. They're
+[12:23] getting in the service business. Apple
+[12:24] TV's become a bigger deal for them. Uh
+[12:26] all the Formula 1 races will be on on
+[12:29] Apple TV after they did the Formula 1
+[12:30] movie. So, it's going to be interesting.
+[12:33] Obviously, the Apple Music's a big deal.
+[12:35] They backed
+[12:36] Well, they didn't back, but they
+[12:38] advertised Bad Bunny in the Super Bowl.
+[12:40] Bad Bunny was supposed to meet Tim Cook,
+[12:42] and
+[12:43] So, I think I I I have a lot of hope for
+[12:44] Apple with their service business, but
+[12:47] Apple's always going to be about the
+[12:48] iPhone. And in September, they're
+[12:50] probably going to announce a folding
+[12:51] iPhone for $2,500. And it might be uh
+[12:55] well, it would be technically a a
+[12:57] fold-out screen and an outside screen.
+[12:59] So, I I think if they introduce that,
+[13:02] it's going to sell. They've already
+[13:03] signed a contract with Samsung Display,
+[13:05] you know, so we'll see
+[13:07] just how big of a hit that phone is.
+[13:09] But, as you know, everybody has to have
+[13:10] the latest and greatest iPhone.
+[13:12] I would hold it if you have low basis,
+[13:14] but there's no hurry to buy it right
+[13:16] now.
+[13:16] I have better stocks. Okay, Google is
+[13:18] technically a B in Stock Trader, and
+[13:21] Google has a lot of things going for it.
+[13:23] Not only does it have its advertising
+[13:25] model, its Gemini has displaced uh
+[13:28] ChatGPT as the most popular search
+[13:30] engine. Obviously, there's Rock and
+[13:32] other search engines AI search engines
+[13:33] out there, but uh I think Google's done
+[13:36] an amazing job with Gemini. So, is it a
+[13:38] B stock? Is it up and up and coming? I
+[13:41] don't have any manage accounts yet, but
+[13:43] uh
+[13:44] uh if I'm going to add another
+[13:45] Magnificent Seven stock, the most likely
+[13:48] candidate is Google. One last thing
+[13:49] about Google, uh Lina Khan, our our
+[13:51] former FTC commissioner under Biden, did
+[13:54] get a decision to break Google up. Uh it
+[13:57] got to the judge and they threw it out.
+[13:59] And Lina Khan works for Madani, the New
+[14:01] York mayor, now. So, um
+[14:02] she's got another agenda. So, Google's
+[14:04] safe right now and it's a an American
+[14:07] icon and um we'll see if they can keep
+[14:10] uh surprising. They don't provide
+[14:11] guidance, though. So, but they tend to
+[14:13] have a good surprise history. Microsoft
+[14:15] is unfortunately a D and that's sad. You
+[14:18] know, we get an email every year from
+[14:20] Microsoft. Hi, we're here. Uh we need a
+[14:22] royalty for you using our software and
+[14:25] they get the money and that's what keeps
+[14:27] them going. But, they're really a D
+[14:28] because people are disappointed with
+[14:31] their cloud business. They're one of the
+[14:32] biggest cloud providers and they also
+[14:35] got a D because of ChatGPT's
+[14:37] uh been dis- monetizing it the way that
+[14:39] they everybody had hoped. Uh finally,
+[14:42] they had a really bad cloud crash on
+[14:44] Microsoft Outlook and everybody got a
+[14:47] bunch of phishing emails. Um
+[14:50] so, that was a bad thing, okay? Now,
+[14:52] whether it was their fault or the
+[14:54] the you know, the people that provide
+[14:56] the security for the cloud is in the
+[14:57] matter. But, uh Microsoft will probably
+[14:59] be up to a C soon. It has a decent
+[15:02] dividend yield. It still has sales and
+[15:04] earnings growth, so it'll probably be a
+[15:05] C soon. But, yeah, it's not in my
+[15:07] portfolios at this time. Meta is a D.
+[15:09] Meta rarely ranks well in my system.
+[15:12] It's a high beta stock. The higher the
+[15:13] beta, the lower the alphas. I like high
+[15:15] alpha, low beta, low standard deviation.
+[15:18] And they're also spending a fortune on
+[15:20] AI and and all the hardware money
+[15:23] they're spending that kind of
+[15:25] taking some luster off of the stock near
+[15:26] term. Of course, they did the metaverse
+[15:29] of this 3D world that maybe Mark
+[15:31] Zuckerberg still lives in, but
+[15:33] yeah, it doesn't hit my criteria rarely
+[15:35] has. Hopefully they'll they'll win the
+[15:37] AI race, but they got a lot of
+[15:39] development to do. So, the highest
+[15:40] ranked Magnificent Seven stock in my
+[15:42] system and and my largest holding is
+[15:44] Nvidia. And why Nvidia ranks so well and
+[15:48] and is
+[15:50] sales and earnings are still
+[15:52] accelerating.
+[15:53] Which is amazing for a company this size
+[15:55] and magnitude. Their Vera Rubin chip is
+[15:59] five times more powerful, 10 times more
+[16:00] energy efficient. There's going to be a
+[16:02] replacement cycle. TSMC makes the chips.
+[16:05] You know, they just announced
+[16:06] accelerating January sales growth. What
+[16:08] can I say about Nvidia other than that
+[16:10] it's going to go a lot higher. And so,
+[16:13] of all the Magnificent Seven, this is
+[16:14] the only one I own and it is a huge
+[16:17] holding in my portfolios, over 15% of
+[16:19] some portfolios. All right, Tesla is a
+[16:21] C, which is kind of a hold. Tesla has
+[16:24] missed last four quarters. Obviously,
+[16:27] they're shutting down the Model X, the
+[16:30] Model S to build more Optimus robots. I
+[16:33] think the robots are going to be in
+[16:34] their factories. I'm not sure where
+[16:36] they're going to be. So, it's in the
+[16:38] transition phase now. The best thing
+[16:39] Tesla has going for it is its energy
+[16:41] storage business. You know, if you live
+[16:43] in a a place that has a lot of blackouts
+[16:46] from the trees going down, taking out
+[16:48] the power lines and things. You can get
+[16:49] a generator, but you can also get a
+[16:51] Tesla Powerwall. And of course, there's
+[16:53] a lot of Tesla Powerwalls with the solar
+[16:55] systems as well. So, that's the best
+[16:57] thing they have going for them.
+[16:59] Obviously, I have no idea how they're
+[17:00] going to optimize the Optimus robot, but
+[17:03] they're still obviously the second
+[17:05] biggest EV manufacturer out there. We
+[17:07] wish them well, but it's not in my
+[17:09] portfolio and it really never has been.
+[17:11] Our firm gets
+[17:14] people transferring stocks they own and
+[17:16] we haven't sold the the Tesla because
+[17:19] they have low cost bases, you know. But
+[17:21] it has never really been in our managed
+[17:23] account platform. What's your take on
+[17:25] Novo Nordisk today? Well, it's
+[17:27] restructuring. It's a D in stock grader,
+[17:29] so I would avoid it at this time. I used
+[17:31] to own the stock. They dominate diabetes
+[17:33] medication worldwide, but they really
+[17:36] lost market share to Lilly in the weight
+[17:38] loss drug business. Lilly's a major
+[17:40] holding of ours, but they didn't have
+[17:42] the capacity to make all the the GLP-1s,
+[17:45] so they made a brief alliance with Him &
+[17:47] Hers, which is didn't last very long.
+[17:49] They had a management shake-up. They're
+[17:51] just having a hell of a time competing
+[17:52] with Lilly. So, I sold the stock about
+[17:55] 18 months ago for clients because their
+[17:57] operating margins were under
+[17:58] compression. That means their their
+[17:59] earnings weren't growing as as fast as
+[18:01] sales. So, I sold the stock, and I'm not
+[18:04] very impressed by their sales growth at
+[18:06] this time. So,
+[18:07] I would avoid it until starts checking
+[18:10] all my boxes in my factor fundamental
+[18:12] model. And now, what's your opinion on
+[18:14] MKS&I? Well, it's a B in stock grader,
+[18:17] so that looks good on the surface. But
+[18:18] when I dig into the fundamentals, their
+[18:20] sales and earnings are only growing a
+[18:22] little over 14%. Analysts are revising
+[18:24] estimates higher, that looks good. But
+[18:26] it's just not strong enough to go in my
+[18:28] portfolios. You know, my average stock
+[18:30] has almost 19% sales growth
+[18:32] and over 58% earnings growth. So,
+[18:35] I'm not going to be buying this, even
+[18:37] though it's going higher, it ranks well,
+[18:40] it's just not as strong as I I I want.
+[18:43] But yeah, if you own this, it it's
+[18:44] probably continuing to go higher. And
+[18:46] what's your opinion on SLI in today's
+[18:48] market? Well, this is Standard Lithium,
+[18:50] and it gets an A in stock grader, but
+[18:53] its fundamentals are poor. It's not
+[18:55] earning money yet. It doesn't have a
+[18:56] good earnings price history. So, if you
+[18:58] want to invest in lithium, buy SQM.
+[19:01] Let's end on a fun question before we
+[19:03] go. Which Ferrari has your attention
+[19:05] right now? None. But Ferrari's in the
+[19:07] news. They introduced their um
+[19:12] electric model. They showed the battery
+[19:13] pack first. Now they're showing pictures
+[19:15] of the interior. Uh the name is called
+[19:17] Lucy, l u c e. I may be mispronouncing
+[19:21] that. I don't know how to say that in
+[19:22] Italian. I think the electric Ferrari's
+[19:24] going to be a huge flop. No one wants to
+[19:25] pay half a million dollars for an
+[19:27] electric car, period. I'm not
+[19:28] anti-electric car. As you know, we own
+[19:31] one cuz down Palm Beach County we always
+[19:34] had one to get to the airport quickly
+[19:35] cuz they had the HOV thing. But uh we
+[19:38] had an incident with our electric car
+[19:40] recently. I should explain. We had a
+[19:42] tire blow out at 20 miles an hour. It
+[19:44] was pretty violent. You hear this big
+[19:45] thump. So we, you know, we get it towed
+[19:47] to the the dealer. They fixed the the
+[19:50] the tire. They actually put in more new
+[19:52] tires on, anyway. And they said uh you
+[19:54] got to take it to a body shop because
+[19:55] there's a dent. So uh
+[19:57] what happened is when the tire blew, it
+[20:00] put a hole in the car. And because it's
+[20:02] an aluminum car, this is an electric
+[20:04] Audi sedan, same as the Porsche Taycan,
+[20:06] by the way. They it was $53,000 to fix.
+[20:10] So they totaled the car.
+[20:12] Because electric cars have no resale
+[20:13] value. It's a 2-year-old car with 15,000
+[20:16] miles on it, totaled.
+[20:18] Uh because it had a tire blowout. So
+[20:20] Ferrari's had a problem with its hybrid
+[20:23] cars. Um I can name them. Uh the 296,
+[20:27] the SF90. Now they have a
+[20:29] 849 Testa Rossa, it's the SF90
+[20:32] replacement. No one wants an electric
+[20:34] Ferrari, whether it's the electric one
+[20:36] or the hybrid. And
+[20:38] you got to realize when the
+[20:40] those those expensive battery packs to
+[20:42] replace
+[20:43] and the batteries keep getting better
+[20:44] and better.
+[20:45] And that makes the cars depreciate. The
+[20:47] other thing is cars are computers
+[20:49] nowadays.
+[20:50] And they're very expensive to fix. So
+[20:52] I'm really worried about Ferrari. Um so
+[20:55] I'm sure it'll be the
+[20:56] probably the most exciting electric car
+[20:58] you can buy, but who wants to spend half
+[21:00] a million dollars have have no resale
+[21:02] value? Old EVs are like used cell
+[21:04] phones. No one wants them. And uh the
+[21:06] way, our electric car uh the second one
+[21:08] we had well, we leased it, thank god. We
+[21:10] leased it. So, it's it's um
+[21:12] we're not going to take the hit, but uh
+[21:14] the manufacturer is. So, that's most
+[21:16] unfortunate. So, I wish Ferrari well,
+[21:19] but um you know, they they have very
+[21:21] strict emissions to deal with in Europe,
+[21:24] which the new uh 849
+[21:26] Testarossa does, but like if you look at
+[21:28] the new Corvette, it doesn't match the
+[21:32] pass the EU uh emission standards. So,
+[21:35] we're just getting different cars in
+[21:36] America than they get in Europe now. And
+[21:38] not everybody wants those powerful quiet
+[21:40] cars. You know, a lot of people like the
+[21:42] noisy cars. Uh um
+[21:44] So,
+[21:45] I'm I'm a little worried about this, and
+[21:48] uh
+[21:48] you know, they could make an American
+[21:50] version that's more loud, and if I were
+[21:52] them, I wouldn't encourage them to do
+[21:54] that. But um
+[21:56] By the way, the electric Ferrari has
+[21:57] fake sound. Well, thank you so much for
+[21:59] joining us this Wednesday for your
+[22:01] mid-market update, and thank you all so
+[22:03] much for answering such wonderful
+[22:04] questions. We will see you all this
+[22:06] Sunday with a special guest. Thank you
+[22:08] all so much. Thanks, everybody.
+[22:11] >> [music]

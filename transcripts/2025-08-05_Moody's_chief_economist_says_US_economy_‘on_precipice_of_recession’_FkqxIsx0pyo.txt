@@ -7,9 +7,45 @@ Type: short
 Duration: 1:29 (89s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 37
+Transcript characters: 1305
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Well, it's getting bumpy in August.
+[00:02] Here's what's going on. We had a bad ISM
+[00:06] services report. It was 50.1 for July,
+[00:10] down from 50.8 in June. If it falls
+[00:13] below 50, that signals a contraction.
+[00:15] Why ISM services is so important? It's
+[00:18] 70% of our economy. We're a service
+[00:20] economy. Okay. The other thing that
+[00:22] happened is that the manufacturing part
+[00:25] of our economy has been down for 5
+[00:27] months according to ISM. So if we have
+[00:30] both manufacturing and services fall
+[00:32] below 50, we're in a recession, folks.
+[00:34] Now, why this is so confusing is our GDP
+[00:37] data is being distorted by um the the
+[00:41] trade deficit. So in the first quarter,
+[00:43] the trade deficit swellled and it
+[00:45] deducted 4.61%
+[00:47] off our GDP calculation. In the second
+[00:50] quarter, the trade deficit collapsed
+[00:52] because of all the the tariff of
+[00:54] negotiations.
+[00:56] And what happened is it exaggerated our
+[00:58] GDP by over 3%. So if we start to back
+[01:01] out trade, it doesn't look very good
+[01:03] right now. So it's getting bumpy. You've
+[01:05] already seen the Labor Department has
+[01:06] reported that we are not really creating
+[01:09] jobs in the last 3 months. Our Federal
+[01:11] Reserve needs to cut to stimulate the
+[01:13] economy and you're going to have these
+[01:15] girrations in August. Fortunately, there
+[01:17] are great earnings from Axion Palunteer
+[01:21] and that's carrying the portfolios right
+[01:23] now. But uh we do have to address uh the
+[01:26] weakness in the economy that's now
+[01:28] emerging.

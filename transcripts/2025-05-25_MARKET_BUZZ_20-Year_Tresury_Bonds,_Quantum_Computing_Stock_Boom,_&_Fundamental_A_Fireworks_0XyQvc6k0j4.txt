@@ -7,9 +7,475 @@ Type: video
 Duration: 19:35 (1175s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 467
+Transcript characters: 16742
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:13] Hello everyone. Welcome back to Navalier
+[00:15] Market Buzz, episode 39. I'm Crystal
+[00:18] Navalier and I'm joined again this week
+[00:19] with my father, Louis Navalier. Dad,
+[00:21] welcome to New York. Well, thank you and
+[00:23] congratulations on getting your masters
+[00:25] from Colombia. Thank you. Thank you. So,
+[00:27] a lot of our viewers have been wanting
+[00:29] us to talk more about stocks, but before
+[00:31] we get into that, what happened to the
+[00:33] 20-year bond auction last Wednesday?
+[00:35] That's a great question. Um, it spooked
+[00:38] the markets. Um, there's something
+[00:39] called a bid to cover ratio, and it was
+[00:41] 2.46 to1. Normally, it should be 2.7 or
+[00:45] higher. And a lot of the outlying bids
+[00:47] cause the yields to rise. It had
+[00:49] something called a long tail. So, that's
+[00:52] unfortunate. And that spooked the
+[00:54] markets because rates rose. And uh Scott
+[00:56] Bessett's our treasury secretary. He'll
+[00:58] make sure this doesn't happen anymore.
+[01:01] He's much better than Janet Yellen. You
+[01:02] know, Janet Yellen had problems with the
+[01:05] the long treasury bond auctions from
+[01:07] time to time. So, she just sold more
+[01:09] short to intermediate treasuries, but uh
+[01:12] Scott's really working hard to have a a
+[01:15] normal yield curve versus the inverted
+[01:16] curve that Yellen had. And um uh Wall
+[01:20] Street calmed down. You know, Scott is a
+[01:23] very calming person. So, it's Scott we
+[01:25] trust. So, quantum computing stocks have
+[01:28] been quite hot. Why is that? It's
+[01:31] Baron's fault. Uh Barren did a an
+[01:34] article on um a stock that we written a
+[01:37] lot of reports on called O and NQ. They
+[01:41] have these things called Quidbits, which
+[01:43] is how to package the data for quantum
+[01:45] computing. and the um and cube chairman
+[01:49] says he wants to be the Nvidia of uh
+[01:53] quantum computing and that got everybody
+[01:55] excited and on Thursday the stock popped
+[01:58] uh 40% for a while settled I think 38%
+[02:01] or so but it lifted all the other
+[02:03] quantum computing stocks like D-Wave
+[02:06] that's QBTS
+[02:08] uh we have written a special reports on
+[02:11] quantum computing these have been out
+[02:12] for a long long time and so if If you're
+[02:15] a growth investor subscriber,
+[02:18] uh just uh go to the the top bar uh when
+[02:21] you log in to growth investor, click on
+[02:24] special reports and you'll get um our
+[02:27] comments on NQ, D-Wave uh and and some
+[02:30] other quantum computing stocks. The
+[02:33] issue with quantum computing is that um
+[02:36] Nvidia will not be able to make its
+[02:38] chips faster by the end of the decade.
+[02:40] There's two more generations of the
+[02:42] Nvidia GPU and what's happening is the
+[02:45] transistors are just getting so tiny
+[02:48] they can't cram more on a chip. I mean
+[02:50] they're 28 billion right now. Okay. And
+[02:54] you know they're approaching the atomic
+[02:56] level. So you just can't put more
+[02:58] transistors uh after the next two um
+[03:01] GPUs. So the only way to speed up
+[03:03] computers after that is to do quantum
+[03:05] computing. And that's where you use a
+[03:06] one and a zero instead of a one or zero.
+[03:10] And Nvidia has been having these um
+[03:12] contests who can develop the best uh
+[03:15] quantum computing language and that's
+[03:17] what D-Wave did. They won that contest.
+[03:19] I personally think Nvidia is going to
+[03:21] dominate this and I think Nvidia is the
+[03:23] safest play. They currently have a
+[03:25] quantum uh cloud simulator. Google wants
+[03:27] the first quantum computer. But uh these
+[03:30] companies are basically building the um
+[03:33] the architectures so they you they can
+[03:35] program for quantum computing and how
+[03:37] they package the data. So very strong
+[03:40] sales in both those stocks. They both
+[03:42] have beaten analyst estimates. They
+[03:44] they're still losing money, but they're
+[03:46] losing less. Um so um uh they will be
+[03:51] added to our manage accounts and things
+[03:53] when they do earn money or they make the
+[03:56] transition from negative positive
+[03:57] earnings. But uh they're two very very
+[03:59] exciting stocks and they just went nuts
+[04:01] this week. So, speaking of stocks, I
+[04:03] know that earning announcement season is
+[04:04] winding down, but which stocks posted
+[04:07] like the biggest earning surprises?
+[04:09] Yeah. Um, it's important to show
+[04:11] everybody um uh what we're all about.
+[04:15] And um so, let's just cut to the chase
+[04:18] and show you exactly what happened.
+[04:21] Um AGX is um helping build out the power
+[04:26] grid. That's its uh specialty. It's
+[04:27] called Argon. and uh they had a
+[04:31] 93.9%
+[04:32] surprise. Uh another one was BVN, a
+[04:36] copper company, they had a
+[04:38] 207.7%
+[04:40] surprise. Uh Cababa, the restaurant uh
+[04:43] company, had a
+[04:44] 59.1% surprise. Excelis, which is um
+[04:48] oncology business, uh uh exe had a 70.9%
+[04:53] surprise. Him and hers had a 65.4% 4%
+[04:59] surprise. Of course, him and hers was
+[05:02] making the GLP-1 drugs when they could
+[05:04] do it under the compound pharmacy laws.
+[05:07] That has ceased, but Nova Nordis has
+[05:09] hired them to make GLP-1 drugs for them
+[05:12] because Nova Nordis fell far behind Eli
+[05:15] Liy. So, that's pretty exciting for
+[05:18] them. Niogen um Biosciences, the ticker
+[05:21] symbol is N A
+[05:23] G. They had a whopping 264.6%
+[05:26] 6% surprise um this earnings
+[05:29] announcement season. Uh this is also
+[05:31] stock that we talked about last week
+[05:32] with Paul Hickeyi. He likes the stock.
+[05:35] Um this company um is all about wellness
+[05:39] especially as we age. They specialize in
+[05:42] a drug called
+[05:43] NAD+ which um basically slows cell
+[05:47] degeneration. You know, our cells can
+[05:49] only divide so many times and then
+[05:51] that's it. That's why we die because
+[05:54] they've divided too many times. And uh
+[05:56] so if you want to have a health
+[05:58] healthier uh life, you know, uh this is
+[06:01] what they do. Uh obviously hotter than
+[06:04] hot. Nexon International, the ticker
+[06:06] symbol is NEXn. They had a whopping
+[06:10] 198.7% earning surprise and they
+[06:13] basically help people advertise, do
+[06:15] videos and things like that. But uh
+[06:18] spectacular results from them. Prodex,
+[06:20] the ticker symbol is PDE X, makes very
+[06:24] precision equipment uh for um the
+[06:28] orthopedic surgeons um and even some
+[06:31] dental equipment. Um they their earning
+[06:34] surprise was
+[06:35] 108.5%. Uh stunning stock. Um, another
+[06:40] one I like is Perimeter Systems,
+[06:43] PRM. And uh, their earning surprise was
+[06:48] 107.5%. Okay. Perimeter System makes the
+[06:50] foam uh, the that they spray around your
+[06:53] house when there's a fire or the
+[06:56] airplanes drop when they're fighting the
+[06:58] fire. U, obviously fire season's coming
+[07:01] up and um, everybody has to stock up on
+[07:05] their their stuff. So, um, great results
+[07:08] for them. Another big surprise came from
+[07:10] Power Solutions International. Uh,
+[07:13] their, um, surprise was 80.4% better
+[07:17] than Allen's estimates. Uh, they make
+[07:19] all kinds of generators to run lifts,
+[07:22] cranes, oil field service equipment. Um,
+[07:26] booming business. Obviously, we're under
+[07:28] drill, baby drill, especially for
+[07:30] natural gas. Another stock we uh talk
+[07:33] about quite a bit is Szle. They had the
+[07:35] biggest earning surprise of
+[07:39] 389.6%. Sle of of course provides um
+[07:43] credit when you go buy uh something and
+[07:46] you can choose to like pay over four
+[07:48] months and um so there's just a lot of
+[07:50] consumers that are struggling. So
+[07:52] they're aiding that. Uh then we have
+[07:55] Universal Technical Institute uh UIT.
+[07:59] They had a 72.6% surprise. This
+[08:02] particular company trains your the the
+[08:04] mechanics on your car. You know, all the
+[08:06] cars are computerized now and also for
+[08:09] for trucks. So, uh that's why it costs
+[08:12] so much to service your car cuz you got
+[08:14] to go to school and learn quite a bit.
+[08:17] So, these are all examples of um some of
+[08:22] our our biggest and best earning
+[08:23] surprises. Of course, uh, our average
+[08:26] surprise, just so everybody knows, is
+[08:28] usually about 16 to 18% depending on the
+[08:31] earnings announcement season. Right now,
+[08:33] it's running over 19%. So, it's been a
+[08:35] stunning, stunning earnings announcement
+[08:37] season. Now, I noticed that you actually
+[08:39] mentioned quite a few fundamental A
+[08:41] stocks. Are there any more that you'd
+[08:42] like to share? Yeah, but before I do,
+[08:45] let let me just explain what a
+[08:46] fundamental A stock is. A fundamental a
+[08:49] stock is a stock that gets uh in the top
+[08:51] 20% of our eight factor fundamental
+[08:53] model. So it's going to average in the
+[08:56] top 20% of sales growth, margin
+[08:58] expansion, earning stability, earnings
+[09:01] momentum, cash flow, return equity,
+[09:04] ounce of earnings revisions and earning
+[09:06] surprises. We are showing a chart of the
+[09:08] fundamental a stocks how they performed
+[09:10] historically. And um this is a chart we
+[09:13] show at the management company and uh
+[09:16] because we're registered with the SEC,
+[09:17] we have to knock down the returns 1.75%
+[09:20] a year. It's an SEC requirement. But uh
+[09:22] you can see the fundamental a stocks are
+[09:24] extraordinary. They're just
+[09:25] extraordinary. They don't have a lot of
+[09:27] volatility. Uh they're pretty safe when
+[09:30] they're knocking the cover off the ball.
+[09:33] So um and I really love the fundamental
+[09:36] A stocks and it happens to be the top
+[09:37] portfolio this year and that's where
+[09:39] your money is invested in fundamental a
+[09:40] stocks. Excellent. Fundamental A stocks
+[09:43] are very rare. I don't normally have
+[09:45] that many but I have two more. Uh
+[09:49] another one is Kinross Gold KGC. I
+[09:53] recommend five gold stocks. This is the
+[09:55] best one. And another one is Carvana.
+[09:58] That's a pretty new addition. see um VNA
+[10:02] obviously used car prices are very firm
+[10:04] with all the the controversy over
+[10:06] tariffs uh impacting the auto industry
+[10:09] and also disturbing the inventories out
+[10:12] there. So we do have a couple more
+[10:14] earning announcements next week besides
+[10:16] Nvidia. Who else will be announcing?
+[10:18] Nvidia by the way is on Wednesday and uh
+[10:20] we talked about that last week but uh
+[10:22] they they usually beat guide higher. Uh
+[10:25] AutoZone um is forecast to have a 4.2%
+[10:29] 2% uh sales growth uh 1 and a half%
+[10:33] forecasted earnings growth. The ounce
+[10:35] committee trim their estimates just a
+[10:37] bit but the and the company did miss
+[10:39] last quarter but AutoZone has a great
+[10:41] earnings surprise history longterm. This
+[10:44] company is just verbaceious in buying
+[10:46] its stock back. So I would not be
+[10:49] surprised if
+[10:50] AutoZone surprises. Dix uh sporting
+[10:53] goods DKS is forecasted have 3.6% 6%
+[10:57] forecasted sales growth. Um only 3/10 of
+[11:00] a percent forecast earnings growth.
+[11:02] There's some recent Allen trims with
+[11:04] Dicks, but it does have a good earning
+[11:06] surprise history, so I wouldn't be
+[11:07] surprised if it it beat um a lot of
+[11:10] their sales are tied to the weather. You
+[11:11] know, the Northeast is still they're not
+[11:14] in summer yet. So hopefully uh it warms
+[11:16] up in the Northeast and their sales go
+[11:18] up.
+[11:20] Abracry and Finch which is ANF um has
+[11:23] 3.9% forecasted sales and their earnings
+[11:26] are forecasted to decline
+[11:28] 36.1%. There were some recent analyst
+[11:30] trims on this stock and the company did
+[11:32] miss last quarter. We also want to look
+[11:34] at their guidance very carefully. You
+[11:36] know they um they were beating a few
+[11:39] quarters ago and I was actually
+[11:41] recommending the stock but I've since
+[11:42] sold it. So um their guidance will be
+[11:46] crucial like most retailers. A lot of
+[11:48] retailers have suspended their guidance.
+[11:51] So that's not good. So uh we we'll see
+[11:54] what Abbercomi does. Now Salesforce
+[11:56] which is CRM they are their revenue is
+[12:00] forecast to go up
+[12:01] 6.7%. Rains are forecast to go up
+[12:04] 4.4%. They have pretty steady
+[12:07] assessments associated with the stock
+[12:08] and uh they had a a nice surprise last
+[12:12] quarter. So Salesforce usually beats
+[12:14] Hila Packard. That's uh HPQ. uh their
+[12:17] sales are only forecast to grow
+[12:20] 2.6%. The earnings are forecast to
+[12:22] decline
+[12:23] 2%. It has a horrible horrible earning
+[12:26] surprise history. So I have no
+[12:28] expectations at all for Huelet Packer.
+[12:31] They do have um you know help the cloud
+[12:33] and build that out but they're behind uh
+[12:37] super micro Dell. So we'll see if they
+[12:40] their cloud business is getting any
+[12:41] better. All techs have to guide higher
+[12:43] including Hila Packard. Then we have
+[12:46] Best Buy. Their sales are forecasted to
+[12:48] decline 4/10en of a percent uh and their
+[12:51] earnings are forecast to decline
+[12:53] 9.3%. But they have steady ounce
+[12:56] estimates and they post a nice surprise
+[12:58] last quarter. You know, um just
+[13:02] electronic retail u sales are just not
+[13:04] that strong right now. But if we get
+[13:07] wind, there's going to be some tariffs
+[13:08] on all that stuff. Maybe that'll help
+[13:10] them uh u push out some more inventory.
+[13:15] There's another stock that's going to
+[13:16] announce next week called Alarm
+[13:17] Industries, Al. Uh they have 12.7%
+[13:21] forecasted sales growth, but they had
+[13:24] some recent analyst cuts and that scared
+[13:26] me away from the stock. So, we've sold
+[13:27] it and managed accounts and did sell in
+[13:29] our investment newsletters. Alarm is an
+[13:32] Israeli um tech company. Uh I would not
+[13:35] be surprised if they surprised. It just
+[13:38] the Israeli ADRs don't communicate as
+[13:41] much as I want them to. But um uh it you
+[13:45] know I did uh sell the stock cuz I just
+[13:48] didn't trust this quarter and they they
+[13:50] announced on the 29th. What do you
+[13:52] expect for the durable goods and
+[13:53] consumer confidence this Tuesday?
+[13:56] Durable goods are supposed to be flat as
+[13:57] a pancake. I'm hoping they they perk up.
+[14:00] Uh Boeing's been booking a lot of
+[14:01] orders. Um obviously Trump went and got
+[14:03] him a bunch of orders in the Middle
+[14:05] East. Um the auto industry's been pretty
+[14:08] busy. Um so we'll see. You know, I think
+[14:12] what's if anything's going to hold
+[14:13] durable goods back, it's going to be
+[14:15] construction until interest rates fall.
+[14:17] You know, construction's still slowing
+[14:20] down, but um uh you know, we do want to
+[14:23] see positive durable goods, and I would
+[14:25] not be surprised if we got it thanks to
+[14:26] aviation and
+[14:28] autos. The other um big news next
+[14:31] Tuesday is going to be consumer
+[14:32] confidence. This is the conference
+[14:34] board. There's the University of
+[14:35] Michigan and then there's a conference
+[14:37] board survey. I love the conference
+[14:39] board survey. uh economists are
+[14:41] expecting to be essentially unchanged.
+[14:43] So if it comes in a little better and
+[14:44] expected, that would be
+[14:46] wonderful. And um and you know, it's
+[14:49] time for consumers to cheer up, but a
+[14:51] lot of that's weather related, too. So
+[14:53] So if you could just get the gloom to go
+[14:56] away. Well, there's some blue out there,
+[14:58] so we're getting there. Okay. And
+[15:01] finally, what do you expect for the
+[15:03] Fed's PCE? That's supposed to be zero
+[15:06] unchanged. Um uh I'm in the camp that we
+[15:10] have deflation. You know, consumer
+[15:11] prices have fallen two out of the last 3
+[15:14] months. Uh the the wholesale prices the
+[15:17] uh which is the PPI has fallen uh
+[15:19] dramatically for the last 2 months. We
+[15:22] are importing um deflation from China.
+[15:24] We got all this inventory that was
+[15:26] dumped on America trying to beat the
+[15:28] tariffs. So um the PC is going to be uh
+[15:32] should should be very favorable. Uh the
+[15:34] Fed continues to uh try to fight an
+[15:37] inflation bogeyman that has not
+[15:39] materialized. I think they're making a
+[15:41] horrible mistake. And so if we continue
+[15:44] to get months and months of uh of of
+[15:47] inflation at or near zero, plus some
+[15:49] deflationary months, they're going to
+[15:51] have no choice other than to cut rates.
+[15:52] The European Central Bank, of course,
+[15:54] will be cutting rates in June. Now,
+[15:56] let's answer some subscriber questions.
+[15:58] One of our viewers wanted to know what
+[15:59] Moody's downgrade means for investors.
+[16:02] Uh well, it did shock the the markets
+[16:05] early in the in the week. Um they
+[16:09] downgraded the credit of the US
+[16:10] government because our deficit's getting
+[16:12] bigger and bigger. It's over 120% of
+[16:15] GDP. Uh I want to assure everybody we do
+[16:17] have a lot of collateral. You know, the
+[16:19] government owns a lot of land and
+[16:22] things. I don't think we're at the point
+[16:24] where we have to start selling assets to
+[16:25] pay down the debt, but that's one of the
+[16:27] options. And um uh we're no no longer
+[16:32] officially uh AAA rated. We're double A
+[16:34] rated and um but that's still very safe
+[16:38] and um and that will blow over. But
+[16:41] traditionally when when we've had a
+[16:43] downgrade, the market does struggle for
+[16:46] uh the next month or so. Another one of
+[16:48] our subscribers wanted to know what was
+[16:50] the drop with Target Resources. Well,
+[16:52] it's an energy stock and it's mostly
+[16:54] energy
+[16:55] infrastructure. the uh deal with energy
+[16:59] is natural gas is very sensitive to the
+[17:02] weather. So when you uh have any
+[17:05] interest in natural gas, you want two
+[17:07] things. First, you want a freezing cold
+[17:09] winter cuz natural gas demand goes up.
+[17:12] And then you want a hot miserable summer
+[17:14] because then they use natural gas to run
+[17:16] air conditioning because there's a lot
+[17:17] of natural gas power plants around
+[17:19] America. The last little glitch is it
+[17:21] has to be in a metro area, you know. So,
+[17:24] you know, if the Northeast freezes, it's
+[17:26] better than if like the Rocky Mountains
+[17:29] freeze, okay? Because there's more
+[17:31] people in the Northeast. Um the other
+[17:33] thing is crude oil is unfortunately near
+[17:36] a four-year low right now. Uh you know,
+[17:38] the OPEC is producing more. They um uh
+[17:42] Exxon's got Guyana and then of course we
+[17:44] got drill baby drill going on. So uh the
+[17:48] whole energy sector
+[17:50] um sagged here a bit but demand does go
+[17:54] up in the spring and target um uh
+[17:58] resources which is
+[17:59] TRGP is really really more tied to
+[18:02] natural gas than oil. So that's what's
+[18:05] really going to be booming under Trump
+[18:07] because we got to power all the data
+[18:10] centers with predominantly natural gas
+[18:12] peaker power plants. And lastly, can you
+[18:14] share with everyone what your top
+[18:16] quantum computing stock is? Well, our
+[18:19] publisher, we did a special report on IO
+[18:21] and Q several months ago and it's up a
+[18:24] ridiculous amount. Uh, it went up over
+[18:27] a,000%. I think it's up
+[18:29] 1,400% since they initially recommended
+[18:32] it and we did that special report. The
+[18:35] um D-Wave, which is QBTS, is the latest
+[18:39] recommendation. And I I like D-Wave
+[18:41] right now. They won that Nvidia contest
+[18:43] and they're help helping provide the
+[18:45] architecture for quantum computing.
+[18:47] Again, none of these stocks are making
+[18:49] money, but they have strong sales.
+[18:50] They're beating Alice estimates on the
+[18:52] other words, they're losing less money.
+[18:55] Um, but they both surged um last week.
+[19:00] So, I I' I'd wait for a pull back to
+[19:02] buy. Well, thank you so much for
+[19:03] answering all my questions and thank you
+[19:05] to you all again for supporting us. If
+[19:07] you haven't already, make sure to
+[19:08] subscribe and like. And if you want to
+[19:10] listen to us on Spotify, that link will
+[19:12] be in the description below. Also,
+[19:14] Louis's new book. But until then, we
+[19:16] will see you all next week with a
+[19:17] special guest. Thank you all so much.
+[19:20] [Applause]
+[19:21] [Music]

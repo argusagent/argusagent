@@ -7,9 +7,810 @@ Type: video
 Duration: 36:15 (2175s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 802
+Transcript characters: 27902
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Credit spreads at 20-year lows. Global
+[00:02] debt tops 320 trillion, 40% maturing in
+[00:07] three years. Private credit, a three
+[00:10] trillion market paying doubledigit yield
+[00:13] with hidden risks. Is this the next
+[00:15] credit crisis or just another wall of
+[00:18] worry? Welcome back to Navier Market
+[00:20] Buzz.
+[00:21] [Applause]
+[00:22] [Music]
+[00:33] Joining us is Mike Laneir, founder of
+[00:36] Dial Capital Management with over 40
+[00:38] years of experience. Thank you so much,
+[00:40] Mike, for being here.
+[00:42] >> It's my pleasure.
+[00:44] >> I'm excited to have Mike. A little
+[00:46] history of my relationship with Mike. Um
+[00:49] after the 2008 financial crisis in early
+[00:53] 2009, I was doing um uh stock UITS with
+[00:58] a firm called Advisors Asset Management
+[01:00] based in Princeton. And um I thought uh
+[01:05] we it was a good time to do bond UITS
+[01:08] because bond yields had spiked after
+[01:10] 2008
+[01:11] and uh and we expected yields to be
+[01:13] collapsing.
+[01:15] Um what happened uh is uh Mike was able
+[01:20] to buy bonds that um a lot of financial
+[01:23] advisors couldn't find on their own. Uh
+[01:26] these are what we call tripleB bonds
+[01:28] investment grade although he is a a high
+[01:30] yield specialist. And um we went on and
+[01:34] raised over uh uh $2 billion. I think we
+[01:37] had 140 over 140 UITS.
+[01:42] And um the reason they sold so well is
+[01:46] when you buy a a bond mutual fund or a
+[01:48] bond ETF, there are two risks. One is
+[01:51] called the duration risk, which is how
+[01:53] far out in the yield curve they are and
+[01:55] how volatile they could be. But a hidden
+[01:58] risk you don't often see is called
+[02:00] transaction risk. That's the spreads
+[02:02] associated with buying and selling
+[02:04] bonds. And what happened is is by doing
+[02:07] these bonds in a UIT, we eliminated the
+[02:11] transaction risk. So anytime there's a
+[02:13] run on ETF assets or mutual fund assets
+[02:16] and bond products, that transaction risk
+[02:19] can show up in an ugly way.
+[02:22] Mike, could you explain to people how
+[02:25] there is no bond exchange, how bonds are
+[02:27] still traded over the over the counter
+[02:30] and and still have spreads? Yeah, there
+[02:32] are there are really no market makers in
+[02:35] the corporate bond uh arena. They uh the
+[02:40] banks underwrite the new issues. They
+[02:43] bid for them until they're placed and
+[02:47] then it's a primarily a buy side to buy
+[02:50] side transaction
+[02:53] and there's no tape. you don't really
+[02:55] hear for sure where these things are
+[02:57] trading and you get surprised when you
+[03:01] want to get out or you end up paying
+[03:05] more than you expected when you try to
+[03:07] add to a position. So, it's it's uh
+[03:11] something that a person that trades
+[03:15] stocks on their Fidelity account would
+[03:16] not be familiar with.
+[03:18] >> And to get a good spread on a bond, it's
+[03:21] got to you got to buy at least a million
+[03:22] bucks worth, right?
+[03:23] >> Yeah. the institutions uh they'll do
+[03:29] uh quarter millions at the smallest and
+[03:32] they prefer to do $5 million blocks.
+[03:35] >> Okay, there you go.
+[03:37] So, we're uh Mike, we're showing a chart
+[03:39] of the um uh the iShares 20 plus year uh
+[03:44] ETF, how it's uh dropped 48.7%.
+[03:49] Uh and and it's obviously not making
+[03:53] people money because yields have been
+[03:54] erratic and um but we're also showing a
+[03:59] chart of the 10-year how it looks like
+[04:01] it's about to tip and start to decline.
+[04:03] So, one of the reasons we wanted to have
+[04:05] you on is I'm of the opinion that there
+[04:08] is a global interest rate collapse
+[04:10] underway. Obviously, we got evidence
+[04:12] this week. We're going to have multiple
+[04:14] uh Fed officials calling for uh a rate
+[04:17] cut in no in September and uh probably
+[04:21] some more later in the year. And uh so I
+[04:23] just think it's now is a very good time
+[04:25] for if people are going to buy bonds uh
+[04:28] to buy them and because they could they
+[04:30] can make a lot of money as yields
+[04:31] plummet. So I guess the question is
+[04:35] uh you know should they do treasuries,
+[04:38] should they do corporates uh uh you know
+[04:42] do you have any opinion on what the best
+[04:44] uh place they should be and the
+[04:45] duration? Well, you know, the uh the
+[04:49] issue
+[04:50] with your forecast for falling interest
+[04:53] rates,
+[04:54] is it because you think the economy,
+[04:57] world economy is slowing or because you
+[04:59] think inflation is going to go down
+[05:02] significantly?
+[05:03] >> I think it's the collapse of household
+[05:05] formation for the entire world except
+[05:08] for the US and India. Um I think Brazil
+[05:11] had some household formation, but that's
+[05:13] about to stop. So, uh, it's, you know,
+[05:16] it's hard to grow your economy when you
+[05:18] have fewer people. Uh, and Asia has
+[05:22] incredible demographic decline.
+[05:25] Japan is the highest birth rate of
+[05:27] anybody in Asia, but obviously not
+[05:28] enough to replace households. Uh, an
+[05:31] economy can, you know, uh, continue
+[05:34] their growth with, uh, orderly
+[05:35] immigration, but that's not common in
+[05:37] Asia and obviously in Europe. um outside
+[05:41] of maybe Spain and Portugal, uh
+[05:43] immigration is a very contentious
+[05:45] subject because uh they're not
+[05:47] assimilating people. Here in the United
+[05:49] States, of course, not only do we have
+[05:51] household formation because, you know,
+[05:53] we have, you know, pro family areas in
+[05:55] the south and the mountain west and uh
+[05:58] and um even where you are in Houston,
+[06:00] you know, my daughter um lives in the
+[06:03] university area, my oldest daughter, and
+[06:06] um and uh they were made very clear that
+[06:09] if they want their child to be in their
+[06:12] one of their schools, they're supposed
+[06:13] to show up on church night, which is
+[06:14] Wednesday night. So, you know, it's even
+[06:17] you're in a very pro- family area and uh
+[06:21] and then of course, you know, you're in
+[06:22] a in a huge city that's a melting pot,
+[06:26] uh where immigrants are welcome and they
+[06:28] grow and prosper and uh of course Trump
+[06:30] wants them to be have green cards. But,
+[06:33] uh I just think the US is better
+[06:35] positioned. Um plus our states compete
+[06:37] with each other. You see that with Texas
+[06:39] being one of the big winners. Um so, no,
+[06:42] I it's mostly demographics. Uh and and
+[06:45] also I just think the US has a better
+[06:47] model. So I think we will be the oasis.
+[06:51] But uh I don't know how you grow an
+[06:53] economy when you're losing people. Uh I
+[06:56] realize you can have productivity gains,
+[06:59] but uh that's my my main thesis.
+[07:03] >> Well, I I agree with everything you just
+[07:06] said. I think that uh I think it's
+[07:08] difficult to
+[07:11] expect inflation to drop to 2% or less.
+[07:15] So, uh what would take rates down is a
+[07:18] slowdown in global growth which you just
+[07:21] described. But there's also another
+[07:23] consideration
+[07:25] um of why the US is a better place to
+[07:27] invest in the debt market is we have
+[07:31] by far the most advanced corporate bond
+[07:33] market. Um most of the rest of the world
+[07:38] the banks are the primary lenders.
+[07:40] There's not there's not a Europe has a
+[07:44] a reasonable corporate bond market. Asia
+[07:46] has virtually none. And and part of the
+[07:50] reason for that is that our our
+[07:53] bankruptcy laws are so much more
+[07:57] efficient. If you if you file bankruptcy
+[08:00] in Asia, the equity holders have five
+[08:03] years to come up with a plan and the
+[08:06] bond holders don't get paid the whole
+[08:07] time. So nobody that's why they can't
+[08:10] develop a bond market. Um
+[08:14] uh recently in the United States when a
+[08:17] company gets into trouble twothirds of
+[08:19] the time they do a debt exchange
+[08:22] uh within less than a year and they you
+[08:25] move on and you can evaluate what your
+[08:30] recovery is likely to be. It's just
+[08:32] something that doesn't exist and it's a
+[08:34] real strength of the of the American uh
+[08:37] capital markets. So if you think global
+[08:41] rates are coming down for the reasons
+[08:42] you described,
+[08:45] uh I would stay and you know sovereign
+[08:48] debt's going to work because
+[08:51] sovereign debt has a real difficulty
+[08:53] defaulting.
+[08:55] Um, but if you're going to do corporate
+[08:57] debt, your choices are really the US or
+[09:01] Europe and even Europe's uh
+[09:06] rules for workouts aren't as good as the
+[09:09] aren't as quick or clear as the United
+[09:12] States. So, I would stay in the US if
+[09:16] you're not going to do sovereigns. I
+[09:19] would uh I would have a bias towards the
+[09:24] quality of the investment grade. Um high
+[09:28] yield is uh takes credit analysis skills
+[09:32] that I don't think most retail people
+[09:34] can muster. So yeah, I and if I I can
+[09:40] pretty much guarantee you if you're
+[09:41] right, then there's a a slowdown, a
+[09:44] clear slowdown, high yield will cheapen
+[09:48] up pretty rapidly.
+[09:50] >> This is a good time to remind everybody
+[09:51] that we did all those UITs for AM and
+[09:55] there's still some outstanding. Uh um
+[09:57] and advisor's asset management has been
+[09:59] sold so we're not actively doing
+[10:00] anymore. Um uh but uh you didn't have
+[10:04] any defaults and you bought a lot of
+[10:07] different bonds that several year run we
+[10:10] had. So
+[10:12] >> it it it the timing was good. Um you
+[10:15] know when the Fed came in and injected
+[10:18] all that liquidity during COVID defaults
+[10:21] almost vanished. There was so much cash.
+[10:25] >> Well this another interesting thing is
+[10:27] when rates come down don't a lot of
+[10:29] companies want to refinance their bonds?
+[10:30] So, aren't a lot of them callable? So,
+[10:32] they'll never hit maturity.
+[10:34] >> There was a massive amount of
+[10:35] refinancing when when people were making
+[10:38] 3% mortgage rates. Corporations were not
+[10:42] only uh refinancing to lower coupons,
+[10:44] they were buying as long uh bonds as
+[10:47] they could get place in the market. So,
+[10:50] uh but once again, that is the
+[10:52] difference between a company that can
+[10:54] access the bond market and these smaller
+[10:57] credits that can only do bank loans.
+[11:00] Um,
+[11:02] and it's it's interesting that the
+[11:06] default rate overall in the US is higher
+[11:11] than the high yield default rate because
+[11:13] there's so many small mom and pop bank,
+[11:17] you know, that are bank financed and
+[11:19] they they run out, you know, they run
+[11:21] out of money and the high yield market
+[11:25] can uh sell you 10-year bonds and the
+[11:28] bank loans are five years at the best,
+[11:30] often three years. And so you get your
+[11:33] feet put to the fire very rapidly. Um if
+[11:36] you're a bank loan only borrower,
+[11:39] >> you know, you're in the oil patch. I
+[11:41] think you're Exxon's near you. Um there
+[11:43] was a cut off in credit for a while to
+[11:46] the oil industry because they were kind
+[11:48] of shamed by all the ESG people and all
+[11:50] that stuff. And obviously uh President
+[11:53] Trump's back making the banks lend um
+[11:57] people at least that vote for him. Um so
+[12:01] uh is credit alive and well now in the
+[12:03] for the oil patch? Yeah, they're doing
+[12:06] um they haven't had it's a case of the
+[12:09] the bigger I mean the the drilling rates
+[12:11] haven't exploded like Trump has wanted
+[12:13] them to, but the larger companies still
+[12:17] generate a tremendous amount of cash
+[12:18] flow, but they've certainly been an
+[12:21] underperformer in the stock market. Um
+[12:25] >> you know uh though the demand for energy
+[12:29] we've seen utilities be one of the
+[12:32] better sectors thanks to these massive
+[12:34] data centers that are going to tax the
+[12:37] grid and so you know energy demand is
+[12:40] increasing.
+[12:41] >> Yeah the growth seems to be mostly
+[12:43] natural gas LNG midstream pipelines.
+[12:47] Yeah it's going to be interesting to see
+[12:49] how all this unfolds.
+[12:51] So today's tight spreads hide weakness
+[12:53] in smaller firms without bond access.
+[12:56] But why are spreads so low when debt
+[12:58] risks are so high?
+[13:00] >> Well, it's a case of the halves and the
+[13:02] have nots. Uh there's been relatively
+[13:05] low default rates um in companies large
+[13:08] enough to access the bond market. And
+[13:12] philosophically, default rates should be
+[13:14] the number one determinant on spreads.
+[13:18] Um the strong equity markets uh bring
+[13:22] confidence that the equity cushion on
+[13:26] the balance sheet that protects the bond
+[13:29] valuations
+[13:31] uh is a comfort as well. I mean we have
+[13:34] record stock markets
+[13:36] um and sovereign yields are generally
+[13:39] low. I know they're coming down and and
+[13:42] we expect them to keep falling, but
+[13:45] historically speaking, they're pretty
+[13:47] low and investors are seeking yield. And
+[13:51] so if they can pick up uh one or 2% more
+[13:55] in a debt instrument, uh many retail
+[13:59] investors find that attractive and
+[14:01] meaningful.
+[14:03] And there is a great deal of cash
+[14:05] slushing around in this market. the
+[14:07] money market balances are what still a
+[14:10] couple trillion or something and people
+[14:14] want to feel like they need to put that
+[14:16] to work and and and now I think with the
+[14:20] Fed almost for sure cutting in September
+[14:23] looks very likely they'll cut twice by a
+[14:25] year end that 4% you've been getting in
+[14:29] your money market's going to go away and
+[14:31] they're they're going to be looking to
+[14:33] replace it and they retail
+[14:36] just can't grasp the concept of credit
+[14:39] risk very well.
+[14:40] >> Wow. Hey Mike, uh worldwide debt um from
+[14:45] governments I think went up as 7 and a
+[14:48] half trillion in just a quarter. Three
+[14:52] and a half trillion that was from
+[14:53] emerging markets. Two trillion was from
+[14:55] China.
+[14:57] Moody said 40% of this debt is supposed
+[15:00] to mature by 2028.
+[15:03] So, is it possible they're going to have
+[15:06] a credit crunch or that China will have
+[15:07] to devalue its its currency because, you
+[15:09] know, their rates are below Japan. Uh, I
+[15:12] just this is a lot of debt out there.
+[15:14] So, I'm just curious uh if they're going
+[15:16] to be able to roll it successfully.
+[15:19] Well, it's certainly going to be tested
+[15:21] where just as the equity markets are at
+[15:23] all-time highs, debt levels are at
+[15:25] all-time high, but it is a bit of an
+[15:28] emperor's clothing situation where
+[15:31] everyone is more leverage than they ever
+[15:33] been. all the countries they they they
+[15:35] virtually doubled before and after
+[15:39] COVID. Um
+[15:42] and everyone is hesitant to cast stones
+[15:45] at even the weakest countries because no
+[15:48] one wants to start a sovereign debt
+[15:50] crisis. So they, you know, the central
+[15:53] banks, if there's a tough auction, the
+[15:56] central banks come in and and mop up the
+[15:58] bonds they can't get done. It is
+[16:02] tenuous. And we are in untested grounds
+[16:05] at these debt levels.
+[16:06] >> Yeah. You know, I should add that the as
+[16:08] we talked today, the big news is
+[16:12] gold just hit a record high because uh
+[16:15] the uh customs wants to put the 39%
+[16:19] tariff on the Swiss gold bar.
+[16:23] So, uh, as we're trying to figure out
+[16:26] if, uh, New York's going to be able to
+[16:29] be the leading futures exchange for
+[16:31] gold, you know, because they have to
+[16:32] settle all this stuff. So, uh, it's
+[16:36] getting to be interesting, you know, uh,
+[16:38] I think the central didn't the central
+[16:39] banks load up on gold just to kind of
+[16:41] help shore up their balance sheets for a
+[16:43] while.
+[16:44] >> They have been big buyers. um because I
+[16:47] think it was three years ago
+[16:50] um
+[16:52] they declared gold to be a class one
+[16:55] asset for their equity tests. So, you
+[16:59] know, it it became I think they're more
+[17:02] com I think they they they're certainly
+[17:04] more comfortable or their other choice
+[17:08] was to buy sovereign debt from other
+[17:09] countries which are now more leverage
+[17:12] than they've ever been. And so gold is
+[17:16] um you know even though crypto was
+[17:18] supposed to replace it as digital gold
+[17:21] uh on a on a regulatory basis
+[17:26] it's more attractive than it's ever
+[17:28] been.
+[17:29] >> Yeah. Yeah. So so Mike you know I'm an
+[17:32] ex banking regulator and it's my opinion
+[17:35] that DoddFrank is a disaster. Uh I
+[17:38] remember when they uh when Goldman
+[17:41] bought Silicon Valley Bank's uh treasury
+[17:44] portfolio on a Thursday, they would have
+[17:46] been solvent on a Tuesday. Uh but the
+[17:50] marktomarket accounting forced a fast
+[17:52] sale of the of their assets. And uh when
+[17:55] I was a banking regulator, we didn't
+[17:56] have marktomarket accounting. So um we a
+[18:01] lot of people just didn't realize how
+[18:02] volatile treasuries could be, especially
+[18:04] as the farther out you go. But right
+[18:07] now, obviously, the rage on Wall Street
+[18:09] is is this private credit. It's a $3
+[18:12] trillion a year industry. It's 10% of
+[18:15] our GDP, apparently. Uh uh and the banks
+[18:20] don't really like to lend to you now
+[18:21] unless you have a perfect credit score.
+[18:23] So, if you're less than perfect, like
+[18:25] say say 798, they they pass you off on
+[18:29] these other institutions to start
+[18:30] marking up your loans. And um right now
+[18:34] they're leveraging these loans to get an
+[18:36] 11% yield. Um and and you know these
+[18:40] just so everybody listening, you know,
+[18:41] you can go to a Morgan Stanley, Maril
+[18:43] Lynch, UBS, and they'll put you in these
+[18:46] private credit deals. You have to wait
+[18:47] for an opening. But um is there any
+[18:50] chance this implodes one day? Because
+[18:52] last I saw leverage loans have are have
+[18:56] a 7.2% default rate and might be headed
+[18:58] a little higher.
+[18:59] >> Once again, uncharted waters. Um uh I
+[19:03] think the buyers of these things look at
+[19:05] the yield and they if Morgan Stanley's
+[19:09] recommending it, they consider that a
+[19:12] stamp of approval despite the the
+[19:16] disclosure documents they may sign
+[19:18] before they can buy them. Uh, I think
+[19:21] that uh
+[19:23] I think the reason the regulators don't
+[19:26] crack down is that it's removing credit
+[19:29] risk from the banking system, which they
+[19:32] like. And I'm pretty sure that the only
+[19:36] people that can buy these things are
+[19:37] technically accredited investors,
+[19:40] which when they first designated that
+[19:43] class, you had to have a what, a million
+[19:46] dollars of of net worth and make 200,000
+[19:50] a year. Well, 25 years ago, that was
+[19:53] pretty good numbers. Today, not really.
+[19:57] So, you really can't call these people
+[19:59] sophisticated investors.
+[20:02] I I'm I can almost guarantee you they
+[20:05] don't look at the financial statements
+[20:07] of anything that they buy. The problem
+[20:09] with high yielding investments like this
+[20:12] is they're easy to buy. They're not easy
+[20:15] to sell. When there's when they create
+[20:18] exotic
+[20:19] financial instruments, there's a big
+[20:21] marketing push and as the sales
+[20:25] snowball, you hear your neighbor bought
+[20:28] some and
+[20:30] he's happy.
+[20:32] It's like it's, you know, it's not
+[20:34] exactly a madeoff situation, but it's
+[20:37] similar in that until the music stops,
+[20:41] nothing's wrong.
+[20:44] These default rates, I bet you most of
+[20:46] the people that own those 11% pieces,
+[20:49] they don't know there's a 7 and a half%
+[20:51] default rate underneath.
+[20:52] >> Yeah, I would agree. Well, since you
+[20:54] brought up Maid Off, I'm down here in
+[20:56] Palm Beach, Maid Off Central here, uh,
+[20:58] former Maid Off Central. you know, the
+[21:01] the big scandal here other than Bernie
+[21:04] was uh in 2008 uh they were selling
+[21:07] leverage munis. Um I believe at that
+[21:10] time you were at AIG and um and of
+[21:13] course they were they were able to sell
+[21:15] uh leverage munis through the uh AIG
+[21:18] credit default swaps. But when those
+[21:20] things failed uh they were forced to
+[21:23] unwind them all at once. And I remember
+[21:26] a lot of my neighbors losing up to 97%
+[21:29] of their money because when they went to
+[21:31] sell the munis, it was was basically the
+[21:34] equivalent of like a stock market flash
+[21:36] crash. They all had exit at the same
+[21:39] time. And um and you know, we had a
+[21:41] flash crash in the market uh 10 years
+[21:44] ago uh I think August 24th uh 2015. And
+[21:48] um and that flash crash knocked the
+[21:52] stocks down 35% uh well actually stock
+[21:55] ETFs down about 35% for a few hours in
+[21:58] the day. A lot of them are unchanged but
+[22:00] it was it wasn't very pleasant. So are
+[22:03] there times in the bond market where you
+[22:05] have these kind of sudden liquidation
+[22:07] events and everybody just gets fleeced?
+[22:10] Does that happen very often or it hasn't
+[22:12] happened since 2008? it. The problem is
+[22:16] is we talked about the lack of liquidity
+[22:18] and that there's really no market
+[22:19] makers.
+[22:21] You know, the the tape of trades that
+[22:24] have transpired is is a little murky.
+[22:28] The the contagion risk in a bond market
+[22:30] is that there are defaults and and when
+[22:36] you go to sell something
+[22:38] and they tell you, "Well, it's down 20
+[22:41] points because of the problem the
+[22:44] company had."
+[22:46] What happens is
+[22:48] um some people panic and they say, "I'll
+[22:51] sell at any level." And that just, you
+[22:54] know, they're not evaluating the
+[22:56] situation. and they just want out. And
+[22:59] that's the first level. The second level
+[23:02] is when those things happen, people go,
+[23:05] "Well, I wonder what the rest of my
+[23:08] stuff is worth." And they start testing
+[23:12] companies that aren't in trouble at all.
+[23:14] And and when there's a rush to the door,
+[23:17] the whole category starts going down.
+[23:20] like as we saw in uh the subprime
+[23:23] mortgage situation, it started off
+[23:25] slowly and then everybody wanted out and
+[23:29] and who's the brave person that steps
+[23:32] into the breach? It's it's going to be a
+[23:35] distress shop and they always lowball
+[23:38] you, you know, they that's their
+[23:40] specialty. So, it's uh uh it's
+[23:46] it's that lack of transparency and the
+[23:50] inability to evaluate what it's probably
+[23:54] worth even in a restructure
+[23:57] uh that can cause a panic in the short
+[24:00] term. a flash crash is is is
+[24:06] it's only hidden because you don't I
+[24:09] mean how many people do you suppose even
+[24:12] know that bond leverage bonds are down 7
+[24:16] and a half%. It's it's not a
+[24:18] high-profile category but nobody knew
+[24:21] about maid off until
+[24:24] you know the damage was already done.
+[24:27] >> Yeah. Yeah. Yeah. No, it's uh yeah,
+[24:30] people have to realize markets are
+[24:32] liquid, but they're liquid at a at a
+[24:34] deep discount. You know, I I I guess we
+[24:37] should add that um in our UITS that that
+[24:40] we did that you did so skillfully,
+[24:42] occasionally we had to sell a bond if it
+[24:44] if the rating fell and it was written in
+[24:47] the in the UIT charter and every one of
+[24:49] those bonds that we sold went a lot
+[24:51] higher. Is that correct? I mean that's
+[24:54] something that in fact uh did change is
+[24:59] that like what happened in the subprime
+[25:02] was at that time
+[25:05] the they had trunched out with you know
+[25:08] even AAA pieces double A pieces and
+[25:12] and that wasn't that long ago right it
+[25:14] was 10 well 15 years now
+[25:18] um the guidelines said you can't hold
+[25:21] these ratings
+[25:23] And after that event, they said they
+[25:25] changed them to the ratings test was a
+[25:28] purchase only test. And in the UITS, we
+[25:31] got it to be a purchase only test. So
+[25:34] when the downgrades came, you weren't
+[25:36] forced sellers. Uh and that is
+[25:41] the worst thing possible is when you
+[25:43] create forced sellers because then
+[25:45] they're price insensitive
+[25:48] and and the market will prey upon you.
+[25:51] So you know in fact uh when the US got
+[25:55] downgraded
+[25:57] to double A from S&P they most of these
+[26:02] uh mutual funds and these structured
+[26:05] deals they had to go in and say that
+[26:09] they had to change it from AAA to AAA or
+[26:12] securities issued by the US government
+[26:16] because if they had to force sell US
+[26:19] bonds if they went double A by everyone,
+[26:23] which Moody's is kind of telegraphing.
+[26:26] They want to take the AAA away and Fitch
+[26:29] and S&P are already double A. Um, if you
+[26:33] had four sellers of US bonds, it would
+[26:37] be a disaster and but it's not going to
+[26:39] happen because they changed the
+[26:40] guidelines.
+[26:43] >> That's why we have Scott Besset in
+[26:44] charge. The Bank of England just cut
+[26:46] rates for the fifth time this year after
+[26:48] a contentious five to four vote. How
+[26:51] many more central bank rate cuts are you
+[26:54] anticipating?
+[26:56] >> Well, the banks certainly have an
+[26:57] incentive to support the economies. Um,
+[27:01] they speak to pushing back on inflation,
+[27:05] but the political pressure to cut is
+[27:07] very strong. We see it here in the US.
+[27:10] Uh, I think more cuts are likely. Um and
+[27:14] if we get a global slowdown,
+[27:17] they could become they could come very
+[27:19] rapid.
+[27:19] >> So Mike, I guess the latest thing to
+[27:21] confuse investors is that we are
+[27:23] conducting a foreign policy through
+[27:25] tariffs. It uh really exploded with
+[27:28] Brazil. We had a 10% tariff on Brazil,
+[27:31] but now it's apparently 50%. Except on
+[27:34] orange juice and uh aircraft parts.
+[27:37] Trump wants uh Lulu Dilva to stop
+[27:40] prosecuting u his predecessor Mr.
+[27:43] Ballisero. Lulu Dilva doesn't feel like
+[27:46] he's respected and so our relationship
+[27:48] with Brazil has now become very very
+[27:50] contentious. And then of course we just
+[27:52] had the incident with India where uh
+[27:55] Trump said, "Hey, if you keep buying the
+[27:57] Russian oil, uh we're going to slap big
+[27:59] tariffs on you." And sure enough, he
+[28:01] did. And not only did um Prime Minister
+[28:04] Modi and Trump have a contentious phone
+[28:07] call apparently because you know the the
+[28:09] Pakistan army chief was in the White
+[28:12] House for lunch and um Modi wasn't too
+[28:15] happy with that. Um uh it's also
+[28:18] apparently going to force uh uh Putin to
+[28:20] meet with Trump because uh it's putting
+[28:23] pressure on uh Putin to to uh do
+[28:27] something because I think India is the
+[28:29] only one that can really re buy all that
+[28:31] Russian oil. It's heavy. It's sour. Uh
+[28:34] and they sell a lot of refined product
+[28:35] afterwards. So it's these tariffs are
+[28:39] are are getting to be more interesting
+[28:41] than I thought they would be.
+[28:44] >> I agree.
+[28:45] I agree. Um,
+[28:48] once again, uncharted waters. I mean, it
+[28:51] it I think it's going to be very
+[28:53] challenging
+[28:55] for many of the corporations
+[28:58] to forecast
+[29:01] uh sales and margins. And um and Trump's
+[29:06] so material. He, you know, he's, look
+[29:10] how much he swung the market by
+[29:12] announcing tariffs and then giving a
+[29:14] 90-day delay and then this is on, this
+[29:18] is off. Uh,
+[29:20] it's it's I, you know, it's given all
+[29:24] that kind of volatility and it's and as
+[29:26] they say, it's been a hundred years
+[29:28] since tariffs were this high.
+[29:32] It's uh and and of course last time it
+[29:35] it didn't end well.
+[29:38] Uh
+[29:40] so it's it's for me it's a little
+[29:43] remarkable that stocks are at all-time
+[29:45] high with all these untested things. You
+[29:48] know, the high debt levels, the tariffs,
+[29:51] uh you know, even even kicking out all
+[29:56] these immigrants is gonna rock the boat
+[29:58] here. I mean there's so there's so many
+[30:00] things going on. U
+[30:03] but do think that the goal is worthy and
+[30:07] I do think we'll see more investment the
+[30:09] strategy of getting people to increase
+[30:13] manufacturing capacity in the United
+[30:15] States.
+[30:17] It appears to be working but we all know
+[30:20] it takes what two or three years to
+[30:21] build a factory.
+[30:22] >> Yeah.
+[30:23] >> We won't know if it worked until the end
+[30:26] of Trump's term.
+[30:28] Yeah. Well, the with Japan, South Korea,
+[30:31] and Europe, I guess that was another one
+[30:33] and a half trillion of proposed
+[30:35] onshoring. So, we're over 10 trillion on
+[30:38] shoring right now. And of course, he got
+[30:40] appled on on shore even more the other
+[30:42] day. So, it's going to be interesting.
+[30:44] It's um obviously a lot of this is
+[30:46] automotive. So, those five southern
+[30:49] states are are going to be booming that
+[30:51] have most automotive business. And then
+[30:54] uh uh obviously a lot of it
+[30:57] semiconductors and uh you know uh Taiwan
+[31:00] Semi in Arizona
+[31:03] seems to be uh got the lead on that. The
+[31:05] Intel thing is just a mess. You know the
+[31:08] Intel plant in Ohio was cancelled
+[31:11] because the defense department reigged
+[31:13] on buying chips from Intel. I remember I
+[31:17] I was in Ohio talking to people about it
+[31:19] and they were all excited and and then
+[31:22] the defense department reneged so Intel
+[31:24] never built the plant and of course
+[31:25] Trump wants the intel chief to resign.
+[31:28] Then um uh the other thing that's
+[31:31] interesting is um I guess he wants all
+[31:34] the farmer be on shore too. I mean,
+[31:36] Lily's obviously in the process of doing
+[31:38] that, but you know, our deficit with uh
+[31:42] Switzerland, Ireland, uh and of course,
+[31:45] China, a lot of that's pharma.
+[31:48] Those are the industries I think are
+[31:49] coming back. Um yeah, it's it's compound
+[31:52] complex. Have you ever met Howard
+[31:54] Lutnick? You know, I know him because my
+[31:56] son went to school this kid at Stanford.
+[31:58] >> Did never did
+[31:59] >> because uh Howard this tariff fantasy is
+[32:02] Howard's fantasy. and uh and and
+[32:06] obviously Howard and um Scott Besset are
+[32:09] giving Trump all the advice. Um you
+[32:11] know, they're the ones that broke it to
+[32:12] him that the bond vigilantes uh um were
+[32:15] in charge and when Treasury yields
+[32:17] briefly went up and uh that caused Trump
+[32:20] to do the uh the tweet on uh April 8th
+[32:23] that you know to to buy everything all
+[32:25] in caps exclamation. So, and Mike, I
+[32:28] think you know, you know, Trump's in the
+[32:29] money management business now. He has
+[32:31] four different accounts through Yorktown
+[32:33] Securities. Uh and then he's filed for
+[32:36] two uh crypto ETFs. So, it's it's
+[32:40] interesting uh just to watch it all
+[32:43] unfold. Oh, and he's in our business,
+[32:44] too. The family um uh Laura Trump and
+[32:49] Donald Jr. bought took a big interest in
+[32:52] Salem Media. They popped the stock 272%
+[32:55] that day. But um Salem Media owns Eagle
+[32:58] Publishing, which is the newsletter
+[33:00] business like I'm in. So uh I just found
+[33:03] that to be interesting. Uh and so I keep
+[33:06] bugging my friends at Salem what's going
+[33:08] on and uh and the Eagle Division. I I
+[33:12] haven't heard too much, but uh
+[33:15] I I've never seen
+[33:18] somebody in government be so busy in
+[33:20] business.
+[33:23] So So it's interesting. It's certainly
+[33:25] one of a kind though. But that's you
+[33:28] brought up a good example where Trump
+[33:30] came out and said Apple should build
+[33:33] iPhones sold in America. They should
+[33:36] build them in America. And that's never
+[33:39] going to happen
+[33:42] because I think the estimates I've seen
+[33:44] that would raise the price of their best
+[33:45] phone from 2,000 to 3,000.
+[33:49] Not going to happen. But they, you know,
+[33:51] Tim Cook went to the White House, got
+[33:53] him a nice little plaque to put on his
+[33:55] desk and pledged another hundred
+[33:57] billion.
+[33:59] Um,
+[34:01] uh, so he's getting he's getting
+[34:05] people to move in his direction, but he
+[34:08] he certainly rattles a big saber to get
+[34:12] there.
+[34:13] >> Yeah. Yeah, I know. Yeah. Yeah, I guess
+[34:14] the the the Gorilla Glass um uh which
+[34:18] actually comes from where Chris Crystal
+[34:20] went to undergradu Ithaca Corny's there,
+[34:24] but I guess they make it make it in
+[34:26] Kentucky for the phones and the watches.
+[34:28] So, Mike, I think it's time to to wrap
+[34:31] soon. So, let's talk about Jackson Hole.
+[34:33] Um obviously, this is a wonderful event.
+[34:37] Uh leaders from all over the world come
+[34:39] there for the Kansas City Fed
+[34:40] Conference. So, uh, if you were there,
+[34:43] who would you be hanging out with?
+[34:44] >> I, uh,
+[34:47] I think I would I would, uh,
+[34:50] sit and chat with Austin Goulsby only
+[34:53] because I like the way he explains
+[34:55] things. It's it's uh you know it's
+[35:00] almost like a Mark Twain version of econ
+[35:04] economics and and he's relatively new so
+[35:07] he doesn't have to be so defensive about
+[35:09] mistakes made in the past. But yes, it's
+[35:12] this year is going to be especially
+[35:13] interesting I think.
+[35:15] >> Yeah, because Pal's a lame duck, you
+[35:17] know. I don't care what Pal says a lame
+[35:19] duck. And we got inflation next week.
+[35:23] We'll see if it comes in below econom's
+[35:25] expectations as for the last five
+[35:27] months. So, it's going to be
+[35:28] interesting. I think we're just
+[35:30] importing a lot of that deflation from
+[35:31] China. We'll see that mostly on the PPI,
+[35:34] but we'll see. But, uh I I guarantee you
+[35:37] the central bankers will be in a good
+[35:38] mood. So, uh so that's that.
+[35:41] >> Well, perfect. Thank you so much, Mike,
+[35:43] for being here and for joining us today.
+[35:45] Thank you so much to you all for
+[35:46] watching and supporting us. Make sure to
+[35:49] like and subscribe if you haven't
+[35:50] already. If you want to ask any
+[35:52] questions, make sure to leave them in
+[35:54] the comments below. All of Mike's links
+[35:56] will also be in the description. But
+[35:58] until then, we'll see you all for a new
+[35:59] video. Thanks so much, everyone.
+[36:02] [Applause]
+[36:02] [Music]

@@ -7,9 +7,377 @@ Type: video
 Duration: 13:34 (814s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 369
+Transcript characters: 13530
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] AI stocks got hit and then immediately
+[00:02] bounced back. At the same time,
+[00:04] investors are obsessed with the SpaceX
+[00:06] IPO. Seems like there might be some
+[00:08] correlation there. We're also going to
+[00:09] talk about two stocks where you should
+[00:11] be putting your money in today. But
+[00:12] let's get into it. Welcome back to
+[00:14] Navalier Market Buzz.
+[00:21] So, Dad, can a correction really happen
+[00:23] in one day? That seems way too fast.
+[00:25] >> No. Usually we have to get back a third
+[00:29] of our gains. Sometimes there's a
+[00:31] violent draw down like there was a week
+[00:33] ago Friday and then it bounces and then
+[00:36] it has to continue to retest and that
+[00:38] has been going on. So there are stocks
+[00:40] like Nvidia, Sienna that are giving up
+[00:43] ground right now. But the key is you
+[00:46] want the volume to dry up on the
+[00:47] sell-off. Okay. And once the volume has
+[00:50] dried up and the selling pressure has
+[00:52] been exhausted, that's the window to get
+[00:54] back in. Yeah. It's unfortunate we have
+[00:56] these corrections, but it's it's normal.
+[00:58] It's human nature, and I'm not worried
+[01:02] at all. It just this is what happens
+[01:03] when you make too much money too fast.
+[01:05] And so, we just have to give a little
+[01:07] back and money's not leaving the
+[01:08] markets, rotating to other places.
+[01:10] >> So, the fundamentals stayed the same the
+[01:12] whole time, which asked the questions,
+[01:14] if it wasn't the business's fault, then
+[01:16] what caused all this selling?
+[01:18] >> Just people are eager to take profits.
+[01:20] The other reason they might be selling
+[01:22] is we have the strategist at Bank of
+[01:25] America
+[01:27] basically said the S&P is going to have
+[01:29] a 6% draw down. We are overextended and
+[01:32] she was doing analysis of the techs
+[01:35] versus the stocks on the bottom that
+[01:38] weren't participating. So her theory is
+[01:40] the bottom was going to pull the top
+[01:42] down. Now that's funny because I just
+[01:44] did our quarterly back testing and we
+[01:47] showed that the market was broadening
+[01:48] out. The top 20% of stock greater is now
+[01:52] fine. The previous test was top 10%. The
+[01:55] fundamental test we did on the eight
+[01:57] factor fundamental model we went from
+[01:58] the top 30% to the top 65%. So we show
+[02:02] the markets broadening out. The other
+[02:04] thing that's interesting is there's
+[02:06] another negative strategist named Mike
+[02:08] Baker at Morgan Stanley. you know, he's
+[02:09] positive at this moment, but for six
+[02:11] straight years, it was get out of
+[02:12] stocks, get out of stocks, get out of
+[02:14] stocks. So, a lot of the Morgan Stanley
+[02:16] advisers I know sell private credit and
+[02:19] private equity. They really don't sell
+[02:20] stocks like they used to because of Mike
+[02:23] Baker. So, I think there seems to be a
+[02:25] hidden agenda with some of these Wall
+[02:26] Street strategists and these firms make
+[02:29] so much money when money moves from one
+[02:30] place to another because they do get
+[02:32] paid on spreads and transactions and
+[02:34] even if there's no commission, there's a
+[02:36] spread. I think it's just totally
+[02:38] unwarranted and I think the media's
+[02:40] overreacted to her notes.
+[02:42] >> So, you're saying that the correction
+[02:43] was actually more technical than
+[02:45] fundamental. This kind of brings us back
+[02:47] to SpaceX. SpaceX will be trading later
+[02:49] this week, but why are investors already
+[02:52] talking about Anthropic?
+[02:53] >> Because it's going to be even more
+[02:55] exciting than SpaceX. That's why
+[02:57] Anthropic is a legitimate competitor for
+[02:59] Palunteer. Palunteer's forecast sales
+[03:02] and earnings are stunning. Their last
+[03:04] two quarters were unbelievable. they
+[03:06] raise their guidance but Anthropic is of
+[03:09] course famous for their claw AI software
+[03:12] and there'll be you know different
+[03:14] versions of it but coming out but they
+[03:17] seem to be the AI leader right now so if
+[03:19] you're excited about AI it's hard to be
+[03:22] not excited about anthropic but you know
+[03:24] the SpaceX IPO should go well obviously
+[03:26] SpaceX makes money Starlink makes money
+[03:29] the only comment I have is you're
+[03:31] showing a chart from bespoke that shows
+[03:35] when and you have a an IPO that gaps up,
+[03:38] sometimes it's not much higher 3 months
+[03:40] out because what happens is there's a
+[03:42] lock up for the insiders and the
+[03:44] insiders can start to sell and that what
+[03:47] that happened recently with Rocket Lab.
+[03:49] A lot of Rocket Lab insiders are cashing
+[03:51] out going into this SpaceX enthusiasm
+[03:55] and so don't be surprised if some of the
+[03:57] Space Insiders sell. I don't do IPOs. I
+[04:00] usually wait a year to buy the stocks.
+[04:02] That way I can get my reward risk
+[04:04] analysis the alpha I calculate standard
+[04:06] deviation I can get that with looking
+[04:08] back on the stock of the year and then I
+[04:10] get four quarters of fundamentals I can
+[04:12] really analyze. So yeah you won't see
+[04:15] any stock grade on SpaceX for 53 weeks.
+[04:18] >> So the smart move isn't necessarily
+[04:20] chasing IPOs. It's understanding where
+[04:23] new supply is entering the market.
+[04:25] >> Yeah. First of all, when I was on Maria
+[04:28] about Aroma, she pointed out that
+[04:29] there's 7 trillion in cash on the
+[04:32] sidelines and there's still this fear of
+[04:34] missing out and so some of that money
+[04:37] will naturally gravitate towards the
+[04:39] market. The other thing is, you know,
+[04:42] she pointed out that maybe some people
+[04:44] were selling NVIDI or something to raise
+[04:46] money for SpaceX. I don't know if that's
+[04:48] true or not, but I do think that we are
+[04:52] going to hit the bumpy summer months and
+[04:54] although June is a seasonally strong
+[04:56] month due the annual Russell
+[04:57] realignment, it's in November and June
+[05:00] and then we're going to have another
+[05:02] great earnings announcement season kick
+[05:03] off in July. As we get into August and
+[05:06] the first half of September, that's the
+[05:08] seasonally weakest period for the
+[05:10] market. So any draw downs, star races we
+[05:13] have, it's just seasonal weakness.
+[05:15] People are distracted. They're on
+[05:16] vacation. Europe takes the month of
+[05:18] August off. You know, you're in New
+[05:19] York. You'll notice that there's fewer
+[05:21] people and they're in August. They're
+[05:23] somewhere else, you know. So, I think
+[05:25] we'll have some seasonal shenanigans,
+[05:27] but in the third quarter, we are going
+[05:30] to have record GDP growth because it's
+[05:32] just all building right now. And it's
+[05:35] everything. It's energy, it's all the
+[05:37] onshoring, it's the record order
+[05:40] backlogs. We're showing the stock
+[05:42] market's getting more breath and power
+[05:44] here. So, it's just time to cheer up and
+[05:47] be happy.
+[05:48] >> So, with all that being said, we always
+[05:50] try and be as honest as we possibly can
+[05:52] on this show and we have been getting a
+[05:54] couple comments saying that, you know,
+[05:55] some of our stock picks are already up.
+[05:57] Talk us through kind of that process.
+[06:00] >> Sure. So, my thing is surfing
+[06:02] institutional buying pressure. So, what
+[06:05] we do is we calculate this mysterious
+[06:07] indicator called an alpha. It's return
+[06:10] on correlated to the market. We like
+[06:12] high alpha, low beta stocks. Alpha
+[06:14] divided by standard deviation volatility
+[06:16] is my topsy requ ratio. Now a lot of
+[06:19] people do alphas and betas. We think we
+[06:21] do them better than everybody else. We
+[06:23] have a unique 52- week cycle. We regress
+[06:26] them against different benchmarks. We
+[06:27] use the benchmarks with the highest
+[06:29] correlation. A lot of people do it
+[06:31] wrong. You know, they regress to the S&P
+[06:33] when they should be regressing to
+[06:34] another index that's higher correlated.
+[06:36] But the key is what a high alpha stock
+[06:39] is. It's a stock that's under persistent
+[06:41] institutional buying pressure. And I am
+[06:44] writing this these analysts for usually
+[06:48] five to six quarters of positive upwards
+[06:51] analyst revisions. The analysts are
+[06:52] notorious for under underestimating the
+[06:55] stock's earnings. So that's step one.
+[06:59] Step two is that eight factor
+[07:00] fundamental model that we cover a lot.
+[07:03] There are 1,200 stocks that get an
+[07:05] Agrade. I own 80 stocks after the eight
+[07:08] factor fundamental model. So we do a
+[07:10] deep dive. But yeah. Yeah. the stocks
+[07:12] have gone up a lot and I think they're
+[07:14] fine to buy as long as the the
+[07:15] fundamentals are there and the answers
+[07:17] still rise their estimates higher. So
+[07:19] yeah, you want to get on you want to get
+[07:21] on the train and get on the bus and and
+[07:23] go. So in my case sometimes you have to
+[07:25] run and jump on. So and obviously there
+[07:29] are pullbacks but I can tell you that
+[07:31] yeah we're buying things that are going
+[07:33] to go higher. Also we own a lot of
+[07:35] monopolies. High margin companies that
+[07:37] dominate their business have always been
+[07:39] a thing for me. And if you are going to
+[07:41] get rich in the stock market, it does
+[07:43] help to buy monopolies. It does help to
+[07:45] follow some of the big billionaires out
+[07:47] there. You know, we talked in a previous
+[07:49] episode how Ron Baron was following
+[07:51] Elon. Okay. I'm following Jensen Wong,
+[07:54] Alex Karp, you know, so you might want
+[07:57] to bet on a billionaire.
+[07:58] >> So in your framework, it isn't just if a
+[08:01] stock looks expensive today, but more so
+[08:03] whether if Wall Street is
+[08:05] underestimating future earnings.
+[08:06] >> Correct. So I look at forecasted price
+[08:09] earnings ratios. So I think um Micron's
+[08:13] a very low PE stock. I think Nvidia's a
+[08:16] moderate PE stock. I think Palunteer is
+[08:19] trading at barely 32 times forecasted
+[08:23] 2027 earnings. My average P ratio when I
+[08:27] look out is actually at or in line with
+[08:30] the market benchmarks. And my average
+[08:33] stock at this moment has over 100%
+[08:35] earnings growth. And I don't expect them
+[08:38] to go up 100% this year because I think
+[08:41] there will be will be some PE
+[08:43] compression. But with that said, yeah,
+[08:45] we're already up 30 plus for the year.
+[08:47] We expect to make another 30 to 40%.
+[08:50] That is not an outrageous statement in
+[08:52] my opinion because that's with PE
+[08:55] compression underway. So we just stack
+[08:57] the odds in our favor and we go in every
+[08:59] earning season locked and loaded. So
+[09:00] when earnings are driving the market,
+[09:02] we're on. There are times earnings don't
+[09:04] drive the market. the market gets
+[09:06] obsessed by macro things, you know, but
+[09:10] right now we are in an earnings driven
+[09:11] market and that's being led by the AI
+[09:14] and data center craze and it's now
+[09:16] broadening out. That's why we found more
+[09:17] AI stocks to buy.
+[09:19] >> Now, before we get into those two AI
+[09:21] stocks, just want to take a moment to
+[09:22] thank you all so much for watching. If
+[09:24] you haven't already, please give this
+[09:26] video a like and subscribe to our
+[09:28] channel if you enjoy this content and
+[09:29] want to see more from us. We hope you
+[09:31] enjoy us being in the studio together
+[09:33] again this week. But with that said,
+[09:35] let's talk about these new AI stocks.
+[09:37] So, if you're right about AI entering
+[09:39] its next phase, where are you putting
+[09:41] your money right now?
+[09:42] >> It's the AI infrastructure stocks. Um,
+[09:44] you recently showed a bespoke chart
+[09:45] showing that the AI infrastructure is
+[09:48] actually outperforming the AI stocks
+[09:50] themselves. And we showed the equivalent
+[09:52] of the California Gold Rush. You know,
+[09:54] the gold miners were running to the
+[09:55] foothills of California to mine gold in
+[09:57] 1800s. But somehow the people that sold
+[10:00] them jeans, picks, and shovels made more
+[10:02] money than the actual gold miners. So
+[10:04] the people building out the the data
+[10:07] centers are the place to be right now,
+[10:09] and they're the biggest winners, and
+[10:11] we're finding more.
+[10:11] >> So you just added two new names to your
+[10:13] breakthrough stocks portfolio. Let's
+[10:15] start out with stock number one.
+[10:17] >> That's my R groupoup. That's an
+[10:19] electrical contractor helping build out
+[10:21] the data centers. That's one of a few
+[10:24] electrical contractors we own, but
+[10:26] that's the new one. It's also a smaller
+[10:28] cap and they they can rally a little bit
+[10:31] more dramatically because they're more
+[10:32] volume sensitive. Okay. So, we are very
+[10:36] excited about my group and that's just
+[10:38] one of many data center related stocks
+[10:40] we own. We found Bloom Energy early in
+[10:43] Breakthrough Stocks and eventually it
+[10:45] graduated to growth investor, my large
+[10:47] cap service. So, that's what
+[10:49] breakthrough stocks are all about, just
+[10:51] finding them early and that's where
+[10:52] we're looking for stocks under 8 billion
+[10:54] in market cap. Now, let's get into stock
+[10:56] number two. Why this stock and why this
+[10:58] stock now?
+[10:58] >> Well, this is National Energy Service.
+[11:00] That's NESR. They help build out the oil
+[11:04] infrastructure and they are very busy in
+[11:06] the Middle East. Obviously, there was
+[11:07] some things damaged. Everybody's working
+[11:09] on new routes to bypass the Street
+[11:12] Hormuz and all. So, between repair and
+[11:16] and the buildout, they're doing very
+[11:18] very good now. And of course, our entire
+[11:21] data center boom is, at least in
+[11:23] America, is largely fueled by natural
+[11:25] gas. And we couldn't have the data
+[11:28] center boom unless we had this domestic
+[11:31] energy boom, but there is now a big
+[11:33] international boom underway. We have all
+[11:35] these oil tanker stocks as well because
+[11:37] the tankers are traveling farther
+[11:40] distances now than they used to. There
+[11:42] there will be these windows where we can
+[11:43] jump in and profit and that's what we're
+[11:45] doing. And we do expect that the the
+[11:49] supply will will remain tight. There's
+[11:51] reports out that people are buying oil
+[11:54] just to stock up that replenish their
+[11:56] inventories that have been depleted. So
+[11:59] So that's why the disruption in the
+[12:00] straight of horses hasn't caused a
+[12:02] worldwide recession.
+[12:03] >> Well, those are really great stocks,
+[12:05] especially to buy on a pullback. Make
+[12:06] the case for us why these two stocks
+[12:08] now. What are you looking for that other
+[12:10] investors aren't seeing? Well, first of
+[12:12] all, I'm following my quantitative
+[12:15] grade, which is high alpha, low standard
+[12:17] deviation. I'm following my eight factor
+[12:20] fundamental model, which ensures that
+[12:21] we're going to have strong sales, strong
+[12:24] earnings, margin expansion, pause
+[12:25] amounts, revisions, earning surprises,
+[12:27] all that good stuff. And naturally, a
+[12:30] lot of the AI infrastructure showing up
+[12:32] like the electrical contractors and a
+[12:34] lot of the energy plays. You know, if we
+[12:36] didn't have this natural gas boom in
+[12:38] America, the data centers would probably
+[12:40] be in Canada because Canada's got
+[12:42] hydroelectric and they always go towards
+[12:44] cheap electricity and there's a lot of
+[12:46] room in Canada. Like the Northeast isn't
+[12:48] that crazy about data centers. That's
+[12:50] okay. They just go to Pennsylvania and
+[12:53] and data centers go all over the world.
+[12:55] They're they're in the Middle East and
+[12:57] you need energy to run all this. and
+[12:59] most of it's gas, but in some parts of
+[13:01] the world they they will burn fuel oil
+[13:03] to power the data centers that may keep
+[13:07] diesel prices high and jet fuel prices
+[13:09] is high. So, we've seen some adjustments
+[13:11] there already.
+[13:12] >> Before we go, I want to ask you all a
+[13:14] question. Do you think Anthropic is
+[13:16] going to be bigger than SpaceX? Let us
+[13:18] know in the comments below. If you
+[13:20] enjoyed this video, please give this
+[13:21] video a like and subscribe if you
+[13:23] haven't already. We'll see you this
+[13:25] Sunday for a special guest, but thank
+[13:26] you all so much for watching.

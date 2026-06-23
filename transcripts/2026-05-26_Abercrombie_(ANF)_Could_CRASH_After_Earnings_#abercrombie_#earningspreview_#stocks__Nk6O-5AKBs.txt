@@ -7,9 +7,27 @@ Type: short
 Duration: 0:41 (41s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 19
+Transcript characters: 698
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Abercrombie reports this week. Is this
+[00:01] still a stock on your radar? It's not on
+[00:04] my radar, but I will admit it has very
+[00:06] good sales growth. It has a a good
+[00:09] earning surprise history, but this
+[00:11] quarter their sales are only supposed to
+[00:12] be up 2.3% and their earnings are
+[00:15] supposed to be down 19.8%. I have
+[00:18] noticed some analyst trims on the stock.
+[00:20] That means that analysts aren't excited
+[00:23] about it, but if it surprises, I take it
+[00:25] all back. Obviously, they've expanded
+[00:27] the demographic group they sell to. Uh
+[00:30] the median age of their customers has
+[00:32] gone up quite a bit. And so, we'll see
+[00:34] if they can keep capturing that market
+[00:36] share, but yeah, we have to let the
+[00:38] actual results come out and see what
+[00:39] their guidance is going to be.

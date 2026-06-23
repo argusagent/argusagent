@@ -7,9 +7,33 @@ Type: short
 Duration: 0:52 (52s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 25
+Transcript characters: 917
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Now, also going on in the markets,
+[00:01] Morgan Stanley this week predicted up to
+[00:03] an 8% default rate in private credit.
+[00:06] What's going on there? Well, that's
+[00:08] really interesting because Morgan
+[00:10] Stanley really pioneered the selling
+[00:12] private credit. Morgan Stanley was run
+[00:14] by McKinsey people, Mr. Gorman and
+[00:17] company, he's since retired, and they
+[00:19] basically pushed a lot of their
+[00:21] investors into private credit and uh
+[00:23] private equity. And um I think when they
+[00:25] say there's going to be an 8% default
+[00:28] rate or up to an 8% default rate, I
+[00:29] think they're just trying to cover their
+[00:31] butt. I think that those defaults will
+[00:33] be eaten by the originators, and I don't
+[00:36] think there will be many, if any, of the
+[00:38] losses. In the event there is investor
+[00:40] loss, it will destroy the industry. So,
+[00:42] I think the industry has to step in and
+[00:45] cover the losses, and so they protect
+[00:47] the investors. They might have to lower
+[00:49] their yields to investors, uh that might
+[00:51] be a better thing to do.

@@ -7,9 +7,572 @@ Type: video
 Duration: 21:31 (1291s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 564
+Transcript characters: 19635
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Quarter end window dressing just proved
+[00:02] itself again and my dad's fundamental A
+[00:04] stocks went up almost seven times the
+[00:06] S&P in the past five trading days. Today
+[00:09] we brought on a highly requested guest
+[00:12] who's wrapped up more 1,000% winners
+[00:14] than almost anyone. Let's get into it.
+[00:17] Welcome back to Navellier Market Buzz.
+[00:32] We have a very special guest today, Eric
+[00:35] Fry. Eric, thank you so much for being
+[00:37] here.
+[00:37] >> It is great to be here. Thank you very
+[00:38] much for having me. We're excited to
+[00:40] have Eric. He's obviously one of our
+[00:42] superstars at Investor Place and he's
+[00:44] been in the business almost as long as I
+[00:46] have and has had some incredible gains.
+[00:48] So we we look forward to his insights.
+[00:51] So Eric, I noticed your portfolio is
+[00:53] loaded with energy stocks, actually very
+[00:56] different from my dad's. So what are you
+[00:57] seeing that got you so bullish? Um well,
+[01:00] there's a bunch of different factors
+[01:01] there, but the
+[01:02] the main one is that um
+[01:06] I really thought they had become a
+[01:08] little a little too cheap. I wasn't
+[01:10] super bullish on oil so much, but on
+[01:12] natural gas. Most of the plays in the
+[01:14] portfolio have exposure to natural gas.
+[01:16] Uh you know, good things happen to cheap
+[01:18] stocks sometimes. So obviously I wasn't
+[01:19] anticipating the the conflict in Iran,
+[01:21] but um that kind of
+[01:24] kicked those stocks into high gear. They
+[01:26] were already moving higher starting in
+[01:28] November, December. Really this is a a
+[01:30] function of old school supply and
+[01:32] demand. So that's that's why they're
+[01:34] there. The other reason is that my view
+[01:36] of the AI world
+[01:38] uh is such that I I've broken down into
+[01:40] four parts. Very simply, the AI
+[01:42] builders, people like the hyperscalers,
+[01:45] AI suppliers, AI appliers, and AI
+[01:48] survivors. So those are different
+[01:50] categories. So I would put the oil oil
+[01:53] companies, commodity companies in
+[01:54] general as sort of hybrids of suppliers
+[01:57] to the AI boom and also an AI survivor.
+[02:00] Eric, traditionally, you know, natural
+[02:02] gas is hyper sensitive to the weather.
+[02:04] You know, we want a freezing cold
+[02:06] winter, a hot miserable summer to so
+[02:08] that we can use natural gas to run the
+[02:11] air conditioners.
+[02:12] And we had pretty extreme weather this
+[02:15] year. That helped get prices up, didn't
+[02:17] it? It absolutely did. You saw the
+[02:20] benchmark prices approaching I mean they
+[02:22] I mean they cleared $7.
+[02:24] We're
+[02:26] remarkably, the US natural gas price now
+[02:29] is down below $3, which is lower than
+[02:32] where it was when the the bombing
+[02:34] started in Iraq. Yeah. By contrast, the
+[02:36] European natural gas prices have have
+[02:38] doubled since that event. So now you've
+[02:40] got this gigantic spread between the two
+[02:42] where European gas prices are literally
+[02:44] five times higher than US. And that is a
+[02:48] good thing for our large and growing
+[02:51] volume of liquefied natural gas exports,
+[02:54] LNG exports. Most of which go to Europe.
+[02:57] Yeah. Yeah, that's a
+[02:58] a great point. Since you're in
+[03:00] California, I I have a question for you.
+[03:02] So
+[03:03] because we got these refinery closures
+[03:06] in California, I think Valero's shutting
+[03:08] down Benicia this month. And they had
+[03:10] that pipeline closed from Bakersfield to
+[03:12] San Pablo Bay. I think California now
+[03:14] has to import up to 30% of its gas. And
+[03:18] because they have their own unique
+[03:19] formula, I think India and and mostly
+[03:23] South Korea's making it for California.
+[03:25] So aren't you vulnerable now to all
+[03:27] these disruptions in the Persian Gulf?
+[03:30] Yeah, but I mean you spend enough time
+[03:31] here in California. You know that we we
+[03:33] don't really need oil and gas. We live
+[03:35] on good vibes and granola and stuff like
+[03:38] that. Yeah, there you go. There
+[03:40] Yeah, no, the gas the
+[03:42] the gasoline prices here obviously have
+[03:44] gone up a lot. We're you know, six
+[03:46] bucks, $8 a gallon, that kind of thing.
+[03:48] Like a lot of industries and a lot of
+[03:51] areas of the country, the longer the
+[03:52] conflict goes, the more of a problem it
+[03:54] becomes. I can't handicap how severe
+[03:56] it's going to become, but but clearly it
+[03:58] would be it would be an economic hit to
+[04:00] California. How severe I I don't know
+[04:03] yet.
+[04:03] >> Well, pe- people just have to work at
+[04:04] home like they're working at home in
+[04:07] India now and uh so
+[04:09] Right. that's where we're going Your
+[04:11] question brings up something I think is
+[04:12] really interesting. You know, people
+[04:13] talk about energy independence all the
+[04:14] time. They say the US is energy
+[04:15] independent. And we are we aren't. I
+[04:17] mean, when it comes to crude oil, we're
+[04:19] not we're not energy independent. We
+[04:21] burn about 21 million barrels of 21
+[04:24] million barrels a day. We produce 14.
+[04:27] That's a 7 million barrel spread,
+[04:29] negative. But we produce a ton of
+[04:31] natural gas and and other fuels. So on a
+[04:34] on a net basis, we are energy
+[04:36] independent. But that that ignores
+[04:39] completely things like the supply chain
+[04:41] you just mentioned where okay, in theory
+[04:44] we have all the gas, but we don't have
+[04:46] the right kind of
+[04:48] of gas for California. But we don't have
+[04:51] the right kind of of, you know, let's
+[04:53] call it nitrogen fertilizer for parts of
+[04:55] the Midwest that comes from natural gas.
+[04:57] So once you have a disruption of the
+[04:59] magnitude that's happening in in Iran in
+[05:01] the Strait of Hormuz, then then you have
+[05:04] a huge disruption even in a country like
+[05:06] the United States, which is
+[05:08] theoretically energy independent.
+[05:09] >> Yeah. Yeah. Yeah, I think this is a
+[05:11] problem for Trump cuz he's going to
+[05:13] after all this is done, he's going to
+[05:14] try to run around and tell everybody how
+[05:15] great things are, but clearly
+[05:18] um a lot of the growth in America's is
+[05:21] apparently in about 10 states. So the
+[05:23] other 40 states are being neglected.
+[05:26] Whether it's right or wrong, it's just
+[05:27] the situation.
+[05:28] >> Yeah, I'm not going to wade into those
+[05:29] waters, but I can say that that um you
+[05:31] know, obviously the shorter this
+[05:33] conflict goes, the the better it is for
+[05:35] the economy. Absolutely. Absolutely.
+[05:37] Speaking of Trump, he just told our
+[05:39] allies buy your energy from us and we're
+[05:41] controlling the Caribbean crude now. Are
+[05:44] we about to dominate global energy
+[05:46] exports? Well, we are near term. Whether
+[05:49] this is part of the master plan, I have
+[05:51] no idea. So,
+[05:54] I don't know, Eric. I I I know he
+[05:55] controls Venezuela now. He controls uh
+[05:58] uh Guyana via Exxon. Uh do you have any
+[06:01] opinion on if this was the grand plan? I
+[06:04] I it's hard for I mean, I don't see a
+[06:05] grand plan.
+[06:07] Yeah, even if there is one, there's a a
+[06:10] significant issue with with with timing
+[06:13] and investment. I mean, yes, Venezuela
+[06:16] has tremendous reserves. Most of them
+[06:18] are landlocked. Most of them are sour
+[06:20] crude.
+[06:21] You know, you're talking years and
+[06:23] hundreds of billions of dollars to get
+[06:24] that oil
+[06:26] to market. So, that's not uh that's not
+[06:29] a tomorrow thing. The only thing that
+[06:31] really is a tomorrow thing as far as
+[06:34] supplying the world with energy is our
+[06:36] liquefied natural gas, which I mentioned
+[06:38] earlier. We used to export about 10
+[06:40] years ago, we only exported about um two
+[06:42] or three percent of our total national
+[06:45] net gas production through LNG. That
+[06:47] number is now 14%. Going up every single
+[06:49] year. So, we have become the world's
+[06:51] largest exporter of of LNG. And most of
+[06:54] that goes to Europe. So, again, at the
+[06:56] margin, we are going to be sending more
+[06:59] LNG to Europe, but still relative to the
+[07:03] to the block at the Strait of Hormuz,
+[07:05] that that's not enough to really move
+[07:07] the needle. Yeah. Yeah, well, Chris
+[07:09] Wright, the energy secretary, is a
+[07:10] natural gas guy, so he apparently knows
+[07:12] what he's doing. Chris was showing a
+[07:14] chart of the seasonality in oil, and it
+[07:18] usually the price starts to tail off in
+[07:21] October cuz worldwide demand starts to
+[07:23] drop. Do you see a a seasonal decline in
+[07:27] the upcoming months? I mean, it's hard
+[07:28] It's hard to weigh a seasonal anything
+[07:30] against what's happening. And then And
+[07:32] again, um
+[07:34] you know, this week or there's more more
+[07:36] attacks on infrastructure in Kuwait. So,
+[07:38] even if you end the conflict tomorrow,
+[07:40] in many cases, you have you have
+[07:42] months-long or years-long repairs that
+[07:45] are required to get back to full
+[07:46] production of some of these things. So,
+[07:48] I think it's going to I think the the
+[07:49] strains in the energy markets are going
+[07:51] to hang around for a while.
+[07:52] >> Yeah, agreed. So, now Dad, I have a
+[07:54] question for you. Your Fundamental A
+[07:56] Stocks jumped while the market did
+[07:58] 1.63%.
+[08:00] What is going on with quarter-end window
+[08:02] dressing? Well, we've always loved the
+[08:05] end of the quarter. Professional
+[08:06] managers have to make their portfolios
+[08:08] pretty when they go out and do their
+[08:10] client reviews, and they want to brag
+[08:12] about their strong sales and earnings
+[08:14] and how
+[08:15] their underlying fundamentals are better
+[08:17] than the market, and we do have a lot of
+[08:18] pretty stocks, which of course the
+[08:20] Fundamental A Stocks are the
+[08:21] highest-ranked stocks we own. So, they
+[08:23] definitely benefit from that quarter-end
+[08:25] window dressing. I mean, there was
+[08:26] obviously a market reversal went to back
+[08:28] to quality, but yeah, I was ecstatic
+[08:31] with the the increase. Uh those
+[08:33] Fundamental A Stocks live in Accelerated
+[08:36] of
+[08:38] what we call the Quantum Stocks.
+[08:41] Accelerated Profits used to be called
+[08:43] the Quantum Letter. And but we've been
+[08:45] uh tracking uh weekly performance uh
+[08:47] decades, and obviously la- last week's
+[08:51] surge was one of the biggest ever. So,
+[08:53] uh we like the we like the quarter-end
+[08:55] stuff. We like uh the annual Russell
+[08:57] Re-alignment. I think we're going to
+[08:58] have two of them soon, Russell
+[08:59] Re-alignment. So, anytime the
+[09:01] institutional investors just pour into
+[09:03] our stocks, they pop, and that's exactly
+[09:06] what happened. And that's not
+[09:07] sustainable. We won't be able to sustain
+[09:09] those gains, but it was a great week.
+[09:11] >> Now, Eric, you got more 1,000% winners
+[09:14] than my dad. How did you actually pull
+[09:15] that off? Well, first of all, I probably
+[09:17] don't. I mean, back when your dad
+[09:19] started, they had like abacuses and
+[09:21] things like that, right? So, maybe they
+[09:22] weren't calculating them all properly.
+[09:24] I'm sure your dad has way more than I
+[09:26] do.
+[09:26] Um there's no I mean, we your your
+[09:29] father and I both have have very
+[09:30] different strategies, and both of them
+[09:33] have demonstrably produced massive gains
+[09:36] over over different time frames over
+[09:38] different market cycles. And so I don't
+[09:40] think there's really one particular
+[09:42] secret other than to stay with whatever
+[09:44] your discipline is. So and mine is a
+[09:47] more fundamentals based looking for
+[09:49] companies on that are on the verge of a
+[09:52] sort of a revival or a comeback in
+[09:54] general. Turnaround plays. Your your
+[09:56] father's more devoted to stocks that are
+[09:59] that are demonstrating already
+[10:00] demonstrating some really positive
+[10:02] momentum in a in a number of ways. And
+[10:04] we know empirically that both of those
+[10:07] strategies can work but but they're
+[10:09] different. And when people ask me and
+[10:10] people ask me a lot about about about
+[10:12] Louis' work and I always tell them like,
+[10:14] well, you should you should you should
+[10:16] at least be doing some of that. I mean,
+[10:18] it's a complimentary strategy. So it's
+[10:20] not very common that he and I hit on the
+[10:22] same exact name at the same time, but
+[10:24] I'm thankfully they can both produce,
+[10:26] you know, thousand percent gainers from
+[10:27] time to time. And for people watching,
+[10:29] what's the difference between your
+[10:30] investment report and the speculator?
+[10:32] The investment report is is my
+[10:34] entry-level newsletter
+[10:36] where
+[10:37] I I recommend stocks that tend to have
+[10:41] much greater liquidity and to be
+[10:43] have lower volatility and the
+[10:47] tends to do a lot more explaining if you
+[10:50] will about about the market, about
+[10:53] specific ideas. In the speculator, the
+[10:56] recommended stocks tend to be less
+[10:58] liquid, more obscure, higher volatility,
+[11:00] a lot of times foreign. So that's the
+[11:02] main difference. And do you hedge in one
+[11:04] of your letters, Eric? Yes. In my LEAPS
+[11:08] trading service called Leverage. LEAPS
+[11:10] are long-term options, so options that
+[11:13] expire longer than one or two years out,
+[11:15] one or one year out. And so in that
+[11:18] service I do recommend put options,
+[11:20] which are bets against stocks or or the
+[11:23] options that will work when when a stock
+[11:24] falls. So I do recommend hedges there.
+[11:26] I've done it a few times in Speculator
+[11:28] as well. I've recommended some short
+[11:29] sales there on occasion or recommended
+[11:32] inverse ETFs. But even when I do that, I
+[11:35] always stress that, you know, the number
+[11:37] of of billionaires that have made their
+[11:41] money from betting against the market, I
+[11:43] can count on on no hands. I mean, it
+[11:45] doesn't happen. You make your money by
+[11:47] investing in stocks, investing in
+[11:49] companies, and then watching as those
+[11:52] companies compound their success.
+[11:54] Betting against the stock or a sector or
+[11:56] market is a short-term trading hedge
+[11:59] only, and it is
+[12:01] often a recipe for losing money. So, I I
+[12:04] do it sparingly, but I do do it.
+[12:06] >> So, since I have you both here today, I
+[12:08] have an awkward question. Eric, did you
+[12:11] really tell people to sell Nvidia? You
+[12:13] know, my dad's still holding, so who's
+[12:15] right here? Probably your dad.
+[12:19] Um I'll say a couple things first.
+[12:22] The My attitude toward toward investing
+[12:24] is it's always an assessment of better
+[12:26] than worse than. So, you're always
+[12:29] trying to figure out you have a limited
+[12:30] amount of capital, where am I going to
+[12:31] put that capital?
+[12:33] And anytime you you buy something,
+[12:37] you're not buying something else.
+[12:39] Anytime you sell something, you make
+[12:40] room to buy something else. So, the the
+[12:43] idea behind selling Nvidia is not that
+[12:45] Nvidia is a bad company. It's just In
+[12:47] fact, far from it. It's a fantastic
+[12:49] company. Just my assessment at the time,
+[12:52] um and and still actually is that I
+[12:54] thought there was a better place with a
+[12:57] better risk reward to make money. Now,
+[12:59] let me say this. Your dad's been in that
+[13:01] game for a long time. This is a stock
+[13:03] that between 2022 and 2025 went up about
+[13:08] 1,400%.
+[13:10] Uh I think
+[13:12] he was there for all of that, maybe even
+[13:13] more. Since
+[13:15] my call to sell it, it's down a little,
+[13:18] and it's kind of a so what in the scheme
+[13:20] of things. But I just want to put that
+[13:22] in context. So, yes, I said to sell the
+[13:24] stock um because I think
+[13:28] it's like a lot of the Mag 7 stocks. I
+[13:30] think they're they're a little too
+[13:32] popular for their own good, and I think
+[13:33] you're going to be able to find
+[13:35] better opportunities elsewhere. But, you
+[13:37] know, I'm I'm not I'm not pounding the
+[13:38] table saying you got to get out of this
+[13:40] thing. It's a great company. Now, let's
+[13:42] talk about what you're actually buying
+[13:44] right now. Do you have some names for
+[13:46] us? Sure. Well, I mentioned I alluded to
+[13:48] the the gas companies earlier. I really
+[13:50] I like Devon Energy, DVN, large exposure
+[13:52] to the Permian Basin and Delaware Basin.
+[13:55] And so, there's a lot of upside in its
+[13:56] gas production. SM Energy, symbol SM,
+[13:59] same kind of idea there.
+[14:01] Um,
+[14:03] and I and I think even if, you know,
+[14:05] peace breaks out tomorrow, that these
+[14:06] are still energy names that can do
+[14:08] really, really well. Now, apart from
+[14:10] that, I've got three names that are in
+[14:12] the what I call the AI survivor
+[14:14] category. So, those are those are
+[14:15] companies that are immune to the
+[14:18] encroachment of AI or have some
+[14:20] resilience, you know, some protection
+[14:22] against it. Things that AI can't
+[14:24] replace. Two of those others are spirits
+[14:25] companies or spirits-related, i.e.,
+[14:27] alcohol. So, one of them is Fever-Tree.
+[14:29] And Fever-Tree, um, I see you nodding.
+[14:32] You know Fever-Tree.
+[14:34] They're great for ginger beers. Exactly.
+[14:36] Fever-Tree is a British, um,
+[14:39] company that produces mixers like tonic
+[14:41] water. It also produces uh, produces
+[14:44] ginger beer, ready-to-drink
+[14:46] beverages, and it is growing very
+[14:49] rapidly in a market that is stagnant.
+[14:52] Meaning the global spirits market. The
+[14:55] company recently did a a distribution
+[14:57] deal with Molson Coors to distribute its
+[15:00] its products throughout the United
+[15:01] States. Uh, now that I mention this, if
+[15:04] you know any if you know Fever-Tree,
+[15:06] another brand, or seen it once or twice,
+[15:08] I guarantee you you will be seeing a lot
+[15:10] more of it. You'll It has much better
+[15:12] shelf space, much more
+[15:15] complete distribution across the United
+[15:16] States, and that is having a huge impact
+[15:19] already on the company's sales. So, this
+[15:21] is a stock I recommended a few months
+[15:22] ago. It hasn't done anything. It's
+[15:24] underwater right now based on where I
+[15:25] recommended it. But,
+[15:28] despite the fact that it's it's growing
+[15:29] revenues very nicely
+[15:31] and I think it has a a great runway to
+[15:34] growth because of this because of this
+[15:35] deal. Similarly, a company called
+[15:38] Davide Campari, which is a company that
+[15:40] makes Aperol
+[15:41] Aperol spritzes, which is like the it
+[15:43] drink of the Gen Z crowd. And same idea.
+[15:47] This is a group millennials Gen Z's do
+[15:50] not drink what I drink. They don't drink
+[15:52] their their parents' wines or or their
+[15:54] parents' alcohols. And so, they're
+[15:56] pivoting to a sort of drink less but
+[15:59] drink better motif. And Campari is a
+[16:01] company that delivers that with Aperol
+[16:04] and with Campari, frankly. So, same
+[16:06] idea. Fast growth in a an industry that
+[16:09] is completely dead in the water. So,
+[16:11] it's taking market share and uh
+[16:14] growing fairly steadily. I think it's an
+[16:16] under-appreciated stock. Both those
+[16:18] stocks trade at 14 times earnings, by
+[16:19] the way. Both Fever-Tree and Campari.
+[16:22] Final name is
+[16:24] Primo Brands. Largest
+[16:27] bottled water company in North America.
+[16:30] It manages brands like Poland Spring,
+[16:32] Arrowhead, Deer Park, as well as like
+[16:34] Saratoga in the pretty blue bottles. So,
+[16:36] big distribution across the United
+[16:38] States. An under-appreciated name, I
+[16:40] think, that
+[16:42] is very very dominant in North America.
+[16:44] Again, 14 times earnings. AI is not
+[16:47] going to replace it. I think it has a a
+[16:49] great long runway. Wow, that's
+[16:50] fascinating, actually. And I have a I
+[16:53] have a feeling that some of your stocks
+[16:55] will actually do really well this summer
+[16:58] because I know the New Yorkers are so
+[17:00] excited to have their Aperol spritzes
+[17:01] again. I hope so. Well, since you
+[17:03] mentioned that, I I also recommended
+[17:05] Birkenstock, right? So, if you want to
+[17:07] be out there drinking your Aperol spritz
+[17:09] and and sporting some some Birkenstocks,
+[17:12] you'll be basically immersed in my
+[17:15] portfolio. Love it. All right, we have
+[17:17] two companies announcing next week.
+[17:19] Let's start out with Delta. Dad, what
+[17:21] are your thoughts? Well, yeah, their
+[17:23] sales are supposed to be up 5.4
+[17:26] and their earnings are supposed to be up
+[17:27] 34.3,
+[17:29] but the analysts are starting to cut
+[17:30] estimates in the last month and that's
+[17:33] mainly obviously due to the higher jet
+[17:35] fuel prices. And as you drive around,
+[17:38] you can see diesel prices are way up,
+[17:39] too. Diesel and jet fuel move in tandem.
+[17:41] So, yeah, they're they'll probably have
+[17:43] to be raising their fares. I think other
+[17:45] airlines are doing that now, but yeah,
+[17:48] they're going to take a bit of a hit
+[17:49] because of the energy situation. So, I
+[17:52] hope they surprise. They have done it
+[17:55] for four straight quarters, but um
+[17:58] yeah, their fuel costs just went up.
+[17:59] >> Occupancy problem as well. I know that
+[18:02] you've seen cancellations especially to
+[18:04] overseas destinations, especially to
+[18:05] Europe. So,
+[18:07] you know, that's a horrible that's a
+[18:09] wicked combination obviously for for
+[18:11] a commercial carrier. You can't have
+[18:13] rising fuel prices and dropping
+[18:14] occupancy. So, I I wouldn't
+[18:17] I personally wouldn't touch the airlines
+[18:18] right now. And also reporting is
+[18:20] Constellation. What are you seeing
+[18:21] there? Well, let's talk about
+[18:23] Constellation because it's a very
+[18:26] dominant company. It has a lot of great
+[18:28] Mexican beers that dominate US
+[18:31] distribution, but beer consumption is
+[18:33] dropping and they're huge in wine. You
+[18:35] know, they bought Robert Mondavi. They
+[18:37] own lots of stuff, but unfortunately
+[18:38] their sales are forecast to decline
+[18:40] 13.3%.
+[18:42] Their earnings are forecast to decline
+[18:44] 35.1%.
+[18:46] We do have analyst cuts in the past 90
+[18:48] days, minor upward revisions in the last
+[18:51] month. It does surprise, but boy, I
+[18:54] wouldn't go near this. You know, it's
+[18:56] you know, it's it's your fault, Crystal.
+[18:58] Your generation's just not drinking
+[19:00] enough, okay? Yeah, you got to step it
+[19:02] up.
+[19:03] Yeah, I think I know you know this you
+[19:05] know, we have a house in Western Sonoma
+[19:08] County which is right next to the
+[19:09] Russian River. So, that's in the heart
+[19:11] of that wine growing region. My wife's
+[19:14] from there, has a lot of contacts,
+[19:16] friends in that industry. And um it it's
+[19:19] not it's not a great picture right now.
+[19:23] Um demand for wine is
+[19:26] absolutely positively dropping. So much
+[19:28] so that my my last trip up there, yeah,
+[19:31] you I saw something I never saw before,
+[19:33] which is you've seen
+[19:35] literally they're just letting grapes
+[19:36] rot on the vine instead of harvesting
+[19:38] them and making wine out of them. So, um
+[19:40] it's pretty grim. And uh obviously
+[19:43] there's going to be survivors. There'll
+[19:44] be a there'll be a shakeout and there
+[19:46] will still be some some vibrant
+[19:48] um premium wineries, but uh the industry
+[19:52] on the whole is going to be pretty
+[19:53] rough. Eric, is the Russian River mostly
+[19:55] Chardonnay or is it also Chardonnay and
+[19:57] Pinot Noir.
+[19:58] Well, perfect. Thank you so much, Eric,
+[20:00] for joining us. I will make sure that
+[20:02] all of your links are in the description
+[20:03] below. And you gave all of our viewers
+[20:06] so much insight, so we really appreciate
+[20:08] it.
+[20:08] >> Thank you very much for having me.
+[20:10] Thanks, everybody. Make sure to hit that
+[20:11] like button and subscribe if you haven't
+[20:13] already, but we'll see you this
+[20:14] Wednesday for a midweek update.

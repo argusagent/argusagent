@@ -7,9 +7,57 @@ Type: short
 Duration: 1:57 (117s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 49
+Transcript characters: 1725
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Quantum computing stocks, they're hot.
+[00:03] IO NQ, as I talked to you right now, is
+[00:05] up 38% today. It was featured in Barons,
+[00:09] and the CEO wants to become the Nvidia
+[00:12] of quantum computing. The other hot one
+[00:15] is
+[00:16] D-Wave. Now, that company's up 22% as I
+[00:20] speak to you just today. If you want to
+[00:22] learn more about quantum computing
+[00:24] stocks, in our growth investor letter,
+[00:26] we have a special report that's very
+[00:29] extensive on not only these two stocks,
+[00:31] but other quantum computing stocks. And
+[00:33] we've been talking about this for
+[00:35] months, but this is the latest updated
+[00:37] report. So, if you subscribe to Growth
+[00:39] Investor, click on special reports and
+[00:42] um and take a look at it. Uh the other
+[00:44] comment I'd have isQ and and DWave have
+[00:48] strong sales. Okay. Uh they don't make
+[00:51] money yet, but they've been beating
+[00:53] analyst estimates, which is
+[00:55] excellent. The big fuss is if you look
+[00:58] at a Nvidia Blackwell chip, it has
+[01:01] 28 billion
+[01:03] transistors. There's going to be two
+[01:05] more generations of Nvidia's GPU. And
+[01:08] after that, they can't speed up any
+[01:10] further because they're approaching the
+[01:11] atomic level of the chip. So, the only
+[01:14] way you can get go faster is to do
+[01:16] quantum computing. And that's why Nvidia
+[01:19] had a quantum computing contest. So O
+[01:22] andQ is very well established with
+[01:23] something called quidbits which are the
+[01:25] way you package the data. And then
+[01:28] D-Wave won a contest for the programming
+[01:31] um
+[01:31] architecture. So this is like the early
+[01:34] days of computer. Everybody's wants to
+[01:36] know how are we going to program? Is it
+[01:37] going to be C or forran etc. And that's
+[01:40] what these companies are doing. they're
+[01:42] writing the the the the foundation uh
+[01:46] how we should do uh quantum computing
+[01:48] and develop it. I expect Nvidia to be
+[01:50] the the winner because they have a
+[01:52] quantum cloud simulator, but Google uh
+[01:54] definitely wants at the first quantum

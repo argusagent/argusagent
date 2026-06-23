@@ -7,9 +7,42 @@ Type: short
 Duration: 1:09 (69s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 34
+Transcript characters: 1158
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Are you still bullish on SMCI? Yes,
+[00:02] because the sales growth is 171%.
+[00:05] Now, the gentleman that um
+[00:08] got charged by the government
+[00:10] uh
+[00:11] for apparently sending some stuff to
+[00:13] Taiwan is pleading his innocence. He's
+[00:16] not affiliated with SMCI at this moment.
+[00:18] That's That's going to be an interesting
+[00:20] case. But, the the biggest thing that
+[00:22] that SMCI does is they have the best
+[00:25] water cool rack systems out there.
+[00:27] Again, not only do they make these huge
+[00:29] racks all this cooling, they they have
+[00:30] these huge external cooling tanks. These
+[00:33] are These are outside of the data
+[00:34] centers. So, you can usually tell where
+[00:36] the SMCI servers are just by the cooling
+[00:38] tanks. But, yeah, that their order
+[00:40] backlog is still ridiculous. So,
+[00:42] hopefully they will you know, provide
+[00:44] wonderful guidance and
+[00:46] guide higher and and the fuss will be
+[00:48] over. This gentleman just has been
+[00:50] repeatedly attacked and now he's no
+[00:52] longer affiliated with the the company.
+[00:54] And the company now has some class
+[00:56] action lawsuits against it cuz the stock
+[00:58] briefly dropped, but it's it's working
+[00:59] its way back.
+[01:00] So, I'm sticking with SMCI. I'm still
+[01:02] I've zipped over 500% in it. And I I
+[01:05] have no intention to sell a stock when
+[01:07] it has strong sales growth like that.

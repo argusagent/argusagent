@@ -7,9 +7,574 @@ Type: video
 Duration: 20:08 (1208s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 566
+Transcript characters: 19179
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] We have oil tankers racing to America,
+[00:02] the Strait of Hormuz blockade by the US
+[00:04] Navy, and the stock market rallying like
+[00:07] nothing's wrong. If that sounds
+[00:08] backwards to you, you're not alone.
+[00:10] Today, Louis is breaking down why the
+[00:12] markets are ignoring a potential war
+[00:14] zone, what the PPI report really means
+[00:16] for your portfolio, and we'll be
+[00:18] answering all of your subscriber
+[00:19] questions to help you beat the market.
+[00:21] Let's get into it. Welcome back to
+[00:23] Navellier Market Buzz.
+[00:30] President Trump is gushing about empty
+[00:32] oil tankers coming to get America's
+[00:34] sweetest crude, and we have Goldman
+[00:36] Sachs just posting their best quarter in
+[00:38] 5 years. The stock market is surging.
+[00:41] What's going on? Well, okay, let's talk
+[00:43] about the oil tankers first. There's
+[00:45] apparently 121
+[00:47] headed to the Gulf of Mexico, and eight
+[00:50] of them are the very large crude oil
+[00:53] tankers, supertankers. So, this is a big
+[00:55] deal, and that's why President Trump is
+[00:57] so happy, because guess what? We now
+[00:59] control the world's oil markets, and
+[01:02] this is going to dramatically boost our
+[01:05] exports. It is going to dramatically
+[01:07] shrink the trade deficit, and we will
+[01:09] now be getting closer to that 5% GDP
+[01:12] growth that I was predicting, but I
+[01:14] didn't predict we'd be exporting this
+[01:16] much energy. So, maybe I'm wrong. Maybe
+[01:18] it'll be higher than 5%.
+[01:20] You know, President Trump himself said
+[01:21] 15, and we all kind of scoffed at that,
+[01:24] but
+[01:25] you know, he's the leader. Okay, as far
+[01:27] as earnings are concerned, Goldman Sachs
+[01:29] definitely had spectacular results, so
+[01:31] did JP Morgan. But, the big news for us,
+[01:33] of course, is
+[01:35] the data center stock screaming, and
+[01:37] we've had a lot of upgrades, and so it's
+[01:39] just it's just a wonderful environment
+[01:41] we're in right now. Citibank, BlackRock
+[01:44] have all turned bullish on the stock
+[01:45] market. Ed Yardeni, you know, has been
+[01:47] predicting a a roaring 2020s, and he
+[01:50] commented
+[01:52] today that uh
+[01:54] since when are the analysts outrunning
+[01:56] him? So, he
+[01:58] the analyst community is very happy
+[01:59] right now. But, here's what I find odd.
+[02:01] The Strait of Hormuz is still closed.
+[02:03] The US Navy is blockading Iran. So,
+[02:06] what's going on there? Well, we're
+[02:08] choking them off economically. It's kind
+[02:10] of hard to explain, but
+[02:12] the Israel, you know, has been killing
+[02:14] all the heads of the IRGC, and then
+[02:17] these new heads just pop up, and the way
+[02:19] the IRGC runs is they basically extort
+[02:22] money from commerce. So, if you cut off
+[02:25] their commerce, you cut them out, and
+[02:29] that is exactly why we have that naval
+[02:31] blockade. And cuz we are not letting
+[02:34] anything come and go from any Iranian
+[02:36] port. Now, 90% of Iran's
+[02:40] oil exports come from that Kharg Island.
+[02:43] I might be mispronouncing that. It's a
+[02:44] deepwater port, and we don't control it
+[02:47] yet, but we could easily control it with
+[02:49] all the Marines they've sent. So, we've
+[02:51] done a squeeze on them. Apparently,
+[02:54] they've offered to not pursue any
+[02:57] nuclear ambitions for 5 years. That has
+[02:59] been rejected by the United States, but
+[03:01] we are making some progress in talks,
+[03:03] and
+[03:04] and obviously, the ceasefire is still
+[03:06] holding. So, this has everybody very
+[03:08] excited that they we might reach a light
+[03:11] at the end of the tunnel.
+[03:12] >> Let's talk inflation. What did you think
+[03:14] of the PPI report? Was the food and
+[03:16] energy inflation as bad as you feared?
+[03:18] No. Food price actually fell, I believe
+[03:20] 3/10 of a percent, and um
+[03:23] energy was up 8.3,
+[03:25] but um
+[03:27] the PPI came in at half a percent. So,
+[03:30] we're expecting 1.1%.
+[03:32] The core rate, excluding food and um
+[03:35] energy, was only up 1/10 of a percent.
+[03:38] Economists are expecting
+[03:40] I believe half a percent. So, that was
+[03:43] stunning. I mean, this was a phenomenal
+[03:45] report. So, we have wholesale service
+[03:47] costs up by 1.6, but almost all of it's
+[03:49] tied to energy. Service costs were flat.
+[03:52] And what I find interesting is trade
+[03:54] services have fallen
+[03:57] 4/10 of a percent in February, 3/10 of a
+[03:59] percent in March, and that's the benefit
+[04:01] of a strong dollar. So, as the dollar
+[04:03] gets stronger and stronger, you know,
+[04:05] everything we import is getting cheaper.
+[04:06] So,
+[04:08] that's a good development. So, that
+[04:10] means a rate cut could be back on the
+[04:12] table. Obviously, that will be maybe
+[04:14] discussed in the Senate with Kevin
+[04:16] Warsh, who won't show his cards, but
+[04:19] he's a big proponent of the productivity
+[04:21] enhancements not being inflationary, and
+[04:23] then, of course, we would want to cut to
+[04:26] stimulate the job market as well. So,
+[04:28] the rate cuts may be coming back on the
+[04:29] table, and it just shows that the
+[04:32] inflation we have is a bubble that's
+[04:34] going through the economy, and that
+[04:36] bubble should dissipate by the fall. And
+[04:39] so, the inflation is transitory. And can
+[04:41] you explain to everyone why the stock
+[04:43] market is surging right now?
+[04:45] >> Earnings, earnings, earnings, positive
+[04:47] analyst revisions, and the US is the
+[04:49] safest around the world. So, let's just
+[04:51] pretend, I don't know, you live in
+[04:53] Dubai, okay? You put your money. You put
+[04:56] your money in China? Their currency is
+[04:57] depreciating, their rates are lower than
+[04:59] Japan, and last time people tried to
+[05:01] take money out there, they dispatched
+[05:03] tanks, and China's going to have to
+[05:05] devalue their currency. Okay, you put
+[05:06] your money in Japan. Well, they got a
+[05:09] very low rates, and they're going to
+[05:11] have to be doing some quantitative
+[05:12] easing. Unfortunately, their population
+[05:14] is shrinking, and their central bank has
+[05:15] kind of lost control a little bit. So,
+[05:18] um
+[05:19] so the bond vigilantes are picking on
+[05:21] Japan. Okay, you can go to the UK. What
+[05:23] what what's so great about the UK? Well,
+[05:25] unfortunately, the UK chased out a lot
+[05:27] of the rich people. Most Brits have
+[05:29] trusts in Guernsey or Jersey, at least
+[05:31] the rich ones do. And now they don't
+[05:32] have enough people paying into the
+[05:33] system, so now they got to raise taxes
+[05:35] on the middle class. Now, as it is, half
+[05:38] the people in Britain can't pay their
+[05:39] electric bill, because there's heavily
+[05:40] subsidized. And so, they're not really
+[05:42] growing, cuz they're not creating the
+[05:44] households, their their new immigrants
+[05:45] aren't contributing a lot economically.
+[05:47] So, the UK is a mess, okay? And they
+[05:50] will be doing quantitative easing.
+[05:53] Or you go to Europe, and just more
+[05:55] quantitative easing. The French central
+[05:58] bank
+[05:59] is struggling, because, you know, their
+[06:00] population is shrinking. They actually
+[06:02] lost money on their yield curve
+[06:04] management, and they had to use their
+[06:05] gold reserves to offset those
+[06:08] those trading losses. So, that's the the
+[06:10] reason why gold is so strong is the
+[06:12] central banks are buying all this gold
+[06:14] to shore up their credibility. Now,
+[06:16] what's interesting is central banks now
+[06:18] own more gold than US Treasuries. So, as
+[06:20] you look around the world, you have two
+[06:22] choices, the US dollar or gold, and more
+[06:25] more people lately are picking the US
+[06:27] dollar, because they see that we have
+[06:31] robust economic growth, we're a younger
+[06:33] society, we assimilate immigrants. Well,
+[06:35] obviously, our trade deficit is
+[06:36] shrinking rapidly, we're controlling the
+[06:38] world energy markets, and we're just a
+[06:40] much more optimistic society, okay? And
+[06:42] what makes America great,
+[06:44] even well before President Trump, was
+[06:47] that our states compete with each other.
+[06:49] And
+[06:50] so, that's that. Now, are we perfect? Of
+[06:53] course not. You know, too much of our
+[06:54] growth is just AI related, and hopefully
+[06:56] it'll broaden out here, especially now
+[06:58] that the spring is here and the
+[06:58] weather's getting so good. Well, that
+[07:00] being said, we had a lot of subscriber
+[07:02] questions wanting your advice on this
+[07:05] new surge. Let's start out with what do
+[07:07] you think about APLD? Okay, Applied
+[07:10] Digital. Sales are supposed to be up
+[07:12] 155.6%.
+[07:15] Um
+[07:16] their earnings are still negative, but
+[07:19] they should be positive sooner than
+[07:21] later. Companies have operating earnings
+[07:23] growth, and then overall earnings
+[07:24] growth. So, their operating earnings are
+[07:26] definitely positive. But, I think what's
+[07:28] most impressive about APLD is the
+[07:30] magnitude of their surprises. Their
+[07:33] surprises have been stunning. Last
+[07:35] quarter was 140.9%
+[07:36] and 40.9%. Before that was 100%, before
+[07:39] that it was 80.7%.
+[07:41] Those are stunning earnings surprises.
+[07:43] So, I have a lot hope for APLD. I
+[07:45] personally won't be owning it until I
+[07:47] get their earnings I demand, but this
+[07:49] company certainly has good sales growth,
+[07:51] and it is making a transition from
+[07:53] negative to positive earnings. And what
+[07:55] about IREN? Okay, as far as IREN is
+[07:58] concerned, their sales are supposed to
+[08:00] be up 48.4%.
+[08:03] Their earnings are supposed to be down
+[08:05] 341%.
+[08:07] So, that's not good. Our
+[08:11] cents 3 months ago, today they're minus
+[08:14] 26 cents. So, analysts have been
+[08:15] slashing the estimates. So, here's a
+[08:17] company with very impressive sales
+[08:19] growth, but no earnings growth. Now, in
+[08:21] their defense, they did surprise last
+[08:22] quarter. So, they're going to have to
+[08:25] keep surprising and and beat and guide
+[08:28] higher, but unfortunately, I would pass
+[08:30] on this stock due to due to the negative
+[08:34] analyst revisions and the fact that it's
+[08:35] still not forecast to earn money.
+[08:37] >> Now, let's switch to Corning, GLW. Well,
+[08:41] Corning has been riding this optical
+[08:43] wave that has um
+[08:45] really helped the data center stocks,
+[08:47] because, you know, the the data centers
+[08:49] have to
+[08:50] run on fiber optic, and obviously,
+[08:52] Corning makes the fiber optic, and
+[08:54] apparently, they have a new and improved
+[08:56] fiber optic. Don't think they increased
+[08:58] the speed of light, but somehow they
+[09:00] improved the data transfer, probably
+[09:02] with shielding and all. But, their sales
+[09:04] are supposed to be up 16.9%.
+[09:07] Their earnings are supposed to be up
+[09:08] 27.7%.
+[09:11] We have minor upward analyst revisions,
+[09:13] and the stock has smaller surprises, but
+[09:16] it does surprise every quarter, and last
+[09:18] quarter it had a 2.1% surprise. So,
+[09:21] Corning's interesting, you know, it's
+[09:22] obviously a phenomenal company.
+[09:23] Obviously, it's benefiting from the data
+[09:25] center boom. It's not in my portfolio,
+[09:27] only because I have better optical
+[09:29] stocks, okay? So, I would argue,
+[09:31] respectfully, that Ciena, CIEN, is
+[09:34] better.
+[09:35] And I also have Ubiquity, UI. Now,
+[09:37] Ubiquity is also a network switcher, but
+[09:40] they do all the fancy optical switches
+[09:42] as well. But,
+[09:43] those stocks just have faster organic
+[09:45] sales and earnings than Corning. But,
+[09:47] for a company of this size, it's it's
+[09:49] very very impressive and a good blue
+[09:50] chip stock.
+[09:51] >> And what are your thoughts on Axon,
+[09:53] AXON? Okay, Axon is famous for two
+[09:56] things, body cameras and tasers. So,
+[10:00] when Tiger Woods got pulled over the
+[10:02] other day,
+[10:03] you got to see the
+[10:05] the body cam footage from the officer.
+[10:07] She was very nice to him. She tried to
+[10:09] make sure he was comfortable and
+[10:11] got him a drink. Anyway, sales are
+[10:13] supposed to be up 29.1%.
+[10:16] Their earnings are supposed to be up
+[10:18] 13.4. So, earnings aren't growing as
+[10:20] fast as sales due to some margin
+[10:21] compression. No real significant analyst
+[10:24] changes. They did have a 34.5%
+[10:27] surprise last quarter, but before that
+[10:29] they missed. Now, I own this stock at
+[10:31] that time
+[10:32] and when they missed in the third
+[10:34] quarter, I decided to sell the stock on
+[10:36] a bounce. Obviously, tasers are better
+[10:38] than guns. Obviously, police officers
+[10:40] carry both. But, you know, it's is
+[10:44] famous for its tasers, it's famous for
+[10:45] its body cam
+[10:47] cameras. And of course, it does help
+[10:50] police become more efficient also
+[10:52] uploading their files and all kinds of
+[10:53] things. So, yeah, this is a good stock,
+[10:56] but unfortunately, because of one miss,
+[10:58] I ended up selling it. I'm happy to see
+[11:00] it's recovering. I'd like to see its
+[11:02] earnings also grow a little faster cuz
+[11:04] right now they're not growing as fast as
+[11:05] sales. Speaking of Tiger Woods, Rory
+[11:08] McIlroy just made history two years in a
+[11:10] row. What are your thoughts on that?
+[11:12] Well, I mean, you know, we know all
+[11:13] these guys cuz they
+[11:15] are part of our golf courses and we see
+[11:17] them all all the time. So, we're happy
+[11:18] for Rory. Cam Young is also a member
+[11:20] there. There's 80 of them at the Bears
+[11:23] Club in Jupiter, Florida. And yeah, so
+[11:26] we're happy. It's just painful to watch
+[11:28] that tournament because it's so hard and
+[11:31] even Rory three-putted on a par three
+[11:34] from like two. And but if you look at
+[11:36] what it was going on with
+[11:38] Justin Rose and Cam Young, the putting
+[11:41] was just it was painful to watch. So,
+[11:43] I'm happy for Rory and he does work very
+[11:46] very hard. You know, we see him out
+[11:47] there practicing and his chipping is
+[11:50] unbelievable. Okay? And thanks to Brad
+[11:53] Faxon, he's a great putter now. Brad
+[11:55] Faxon is his putting coach. So, anyway,
+[11:57] the Masters is a big deal. I think for
+[12:00] ratings and stuff, we do want to see
+[12:02] when it comes to the US Open and the
+[12:04] British Open, we do want to see
+[12:06] DeChambeau and Rory go at it and with a
+[12:08] few other people hopefully right behind
+[12:10] them. So, I think that would be better
+[12:12] for TV. Moving back to stocks, Bloom
+[12:14] Energy has been surging. What's your
+[12:17] take on BE right now? Yeah, that's okay.
+[12:20] Oracle already made a huge commitment to
+[12:22] them. They just upped their commitment
+[12:24] to them. So, it's as I talked to you, I
+[12:26] think it's up
+[12:27] almost 30% today.
+[12:29] And it was up yesterday. So, they make
+[12:30] the natural gas fuel cells for the data
+[12:33] centers. So, basically, you get a
+[12:35] natural gas pipeline to your data
+[12:37] centers, you hook up all the Bloom
+[12:39] Energy fuel cells and you don't have to
+[12:41] hook up to the utility. This is actually
+[12:43] what President Trump asked the data
+[12:45] centers to do, you know, cuz the grid
+[12:47] can't support all the power they need.
+[12:49] So, they have to generate it themselves
+[12:51] via natural gas.
+[12:53] So, and Bloom Energy is viewed as a
+[12:55] green stock because they think making
+[12:57] electricity from fuel cells is better
+[12:59] than from natural gas turbines. We
+[13:02] recommend both. We also have GE Vernova,
+[13:04] GEV. But yeah, Bloom Energy is up 1,000%
+[13:06] in the past year, you know. So, I'm
+[13:08] proud to have it in my portfolio and
+[13:10] it's a
+[13:11] it's a big one and
+[13:13] I have no intention of selling it
+[13:15] because the order backlog is is
+[13:16] incredible. Here's an interesting one.
+[13:18] Even if the conflict winds down, oil
+[13:20] facilities have been damaged and the
+[13:22] prices are staying elevated. Are there
+[13:25] any companies you'd consider short-term
+[13:27] whose stocks would benefit from facility
+[13:30] repairs? Sure, there's there's a huge
+[13:32] oil service industry out there.
+[13:34] And um
+[13:36] um
+[13:38] you know, we'll see which one gets the
+[13:40] contracts to patch everything back
+[13:42] together. The Cutter LNG facility is
+[13:44] pretty serious. We got to get that fixed
+[13:46] pretty fast. The refineries are easier
+[13:48] to fix.
+[13:49] I don't think any well heads have been
+[13:51] hit or anything or any major pipeline,
+[13:53] so that's good. I'll just see which oil
+[13:55] service companies get the contracts. I
+[13:57] know it's Precision Drilling, PDS, has
+[13:59] been doing amazing well. But, you know,
+[14:01] I want to just see the actual results
+[14:03] and the guidance from the analysts and
+[14:05] then I'll I'll make my decision. But,
+[14:07] there was a glut of crude oil before
+[14:09] this started and when it's over, I
+[14:11] expect that the glut to return no later
+[14:14] than the fall. This is a good time to
+[14:15] remind people that there is more um
+[14:19] energy consumption in the summertime
+[14:21] than there is in the fall because
+[14:22] there's more people in the northern
+[14:23] hemisphere. When the fall comes, global
+[14:25] demand will drop
+[14:27] and prices will will moderate and that
+[14:29] will be the best time to do a lot of
+[14:31] this maintenance. And what are your
+[14:32] thoughts on ISSC? Innovative Aero
+[14:35] Systems makes all kinds of great panels
+[14:38] for the aviation industry.
+[14:40] But unfortunately, their sales are
+[14:41] forecast to decline
+[14:43] 3.7%.
+[14:45] Their earnings are forecast to decline
+[14:47] 38.2%.
+[14:50] And we have some minor analyst cuts from
+[14:52] 22 cents three months ago to 19 cents
+[14:55] today. But with that said, they've had
+[14:57] two huge surprises, 50% last quarter
+[15:00] and 236.2%
+[15:02] in the third quarter. So, I have hope
+[15:04] for them, but they're going to have to
+[15:05] guide higher
+[15:07] and that was really going to be key for
+[15:09] this stock to improve. Now, Intel has
+[15:11] popped this week. Would you buy, sell,
+[15:13] or hold the stock? All right. Intel is
+[15:15] going up with the entire semiconductor
+[15:17] industry and that's the good news. The
+[15:19] bad news is it just doesn't fit my
+[15:22] criteria. Their sales are supposed to be
+[15:24] down 2.7. Their earnings are supposed to
+[15:26] be down 90 98%.
+[15:29] Um the analyst community has cut their
+[15:31] estimates from five cents to zero cents.
+[15:34] And but with that said, they've had two
+[15:36] massive surprises in the past two
+[15:37] quarters. So, maybe they will turn it
+[15:40] around. President Trump of course asked
+[15:42] Jensen Huang to start doing some
+[15:43] business with Intel. The US took an
+[15:45] equity interest in Intel because Biden
+[15:47] gave them a bunch of money and they
+[15:49] never built the the new plant in Ohio
+[15:51] they were supposed to largely due to the
+[15:53] fact that the Defense Department reneged
+[15:55] on semiconductor ship commitment of two
+[15:57] and a half billion a year. So, Intel's
+[16:00] really been kind of cast adrift here.
+[16:02] So, hopefully when Nvidia's help and
+[16:05] others in the industry, it'll get going.
+[16:06] But yeah, I don't want to go near the
+[16:08] stock right now. Palantir is highly
+[16:10] rated, yet since November, it's been on
+[16:12] a steady downtrend. What's happening
+[16:14] with this stock? Is it still a buy?
+[16:16] Palantir is a screaming buy. Let me
+[16:19] explain why. First of all, the last
+[16:20] quarter was perfect. Sales, earnings,
+[16:22] guidance, perfect. They still shorted
+[16:24] the stock. Their sales for this current
+[16:27] quarter are supposed to be up 74.1%.
+[16:30] Earnings are supposed to be up 114.5.
+[16:33] We have very strong analyst earnings
+[16:35] revisions from 21 cents to 28 cents in
+[16:37] the last 90 days. So, that's
+[16:40] a good 33.3%
+[16:42] um
+[16:43] positive analyst revision and again, a
+[16:45] good surprise history. Now, there's a
+[16:48] short seller Michael Burry
+[16:50] that says Anthropic is eating Palantir's
+[16:53] lunch. Well,
+[16:55] we knew know that Anthropic is good,
+[16:57] which is a cloud software, but Palantir
+[16:59] has all the contracts. So,
+[17:02] I do think Palantir is a screaming buy
+[17:04] now. I don't see all the government
+[17:07] contracts switching from Palantir to
+[17:09] Anthropic. As you may know, Anthropic
+[17:11] has been very feisty with the Trump
+[17:14] administration. And the other thing is
+[17:16] there's a lot of liberal people out
+[17:17] there that don't like Palantir. And I
+[17:20] have some clients that have asked me to
+[17:22] sell it cuz they were just aghast at
+[17:24] what they were doing, making the
+[17:25] government more efficient, making the
+[17:27] military more efficient, doing things
+[17:29] like that. And they just didn't want to
+[17:31] have
+[17:32] any stock doing that.
+[17:34] So, there's there's been a backlash
+[17:36] against this company, but um
+[17:38] I I really believe in Alex Karp and
+[17:41] Peter Thiel who's behind Palantir.
+[17:43] And
+[17:44] I think you should just hitch your ride
+[17:46] to this stock and it'll do great. Now,
+[17:48] this is a software stock
+[17:50] and Wall Street has been shooting most
+[17:51] software stocks saying that AI will
+[17:53] replace all software companies. That's
+[17:55] not true and Jensen Huang of Nvidia has
+[17:58] clarified that. So, I just think it's
+[18:00] time to to buy this stock and hang on
+[18:03] and enjoy the ride. I don't I don't have
+[18:04] better stocks than this. Let's end on
+[18:06] one more stock. You mentioned a couple
+[18:08] weeks ago that you were watching
+[18:10] SanDisk. Have you opened a position or
+[18:13] are you still waiting? The stock has
+[18:15] taken off significantly. No, I don't own
+[18:17] it.
+[18:17] Why? Because I own Seagate Technology,
+[18:20] STX, and I own Micron, MU. Why don't I
+[18:24] Why don't I own SanDisk? Well, you know,
+[18:26] we calculate this thing called a an
+[18:28] alpha
+[18:31] which is its return independent of
+[18:32] market. And there are memory companies
+[18:35] like Western Digital, which was I think
+[18:37] the best performer last year, and
+[18:39] SanDisk, a good performer. They don't
+[18:41] have the alpha as high as I want. But
+[18:43] with that said, those are supposed to be
+[18:44] up 147.6%.
+[18:47] Their earnings are supposed to be up
+[18:49] 4,843%.
+[18:52] We have positive analyst revisions
+[18:54] dramatically higher from
+[18:56] $3.08 to $14.23
+[19:00] in just the last 90 days. So, obviously,
+[19:04] that's going to be huge. And last
+[19:05] quarter, they had a 75% earnings
+[19:08] surprise. So, yeah, SanDisk is a
+[19:09] powerful stock. It is one of many memory
+[19:12] stocks rallying and storage companies
+[19:14] rallying, but my favorite is is again
+[19:16] STX, Seagate, and MU, but I'm sure
+[19:20] SanDisk will go a lot. That's it for
+[19:21] today. If you want Louis's latest stock
+[19:23] picks and market analysis, hit subscribe
+[19:25] and turn on the notifications. Now,
+[19:27] before I let you go, we want to say a
+[19:29] big thank you to all of you from being
+[19:32] here from the beginning and for 10,000
+[19:34] subscribers. If you missed our last
+[19:36] giveaway, now is another chance to get a
+[19:38] signed copy of Louis's book. If you'd
+[19:41] like a copy gift to you from us, please
+[19:44] fill out this link in the description
+[19:46] below. I'll also pin it in the comments.
+[19:49] Thank you all so so so much. We wouldn't
+[19:51] be here without you and we are so
+[19:53] grateful for you all. We will be seeing
+[19:55] you this Sunday with a special guest as
+[19:57] well, but thank you all so much for
+[19:59] watching.

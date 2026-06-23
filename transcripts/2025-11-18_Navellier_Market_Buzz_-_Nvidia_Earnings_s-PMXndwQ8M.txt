@@ -7,9 +7,25 @@ Type: short
 Duration: 0:32 (32s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 17
+Transcript characters: 605
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] earning surprises are very steady with
+[00:02] Nvidia and of course it's guidance is
+[00:04] more important than the actual
+[00:05] surprises. My only warning for everybody
+[00:08] that owns Nvidia is that there's so many
+[00:10] options written on this stock that
+[00:12] sometimes the people that write the
+[00:13] options, the the Citadels, the Jane
+[00:16] Streets, the Virtue Financials, when you
+[00:18] write an option, you collect a premium.
+[00:20] If the stock shoots up, then they got to
+[00:22] deliver the stocks, exercise the
+[00:23] options. That's a lot of work. So, a lot
+[00:25] of times they try to hold it back. And
+[00:27] so sometimes the tail's wagging the dog
+[00:29] with the video, but it it should still
+[00:31] go higher.

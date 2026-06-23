@@ -7,9 +7,27 @@ Type: short
 Duration: 0:37 (37s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 19
+Transcript characters: 649
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Dick's Sporting Goods reports tomorrow.
+[00:02] What do you expect from them? Well,
+[00:04] believe it or not, they have a seasonal
+[00:05] surge. Uh, their sales are supposed to
+[00:07] be up 59.6%
+[00:09] that's obviously huge. Their earnings
+[00:11] though are supposed to be down 14% so
+[00:14] it's a little confusing, okay? How can
+[00:16] sales go up and earnings go down? Well,
+[00:18] the analysts have trimmed their
+[00:19] estimates for the stock up in the last
+[00:21] 90 days but but there's hope because in
+[00:24] the last 7 days they revised estimates a
+[00:26] few cents higher so we will see. Now,
+[00:29] Dick's had a 17% surprise last quarter
+[00:31] that was a very impressive. They but
+[00:33] their revenues are definitely growing
+[00:35] and we'll see if they can surprise
+[00:36] again.

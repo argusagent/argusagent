@@ -7,9 +7,457 @@ Type: video
 Duration: 19:32 (1172s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 449
+Transcript characters: 15873
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:06] hello everyone welcome back to navali
+[00:07] your Market Buzz I'm Crystal navier and
+[00:09] I'm joined again this week with my
+[00:10] father Louis navier Dad I see that
+[00:13] you're in Reno and you have escaped the
+[00:15] hurricane yeah I've been out west and um
+[00:18] actually we having a little Heatwave out
+[00:19] here it's a time of year where it gets
+[00:21] warm in Northern California Nevada so um
+[00:25] it's very nice but it'll be snowing
+[00:26] within a couple months and um hopefully
+[00:30] get out and about now in New York now
+[00:31] the UN has finally left right well it is
+[00:35] a little bit gloomy gloomy September day
+[00:38] um let's get started on a couple
+[00:40] questions uh there are treasury auctions
+[00:42] early next week what do you
+[00:44] expect well I expect they'll go well uh
+[00:47] obviously the news last week was the
+[00:49] deficit uh cost above $35
+[00:53] trillion and um a lot of people think
+[00:56] that's too high we we got a question
+[00:58] about that and eventually there will
+[01:00] come a time when the US can't borrow
+[01:02] much more but I think you'll find robust
+[01:05] demand for our treasury Securities next
+[01:06] week largely because uh the US is the
+[01:10] world's Reserve currency and about 60%
+[01:13] of all foreign transactions are done US
+[01:15] Dollars uh one of our competing
+[01:17] currencies the the Chinese Wan is not
+[01:20] strong it's down over 3% against the
+[01:23] dollar in the past year China had a
+[01:25] pretty big rally last week because of
+[01:27] all the economic stimulus putting on uh
+[01:30] by its government but one of their
+[01:33] prominent economists that was critical
+[01:34] of President Chi was abruptly removed
+[01:37] from his post and has since disappeared
+[01:39] probably never to be seen again so I
+[01:42] don't think it's as strong in China as a
+[01:44] lot of people think it is so as long as
+[01:47] the US is growing faster than the rest
+[01:49] of the world and with the world's
+[01:51] Reserve currency there should be plenty
+[01:52] of demand for our treasury Securities
+[01:55] now there is a thing called a bid to
+[01:57] cover ratio at every treasury auction
+[02:00] we do want to see robust bidding usually
+[02:03] at 2.6 uh to one or higher and I'm
+[02:06] expecting we'll see that um interesting
+[02:08] the short-term uh treasury bills and
+[02:11] intermediate notes uh have declined uh
+[02:14] pretty quickly and um while treasury
+[02:17] bond yields have stabilized so um uh
+[02:21] it'll be interesting to see where yields
+[02:22] settle in but I am expecting a good
+[02:25] treasury auction do you have any insight
+[02:28] into the ADP and Labor Department
+[02:30] payroll reports well they should be good
+[02:32] because new claim unemployment uh
+[02:35] actually plunged last week it was only a
+[02:37] onee data but uh that's a good sign an
+[02:41] example where employment might be
+[02:42] picking up in America is like um the
+[02:45] people at process all the mortgages you
+[02:47] know mortgage demand is at the highest
+[02:49] level in over two years that's because
+[02:53] mortgage rates declin for eight straight
+[02:55] weeks and everybody's out refinancing
+[02:57] their mortgage so that part of the
+[02:59] economy uh should be picking up a lot
+[03:02] and and other interest rate sens of um
+[03:05] um bits although we want to keep a real
+[03:07] good I am manufacturing um the US
+[03:11] economy U for the manufacturing side has
+[03:14] been recession for 22 months and um we
+[03:18] have a Port strike next week by the long
+[03:20] shoreman it's anticipated that's going
+[03:22] to further mess up the manufacturing
+[03:24] sector and uh and it's also going to
+[03:27] mess up holiday sales it'll be fast to
+[03:30] see how the Biden Administration
+[03:31] responds to this Port strike
+[03:34] because the reason that they're not
+[03:36] getting along with the teamsters like
+[03:38] they used to is the teamsters tried to
+[03:41] have a Railroad Strike uh a couple years
+[03:43] ago and the body Administration blocked
+[03:45] it and they had Congress ratify their
+[03:48] contract so uh um if it wasn't an
+[03:52] election year uh I would not be
+[03:55] surprised if uh this long Sherman strike
+[03:58] was blocked okay
+[04:00] but um because K's Pro labor and Trump's
+[04:03] Pro labor I think they're going to be
+[04:04] stucking at the long shoreman and
+[04:06] hopefully they'll get a good deal and
+[04:08] the ports will open soon but if they're
+[04:10] on strike for two weeks um people are
+[04:12] going to have to give gift cards for the
+[04:14] holidays and it's going to mess up a lot
+[04:16] of things even Auto Sales so now what do
+[04:19] you expect from the ism service
+[04:20] manufacturing and sector
+[04:22] reports well we want to see uh if ism is
+[04:26] going to turn up with the housing market
+[04:28] you know um new home sales uh declined
+[04:31] 4.7% um uh in last week but they're up
+[04:36] 9.8% traing 12 months July also they
+[04:39] were up so there is some green shoots
+[04:42] out there in the housing area although
+[04:44] cofin and Brad which is not a stock that
+[04:46] we own uh did have a disappointing
+[04:49] result and um uh usually housing does
+[04:53] lift manufacturing but again um that
+[04:56] that's really what I want to see um the
+[04:58] service sector should be fine and we
+[05:00] want to see how many uh um Industries in
+[05:04] the service sector are doing
+[05:06] well so now one of our subscribers
+[05:08] actually had a question about um any of
+[05:11] your shipping stocks are going to be
+[05:12] disrupted by the long shoreman strike um
+[05:16] are are they being paid during that
+[05:17] strike do the ships get paid when they
+[05:20] sit well when the ships sit obviously
+[05:23] the day rates continue and uh the day
+[05:26] rates often will rise uh we own uh most
+[05:29] the L tankers um like Dorian that's LPG
+[05:33] um big fat dividend yield there and a
+[05:37] dry goods companies now there are some
+[05:39] agricultural items that will be
+[05:40] disrupted at the ports so the fresh
+[05:43] vegetables are the first to uh falter
+[05:46] but um uh the dry goods that our ships
+[05:50] are are shipping are are fine they're
+[05:52] not perishable so I think we'll be okay
+[05:55] and now another one of your subscribers
+[05:57] wanted to know about the US debt that
+[05:59] just hit record level in excess of 35
+[06:01] trillion when does the debt blow
+[06:04] up well that kind of goes back to the
+[06:06] treasury um uh auction comment I was
+[06:10] discussing earlier but there will come a
+[06:12] time when it won't work and um if you
+[06:16] look at Japan their debt got so big they
+[06:18] couldn't raise rates and that's what
+[06:20] you'll see first you'll see low rates in
+[06:22] America because we can't raise rates but
+[06:25] America has fast natural resources we
+[06:28] have a lot of collateral
+[06:30] uh an example is we have eloro Marine
+[06:33] base uh we have vanderberg Air Force
+[06:36] Base we have the Proco in San Francisco
+[06:39] we have mofet field in the South Bay
+[06:42] Area all these are Prime real estate
+[06:45] locations that in theory could be sold
+[06:48] you know and
+[06:50] um um there's a lot of Natural Resources
+[06:54] in America okay even the Rocky Mountains
+[06:57] have a lot of oil okay they don't really
+[07:00] go for it right now but in theory they
+[07:03] could so uh U I think we're going to be
+[07:07] okay uh but uh yeah it's uh the main
+[07:11] thing
+[07:12] is it's not so much the deficit it's is
+[07:16] it's something called the velocity of
+[07:18] money so let's just say Trump gets
+[07:21] elected and he cuts our
+[07:23] taxes well that puts more money in
+[07:25] consumer Pockets that the consumers put
+[07:28] their money at the bank
+[07:30] and then the bank buys a treasury so
+[07:32] it's all in
+[07:33] circulation so um we have to elect happy
+[07:37] leaders okay the leaders that Inspire us
+[07:41] okay so the velocity of money is
+[07:44] maximized and that's the real key to
+[07:46] economic
+[07:47] Prosperity uh the final comment I have
+[07:49] is you know the the US is only one of
+[07:51] three major countries that is still
+[07:54] growing um it's us Brazil and India
+[07:59] everyone else is shrinking all of Asia
+[08:01] is shrinking even China lost 2.08
+[08:03] million people last year Europe is
+[08:05] shrinking and when an economy shrinks
+[08:08] and you lose households it's very very
+[08:10] hard to have economic growth so uh that
+[08:14] also helps the US dollar and um so you
+[08:18] do want to have uh well you do want to
+[08:20] be pro- family because household
+[08:22] formation uh creates economic growth
+[08:25] that's why places like Utah the fastest
+[08:28] growing state in the country have been
+[08:30] for many years um the south is is
+[08:33] booming um and U they're just more pro-
+[08:35] family in some of these areas of course
+[08:37] cost of living is a little better and
+[08:39] then on top of that um uh the US does
+[08:42] assimilate immigrants better than other
+[08:45] countries I realize that's a very sore
+[08:47] subject right now but uh we've always
+[08:50] had an aggressive a legal immigration
+[08:53] policy and so hopefully we'll attract
+[08:55] the best and brightest from around the
+[08:57] world to America and uh that'll that'll
+[09:00] keep us growing so it's 20 or 30 years
+[09:04] off uh when the deficit gets too big and
+[09:08] if and when it does there has to be
+[09:10] another country you want to put your
+[09:11] money at and uh the US is so big
+[09:14] compared to everybody else I think we'll
+[09:15] be okay now with the meeting that um we
+[09:18] had last week with uh the president of
+[09:20] Ukraine do you have any insights When
+[09:22] The War might
+[09:24] end well I better end soon because he's
+[09:27] out of troops it's very tragic uh you
+[09:30] know he obviously is getting 375 million
+[09:34] in military aid from the Biden
+[09:35] Administration but he's out of troops
+[09:38] and there's only so much they can do and
+[09:41] um the deeper they strike Russia the
+[09:44] more R Russia gets mad at NATO we don't
+[09:47] want Russia uh fighting NATO we don't
+[09:49] want a bigger
+[09:51] War so uh hopefully it will end soon
+[09:54] then later now when he met with Biden uh
+[09:57] and
+[09:58] KLA he propose a victory
+[10:01] plan and and of course it needs us
+[10:04] funding for that and then when he met
+[10:06] with President Trump president Trump
+[10:08] made it very clear the war should end uh
+[10:11] ASAP and he'll get Vladimir Putin
+[10:14] involved and use his diplomatic skills
+[10:16] to end the war because you know there's
+[10:18] been uh a million people killed and were
+[10:22] uh
+[10:23] maned uh I'm pretty confident that the
+[10:26] war will be over soon uh just because
+[10:30] because Ukraine can't function you can't
+[10:32] function when you lose 40% of your
+[10:34] population and your infrastructures
+[10:37] destroyed so it's it's a real tragedy
+[10:40] and uh I think it's sad that US and
+[10:43] Britain talk lazinski out of a peace
+[10:45] deal with Russia and uh because he ran
+[10:48] on on a peace deal with Russia and uh we
+[10:51] talked him out of it and uh he's paid
+[10:53] the consequences and it's it's it's
+[10:55] quite
+[10:56] tragic now do you think that there's
+[10:58] going to be any surprises for the
+[11:00] October
+[11:01] election well the Long Sherman strike to
+[11:04] be one obviously Iran attacking Israel
+[11:07] uh could be another uh what has happened
+[11:10] is you know Israel has been very
+[11:13] successful at uh removing the the hezbo
+[11:16] leadership it started with the pagers
+[11:18] exploding and then the radios
+[11:21] exploding and they took out the head of
+[11:23] Hezbollah and about 20 commanders under
+[11:26] him uh they've killed a bunch of AR Ian
+[11:29] Republican guards that were advising
+[11:31] them um so U Iran funded all this
+[11:37] and they Israel will probably do a
+[11:41] ground Invasion to get rid of all the
+[11:42] other missiles hidden in all the homes
+[11:45] and um and then it'll be a mess and uh
+[11:48] it'll be a human you know it's a human
+[11:51] tragedy of course but that's what
+[11:53] happens when you put missiles in your
+[11:55] houses you know so it'll be interesting
+[11:58] if Iran
+[11:59] retaliates and uh so that could be um a
+[12:03] big one but uh when Iran did
+[12:07] launch um missiles into uh Israel not
+[12:10] that long ago Israel successfully shot
+[12:13] down every single one and um a bwin um
+[12:18] kid uh was hurt by shrapnel coming down
+[12:21] from the sky so when the Iron Dome and
+[12:24] intercepts all these missiles you still
+[12:26] have to hide because you got trapped
+[12:28] with falling so um um you know Israel is
+[12:34] asserting in itself and and they're
+[12:36] moving really fast now with hezb you
+[12:38] know they don't want it drawn out like
+[12:39] the gaua conflict so um it's a fast
+[12:43] breaking news right now moving on to
+[12:46] stocks some of the stocks went crazy
+[12:48] last week do you recommend any Chinese
+[12:50] stocks the only one I have is PDD it's a
+[12:54] Chinese internet
+[12:55] retailer uh yeah and it did go nuts last
+[12:58] week um
+[12:59] I think it was up over 20% for the week
+[13:01] so that's a good sign but China as a
+[13:04] whole has strongest week in some time
+[13:07] because of all the stimulus that was
+[13:08] being added but again China has a
+[13:11] demographic problem their citizens have
+[13:13] invested heavily into real estate that's
+[13:17] depreciating and uh there's U you know
+[13:20] they just bought the real estate as
+[13:22] investment never intending to live in it
+[13:24] so there's empty buildings everywhere
+[13:26] and uh it's quite sad so it's
+[13:29] um we we don't expect China to uh have
+[13:33] robust economic growth now what about um
+[13:37] Eli Lily that was weak last week yeah
+[13:40] Lily uh and novan Oris have been soft
+[13:42] here and those are two of my top
+[13:44] Holdings uh Lily of course is now out
+[13:50] selling the venor disk on weight loss
+[13:52] drugs uh so there was a rotation out of
+[13:54] some of the market leaders last week um
+[13:58] into um more cyclical stocks more
+[14:00] interest rate sensitive stocks but Lily
+[14:03] should come roaring back they are
+[14:04] throttling up on their weight loss drugs
+[14:08] and they will probably continue to
+[14:09] outsell Nova or disc now Nova or disc of
+[14:11] course dominates all the diabetes
+[14:13] medication around the world and long
+[14:15] term they look fine but uh those are two
+[14:17] stocks that we own and we'll continue to
+[14:19] own but Lily u in my opinion is the best
+[14:23] SP on weight loss drugs right now what
+[14:25] about s uh
+[14:28] MCI super micro um computer um it got
+[14:33] spanked because uh the uh there was news
+[14:36] that um believe this is on uh Thursday
+[14:39] yeah believe it came out on Thursday
+[14:41] that um the justice department is
+[14:43] starting an inquiry into the uh their
+[14:46] accounting and just so everybody knows
+[14:49] what happened is Hindenberg which is an
+[14:52] aggressive short seller put out a report
+[14:54] during one of the more liquid
+[14:55] times uh asserting that their accounting
+[14:58] is
+[14:59] wrong and fortunately I did corporate
+[15:02] accounting and um I can't see where the
+[15:05] error is um what basically when you Book
+[15:10] Sales uh you book them and they go into
+[15:13] an order backlog and they're insinuating
+[15:16] that they use third parties and other
+[15:17] entities to artificially inflight
+[15:20] sales uh I read that Hindenberg report
+[15:22] it was full of indu endos and not
+[15:24] specific facts and whatever the justice
+[15:27] department is doing is very early the
+[15:28] fast same thing about super micro is
+[15:31] their sales are forecast to be up 29%
+[15:33] next quarter their earnings are forast
+[15:36] to be up
+[15:37] 119% and anytime earnings some grows
+[15:40] fast sales because their margins are
+[15:41] starting to be squeezed they said that
+[15:43] last quarter and gave robust guidance
+[15:46] but the anal communi U hasn't slashed
+[15:49] their estimates so um I think it's just
+[15:53] all a bogus reaction and super micro did
+[15:56] bounce back uh nicely on Friday okay so
+[16:00] they didn't erase all the losses but uh
+[16:03] it took some Mojo out of the AI sector
+[16:06] um there was a nice AI rally going on
+[16:09] until that super micro news broke on
+[16:13] Thursday and do you have any insight on
+[16:15] everyone's favorite stock Costco that
+[16:17] was announced last week yeah Costco um
+[16:21] uh missed on sales by 3% the earnings
+[16:25] were uh 4.3% better expected
+[16:29] uh they have raised their membership
+[16:30] fees that's should help the bottom line
+[16:33] and uh I think the main thing about
+[16:35] Costco sales they s a lot of gasoline so
+[16:39] when gas prices come down it slows their
+[16:42] sales down but their same store sales
+[16:44] growth is still stunning stunning last I
+[16:47] looked it was
+[16:48] 6.9% so I'm not worried about Costco at
+[16:52] all but you got to realize they trade on
+[16:55] headlines so the headline would have
+[16:57] said Costco beat on earnings
+[16:59] sales Miss so that would trigger
+[17:02] automatic algorithmic selling so uh that
+[17:06] stock got um hit on Friday and it's a
+[17:09] phenomenal buy now uh it's an example of
+[17:12] one of the many monopolies I like to
+[17:14] own and finally I'd love to ask what are
+[17:17] your stock picks for the
+[17:19] week well you know uh the small cap
+[17:22] stocks are about to go nuts uh they have
+[17:24] been doing very well in this quarter
+[17:26] window dressing and uh my two favorite
+[17:29] um right now would be um vital Farms
+[17:32] it's
+[17:33] vitl uh they basically um are organic
+[17:37] egg producer so when you go to their
+[17:40] website you see lots of happy chickens
+[17:42] laying eggs versus living in a h house
+[17:45] just not being able to move so so if you
+[17:49] like your organic eggs um it's vitl and
+[17:53] their uh sales earnings are forecasted
+[17:55] to go up about over 30% you got to be
+[17:57] careful with chickens
+[17:59] because occasionally they get sick um
+[18:01] but right now vital Farms looks great
+[18:04] chickens are happy and healthy so you
+[18:06] can feel good about the your eggs uh the
+[18:09] other one I I just added was um
+[18:12] elmd electromed they make these vests
+[18:16] that help people breathe uh you know
+[18:18] there's a lot of lingering covid
+[18:20] problems out there and um you know
+[18:23] pulmonary problems are very very serious
+[18:26] so uh you know I've had pneumonia five
+[18:28] times times and the main reason hasn't
+[18:30] been that bad last two times is there's
+[18:32] drugs I walk around with the take
+[18:34] anytime I sense it's coming on and I I
+[18:37] get it from traveling too much but um
+[18:40] you don't ever want to have a pulmonary
+[18:42] problem and um electromed makes these
+[18:45] devices to help people breathe better so
+[18:49] um it's a new stock I added it's a
+[18:51] thinly traded stock uh it did uh take
+[18:54] off on Friday so if you buy you might
+[18:57] want to wait for a little pullback but e
+[18:59] MD is the symbol in that and there's
+[19:02] earnings supposed to be at 50% sales
+[19:04] will be about 7 perfect well Dad thanks
+[19:07] so much for answering all my questions
+[19:10] and thank you to you all for liking and
+[19:11] subscribing and also for your uh
+[19:13] comments and questions again if you want
+[19:15] to ask anything for next week please
+[19:17] leave them down in the comments below
+[19:20] but until then thank you guys so much
+[19:22] and we'll see you all next week
+[19:25] [Applause]
+[19:25] [Music]

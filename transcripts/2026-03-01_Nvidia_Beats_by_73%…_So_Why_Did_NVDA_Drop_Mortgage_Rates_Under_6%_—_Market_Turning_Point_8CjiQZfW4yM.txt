@@ -7,9 +7,459 @@ Type: video
 Duration: 16:44 (1004s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 451
+Transcript characters: 15391
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Nvidia was the grand finale to a
+[00:01] stunning earning announcement season.
+[00:04] Fixed mortgage rates fell below 6% and
+[00:06] the 10-year Treasury bond is now at its
+[00:08] lowest level in 3 years. Are we
+[00:11] teetering on an edge of an interest rate
+[00:13] collapse? Welcome back to Navellier
+[00:15] Market Buzz.
+[00:17] >> [music]
+[00:27] [music]
+[00:29] >> Why did Nvidia not rally after
+[00:31] announcing 73% sales growth, 82%
+[00:34] operating earnings growth, beating
+[00:36] analyst estimates, and then guiding
+[00:38] above the analyst estimates? Well, um,
+[00:41] you know, the stock did rally before the
+[00:44] earnings came out and this has become a
+[00:47] pattern in recent quarters
+[00:49] where they write so many, uh, cover call
+[00:52] options on a stock,
+[00:54] uh, as the Nvidia stock, that sometimes
+[00:57] it the tail's wagging the dog, to be
+[00:59] honest with you.
+[01:01] And so the Citadels, the Jane Streets,
+[01:03] the Virtu Financials, when you write an
+[01:05] option you get free money, but if the
+[01:07] option hits the strike price you have to
+[01:08] deliver the stock. And I think they just
+[01:10] wrote a lot of options and didn't want
+[01:12] to deliver the stock, so they run an
+[01:13] algorithmic system or mean reversion
+[01:15] system to take it down. Now,
+[01:17] um, uh, Jensen, uh, along the, obviously
+[01:21] the founder of Nvidia, he told investors
+[01:23] in a news release that computing demand
+[01:26] is growing exponentially. He says the,
+[01:29] uh,
+[01:29] a genetic AI inflection point has
+[01:31] arrived and, uh, obviously Jensen's very
+[01:34] good for quotes, but he's also
+[01:36] incredibly credible. So I I think, um,
+[01:40] this is mechanical nature, we shouldn't
+[01:42] worry about it. The stock should hit
+[01:44] $300 a share by the end of this year and
+[01:47] $500 by the end of the decade. Uh,
+[01:49] sometime ago I wrote an an opinion piece
+[01:52] in in MarketWatch that, uh, you should
+[01:54] hold Nvidia till the decade because not
+[01:56] only they dominate the region of AI
+[01:58] chips, the Vera Rubin's being rolled out
+[02:00] in the fall and then there'll be another
+[02:02] chip in a couple years and then after
+[02:04] that they'll they'll try to dominate
+[02:07] quantum computing because they've been
+[02:08] having all these
+[02:09] quantum computing contests and they have
+[02:11] a quantum cloud simulator. So, this is a
+[02:13] stock that should be bought any dip and
+[02:15] I don't recommend you anyone sell it. So
+[02:18] now, why are mortgage rates and treasury
+[02:20] bond yields falling? Well, that's a very
+[02:22] interesting conundrum we're in because
+[02:24] we had a PPI report that spooked people
+[02:27] and I need to explain to you what was
+[02:30] happening. I was on Fox Business when
+[02:31] the PPI report came out and I said, "I
+[02:34] think it's trade services distorting
+[02:36] it." And sure enough, as soon as I dug
+[02:37] into the details, that was it. So,
+[02:40] you're showing an exhibit that shows
+[02:42] that trade services were up 1.8% in
+[02:45] December and 2.5% in um January and that
+[02:49] is what why the PPI came in higher than
+[02:51] expected. The good news is wholesale
+[02:54] food prices fell 1.5% in January.
+[02:59] Wholesale energy prices fell 2.7%.
+[03:03] Uh and wholesale good prices fell 3/10
+[03:06] of percent. So, the only thing that's
+[03:08] screwing up the um
+[03:10] the producer price index
+[03:12] is this um services component, which is
+[03:15] new. We didn't have that a few years
+[03:16] ago, the trade services component. So,
+[03:18] when we back away, a good wholesale good
+[03:21] prices have fallen three out of the last
+[03:22] five months and last year they fell I
+[03:24] know at least three months and then
+[03:27] we've got service costs up 8/10 of
+[03:28] percent. So, it was a very confusing
+[03:31] report. Everybody reacted to the
+[03:32] headlines instead of looking at the
+[03:33] details and the bottom line is we have
+[03:35] falling goods prices. That's
+[03:37] deflationary and that's all I care
+[03:39] about. Fortunately, the people in the
+[03:40] bond market were smart enough to see
+[03:42] this. We now have the lowest mortgage
+[03:44] rates in over three years, they're under
+[03:46] 6%. And the 10-year treasury got to 4%
+[03:49] level and uh so that's very very
+[03:51] bullish. So, as rates come down, it will
+[03:53] cause the Fed to cut. I think the Fed
+[03:56] would like to see a weak payroll report
+[03:57] for February. Uh we've been having all
+[03:59] these layoffs being announced, and we'll
+[04:01] see if that shows up in the in the data.
+[04:03] So, now for March, should investors take
+[04:05] profits or accumulate strong stocks on
+[04:08] dips? I would buy on dips, but the
+[04:10] markets do have to have profit taking
+[04:12] every now and then. The question is is
+[04:14] it short-lived? The main thing stocks
+[04:17] need at this juncture is positive
+[04:19] analyst revisions. And because earnings
+[04:21] largely come out, there's a few more
+[04:23] coming out next week that we'll talk
+[04:24] about. The bottom line is that as long
+[04:27] as analysts revise their estimates
+[04:28] higher, that the stocks should be
+[04:30] accumulated. So, I think we're we are
+[04:32] going to consolidate here a bit. Whether
+[04:34] we go sideways or have a correction,
+[04:36] we'll see. You know, the problem is I
+[04:38] don't know these gold stocks to keep
+[04:39] going up uh when the market's going
+[04:41] down. So, some days it can counter
+[04:43] balance everything, some days it
+[04:44] doesn't. But, we have a cushion built
+[04:46] into the portfolio thanks to all those
+[04:48] gold stocks.
+[04:49] >> So, now in the State of the Union
+[04:51] speech, President Trump said the energy
+[04:53] demand for data centers could unfairly
+[04:55] drive up utility costs for many
+[04:57] Americans. So, what is the solution?
+[04:59] Yeah, you know, Trump is a populist, and
+[05:02] this is bothering a lot of people. Um
+[05:04] you know, obviously utility costs have
+[05:06] gone up because we've gotten greener,
+[05:08] but now Trump's turned on that natural
+[05:10] gas spigot, which is the cleanest fossil
+[05:12] fuel you can have. But, the data centers
+[05:14] are tapping in that natural gas, too.
+[05:17] So, there's a perception out there that
+[05:19] electric rates are going up due to the
+[05:21] data centers. But, to be honest with
+[05:23] you, a lot of it is the green solutions.
+[05:25] But, regardless of that, Trump proposed
+[05:28] a taxpayer protection package that would
+[05:31] require many technology companies to
+[05:33] provide their own power and bypass the
+[05:36] the power there. So, Grok did this in
+[05:39] Memphis. He ran a a natural gas line to
+[05:41] the data centers, and the data centers
+[05:43] can be powered by Bloom Energy's natural
+[05:46] gas fuel cells or a turbines from GE
+[05:49] Vernova or Siemens or or Mitsubishi. And
+[05:52] Rock in Memphis they're using turbines.
+[05:54] Most people use turbines, but the
+[05:56] greenest way is these natural gas fuel
+[05:58] cells that Bloom Energy makes.
+[06:00] >> FedEx was the first large company to sue
+[06:02] for tariff refunds in the US Court of
+[06:04] International Trade. With nearly 1,800
+[06:08] companies now suing for tariff refunds,
+[06:10] what could this mean for the trade
+[06:12] deficit and the federal budget?
+[06:14] Well, the budget concerns did not hit
+[06:17] the industry environment. If we knew
+[06:19] that we would have to refund all 170
+[06:22] billion, obviously that would maybe
+[06:24] cause rates to spike. There would be
+[06:26] budgetary concerns, but they they didn't
+[06:28] do that. And I think the main reason is
+[06:30] is Trump doesn't want to give it back.
+[06:32] And the Supreme Court doesn't really
+[06:34] have enforcement capability. They have
+[06:36] this special court in New York to deal
+[06:38] with this. It's going to take forever to
+[06:39] process this. But you got to realize
+[06:41] these tariffs were negotiated with
+[06:42] countries. They have their laws, we have
+[06:44] our our laws. And you know, if they ask
+[06:46] for a refund, guess what? Trump's just
+[06:49] going to up the the new tariff on them
+[06:50] even more. So, it's going to be
+[06:52] interesting to see what actually
+[06:54] unfolds. Now, there are a few more
+[06:55] stocks announcing next week. Let's start
+[06:57] out with a stock that you have under
+[06:59] management, Ciena. Ciena is in our
+[07:02] managed accounts for disclosure reasons
+[07:04] and it's recommended by newsletter.
+[07:06] Their sales are forecast to be up 30.1%.
+[07:09] Uh earnings are supposed to be up 81.6.
+[07:13] Uh we got very strong positive balance
+[07:15] revisions on this stock in the last 3
+[07:17] months. And the last two quarters
+[07:19] they've had pretty big earnings
+[07:20] surprises. So, based on all the other
+[07:22] data center related stocks that have
+[07:24] beaten, I'm sure Ciena's going to beat.
+[07:26] So, this will be the grand finale. Now,
+[07:29] let's switch to consumer spending.
+[07:30] AutoZone tends to do well when consumers
+[07:32] hold on to their cars longer. Are we
+[07:34] still in that repair over replace cycle?
+[07:36] I think so. Their sales are supposed to
+[07:38] be up 9%.
+[07:41] Their earnings are supposed to be down
+[07:43] 3%.
+[07:45] Uh
+[07:45] the analysts have trimmed their
+[07:47] estimates a bit and AutoZone used to
+[07:49] surprise
+[07:51] uh probably cuz they had a lot of stock
+[07:53] buybacks, but they have missed four
+[07:55] quarters in a row. So, I would hope with
+[07:57] that strong sales growth that they would
+[07:59] finally surprise. Hm, but uh we'll see.
+[08:01] And if they do surprise, it'll go back
+[08:03] on my radar, but it's off my radar right
+[08:05] Electronics are big-ticket discretionary
+[08:07] items. Are shoppers upgrading again or
+[08:10] still waiting on the sidelines for Best
+[08:12] Buy? Well, electronics is one of the
+[08:14] durable good orders that um that really
+[08:17] gets sparked. It does help to have a
+[08:19] Super Bowl or a World Cup or something
+[08:21] like that for someone to go out and buy
+[08:24] buy a lot of stuff, but uh Best Buy
+[08:27] um
+[08:28] has really overpowered the electronics
+[08:31] marketing.
+[08:32] And they have beaten the last four
+[08:34] quarters, and this quarter is supposed
+[08:36] to be spectacular. Their sales are
+[08:38] supposed to be down 0.2%.
+[08:40] Uh and earnings are supposed to be down
+[08:42] four, but compared to previous quarters,
+[08:44] these are supposed to be much better
+[08:46] earnings. And um so, they should be
+[08:48] benefiting from holiday shopping. Again,
+[08:50] they have this great surprise history.
+[08:52] Minor analyst trims on this, but I would
+[08:54] expect them to beat it again. Um but
+[08:57] longer term, uh
+[08:58] >> [snorts]
+[08:58] >> people are going to be upgrading the
+[08:59] size of their TVs cuz you know, TCL
+[09:01] makes these huge 98-in 115-in TVs a lot
+[09:05] cheaper than everybody else, and Sony
+[09:06] actually surrendered to TCL.
+[09:09] Uh those two are combining, and
+[09:10] Panasonic surrendered to another Chinese
+[09:12] company.
+[09:14] So, China has decided to dominate TVs,
+[09:16] and everybody will have to upgrade one
+[09:18] day. And if they don't buy it from
+[09:20] Costco, they have to use a
+[09:22] buy it from Best Buy. I would just buy
+[09:23] it from Best Buy and have them install
+[09:25] it cuz the you know, when you get a TV
+[09:27] that's 98 or 115 in, it weighs a few
+[09:29] hundred pounds. Off price has been a
+[09:31] sweet spot. Is Ross still benefiting
+[09:33] from thrifty consumers?
+[09:36] Yeah, I think so because they've
+[09:37] surprised the last four quarters. Their
+[09:38] sales are supposed to be up 8.9%.
+[09:42] Earnings are supposed to be up 15.3.
+[09:44] That's excellent. It means their margins
+[09:45] are expanding.
+[09:47] And uh the analysts have been revising
+[09:48] their estimates higher. And because of
+[09:50] the fuss over tariffs, a lot of people
+[09:52] think
+[09:53] uh some of these companies are going to
+[09:55] get windfalls.
+[09:56] Because they might have paid tariffs
+[09:57] that uh they get refunded thanks to the
+[09:59] Supreme Court. Target has faced margins
+[10:01] and traffic pressures. Are we finally
+[10:03] seeing stabilization? And for their
+[10:06] sake, I hope so. Target sales are
+[10:07] forecast to decline uh 1.4%.
+[10:11] Earnings are forecast to decline 10.6%.
+[10:15] The analyst community um has held their
+[10:17] uh earnings estimates relatively steady,
+[10:19] and this stock has started to surprise
+[10:21] again. So, I really hope so. They've
+[10:23] taken some drastic uh measures to firm
+[10:25] up their profitability, so let's hope
+[10:27] they continue to surprise. But this
+[10:29] stock will always be about guidance and
+[10:31] uh
+[10:32] and um and getting the consumers back in
+[10:34] the store.
+[10:35] >> Abercrombie has been a major turnaround
+[10:37] story. Can the momentum continue? Yes.
+[10:40] Uh their sales are supposed to be up 5%,
+[10:42] 5.2% actually. Uh
+[10:45] earnings are supposed to be only up 0.2.
+[10:48] But the analysts have held their
+[10:50] estimates relatively steady, and last
+[10:52] quarter they had a 9.8% surprise. So, I
+[10:55] have a lot of hope for this stock, and
+[10:57] we'll see. But, you know, they they deal
+[10:59] with very smart, sophisticated
+[11:01] consumers, and we'll see if they're
+[11:03] still giving them what they want. When
+[11:05] they you get the tariff rebate on a lot
+[11:07] of clothes they sold. Costco's
+[11:08] membership model has been incredibly
+[11:10] resilient. Is pricing power still
+[11:12] intact?
+[11:14] Yeah, their same-store sales growth is
+[11:16] stunning. Now, just for disclosure, I
+[11:18] sold Costco. Your mom still has it in
+[11:20] her personal account. And a lot of
+[11:22] people are wondering why did I sell
+[11:23] Costco? Couple of clients made me buy it
+[11:25] back. The main reason is is just the
+[11:27] absolute
+[11:29] earnings growth isn't as strong.
+[11:31] But uh their sales are supposed to be up
+[11:33] 8.7%. That's outstanding and uh their
+[11:36] earnings are supposed to be up 12.6.
+[11:38] That means their their margins are still
+[11:39] expanding. Now, the analysts have
+[11:41] revised their estimates slightly higher
+[11:43] and last quarter they had a 5.4%
+[11:45] surprise. So, everything's tracking well
+[11:47] for Costco. The only disappointment they
+[11:49] could have is this is a major gasoline
+[11:52] retailer and gas prices have come down.
+[11:54] So, sometimes that curtails their sales
+[11:56] growth just a bit just cuz of cheaper
+[11:57] gas prices. But, um
+[11:59] let's face it, Costco knows what it's
+[12:01] doing and I I'm hoping for a good report
+[12:04] cuz your mom owns the stock.
+[12:05] >> Groceries are a necessity, but are
+[12:07] margins holding up as food inflation
+[12:09] cools? Well, Kroger's very, very well
+[12:11] run, but you know, let's face it. They
+[12:13] they have increasing competition from
+[12:15] Sprouts Farmers Market. Aldi would be
+[12:17] another example. Their sales are
+[12:19] supposed to be up 2.2%.
+[12:21] Uh their earnings are supposed to be up
+[12:22] 5.2.
+[12:24] Um
+[12:25] the analysts have held their estimates
+[12:26] pretty steady in the last uh
+[12:28] couple months, but when this company
+[12:30] does surprise, it's not big. Last
+[12:31] quarter it was about 1.7%.
+[12:34] So,
+[12:35] I would hope they'd surprise guide
+[12:36] higher, but um
+[12:38] you know, it's not going to be in my
+[12:39] portfolio cuz they just have too much
+[12:41] competition. Now, let's switch over to
+[12:42] AI and infrastructure. For CrowdStrike,
+[12:45] cybersecurity is mission-critical. Is
+[12:47] enterprise spending still strong enough
+[12:49] to justify the premium valuation? All
+[12:51] right, this is the premium uh
+[12:53] cybersecurity company out there. Palo
+[12:56] Alto Networks Networks would be the
+[12:57] other one and uh CrowdStrike does a lot
+[13:00] of protection for the cloud. Their sales
+[13:02] are supposed to be up at 22.6%.
+[13:05] Uh their earnings up seven, so that
+[13:07] means their margins are are are
+[13:09] compressing because their earnings
+[13:10] aren't growing as fast as sales. We do
+[13:12] have slightly positive analyst earnings
+[13:14] revisions, but last quarter they only
+[13:16] surprised by 2%. Before that, they used
+[13:19] to have bigger surprises. So, I am not
+[13:21] that excited about CrowdStrike, even
+[13:23] though I expect them to beat. It just
+[13:24] doesn't have the sales Well, it has the
+[13:26] sales, it doesn't have the earnings
+[13:27] growth I demand. And the margins are
+[13:29] under compression. So, such is life.
+[13:31] Broadcom has become a key AI
+[13:33] infrastructure player. How much of that
+[13:35] growth is already priced in? It is. The
+[13:37] stock's doing very well.
+[13:39] Their sales are up
+[13:41] 28.1%.
+[13:43] Earnings are forecast to be up
+[13:46] 26.2.
+[13:48] We have positive analyst revisions.
+[13:51] And last quarter they had a pretty big
+[13:52] surprise, 4.4%.
+[13:55] Before that, the surprises were
+[13:57] small. So, yeah, this is a very reliable
+[13:59] company. Should beat. So, I have no
+[14:03] evidence that they won't. Marvell is
+[14:05] deeply tied to AI networking and data
+[14:07] centers. Are we seeing acceleration or
+[14:09] digestion here? Well, Marvell's really
+[14:12] interesting. Their sales are supposed to
+[14:14] be up 21.4.
+[14:15] Earnings are supposed to be up 32.
+[14:17] That's excellent. It means the margins
+[14:19] are expanding. They've held their
+[14:21] earnings estimates very steady. They had
+[14:22] a 3% surprise last quarter. So, they
+[14:24] definitely look like they're up and
+[14:26] coming. And
+[14:27] if they have a big surprise, they'll be
+[14:29] on my radar. Finally, let's talk about
+[14:31] Norwegian Cruise Line. Are people still
+[14:33] prioritizing travel? Norwegian Cruise
+[14:35] Lines, their sales are supposed to be up
+[14:37] 11.3%. Their earnings are supposed to be
+[14:40] up only two. But analysts have cut
+[14:42] estimates and they had a 3.3% surprise
+[14:44] last quarter.
+[14:45] People might be trying to take cruise
+[14:47] ships more because of all that unrest in
+[14:49] Mexico when they killed the cartel king.
+[14:53] By the way, when I was through Denver
+[14:55] Airport the other day, the the flights
+[14:56] to Mexico were back on to the resort
+[14:58] areas that were burning up briefly. So,
+[15:02] but people just might feel safer in a
+[15:04] crowd or staying in a cruise ship versus
+[15:06] a destination hotel. So, we'll see. You
+[15:09] know, I have Royal Caribbean, RCL, it's
+[15:11] doing great. And Norwegian hasn't been
+[15:13] doing anywhere near as strong. So,
+[15:15] hopefully that their business will pick
+[15:16] up, too. This is not in our portfolio,
+[15:19] though, NCLH.
+[15:21] Perfect. Well, thank you all so much for
+[15:22] joining us this Sunday. We hope you
+[15:24] enjoyed this week's video. If you have
+[15:26] any questions that you want us to answer
+[15:27] in this Wednesday's midweek update,
+[15:29] please let us know. But, until then, we
+[15:31] will see you this week for a new
+[15:53] >> [music]
+[16:02] [music]
+[16:10] [music]
+[16:35] [music]

@@ -7,9 +7,32 @@ Type: short
 Duration: 0:51 (51s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 24
+Transcript characters: 837
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Anyone watching this is thinking this
+[00:01] kind of sounds like 1999. B spoke out
+[00:04] with a chart recently. Are we near the
+[00:06] top?
+[00:06] >> No, that chart shows internet boom that
+[00:09] was started by Netscape and the AI boom
+[00:13] that was started by chat GPT and you can
+[00:15] see where we're living it. So there's a
+[00:18] debate are we in 1998 or 1999? I'm just
+[00:22] following that chart. We got a long ways
+[00:24] to go.
+[00:25] I'm planning to be up another 30-40%
+[00:28] between now and the end of the year
+[00:30] because I know I've got phenomenal sales
+[00:32] and earnings in my the pipeline. Next
+[00:34] year you would think we'd have more
+[00:35] difficult year-over-year comparisons.
+[00:37] You know, we have good GDP growth. We
+[00:39] have a growing economy and again, we
+[00:41] have all those record order backlogs
+[00:43] that they'll still be working off next
+[00:44] year. I'm very very bullish and I think
+[00:47] we have a lot of money we can make
+[00:49] between now and the end of the year.

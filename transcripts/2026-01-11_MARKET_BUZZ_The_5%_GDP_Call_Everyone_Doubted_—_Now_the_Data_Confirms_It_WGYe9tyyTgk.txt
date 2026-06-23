@@ -7,9 +7,410 @@ Type: video
 Duration: 16:12 (972s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 402
+Transcript characters: 14332
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] CES delivered a boost for technology.
+[00:02] Earning season kicks off next week. And
+[00:04] Louis's prediction of 5% GDP growth on
+[00:07] Maria Bartoromo's show on Fox Business
+[00:10] has come to fruition after the Atlanta
+[00:12] Fed raised its fourth quarter GDP
+[00:14] estimate to a 5.4 annual rate. Let's
+[00:19] dive in. Welcome back to Navier Market
+[00:20] Buzz.
+[00:23] [music]
+[00:32] >> [music]
+[00:35] >> And be way before the Atlanta Federal
+[00:37] Reserve reported 5.3% growth, it was
+[00:40] that man right there in the middle of
+[00:41] your screen, Louis Naval, who told us on
+[00:44] this program to expect 5% economic
+[00:46] [clears throat] growth. And Louie,
+[00:47] thanks for that because when you said
+[00:49] that to me, I thought, "Wow, that is a
+[00:51] big number. I can't believe he's
+[00:52] modeling his investing around this
+[00:54] expectation of 5%. But you were right.
+[00:58] Spot on.
+[00:58] >> Dad, congratulations. How are you able
+[01:01] to see the surge in GDP growth before it
+[01:03] showed up in the data?
+[01:04] >> Well, to be honest with you, it was just
+[01:06] largely due to the booming exports. This
+[01:08] is the second month in a row that our
+[01:11] pharmaceutical exports are um causing
+[01:14] the trade deficit to collapse. It's the
+[01:16] lowest now in 16 years. And um you know
+[01:19] I saw that on shoring obviously and if
+[01:22] we ever um get oil prices higher the
+[01:24] deficit will disappear because the US is
+[01:27] a huge exporter of not only crude oil uh
+[01:30] liqufied natural gas and all kinds of
+[01:32] refined products. So this onshoring is
+[01:35] really what's doing it. Now there was
+[01:36] one other uh thing uh productivity
+[01:38] surged the highest level in 5 years. And
+[01:40] now whether that's AI making all the
+[01:42] workers more efficient or the fact that
+[01:44] the hiring is kind of weak right now.
+[01:47] So, you know, as you have more senior
+[01:49] workers, they tend to be more
+[01:50] productive, but the productivity gains
+[01:52] also boost in the GD report. So, what's
+[01:54] amazing is is we're having this
+[01:56] incredible GDP growth with the
+[01:58] manufacturing side of our economy down
+[02:01] for the last 10 months. And not only we
+[02:03] have to fix manufacturing, we have to
+[02:05] fix the housing market. And President
+[02:07] Trump has made some proposals to try to
+[02:10] fix the housing market. He's intervening
+[02:12] in the in the mortgage market, buying a
+[02:14] bunch of mortgage bonds. So if he we can
+[02:17] fix housing, we will almost approach 7%
+[02:20] GDP growth. So there's a lot of exciting
+[02:23] things. Now I should add one thing on
+[02:25] manufacturing. Only two of the 17
+[02:27] industries that ISM surveyed were up in
+[02:29] the past month, but they were electrical
+[02:32] equipment and computers, which means
+[02:35] data centers. So the economy is still
+[02:38] overly dependent upon data centers, but
+[02:40] we I just got a tax cut in the new year
+[02:42] that's going to put more money in
+[02:43] people's pockets and what we call the
+[02:45] velocity of money. How fast money
+[02:46] changes hand should go up. So there's a
+[02:49] lot of hope uh as the new year arrives.
+[02:51] >> Now CES often acts as a catalyst for
+[02:54] technology stocks. Did we see that
+[02:56] effect in the market this past week?
+[02:58] >> Yes, our friends at Bpoke did a report
+[03:00] that showed how um the technology sector
+[03:03] was boosted by CES. So there's no doubt
+[03:07] that CES kind of lights a fuse under a
+[03:10] lot of our great tech stocks. Of course,
+[03:11] Nvidia was dominating the CES news with
+[03:14] its new Vera Ruben chip that will be
+[03:17] five times more powerful and and 10
+[03:19] times more energy efficient. And of
+[03:21] course, they announced it's underway. In
+[03:24] fact, TSM um the manufacturer of those
+[03:27] Vera Rubin chips just announced their
+[03:29] sales in the latest month are up 20.4%.
+[03:32] So that's just that's just great news.
+[03:34] So CS was very very upbeat and uh in
+[03:37] addition to all the AI and robotics and
+[03:41] self-driving news, the other news was
+[03:44] the TVs keep getting bigger and bigger
+[03:46] and bigger. And last year there was a
+[03:48] lot of manufacturers had 115in TV. Now
+[03:51] Samsung has 130in TV that everybody's
+[03:54] going to copy. When you go watch the
+[03:56] football playoffs, try to in the college
+[03:58] playoffs as well. Try to have a friend
+[04:00] with the big TV. You were on the Fox
+[04:02] Business panel this past Friday as the
+[04:04] December payroll report was released.
+[04:07] What's your assessment on the job market
+[04:08] and its implications for Fed policy?
+[04:11] >> Well, the big news is uh not so much the
+[04:14] jobs uh came in less than expected. They
+[04:17] were 50,000. The Wall Street Journal
+[04:19] survey was 73,000 and and the
+[04:21] unemployment rate did drop to 44 down
+[04:23] from a revised 4 and a.5% in November.
+[04:27] But the big news were the downward
+[04:28] revisions to uh November and um October.
+[04:32] Specifically, in October, they reported
+[04:34] that 173,000 payroll jobs were lost.
+[04:37] Now, that was during the government
+[04:38] shutdown, but that's a big downward
+[04:40] revision. There's one other thing. The
+[04:42] Labor Department not that long ago said
+[04:45] the the payroll numbers for April 2024,
+[04:49] March of 2025 are going to be revised
+[04:52] down in the upcoming months. So what
+[04:55] happens at the labor department is
+[04:57] sometimes people have two jobs. So they
+[04:59] count one person twice. And so there's
+[05:01] going to be some massive massive
+[05:03] downward revisions. And that's going to
+[05:05] allow the Fed to keep cutting rates
+[05:07] because their job is to promote
+[05:10] employment as long as there's no
+[05:12] inflation. And we don't have inflation
+[05:13] right now. We're going to get that uh in
+[05:15] the numbers here. So this is very
+[05:17] exciting news. And Steve Moran called
+[05:19] for 150 base points of rate cuts on
+[05:22] Bloomberg. Scott Bessett's calling for
+[05:24] more rate cuts. Obviously, uh, President
+[05:26] Trump will announce his new his pick for
+[05:29] new Fed chairman and, uh, he'll be
+[05:31] pushing for more rate cuts. So, um, the
+[05:34] stock market's going to get a tub boost
+[05:36] from all this and this is all great
+[05:38] news.
+[05:39] >> You mentioned that Governor Steven Moran
+[05:41] was openly calling for an aggressive
+[05:43] rate cut. How meaningful are these
+[05:44] comments?
+[05:45] >> Well, he he was Trump's pick. Okay. One
+[05:48] of the the Federal Reserve governors
+[05:50] resigned and and Steve Moran was his
+[05:52] pick. He came from the Council of
+[05:53] Economic Advisors. He's working with
+[05:55] Kevin Hasset. And um you know, so he's
+[05:58] pushing the Trump agenda on the Fed, but
+[06:00] what I like about Steven Moran is he has
+[06:03] an economic model as is Christopher
+[06:05] Waller. And the flaw with the Fed has
+[06:08] been they've been driving through the
+[06:09] rearview mirror. They react instead of
+[06:11] think. Okay? And I think it's about time
+[06:14] we get people on the Federal Reserve
+[06:16] that have good economic models instead
+[06:18] of driving through the rearview mirror.
+[06:20] So, Christopher Waller saw the the
+[06:22] decline in the labor market. Steven
+[06:24] Moran sees a decline in inflation and um
+[06:27] hopefully we're going to have a Fed
+[06:28] chairman with a great economic model. Uh
+[06:31] they then they have to convince the
+[06:32] other Fed governors to follow that
+[06:34] model. And so I for one will welcome
+[06:37] Jerome Pal's retirement. He can
+[06:39] technically stay on the Fed. I would
+[06:42] hope he would resign and retire. You
+[06:45] know, if he doesn't, Steven Moran might
+[06:47] have to give up his seat for the new Fed
+[06:49] chairman. So, it would be good to have
+[06:51] Steven Moran and the new Fed chairman on
+[06:53] the Fed with Jerome Pal retiring, but
+[06:56] that's going to be up to Jerome Pal.
+[06:57] >> When do you expect Trump to announce his
+[06:59] pick for the next Fed chairman?
+[07:01] >> Well, Trump controls the the news wires.
+[07:04] Okay. And obviously, he's been very
+[07:06] busy. As we record today, a fifth oil
+[07:09] tanker has been boarded. He's been
+[07:11] bragging about, you know, he now
+[07:13] controls the Venezuela oil. Marco Rubio
+[07:16] and his team are in charge of Venezuela.
+[07:18] Apparently, they released a bunch of
+[07:19] prisoners in Venezuela today. So, that
+[07:21] was good news. But he's controlling the
+[07:23] newswire. He's also taunting Iran
+[07:25] because, you know, Iran has all the
+[07:26] protests and uh there's we'll see if the
+[07:29] Mullas fall. If if there's a leadership
+[07:32] change in Iran, that's going to be great
+[07:33] because Iran's a sponsor of terrorism,
+[07:37] you know, with Hezbollah, Hamas, and all
+[07:39] kinds of other proxies. And um and then
+[07:43] we hopefully we'll get a peace dividend
+[07:45] in the Middle East. And then hopefully
+[07:47] we'll Ukraine and Russia will stop
+[07:48] fighting as well. Um the the main thing
+[07:52] is that he doesn't want to announce the
+[07:54] Fed chairman until he has a good window
+[07:58] uh to promote this uh the new Fed
+[08:01] chairman because he's got to get
+[08:02] congressional approval. And you know,
+[08:05] our president loves to torment people,
+[08:08] okay? And and so after the decisive
+[08:11] military action to to get Maduro, uh
+[08:14] he's now openly talking about buying
+[08:16] Greenland. and our European allies are
+[08:19] furious and they in fact they just
+[08:20] pulled out of 30 um things with the UN
+[08:24] that's got them mad. Most of them were
+[08:26] were green energy commissions and
+[08:28] committees and um so he just has to have
+[08:31] a window. So I'll give you an example.
+[08:33] If um next week uh Taylor Swift and
+[08:36] Travis Kelce announce their wedding
+[08:38] date, they're going to dominate the news
+[08:40] me media and until that dies down, Trump
+[08:43] will have to be quiet. So, but right now
+[08:45] Trump will pick his window and he's a
+[08:48] master of again dominating the news the
+[08:51] newswires.
+[08:52] >> Let's turn to earnings season. Let's
+[08:54] start out with JP Morgan. What do you
+[08:56] expect for their report?
+[08:57] >> Well, first of all, there's a lot of
+[08:59] banks coming out next week and I don't
+[09:01] want to talk about all of them because
+[09:03] you're going to get bored hearing what
+[09:05] I'm saying, but we are going to talk
+[09:07] about two of the most important which is
+[09:08] JP Morgan and Morgan Stanley. But all
+[09:11] the banks are being aided right now by a
+[09:14] steeper yield curve and we can thank
+[09:16] Treasury Secretary Scott Besset for
+[09:18] that. The bank profitability should be
+[09:19] very good across the board. Now in JP
+[09:22] Morgan's case, their uh revenues are
+[09:24] forecast to grow uh 8.1%.
+[09:28] Their earnings are forecast to grow
+[09:29] 4.7%.
+[09:31] Uh this is the biggest bank in America.
+[09:35] Jaime Diamond is, in my opinion, more
+[09:37] powerful than the Federal Reserve
+[09:38] chairman. And so his comments are going
+[09:40] to be very, very important. So I do
+[09:42] expect JP Morgan to surprise. We want to
+[09:44] look at the loan loss reserves to see if
+[09:47] they're increasing them, but as interest
+[09:49] rates come down, uh it should help with
+[09:51] the loan loss reserves. And um Jaime is
+[09:53] kind of a notoriously grumpy, but
+[09:55] hopefully he'll be more upbeat for a
+[09:57] change.
+[09:57] >> And what about Morgan Stanley?
+[09:58] >> Well, Morgan Stanley is more of an
+[10:00] investment banking firm. uh their
+[10:03] revenues forecast to go up 9.1%.
+[10:06] The earnings are forecasted to go up 8%.
+[10:09] Uh there's some positive balance
+[10:11] earnings provisions. So the company
+[10:12] should post a good surprise. Their third
+[10:14] quarter surprise was huge. So um I think
+[10:17] they're going to surprise due to
+[10:18] underwriting and investment banking
+[10:20] revenue. Morgan Stanley is a very
+[10:22] interesting firm because McKenzie, the
+[10:24] consulting firm, basically took it over
+[10:26] years ago and they hired this guy Mike
+[10:28] Baker to be their strategist. And Mike
+[10:30] Baker for several years told her to get
+[10:32] out of stocks. And what happened is
+[10:34] Morgan Stanley then led the charge into
+[10:37] private credit $3 trillion year industry
+[10:41] and as well as alternative investments
+[10:42] like private equity. So it's interesting
+[10:45] that uh one of the the biggest firms on
+[10:47] Wall Street doesn't doesn't sell stocks
+[10:49] like they used to or sell managed
+[10:51] portfolios like and things like they
+[10:53] used to. Instead, they're selling much
+[10:54] more profitable things like private
+[10:56] credit and private equity. So, I'll be
+[10:59] interested to see how that business is
+[11:01] doing as well. Private credit had a bit
+[11:03] of a stutter step uh with the Blue Owl
+[11:06] news that they might merge a fund.
+[11:07] People could lose some money, but they
+[11:09] call off that merger, but Morgan Stanley
+[11:11] is obviously one of the the biggest
+[11:13] catalysts behind the private equity and
+[11:16] private credit push. So, I want to see
+[11:18] how that affects their bottom line.
+[11:19] >> Turning to Delta Airlines, what's your
+[11:21] outlook for airlines this earning
+[11:22] season?
+[11:23] >> Their sales are supposed to go up 8/10
+[11:24] of a percent. Their earnings supposed to
+[11:26] go down uh 15.2. There's some analyst
+[11:28] cuts, but Delta has a very good earning
+[11:31] surprise history. They have a hub that
+[11:34] well, they have multiple hubs, but their
+[11:35] hubs tend not to get disrupted by
+[11:37] weather as much as other airline hubs,
+[11:40] even though they have Minneapolis and
+[11:41] Salt Lake and snow areas. So, I think
+[11:44] they're going to surprise. Also, fuel
+[11:46] costs are way down. Okay. So, I'm
+[11:49] expecting a good report from um Delta
+[11:52] Airlines. I'm not sure they'll post a
+[11:53] positive earnings announcement, but they
+[11:55] they're going to be analysis estimates.
+[11:56] And finally, Taiwan Semiconductor. Why
+[11:59] is this one of the most important
+[12:01] earnings report of the quarter?
+[12:02] >> Well, because they make the Nvidia
+[12:05] chips, uh the Blackwell chip, the Vera
+[12:07] Rubin chip, they just announced a 20.4%
+[12:10] increase in sales. Now, for the fourth
+[12:13] quarter, the whole fourth quarter, uh
+[12:14] the analyst forecasting 17.7% forecast
+[12:17] sales growth, 30.3% forecast earnings
+[12:20] growth. There's positive analyst
+[12:22] revisions. Company has a very strong
+[12:24] earning surprise history. So, I'm
+[12:26] expecting a nice surprise. I'm expecting
+[12:28] guidance that's going to be great. And
+[12:30] um and we would like to know if if
+[12:33] Taiwan Semi is building Nvidia's new
+[12:36] GPUs um the Ver Rubin in Arizona in
+[12:41] addition to Taiwan. So, you know that we
+[12:44] are on shoring this and uh trying to
+[12:46] move from Taiwan to Arizona, but right
+[12:48] now both plants have to operate at near
+[12:50] full capacity.
+[12:51] >> Let's switch to some subscriber
+[12:52] questions. What are your thoughts on
+[12:54] SanDisk versus Nvidia and how do you
+[12:56] think GPUs versus TPUs compare?
+[12:59] >> Uh there is no comparison. SanDisk is
+[13:03] solid state memory and um and uh
+[13:08] obviously the the best performing stock
+[13:10] last year was Western Digital and uh
+[13:14] they make the memory that goes into the
+[13:16] data centers and we buy you know Western
+[13:19] Digital memory sticks and disc drives
+[13:22] and things. Uh my big bet in that area
+[13:25] is Seagate Technology STX, but uh
+[13:28] SanDisk is a is a obviously a very
+[13:30] respected player, but again it it
+[13:32] doesn't really compete with Nvidia at
+[13:34] all.
+[13:34] >> And lastly, another subscriber asks
+[13:36] about PSIX. What kind of earnings report
+[13:39] would it take for the stock to move
+[13:40] meaningfully higher? And should
+[13:42] investors expect continued choppiness in
+[13:44] the meantime?
+[13:45] >> Yeah, there's two very small companies
+[13:48] that have been benefiting from the data
+[13:49] center boom. One is AGX and the other
+[13:52] one is PSIX. And because these are small
+[13:55] cap stocks, they are very bunnylike.
+[13:58] They sit, they hop, they're very
+[14:00] erratic. And PSIX also is very busy in
+[14:04] the oil service sector. You know, all
+[14:06] the the fracking and everything gets
+[14:08] done out there. Um so they're helping
+[14:10] the data centers, they're helping the
+[14:12] oil industry with all their
+[14:13] infrastructure. PSIX is which which is
+[14:17] Power Solutions International. their um
+[14:19] earnings momentum has peaked and I think
+[14:22] that's why some investors are are
+[14:25] nervous because if it only posts 30%
+[14:28] sales growth instead of 36% people get
+[14:31] seem to get upset but um when companies
+[14:34] have very strong sales and earnings and
+[14:36] especially when they saw profit margin
+[14:37] expansion I tend to stick with them and
+[14:40] the data center business is getting
+[14:41] bigger and bigger it's a lot of this
+[14:43] incredible GDP growth that was just
+[14:44] announced
+[14:45] >> well lots of exciting news this week
+[14:47] thank you all so much for watching.
+[14:49] Please give this video a like and
+[14:51] subscribe if you haven't already. Drop
+[14:53] any questions that you have in the
+[14:54] comments below. But we will see you all
+[14:57] next Wednesday for a midweek update.
+[14:59] Thanks so much everyone.
+[15:15] >> [music]
+[15:22] [music]
+[16:02] [music]
+[16:07] [music]

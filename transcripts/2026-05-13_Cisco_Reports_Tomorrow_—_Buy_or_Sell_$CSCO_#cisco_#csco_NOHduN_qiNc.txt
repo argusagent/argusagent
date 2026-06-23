@@ -7,9 +7,30 @@ Type: short
 Duration: 0:47 (47s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 22
+Transcript characters: 807
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Cisco reports tomorrow. Enterprise
+[00:02] spending has been weak, but their AI and
+[00:04] subscription transition could be the
+[00:06] story. Yeah, you know, Cisco's still a
+[00:08] networking company and their sales are
+[00:10] supposed to be up by 10%. Obviously,
+[00:12] everything that's happening with data
+[00:13] centers still does help them. Okay.
+[00:16] Their earnings are only supposed to be
+[00:17] up by 7.9%, but their earnings estimates
+[00:20] have been very steady for the stock. I
+[00:22] think if there's anything annoying about
+[00:24] Cisco, it's how it always surprises by,
+[00:27] you know, 2 cents every quarter. Okay?
+[00:30] And it's just it's not a stock that's
+[00:32] going to have a massive surprise and
+[00:34] surge higher. But just so you know, the
+[00:36] last two quarters they surprised by 2
+[00:38] cents, three quarters ago was 1 cent,
+[00:41] four quarters ago was 4 cents. So, tiny
+[00:43] surprises, steady growth, that's what
+[00:46] Cisco's all about.

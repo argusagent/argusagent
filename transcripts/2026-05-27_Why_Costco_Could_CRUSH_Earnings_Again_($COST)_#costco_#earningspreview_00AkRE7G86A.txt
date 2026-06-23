@@ -7,9 +7,35 @@ Type: short
 Duration: 0:55 (55s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 27
+Transcript characters: 903
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Costco reports this week, does the
+[00:01] warehouse model actually win when
+[00:03] consumers get cautious? Well, yeah.
+[00:05] Basically, when consumers are worried
+[00:08] about gas prices and things like that,
+[00:10] that just means their Costco trips will
+[00:12] be bigger than ever. And their sales are
+[00:15] supposed to be up to 10.1%.
+[00:17] Their earnings are supposed to be up
+[00:18] 16.3%.
+[00:20] We have positive analyst revisions, very
+[00:22] consistent upward revisions under
+[00:24] Costco. My only caution is last quarter
+[00:27] they only surprised by 7/10 of a
+[00:28] percent, and we want to see great
+[00:30] same-store sales growth. Obviously,
+[00:32] Costco's selling a lot of gas at these
+[00:34] prices cuz Costco's the best gas prices.
+[00:37] Costco's bottom line has been boosted by
+[00:40] more Kirkland brand items. You know,
+[00:42] there's Kirkland wine, there's Kirkland
+[00:44] olive oil, there's basically Kirkland
+[00:47] everything, even golf balls, they golf
+[00:48] clubs now.
+[00:50] They They make a lot of things branded
+[00:51] Kirkland. That's been fueling their
+[00:54] their earnings.

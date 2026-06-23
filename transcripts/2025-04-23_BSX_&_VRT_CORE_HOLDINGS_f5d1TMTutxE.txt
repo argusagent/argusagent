@@ -7,9 +7,37 @@ Type: short
 Duration: 1:15 (75s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 29
+Transcript characters: 1030
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] This is Lou Avalier. If you need any
+[00:02] proof that earnings work, you don't have
+[00:05] to look farther than Boston Scientific.
+[00:07] That's
+[00:08] BSX. They beat Allen's expectations.
+[00:11] They got it higher. So, guess what?
+[00:13] They're gapping up. Another stock,
+[00:15] Verdive Holdings, beat and said the
+[00:19] demand for the AI data centers is very
+[00:21] strong. That will not only lift this
+[00:23] stock which is supposed to gap up over
+[00:25] 17% at the opening, it will lift every
+[00:29] technology stock, every stock involved
+[00:32] in um building out the utility grid. So
+[00:35] this was big news for Vertive Holdings.
+[00:38] The symbol is VRT. These are core
+[00:41] holdings and our managed accounts. So
+[00:43] we're very proud of this. Uh one last
+[00:45] comment. Um a lot of people think the
+[00:48] markets are manipulated. Okay. And uh
+[00:51] the markets clearly overreact all the
+[00:54] time. But President Trump is now in the
+[00:56] money management business that was
+[00:58] announced uh just a week ago on uh True
+[01:02] Social. And uh I think he wants the
+[01:06] market to go up. Okay. And of course, he
+[01:08] said some positive things yesterday that
+[01:11] will continue to extend the the rebound
+[01:13] that we're in right

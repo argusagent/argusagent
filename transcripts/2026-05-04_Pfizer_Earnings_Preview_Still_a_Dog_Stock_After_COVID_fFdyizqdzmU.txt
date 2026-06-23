@@ -7,9 +7,24 @@ Type: short
 Duration: 0:33 (33s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 16
+Transcript characters: 492
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Seems like Pfizer has been left dead
+[00:02] since COVID. Can they prove the doubters
+[00:04] wrong? No. Pfizer,
+[00:07] in my opinion, is a dog with fleas.
+[00:10] Um,
+[00:11] its sales are only supposed to be up
+[00:12] 6/10 of a percent. Earnings is supposed
+[00:14] to decline 21.6.
+[00:16] Minor analyst trims from
+[00:18] uh 75 cents to 72 cents last 90 days.
+[00:22] With that said, it had it has big
+[00:23] surprises. But again, there's no sales
+[00:26] or earnings growth that to be proud of.
+[00:28] Maybe they'll blow it out of the park
+[00:29] and guide higher, but
+[00:31] I'm not interested in this stock at all.

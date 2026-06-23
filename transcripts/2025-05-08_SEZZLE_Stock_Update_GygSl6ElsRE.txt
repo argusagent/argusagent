@@ -7,9 +7,29 @@ Type: short
 Duration: 0:52 (52s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 21
+Transcript characters: 651
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Well, it's a big day for Sel. The
+[00:02] stock's revenue soared
+[00:05] 123.3%. The earnings soared
+[00:09] 284.6%. That was a 62% revenue surprise
+[00:13] and a whopping
+[00:17] 390% earning
+[00:19] surprise. You might wonder, how do we
+[00:21] find stocks like this? It's simple. Go
+[00:24] to our stock grader. Now, Szo was
+[00:26] something special. In addition to
+[00:28] getting of course an A rating which is a
+[00:30] strong buy, it had a fundamental A and
+[00:33] that means it was in the top 20% of
+[00:35] sales, margin expansion, earnings
+[00:37] stability, earnings momentum, cash flow,
+[00:40] return equity, balance earnings
+[00:41] provisions and earnings
+[00:43] surprises. That's how we found it. So
+[00:46] use Stock Raider, it's click on the
+[00:48] links below. It's there for you. It's
+[00:50] entirely free.

@@ -7,9 +7,24 @@ Type: short
 Duration: 0:35 (35s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 16
+Transcript characters: 558
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Best Buy reports this week. Is this a
+[00:01] company worth watching?
+[00:03] >> I think so. Uh their sales are supposed
+[00:04] to be up 7/10 of a percent. Their
+[00:07] earnings are supposed to be up 6.7%.
+[00:09] There are no analyst estimate changes on
+[00:12] the stock for the last 90 days, but the
+[00:14] stock does have a good surprise history.
+[00:17] And let's face it, they dominate
+[00:18] electronics retailing. Most guys are
+[00:22] going to want to upgrade their TVs. 98
+[00:25] inches were big last year, now it's 115
+[00:27] inches. I I realize you're in New York,
+[00:30] but uh when you move to suburbia, you
+[00:31] will notice that everybody's getting
+[00:33] bigger TVs.

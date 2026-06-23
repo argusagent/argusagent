@@ -7,9 +7,36 @@ Type: short
 Duration: 1:04 (64s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 28
+Transcript characters: 1035
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] But it it does look as though the
+[00:02] technologies we have, including AI, but
+[00:04] not only AI, are increasing
+[00:06] productivity. I think every company over
+[00:08] the past couple of years has basically
+[00:11] decided to freeze their headcount, their
+[00:13] payrolls while they assess how AI can
+[00:16] make a difference to their operations.
+[00:18] And I think they're going to find that
+[00:20] it it, you know, it's kind of hit and
+[00:22] miss. Some areas it can really be
+[00:24] helpful. Other areas it's not ready for
+[00:26] prime time. But everybody's looked at
+[00:28] their operation top to bottom and I
+[00:30] think that's that's a good thing to do
+[00:32] every now and then if you want to
+[00:33] increase productivity. So I think
+[00:35] productivity growth could be 3% uh to
+[00:39] maybe three and a half% this year in the
+[00:42] next couple of years. I've been calling
+[00:44] it the roaring piece based on the idea
+[00:46] that productivity would in fact increase
+[00:48] because technological innovations would
+[00:51] allow us to augment the productivity of
+[00:53] workers and workers with the skills we
+[00:55] need are uh in short supply. So, we need
+[00:58] the the productivity tools to make our
+[01:00] our workers more more efficient.

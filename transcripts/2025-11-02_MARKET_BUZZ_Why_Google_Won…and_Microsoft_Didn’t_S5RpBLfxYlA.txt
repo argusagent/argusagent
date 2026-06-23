@@ -7,9 +7,599 @@ Type: video
 Duration: 22:50 (1370s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 591
+Transcript characters: 20624
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] What a week for markets. Tech giants are
+[00:02] soaring, yields are climbing, and
+[00:04] geopolitics are stirring things up
+[00:06] again. Let's break it all down. Welcome
+[00:09] back to Navier Market Buzz.
+[00:12] [music]
+[00:22] [music]
+[00:23] In the wake of the surge in Google and
+[00:26] Nvidia, isn't the stock market
+[00:28] overbought?
+[00:28] >> Yes. Uh you're showing an oscillator
+[00:31] from BSpoke that uh shows were
+[00:33] overbought and that oscillator came out
+[00:36] before Amazon and Apple surprised and
+[00:40] then Netflix announced 10 for one split.
+[00:42] So it's resurging. So yeah, we are
+[00:45] grossly overbought right now, but that's
+[00:47] okay because everybody's guiding higher.
+[00:50] It's not a perfect market. You know, if
+[00:51] you don't beat, you know, you get shot,
+[00:53] but then you know, good stocks bounce.
+[00:56] So, we'll be fine-tuning things at the
+[00:58] end of this earnings announcement
+[00:59] season, but between now and
+[01:01] Thanksgiving, we do have pretty smooth
+[01:02] sailing.
+[01:03] >> How can Nvidia be worth over 5 trillion,
+[01:06] more than the French, German, and
+[01:07] Italian stock markets combined?
+[01:10] >> Yeah, that's an amazing statistic and
+[01:12] it's being estimated it's now about 14%
+[01:14] of our GDP. It's a monopoly. It's
+[01:17] operating margins are unreal,
+[01:19] approaching 70% after taxes. So, we just
+[01:23] never seen margins like this on
+[01:24] anything. And um they do machine
+[01:26] learning and uh there are other
+[01:29] companies out there trying to do AI
+[01:30] chips. You know, we've had Paul Dugosh
+[01:32] on before. He tries to make intelligent
+[01:34] AI chips that look at correlated pockets
+[01:36] of data. He's much more energy
+[01:38] efficient, but the machine learning is
+[01:41] really taking over and uh that's driving
+[01:43] all the data center demand and it's
+[01:45] accelerating. So we're going to hit 5%
+[01:48] GDP growth in 2026. Google's cloud
+[01:52] revenue surged 34% whereas Microsoft
+[01:55] rose 39%. So why did Google's stock
+[01:58] react more favorably?
+[01:59] >> Well, I think it's mainly because of
+[02:02] their guidance and their order backlog.
+[02:04] That's what everybody wants to see.
+[02:06] Microsoft is the biggest cloud provider
+[02:09] and looks like Oracle is going to be the
+[02:11] second largest behind Microsoft.
+[02:13] Oracle's accelerating things quite a
+[02:15] bit. that's lifting stocks like Bloom
+[02:17] Energy, that's BE, but you know,
+[02:20] Google's guidance was just spectacular.
+[02:22] And Google's a bit of an enigma because
+[02:24] they don't provide guidance.
+[02:26] So, we just get to see what they do
+[02:28] every quarter. And that order backlog
+[02:32] got everybody very excited.
+[02:33] >> Why did Treasury yields rise after the
+[02:35] Fed cut rates? Well, the Fed um
+[02:38] basically implied they they're not sure
+[02:40] they're going to be cutting in December
+[02:43] because they're not getting the the
+[02:44] economic data. That was weeny language.
+[02:48] You know, it was a 10 to2 vote on the
+[02:49] rate cut. Uh one gentleman, Steve Moran,
+[02:52] wanted a 50 basis point half a percent
+[02:54] cut and another FOC member wanted no
+[02:57] cut. But if market rates continue to
+[02:59] meander lower, the Fed's going to be
+[03:01] forced to cut. And because, you know,
+[03:03] there's just certain sectors of our
+[03:04] economy that aren't doing well. mostly
+[03:06] housing and other interest rate
+[03:08] sensitive sectors. Even auto sales,
+[03:10] they're saying auto sales are only going
+[03:12] to be 15.7 billion
+[03:15] and that would be a big slowdown. So the
+[03:17] interest rate sensitive parts of our
+[03:19] economy need lower rates and um half of
+[03:22] Americans have a debt problem. So if we
+[03:24] really want to help America, we got to
+[03:26] continue to lower rates. So we we'll see
+[03:28] where we are when the December meeting
+[03:30] comes around. And um I'm still betting
+[03:34] they'll cut, but uh they really had to
+[03:36] say that because they just don't have
+[03:38] access to the government economic data
+[03:40] while the shutdown persists.
+[03:42] >> Is the gold selloff finally over?
+[03:44] >> Yes. Earlier in the week, we had um a
+[03:47] couple corrections, but uh if you look
+[03:49] at the gold stocks we recommend like
+[03:51] well there's 11 of them, but Kinross,
+[03:54] that's a KGC, IDR, they've bounced back
+[03:57] very very impressively. So I would
+[04:00] encourage people to continue to buy our
+[04:02] gold stocks. They are obviously going to
+[04:04] be announcing phenomenal sales and
+[04:05] earnings growth. The gold rally is more
+[04:08] institutional in nature. Central banks
+[04:11] are buying the gold. So the selloff we
+[04:13] had was just technical nature and then
+[04:16] the subsequent sell-offs kept were
+[04:17] smaller. So a selloff is like an
+[04:20] earthquake and there's aftershocks and
+[04:22] now that the aftershocks are largely
+[04:24] over, you can buy gold confidently and
+[04:26] and our gold stocks. So Trump recently
+[04:29] went to Asia. Are the tariff
+[04:31] negotiations finally over?
+[04:33] >> Largely. Yeah. Uh they announced a big
+[04:35] deal with South Korea.
+[04:38] It was funny with him in Japan. He told
+[04:40] everybody to buy a Toyota because
+[04:41] they're investing 350 billion in
+[04:45] America. At least Japan is. And Toyota's
+[04:47] leading the way. So I just thought it
+[04:49] was funny that for Trump to say uh buy a
+[04:51] Toyota. Now Toyota of course has plants
+[04:53] all over America and they make a lot of
+[04:55] their trucks in Texas. The uncertainty
+[04:57] is largely over now. The big uncertainty
+[04:59] was China and China and the US agreed to
+[05:02] meet every year to rejigger the trade
+[05:05] deals. But here's the deal. China needs
+[05:08] us. We need them. Trump got them to buy
+[05:10] more of our soybeans and agriculture
+[05:12] products. Obviously, we want their uh
+[05:15] their magnets and their rare earth
+[05:17] technology. So, and they make a lot of
+[05:19] stuff, let's face it. So, the trade spat
+[05:22] is over. Now, that it was interesting.
+[05:24] That was the first time uh US president
+[05:26] met with President Xi in six years.
+[05:28] Okay. So, you know, postco I guess uh no
+[05:32] one was meeting with China. So, at least
+[05:34] we have a dialogue and that's good. And
+[05:36] President Trump will be going to China
+[05:37] next year. The only trade details
+[05:40] remaining are Mexico and Canada. Now,
+[05:42] 90% of Mexico and Canada is tied to
+[05:45] something called USMCA
+[05:47] Mexican trade agreement that was
+[05:49] negotiated under Trump 1.0 know that
+[05:52] will be renegotiated next year. So when
+[05:54] Trump slaps an extra 10% tariff on on
+[05:57] Canada because he didn't like um
+[06:00] Ontario's ad featuring Ronald Reagan,
+[06:02] what happened is they're just talking
+[06:04] about putting that 10% on a tiny
+[06:05] fraction of the Canadian exports, not
+[06:08] all of them. Uh USMCA will be the next
+[06:11] big deal. Of course, Mexico and Canada
+[06:14] are our biggest trading partners, and
+[06:16] that's scheduled to be renegotiated next
+[06:18] year. November is usually a seasonally
+[06:20] strong month, but what do you expect at
+[06:22] this time?
+[06:24] >> Stunning. Uh even though we're
+[06:25] overbought, we should rally right up to
+[06:27] Thanksgiving. This earnings announcement
+[06:29] season is unbelievable. Bloomberg
+[06:32] reported we got off to the fastest start
+[06:33] in four years. We are still double digit
+[06:37] uh earnings growth. Some weaker sectors
+[06:39] are have improved, but the AI and data
+[06:42] center is is just leading everything and
+[06:45] the order backlogs are growing. It's
+[06:47] very very exciting. All I can say is is
+[06:50] hang on, enjoy the ride. The reason
+[06:52] November is seasonally strong, it's a
+[06:54] happy time of year. You know, people get
+[06:56] excited because they get to, you know,
+[06:58] visit their friends and family during
+[07:00] Thanksgiving. That that happy time of
+[07:02] year just seems to rub off on the
+[07:04] markets.
+[07:04] >> Earnings season is still rolling on and
+[07:07] next week's lineup is huge. Let's start
+[07:09] out with Birkshshire Hathway, the
+[07:11] ultimate barometer for the US economy.
+[07:14] >> Yeah. Um, Bergkshire is a confusing
+[07:17] company because they own all these
+[07:18] private businesses like Borcham's
+[07:20] jewelry store, Nebraska furniture mart,
+[07:23] sees candy and as well as a lot of
+[07:25] public companies and it's widely
+[07:28] believed that they're trading at a
+[07:29] premium to the underlying value and as
+[07:32] Warren Buffett gets older that premium
+[07:34] is dissipating. So, they're fighting
+[07:36] that. But the good news for Berkshire is
+[07:39] approximately 60% of his business is
+[07:41] tied to reinsurance. And reinsurance
+[07:44] companies are the ones that come in when
+[07:45] there's a huge disaster. You know,
+[07:48] tornadoes, hurricanes, earthquakes. And
+[07:51] we've been very fortunate this hurricane
+[07:52] season. Obviously, we just had a
+[07:54] hurricane devastate Jamaica and parts of
+[07:57] Cuba and even the Exumas in the Bahamas.
+[08:00] And it it's it's headed towards Bermuda,
+[08:03] but it should uh be okay. But uh so they
+[08:06] don't have a lot of reinsurance claims.
+[08:07] The other thing is all insurance
+[08:09] companies have these huge bond
+[08:11] portfolios and as bond yields start to
+[08:14] meander lower uh they get natural
+[08:16] capital appreciation.
+[08:18] Bergkshire uh just so you know their
+[08:21] sales and revenue are supposed to be up
+[08:23] about uh a little over 4%. earnings is
+[08:27] up over 20 uh 2% but um you know the
+[08:33] only reason I'm so cautious on the stock
+[08:37] is that Warren Buffett premium is
+[08:39] starting to dissipate because you know
+[08:40] Warren's 94 and not involved in the
+[08:43] day-to-day operations anymore.
+[08:44] >> One semiconductor chip supplier, how's
+[08:47] demand holding up?
+[08:49] >> Well, this is a classic example of why
+[08:52] you should not buy every semiconductor.
+[08:54] Okay.
+[08:55] And let me just give you some details.
+[08:57] Their sales are supposed to be down over
+[09:00] 13%.
+[09:02] Their earnings are supposed to be down
+[09:04] over 40%.
+[09:06] And unfortunately, there's some analyst
+[09:08] cuts and it doesn't have the best
+[09:10] surprise history. So this is why stock
+[09:14] picking's more important than index or
+[09:16] even buying sector ETFs. So on I have
+[09:20] very low expectations. Clorox still
+[09:22] cleaning up after last year's cyber
+[09:25] attack.
+[09:27] >> Yeah, you know, that's an interesting
+[09:28] comment you had there. But anyway,
+[09:29] here's the deal. Obviously, Clorox is
+[09:32] important to clean up everything, but
+[09:34] unfortunately, their sales are supposed
+[09:35] to be down over 20%. Uh, their earnings
+[09:38] are supposed to drop even more. Listen,
+[09:41] this is a big multinational. It's a it's
+[09:43] a big brand. We've had some other
+[09:45] multinationals reporting better than
+[09:46] expected results. So, I'm going to be
+[09:48] very very curious if Clorox can
+[09:51] surprise, but yeah, I'll be avoiding it
+[09:54] while sales and earnings are negative.
+[09:55] >> Palunteer Technologies, I know that you
+[09:57] have talked about the stock quite a bit,
+[09:59] but is it still a growth story?
+[10:01] >> Yeah, this is also one of our largest
+[10:02] holdings. This is an AI applier.
+[10:06] The bottom line there, uh, sales are
+[10:08] supposed to be up over, uh, 50%,
+[10:10] earnings supposed to be up over 67. The
+[10:12] stock has a great earnings surprise
+[10:14] history. Uh this is led by um Alex Karp
+[10:17] and he's making the US government more
+[10:20] efficient. He's making the defense
+[10:22] department more efficient. And um this
+[10:25] is this is a one of the top 10 stocks in
+[10:28] the S&P. And by the way, the top 10
+[10:30] stocks in S&P of course are now over 40%
+[10:32] of 41% of the index. So um this stock
+[10:36] has a lot long ways to run.
+[10:38] >> Archer Daniels Midland margins under
+[10:41] pressure as food prices swing. Yeah, you
+[10:44] know, their sales are supposed to be up
+[10:46] 4% but earnings supposed to be down 22.
+[10:48] Now, agricultural stocks are are are
+[10:51] seasonal. Uh especially the seed
+[10:53] companies, but hopefully this uh deal
+[10:56] that Trump did with China and China
+[10:58] starting to reby all our agriculture
+[10:59] products will firm up that entire
+[11:01] sector. But I have very very low
+[11:04] expectations for the stock right now. I
+[11:06] hope they surprise. But again, I don't
+[11:08] buy stocks that have negative earnings
+[11:10] growth. Eaton a quiet industrial giant
+[11:13] with big electrification exposure.
+[11:15] >> Uh sales are supposed to be up over 11%
+[11:18] earnings are supposed to be up well over
+[11:19] 7%.
+[11:21] Obvious is um we need more power in
+[11:23] America to run all the data centers.
+[11:26] Eden prospers from that. Eden is a huge
+[11:29] automotive supplier making uh
+[11:31] transmissions and things like that. So
+[11:34] you know this is a very very big
+[11:36] company. I'm expecting them a surprise
+[11:39] and um I don't own it at this moment,
+[11:41] but I have owned it in the past.
+[11:43] >> Ferrari luxury demand still in Top Gear.
+[11:46] >> Here's the deal with Ferrari. When they
+[11:48] announced their battery pack that's
+[11:50] going to go in their electric vehicle,
+[11:52] the stock got hit pretty hard because
+[11:54] for lack of a better word, Ferrari
+[11:55] starting to lose its soul. And the
+[11:58] reason that Ferrari has to electrify,
+[12:01] they have a hybrid vehicles now, but the
+[12:04] reason they're electrifying is they have
+[12:05] to comply with the EU emission
+[12:07] standards,
+[12:08] but this just doesn't get anybody
+[12:10] excited. So, the stock fell quite
+[12:12] abruptly uh when it released its
+[12:14] electric battery pack.
+[12:17] I think Ferrari has a product problem to
+[12:19] be candid with you. Uh their cars are
+[12:22] very expensive.
+[12:24] they essentially announce a new model
+[12:25] and then you wait up to four years to
+[12:27] get your car. Um, not everybody wants to
+[12:30] do that and then sometimes when the cars
+[12:32] come out, they've built too many and
+[12:35] they're depreciating. Uh, that's what
+[12:37] happened with their 296, their SF90s.
+[12:41] And the other problem with Ferrari is
+[12:43] they uh in order to get an allocation
+[12:45] for their their top cars, you have to um
+[12:49] buy some of the other cars that aren't
+[12:51] top sellers like the pure Sangu, which
+[12:54] is their SUV.
+[12:56] The other thing I would add about
+[12:58] Ferrari is they just announced something
+[13:01] called an 849 Tesarosa.
+[13:04] And in my opinion, it's ugly. Uh, it's
+[13:07] like the SF90, but it's just, you know,
+[13:10] they put bigger turbos on it and
+[13:11] re-engineer it a little. But I don't
+[13:14] know how they could go from making a
+[13:15] pretty car to an ugly car. And I
+[13:18] thought, you know, when you work for an
+[13:20] Italian company, you're supposed to
+[13:21] build beautiful things. And uh, so I'm
+[13:23] very worried about Ferrari. Again, I
+[13:25] would steer clear of this stock. Sales
+[13:27] may may be up 4%, but earnings supposed
+[13:29] to decline, too. And, um, they're having
+[13:32] definitely resale problems.
+[13:34] Harley-Davidson revving up sales or
+[13:36] stalling out.
+[13:37] >> Well, here's the deal with Harley. Their
+[13:39] sales are supposed to be up u over 15%.
+[13:43] Their earnings are supposed to be up um
+[13:46] over 80%. The analyst committee has been
+[13:49] aggressively revising earnings estimates
+[13:51] higher and they'll probably knock it out
+[13:53] of the park. You know, obviously they
+[13:55] cater to an aging demographic, but uh
+[13:58] you know, we're increasingly living in a
+[14:00] world where
+[14:02] vehicles are getting quieter and quiet
+[14:04] quieter until the Harley comes by. So
+[14:06] Harley is um got a very unique niche and
+[14:10] so they should surprise.
+[14:11] >> Marriott travel boom. Can it keep
+[14:13] cruising?
+[14:14] >> Marriott's a very very well-run company.
+[14:16] Sales supposed to be up over 3%,
+[14:18] earnings supposed to be up over 5%.
+[14:21] There's been some minor analyst trims,
+[14:22] but this company normally does beat Wall
+[14:25] Street's estimates. I'll be honest with
+[14:26] you, I think u business travel's very
+[14:29] cautious right now with all the layoffs
+[14:31] and things. And also, let's face it,
+[14:34] until we get all the air traffic
+[14:35] controllers back on on the job, travel's
+[14:38] going to be very precarious. So, um I
+[14:41] think they'll beat, but I'm not very
+[14:42] bullish on the stock right now.
+[14:44] >> Molson Kors beer battle inflation verse
+[14:47] brand loyalty. All right, sales are
+[14:49] supposed to be down almost 1%. Uh,
+[14:51] earnings supposed to be down a little
+[14:52] over 5%.
+[14:54] I think we just have to say the obvious.
+[14:57] The popular beer brands uh have lost out
+[15:00] to Mexico. Mexico dominates uh uh beer
+[15:03] sales. Corona, Mandello, Pacificico.
+[15:07] Even though Kors is a phenomenal brand
+[15:09] and obviously Molson's a top seller in
+[15:12] Canada, Mexico won the beer wars. So um
+[15:16] whether that's right or wrong that's
+[15:17] still weighing on course. So they might
+[15:19] surprise but you know the other thing
+[15:22] that's hurting them is demographics.
+[15:24] People got older and you drink less beer
+[15:27] and then also a lot of younger people
+[15:28] don't drink beer. They drink other
+[15:30] spirits.
+[15:31] >> Fizer searching for growth beyond co
+[15:33] >> that's an excellent introduction to
+[15:35] Fizer. It has not recovered from its
+[15:38] COVID vaccine. Sales are supposed to be
+[15:40] down over 6% earnings supposed to be
+[15:42] down over 40%.
+[15:44] uh they recently lost out to Novaorisk
+[15:47] on an on a diet drug and and even Nova
+[15:51] Nordisk is struggling against Eli Liy.
+[15:53] Nova just had to lay off 9,000 people.
+[15:56] So I have very low expectations for
+[15:59] Fizer at this moment.
+[16:00] >> Uber Technologies finally profitable,
+[16:03] but can it last?
+[16:04] >> Their sales are supposed to be up over
+[16:06] 18%.
+[16:08] But their operating earnings, you are
+[16:10] correct, they do make money now. Their
+[16:12] operating earnings are supposed to drop
+[16:14] 38%. So,
+[16:17] uh, it doesn't excite me yet. Even
+[16:19] though this is going to be the winner of
+[16:21] the robo taxi wars, I think whoever wins
+[16:24] robo taxis will have the best apps to to
+[16:27] retrieve the vehicles. And Uber is
+[16:30] launching its robo taxi service in LA
+[16:33] through VW ID Buzz vans.
+[16:36] But Uber will, you know, has different
+[16:38] autonomous driving in in China. The
+[16:41] They'll work with Whimo and others. So,
+[16:44] when we get to this brave new world
+[16:46] where we have driverless cars, I'm
+[16:49] expecting Uber to be the big winner, but
+[16:51] it's early and I don't want to own the
+[16:54] stock at this time.
+[16:55] >> AMD, can it close the AI gap with
+[16:58] Nvidia?
+[16:59] >> AMD is not a Nvidia competitor. They do
+[17:02] make very good um processing units.
+[17:06] Their sales is supposed to be up 28%,
+[17:08] earnings supposed to be up 27%.
+[17:11] uh they are on the road to recovery, but
+[17:12] they are not a direct Nvidia competitor.
+[17:16] Also announced that they'll be making uh
+[17:18] AI chips to compete with Nvidia, but the
+[17:21] chips aren't out. They're not being
+[17:23] delivered. And if you notice what Nvidia
+[17:25] does, it makes alliance with all these
+[17:27] other companies. And um bottom line is
+[17:29] Nvidia has no competitors for machine
+[17:32] learning. You can have AI chips that do
+[17:35] lowgrade AI, don't look at everything,
+[17:37] but when it comes to machine learning,
+[17:39] that is Nvidia's domain.
+[17:41] >> McDonald's consumer resilience on the
+[17:44] menu.
+[17:44] >> Well, here's the deal with McDonald's.
+[17:46] Their sales and earnings are supposed to
+[17:48] be up approximately 3%.
+[17:52] The conundrum with McDonald's is same
+[17:54] store sales. We want to see what that
+[17:56] is. and they're very dependent upon
+[17:58] their meal deals, you know, and they may
+[18:02] very well beat. They have to give us
+[18:04] guidance that they can continue to
+[18:06] stimulate sales with their special deals
+[18:09] and promotions.
+[18:10] >> And after 9 years of asking, they
+[18:11] finally brought back their snack wraps.
+[18:13] >> It's about time they listen to you.
+[18:15] >> Super Micro Computer, the Stealth AI
+[18:18] hardware winner.
+[18:19] >> All right, here's the deal with Super
+[18:20] Micro. This will not be their strongest
+[18:22] quarter. Essentially what happened is um
+[18:25] a couple weeks ago their operating
+[18:27] officer lowered the guidance. Super
+[18:29] Micro has this massive order backlog.
+[18:32] They make the water cooled rack systems
+[18:34] go in the server farms are one of
+[18:36] Nvidia's biggest clients and um the
+[18:38] order backlog is just piling up. So the
+[18:41] stock is firming up now because a lot of
+[18:45] Nvidia's clients are doing well. Okay.
+[18:48] But it sales and earnings will not be
+[18:51] good. Okay. So, this is all about
+[18:53] guidance, guidance, and guidance in the
+[18:55] order backlog. So, I own Super Micro. We
+[18:59] are up over 800% in it. We have no
+[19:02] intention of selling it because of that
+[19:04] order backlog, and we're too cheap to
+[19:06] pay the long-term capital gains taxes
+[19:09] that would be necessary, but we're
+[19:11] watching this company very, very
+[19:12] carefully, and we're holding it large
+[19:15] due to the order back.
+[19:16] >> I want to quickly interrupt and bring up
+[19:19] one of our subscriber questions. They
+[19:21] wanted to know what your take is on SMCI
+[19:24] compared to PSTG.
+[19:26] >> PSTG does have a very good forecasted
+[19:30] sales uh supposed to have 15%. Their
+[19:33] earnings are forecasted to be up over
+[19:34] 16%.
+[19:36] They have positive analyst revisions and
+[19:38] a very good earnings price history. So,
+[19:42] this is a stock that's on my radar. It's
+[19:44] up and coming. its sales growth isn't
+[19:46] that exciting to me or the earnings
+[19:48] growth yet, but if the earnings really
+[19:51] start to outpace sales more
+[19:52] dramatically, I will probably be all
+[19:54] over this stock, but it's uh it's an
+[19:57] upandcomer. It's the issue with the the
+[20:00] data centers and the order backlogs is
+[20:03] who can deliver and uh sometimes there's
+[20:06] glitches and and it just takes longer to
+[20:08] build out. But Pure Storage is doing
+[20:10] better than some other companies.
+[20:11] Spotify. We personally support them by
+[20:13] posting our videos on their platform,
+[20:15] but what do you expect for them?
+[20:17] >> Sales are supposed to be up over 6%,
+[20:19] earnings supposed to be up over 47%.
+[20:23] There's positive amounts earnings
+[20:24] estimates. Um, they've been revised
+[20:27] higher. It has a good surprise history
+[20:29] and we do have this under management.
+[20:32] So, I'm very very bullish on Spotify.
+[20:34] >> Toyota Motor EV Transition lagging or
+[20:37] leading?
+[20:38] >> So, here's the deal with Toyota. Their
+[20:40] sales are supposed to be up 6% which is
+[20:42] excellent in the automotive industry.
+[20:44] Their new Prius is a huge hit and they
+[20:46] dominate hybrid vehicles.
+[20:49] So, um, as far as EVs are concerned,
+[20:53] they are still on track to have the
+[20:55] first EV with a solid state battery, but
+[20:58] we're talking 2027.
+[21:00] Okay. The other thing is, uh, as I
+[21:03] mentioned earlier, President Trump
+[21:04] essentially endorsed them. And when he
+[21:07] was in Japan, he told everybody to go
+[21:08] buy a Toyota because they're investing a
+[21:10] tremendous amount of money in America.
+[21:12] So, this is the biggest car company in
+[21:14] the world. They compete with Volkswagen
+[21:16] for being the biggest, but they're
+[21:17] they're definitely the biggest now and
+[21:19] they're the winner. And they were
+[21:21] reluctant to to get to do EVs. They do
+[21:23] them, of course. They think hybrids are
+[21:25] better. And I think that's been the
+[21:27] conclusion of most consumers that maybe
+[21:30] a hybrid is better than an EV. So,
+[21:33] hybrid sales are up, EV sales are
+[21:35] slowing. It looks like Toyota knew what
+[21:38] they were doing all along.
+[21:39] >> And lastly, Qualcomm AI and 5G chips
+[21:42] ready for a breakout.
+[21:44] >> Well, not really. The stock of course
+[21:47] surged on when they announced that
+[21:49] they're going to have an AI chip to
+[21:50] compete with uh Nvidia, but it's not out
+[21:54] yet and they're not monetizing it. Sales
+[21:56] are supposed to be up over 4%. Uh
+[21:58] earnings supposed to be up over 6%.
+[22:01] Obviously, this company's chips dominate
+[22:04] u cell phones, especially the 5G
+[22:06] technology
+[22:08] and um it's a very well-run company, but
+[22:12] it doesn't have the organic growth that
+[22:14] I want. So, it's not in my portfolios,
+[22:17] but I expect them to beat and I expect
+[22:19] things to get stronger next year.
+[22:21] >> Well, there's plenty to watch from AI
+[22:23] valuations to Fed moves and a flood of
+[22:26] earnings ahead. Dad, thanks as always
+[22:28] for all the insights. And to our
+[22:29] viewers, don't forget to like,
+[22:31] subscribe, and tell us which stock
+[22:32] you're watching next week. And we will
+[22:34] see you all next week for a new video.
+[22:41] [music]
+[22:47] [music]

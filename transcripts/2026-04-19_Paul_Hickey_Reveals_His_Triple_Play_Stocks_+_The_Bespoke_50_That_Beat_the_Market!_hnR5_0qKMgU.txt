@@ -7,9 +7,613 @@ Type: video
 Duration: 22:35 (1355s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 605
+Transcript characters: 21649
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] We're numb. Seriously. The performance
+[00:02] in our fundamentally superior stocks
+[00:04] have been way stronger than normal. And
+[00:06] my dad keeps checking his pulse to make
+[00:08] sure he's not dreaming. So we brought in
+[00:11] a very popular and special guest to help
+[00:13] us make sense of what's really
+[00:14] happening.
+[00:28] It's an honor to have B spoke Paul
+[00:30] Hickey back on Navellier Market Buzz. I
+[00:33] rely on his charts religiously because
+[00:35] they put the market in perspective and
+[00:37] we're going to show you some of his
+[00:38] great work today. But let's just dig in
+[00:41] here.
+[00:41] >> It's great great Crystal and Louis for
+[00:44] having me on. Really excited to to join
+[00:46] you again. Love your work and commentary
+[00:49] as well and it's always nice to come on
+[00:51] on a the time when the market's doing
+[00:53] well, right? So let's just hope that
+[00:56] keeps up.
+[00:56] >> Exactly. So Paul, you recently sent out
+[00:59] an oscillator showing that the S&P 500
+[01:02] went from oversold to overbought in just
+[01:04] a few days. Is that because President
+[01:06] Trump basically triggered another taco
+[01:08] trade by saying the military action in
+[01:10] Iran was almost over? You know, I mean I
+[01:13] think when you hear the term taco trade,
+[01:15] I guess it's it's a good description for
+[01:18] escalate to de-escalate, but I mean if
+[01:20] you ask the people of of Iran if the
+[01:23] president really chickened out, I don't
+[01:25] think you'd get many people saying that.
+[01:27] So you didn't destroy an entire
+[01:28] civilization, but we definitely saw some
+[01:31] damage there and I think brought the
+[01:33] Iranians to the table. But I think what
+[01:36] the market is very optimistic about here
+[01:39] is that
+[01:40] and we're seeing that more and more
+[01:41] every day is collective sigh of relief
+[01:44] that this isn't going to drag on for a
+[01:46] long time. And just today the Strait of
+[01:48] Hormuz
+[01:49] reopening, that should be if that keeps
+[01:52] up and we continue on this track, I
+[01:54] think it really makes sense for the
+[01:56] market to erase the losses from February
+[01:58] that we have. So it's been a crazy few
+[02:01] weeks, but that's on top of what's been
+[02:03] a crazy year already. We saw some
+[02:05] massive swings from overbought to
+[02:07] oversold in the market even leading up
+[02:09] to this war and now we're riding a what
+[02:11] looks like a 13-day
+[02:13] winning streak for the technology sector
+[02:15] in the Nasdaq where we've seen some
+[02:17] massive gains. The technology sector
+[02:20] alone just in these last 13 days, the
+[02:22] only times it's seen a larger move in
+[02:25] the last 20 years were in March 2009
+[02:28] coming out of the financial crisis and
+[02:30] then in March of 2020 coming out of
+[02:32] COVID. So a very
+[02:34] notable moves. The only difference this
+[02:36] time around is that it's happening right
+[02:39] at 52-week highs rather than
+[02:41] you know, after deep drawdown.
+[02:43] >> Paul, you had a great chart showing that
+[02:45] high momentum high volatility stocks are
+[02:47] leading this rebound. Do you do you
+[02:49] expect the breadth and power of the
+[02:50] overall market to finally expand because
+[02:53] your chart really said we're in a pretty
+[02:54] narrow market. Yeah, so I mean it's
+[02:56] really interesting what you look at.
+[02:58] We've seen some narrow breadth in this
+[03:01] rebound. We've seen the Mag 7 start to
+[03:03] lead and ironically enough in the first
+[03:05] quarter the Mag 7 traded as a monolith
+[03:08] or the trillion-dollar stocks in that
+[03:10] they all went down and underperformed
+[03:12] the market. So we're so used to 2024
+[03:15] where in early 2025 where they all
+[03:17] outperformed. We saw some dispersion in
+[03:19] the group late last year and then
+[03:22] earlier this year, you know, we saw them
+[03:24] trade likewise in like fashion again.
+[03:27] And coming out of this rally, we've seen
+[03:30] them
+[03:32] we've seen them outperform, but I think
+[03:33] part of that is just the fact that just
+[03:36] there's been a rush of capital into the
+[03:38] market and when people want to get
+[03:39] invested quick, they go to the big
+[03:42] liquid names. So I do think the rally
+[03:44] will broaden out as time goes on because
+[03:46] we we saw that before the war. We saw
+[03:49] the the average stock outperforming the
+[03:52] market. Within the S&P 500 were more
+[03:55] the there were more stocks up 20% as of
+[03:58] the end of the first quarter than down
+[04:00] 20% even though the market was down. So
+[04:02] there's a lot of there were some big
+[04:04] moves underneath the surface and more of
+[04:05] it was higher than lower.
+[04:07] >> We've got another question on breadth
+[04:09] for you. You recently had a great chart
+[04:10] that showed the S&P 500 made a new high,
+[04:14] but the cumulative AD line was lagging
+[04:16] and didn't make a new high. Do you think
+[04:18] that this line will catch up?
+[04:19] >> Yeah, I do think it will catch up. Just
+[04:21] following up on that breadth theme, the
+[04:23] cumulative AD line for the market peaked
+[04:26] on February 27th right before the war
+[04:28] started. So even though the S&P wasn't
+[04:31] at its highs, breadth was leading the
+[04:33] market as it has for a lot of this you
+[04:36] know, the last several months. And I
+[04:38] think we saw a pause in that given the
+[04:39] uncertainty. When you have heightened
+[04:41] uncertainty, they rein in their bets and
+[04:43] especially in some of these less liquid
+[04:45] names where
+[04:46] the fog of war could have a bigger
+[04:48] impact. I
+[04:50] you know, as now that the war seems to
+[04:52] be behind us at least the worst of it, I
+[04:54] do think the cumulative AD line will
+[04:57] pick back up. You know, one day doesn't
+[05:00] make a trend. Call me in two weeks and
+[05:02] if we're if the AD line still hasn't
+[05:04] caught up, that would be more
+[05:05] concerning, but right now I think it's
+[05:07] just a you know, a short-term
+[05:09] dislocation, but it will catch up. That
+[05:12] makes sense. Now, I love your triple
+[05:14] plays, Paul. So can you walk us through
+[05:17] what makes these stocks so special?
+[05:18] Yeah, so I mean a triple play, it's a
+[05:21] company that has reported better than
+[05:22] expected earnings, better than expected
+[05:25] revenues and has also raised guidance.
+[05:27] So I'm you know, we all know and are in
+[05:30] earning season, it's really easy for
+[05:31] companies to exceed earnings and revenue
+[05:33] forecasts. They typically lowball so
+[05:36] that if the bar gets set low. So that's
+[05:38] easy. When you have clarity on the
+[05:40] outlook going forward, that's more
+[05:42] impressive especially in uncertain
+[05:44] times. So this this earning season is
+[05:46] almost a microcosm of the earning season
+[05:49] at this time last year during the tariff
+[05:51] tantrum. And what we saw then is we went
+[05:53] into that earning season thinking we
+[05:55] were going to see very little in the way
+[05:57] of companies raising guidance because
+[05:59] they had every excuse not to talk
+[06:01] positive about the future and and rein
+[06:03] in expectations given the uncertainty.
+[06:06] But what did we see during that earning
+[06:07] season? We saw more companies raise
+[06:09] guidance than more than companies that
+[06:11] lowered guidance. And so that was really
+[06:13] impressive and it was a strong signal.
+[06:15] That's what we're watching for coming up
+[06:17] into this earning season and I think we
+[06:20] will see some good guidance because the
+[06:22] economic numbers have been good. We've
+[06:24] seen earnings forecast rise all year
+[06:28] even during this war. We've seen the
+[06:30] banks have just reported this week. Loan
+[06:31] growth among the largest banks
+[06:33] collectively was up 10%. We haven't seen
+[06:35] that rate of growth in in loans since
+[06:38] coming out of the financial crisis
+[06:40] again. So that's a positive signal going
+[06:42] forward for the economy and we've seen
+[06:45] ISM manufacturing indices, local
+[06:47] regional Fed reports come in better than
+[06:49] expected and everyone talks about how
+[06:51] bad the labor market is. Employment rate
+[06:54] is 4.3% right now. That's pretty low.
+[06:56] We're not seeing major job creation, but
+[06:59] we're not seeing job losses either.
+[07:00] Initial jobless claims remain very low
+[07:03] relative to their historical range.
+[07:05] >> Yeah, yeah. I would add that young
+[07:07] people like Crystal have a side gig,
+[07:09] okay? It's
+[07:10] I've noticed that with young people. So
+[07:12] they're they're working. Yeah, and I did
+[07:14] actually I just got off on a tangent
+[07:16] there. The triple plays. So but these
+[07:18] are names we like. So we track these
+[07:20] names on our website. We have multiple
+[07:23] reports of how we highlight these.
+[07:25] And just every day people can come on
+[07:27] the website and see the most recent
+[07:28] triple plays and one of the ones that
+[07:31] recently came out that we saw that's
+[07:34] really interesting that people may not
+[07:35] have heard of is Planet Labs and they do
+[07:38] satellite imagery of the world and
+[07:40] clients can pick any spot in the world
+[07:42] and see an updated picture of it every
+[07:45] day on a daily basis. And so I mean
+[07:47] obviously with this war going on right
+[07:50] now, you have a lot of interest in the
+[07:51] traffic on the Strait of Hormuz. But
+[07:53] even outside of the war situation, you
+[07:56] have just you know, for companies trying
+[07:58] to keep track of their capital all over
+[08:01] the world, see how things are moving,
+[08:03] see environmental conditions. It's a
+[08:05] really interesting stock. They just
+[08:07] turned cash flow positive for the first
+[08:09] time last quarter when they reported in
+[08:11] March and they're expecting at least 30%
+[08:14] revenue growth going forward for the
+[08:16] next four years and they hit their rule
+[08:19] of 40 goal a year ahead of forecast. So
+[08:23] again, it's not a household name, but
+[08:24] that's what we like about these triple
+[08:26] plays. You find all these interesting
+[08:28] names and it makes it a little more
+[08:29] exciting than just focusing on the mega
+[08:31] cap stocks or indexing.
+[08:33] >> Yeah, when when a company goes from
+[08:35] negative to positive cash flow or
+[08:36] negative positive earnings, that's
+[08:38] usually when you hit the biggest home
+[08:39] run. So yeah, that work out great.
+[08:41] >> Now Paul, you're also famous for the B
+[08:44] spoke 50, stocks that have historically
+[08:46] beaten the market. Can you share with
+[08:48] our viewers how you actually select
+[08:49] these top 50? Yeah, so I mean it's you
+[08:52] know, on Wall Street, you know, everyone
+[08:54] tries to complicate things, you know,
+[08:56] and make make things sound overly
+[08:58] complicated.
+[09:00] You know, I have four daughters so my
+[09:03] life is complicated enough. So we just
+[09:05] keep this simple. We look for companies
+[09:07] that have strong earnings growth
+[09:08] prospects and positive chart formations.
+[09:12] So we do a quantitative screen of
+[09:14] companies based on their growth
+[09:15] forecasts and then we do a qualitative
+[09:18] screen going through those names within
+[09:20] the Russell 3000. So this is companies
+[09:23] with market caps in the trillions to the
+[09:26] hundreds of millions. So you get all
+[09:28] sorts of companies running spectrum and
+[09:31] sort of like the triple plays, what you
+[09:33] learn is that there's so many different
+[09:35] ways for a company to be successful.
+[09:37] It's not always just tech that drives
+[09:39] the market and drives the gains. You can
+[09:41] find really successful companies and
+[09:44] business models outside of tech and in
+[09:47] some really arcane fields. So again, we
+[09:50] were just talking about um
+[09:51] uh Planet Labs as far as as one name in
+[09:55] a different looking at the triple plays,
+[09:57] but in the bespoke 50, there's a lot of
+[09:59] growth names where you get a lot of
+[10:00] household names and a lot of
+[10:02] non-household names. I should add
+[10:04] outside of the data center stocks and
+[10:06] the AI related stocks, which are clearly
+[10:08] the leaders, where are you seeing the
+[10:09] the market strength other than the
+[10:11] Planet Planet Labs? Yeah, so I mean, I
+[10:13] think two sectors that we find
+[10:15] interesting, one longer term, one
+[10:18] shorter term. First, let's go longer
+[10:20] term. Some of these industrial stocks.
+[10:23] Some actually have ties to the AI
+[10:26] as far as infrastructure for data
+[10:27] centers, but the the reindustrialization
+[10:30] of America we're seeing more and more
+[10:33] business coming to the United States,
+[10:35] not just because the president is
+[10:37] encouraging it or giving a strong hand
+[10:40] towards it, but also because the US is
+[10:42] energy independent. Companies can come
+[10:44] into the US, locate in the US, and know
+[10:47] that they have a very safe energy
+[10:49] infrastructure in place and and and
+[10:52] they'll be able to get energy. So,
+[10:53] that's that is a positive there. And in
+[10:56] the short term, everybody's talking
+[10:57] about how terrible the consumer is.
+[10:59] Michigan sentiment just hit an all-time
+[11:02] low. Consumer numbers, again, we were
+[11:04] just talking about employment before,
+[11:05] it's holding up well. And as you were
+[11:07] just saying, Louis, before, most of
+[11:09] these young people have a job and a side
+[11:11] gig. So, I don't think the consumer is
+[11:13] in as bad a position as we tend to make
+[11:15] out. And so, coming into this earning
+[11:17] season, we've seen analysts lowering
+[11:20] forecasts on some of these consumer
+[11:21] stocks because of higher energy prices
+[11:24] are going to hurt the wallet. But,
+[11:27] energy is only about 3% of the average
+[11:30] consumer's account, according to the JP
+[11:31] Morgan conference call this week. And
+[11:33] so, I think you can see an upside
+[11:35] surprise there. And as far as the more
+[11:37] individual names, you look at some of
+[11:39] these restaurant stocks. You have a
+[11:41] stock like Starbucks, which is facing
+[11:43] experiencing a major corporate
+[11:45] turnaround. But, if you start to see a
+[11:47] better consumer picture, that'll only be
+[11:50] another added fuel to that stock. And
+[11:52] then, we also name we like is Shake
+[11:54] Shack for a longer term play. We've
+[11:56] liked it as a longer term growth stock.
+[11:58] It got hit on some of these consumer
+[12:00] trends and inflation, but we think the
+[12:02] worst of that is behind it, and we're
+[12:05] going to start seeing a better better
+[12:07] backdrop for for that stock in the
+[12:09] future here. That's great insight. You
+[12:11] know, our our stock grader system we
+[12:13] tested at the end of each quarterly
+[12:15] earning season, and the
+[12:17] the last test showed that
+[12:18] only the top 10% was leading the way.
+[12:21] But, then we also have an eight-factor
+[12:22] fundamental model that said, well, the
+[12:24] top 30 there are good. So, 30% is good.
+[12:28] It should broaden out. As we talked
+[12:29] today, you know, the Russell's beating
+[12:31] the the major indices. So, that's a
+[12:33] that's a good sign. And of course,
+[12:35] small caps are more domestic, and so
+[12:38] that's and the US economy is better than
+[12:40] everybody else. So, Without a doubt.
+[12:42] >> a lot. Also, I noticed that I think we
+[12:44] have a
+[12:45] a 9.5 trillion of foreign investors in
+[12:49] our treasuries. That's an all-time high.
+[12:50] So, clearly they're putting their money
+[12:52] here. Yeah, so much for that sell
+[12:54] America trade, right? Oh, yeah. Oh,
+[12:56] yeah. Well, you you saw what Trump did
+[12:59] in Davos. He just walked over there and
+[13:01] says, "Better follow us or you're a
+[13:03] loser." No, I
+[13:04] And they did. Yeah, and I was actually
+[13:06] talking to a gal that was at Davos, and
+[13:09] it's not going back. They think it's
+[13:11] going to Dublin,
+[13:12] Ireland, but it's follow America or or
+[13:15] be left behind. That's the policy. I
+[13:17] mean, I love the fact that all the oil
+[13:19] tankers are coming to the Gulf of
+[13:21] America to get
+[13:23] get get the fuel, you know. Oh, yeah, as
+[13:25] Trump said, we have plenty of crude, and
+[13:27] it's the sweet stuff, as he says, right?
+[13:30] >> That's right. And and he also controls
+[13:33] Venezuela oil. And of course, we could
+[13:35] too control Guyana through Exxon, cuz
+[13:37] Guyana is still a very exciting place,
+[13:39] and it's going to be interesting. It's I
+[13:41] don't know if this is part of the master
+[13:42] plan, but it's what
+[13:45] it's where we are at this moment. It's
+[13:47] really it's really interesting because,
+[13:49] you know, we talk about the market
+[13:50] hitting new highs. You see this
+[13:51] divergence between consumer sentiment,
+[13:53] and you see the how the market's doing
+[13:55] well. But, you know, you just look at
+[13:57] the headlines. If you If you took the
+[13:58] paper, I was just looking at through the
+[14:00] New York Times, you know, biggest
+[14:02] mainstream newspaper,
+[14:04] since March 30th, if you look at it
+[14:06] every day, every headline about the Iran
+[14:08] war is negative, talking about how it's
+[14:10] going to cause major disruption in the
+[14:12] economy,
+[14:14] and it's going to you know, and it's
+[14:15] going to cause problems. But, every day
+[14:17] the market's been up since March 30th.
+[14:19] So,
+[14:20] it reinforces this point that we tell
+[14:23] people all the time. If you're going to
+[14:24] be an investor, the last place you
+[14:26] should be looking for any sort of
+[14:28] insight is on the front page of any
+[14:30] newspaper, because all that is news that
+[14:32] the market has priced in weeks or months
+[14:35] ago. Yeah. I agree. And you know, thank
+[14:38] God we're in earning season, because
+[14:39] we've had the strongest analyst
+[14:41] revisions, not me, the whole market
+[14:43] right has had the strongest analyst
+[14:44] revisions in five years. And and now the
+[14:46] earnings are just starting. And
+[14:49] you know, we had Taiwan semi lead the
+[14:51] way, and it's going to get more exciting
+[14:53] in the next few weeks, even though we've
+[14:54] already surged. So, it's I think it's
+[14:56] going to be a lot of fun. So, I'm
+[14:58] looking forward to it. Isn't all isn't
+[14:59] earning season always fun? Good or bad,
+[15:01] it's very exciting.
+[15:02] >> fun. It is fun. You know, Nvidia is
+[15:05] always the grand finale, and then I
+[15:07] always have to explain to people why
+[15:09] Nvidia doesn't go up when it has
+[15:11] incredible results. And it's usually due
+[15:13] to the option writing, and I call it the
+[15:14] tail wagging the dog, you know. But,
+[15:17] but obviously Nvidia is running right
+[15:19] now. And and so, it's just get it's just
+[15:22] got a head start. But, you know,
+[15:25] I can't believe that stock is still
+[15:27] accelerating sales and earnings
+[15:28] momentum. And you know, they had the
+[15:29] conference, and they're going to be
+[15:31] accelerating next year.
+[15:34] And there's going to be a replacement
+[15:35] cycle, cuz the Vera Rubin's better than
+[15:37] the Blackwell. So, I mean, it's just
+[15:39] And even the older chips, you know, the
+[15:41] rental
+[15:42] >> are still people are still clamoring to
+[15:45] get their hands on some of the older
+[15:46] chips Yeah, and there's a need for
+[15:48] speed. And
+[15:50] it's just everybody's upgrading. And uh
+[15:53] you know, I was centers are fit over 50%
+[15:57] of the construction in America right
+[15:58] now, and it's just it's just
+[16:00] unbelievable. It's going to be fun to
+[16:02] watch.
+[16:03] You know, my only concern is next year
+[16:05] that I think the year-over-year
+[16:07] comparisons will be will be getting
+[16:09] tougher, but
+[16:10] all this year, earning's nirvana, for
+[16:12] lack of a better word. You know, and to
+[16:14] the point about Nvidia, you know, it's
+[16:16] moved sideways for the last, you know,
+[16:18] it's it's rallied over the last couple
+[16:19] weeks. It's still where it was late last
+[16:21] year. And what's really interesting
+[16:23] about that is even though it's it's the
+[16:25] largest company in the SOX, Philadelphia
+[16:27] Semiconductor Index, by far. Even though
+[16:30] that's been sideways, the SOX is up
+[16:31] about 40% over the last 6 months. So,
+[16:34] for all this talk about how, you know,
+[16:36] it's only a handful of stocks driving
+[16:38] things in the semiconductors, which we
+[16:40] consider like the biggest leading
+[16:41] indicator for the broader market and the
+[16:43] economy, there's been some very strong
+[16:47] participation in that area of the
+[16:48] market.
+[16:49] >> Yeah, that's great insight. So, Paul,
+[16:51] just to summarize for our viewers, the
+[16:53] three stocks that are on your radar
+[16:54] right now is Planet Labs, Shake Shack,
+[16:57] and Starbucks. Yeah, those are three of
+[16:59] them. You know, I I think it is within
+[17:01] our bespoke 50, a recent name we added
+[17:03] was Airbnb. I think in Airbnb, some of
+[17:06] these platform companies that you talk
+[17:08] about, Airbnb, say an Uber or Shopify,
+[17:12] they've sort of gotten thrown out with
+[17:14] the rest of the software stocks on the
+[17:16] AI disruption theme. But, I mean, these
+[17:18] platform stocks are a lot more than just
+[17:20] a website someone slapped together
+[17:22] and brought people together. They have
+[17:24] very strong network effects. It's not
+[17:26] going to be an AI bot that's going to
+[17:29] really terminate their business models.
+[17:31] And and Airbnb's trading at a market
+[17:33] multiple for, you know, better than
+[17:35] market growth. So, that's a name that we
+[17:38] find
+[17:39] pretty attractive at these levels, I
+[17:41] would say. And then, you know, but
+[17:43] throughout that bespoke 50, there's
+[17:45] just, you know, I could go on for hours.
+[17:47] No, that's great. I also have to share
+[17:49] that my dad recently told Maria on Fox
+[17:51] Business that he would be disappointed
+[17:53] if he wasn't up 60% this year. Very bold
+[17:56] claim, but I can say that he's almost
+[17:58] halfway there with his growth investor
+[18:01] stocks. So, with that being said, do you
+[18:03] think this year has a potential to be as
+[18:06] good as 1999?
+[18:08] And then, well, that that would be
+[18:09] something, right? I mean, Louis, you're
+[18:11] always restrained, right? Like in your
+[18:13] in your expectations. 60% that would be
+[18:16] amazing. But, what I really find
+[18:18] fascinating is we've been making this
+[18:20] comparison for several years now,
+[18:22] comparing the launch of ChatGPT to the
+[18:25] launch of Netflix, because ChatGPT was
+[18:28] the AI what Netscape was for the
+[18:30] internet. It really brought it
+[18:32] mainstream. And the parallels in the
+[18:33] comparison of the Nasdaq from the launch
+[18:36] of Netscape to the launch of ChatGPT,
+[18:38] they've tracked each other really
+[18:40] closely, even going this far out. And
+[18:42] what's really amazing is that if you
+[18:44] overlay the comparison right now, we'd
+[18:46] be about like early 1998. So, just on
+[18:50] that comparison, you would say we have a
+[18:52] lot more to go. Could be a rockier road,
+[18:55] especially if you remember 1998. But,
+[18:58] what's really fascinating and is getting
+[18:59] back to that media conversation we had
+[19:02] is in even in 1996 and 1997, you look at
+[19:05] the headlines, when the market was
+[19:06] hitting new highs, you constantly saw
+[19:09] headlines that we were in a bubble. And
+[19:11] then, when we pulled back 5%, the bubble
+[19:13] had burst. You know, every time you saw
+[19:15] a pullback, you'd see headlines that the
+[19:16] bubble had burst. And then, we kept
+[19:18] going. So, I think there's probably more
+[19:21] gas in this tank here, as far as
+[19:23] percentages are concerned. I I don't
+[19:24] know, but I mean, I think we do have a
+[19:27] growing economy in the backdrop here,
+[19:29] and it is a midterm year. Midterm years
+[19:31] can be shaky, but we all know the
+[19:33] president's going to be doing whatever
+[19:35] he can to make the economy look as good
+[19:38] as possible heading into these midterms.
+[19:40] Yeah, no, he's going to be running
+[19:41] around on doing Howard Lutnick's job,
+[19:44] and basically cheering on America. And
+[19:46] Howard will be there, too, I'm sure. You
+[19:47] know, the the one thing I would add is
+[19:50] Uh, know, Micron trades at six and 1/2
+[19:52] times forecasted earnings. Nvidia's at
+[19:55] 15 times forecasted earnings. But, when
+[19:57] I do small cap, my whole portfolio's at
+[20:00] 4.9 times forecasted earnings. So, you
+[20:04] know, the the people can argue we're
+[20:06] overbought near term and you know, you
+[20:08] know, your oscillators are show going to
+[20:09] be showing that soon. And but, the
+[20:11] valuations are there cuz when you have
+[20:13] good earnings, it shoves the P/E ratios
+[20:14] down. So, yeah, you know, that's that's
+[20:17] been a nice development. So. Yeah, so
+[20:19] the P/E Yeah, the P/E ratio and getting
+[20:21] to your point earlier, we were talking
+[20:22] about earnings revisions. P/E ratio has
+[20:25] come down not just because price has
+[20:26] come down, but because earnings
+[20:28] estimates have gone up.
+[20:29] >> Exactly. Exactly. Well, thank you so
+[20:31] much, Paul, for joining us. I know our
+[20:33] viewers greatly appreciate all your
+[20:35] insights and your stock picks. Well, so
+[20:37] thank you so much for having me,
+[20:39] Crystal. It was great coming on again.
+[20:40] And thank you, Louis, for having me.
+[20:42] It's always great to have a
+[20:43] conversation. Look forward to hopefully
+[20:45] doing it again some other time soon.
+[20:47] Well, thank you, Paul. Thanks. I hope
+[20:49] you enjoyed this conversation as much as
+[20:50] I did. If you did, please give this
+[20:52] video a like and subscribe if you want
+[20:54] more videos from us. As always, Paul's
+[20:57] links will be in the description below.
+[20:58] We are also still doing our 10,000
+[21:00] subscriber giveaway where you can get a
+[21:02] free signed copy sent to your home of
+[21:04] Louis' new book. So, if you'd like a
+[21:06] copy, please fill out the form in the
+[21:08] description. And also, I will put it in
+[21:10] the comments. We want to thank you all
+[21:12] for supporting our channel continuously
+[21:14] every single week. So, this is our gift
+[21:16] to you. Stay tuned tomorrow with a extra
+[21:19] video with Paul where we'll be going
+[21:21] over all of the earning announcements
+[21:22] this week. Thanks so much, everyone.

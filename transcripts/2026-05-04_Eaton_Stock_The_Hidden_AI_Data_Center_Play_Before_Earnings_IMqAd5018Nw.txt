@@ -7,9 +7,32 @@ Type: short
 Duration: 0:55 (55s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 24
+Transcript characters: 868
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] So, word on the street is Eaton could be
+[00:02] the biggest AI winner that no one's
+[00:04] talking about. Is this true or just some
+[00:06] hype? No, Eaton does have a good
+[00:09] business with the data centers. Of
+[00:10] course, it's a huge automotive supplier
+[00:12] as well. They make a lot of fancy
+[00:14] transmissions. Their sales are supposed
+[00:16] to be up 12%. Their earnings are
+[00:19] supposed to be only up 4/10 of a
+[00:21] percent, and the analysts have trimmed
+[00:23] their estimates from um $3 to $2.73
+[00:28] per share in the last um 90 days. Now, I
+[00:32] used to have Eaton in managed accounts.
+[00:34] I sold a couple quarters ago because of
+[00:36] this earnings deceleration, but you
+[00:38] know, they have a good surprise history
+[00:40] and and they could very well beat. But
+[00:43] like any data center-related stock,
+[00:45] they're going to have to guide higher,
+[00:47] and they're going to have to brag about
+[00:49] the work they're doing. I have hope for
+[00:51] Eaton, but again, I I sold the stock a
+[00:53] couple quarters ago.

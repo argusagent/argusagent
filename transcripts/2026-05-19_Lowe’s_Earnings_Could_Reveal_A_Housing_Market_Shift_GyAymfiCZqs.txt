@@ -7,9 +7,24 @@ Type: short
 Duration: 0:32 (32s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 16
+Transcript characters: 559
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Lowe's reports this week. What are we
+[00:01] watching for with this second biggest
+[00:03] home improvement store? Well, Lowe's has
+[00:06] been improving a little faster than Home
+[00:07] Depot. Their sales are supposed to be up
+[00:10] 9.3%. Their earnings are supposed to be
+[00:12] up 1.7%.
+[00:14] Again, like Home Depot, there's really
+[00:16] no analyst estimate change in the last 2
+[00:18] months, and Lowe's has a better surprise
+[00:20] history than Home Depot. So, I have high
+[00:23] hope for Lowe's, but it doesn't have the
+[00:26] absolute growth that would attract me to
+[00:27] the stock, but hopefully they will have
+[00:30] another good good quarter in the deep
+[00:31] end.

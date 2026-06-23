@@ -7,9 +7,43 @@ Type: short
 Duration: 1:08 (68s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 35
+Transcript characters: 1291
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Alphabet, if you look, everybody talks
+[00:01] about how data intense everything
+[00:03] hyperscalers are looking at what
+[00:05] Alphabet has done to get more and more
+[00:08] efficient in terms of how they run their
+[00:10] LLM, how they run Gemini, and how they
+[00:12] use tokens and everything else. That's
+[00:14] going to be a race that everybody else
+[00:15] has, and a big part of that is how do
+[00:16] you use power more efficiently? And so
+[00:18] Vicor, V O C R, it is a company that
+[00:21] basically makes the equipment that steps
+[00:23] down power. Right? The way that we The
+[00:26] way that we basically transmit power in
+[00:27] terms of volts, watts, amps, basically
+[00:30] when we're transferring it long
+[00:31] distances, we need to basically
+[00:33] massively ramp up the voltage because
+[00:35] that actually keeps the power from
+[00:37] degrading. But when you send that into a
+[00:38] data center, if you did that, you would
+[00:40] fry every single Blackwell chip, every
+[00:42] single Nvidia chip, every single Micron
+[00:44] chip that's in there, and you would be
+[00:46] sitting on a a $24 billion investment
+[00:48] that you just lit on fire. And so we
+[00:50] need to step those things down. Well,
+[00:51] Vicor has some of the best technology
+[00:53] out there for the for the functionality
+[00:55] to basically allow you to have the step
+[00:57] down in power to a very, very high amp,
+[01:00] low voltage level that it is exactly
+[01:02] what the chips need to consume without
+[01:04] everything getting way too hot and
+[01:06] frying the chips from that way.

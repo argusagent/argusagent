@@ -7,9 +7,342 @@ Type: video
 Duration: 13:09 (789s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 334
+Transcript characters: 11998
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Welcome everyone. We're launching a new
+[00:02] midweek update on this channel. CES is
+[00:05] underway. There's major news out of
+[00:08] Nvidia and we're also looking at how
+[00:10] global political shifts could impact
+[00:12] investors. Let's get into it. Welcome
+[00:14] back to Navier Market Buzz.
+[00:22] Jensen, the Nvidia CEO, says demand for
+[00:25] the GPUs is skyrocketing. What does he
+[00:28] mean by that?
+[00:29] >> Well, it means that he's starting to
+[00:32] grow exponentially. The big news is
+[00:34] Jensen clarified that Nvidia's next
+[00:38] generation AI chip V Rubin is in full
+[00:41] production and is scheduled for delivery
+[00:43] to customers later this year. Now, the
+[00:45] Ver Rubin architecture is actually a six
+[00:48] chip system that combines a Vera CPU
+[00:53] with two Reuben GPUs. GPUs are graphic
+[00:56] processing units which is designed to
+[00:59] provide significant improvements in both
+[01:01] speed and power efficiency.
+[01:03] Specifically, the Ver Rubin um AI GPU
+[01:07] promises up to five times greater
+[01:09] performance and 10 times lower cost per
+[01:13] query than Nvidia's current existing
+[01:16] Blackwell GPUs. In other words, the next
+[01:19] generation GPU will be lowering the cost
+[01:22] of utilizing AI, which should help it
+[01:25] spread exponentially. It is very, very
+[01:28] odd for a company as big as Nvidia to
+[01:31] experience exponential growth, but
+[01:33] that's exactly what is happening.
+[01:35] >> And now Jensen had robots and heavy
+[01:37] equipment behind him at the CES. What
+[01:40] did he announce about Nvidia's role in
+[01:42] robotics and self-driving? Well, Jensen
+[01:45] said that Nvidia is working with robo
+[01:47] taxi operators in the hopes of having
+[01:50] them use the company's AI chips and
+[01:53] drive AV software stack to power their
+[01:56] fleets of autonomous vehicles as soon as
+[01:59] 2027.
+[02:00] Specifically, Nvidia is focused on level
+[02:03] four robo taxis that can drive without
+[02:06] any human intervention in a predefined
+[02:09] area. So, that's what a level four is.
+[02:12] They map it out and they get approval to
+[02:16] basically drive with the machines. Now,
+[02:18] Jensen added that robotics, including
+[02:20] self-driving cars, is the company's
+[02:22] second most important growth category
+[02:24] after AI. Now, they had the Boston
+[02:27] Dynamics robot there with other robots.
+[02:30] So, um, robotics is mostly on the
+[02:32] factory floor right now and in
+[02:34] warehousing, but eventually it's going
+[02:36] to be invading our homes and we'll have
+[02:38] our own little robotic butlers. Now,
+[02:40] since Nvidia is working with robo taxi
+[02:42] operators, can you talk about how they
+[02:45] might end up competing in the future
+[02:47] with Whimo and Tesla's robo taxi?
+[02:49] >> Nvidia makes alliances
+[02:52] uh versus uh competes head-on. So, I'm
+[02:55] pretty sure Whimo is going to be using
+[02:57] their driveab software, okay, with LAR
+[03:01] sensors from HSAI. That's a Chinese
+[03:04] company. Now Tesla has their own unique
+[03:07] operating system that is based on
+[03:09] camera. So I'm not sure Tesla will be
+[03:11] using Nvidia's drive AV software but
+[03:14] they're welcome to Nvidia offered to
+[03:16] them and um we don't really care who
+[03:18] wins the robo taxi wars. We just want it
+[03:20] to get underway and clearly
+[03:23] it is underway in all major cities that
+[03:26] have robo taxis and level level four uh
+[03:29] approval. So this is getting to be
+[03:31] pretty exciting. Now, level five will be
+[03:34] when we have robo taxis on roads that uh
+[03:37] have not been preapproved. So, we we're
+[03:39] not near level five yet, but we're
+[03:41] definitely in level four.
+[03:42] >> Now, we saw a lot of micro RBGTVs
+[03:46] at CES this year. What are they and why
+[03:48] should consumers care?
+[03:50] >> Well, this is very interesting. As you
+[03:52] probably know, an OLED TV is beautiful.
+[03:55] There are introducing new OLED TVs that
+[03:58] are brighter, but your maximum OLED TV
+[04:01] right now is 97 in through LG. If you
+[04:04] want to get a bigger TV and brighter TV,
+[04:07] it's going to have to be a microorgb.
+[04:11] Now, they're changing the names. They
+[04:13] used to call it mini LEDs. Now, they're
+[04:16] calling it microorgbs,
+[04:18] but here's what it is. These are TVs
+[04:20] that are have tinier and tinier LEDs.
+[04:24] They are going to have better long-term
+[04:26] durability. Uh they um work better in
+[04:30] bright rooms. And last year the big deal
+[04:32] at CES was 115in TVs. And multiple
+[04:36] manufacturers make them. Now Samsung
+[04:39] just revealed 130in TV. So as you
+[04:43] probably know during the football
+[04:45] playoffs, big TVs are a big deal. And
+[04:48] every American male needs one of these
+[04:50] TVs. And this year we now need 130inch
+[04:53] TV. while last year we only did 115 in.
+[04:56] So this is a very interesting thing
+[04:58] that's underway. Now if you look at
+[04:59] Sony's TV lineup, their premium TVs are
+[05:02] these micro RGB uh televisions now, not
+[05:05] the OLEDs. So there's a size war
+[05:08] underway. What I expect is that TCL,
+[05:11] which is a Chinese company that built
+[05:13] the biggest factory to make these uh
+[05:15] micro LEDs, is going to be the eventual
+[05:18] winner. Okay? Because they can just
+[05:21] produce them cheaper than anybody else.
+[05:23] And even today when you go into a Costco
+[05:25] you will see the TCL micro LED TVs
+[05:29] available but they've renamed
+[05:30] everything. MicroLEDDs
+[05:32] which are now called RGB TVs are the
+[05:36] latest and greatest technology and
+[05:38] everyone is doing it.
+[05:39] >> Now I want to switch to some global
+[05:41] commotion that's been going on. Actually
+[05:43] this past Saturday I saw the Venezuelan
+[05:45] president land in front of my apartment
+[05:47] and get escorted down to Brooklyn. So,
+[05:49] Dad, how are the markets reacting and
+[05:51] how should investors be paying attention
+[05:53] with this new political shift in
+[05:55] Venezuela?
+[05:56] >> Well, the reaction was obviously very
+[05:58] positive because we gapped up on Monday
+[06:00] and uh the market still very firm, but
+[06:02] we just removed a bunch of uncertainty
+[06:04] and Venezuelan made the world more
+[06:06] uncertainty. They sold uranium to Iran.
+[06:09] They were selling oil to some countries
+[06:12] we're not very friendly with like Cuba,
+[06:14] China, Russia. So now everything's been
+[06:17] uh reshuffled for lack of a better word
+[06:19] and Marco Rubio is in charge and it was
+[06:22] a big team and he's going to work with
+[06:24] Maduro's lieutenants, believe it or not,
+[06:26] his vice president who's now president
+[06:28] and I'm sure there's going to be a purge
+[06:30] and they're going to try to reduce the
+[06:32] corruption and all, but the big deal is
+[06:34] to expand the oil industry and to stop
+[06:37] pillaging the country and to restore
+[06:39] prosperity for all Venezuelans. So the
+[06:43] issue is Chevron's the big winner. Saw
+[06:46] it gap up. Now it's back in filling.
+[06:48] They have current operations there.
+[06:50] Exxon and Kico Phillips also had
+[06:52] operations in Venezuela, but got kicked
+[06:54] out after their um the fields were
+[06:57] nationalized. So I suspect they're going
+[06:59] to be a little cautious going back.
+[07:01] Exxon's very busy in the region with
+[07:03] Guyana nearby. So this is going to be
+[07:05] very interesting. But basically, we want
+[07:08] corporate America to start taking over
+[07:11] Venezuela to spread peace and
+[07:13] prosperity. That's the goal, and that's
+[07:15] Marco Rubio's uh first job. Now, the
+[07:18] other interesting development is Cuba
+[07:20] was very dependent upon Venezuela. So, I
+[07:23] suspect they're going to be in a very
+[07:25] precarious situation now, and the
+[07:27] blackouts they've been having because of
+[07:29] lack of oil and things are going to
+[07:32] continue. So, it'll be fascinating to
+[07:34] see what happens to Cuba. So that's
+[07:36] going to be the next domino to fall
+[07:38] because of what happened in Venezuela.
+[07:40] The other big international development
+[07:41] of course is Iran. The protests are
+[07:44] continuing. There's all these reports
+[07:46] that some of the mullas are going to
+[07:47] flee to Russia. That is unconfirmed
+[07:49] right now. But the security services in
+[07:52] Iran are killing more protesters. And
+[07:54] the question is, are the mullers losing
+[07:56] control? And it certainly appears so.
+[07:58] But uh we have no evidence they're going
+[08:00] to flee. But that is the report that's
+[08:02] uh coming out. Beyond oil producers,
+[08:04] what other companies or sectors could
+[08:06] benefit if Venezuela's energy industry
+[08:09] opens up further?
+[08:10] >> Well, it's going to be any company wants
+[08:11] to have a presence in Venezuela because,
+[08:13] you know, Venezuela was the most
+[08:14] prosperous country in uh in Latin
+[08:17] America. Um,
+[08:19] so they can do a lot more than just oil.
+[08:21] In fact, they used to have a lot of
+[08:23] aluminum uh manufactured down there
+[08:25] because do all their hydro power. uh
+[08:27] they did mismanage the the aluminum
+[08:29] plant and uh it's in uh to total
+[08:33] disarray right now, but Alcoa had a big
+[08:35] plant down there at one time. So, it's
+[08:37] really up to corporate America to go in
+[08:39] and systematically take over. I hope the
+[08:42] US banks are allowed down there. You
+[08:43] know, the Venezuelan central bank is now
+[08:46] totally dependent upon the dollar.
+[08:47] Maduro did raid the central bank's gold
+[08:49] reserves. So, there's really no reason
+[08:51] for Venezuela to have a central bank.
+[08:53] They're basically a dollar-based
+[08:56] currency right now. So hopefully that
+[08:58] that expands down there. You know, this
+[09:00] is uh this is going to be a big shock
+[09:02] for a lot of people and we want all the
+[09:05] great uh Venezuelan expats that live in
+[09:07] America, a lot of them are in, of
+[09:09] course, Dorado, Florida, to basically go
+[09:11] back and help the country. So this is
+[09:13] going to be very interesting to watch,
+[09:15] but it's it's going to be have to be led
+[09:17] by corporate America. Marco Rubio is
+[09:20] going to be leading this incredible
+[09:21] reorganization. So, uh, this is going to
+[09:24] define his, um,
+[09:26] his historical, um, tenure as Secretary
+[09:29] of State. And if Marco Rubio does a good
+[09:31] job, he might very well be our next
+[09:33] president.
+[09:34] >> Now, I want to switch over to some
+[09:35] subscriber questions. What are your
+[09:37] opinions on USA?
+[09:38] >> That's a rare earth company that I wrote
+[09:40] a report on. I wrote them on a few rare
+[09:42] earth companies. It's not making money
+[09:44] yet, but it's forecasted to have
+[09:46] explosive sales. So, as rare earths
+[09:48] return to America, it's a big deal. And
+[09:51] by the way, there are rare earths in
+[09:52] Venezuela. There's a lot of gold you can
+[09:54] mine in Venezuela as well. So as we
+[09:57] onshore more and more of these kind of
+[09:58] companies, US is going to prosper, but
+[10:02] it doesn't earn money yet. So please be
+[10:04] aware of that. I am I don't have it
+[10:05] under management. I don't have it
+[10:07] recommended in my newsletters, but I
+[10:09] have written special reports on the
+[10:11] stock and other rare earth companies.
+[10:13] >> And where do you think quantum is going
+[10:15] this year?
+[10:16] >> Oh, quantum computing. Well, it's
+[10:18] getting pretty exciting uh because
+[10:20] D-Wave is making a lot of progress. It's
+[10:22] getting a lot of public press. Of
+[10:24] course, D-Wave won the Nvidia quantum
+[10:27] contest and you know, Regetti seems to
+[10:30] be the one that's going to win
+[10:31] encryption. IQ set up the Quidbit
+[10:34] standard that they're going to be using
+[10:35] for packaging data for quantum computers
+[10:38] and Peter Theel's company is another
+[10:40] quantum computing company that's seems
+[10:42] to be up and coming. But right now,
+[10:44] D-Wave is the leader. They are uh their
+[10:47] sales are stronger. They are not earning
+[10:49] money yet, but uh if you make me pick
+[10:51] one, I'm going to pick D-Wave. That's
+[10:53] QBTS.
+[10:54] >> And lastly, can you comment on PSOX?
+[10:57] >> Yeah, that's Power Solutions
+[10:58] International that gapped up with the
+[11:00] basically the data center rally. And now
+[11:03] it's backing and filling as are other uh
+[11:05] data center related stocks. They had an
+[11:07] incredible run on Friday and Monday. But
+[11:10] they are also very busy in the oil
+[11:12] fields providing power out there. So,
+[11:14] I'm very comfortable with PSIX. Now,
+[11:16] this stock is still growing, but it's
+[11:18] earnings momentum has slowed and uh so
+[11:21] sometimes stocks get more volatile when
+[11:23] that happens, but like a lot of my
+[11:25] stocks, I going to wait for the earnings
+[11:27] to come out and I'm going to count on
+[11:28] those earnings to drop kick and drive
+[11:30] that stock higher. I should add that
+[11:33] when the ISM manufacturing report came
+[11:35] out, it was very interesting. It has
+[11:38] contracted for 10 straight months and
+[11:40] really to get manufacturing fixed we got
+[11:42] to get the uh interest rates down which
+[11:44] will stimulate automotive sales and home
+[11:46] sales but there are 17 industries ISM
+[11:49] surveyed and only two were up and they
+[11:51] were basically electrical equipment and
+[11:53] computing. So basically data centers are
+[11:56] still dominating the manufacturing
+[11:58] growth in America and I found that to be
+[12:01] very very interesting. We want the
+[12:02] market to broaden out but this quarter
+[12:05] will be a quarter where I expect the
+[12:07] data center stocks will continue to
+[12:08] reassert themselves led by of course
+[12:10] Nvidia Palunteer technologies apploving
+[12:14] and then all the companies that build
+[12:15] out the power grid and that would
+[12:17] include GE Vernova that would be Bloom
+[12:20] Energy uh that would be MCOR that would
+[12:23] be Quantis services that's PWR another
+[12:27] one is Vertive that's VRT and um and
+[12:30] then UI is makes a lot of cabling uh and
+[12:33] and the connection boxes for the
+[12:35] high-speed internet that goes on the
+[12:37] data centers. So, the data center stocks
+[12:40] really really went nuts here in the last
+[12:42] few days and they might back and fill a
+[12:44] bit, but they are the leaders this year
+[12:47] and I'm proud that they're 45% of my
+[12:49] portfolios.
+[12:50] >> Well, thank you so much for joining us
+[12:51] for this midweek market update. We will
+[12:54] be doing these moving forward in 2026,
+[12:57] but we will see you all this Sunday for
+[13:00] another video. Thanks so much everyone.
+[13:03] [music]

@@ -7,9 +7,308 @@ Type: video
 Duration: 11:08 (668s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 300
+Transcript characters: 10268
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Everyone thinks [music] the AI boom is
+[00:01] all about chips.
+[00:03] >> There's been all these bottlenecks
+[00:04] expanding [music] data centers in AI.
+[00:06] Now they have to get their own power.
+[00:08] There's There's a shortage of those.
+[00:10] There's the regenerative AI,
+[00:11] >> [music]
+[00:11] >> which Nvidia dominates. A lot of our AI
+[00:14] in the future will not be regenerative.
+[00:20] Dad, you just added five new AI and data
+[00:23] center stocks to your portfolio. We're
+[00:24] going to be talking about your top
+[00:26] three. But what is driving this decision
+[00:28] that made you want to buy these? The
+[00:30] rising order backlogs. It keeps getting
+[00:32] bigger and bigger. It's definitely the
+[00:34] data center boom is going to go out
+[00:38] three plus years.
+[00:40] They're over 50% of the construction in
+[00:42] America right now.
+[00:44] So this is not going away. You keep
+[00:46] talking about these three-year order
+[00:48] backlogs. Can you explain to our
+[00:50] audience in plain English what you mean
+[00:52] by that?
+[00:52] >> Sure. There's been all these bottlenecks
+[00:55] expanding
+[00:56] data centers in AI. The first is the
+[00:59] chips.
+[01:00] Everybody's trying to expand,
+[01:02] but you can only scale up so fast, okay?
+[01:05] That's the first bottleneck. The second
+[01:07] bottleneck is energy, okay? President
+[01:09] Trump in the State of the Union
+[01:11] basically told the industry to don't tap
+[01:13] into the grid and
+[01:15] raise everybody's electrical rates.
+[01:17] So now they have to get their own power,
+[01:19] okay? Which is usually a natural gas
+[01:21] line.
+[01:23] And then they have to get a Bloom Energy
+[01:24] natural gas fuel cell or GE Vernova
+[01:27] natural gas turbine to build their power
+[01:30] plants and there's there's a shortage of
+[01:32] those. There's order backlogs on those.
+[01:34] Then we hit the memory shortage, okay?
+[01:36] So that helped the Microns and the
+[01:39] Seagate Technologies and there's other
+[01:41] stocks out there that build memory.
+[01:43] >> Well, that's a perfect segue. We just
+[01:45] got Nvidia's earnings this week. What do
+[01:47] you make of the numbers? Well, obviously
+[01:49] Nvidia, like always, beats on sales,
+[01:52] earnings. They raised their guidance.
+[01:54] And then people wonder why doesn't the
+[01:56] stock go up? And the answer is sometimes
+[01:58] I think the market makers wrote too many
+[02:00] covered call options on it.
+[02:03] When you write an option, if the stock
+[02:04] goes up they have to deliver stock, they
+[02:06] don't want to do that. They just want to
+[02:08] collect free option premiums, so they
+[02:10] run a mean reversion program to try to
+[02:11] knock the stock down.
+[02:13] Nvidia has already rallied going into
+[02:15] this earnings announcement, so any
+[02:17] consolidation Nvidia is a buying
+[02:20] opportunity. In my opinion, the stock
+[02:22] will be $300 by the end of the year
+[02:24] and $500 by the end of the decade. So no
+[02:27] one should be worried. No. Now, before
+[02:29] we get to stocks, there's a wildcard in
+[02:31] the memory market right now. Tell me
+[02:33] about Samsung.
+[02:34] Samsung is the biggest manufacturer of
+[02:37] uh memory chips
+[02:39] and there's a looming labor strike. The
+[02:41] labor union would like 15% of its
+[02:43] revenue distributed to the workers. In
+[02:46] South Korea, the the government kind of
+[02:48] mediates the the the fights between the
+[02:51] union and the companies,
+[02:53] but the workers are on strike, which
+[02:55] would make the memory shortage even more
+[02:57] acute. So this would obviously help
+[03:00] Micron Technology probably the most.
+[03:02] And then of course SanDisk and other
+[03:04] memory-related companies. All right,
+[03:06] let's get to our first stock. Taiwan
+[03:08] Semiconductor, they are the company that
+[03:10] actually makes Nvidia's chips. What made
+[03:13] you buy them this week? The order
+[03:14] backlog just kept getting bigger and
+[03:16] bigger. They already provided incredible
+[03:19] sales guidance. They do provide monthly
+[03:21] sales guidance and it's just
+[03:23] unbelievable where they're at and they
+[03:26] may have 40% sales growth when this year
+[03:29] is over. They had provided 30% guidance.
+[03:32] They don't go over 30% every month, but
+[03:34] the first few months this year that was
+[03:35] approaching 40%, so
+[03:38] we're expecting spectacular results from
+[03:40] them and obviously they're expanding to
+[03:42] America cuz they have the big plant in
+[03:43] Arizona.
+[03:45] And they make all the high-end chips,
+[03:46] you know, the Microsoft Surface laptops
+[03:49] have their chips, so does so the Apple
+[03:50] products. There's talk that Intel might
+[03:53] eventually make some of those things.
+[03:54] The Intel used to make them.
+[03:56] But as far as I'm concerned, Taiwan Semi
+[03:59] just makes better chips. They're They're
+[04:01] more energy efficient. They They run
+[04:02] cooler. And that was a big development
+[04:04] in the Blackwell. The Blackwell was
+[04:06] cooler and more energy efficient. And
+[04:09] that's important cuz there'll be a
+[04:10] replacement cycle in the data centers in
+[04:12] the upcoming years. So, Taiwan Semi
+[04:14] sitting on all cylinders and I decided
+[04:16] to invest in it. But they're basically
+[04:19] an AI pure play at this point, right?
+[04:21] Yes.
+[04:22] Absolutely. But, you know, there's two
+[04:25] types of AI. There's the regenerative
+[04:27] AI, which uh Nvidia dominates.
+[04:31] And then there's AI based on things that
+[04:33] are correlated. So, just like when you
+[04:35] do a search, you can just do a search on
+[04:37] correlated, or you can throw it out to
+[04:39] AI and see what the machine say.
+[04:41] So, a lot of our AI in the future will
+[04:43] not be regenerative. It will be based on
+[04:45] correlated things.
+[04:47] And I I think that's fine, and that's
+[04:49] why there's other chip companies out
+[04:51] there. What about geopolitical risk? Is
+[04:53] there anything to be worried about
+[04:54] there? Well, that's an interesting
+[04:56] question. I don't think so. In all
+[04:59] candor, I'm actually shocked that the US
+[05:02] controls world energy markets. We
+[05:04] control Venezuela. We control Guyana,
+[05:07] which is the most exciting find in both
+[05:09] North and South America in decades. The
+[05:11] blockage in the Strait of Hormuz didn't
+[05:13] hurt America. I mean, it gas prices go
+[05:16] up, but it doesn't hurt us cuz we're
+[05:18] food energy independent.
+[05:20] And you know, when other countries
+[05:22] complain, President Trump made it very
+[05:24] clear, "Hey, you need some oil? Just go
+[05:25] to the Gulf of America." And 121 tankers
+[05:28] went went there to fill up.
+[05:30] So, alternative routes are being
+[05:32] resolved. Obviously, they are getting
+[05:34] more traffic through the Strait of
+[05:35] Hormuz. UAE has left OPEC. Okay, they
+[05:38] want to up their production.
+[05:40] So, we do expect that oil prices will be
+[05:43] going down in the fall when worldwide
+[05:44] demand drops off. But long term, you
+[05:47] know, the US is going to be driving the
+[05:49] bus for world energy markets for some
+[05:51] time. And I did not anticipate that. I
+[05:54] didn't think that was part of the master
+[05:55] plan, and but it's where we are now. So,
+[05:58] I'm really looking forward to us leading
+[06:00] the world for the foreseeable future, no
+[06:02] matter who we elect. I'm going to take a
+[06:04] quick moment just to say thank you to
+[06:06] you all for watching us. We hope you
+[06:08] enjoy us being in the studio today. If
+[06:10] you do, please give this video a like
+[06:12] and subscribe if you haven't already. We
+[06:14] have two more stocks to get into, so
+[06:16] let's start out with stock number two.
+[06:18] What is this pick? Explain to everyone
+[06:19] why this was also on your radar this
+[06:21] week.
+[06:22] >> End Veo Electric is actually a British
+[06:23] company. They make electrical equipment
+[06:25] for all the utilities.
+[06:27] Obviously, the demand for everything,
+[06:30] transmission lines and everything, is is
+[06:32] exploded. And they're naturally
+[06:34] benefiting from the data center boom,
+[06:36] even though they're British. And they
+[06:37] compete with some American companies,
+[06:39] but yeah, I'm ecstatic with their
+[06:40] forecast of sales and earnings and and
+[06:43] their order backlog, as well. So, this
+[06:45] stock isn't just about the chips, but
+[06:46] the infrastructure that makes the chips.
+[06:49] Why this play now?
+[06:51] Well, because we have a chip boom.
+[06:52] Obviously, Advanced Micro Devices had
+[06:54] great results. Intel had great results.
+[06:56] Obviously, Nvidia leads the way. The
+[06:58] entire semiconductor industry is
+[07:00] prospering.
+[07:01] >> So, a lot of people haven't actually
+[07:02] heard of this stock, which brings me to
+[07:04] one of our subscriber questions. How are
+[07:06] you finding some of these names that,
+[07:07] you know, aren't overhyped or over
+[07:09] named?
+[07:11] I'm just running my database. We have
+[07:13] databases on 6,000 stocks. We do our our
+[07:15] research on weekends, but we start with
+[07:17] the quantitative research, which is
+[07:20] mathematically alpha over standard
+[07:22] deviation. Alpha's the return
+[07:24] the stock has independent of the market,
+[07:26] and we divide it by volatility. So,
+[07:28] essentially, the stocks we're looking at
+[07:30] are under persistent institutional
+[07:32] accumulation, and they often go up on
+[07:33] down days.
+[07:35] So, that's that's my thing. It's high
+[07:37] alpha, low beta, low standard deviation.
+[07:39] Once the stocks fit that criteria, then
+[07:41] we do this deep fundamental dive with
+[07:43] our eight-factor fundamental model.
+[07:46] And that's where we want, you know, the
+[07:47] strong sales growth, the strong earnings
+[07:49] growth. We like earnings grow faster
+[07:51] sales from margin expansion. We like
+[07:53] positive revisions cuz when analysts
+[07:54] companies revise their estimates higher,
+[07:56] it puts buying pressure on the stock. We
+[07:58] like the stocks have a good surprise
+[07:59] history. They should also have a high
+[08:02] return on equity and cash flow.
+[08:04] So, we rank the stocks on that criteria,
+[08:06] and then we go into every earnings
+[08:08] season locked and loaded with
+[08:09] fundamental superior stocks.
+[08:11] So, when fundamentals are on, I'm on,
+[08:13] okay? Sometimes the market isn't
+[08:15] obsessed with fundamentals. They're
+[08:16] obsessed with a theme or something, you
+[08:18] know?
+[08:19] And, you know, the markets are
+[08:21] very skittish, you know, they you know,
+[08:24] they could become obsessed with oil or
+[08:25] copper or gold or
+[08:28] you know, I'll be in those plays when
+[08:30] they have earnings, okay? So,
+[08:33] we picked up some Canadian gold stocks.
+[08:35] We picked up some Canadian energy
+[08:38] stocks. We picked up five oil tankers.
+[08:41] So, you know, we'll pick up things that
+[08:43] are theme oriented, but most of the time
+[08:45] we just go into earnings season with
+[08:47] unbelievable fundamentals, and we'll let
+[08:49] those fundamentals drop-kick and drive
+[08:51] the stocks higher.
+[08:52] And the big development this quarter is
+[08:54] we double down and found more AI stocks
+[08:56] to buy.
+[08:57] So, we're not running from AI. We're
+[08:59] we're diving in feet first cuz it's
+[09:01] expanding. Well, that's a perfect segue
+[09:03] into stock number three. This one isn't
+[09:06] a household name, but their last quarter
+[09:08] was shocking. What is the third stock?
+[09:11] That's Silicon Motion Technology. It's
+[09:13] just prospering for the entire boom in
+[09:16] semiconductor industry. Obviously, we
+[09:18] have Intel that had good results,
+[09:20] Advanced Micro Devices had good results.
+[09:23] It's just not Nvidia anymore. Do you
+[09:25] know what I mean? So, as the entire
+[09:27] semiconductor industry improves, their
+[09:30] business gets better and better. They're
+[09:31] picking up a lot of ancillary business.
+[09:34] So, I I have had that stock in one of my
+[09:36] other
+[09:37] letters, a more aggressive letter, and
+[09:39] then the company's getting bigger and
+[09:40] it's uh graduating my graduating to my
+[09:43] large cap growth portfolios. Well, there
+[09:45] you have it. Three new AI stocks put on
+[09:47] your radar. If you enjoyed this video,
+[09:50] please give this video a like and
+[09:51] subscribe if you haven't already. As
+[09:53] always, drop any questions that you have
+[09:55] in the comments below and we'll answer
+[09:56] them this upcoming Wednesday. But, thank
+[09:59] you again so much for watching and we'll
+[10:00] see you in our next video.
+[10:09] >> [music]
+[10:17] [music]
+[10:24] [music]
+[10:34] [music]
+[10:44] [music]

@@ -7,9 +7,21 @@ Type: short
 Duration: 0:24 (24s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 13
+Transcript characters: 452
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Snowflake reports tomorrow, still a show
+[00:02] me stock. Are they showing you anything?
+[00:04] Well, they got a pretty good earning
+[00:05] surprise history. Their sales is
+[00:07] supposed to be up at 27%. That's
+[00:09] obviously very impressive. Their earning
+[00:11] is supposed to be up 33.3%.
+[00:13] The Altimeter has been quiet on this
+[00:15] stock though for the last uh couple
+[00:16] months, but uh yeah, as long as they
+[00:18] have good sales and earnings and keep
+[00:20] those surprises up, it should be up up
+[00:22] and away for Snowflake.

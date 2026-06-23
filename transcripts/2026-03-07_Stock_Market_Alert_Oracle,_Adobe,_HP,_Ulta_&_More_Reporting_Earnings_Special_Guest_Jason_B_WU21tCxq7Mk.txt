@@ -7,9 +7,419 @@ Type: video
 Duration: 15:10 (910s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 411
+Transcript characters: 13810
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] It's another big earnings week for the
+[00:02] market. Today, we're going to be going
+[00:03] over some major companies such as HP,
+[00:06] Oracle, Adobe, Ulta Beauty, and more.
+[00:09] Joining us today is the co-founder of
+[00:11] Money Flows, Jason Bodner. We're going
+[00:13] to be going over what investors should
+[00:15] be watching and which stocks could move.
+[00:18] Welcome back to Nadler Market Buzz.
+[00:24] >> [music]
+[00:25] >> Let's turn into earnings season. Several
+[00:27] major companies are reporting. Let's
+[00:29] start out with HP Inc. Is the PC market
+[00:33] finally stabilizing?
+[00:34] >> Not really. Their sales on Microsoft
+[00:37] Surface laptops, Apple laptops, they're
+[00:40] all trying to throw it out. Of course,
+[00:41] HP dominates printers, which people
+[00:43] apparently don't need anymore. But, they
+[00:46] have surprised in the past two quarters.
+[00:48] Their sales are supposed to be up by
+[00:50] 6.6%.
+[00:52] Earnings are supposed to be only up 4/10
+[00:54] of a percent. The analysts have trimmed
+[00:56] their estimates last 90 days, 7 days.
+[00:59] But, this company did surprise last two
+[01:01] quarters.
+[01:02] They do make
+[01:04] some servers, you know, for the data
+[01:06] centers and all. They're not as dominant
+[01:08] as Dell or Super Micro or
+[01:11] or Vertiv Holdings. But, um
+[01:14] uh
+[01:15] I I would like them to surprise, but
+[01:17] this is not on my radar at all.
+[01:19] >> Yeah, I'm going to go ahead and agree
+[01:20] with Louie. We've seen tons of outflows
+[01:23] in this
+[01:25] company.
+[01:26] Um
+[01:27] downward revisions Uh we are also seeing
+[01:32] um not terrific sales and earnings
+[01:34] growth, and they just eke out a profit
+[01:36] margin. So, really here, what people
+[01:38] want to be looking for is their
+[01:40] guidance. What are they going to do
+[01:42] going forward? Because, as to your
+[01:44] point, earnings estimate changes have
+[01:46] been lower and lower for the past 3
+[01:49] months, 1 month, etc.
+[01:51] Um
+[01:52] I would like to see not just a beat, but
+[01:55] a guide higher to get this stock moving
+[01:58] higher, and I'm not necessarily
+[01:59] confident that it'll do so. It's not on
+[02:02] my It's been a bottom tone in 10 stock
+[02:05] recently, so it's not on my radar.
+[02:06] >> Now, Oracle is leaning hard into AI and
+[02:09] cloud. Is the market underestimating its
+[02:11] AI opportunity?
+[02:13] >> Maybe. Uh let's talk about what Oracle
+[02:15] is going to do. Their sales is supposed
+[02:17] to be up 19.6, their earnings is
+[02:19] supposed to be up 16. Uh the analyst
+[02:21] estimates are pretty darn steady. Last
+[02:24] quarter though, they had a 38% surprise,
+[02:26] and that's largely due to the data
+[02:28] center expansion. So, they could have
+[02:30] another big surprise. I'd like to see
+[02:32] their operating margins expand cuz their
+[02:34] earnings aren't growing as fast as
+[02:35] sales. Um but I'm going to be nice to
+[02:38] Oracle since Larry Ellison's my
+[02:40] neighbor. I do not own the stock.
+[02:42] >> Um I I'm
+[02:44] with you. I think they're Look, it's
+[02:46] kind of middle of the road stock for me,
+[02:48] better than average fundamentals, really
+[02:50] weak technicals. You look here, tons of
+[02:52] outflows. Uh the stock's been beaten up.
+[02:55] On the fundamental side here, decent
+[02:58] sales and earnings growth, very strong
+[03:00] profitability. They have a truckload of
+[03:02] debt, but they're investing heavily into
+[03:04] AI. The one sort of wildcard here is
+[03:08] they're part of this whole Stargate
+[03:09] initiative seeing a huge investment. And
+[03:13] um I think longer term, it's a good bet.
+[03:16] So, any sort of surprise to the upside
+[03:20] with positive guidance coming out of
+[03:22] this downtrend, it would
+[03:24] The risk is to the upside for this
+[03:26] stock. But, it doesn't exhibit the
+[03:28] qualities that I love. Um
+[03:30] so, you know, I think you need to just
+[03:33] see positive guidance in a downtrending
+[03:36] stock to snap that that trend.
+[03:38] >> Adobe has been rolling out generative AI
+[03:40] tools. Are they actually driving growth
+[03:42] yet?
+[03:43] >> Yeah, they are. Uh yeah, fourth quarter
+[03:45] they had a a very nice beat. Again, the
+[03:47] first quarter their sales is supposed to
+[03:49] be up 9.9%.
+[03:51] Earnings is supposed to be up 15.6%.
+[03:54] Uh we have positive earnings revisions
+[03:57] here in the last 90 days. But what I
+[03:58] really like in the last 30 days, we have
+[04:01] 23 analysts revise their estimates
+[04:03] higher in the past month. And that's a
+[04:05] good sign. So I have hope for Adobe. Its
+[04:09] absolute sales and earnings growth
+[04:10] aren't strong enough to be in my
+[04:12] portfolio yet, but it's uh it's it's
+[04:14] improving.
+[04:15] >> Yeah, I'm with you. I mean, look at this
+[04:17] fundamental score that's sort of current
+[04:20] and back-looking
+[04:22] very strong. Technically, it's weak. You
+[04:25] know, this has been one of those
+[04:26] software stocks beat up. AI's going to
+[04:29] come eat its lunch, etc. But they are
+[04:31] implementing
+[04:33] uh generative AI, like you said. Uh good
+[04:37] strong sales and earnings growth, not at
+[04:39] the way it used to be, but a strong
+[04:41] profit margin. Um their PE is 12 times
+[04:45] earnings in the software space. I mean,
+[04:47] that to me is cheap. And to your point,
+[04:50] Louie,
+[04:51] their quarterly estimated change versus
+[04:54] a month ago has been rising. Um and they
+[04:57] have positive sales revisions.
+[05:01] Uh and their analyst revisions are
+[05:03] getting a bump up in the buy rating. So
+[05:05] again, you know, you get sort of this
+[05:08] asymmetrical payoff, and we started to
+[05:10] see a bounce here. But all we need to do
+[05:13] is have them come out and say, "Yeah,
+[05:15] we're going to exceed expectations." And
+[05:17] I think you see a re-rate higher in this
+[05:20] >> Looking at retail, what will results
+[05:21] from Dollar General tell us about the
+[05:23] consumer?
+[05:24] >> Well, Dollar General's beat the last
+[05:26] three quarters pretty big. Their sales
+[05:28] are forecast to be up 4.9.
+[05:31] Earnings are forecast to be down three
+[05:32] and a half. But we have positive upward
+[05:34] earnings revisions here recently. That's
+[05:37] a good sign. And again, they've had very
+[05:40] big surprises. Last quarter was uh
+[05:43] 38.3%. So I'm expecting in to surprise.
+[05:46] >> Yeah, um I think like you just said,
+[05:48] we're seeing really strong upward
+[05:50] revisions. Uh
+[05:53] and this is a company that's kind of You
+[05:55] see the technical strength here. Okay,
+[05:58] we got a strong technical score and a
+[06:00] ho-hum fundamental. And why is it
+[06:02] ho-hum? It's just kind of average. It's
+[06:04] exhibiting growth, but not terrific
+[06:06] growth. You see these massive inflows
+[06:08] lifting it up recently, and we kind of
+[06:10] stalled here. So, everybody's waiting to
+[06:12] see what they're going to do with
+[06:13] earnings. You have decent sales and
+[06:15] earnings growth on a 3-year basis, it's
+[06:17] negative. And they're just eking out a
+[06:19] profit margin. So, any sort of upward
+[06:22] revision in uh
+[06:25] in profit margins, gross margins, or
+[06:28] upward guidance is going to be huge for
+[06:30] this stock. They are sort of weighed
+[06:32] down by a lot of debt, but in a falling
+[06:34] rate environment, that's going to be
+[06:36] good for them. So, I would like to see a
+[06:38] surprise in the profit margin.
+[06:40] >> Continuing with retail, what do you
+[06:42] expect for Dick's Sporting Goods?
+[06:44] >> Dick's is a really a conundrum. Although
+[06:46] it's beaten the last four quarters,
+[06:48] their sales um are just stronger than
+[06:50] their earnings, and that's confusing.
+[06:51] The analysts are forecasting 55.7% sales
+[06:55] growth. I believe that's from an
+[06:56] acquisition, but their earnings are
+[06:57] supposed to decline um 17.9%.
+[07:01] We have some analyst trims, but again,
+[07:03] they do have a good surprise history.
+[07:05] This is a very seasonal stock. You know,
+[07:07] they tend to do better in the summer
+[07:08] months uh when everybody's out and about
+[07:10] doing sports more. They could have been
+[07:12] impeded by the the severe weather in the
+[07:13] Northeast. So, we shall see, but yeah,
+[07:16] this one's a bit of a wild card, and I'm
+[07:18] going to stay away from it till I get a
+[07:19] better handle on their earnings.
+[07:21] >> Yeah, I totally agree. Um this is
+[07:24] You remember
+[07:26] when tariffs was
+[07:29] the headline that was taking over
+[07:31] everything, Dick's was one of these
+[07:32] companies that really got swept up
+[07:34] because they obviously sourced their
+[07:36] stuff from overseas, a lot of it, and it
+[07:39] impacted their fundamentals, you know?
+[07:42] It also impacted their share price. Kind
+[07:44] of just drifting sideways in a
+[07:46] non-pleasing pattern here. No real
+[07:49] inflows to speak of. They eke out
+[07:51] growth, not on a three-year basis. They
+[07:54] have a decent profit margin, a huge
+[07:56] amount of debt. You know, again, it's a
+[07:59] wild card. Like Louis said, they've beat
+[08:01] the past few times, but it hasn't really
+[08:03] materialized in a higher share price.
+[08:05] So, I think we need to see substantial
+[08:07] good news to get this stock moving
+[08:09] again.
+[08:10] >> It's not impossible with all the
+[08:13] you know, upward revisions in
+[08:15] three-month EPS change. That's good, but
+[08:18] you know, to me there are much better
+[08:20] stocks to play on earnings than this
+[08:22] one. I like to play stocks like tech
+[08:24] stocks that are just showing repeated
+[08:26] sales and earnings growth and a strong
+[08:28] history of
+[08:30] beating
+[08:31] analyst estimates as well as upward
+[08:34] revising their own guidance.
+[08:36] >> Turning to housing, what should
+[08:37] investors watch in Lennar's report?
+[08:39] >> Well, I hope they can beat. I mean,
+[08:41] they've missed for three quarters in a
+[08:42] row. Their sales are supposed to be down
+[08:45] 9.8. Their earnings are supposed to be
+[08:47] down 55.8.
+[08:49] Analysts are cutting estimates, fairly
+[08:51] cutting estimates
+[08:53] to 95 cents. So, three months ago it was
+[08:55] a dollar 57. So, you know,
+[08:58] the expectations for this are extremely
+[09:00] low because of problems in the housing
+[09:01] market. So,
+[09:03] maybe they'll surprise, but I don't
+[09:05] think it'll be this quarter.
+[09:07] >> Yeah, I agree.
+[09:08] You know, Louis, you mentioned how
+[09:10] problems in the housing market is
+[09:12] as inflation is still persistent even
+[09:16] though it's falling. We all feel it at
+[09:18] the pump etc. Real asset prices increase
+[09:21] like gold, like real estate. The average
+[09:24] home is just it's just expensive for
+[09:27] people.
+[09:28] And then you go to finance it, it's
+[09:30] still not cheap to finance it. So, I
+[09:32] think, you know, for the real estate
+[09:34] market to really rebound, lower rates is
+[09:37] going to be good for that environment.
+[09:40] Uh
+[09:40] a hotter economy that's moving forward
+[09:43] in terms of not being held back by
+[09:45] geopolitical things. So, for right now,
+[09:48] you know, it's going to take a lot to
+[09:50] get this stock moving higher. So, I
+[09:52] don't see it.
+[09:53] >> Li Auto has been one of the
+[09:54] fastest-growing EV makers. Can that
+[09:56] momentum continue?
+[09:58] >> No. They're losing their mojo fast. This
+[10:00] is a Hong Kong company. They make
+[10:04] luxury EVs.
+[10:06] The market for that has collapsed. Sales
+[10:09] in China are also very weak. Their sales
+[10:11] are forecast to the drop 34.4%.
+[10:15] Earnings is supposed to drop 94.3.
+[10:18] And we do have some big analyst cuts in
+[10:22] the last 60 days from 28 cents to 2
+[10:25] cents. And they have missed the past two
+[10:27] quarters. So, yeah, this is the problem
+[10:29] with the Chinese consumer. They don't
+[10:31] have the disposable income. And of
+[10:32] course, China as a society is shrinking.
+[10:35] They're losing households.
+[10:36] >> I'm going to chalk this up to one of
+[10:38] those stocks that I just don't know very
+[10:40] well. But in the absence of information,
+[10:42] I always say follow the flows and then
+[10:44] let's just do a quick fundamental scan.
+[10:47] Quick fundamental scan says it's middle
+[10:49] of the road. Technically, it's very
+[10:52] weak. I move down here. For the better
+[10:54] part of the year, it's mostly outflows.
+[10:56] We had this one inflow, but it looked
+[10:58] like a head fake. Didn't really go
+[11:00] anywhere. If I don't know anything else
+[11:02] about the stock and I just look, there's
+[11:04] head tons of outflows. We check the
+[11:06] fundamentals. It's a mixed bag. Um
+[11:10] you know, I don't I don't see it. This
+[11:13] doesn't get me excited. So, if I see
+[11:15] them beat and guide higher and then
+[11:18] another quarter of doing that, that
+[11:19] could get me excited about that stock.
+[11:21] But right now, I don't see much to
+[11:23] to, you know, move the needle.
+[11:25] >> Beauty has been a strong category. Is
+[11:27] Ulta Beauty still a retail standout?
+[11:30] >> Well, it's one of the best stocks and
+[11:32] it's a class. But
+[11:35] you know, it's not strong enough to get
+[11:36] me excited. I will add that it has
+[11:38] surprised for four quarters in a row.
+[11:40] Their sales are supposed to be up 9.3.
+[11:42] Their earnings are supposed to decline
+[11:44] 5.7.
+[11:45] We do have positive analyst revisions
+[11:47] and it has again a very good surprise
+[11:49] history. So it is a leader in its
+[11:51] sector. It has a lot of brand loyalty.
+[11:53] But again, doesn't have the the absolute
+[11:55] sales and earnings growth I demand right
+[11:57] now.
+[11:57] >> Yeah, this Ulta Beauty has been one that
+[12:00] kind of defies gravity.
+[12:02] Um
+[12:03] fundamentals I seek 70 or above. So it's
+[12:05] slightly below the mark, but technically
+[12:07] it's very strong and it just doesn't
+[12:09] seem to want to go down and you see some
+[12:11] strong inflows. Again, I prefer to see
+[12:14] strong inflows into fundamentally
+[12:16] superior stocks. This is just above
+[12:18] mediocre.
+[12:20] Uh this is a prior Wall Street darling
+[12:23] that had unimaginable growth for a few
+[12:25] years and tapered off. Uh still a strong
+[12:28] profit margin, but you know,
+[12:31] I I agree. You know, on the good side
+[12:35] we've seen
+[12:36] an increase in buy recommendations over
+[12:38] the past 3 months. Not huge,
+[12:41] um but also positive quarterly estimate
+[12:44] changes for earnings as well as uh
+[12:47] sales, which is which is good.
+[12:50] Uh but I need to see a lot uh more
+[12:53] growth to get me excited.
+[12:54] >> And finally, with gold prices rising,
+[12:56] could Wheaton Precious Metals benefit
+[12:59] from the current global uncertainty?
+[13:01] >> Yeah, and that this stock is under
+[13:02] management for disclosure. I recommend
+[13:04] newsletters, too. Their sales are
+[13:06] supposed to be up 92. Their earnings are
+[13:08] supposed to be up 145.3.
+[13:11] Obviously, the operating margins are
+[13:13] expanding as the gold prices meander
+[13:15] higher. We got positive analyst earnings
+[13:18] revisions under this stock and uh it has
+[13:20] a very very good earnings surprise
+[13:22] history. So it better surprise immensely
+[13:25] because I own it.
+[13:26] >> Yeah, so again, the precious metal space
+[13:29] is just so hot.
+[13:31] I know this is one of the 7,000 gold
+[13:34] stocks you own, Louie,
+[13:36] and it's doing really well.
+[13:37] Fundamentally, it's great. Again, just
+[13:39] look at those massive inflows. So, like
+[13:41] this is one of those cases where the
+[13:43] whole space is hot and people are
+[13:45] expecting expanding margins.
+[13:48] Um
+[13:49] you know, even if they disappoint,
+[13:52] there's a good chance this stock isn't
+[13:53] sinking because the whole space is so
+[13:55] hot. But, you are seeing strong profit
+[13:58] growth, earnings growth,
+[14:01] massive margin. So, all eyes on margin.
+[14:04] If they can keep expanding margins,
+[14:06] that's where the the money grab's going
+[14:08] to be. Investors want those thick profit
+[14:10] margins with elevated gold price. And
+[14:12] Louie, if you're right, gold's going at
+[14:14] 10,000 by the end of the decade, you
+[14:16] know, it's green skies it's blue skies
+[14:18] ahead, not green for Wheaton. Um and
+[14:22] they do it with hardly any debt. So, I I
+[14:24] love that. They're not sensitive to
+[14:26] rates.
+[14:27] Uh the stock is trading at a high PE.
+[14:30] Again, for PEs to fall, it can go one of
+[14:33] two ways. The share price can sink,
+[14:35] right, to to meet earnings, or earnings
+[14:38] can grow. So, I'd really look for
+[14:40] earnings to grow to justify a lower PE
+[14:43] and margin expansion on this stock.
+[14:45] >> Well, great. Thank you so much for
+[14:47] joining us for this bonus video. Thank
+[14:49] you, Jason, so much for joining us. Make
+[14:51] sure to watch tomorrow's video where we
+[14:54] are going in-depth and also featuring
+[14:56] Jason's favorite stock picks right now.
+[14:58] Make sure to give this video a like and
+[15:00] subscribe if you haven't already, but
+[15:01] we'll see you in the next video.
+[15:04] >> [music]

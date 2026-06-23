@@ -7,9 +7,30 @@ Type: short
 Duration: 0:45 (45s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 22
+Transcript characters: 760
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Strong numbers, market didn't react the
+[00:02] way you expect. Can you share the second
+[00:03] [music] stock?
+[00:04] >> Okay, of all the stocks that we're
+[00:06] talking about today, this is the one I'm
+[00:08] most excited about near term. Their
+[00:10] sales uh for INTT, InTest, are supposed
+[00:13] to be up 17.4%. [music]
+[00:17] Their earnings are supposed to be up
+[00:18] 222.2%.
+[00:21] Uh the analysts have revised [music]
+[00:23] their estimates uh significantly higher
+[00:26] from 3 months ago to 10 cents now, and
+[00:28] the stock has a wonderful wonderful
+[00:30] earnings surprise history in [music] the
+[00:31] last two quarters. InTest is a testing
+[00:34] company that is in the semiconductor
+[00:36] industry, and they can test circuit
+[00:38] boards, and they do all kinds of quality
+[00:39] [music] control tests. So, obviously,
+[00:42] the semiconductor industry is booming,
+[00:43] and their business is booming as well.

@@ -7,9 +7,30 @@ Type: short
 Duration: 1:00 (60s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 22
+Transcript characters: 699
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] trade deficit came in much hotter than
+[00:02] expected. It has literally um surged
+[00:07] 14.5% from February to March. And for
+[00:11] the first quarter, the trade deficit is
+[00:14] more than double of what it was a year
+[00:16] ago despite a
+[00:19] 23.3% increase in
+[00:21] exports. So goods have been dumped in
+[00:24] America. That's deflationary.
+[00:27] you know, all our wholesale outlets, the
+[00:30] Costos, the Walmarts, everybody has to
+[00:33] discount to move this
+[00:35] merchandise.
+[00:37] Now, this is going to cause a negative
+[00:41] GDP revision in the first quarter. So,
+[00:44] don't be surprised by that. Hopefully,
+[00:46] our Fed will recognize this deflation
+[00:48] and respond to it. But um I know Scott
+[00:52] Besson, our Treasury Secretary, uh made
+[00:55] it very clear in front of his
+[00:56] congressional testimony that there is
+[00:59] deflation.

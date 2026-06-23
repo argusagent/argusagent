@@ -7,9 +7,760 @@ Type: video
 Duration: 32:32 (1952s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 752
+Transcript characters: 27294
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:05] hello everyone welcome back to navier
+[00:07] Market Buzz episode 9 I'm Crystal navier
+[00:10] I'm joined again this week with my
+[00:11] father Lou navier we also have a special
+[00:13] guest Jason Bodner who sells
+[00:16] quantitative stock research to
+[00:17] institutions and professionals a
+[00:19] contributor to navier Market mail and
+[00:21] also is an editor and investor Place
+[00:24] welcome Jason it's so nice to have you
+[00:26] it's great to be here thanks so much for
+[00:28] having me Jason my dad was explaining to
+[00:30] me that your big money index or BMI was
+[00:33] overbought can you talk about what is
+[00:35] behind your BMI tool and what is now
+[00:38] signaling sure um so probably the
+[00:41] easiest way to describe the big money
+[00:43] index it's a it's a powerful it can be
+[00:46] thought of as a powerful Market timing
+[00:48] indicator um what we do at map signals
+[00:51] is we try to recreate with algorithms
+[00:56] unusual institutional money flows into
+[00:59] stock and out of stocks and when I say
+[01:01] unusual it's really got to stand out and
+[01:04] jump off the page so we created Buy sell
+[01:08] signals for when stocks sort of behave
+[01:11] out of the ordinary so if we can measure
+[01:14] the level of unusual buying versus
+[01:17] selling on a daily basis we smooth that
+[01:20] over a 25 day moving average and that
+[01:22] gives us a real great indication of
+[01:25] institutional money flows in or out of
+[01:28] the market now what's really worthy of
+[01:31] paying attention to are are two times uh
+[01:34] the most important is when it goes
+[01:36] oversold that's when there's
+[01:38] unsustainable selling and everybody's
+[01:40] throwing out the baby with the bath
+[01:41] water and we see a big reversion signal
+[01:44] ahead and that's been historically very
+[01:46] accurate and the second one is when it
+[01:50] goes overbought and all you can think of
+[01:53] like that is there's just so much buying
+[01:56] that it becomes unsustainable and either
+[01:59] the market got to pause or it's got to
+[02:01] pull back or sellers take control
+[02:04] there's a lot of question marks that
+[02:05] come so what happened is about five days
+[02:09] ago the big money index went overbought
+[02:12] now that doesn't mean we should run for
+[02:14] the hills and sell our stocks and
+[02:16] especially ahead of a seasonally very
+[02:19] strong time of year but it does indicate
+[02:21] that the market might pull back um and I
+[02:25] have some facts and figures for this uh
+[02:28] so that's a relatively short period for
+[02:32] the BMI to be overbought normally it's
+[02:34] 22 days this time it was only four but
+[02:37] typically when that big money index
+[02:40] falls out of overbought uh one week
+[02:43] returns for the S&P 500 are down
+[02:46] 1% uh two week returns are down just
+[02:50] about 1% and going out one in two months
+[02:53] it's down one and 2% so even though
+[02:56] that's not a huge pullback it's
+[02:58] indicative that we can expect some
+[03:00] weakness on the horizon and especially
+[03:02] ahead of an election potential for
+[03:05] October surprise who knows what's going
+[03:07] to happen but I would say it's a uh buy
+[03:10] the dip opportunity that's what the data
+[03:12] is telling me so now let's talk about
+[03:15] Tesla did Tesla's better than expected
+[03:17] earnings deliver the spark that the
+[03:18] market needed oh absolutely the market
+[03:21] was in a funk until Tesla announced its
+[03:23] better than expected earnings and uh
+[03:25] they were spectacular operating margins
+[03:28] are up sharply fact the best they've had
+[03:31] in 18 months you've got um sales were up
+[03:37] uh they reclaimed the um the EV uh sales
+[03:42] leader um Crown from
+[03:44] byd uh and of course earnings beat
+[03:47] expectations guidance was good now their
+[03:51] sales in um China were especially strong
+[03:54] and I think that's what got to be
+[03:55] excited even though their sales in
+[03:56] Europe were weak uh and then finally
+[03:59] they energy storage business is booming
+[04:02] uh it's down 10% of their sale it's up
+[04:04] 52% year of a year I'm in San Diego
+[04:07] County here where when you do install
+[04:09] solar um you really do need a power wall
+[04:13] um and um and uh if you go deeper in the
+[04:17] California valleys people install solar
+[04:19] and if they don't have power walls
+[04:21] sometimes the utility doesn't want to
+[04:22] hook them up because they have a surplus
+[04:23] of solar so you actually need a power
+[04:25] wall to to for your solar system to work
+[04:28] period and uh Tesla does that they make
+[04:30] the big commercial battery facilities
+[04:32] that California's keeps installing to
+[04:35] store all the excess solar electricity
+[04:37] they have and then finally their FSD or
+[04:41] full self-driving software um sold a
+[04:44] little better than everybody thought so
+[04:46] it was a wonderful report and uh oh and
+[04:50] finally the Cyber truck is number three
+[04:52] in sales you know uh they're all over uh
+[04:55] California here but um uh and it's
+[04:58] profitable so that was a big turnaround
+[05:01] so everybody's excited about that there
+[05:03] are no drags on Tesla at this time they
+[05:06] did further delay their sports car so if
+[05:08] you have your $50,000 on deposit and
+[05:10] haven't gotten your car for the last
+[05:11] eight years you're probably slightly
+[05:13] annoyed but uh they did say that it's
+[05:16] not their highest priority now but it
+[05:17] will be coming and thank you for your
+[05:19] deposit that's what they
+[05:21] said yeah I mean my perspective is it
+[05:25] certainly provided the spark that Tesla
+[05:27] needed that stock too has been in a
+[05:29] function it's a bell weather it's a
+[05:30] NASDAQ leader it's one of the mag s uh
+[05:34] it's it's it's
+[05:37] highly uh watched so you know I think a
+[05:41] lot of tech stocks take their cues um
+[05:44] one thing we can take away is you know
+[05:48] it fits right in the camp of companies
+[05:50] beating sales and earnings I think the
+[05:51] latest stats from you know I look at
+[05:54] fact set I think about 75% of companies
+[05:57] that have reported for quarter three
+[05:59] have beat earn earnings about
+[06:01] 62% of beat sales so you know when the
+[06:05] big bellwethers do that it it it's
+[06:08] really meaningful for the market I mean
+[06:10] this is a company phenomenal one in
+[06:12] threeyear sales and earnings growth they
+[06:14] they're car company that makes a double
+[06:16] digit percent profit margin which is
+[06:18] rare you know they they have 4.3 billion
+[06:22] of cash less capex so they're flush
+[06:25] they're healthy and they have positive
+[06:28] one and threeyear sales estimates and uh
+[06:31] you know the Stock's up 1,00% in 5 years
+[06:33] that's a trend I wouldn't want to fight
+[06:35] so I I do think it provided a good jol
+[06:37] to the market all right so let's talk
+[06:39] about some other stocks CRS deck and
+[06:43] fix all beat um except for fix uh fix
+[06:48] beat on earnings but they um they did
+[06:52] not beat on sales so that stock went
+[06:54] down 10% on Friday and I bought more uh
+[06:59] now I should explain what fix does
+[07:01] that's Comfort Systems and um oh my
+[07:05] goodness uh they are their business is
+[07:07] booming the order backlog is booming
+[07:09] that's just part of building out the
+[07:10] cloud the data centers and of course a
+[07:13] lot of the utilities uh that we have to
+[07:15] expand electricity generation so as the
+[07:18] cloud grows um comfort systems fix grows
+[07:22] uh CRS was incredible uh I own it I
+[07:26] believe Jason owns it as well and then
+[07:28] finally uh deck um the shoes are selling
+[07:31] like crazy and I believe especially the
+[07:34] Hoya brand so they beat and gapped up so
+[07:37] this is what earning season is all about
+[07:39] um the only one that again we
+[07:41] technically had a Miss on was Comfort
+[07:44] Systems not on earnings but on sales but
+[07:47] um the order backlog grew so I bought
+[07:49] some more yeah these are three great
+[07:52] stocks um something else map signals
+[07:55] does very similar to navali ear's
+[07:56] Greater we have a scoring system so I
+[07:59] sort of live and die by the scoring
+[08:02] system uh if it's above a 70 it's
+[08:04] typically a buy but then we further
+[08:07] break down the scores to Technical and
+[08:09] fundamental and fundamental includes
+[08:11] things like one and threeyear sales
+[08:14] growth profitability debt levels things
+[08:16] like that technicals or how it's
+[08:18] trending and really what kind of money
+[08:20] flows are behind it us Carpenter you
+[08:23] know is a specially Med Metals company
+[08:26] as Louie mentioned I own that one of our
+[08:28] portfolios phenomenal sales and earnings
+[08:31] growth it's trending higher it got a 77
+[08:34] so that's uh right in our sweet spot um
+[08:38] Deckers you know Louie I think they beat
+[08:40] earnings by 29% they really shattered
+[08:43] earnings and they beat sales estimates
+[08:45] by 99.2% that explains that massive Gap
+[08:48] up on Friday as you mentioned they they
+[08:51] they do Footwear uh this is a 74 rank
+[08:54] stock very very strong fix was the only
+[08:57] one that wasn't a 70 it was 60 7.2 but
+[09:00] like you said Louie it's not because of
+[09:02] the fundamentals the fundamental is very
+[09:04] strong uh it scores a 75% my model the
+[09:08] technicals are weak and that's just
+[09:10] mainly because of the reaction on Friday
+[09:12] or I should say the overreaction to
+[09:14] earnings it does look like an
+[09:16] interesting buy um there were two more
+[09:18] stocks I wanted to mention um also I
+[09:22] hold them in in uh managed accounts or
+[09:26] uh newsletter portfolios um select IA is
+[09:30] an amazing uh stock they do electronics
+[09:33] manufacturing technology that's all
+[09:36] about the cloud this stock is on fire
+[09:39] phenomenal one in threeyear sales and
+[09:41] earnings growth uh they have a low but
+[09:44] growing profit margin they have solid
+[09:48] estimated sales and earnings growth for
+[09:49] next year and they too crushed earnings
+[09:52] by 19 and a half percent and then uh a
+[09:55] new one that just popped up on my radar
+[09:58] is lrn that's stride Incorporated and
+[10:02] they basically do proprietary software
+[10:04] and Educational Services again just
+[10:07] phenomenal sales and earnings growth
+[10:10] profitability uh trending in the right
+[10:12] direction technically with big money
+[10:14] inflows this stock scored about a 83 so
+[10:17] uh it's another winner and this one
+[10:20] shattered earnings Expectations by
+[10:23] 37% they reported 94 cents a share
+[10:27] versus analyst expectations of 22 cents
+[10:31] uh they beat uh sales estimates and they
+[10:33] provided really strong guidance so it's
+[10:35] another interesting one and they have an
+[10:37] earnings history eight earnings reports
+[10:40] in a row they beat both earnings and
+[10:42] sales estimates so uh it's one to keep
+[10:44] an eye on well kudos to you Jason uh
+[10:47] those are great stocks that's what
+[10:49] earning season is all about I should add
+[10:51] we also own Solesta CLS uh and you know
+[10:54] when our two systems find the same
+[10:56] stocks it's usually a lock so let's
+[10:58] shift to economic what do you expect
+[11:00] from the conference board's consumer
+[11:01] confidence index on Tuesday well we just
+[11:05] had the Michigan sentiment index rise
+[11:07] which is good and I like the conference
+[11:09] board survey better uh because it's just
+[11:12] more detailed and as a better record uh
+[11:16] it should uptick because we had a very
+[11:18] strong retail sales report you know 10
+[11:19] out of the 13 categories are up and you
+[11:22] know gas station sales were down so when
+[11:25] you consider that um 10 out of the te
+[11:29] were're up that's a very very good
+[11:32] report so it should be rubbing off on
+[11:35] consumers consumers obviously want to
+[11:36] get the election over with everybody's
+[11:38] voting early and uh I I will be relieved
+[11:42] when the election's over because I'm
+[11:43] tired of getting texts from everybody
+[11:46] and um uh so that's the conference board
+[11:49] will be good and uh they keep raising
+[11:51] GDP estimates higher and um and that's
+[11:54] one of the reason rates are going up is
+[11:56] they're anticipating a stronger economy
+[11:58] is the October payroll report on Friday
+[11:59] expected to be
+[12:01] better yeah uh there are some seasonal
+[12:04] adjustments there might be holiday
+[12:05] hiring we'll get a feel for it with ADP
+[12:08] on on
+[12:09] Wednesday uh we also want to keep
+[12:11] looking at the manufacturing um uh jobs
+[12:15] uh they they actually Rose a couple
+[12:16] thousand the previous month but in
+[12:19] previous months we've been loose losing
+[12:21] or shedding manufacturing jobs so um uh
+[12:25] but the pay report's always a big deal
+[12:27] it's all um and we want see what the
+[12:29] unemployment rate is as well but the
+[12:31] government does have these weird
+[12:32] seasonal adjustments as we hit the
+[12:34] holiday shopping season they will
+[12:37] probably think that we have to hire
+[12:38] temporary workers instead of shop on the
+[12:40] internet uh I don't ask me why the
+[12:43] government's so far behind on their
+[12:45] seasonal adjustments so there could be
+[12:47] some some weird things in there but
+[12:50] right now it's forecasted to be a very
+[12:52] strong report and on Thursday we get an
+[12:54] update on the pce report is that
+[12:56] expected to be
+[12:57] good yes uh that's the personal
+[13:00] consumption expenditures index there is
+[13:03] a fear of rising
+[13:04] inflation um but if the pce comes in
+[13:08] good like we
+[13:09] expect uh then um uh the um inflation
+[13:14] fears will Contin continue to diminish
+[13:16] inflation is dead in Europe it's 17 and
+[13:19] falling in the Euro Zone uh has fallen
+[13:21] all around all around the country as
+[13:24] well and finally owner equiv uh rent uh
+[13:27] which is shelter cost started to
+[13:29] toh come down to to reality you know
+[13:32] home prices are being cut everywhere uh
+[13:36] and um the only places that have um
+[13:39] Rising um cost to live are New York
+[13:42] where you are and Baltimore which has
+[13:44] been regenify it's it's interesting um a
+[13:48] lot of these uh macro items you're going
+[13:52] over um from my perspective they're all
+[13:56] just pointing to the fact that our
+[13:58] economic is strong uh you know I I think
+[14:02] all the pundits in the beginning were
+[14:04] talking about a hard Landing well first
+[14:07] they were talking about a recession then
+[14:08] they were talking about a hard landing
+[14:10] and then they were talking about a soft
+[14:11] landing and now they're talking about no
+[14:13] Landing so clearly the economic data is
+[14:17] strong it's carried us through it's it's
+[14:18] continuing to Trend in that direction so
+[14:20] for the longer term I'm encouraged by
+[14:23] that which sort of still fuels the uh
+[14:29] the the almost shorty that rates are
+[14:31] going to continue to fall which is great
+[14:33] economic backdrop for stocks um but this
+[14:36] is sort of throughout you know the rest
+[14:39] of the year in 2025 so I always find it
+[14:43] fascinating the Market's reaction to
+[14:45] these individual reports and Louie you
+[14:47] always seem to be way ahead of the crowd
+[14:49] on those it's pretty phenomenal well I
+[14:51] used to work for the Fed so we used to
+[14:53] live and die by all this stuff and then
+[14:56] and then we'd swear about the seasonal
+[14:57] adjustments which can be be significant
+[15:00] you know um as you may remember the
+[15:03] government um overstated jobs by
+[15:07] 88,000 oops tring 12 months through
+[15:10] March so uh they do have adjustments to
+[15:12] these figures so so it's always
+[15:16] interesting the beige book survey last
+[15:18] week was kind of a buzzkill can we talk
+[15:20] about it yeah it was a buzzkill uh five
+[15:24] of the of the uh 12 fed regions said the
+[15:27] economy not growing or Contracting and
+[15:31] um that's better than the previous one
+[15:32] where it said 9 out of 12 said that but
+[15:35] uh that just means they're going to cut
+[15:37] at the next FMC meeting which will be uh
+[15:40] two days after the presidential election
+[15:42] and they'll probably also cut in
+[15:44] December but then in December we get a
+[15:45] new Dot Plot and uh then we'll see how
+[15:49] many Cuts if any they're going to have
+[15:50] in the new year um the previous Dot Plot
+[15:53] plotted out three more rate Cuts next
+[15:55] year um but the problem is is rates have
+[15:59] backed up speaking of rising rates one
+[16:02] of our subscribers um was asking about
+[16:04] the rising treasuring yields from the
+[16:05] Trump trade causing the FED to postpone
+[16:07] additional rate
+[16:09] Cuts yeah again they they'll cut this
+[16:12] year because they've already telegraphed
+[16:13] that they're still way above Market
+[16:15] rates but the rate Cuts next year might
+[16:17] be in Jeopardy so the the whole Trump
+[16:19] trade emanated from Europe I get I guess
+[16:22] Europe's expecting uh Trump to become
+[16:24] president um that's what it looks like
+[16:26] in real clear politics uh uh so even if
+[16:29] KLA does okay on the overall vote uh
+[16:32] Trump just looks much much stronger on
+[16:35] the on the um electoral college and now
+[16:38] now there's three uh uh Democratic
+[16:42] Senate candidates uh basically um um uh
+[16:47] saying they're not for the bid
+[16:48] Administration policies including
+[16:50] Senator Casey and uh Pennsylvania
+[16:53] because he said he was Pro fracking when
+[16:54] Biden was not uh we have a senator um a
+[16:57] senator from Ohio and sent her from
+[17:00] Montana so that that sends the wrong
+[17:03] signals and that's it's going to be
+[17:05] tough on commo to win those States
+[17:08] because the Senators are pushing back
+[17:11] against the bid Administration but back
+[17:13] to uh the Trump trade um you know even
+[17:17] though he might try to influence the FED
+[17:19] which he's not supposed to do they're
+[17:21] supposed to be independent um they um if
+[17:25] the economy grows faster uh because he
+[17:27] cuts taxes or the deficit gets bigger
+[17:30] because of the tax cuts uh yeah their
+[17:33] rates might back up and that's what
+[17:35] they're doing they're backing up an
+[17:37] anticipation of uh bigger deficits from
+[17:40] Miss stimulus now Trump's going to tell
+[17:42] you that um that
+[17:45] um the um the terrorists are going to
+[17:49] make up the difference and help pay down
+[17:51] the deficit and actually one of his
+[17:53] spokesmen who's Howard from CER
+[17:55] Fitzgerald actually one of Jason's old
+[17:57] bosses um he uh uh he's out telling
+[18:01] everybody well you know when we just had
+[18:04] tariffs a long time ago we had no income
+[18:06] taxes implying that you know that if we
+[18:09] start putting tariffs on people we might
+[18:11] be able to get rid of the income tax but
+[18:13] uh he's a great salesman yeah it's an
+[18:16] interesting tease that he has but uh I
+[18:19] don't think they've gotten that deep
+[18:20] into analyzing things and of
+[18:23] course if if our trading um
+[18:27] Partners uh do what we want him to do
+[18:29] which is no tariffs then Trump will not
+[18:31] be putting a tariff on he just he just
+[18:33] likes to put T tariffs on people that um
+[18:36] have been well according to Donald's
+[18:38] terms uh been messing with us for years
+[18:41] and taking advantage of us for years so
+[18:43] he's he was attacking the German Auto
+[18:45] industry uh recently and um so we'll see
+[18:49] if uh he has what is called Tit for Tat
+[18:53] tffs well it's it's really interesting
+[18:56] because um you know one area that I'm
+[19:00] looking at again on those money flows
+[19:02] you asked about the BMI Crystal uh we
+[19:05] see a trend every election year
+[19:09] so every election year since 1990 so
+[19:12] that's 92 996 onward um you see a
+[19:17] pattern where institutional money flows
+[19:20] move out of the market and then
+[19:22] literally after election day it moves
+[19:24] back in and and if you think about it it
+[19:27] makes a lot of sense right what is Wall
+[19:29] Street hate they hate uncertainty they
+[19:30] don't like uncertain outcomes so they
+[19:33] take risk off the table and then then
+[19:36] when when the outcomes known they go
+[19:37] back in and they buy stocks so uh the
+[19:42] big money index recently has been doing
+[19:43] the opposite went overbought but now all
+[19:45] of a sudden it's falling so it's
+[19:47] potentially following this same pattern
+[19:48] it'll be really interesting to see what
+[19:50] happens after November 5th if it's uh
+[19:54] you know all clear um and stocks start
+[19:58] right ing again but this sort of factors
+[20:01] into so why would the big money index be
+[20:04] bucking the trend that's because right
+[20:06] now at the current moment the election
+[20:09] is a little more known than it was say
+[20:12] in 2016 when it went down to the wire
+[20:14] nobody knew what was happening as Louie
+[20:16] mentioned Real Clear Politics has Trump
+[20:18] the White House favorite uh as
+[20:22] 60% um versus Camala Harris now like 38%
+[20:26] or something there's margin of error in
+[20:28] there
+[20:29] but that brings a little more stability
+[20:32] to stock investors however we still have
+[20:35] a week left for an October surprise
+[20:37] there's Powder Keg in the Middle East
+[20:39] there's all sorts of questions um but
+[20:42] what happens is right after the election
+[20:45] that puts us in the middle of the
+[20:46] seasonally strongest period of the Year
+[20:48] November since 1990 is up 73 and a half%
+[20:53] of the time um with the strongest
+[20:56] returns I think the S&P is up around 2.3
+[20:58] 3% on average in November
+[21:01] so you know again I feel like any dip is
+[21:05] a buying opportunity and any of these
+[21:07] headlines that are that are potentially
+[21:10] going to impact stocks is typically
+[21:12] shortterm the the trend is up in my
+[21:14] opinion yeah I would certainly agree the
+[21:17] um you just don't want the election to
+[21:19] be contested you know uh so all Walsh
+[21:22] wants to know who's in charge what are
+[21:24] the rules and uh and hopefully we will
+[21:27] not have anything tested so whether it's
+[21:30] Trump or KLA again we don't want
+[21:33] significant challenges or uncertainty
+[21:35] but the um the uh it'll be interesting
+[21:38] too uh one thing we got to worry about
+[21:41] is all these assassination attempts you
+[21:43] know the the Drone did hit BB's window
+[21:46] on his home uh Trump's assassination
+[21:49] Target according to uh intelligence
+[21:52] sources from Iran so uh he just got to
+[21:55] be careful you know when he did the
+[21:57] McDonald's photo shoot uh apparently
+[22:00] there were 28,000 people outside that
+[22:03] franchise and uh it got a little out of
+[22:05] control obviously got in the building
+[22:07] did it and was at the drive-thru window
+[22:09] anding out his french fries he's very
+[22:11] proud of but the uh um you know 28,000
+[22:16] people around McDonald's is uh can
+[22:18] create some chaos
+[22:19] so uh I think Secret Service was a
+[22:22] little frustrated so uh if and when he
+[22:24] becomes president-elect I I think his
+[22:26] Service uh details will get even
+[22:28] stronger
+[22:29] but there is this threat against him uh
+[22:31] and uh and it's eminating from Iran for
+[22:34] killing salomani so so we'll see what
+[22:37] happens and in the meantime I think the
+[22:39] aola is he's living in a cave somewhere
+[22:41] I don't think he can come out so it's uh
+[22:44] it's we still have a lot of tension in
+[22:46] the world that we have to resolve one of
+[22:48] our subscribers asked about the brick
+[22:51] Summit that was interesting um I was
+[22:54] late last week uh Putin hosted the the
+[22:56] Brick Summit and that of course includes
+[22:58] includes uh Brazil Russia India
+[23:02] turkey lots of Emerging Market
+[23:05] countries and um The Summit was a little
+[23:08] tense because they just wanted to end
+[23:10] all the wars in the world not not only
+[23:11] in the Middle East uh but also uh
+[23:15] between Russia and Ukraine and um uh the
+[23:20] president of China was basically on
+[23:22] Russia's case you better hurry up and
+[23:24] settle this um because it's very
+[23:26] disruptive um and um I don't think Putin
+[23:30] appreciated that pressure okay and um
+[23:34] but you know they are right that we
+[23:36] should end all these conflicts it
+[23:38] doesn't help anybody it's um what we
+[23:41] really want to see next year is we want
+[23:43] to see a peace dividend uh Bill Clinton
+[23:45] had a peace dividend and economies grew
+[23:47] and prospered so um uh it the brick
+[23:51] Summit ended on a very odd note because
+[23:54] the the criticism of the wars not only
+[23:56] in the Middle East but between Russia
+[23:57] and China was was very intense and from
+[24:01] leaders like President Chief from China
+[24:03] Jason I'd love to ask what stocks you
+[24:05] like heading into the third quarter
+[24:06] announcement season oh this is my f
+[24:09] favorite part of the chat talking about
+[24:11] stocks I mean I'm a stock nerd that's
+[24:13] what we
+[24:14] love uh I have so many but there are few
+[24:18] that just kind of stand out to me um I
+[24:21] really like AET Arista networks I've
+[24:23] owned that for a long time it's more
+[24:25] than a 150% winner they specialize in
+[24:30] Cloud networking so they're the network
+[24:32] switchers that sort of make the cloud
+[24:34] run and they're really working on an AI
+[24:37] initiative to handle faster and better
+[24:39] switching you know this stock has
+[24:41] phenomenal sales and earnings growth
+[24:43] tons of free cash flow hardly any debt
+[24:46] great estimated sales and earnings
+[24:48] growth um so I really like that one they
+[24:52] report uh November 8th uh so right after
+[24:55] the election a couple days um one that
+[24:57] already reported it's a great stock
+[25:00] intuitive
+[25:01] surgical they make the da Vinci robotic
+[25:04] surgeon so it's basically a giant
+[25:07] tarantula looking uh surgical robot uh
+[25:10] it's really been an industry leader in
+[25:14] robotic surgeries which globally have
+[25:16] been up 23% Global robotics procedures
+[25:20] so they're sort of pull position in the
+[25:23] market um great sales and earnings
+[25:25] growth again plenty of free cash flow
+[25:28] flow hardly any debt great estimated
+[25:30] sales and earnings growth uh what's
+[25:32] interesting is the number of hospitals
+[25:34] that buy this surgical machine don't buy
+[25:37] just one as a matter of fact the number
+[25:39] of hospitals that bought seven or more
+[25:41] has quadrupled in the last four years so
+[25:43] that's one to keep an eye on um I like
+[25:47] Parson's Corporation so they basically
+[25:51] provide technical design and software
+[25:53] for engineering um they report when do
+[25:57] they report uh October 30th so next week
+[26:01] uh they have very strong sales and
+[26:03] earnings growth they do uh have a small
+[26:05] but growing profit margin plenty of free
+[26:07] cash flow they're estimated to grow um
+[26:11] earnings at uh a rate of where did we go
+[26:16] here I lost my spot
+[26:18] 14.7% and grow sales at 8% next year so
+[26:22] uh I like that one and then there are
+[26:24] just two more uh fortet f T NT they
+[26:29] report November 8th uh they do Cloud
+[26:33] security cyber security so anyone who's
+[26:36] been hacked uh I I think you're
+[26:39] particularly sensitive they hacked into
+[26:40] my bank twice made off with 30 grand
+[26:44] luckily the bank uh reimburse the money
+[26:47] but uh you know cyber security is a
+[26:48] growing threat as we have more and more
+[26:51] Reliance on anything Cloud uh again they
+[26:54] have phenomenal sales and earnings
+[26:56] growth uh plenty of free cash flow great
+[26:59] forecasted sales and earnings growth and
+[27:02] the last one is one that was sort
+[27:05] of a prior Beast uh the trade desk this
+[27:09] is a stock that I made an 11x return on
+[27:13] uh they basically do uh they're a
+[27:16] technology company that facilitate ad
+[27:19] buying uh and in 2022 when Tech was kind
+[27:23] of being you know held back uh people
+[27:26] thought it was over for people buying
+[27:27] Google ads clearly it wasn't the case uh
+[27:30] trade desk is back it has phen
+[27:32] tremendous sales and earnings growth
+[27:34] very profitable company uh and
+[27:37] tremendous forecasted sales and earnings
+[27:39] growth they report November 8th as well
+[27:42] I could go on all day but I should
+[27:43] probably stop parsons's uh we own it's a
+[27:47] a key holding of ours so I'm glad that
+[27:49] our systems overlap the stocks I'm
+[27:51] looking forward
+[27:52] to uh in the upcoming weeks are Powell
+[27:56] uh their sales are supposed to be up 37
+[27:58] uh 3% earnings are forecast bit
+[28:02] 82.1% uh they've had positive balance
+[28:05] revisions they have a huge earning
+[28:07] surprise history this is a small cap I
+[28:09] call it a bunny stock it sits at hops
+[28:11] sits at hops but it's time to hop uh we
+[28:13] really do like Spotify that's spot sales
+[28:16] and forecast to rise uh 17.8% earnings
+[28:20] are supposed to go up
+[28:22] 46.7 very strong earning surprise
+[28:25] history uh we have a um it's stock
+[28:29] called xpx Corporation xbxc is a symbol
+[28:32] earnings are supposed to be up
+[28:34] 28.3% again postive BS revisions strong
+[28:37] earning surprise history that is a small
+[28:39] cap and um it's so it's time for it to
+[28:42] hop explode the upside um one we
+[28:45] recommended on Friday uh is Sprouts food
+[28:48] markets and I actually have to give your
+[28:50] mom credit she found this before I did
+[28:53] okay obviously she shops there when
+[28:55] she's in Southern Cal and um their sales
+[28:58] are forecasted to be up um 9 a. half%
+[29:02] earnings are forecast to be up
+[29:04] 16.9 uh they have positive bance
+[29:06] revisions a greater in Surprise history
+[29:09] essentially food costs are coming down
+[29:11] and and the supermarkets are not cutting
+[29:13] as fast but Sprouts food markets and
+[29:15] they're also in Reno where we have a
+[29:17] home they are an alternative to Whole
+[29:19] Foods and um so if you like your food
+[29:22] fresh organic that's one of the places
+[29:24] you go and um very safe stock too by the
+[29:27] way
+[29:28] uh another one we really like is
+[29:30] Coca-Cola fza that's c k now this is the
+[29:35] bottler of Coke in Latin America and the
+[29:38] coke down there is totally different
+[29:40] than the coke we have in in the US uh we
+[29:43] use um corn fructose to sweeten the Coke
+[29:47] in the in in America uh South of the
+[29:50] Border uh all the way to Latin America
+[29:52] they use cane sugar so the coke down
+[29:55] there to actually taste better uh it's
+[29:57] more popular um and if you drink enough
+[30:01] of it you won't have to floss because
+[30:02] there's a lot of sugar in it but
+[30:06] anyway that's been one of our safest
+[30:08] stocks uh um and finishing up here we do
+[30:12] like guide wire uh uh it's
+[30:15] gwre they have positive Vance revisions
+[30:17] a very strong earning surprise history
+[30:20] um it's a nice large cap stock we we
+[30:23] like and uh it's a that's five weeks old
+[30:26] we've been recommending it
+[30:28] so
+[30:29] um it's going to be a great earnings
+[30:32] announcement season um and then
+[30:34] hopefully after the election this the
+[30:36] uncertainty ends and then we get rid of
+[30:38] the the wars in the world and the new
+[30:40] year and then we just we have a peace
+[30:42] dividend and we rally but as Jason
+[30:44] mentioned uh November is a very
+[30:47] seasonally strong month we often get an
+[30:49] early January effect which is a small
+[30:51] cap Surge and if we get the January
+[30:53] effect in November um usually just
+[30:55] before Thanksgiving then we'll get
+[30:58] another one in January so it's a nice
+[30:59] onew punch so lot to look forward to
+[31:02] here so one stock you mentioned Louie
+[31:05] that jumped off the page for me was
+[31:07] Powell uh scores really well in our
+[31:11] system um I was just looking at it one
+[31:13] year earnings growth of almost 300%
+[31:16] three-year earnings growth of 750 per.
+[31:19] they do it all with zero debt and they
+[31:21] have 174 million in cash in the bank so
+[31:25] they're you know they're uh they're
+[31:28] slated to grow earnings and sales next
+[31:30] year and I mean it ticks all the boxes
+[31:33] from my side so that's a really
+[31:34] interesting one and pal I think I've
+[31:36] mentioned in previous um episodes is a
+[31:40] fundamental a stock and it's very hard
+[31:43] to get a fundamental a to be in the top
+[31:44] 20% of sales margin expansion earnings
+[31:47] stability earnings momentum cash flow
+[31:50] return Equity Allen earnings revisions
+[31:51] and AR surprises so uh when we find
+[31:54] these fundamental AIDS they're coveted
+[31:56] and we buy them and uh Pal's been a
+[32:00] fundamental a for a long time so it's uh
+[32:03] it's a wonderful
+[32:04] stock perfect well thank you so much to
+[32:07] you both for answering all my questions
+[32:09] and joining me this week thank you to
+[32:10] you all for liking and subscribing and
+[32:13] watching and if you have any questions
+[32:15] as again please put them in the comments
+[32:17] below and we'll answer them next week
+[32:18] but until then we'll see you next week
+[32:20] thank you so much Jason for being here
+[32:22] thanks for having me I love doing this
+[32:24] anytime
+[32:25] [Applause]
+[32:26] [Music]

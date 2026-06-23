@@ -7,9 +7,26 @@ Type: short
 Duration: 0:41 (41s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 18
+Transcript characters: 645
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Well, guess what? Gold is over $4,000 an
+[00:03] ounce. It's up over 50% year to date.
+[00:05] Why this is happening is Japan has its
+[00:08] fifth prime minister in the last 5
+[00:10] years. The new prime minister wants to
+[00:12] spend a lot of money, which will
+[00:13] basically neuter the Bank of Japan.
+[00:15] Furthermore, France just uh lost its
+[00:18] prime minister after 3 weeks. This is
+[00:20] the third prime minister since 2024. And
+[00:24] uh they're very dysfunctional right now.
+[00:26] And uh we're dysfunctional. Washington
+[00:28] DC is just behind me and of course the
+[00:31] government shut down. So the lack of
+[00:33] confidence in governments and in central
+[00:35] banks is causing gold to sore and we
+[00:37] have nine gold stocks we recommend. So
+[00:40] take a peek.

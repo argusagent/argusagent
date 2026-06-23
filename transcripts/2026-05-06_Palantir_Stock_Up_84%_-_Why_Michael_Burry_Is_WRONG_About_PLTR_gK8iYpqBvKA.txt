@@ -7,9 +7,36 @@ Type: short
 Duration: 0:57 (57s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 28
+Transcript characters: 983
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Michael Burry just dumped his entire
+[00:02] GameStop position and now he's shorting
+[00:05] Palantir of all things. What do you make
+[00:06] of that move? Well, first of all, I
+[00:09] think Burry's been shorting Palantir for
+[00:11] a while. It's confusing where he owned
+[00:12] puts or right now he's outright short
+[00:14] the stock. Burry's also been a very
+[00:17] emphatic that Anthropic is {quote}
+[00:20] "eating Palantir's lunch." The problem
+[00:22] is Anthropic led by a gentleman who can
+[00:25] be caustic and
+[00:27] you know, these are very smart people
+[00:28] and they're not very good answering
+[00:30] Burger questions sometimes. The other
+[00:32] thing is Palantir, of course, just
+[00:33] announced record results. The The truth
+[00:36] of the matter is is I own Palantir. It's
+[00:38] a major holding. I respectfully disagree
+[00:40] with Michael Burry. He thinks the its
+[00:43] valuation is high. The P is very high,
+[00:45] which it is, but I always look at
+[00:46] forecast of PEs. When you look at
+[00:48] forecast of PEs, Palantir is trading
+[00:50] under 30 times forecasted earnings. It's
+[00:52] fine and I Mr. Burry wants to lose his
+[00:54] money shorting Palantir, good luck to
+[00:56] him.

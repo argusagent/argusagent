@@ -7,9 +7,881 @@ Type: video
 Duration: 28:23 (1703s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 873
+Transcript characters: 32064
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Earnings are coming in way hotter than
+[00:01] expected this quarter, but can we
+[00:03] actually trust these numbers? Today we
+[00:05] have a special guest here to separate
+[00:07] the real winners from the accounting
+[00:09] tricks. And he's going to be sharing his
+[00:11] top stock picks in the AI-powered and
+[00:14] natural gas space. Let's get into it.
+[00:16] Welcome back to Navellier Market Buzz.
+[00:31] The party continues. This earnings
+[00:33] season is running way hotter than
+[00:35] normal, and we are so excited to have
+[00:37] Rob Fiveash, director of research at
+[00:40] Altimetry, joining us today. Thanks for
+[00:42] having me. It's great to see you both.
+[00:44] Yeah, Rob Fiveash uses its own
+[00:46] proprietary accounting framework to beat
+[00:48] the stock market. And he's also a bond
+[00:51] market expert. So Rob, let's dive right
+[00:53] in. Our friends at Bespoke just reported
+[00:55] that earnings are way hotter than
+[00:57] expected. Do you trust these numbers?
+[01:00] Yeah, I mean, what we do with uniform
+[01:02] accounting is we go through and we clean
+[01:04] up to basically remove all the noise,
+[01:06] right? Things like stock-based comp,
+[01:08] that's important for a player like
+[01:09] Facebook, stuff like for instance R&D
+[01:11] investment. And all these other things
+[01:13] that can create a whole lot of noise.
+[01:14] And what's wild is when we actually do
+[01:16] that in that analysis and we clean up
+[01:18] those numbers, what we see is actually
+[01:20] even better news than what you're seeing
+[01:23] reported out in Wall Street or what
+[01:25] we're seeing on CNBC. We looked recently
+[01:27] and we just rolled our annual data to
+[01:29] the most current data for 2026 is now
+[01:31] our forward year. On a uniform
+[01:33] accounting basis, we are forecasted that
+[01:35] the US US corporates as a whole are
+[01:38] going to have 19% earnings growth. I
+[01:40] think like the actual reported numbers
+[01:41] are around 15%. It is even stronger when
+[01:44] you see through all the noise, and
+[01:45] that's part of the issue is when you've
+[01:46] got a massive investment cycle like
+[01:48] we're in right now, often times what
+[01:50] happens is
+[01:51] the quality of the earnings growth gets
+[01:53] hidden. And so even as good as you're
+[01:55] seeing the numbers from Meta, from
+[01:57] Microsoft, from Alphabet, from
+[01:59] um uh from anybody else, you know, from
+[02:01] Amazon from earlier this week, it's even
+[02:04] better than those numbers actually are
+[02:05] when you see through the accounting
+[02:07] noise. Rob, because you're an accounting
+[02:09] expert, I like to talk about the
+[02:11] accounting metrics that really matter.
+[02:13] We look at things like a margin
+[02:14] expansion, return on equity, but lately
+[02:17] it seems like order backlogs are
+[02:18] becoming a really big deal. So, what
+[02:21] what accounting metric should investors
+[02:23] be watching right now to find the best
+[02:24] stocks? Yeah, it's a great question. We
+[02:26] So, we at Altimetry really live by the
+[02:29] idea of the kind of the the three key
+[02:31] things that are most important, really
+[02:33] the four, it's return on assets is a
+[02:35] really really valuable metric to look
+[02:37] at. Because return on assets, what it
+[02:39] actually tells you is the all-in, how
+[02:41] much money do you have to put into this
+[02:42] business and how much cash do you
+[02:43] actually get out? And as an investor,
+[02:45] that's really what we should care about
+[02:47] at the end of the day because if you've
+[02:49] got a company that's throwing off a
+[02:50] bunch of earnings, but it's earning
+[02:51] below its cost of capital, it's earning
+[02:53] a low return, well, that's not value
+[02:55] creative, right? And so, like actually
+[02:56] that company should even shrink, you
+[02:57] know, no matter how big its earnings
+[02:59] number is. And so, we really care about
+[03:01] return on assets and asset growth cuz
+[03:02] that gives us a more thoughtful way of
+[03:06] understanding what's going on from the
+[03:08] perspective of real free cash flow
+[03:10] generation for a business. How much does
+[03:11] a business have to invest and how much
+[03:13] can it throw off? But then obviously,
+[03:14] right? I mean, the holy grail for
+[03:16] everybody at the end of the day, the
+[03:17] thing that moves the stock market is
+[03:19] earnings. And for us, it's uniform
+[03:20] earnings. So, what we see is there's so
+[03:22] often times when people go, "Well,
+[03:24] earnings doesn't matter to this company
+[03:25] cuz look, the stock market isn't
+[03:27] tracking what's really going on." But
+[03:28] when we look at it from a uniform
+[03:29] accounting perspective, all of a sudden,
+[03:32] you know, it makes more sense. I can
+[03:33] think about this for the SaaS companies,
+[03:34] for instance. And for the SaaS companies
+[03:36] back in you know, for the the decade and
+[03:38] a half when it was the greatest business
+[03:39] model in the world, everybody would
+[03:41] always look at the as-reported earnings
+[03:42] for an Adobe or something and say,
+[03:43] "Like, there's such a disconnect here."
+[03:45] And we'd go, "Well, the reason why is
+[03:46] because the accounting isn't showing the
+[03:48] real issues. You have to clean up and
+[03:49] get through the noise." And so, we
+[03:51] always think about, you know, earnings
+[03:52] is what really guides the market at the
+[03:54] end of the day, but the way that we look
+[03:56] at it is return on assets and asset
+[03:57] growth are so important to be able to
+[03:59] track.
+[03:59] >> Well, speaking of that, high return
+[04:02] companies like Oracle are financing
+[04:04] their AI build-out with debt instead of
+[04:07] issuing stock. Do you think that this is
+[04:09] a smart strategy or honestly just a red
+[04:11] flag?
+[04:11] >> So,
+[04:13] um I'll give my opinion strongly on
+[04:15] Oracle in a second. So, just broadly the
+[04:17] whole entire philosophy on what
+[04:18] everybody is doing, it makes perfect
+[04:20] sense. And this is the thing is so, up
+[04:21] until last year, so last year
+[04:24] hyperscalers on a uniform accounting
+[04:26] basis invested capex investment and and
+[04:29] also lease investment, R&D investment,
+[04:31] hard asset investment into depreciating
+[04:33] asset investment into a business, about
+[04:35] 350 to 400 billion dollars on data
+[04:37] center work. Well, on a uniform
+[04:39] accounting basis, they were throwing off
+[04:40] 400 to 450 billion dollars last year.
+[04:43] So, they could have funded all of that
+[04:45] in reality with cash flow. But, of
+[04:48] course, anybody who's worth their salt
+[04:50] in a in a treasury department would tell
+[04:51] you, just because you can doesn't mean
+[04:53] you should. And when you got a business
+[04:56] that has
+[04:57] the stability of cash flows and the
+[04:58] strength of cash flows that somebody
+[05:00] like Google does, you should throw on a
+[05:02] little bit of debt on there. And
+[05:03] especially when you're investing in hard
+[05:04] assets, hard assets cuz there's a lot of
+[05:06] reasons why it makes sense to finance
+[05:07] that with debt, especially for a data
+[05:09] center that's going to be potentially
+[05:10] around for 20 years, right? Or for the
+[05:13] power complex you're building around the
+[05:14] data center that's going to be around
+[05:15] for 20 years. And so, it makes a ton of
+[05:17] sense for broadly the philosophy of more
+[05:19] debt should be on these companies but
+[05:21] she has to get more asset intensive cuz
+[05:23] you don't need to finance everything
+[05:24] with your own cash flows. It's an
+[05:25] inefficient thing to do, especially when
+[05:27] you can return that some of that to
+[05:28] shareholders. Now, really quickly
+[05:29] though, Oracle, we do not think that
+[05:31] what Oracle is doing is actually a smart
+[05:33] business model. Uh cuz when we look at
+[05:35] it, we love Alphabet's business model,
+[05:38] Microsoft's business model, Amazon's
+[05:39] business model when it comes to being a
+[05:41] cloud provider. Cuz what they're doing
+[05:44] is when they sell cloud, they're not
+[05:45] selling a dumb shell and basically
+[05:48] saying go do whatever you want. The way
+[05:49] that they make such profits and why
+[05:51] would we look at it on a uniform
+[05:52] accounting basis for Alphabet as they've
+[05:55] gotten bigger and bigger in the data
+[05:56] center business as Microsoft has, as
+[05:57] Amazon has, return on assets have stayed
+[06:00] really, really stable on a uniform
+[06:01] accounting basis at 25% for Alphabet,
+[06:04] which is two times corporate average,
+[06:06] like 30, 35% for Microsoft, three times.
+[06:08] And the reason why is cuz it's all the
+[06:10] value-add stuff that they sell on top of
+[06:12] the data center shell, that's their
+[06:14] business strategy. What Oracle's doing
+[06:16] with Open AI is they're just selling a
+[06:18] dumb shell effectively at the end of the
+[06:20] day, and that is a low-return business.
+[06:22] We know it cuz that's Digital Realty,
+[06:24] that's
+[06:25] Equinix. That's not a sound business
+[06:26] model, which is why you're seeing their
+[06:28] return on assets, when we look at it,
+[06:30] already come down, and their credit
+[06:32] spreads, right? Bond spreads actually go
+[06:34] wider for the business cuz everybody's
+[06:35] going, "I don't know if this is the
+[06:36] right strategy." You're trading the
+[06:38] greatest business model in the world,
+[06:40] being an ERP software seller, to just
+[06:42] being a dumb data center shell provider.
+[06:44] And that's why we think it's, you know,
+[06:46] there's a distinction to be made between
+[06:47] Oracle and the rest of the hyperscalers,
+[06:48] but in general, of course, you should be
+[06:50] financing this investment with some
+[06:52] debt. So, Rob, actually, Bloom Energy,
+[06:55] Renova announced
+[06:57] incredible order backlogs. I think in
+[06:59] Bloom Energy's case, backlog was double
+[07:01] their sales in the
+[07:03] most recent quarter. I actually stuck
+[07:05] with Super Micro. I'd been in a long
+[07:07] time ago before anybody knew anything
+[07:09] about it because I saw that order
+[07:12] backlogs. So, I'm ignoring all the noise
+[07:14] and controversy with that stock. So,
+[07:16] just how big are the order backlogs now?
+[07:19] Are they three years, four years? I
+[07:21] mean,
+[07:22] it seems almost ridiculous cuz there's
+[07:24] these bottlenecks like on memory and
+[07:25] things from time to time. Right? I mean,
+[07:27] if you look at it, what GE Vernova, when
+[07:29] they went out with those numbers, so I
+[07:30] mean, to your point, staggering numbers.
+[07:32] And that business is just so impressive
+[07:34] in what it's what's happening for it. Um
+[07:36] but I think their backlog, to your
+[07:37] point, is out until 2030, right? And
+[07:40] Bloom Energy is a bit different because
+[07:41] it's expanding so quickly. What they
+[07:43] signed a 2.4 gigawatt deal with
+[07:46] uh Stargate Jupiter and basically a 2.8
+[07:48] gigawatt deal overall. But this business
+[07:50] that as recently as 2 years ago was to
+[07:53] create gory numbers in terms of was
+[07:56] producing 100 megawatts worth of power
+[07:59] capacity in terms of its fuel cells in
+[08:01] terms of Bloom Energy a year or two ago.
+[08:03] Now this year they're going to try to
+[08:05] get to 2 gigawatts worth, right? Which
+[08:07] is 10x growth. And so it's wild growth
+[08:10] you're seeing there. Now what I'll say
+[08:11] about the world of order books, order
+[08:13] books are absolutely a relevant thing to
+[08:15] look at and it's a really good leading
+[08:16] indicator, right? So order books don't
+[08:18] show what we always talk about, you
+[08:20] know, at Altimeter and what we learn
+[08:21] from, you know, the smartest investors
+[08:23] out there cuz we we've got an
+[08:25] institutional um client base too in
+[08:27] Valens Research our institutional
+[08:29] business and some of the largest hedge
+[08:30] funds and mutual funds in the world
+[08:32] actually use our research. And what we
+[08:33] always learn from them is, you know, you
+[08:35] always want to look and Louis this is
+[08:36] what I think you're getting to,
+[08:37] quantitative non-financial information
+[08:40] is the best leading indicator for where
+[08:41] the financial information that earnings
+[08:43] growth is going to come from. And order
+[08:44] books are a great great way to look at
+[08:46] that. Now the the caveat that I'll have
+[08:49] on order books and I think that I mean
+[08:51] when you look at it's you got it you
+[08:52] almost have to is you have to season
+[08:55] order books and you have to think about
+[08:57] the quality of different order books for
+[08:58] different groups. Like for GE Vernova
+[09:00] for the the order book they have, I
+[09:03] think of that much more like a Boeing
+[09:05] order book. Right? When Boeing basically
+[09:07] had, you know, 10 years of of um anyway
+[09:10] that's real. That's hard. That's a true
+[09:12] order book. When I always have a fly in
+[09:14] the ointment and and Louis as a
+[09:16] world-class tech investor I'm sure that
+[09:18] you'll tell me either if I'm wrong or if
+[09:20] you agree with me on this. Whenever I
+[09:21] talk about semiconductor order books,
+[09:23] I'm always a little more hesitant to
+[09:26] really really believe that number
+[09:27] because I know that it's like an IPO.
+[09:29] Everybody's three or four x
+[09:30] oversubscribed in terms of what they
+[09:32] really want for the chips because they
+[09:34] know know that means they'll get the
+[09:35] chips that they actually want. And so I
+[09:37] always look at when I look at an Nvidia
+[09:39] or even a Micron order book, I'm always
+[09:40] like, "Yeah, the trend is valuable for
+[09:43] me, but the level I don't anchor on."
+[09:44] Well, somebody like a G for an over, I'm
+[09:46] like, "No, that's actually probably a
+[09:47] hard number." I don't know, Louis. You
+[09:48] Like I said, you're smarter than I am on
+[09:49] this. Do you agree with that? Uh yeah, I
+[09:51] do. What about um
+[09:53] Nvidia's the criticism on Nvidia's that
+[09:56] does circular deals. In other words, it
+[09:57] goes talks to a company,
+[09:59] agrees to sell them some stuff, and the
+[10:02] company goes up in value and because
+[10:04] they're made an alliance with Nvidia. So
+[10:07] now all of a sudden they can raise
+[10:08] capital.
+[10:09] Okay, because they've been blessed by
+[10:11] Nvidia. Right.
+[10:12] >> Uh I guess Nvidia's
+[10:14] collections are getting a little slower.
+[10:15] Instead of getting paid in 45 days,
+[10:17] maybe it's 62 days or something like
+[10:19] that. Is that a legitimate criticism
+[10:21] because that's that has emerged as one
+[10:23] of the things the shorts are looking at?
+[10:25] Yeah, I mean, I think it's it's
+[10:26] something to monitor. I would argue we
+[10:28] are nowhere close to
+[10:31] Cisco in 1999 where it was all vendor
+[10:34] financing, right? And it was vendor
+[10:36] financing for these tiny kind of podunk
+[10:37] companies that weren't real. When you
+[10:39] look at
+[10:40] when you look at Nvidia, when you make
+[10:41] the distinction between right to your
+[10:43] point an Nvidia alliance partner, and I
+[10:44] always love that. It's like Nvidia will
+[10:46] give away a lot an alliance partner
+[10:47] title to anybody cuz it's like, "Well,
+[10:49] yeah, it just benefits me because you
+[10:50] want to use Nvidia now to prove that you
+[10:52] did." But in terms of Nvidia's the
+[10:54] financing that they're doing, the what
+[10:56] they're doing there are with large
+[10:57] anchor partners. And I mean, you're not
+[10:59] seeing them do that kind of relationship
+[11:01] with a $50 million startup that who
+[11:04] knows. nearly as much as you're seeing
+[11:06] them do that with an Open AI, right?
+[11:08] You're seeing them do that with, you
+[11:09] know, an Anthropic. We would argue that
+[11:11] that is that is nothing like what
+[11:13] everybody's trying to make the analogy
+[11:14] to, which is 1999 vendor financing with
+[11:17] Cisco and everybody else where they just
+[11:19] totally falsely inflated their pipeline.
+[11:21] We're not there yet. I mean, certainly
+[11:23] the market signaling is, you know, what
+[11:25] the market signaling is, Louis, like you
+[11:26] said. But in terms of from an accounting
+[11:28] perspective and quality of earnings and
+[11:29] quality of collectibility of earnings,
+[11:31] you always want to watch DSOs. They
+[11:33] matter. Um when DSOs climb up, day of
+[11:35] sales outstanding, right to your point,
+[11:36] Louie, how fast things are collected, it
+[11:38] matters. We always want to match those
+[11:39] things, but where where where uh where
+[11:41] Nvidia is is not a place that to us,
+[11:43] when we think about it from a forensic
+[11:45] accounting perspective, when we go,
+[11:46] "Warning lights flashed. We've got high
+[11:48] DSOs or we've got issues with allowance
+[11:50] for doubtful accounts not creeping up
+[11:52] like it should to gain earnings or any
+[11:53] of those things." We're not seeing that
+[11:55] yet for Nvidia. And we monitor that
+[11:57] stuff, but we're not seeing that yet for
+[11:58] Nvidia. Those We think that that's real.
+[12:00] Well, I appreciate that. My largest
+[12:02] holding, so I feel better now. I'd love
+[12:04] to shift to bonds for a second. Credit
+[12:06] spreads are historically tight, probably
+[12:09] from these record earnings. So, are you
+[12:11] seeing them staying tight or should
+[12:13] investors brace for a widening? Yeah,
+[12:15] and right, I mean, and obviously the the
+[12:17] ancillary question to this is, "So,
+[12:18] what's going on with private credit?"
+[12:20] Which obviously is the the thing that
+[12:21] has everybody spooked. We actually just
+[12:23] recently for one of our institutional
+[12:25] clients, uh they asked us to come in and
+[12:27] give a whole broad presentation just
+[12:28] about private credit. And this gets to,
+[12:30] you know, your broader question there.
+[12:32] Because the concern is, "A lot of the
+[12:34] liquidity, the capital that has been
+[12:35] provided into the market for the last 4
+[12:37] years since 2022 early 2021 when things
+[12:41] kind of pulled back for a while because
+[12:42] they were rebuilding their balance
+[12:43] sheets, has come from private credit."
+[12:45] Um right, including the financing that
+[12:47] has helped fuel this this boom in terms
+[12:49] of their investment. So, the question
+[12:51] is, "If private credit basically can't
+[12:53] extend as many more loan as many loans
+[12:54] now because they've got the issues with
+[12:56] redemptions, gating, they're going to be
+[12:58] running down those portfolios, is that
+[13:00] going to basically be a catalyst to slow
+[13:01] things down?" And this actually comes to
+[13:03] the point that you just asked about in
+[13:05] terms of bond spreads. The point that
+[13:06] we've made to everybody is, first off,
+[13:08] private credit is not a systematic risk.
+[13:10] There's a whole lot of reasons that
+[13:11] could be a whole entire other
+[13:12] conversation for us to have as to why
+[13:14] it's not, but the reason why private
+[13:15] credit, part of it is the reason why it
+[13:17] isn't a risk, is because we are starting
+[13:19] to see all of the other general
+[13:21] traditional sources of capital and
+[13:23] sources of credit, right? Banks, broadly
+[13:26] syndicated loans, broader corporate debt
+[13:28] actually really open up a lot as you're
+[13:31] seeing private credit have to step back.
+[13:32] We monitor things like the Chicago Fed's
+[13:35] financial basically financial indicator
+[13:37] in terms of how much credit is being in
+[13:39] capital is being made available. It
+[13:41] still has really healthy trends. You
+[13:42] look at real liquidity being injected in
+[13:44] the system. It has healthy trends. And
+[13:46] those bond spreads being that tight,
+[13:48] they should be because the fact that
+[13:50] we've got When you've got 19% earnings
+[13:51] growth being thrown off by these
+[13:53] companies that are doing the investment,
+[13:55] the ability for them to actually handle
+[13:56] the debt is real. And so, we're not
+[13:58] seeing any catalyst there that says that
+[14:00] we think that we're going to have a
+[14:02] blowout in credit. Because the reason
+[14:04] why you have blowouts in credit spreads
+[14:07] is because availability of credit gets
+[14:08] shut off. And when it gets shut off, all
+[14:11] of a sudden everybody worries about can
+[14:12] people refinance? And that's why credit
+[14:14] spreads blow out. If credit is being
+[14:15] made more available, which it is, we do
+[14:17] not see any risk there. And for the best
+[14:19] indicator of that that we love to watch,
+[14:22] C&I commercial and industrial loan
+[14:23] growth, just in the last 6 months has
+[14:26] accelerated so much. And that is one of
+[14:28] the best leading indicators for
+[14:30] corporate investment growth, which leads
+[14:32] to revenue growth, which leads to
+[14:33] earnings growth. So, we are very, very
+[14:35] bullish and do not think that we're
+[14:36] sitting on the edge of a credit cycle
+[14:38] that's going to turn down at all. That's
+[14:39] great insight. That's really great
+[14:41] insight. Yeah, so with plenty of
+[14:42] capital, we're going to grow. Yeah.
+[14:44] That's exactly right. Yeah, it's that
+[14:45] it's that simple. The math is the math,
+[14:47] right? When you can invest, and this is
+[14:49] that we always talk about the idea of
+[14:50] when you want to understand the economy
+[14:52] as a whole, and you want to understand
+[14:54] the market and where the market's going,
+[14:56] your three steps are what's happening
+[14:58] with credit. If credit is open, that
+[15:00] basically tells you you're in a bull
+[15:01] market. And then your question is, okay,
+[15:03] is that credit being used to refinance,
+[15:05] or is it being used to invest in growth?
+[15:07] And for a while, outside the Magnificent
+[15:09] Seven, it was really just being used for
+[15:10] refinancing. Now we're actually seeing
+[15:12] it being tangibly used for investment.
+[15:14] That's your next step. And then from
+[15:15] there, then you worry about, right,
+[15:16] valuations and sentiment. Because just
+[15:19] for everybody for context, and I know
+[15:20] you know this, Louis, the market never
+[15:22] goes down because it's expensive. The
+[15:23] market goes down because earnings growth
+[15:25] rolls over, and we're not there. And by
+[15:26] the way, not for nothing, we also are
+[15:29] not an expensive market right now, also.
+[15:31] On a uniform PE basis, we just our
+[15:33] uniform PEs basically are sitting below
+[15:35] 20 times um because of how strong real
+[15:37] earnings are.
+[15:39] Well, that's good insight. So, you know,
+[15:40] uh market breadth uh was pretty tight
+[15:43] this year. I I think it's getting better
+[15:44] with, you know, Apple's results the
+[15:46] other day and the obviously Amazon,
+[15:48] Google were pretty good. Do you see it
+[15:50] expanding cuz, you know, my problem is
+[15:52] is I just keep buying data center
+[15:54] stocks. And uh you know, I have Eli
+[15:56] Lilly and some others, but I found the
+[15:58] market breadth to be amazingly narrow
+[16:00] this year. Well, I mean, not for
+[16:02] nothing, right? So, last year uh we were
+[16:04] looking and cuz last year the narrative
+[16:06] was also still that, "Hey, we're in a a
+[16:08] very tight market and the Magnificent 7
+[16:10] is driving everything." And what we saw,
+[16:10] which was really telling, was last year
+[16:13] 500 companies doubled between basically
+[16:16] uh liberation day and and October. That
+[16:19] shows breadth was there. Now, this year
+[16:21] what you had so far, Louis, which has
+[16:23] caused some of that shrinking of
+[16:24] breadth, is with the Iran conflict
+[16:27] basically taking uh interest rate cuts
+[16:30] off the table at least for a few months.
+[16:32] That immediately shrinks breadth because
+[16:34] the whole entire narrative that, I mean,
+[16:35] we were talking everybody about this
+[16:37] year is where we were we were saying,
+[16:38] "Hey, look, the AI boom is going to be
+[16:40] real and going to be driving stocks."
+[16:42] But I mean,
+[16:43] functionally, like Louis, to your point,
+[16:45] it's a correlated bet, right? I mean,
+[16:47] effectively 60% of US market cap is one
+[16:50] bet, which is AI data center investment.
+[16:52] But our point was, you know, what would
+[16:53] be what's going to be really interesting
+[16:55] when interest rate cuts come, which is
+[16:56] what we believed was going to happen and
+[16:58] 100% was going to happen absent the
+[17:00] conflict causing oil prices to
+[17:01] skyrocket, was we were actually going to
+[17:03] see breadth because the consumer is
+[17:05] basically priced to die, which the
+[17:06] consumer is legitimately under pressure
+[17:08] right now. But you get lower interest
+[17:10] rates and you give the consumers a
+[17:11] little room to breathe, and all of a
+[17:13] sudden there was going to be some pulse
+[17:14] in the consumer. And so, I think without
+[17:16] interest rates cutting, you're going to
+[17:18] see a situation where it's not the Meg
+[17:20] but it's certainly the correlated bet of
+[17:22] AI is what's driving this market. I
+[17:24] mean, right? This is Bloom. This is GE
+[17:26] Vernova. This is um ProFrac right?
+[17:29] Getting into um energy. This is um you
+[17:31] know, uh Light, right? Lumentum. You
+[17:34] know, you look at any of these names um
+[17:35] and all those are they're they're not
+[17:37] just the Meg Seven, but they're 100% a
+[17:39] correlated bet on that spend. I think
+[17:41] that until you see interest rates get
+[17:42] cut, the correlated bet is really the
+[17:44] only place that anybody wants to be in
+[17:45] the market other than Lou to your point,
+[17:47] really, which got best GLP-1s. But um
+[17:50] but aside from that, yeah, exactly. So,
+[17:52] Rob, before we go, you just launched
+[17:54] something around behind-the-meter power
+[17:57] and natural gas stocks. Can you share
+[17:59] some of your favorite plays in the
+[18:00] energy and power infrastructure space?
+[18:03] Yeah, and just for a thumbnail, I mean,
+[18:04] it all centers on this conversation that
+[18:06] we were just having, right? The the fact
+[18:08] that the thing that's moving the market
+[18:10] is the correlated bet on AI data
+[18:11] centers. Well, if you want to have AI
+[18:13] data centers built, we're going to need
+[18:15] to have power solutions, right? Cuz the
+[18:17] biggest the biggest data on this is like
+[18:19] Lou, as just as you were saying when you
+[18:21] brought up earlier in this call, Bloom
+[18:22] Energy and GE Vernova, the real
+[18:25] currently bottleneck is power. Um and
+[18:27] right, you've got people scrambling to
+[18:29] not allow data centers. I mean, I'm in
+[18:30] Maine right now, as you may tell from
+[18:32] the background here in my cabin, right?
+[18:34] Nobody like we almost said that we were
+[18:36] going to have a moratorium on data
+[18:37] centers in Maine. And the reason why
+[18:39] isn't actually cuz people don't like
+[18:40] data centers, it's cuz people don't like
+[18:42] higher power higher power prices, right?
+[18:44] I mean, just for context, Buffalo in the
+[18:46] last five years, Buffalo, you've seen
+[18:48] power prices go up 200%. So, for an
+[18:50] average consumer, the price per
+[18:51] kilowatt-hour has gone up 200%. So,
+[18:53] look, we need a solution to resolve
+[18:56] that. And the solution is going to end
+[18:57] up being a lot of these data centers
+[19:00] doing what's called colocation or
+[19:01] behind-the-meter power, or as we like to
+[19:03] call it, BYOP, bring your own power. Um
+[19:06] which is the idea that look, you're not
+[19:07] going to be able to hook up to the grid
+[19:09] because the grid is getting far too
+[19:11] taxed, and you're going to cause a whole
+[19:12] bunch more cost for individual people,
+[19:14] which is 100% not viable for for
+[19:17] politicians and also not viable for
+[19:19] consumers that are already crunched. And
+[19:21] so, what we're going to see is a wave of
+[19:23] the solution, which is going to be
+[19:24] around how do you get power closer to
+[19:27] the data center? And the the only way
+[19:29] that we can do this in the next 5 years,
+[19:31] Bloom Energy and GE Vernova just told
+[19:32] you what the playbook is, it's natural
+[19:34] gas power. And GE Vernova has crazy
+[19:36] backlog because of their natural gas
+[19:38] turbines. Bloom Energy, those are
+[19:40] natural gas fuel cells. And so, the only
+[19:42] way that we're going to be able to get
+[19:43] that power cuz nuclear ain't coming for
+[19:45] the next 5 to 7 years. And also, we
+[19:47] can't use solar and wind because data
+[19:50] centers need to be on 24/7. don't know
+[19:52] if you know this, but it doesn't shine
+[19:53] the sun doesn't shine after 7:00 or 8:00
+[19:55] p.m. Um and so, if that's the if that if
+[19:58] that's the fact, we need natural gas.
+[20:00] And so, EQT is going to be a huge winner
+[20:02] of this because EQT is a company that
+[20:05] it's the largest producer of natural gas
+[20:08] in North America. They have a and they
+[20:10] have a massive reserve base that can
+[20:12] they can incrementally um do. And so,
+[20:13] what they're going to see happen is more
+[20:15] of that natural gas is going to be
+[20:16] pulled through those pipelines. There's
+[20:18] going to be a better price for them for
+[20:19] natural gas. And so, they're going to be
+[20:20] a big winner there. Secondly, while we
+[20:22] think behind the meter power is going to
+[20:24] be a big deal, we also need to make a
+[20:27] massive investment in the grid. And with
+[20:30] that, we think there's another really
+[20:31] really tiny company that's super
+[20:32] interesting about this, which is PLPC,
+[20:35] which is preform line products. And what
+[20:38] PLPC does is they make the mundane
+[20:41] boring things that you need to hook up a
+[20:44] power line across power cables, to hook
+[20:47] up a power line into a transformer, into
+[20:50] a data center. All that little stuff
+[20:52] that you need, these parts that are
+[20:53] essential, but nobody thinks about. They
+[20:56] are an awesome monopoly that just as we
+[20:58] need a whole lot more of it, they're
+[20:59] going to be able to charge a whole lot
+[21:01] more and they're going to sell a whole
+[21:02] lot more. And everybody's sleeping on
+[21:03] this company, PLPC, because of how small
+[21:06] it is. And the last one is we are going
+[21:09] to as we see the surgeon data centers
+[21:11] and I think Alphabet is already a really
+[21:13] good example of this where we're going
+[21:14] to need to get more efficient in our
+[21:16] power. Alphabet if you look everybody
+[21:18] talks about how data intensive
+[21:20] everything hyperscalers are looking at
+[21:23] what Alphabet has done to get more and
+[21:25] more efficient in terms of how they run
+[21:27] their LLM, how they run Gemini, and how
+[21:30] they use tokens and everything else.
+[21:31] That's going to be a race that everybody
+[21:33] else has and a big part of that is how
+[21:34] do you more efficiently? And so Vicor,
+[21:37] VOCR, it is a company that basically
+[21:40] makes the equipment that steps down
+[21:42] power, right? The way that we the way
+[21:44] that we basically transmit power in
+[21:46] terms of volts, watts, amps basically
+[21:49] when we're transferring it long
+[21:50] distances, we need to basically
+[21:52] massively ramp up the voltage because
+[21:54] that actually keeps the power from
+[21:56] degrading. But when you send that into a
+[21:58] data center, if you did that, you'd fry
+[22:00] every single Blackwell chip, every
+[22:01] single Nvidia chip, every single Micron
+[22:03] chip that's in there and you would be
+[22:05] sitting on a a $24 billion dollar
+[22:07] investment that you just lit on fire.
+[22:09] And so we need to step those things
+[22:10] down. Well, Vicor has some of the best
+[22:11] technology out there for the for the
+[22:14] functionality to basically allow you to
+[22:15] have the step down in power to a very,
+[22:17] very high amp, low voltage level that it
+[22:20] is exactly what the chips need to
+[22:22] consume without everything getting way
+[22:24] too hot and frying the chips from that
+[22:26] way. And what's really interesting about
+[22:28] them is they're going from making that
+[22:29] equipment to now licensing the
+[22:31] technology to others and that's caused
+[22:33] their uniform return on assets, again
+[22:35] what we care about as we talked about at
+[22:36] the very beginning of this call, to
+[22:38] explode and the market still isn't fully
+[22:40] grasping how profitable it's going to be
+[22:42] for them, especially as demand ramps up.
+[22:44] So, those are a couple of the players
+[22:45] that we think are really, really
+[22:47] interesting things when we go to this
+[22:49] world of how do we solve the power
+[22:51] bottleneck, as you said Louie, that is
+[22:53] central to this data center build out in
+[22:55] this AI boom. I have one technical
+[22:57] question. So, you know, we have these
+[22:59] direct current grids from like
+[23:00] Washington state to California for hydro
+[23:03] and Canada has a bunch of direct current
+[23:04] grids all over the US cuz it Canada is
+[23:07] blessed by all this hydro. Yep.
+[23:10] That we used to use to build to make
+[23:11] aluminum, right, Louie, until until we
+[23:13] figured we didn't need that anymore.
+[23:15] That's That's why Ford still has to have
+[23:17] Canada make the body panels and the
+[23:19] engine blocks cuz Canada gives has a
+[23:21] huge competitive advantage from the
+[23:23] cheap electricity. But, help me out. Um
+[23:26] almost all our grids within America are
+[23:30] are alternating current. So, do you see
+[23:33] anybody making more direct current grids
+[23:35] or it's you'd have to have a massive
+[23:37] power source to do that, I guess. Yeah,
+[23:39] I think that what you're going to see is
+[23:41] you're going to see a lot more of that
+[23:42] happening, in my opinion. Not Not
+[23:44] actually I'm not going to pretend that I
+[23:45] am a the the world-class expert on this,
+[23:47] but in my opinion, when you get more
+[23:49] because it makes sense to be DC to DC
+[23:51] instead of, right, DC to AC to DC,
+[23:53] right, which is effectively how the
+[23:54] world of power plants works. When you're
+[23:56] having more of this co-location and more
+[23:58] of these really, really large, large,
+[24:00] large power plant solutions next to data
+[24:02] centers, I think you're going to that
+[24:04] are that are co-located so you don't
+[24:05] have to worry about some of those
+[24:06] issues. I think that you're going to see
+[24:07] a lot more of that kind of technology. I
+[24:09] mean, if you if you study that, you know
+[24:11] what that means in terms of transformer
+[24:12] land and everything else. There's going
+[24:13] to be some changes there that happen
+[24:15] because of that. I agree with you, 100%
+[24:16] Louie. So, because New England's not the
+[24:18] most data center-friendly place, where
+[24:21] where are the data centers going in the
+[24:23] Northeast? I guess Pennsylvania, right?
+[24:25] I mean Well, I mean, you saw, I'm sure,
+[24:26] the news Scranton, right, with the huge
+[24:29] data center for But, but the other thing
+[24:30] that I think is it's there's important
+[24:32] thing that I think is going to happen,
+[24:33] which is if you remember, I remember,
+[24:35] it's still a company, but if you
+[24:36] remember Akamai, right, what Akamai did
+[24:39] was so what which was so revolutionary
+[24:41] and caused them to be such a phenomenal
+[24:42] stock in the 2000s and early 2000s was,
+[24:46] right, CDNs, right, which is like
+[24:48] content distribution networks.
+[24:49] Effectively, you've got the big storage
+[24:51] over here, but then you've got all of
+[24:53] these spread out smaller for that are
+[24:55] all over. And what I think you're going
+[24:57] to see is a lot of the bigger data
+[24:59] center investment. So, yeah, you're
+[25:01] going to have it in places like
+[25:03] like Pennsylvania as you know obviously
+[25:04] has a ton of natural gas. We're going to
+[25:05] see it, but you're going to see it
+[25:06] places like Texas
+[25:08] where you or New Mexico where you've got
+[25:10] access to energy at a cheap price,
+[25:12] right? I mean, you're by Midland, you
+[25:14] can basically, you know, basically pull
+[25:15] all the natural gas you want at a
+[25:16] reasonable prices. And also you've got
+[25:18] tons of land and tons of space. So,
+[25:19] nobody's going to complain from that
+[25:20] NIMBYism perspective, right? That not in
+[25:22] my backyard because it is nobody's
+[25:24] backyard other than the cows.
+[25:26] And so, I think from that perspective
+[25:28] you're going to see a lot of the bigger
+[25:29] data centers out there. And I think what
+[25:31] you're going to see is something that
+[25:32] looks a lot more like that old Akamai
+[25:34] model of then you're going to have
+[25:35] smaller data center solutions which are
+[25:38] going to be doing the inference that's
+[25:39] closer where you need it, right?
+[25:41] Obviously, cuz if you have an autonomous
+[25:42] vehicle, you can't have the latency for
+[25:44] that to go, you know, halfway across
+[25:45] America and back. It needs to be close.
+[25:47] But then you can basically load manage
+[25:49] what needs low latency and what doesn't.
+[25:51] And you can manage that for the big big
+[25:53] big data centers where nobody cares. And
+[25:55] a lot of smaller data centers in places
+[25:57] like New England where, right? I mean,
+[25:58] again, in Maine we literally almost
+[26:00] passed a moratorium on data center build
+[26:02] before Mills spiked it. So, I think
+[26:04] you're going to see more of that way of
+[26:05] that way of balancing and thinking about
+[26:07] it. Does everything doesn't have to be a
+[26:08] 500 megawatt data center which is what
+[26:10] we're all obsessed with right now. We're
+[26:12] going to have more of those one, two,
+[26:13] three gigawatt data centers where it
+[26:15] doesn't matter. And then more of those
+[26:16] smaller traditional ones
+[26:18] when we need something like a CDN, but a
+[26:20] CDN for inference. One last bizarre
+[26:23] question. Are you where the moose are
+[26:25] wandering around or are you safe? So, I
+[26:28] am I'm right on a lake in the lake
+[26:29] region of Maine. So, and actually the
+[26:31] lake that I'm on is called Moose Pond.
+[26:33] So, that gives you a hint. But I have
+[26:35] not actually sadly seen a moose in the
+[26:36] last few years. I got to go a little bit
+[26:38] farther north to where they're all a
+[26:39] little bit farther north to where
+[26:40] they're all walking around. But they're
+[26:42] here from time to time. And I mean, just
+[26:44] uh just yesterday I was watching a bunch
+[26:46] of a bunch of deer. And then recently I
+[26:48] saw a bobcat cruising through my uh my
+[26:50] property. So, we we we got enough of our
+[26:52] wildlife, to say the least. Good. Good.
+[26:54] Well, great. Thank you so much, Rob. We
+[26:56] really appreciate all your insights. As
+[26:58] always, Rob's links will be in the
+[27:00] description below. But, thank you again,
+[27:02] Rob, so much for joining us. Thanks so
+[27:04] much for having me. It was a great
+[27:05] conversation, and hope to have be on
+[27:06] again. Thanks so much, Crystal. Thanks
+[27:08] so much, Louie. Thank you, Rob. It's
+[27:09] been an honor to have you. Thank you
+[27:10] again.

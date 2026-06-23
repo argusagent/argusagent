@@ -7,9 +7,678 @@ Type: video
 Duration: 28:00 (1680s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 670
+Transcript characters: 23687
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] After four straight months of monster
+[00:02] gains and another round of blockbuster
+[00:04] earnings, this market feels way too hot.
+[00:06] And now August is here. Historically,
+[00:08] one of the most brutal months for
+[00:10] stocks. And that's why we brought
+[00:12] backup. Welcome back to Natalie Market
+[00:14] Buzz.
+[00:15] [Music]
+[00:21] According
+[00:22] [Music]
+[00:28] to Bpoke, the market is now grossly
+[00:31] overbought and August is here.
+[00:33] Historically, a month where things can
+[00:35] go south fast. Now, I'm showing you some
+[00:37] recent BSpoke charts. Let's take a look
+[00:40] at how stretched things are. To help us
+[00:43] make sense of it all, we're joined by
+[00:44] two very sharp minds. I want to welcome
+[00:47] back Jason Bodner, founder of Money
+[00:49] Flows. He's tracking big money flows
+[00:52] before they hit the headlines. Thank you
+[00:54] so much, Jason, for being here.
+[00:56] >> Thanks for having me.
+[00:57] >> And joining us for the first time is
+[00:59] Tammy Marshall. She's known as the
+[01:02] Fibonacci Princess. You may have seen
+[01:04] her recently on Fox Business with
+[01:06] Charles Payne. She uses a powerful
+[01:09] charting tools to spot key turning
+[01:11] points in the market. Thank you, Tammy,
+[01:14] for joining us.
+[01:15] >> Thank you for having me on today.
+[01:16] >> It's earning season. The market's on
+[01:18] edge. Let's get into it. Let's start
+[01:20] with TSN Tyson Foods. Chicken margins
+[01:23] are under pressure. Jason, Tammy, what
+[01:26] are you seeing?
+[01:26] >> Um, well, you know, as you know,
+[01:29] Crystal, we we rank 6,000 stocks daily,
+[01:32] and we just get one uh easy number, much
+[01:35] like Louis grades. Um, and just to be
+[01:39] honest, Tyson just scores poorly. It's
+[01:41] technically very weak. Fundamentals,
+[01:44] it's really middle of the road. uh it
+[01:47] has mixed earnings and sales growth over
+[01:50] the past one and three years. It ees out
+[01:52] a little 2% profit margin. You know,
+[01:55] they're estimated to grow sales and
+[01:57] earnings, which is great, but um in the
+[01:59] absence of a blowout, nothing really
+[02:01] excites me about Tyson.
+[02:03] >> Well, what I'm seeing on Tyson is even
+[02:06] though we are coming into earnings, I do
+[02:08] have a level of defined risk. Now, on
+[02:10] the daily, it looks terrible. All the
+[02:12] moving averages are on the side of the
+[02:13] bears. But on the monthly chart, my
+[02:16] level of defined risk is 47 to52.
+[02:20] So
+[02:21] if we bust that zone, we will either
+[02:24] retest the low from October 2023, which
+[02:26] is $44.94,
+[02:29] or we will make a deeper downside
+[02:31] correction. Again, that zone of risk is
+[02:32] 47 to 52. just put your stop underneath
+[02:35] there and uh if the trade doesn't work,
+[02:39] we'll look for more support even deeper
+[02:41] down.
+[02:42] >> Now, on to the chips. AMD semiconductors
+[02:45] have been on fire, but is the rally
+[02:47] getting tired?
+[02:48] >> Well, uh you know, Tammy brought up a
+[02:51] great point. A stock like Tyson's
+[02:54] already negative. There's a lot of
+[02:56] negativity priced in. AMD is the
+[02:58] opposite. You know, in terms of my
+[03:00] scoring, we're seeing terrific sales and
+[03:02] earnings growth. uh over the past one
+[03:05] and three years. Three-year earnings
+[03:07] growth is negative. That's sort of the
+[03:09] only knock on it. Makes a 6% profit
+[03:11] margin, plenty of free cash flow, and
+[03:14] great estimated sales and earnings
+[03:16] growth. This is awesome. Uh the one
+[03:18] downside is actually upside MD's been up
+[03:23] um 24% in the last month. Uh the change
+[03:27] year to date is 46%. So there's a lot of
+[03:29] positivity priced in and technology
+[03:32] stocks specifically semis and software
+[03:34] have been the biggest beneficiaries of
+[03:37] the rally since April's bottom. So it's
+[03:39] kind of priced to perfection.
+[03:42] So even if they come out and blow out
+[03:44] earnings, this might be a a fade the
+[03:47] number situation in which they're
+[03:50] they're putting pressure on the stocks.
+[03:52] And then of course uh I'm sure it's the
+[03:54] elephant in the room. We have seasonal
+[03:56] weakness upon us August and September.
+[03:58] are the weakest months of the year. So,
+[04:01] I actually foresee a little bit of
+[04:03] negativity in the price action
+[04:05] shortterm, but long-term, this is a
+[04:07] fundamentally superior stock.
+[04:09] >> Well, I do have to agree with you here,
+[04:11] Jason. Uh on my monthly chart, we have a
+[04:14] lot of room to run. Uh we were we are
+[04:16] not going to be extended until we get on
+[04:18] around the, you know, 250 to 320 area on
+[04:22] AMD. I will also look for a pullback
+[04:26] here uh because of the seasonality
+[04:29] um of where you know where we are right
+[04:32] now. But um as far as AMD is concerned
+[04:36] uh I do think any buy on a pullback is a
+[04:40] good idea. Um and uh like I said I don't
+[04:43] see us getting really extended in this
+[04:45] stock until 250 to about 320.
+[04:48] >> Well let's talk about Caterpillar. Um
+[04:50] this company has been in a slump. uh
+[04:53] their sales and earnings are still
+[04:54] forecasted to be negative, but uh they
+[04:57] are big into construction mining and is
+[05:00] there any hope for Caterpillar?
+[05:02] >> Well, for me, the the one thing I do
+[05:05] like about it is it it makes a profit.
+[05:07] Um it sounds so silly to say, but out of
+[05:10] thousands of stocks, there are many that
+[05:12] just don't make money. So, that's my
+[05:15] minimum base requirement. Um this scores
+[05:18] pretty well in fundamentals, but it
+[05:20] could be better. And technically it's
+[05:22] very strong. So to me that indicates
+[05:25] that uh you know there's been a lot of
+[05:27] rebound. Industrials has been the second
+[05:30] hottest sector you know since April lows
+[05:33] has been industrials, technology,
+[05:35] discretionary and financials. Um those
+[05:38] are all growth engines and that gets me
+[05:40] excited. Uh but again coming upon
+[05:42] seasonal weakness I would expect people
+[05:45] taking profits where they've experienced
+[05:47] them the most. This stock is pretty
+[05:51] has had some pretty nice performance.
+[05:53] It's up 21% year-to date, up 12.8% in
+[05:57] the last month, but it doesn't have the
+[05:59] phenomenal growth power metrics and
+[06:01] fundamentals to support that type of
+[06:03] continued momentum. Um, so I think it's
+[06:06] a fine company. Uh, for me, they're
+[06:09] better fish in the sea. So again, I
+[06:11] would expect maybe a little negativity
+[06:13] before positivity in terms of price. As
+[06:15] as far as my view on Caterpillar, uh
+[06:17] Fibonacci wise, it Caterpillar is it's
+[06:19] it's extended. It's extended on a daily,
+[06:22] on a monthly, it is getting extended. Uh
+[06:25] I do have um 459 to 62 on a monthly
+[06:29] chart. So, for me, this is a no-go right
+[06:32] now. I I'm not interested in buying
+[06:33] Caterpillar. Uh I would need to see
+[06:36] quite a pullback. Um so, Caterpillar is
+[06:39] a no-go for me right now.
+[06:41] >> Next up is Eaton. Dad, you recently sold
+[06:44] this one.
+[06:46] Um, yeah, it's uh it fell in my
+[06:48] quantitative ranking, but it still has
+[06:50] positive sales and earnings. But let's
+[06:52] see what Jason Tammy think.
+[06:55] Yeah. Uh, this one ranks pretty highly
+[06:57] for me. 77.6. That's sort of in my sweet
+[07:00] spot. I really like what I see overall.
+[07:03] Fundamentally, it's a little weaker than
+[07:06] its technicals. Again, that sort of
+[07:08] creates this divergence where shortterm
+[07:11] we might expect prices to pull back a
+[07:13] little, but the fundamentals,
+[07:15] the superior fundamentals support a
+[07:19] longer term uptrend. Again, like Louie
+[07:21] mentioned, it's got good sales growth uh
+[07:25] on a one and threeyear basis, but it's
+[07:27] below 10%. So, there are better fish in
+[07:30] the sea for that one. But earnings
+[07:31] growth is double digit percent uh near
+[07:34] 20 for one and three years. That's
+[07:36] great. It it makes a nice 15% profit
+[07:38] margin. It's got $3.5 billion of free
+[07:42] cash flow. All things I like. Uh the
+[07:45] one, you know, place it's going to get
+[07:47] penalized is is debt similar to
+[07:49] Caterpillar. Caterpillar had 200% debt
+[07:52] to equity. So, I really don't like that.
+[07:55] Eaton's closer to 54%.
+[07:58] Which is fine. I like to see 25 or
+[08:00] lower. That's that's why my range of
+[08:04] stocks is so narrow. I'm really picky,
+[08:06] but you know, eaten is up on a one month
+[08:09] and one year basis. So again, all this
+[08:13] company has to do is meet or underwhelm
+[08:16] in earnings. And I think we're going to
+[08:18] expect to see some selling.
+[08:20] >> As far as my view on Eaton, uh I'll be
+[08:23] honest with you, I I I think it was a a
+[08:25] good idea for you to sell and wait for a
+[08:26] pullback, Louie. I think that was a very
+[08:28] smart idea. I will tell you though, it
+[08:30] does have some room to run. The targets
+[08:33] off of the low from April are 420 and
+[08:38] 471. So, we're getting close to them,
+[08:40] but I do have an a defined area of risk,
+[08:43] 372 to 84. If anyone is looking to get
+[08:47] bullish, just put your stop underneath
+[08:49] that zone. But we could continue that
+[08:51] move up to 420 and 471 on the daily. And
+[08:54] then the larger swing targets, they are
+[08:56] actually the same on the monthly which
+[08:58] are also 420 and 471.
+[09:01] But when we get up to those targets,
+[09:03] what they say is many moves tend to uh
+[09:05] ex tend to uh fail at extensions of
+[09:10] previous swings. So that is where like
+[09:12] if we have earn when we have earnings
+[09:14] this week, if it bounces up to those
+[09:16] targets, I'm no longer interested in
+[09:18] this stock. I want to see a pullback so
+[09:20] I can redefine the risk because every
+[09:22] time we make a new high, risk has to be
+[09:24] redefined.
+[09:26] >> Okay, it's now time to talk about a dog
+[09:28] with fleas, namely Fizer. This stock has
+[09:31] been in a steep decline since 2022. Is
+[09:35] there any hope for this stock at all?
+[09:38] >> Man, uh little fun fact, I used to work
+[09:41] at Fizer in the video conferencing
+[09:44] department when they rolled out Viagra.
+[09:46] So back then times were much more
+[09:48] exciting than they are now. Um you know
+[09:51] this company it ranks right middle of
+[09:53] the road in fundamentals really weak in
+[09:56] technicals. So
+[09:58] right off the bat this is not a stock
+[10:00] that I would consider for longerterm
+[10:02] investment or a hold. Um it's got
+[10:05] volatile sales and earnings growth. It's
+[10:07] kind of all over the map. One year
+[10:09] earnings growth was 278%.
+[10:11] Threeear earnings growth 75%. Awesome.
+[10:15] But, uh, three-year sales growth
+[10:17] negative -3%.
+[10:18] Uh, so they're not really growing sales
+[10:20] at any exciting metric. They're slated
+[10:23] to grow earnings 2.3% and sales growth
+[10:26] is slated to be negative. They got
+[10:28] plenty of free cash flow, loads of debt.
+[10:31] This is not a company I would invest in.
+[10:33] But if we're going to look at sort of
+[10:35] price action, this thing's down 4% in a
+[10:38] month, down 12.2% year to date. Uh, like
+[10:41] you said, it's been in a steady
+[10:43] downtrend. And healthc care has been a
+[10:44] really mixed sector. You're seeing uh
+[10:47] the winners really win and the losers
+[10:50] really get punished ever since April.
+[10:52] This thing has negativity priced in. So
+[10:56] all they got to do is provide a little
+[10:57] bit of hope. And I think we're going to
+[10:59] see an uptick in the stock. But that's
+[11:01] just for a trade. I'm not buying Fizer.
+[11:04] I don't like it. I worked there. I saw
+[11:06] enough. Well, one of the things that I
+[11:08] look at that I haven't look that I
+[11:09] haven't mentioned yet is on a monthly
+[11:11] chart, I do like to see uh a stock pull
+[11:15] back to either the 50% or almost the 80%
+[11:19] retracement, which is the 786. And when
+[11:22] it does that of a very large swing, so
+[11:24] I'm looking at the swing from March of
+[11:26] 2009 to the high of 2021, December 2021.
+[11:32] Okay, that's how big of a swing it is.
+[11:34] It did pull back 80%
+[11:37] and that monthly zone that I'm looking
+[11:40] at is 16 to 21.
+[11:44] If we can hold that zone, I believe we
+[11:48] can continue this move up. But if we
+[11:50] take down take out that $16 area, I
+[11:53] believe we will either retest that
+[11:55] previous low of $11 or make a deeper
+[11:58] downside correction. Now, if you need
+[11:59] closer risk, I do have a setup on the
+[12:02] dailies, uh, which is 22 to 23 because
+[12:05] if we take out that 22 area, we will
+[12:08] either retest April's low or make a
+[12:10] deeper downside correction.
+[12:12] >> Now, TDG, Dad, you're holding this in
+[12:14] some manage accounts. Aerospace has been
+[12:17] strong, but can it keep climbing?
+[12:19] >> I think so, but let's see what Jason and
+[12:21] Tammy think.
+[12:22] >> This is a great rank stock. uh it ranks
+[12:25] in this sort of top percentile for me in
+[12:27] terms of technicals and fundamentals
+[12:29] once again given the overheated nature
+[12:32] of the market and it being overbought
+[12:35] and I know you mentioned bespoke by my
+[12:37] metrics as well the market has been
+[12:39] overbought the big money index uh was
+[12:42] overbought for I think over 40 trading
+[12:44] days that's two months uh just today it
+[12:47] fell from overbought
+[12:49] but all that upward price momentum is
+[12:52] sort of built into the technicals of
+[12:53] This stock, it's ranking high
+[12:55] technicals, which means it's overheated.
+[12:57] Uh, but the fundamentals are great. I
+[13:00] mean, double-digit sales and earnings
+[13:01] growth on a 1 and threeyear basis. Makes
+[13:04] a nice healthy 19% profit margin. Has
+[13:07] plenty of free cash flow minus capital
+[13:09] expenditures about 1.8 billion. Uh, the
+[13:13] stock's up in one month, up year to
+[13:15] date. Uh, five years, it's up 272%. This
+[13:18] is this is a beast. the only area I
+[13:21] really don't like it. It does carry some
+[13:23] debt, but that's kind of standard for
+[13:25] the aerospace world. But again, I think
+[13:28] given August's historical weakness, and
+[13:32] I think we're looking at since 1990, and
+[13:35] I have a chart, and I'll supply it to
+[13:36] you, Chris, to put up. Um, August is
+[13:40] only positive about 60% of the time.
+[13:43] It's the second weakest month of the
+[13:45] year, second only to September. And here
+[13:48] we are, August 1st. I woke up this
+[13:50] morning and futures were down one and a
+[13:51] half% when I when I looked. It's almost
+[13:54] like right on Q. So, we're entering in
+[13:56] this seasonally weak period of of time
+[13:59] with a technically strong stock. All
+[14:02] they have to do is misstep, provide poor
+[14:04] guidance, anything and there's a
+[14:06] downward expectation with a stock that's
+[14:08] been performing so well year to date.
+[14:10] >> For me, this stock is way way extended.
+[14:15] uh it has met um monthly targets which
+[14:19] were 1524 was the first target. The next
+[14:22] target 1616 we're right on top of that.
+[14:26] I do have us right on top of a zone of
+[14:30] resistance. 1616 to 30. So I do believe
+[14:35] that we could see a big pullback in this
+[14:37] stock. It could even be one of those,
+[14:40] you know, fall off the cliff types. It's
+[14:42] just been rallying straight up for such
+[14:45] a long time. So, um we will see if we
+[14:48] can get if we're going to get that big
+[14:50] pullback or if it's just going to be
+[14:53] another smaller pullback for us to
+[14:55] define risk and be able to continue this
+[14:57] move up. As long as the risk is defined,
+[15:00] I don't mind if something is super
+[15:01] extended, but I do want to see a
+[15:03] pullback. I do not buy the stocks that
+[15:07] are zoom zoom zoom going to the moon
+[15:10] until they pull back and then I'm along
+[15:13] for the ride.
+[15:14] >> This might be where we disagree because
+[15:16] historically speaking, at least in my
+[15:18] experience,
+[15:20] it feels weird and it's uncomfortable to
+[15:23] buy stocks that zoom and have positive
+[15:25] momentum. But as we can see from beasts
+[15:28] like Nvidia and you know there are
+[15:30] countless other uh story stocks over the
+[15:33] years, people kick themselves for not
+[15:36] getting in on the trend. And that's
+[15:38] really fueled by superior fundamentals,
+[15:40] sales and earnings growth. And I know
+[15:42] Louie, you preach that often. So I I
+[15:45] think TDG has those rare characteristics
+[15:48] on a fundamentals basis that can sustain
+[15:51] it. Um, so for me, I wouldn't be afraid,
+[15:55] but um,
+[15:56] >> well, I agree with you. I mean, I'm I'm
+[15:58] in Nvidia also and I've been in it a
+[16:00] long time, but what I'm saying is when I
+[16:02] did buy my Nvidia, it was on a pullback
+[16:04] to continue the move up so that I can
+[16:06] define my risk. I don't just buy
+[16:08] something when it's at the highest high.
+[16:10] I wait until it hits that highest high.
+[16:12] Then I look at previous swings in the
+[16:14] market and retracements in order to form
+[16:16] a zone that defines my risk instead of
+[16:19] just buying something at the tippy tip
+[16:21] top.
+[16:22] >> No, I agree. Unfortunately, I've
+[16:24] experienced in my own uh investing when
+[16:28] I wait for a pullback all of a sudden
+[16:30] it's up 30% and I'm kicking myself. So,
+[16:33] >> okay. And I'm okay with that because you
+[16:34] know what? Another bus can come along
+[16:36] will come along. I'm okay with missing
+[16:38] it. I don't have FOMO.
+[16:40] >> Yeah. So before we talk about some other
+[16:41] stocks, the the reason we have Tammy on
+[16:43] is there is mean reversion out there at
+[16:45] le about eight months a year and so even
+[16:48] the best stocks uh u pull back. So uh we
+[16:52] we appreciate our guidance on when to
+[16:54] buy. Let's talk about Cummings. Um this
+[16:57] is uh obviously they make diesel engines
+[16:59] for trucks, generators, and even some
+[17:01] big boats. It's a solid name, but does
+[17:04] it look any good?
+[17:05] >> So yeah. Um
+[17:08] we're talking Cumins. Um,
+[17:12] again a high ranked stock in terms of
+[17:15] fundamentals and technicals. This one
+[17:17] ranks higher in fundamentals and
+[17:18] technicals which excites me. That
+[17:20] usually represents uh a little less
+[17:23] overheatedness in the share price and
+[17:25] you have solid, you know, fundamentals
+[17:28] behind it. The the one place I don't
+[17:31] like it is their sales have grown 0% in
+[17:34] the last year. Earnings though up 450%
+[17:38] in one year is off the charts and
+[17:40] three-year sales growth 13% three-year
+[17:42] earnings growth 129%. These are awesome
+[17:45] metrics.
+[17:47] 12% profit margin and they're estimated
+[17:49] to grow their sales and earnings next
+[17:51] year. This is all great. They have a
+[17:54] respectable amount of free cash flow.
+[17:57] They do carry debt 74%. Like I said, I
+[18:00] like to see 25% or under, but it's it's
+[18:04] rare to get a perfect stock. So, this
+[18:06] one ranks up there. It's been uh
+[18:10] up moderately for the year, up pretty
+[18:12] well for one month, 12%. That could
+[18:15] continue with uh an earnings beat.
+[18:19] So, I I really like Cummins and I love
+[18:22] the industrial sector because it's been
+[18:24] the hottest sector since April lows. uh
+[18:28] money flowing in, you know, big
+[18:32] investors positioning for that sector to
+[18:34] run in a continued manner. So, uh it
+[18:38] checks all the boxes for me.
+[18:39] >> Yeah, I actually like this stock, too.
+[18:41] It does look good for a continued move
+[18:43] up. I have some larger swing targets at
+[18:45] 422 and 466. All of the moving averages
+[18:48] are on the side of the bulls. So, uh and
+[18:50] it is having a little pullback right
+[18:52] now. Uh this is a very wide zone. So it
+[18:54] just depends on what kind of trade you
+[18:57] put on. But uh I do have a zone around
+[19:00] 330 all the way to about 362.
+[19:04] So I I I actually like this stock. It
+[19:07] does look good.
+[19:07] >> Well, let's talk about a wy cyclical
+[19:10] stock, namely Mosaic. Uh this is
+[19:12] obviously a fertilizer company and um
+[19:16] it has positive sales and earnings, but
+[19:19] um you know it's it's again it's
+[19:21] cyclical. Do you guys have any opinion
+[19:22] of this?
+[19:23] >> Yesesh is my opinion of Mosaic. Uh you
+[19:26] know at one point I think it was 15
+[19:30] years ago all the agricultural stocks
+[19:33] were on fire. I was looking at Agrium
+[19:36] Mosaic Pod Ash they were all just going
+[19:38] to the moon.
+[19:41] Right now
+[19:43] this stock ranks middle of the road for
+[19:45] me. Technically it's stronger than its
+[19:47] fundamentals. Fundamentals are below
+[19:50] average. you know, we're talking
+[19:51] negative sales and earnings growth uh on
+[19:54] a one-year basis. Uh it eaked out slight
+[19:58] sales growth on one year. It's negative
+[20:00] earnings growth on a three-year basis.
+[20:02] It ees out a 2% profit margin and it's
+[20:06] carrying a 40% debt to equity ratio. So,
+[20:08] in the absence of everything else, and
+[20:10] let's set aside for a moment that sales
+[20:13] and earnings growth are estimated to be
+[20:15] negative. Um you know, I just can't get
+[20:18] excited about a stock like that. They
+[20:20] don't have tons of free cash flow. They
+[20:22] got lots of debt.
+[20:24] 3.2 billion dollars uh carrying debt.
+[20:27] So, if margins aren't expanding and
+[20:30] sales and earnings growth are slated to
+[20:32] be negative, you know, I'm not really
+[20:35] interested in the stock. There may be uh
+[20:37] technical reasons, if anything, to
+[20:40] revert. The stock's been up 46.5% year
+[20:43] to date. It's up 167% 5 years. So, it's
+[20:47] got a nice trend, but the fundamentals
+[20:50] really aren't there to justify it for
+[20:52] me. So, this feels like a momentum trade
+[20:54] that could cool off with any sort of
+[20:57] negativity in the earnings.
+[20:59] >> Well, the good thing is about my work
+[21:01] though is that I define the risk. So, I
+[21:03] can I have a level on my monthly chart
+[21:06] here where if we go through that level,
+[21:08] we will either retest the low from March
+[21:10] of 2020 or we will make a deeper
+[21:12] downside correction. That level was
+[21:14] $6.50.
+[21:16] The level that I have for you on the
+[21:17] monthly chart which is defined risk is
+[21:20] 21 to 22. On the daily I have a closer
+[21:24] level. That level is 33 to35.
+[21:30] Okay. So 33 to 35 if you need a closer
+[21:33] level. But if you can risk down to 21 to
+[21:35] 22 that is the monthly level. This thing
+[21:38] has a long way to run. I mean, I've got
+[21:42] um monthly targets at 205 and 260
+[21:46] and daily targets. If the low is in
+[21:49] place from the 17th of July, we could
+[21:51] get up to uh $39,40
+[21:54] uh before having a pullback.
+[21:55] >> Now, let's talk about one that I'm sure
+[21:57] a lot of people are watching. What do
+[21:58] you expect for Disney?
+[22:00] >> Disney
+[22:02] solid fundamentals. They've been
+[22:03] experiencing subscriber growth uh in
+[22:06] their Disney Plus. You know, we're
+[22:08] talking 112% one-year earnings growth,
+[22:11] 3% one-year sales growth. So, I'd like
+[22:14] to see more sales growth, but they're
+[22:16] three-year sales growth, 11% three-year
+[22:18] earnings growth, 48%, everything looks
+[22:21] great. Profit margins a little weak at
+[22:23] 5%. Um, but things have been kind of
+[22:27] going better for Disney. Uh, you
+[22:30] remember sort of a lot of um headline
+[22:35] uh volatility. I think they were in a in
+[22:37] a battle with Ronda Santis down here in
+[22:40] Florida. A lot of that stuff has died
+[22:41] down. The company's quietly doing uh
+[22:44] good things. It's got tons of free cash
+[22:46] flow. Not really a big debt holder. So,
+[22:49] it ranks really well in terms of
+[22:51] fundamentals. Technically, it's right
+[22:52] middle of the road. Uh it's only up 7%
+[22:56] uh in the past um year. Uh it's down 4%
+[23:02] in the last month. So if if this company
+[23:05] comes out surprises and shows real
+[23:07] strength of subscriber growth based on
+[23:10] new content, uh I think we can see some
+[23:13] upside for Disney.
+[23:15] Fundamentally, it's great. Technically,
+[23:17] it seems penalized for where its
+[23:19] fundamentals are. So I see upside
+[23:21] potential in the stock.
+[23:22] >> As far as my view on Disney,
+[23:26] I do have a defined zone of risk that
+[23:29] includes the uh 50 SMA. It looks like we
+[23:31] just popped below it to be honest with
+[23:33] you here on market open. But uh it is
+[23:36] 112 to7.
+[23:38] I'll be honest with you, Disney I just
+[23:40] feel like needs to get it together and
+[23:43] understand how some of the parents feel
+[23:45] out there about their children watching
+[23:47] their programming. That is one of the
+[23:49] reasons why I personally believe that
+[23:51] they have been struggling. I have two
+[23:53] young daughters that are five and 12 and
+[23:55] there are so many programs on Disney now
+[23:57] that they just can't even watch. Um, so
+[24:00] I don't subscribe to Disney as a parent
+[24:02] and I know that there's a lot of parents
+[24:04] that have dropped Disney. So I believe
+[24:08] in order for them to be able to be, you
+[24:10] know, where they were at one point, uh,
+[24:13] they need to realize how some of the
+[24:16] parents are feeling out there. Um, so
+[24:18] that's my uh, personal opinion, but um,
+[24:21] as far as the technicals, three of the
+[24:22] moving averages are on the side of the
+[24:23] bears now. So, and that 200 looks like
+[24:27] it's right down around 108 or so. So,
+[24:29] we'll have to see if it can hold this
+[24:31] Fibonacci zone, which is decreasing
+[24:34] quickly. It's now about 112 to 16. And
+[24:37] if you want to risk down to that 200
+[24:39] simple, I'd risk down to about 105 if
+[24:41] you're get interested in getting bullish
+[24:43] on Disney.
+[24:44] >> Time for the grand finale. Eli Lily.
+[24:47] This is one of my largest holdings.
+[24:49] Obviously, they have very strong sales
+[24:51] and earnings. vomiting weight loss drugs
+[24:54] that beat Nova Nordisk. They're
+[24:55] onshoring. Um, but what do you think?
+[24:58] Uh, because you know, President Trump's
+[25:00] still got downward pressure on drug
+[25:01] prices now.
+[25:03] >> Lily is a fundamentally superior stock
+[25:05] and it doesn't surprise me it's one of
+[25:07] your biggest holdings. Uh, phenomenal
+[25:09] sales and earnings growth, double digit
+[25:11] for one and three years. Actually,
+[25:13] earnings growth was up 102% last year. A
+[25:17] 24% profit margin. Um, and they're
+[25:20] slated to grow earnings 37% next year
+[25:24] and sales 20% next year. It's got plenty
+[25:28] of free cash flow. Does carry a lot of
+[25:30] debt, which is not uncommon for a large
+[25:32] pharmaceutical manufacturer.
+[25:35] Uh, price change, it's down 5% last
+[25:38] month um, and down 4% year-to date, but
+[25:41] the stock is up 400% in 5 years. So it
+[25:45] there is a real engine of growth
+[25:48] justified by the fundamentals and dips
+[25:50] right now should be looked at places to
+[25:53] buy. And with Novo Nordisk's recent news
+[25:57] of a new CEO, poor guidance, missed
+[26:00] earnings, you know, people are looking
+[26:02] for an alternative on the GLP1 trade. So
+[26:06] they might be attracting more capital
+[26:08] here with Lily. So, if we see any
+[26:10] positive indications, I think you're
+[26:13] going to see the jump ship effect plus
+[26:15] taking advantage of a little dip in the
+[26:17] stock uh to power these um prices higher
+[26:21] to catch up with the superior
+[26:23] fundamentals. So, that's my view on
+[26:24] Lily.
+[26:26] >> Um to me on Lily on the daily it it does
+[26:30] not look good. We have all the moving
+[26:31] averages on the side of the bears. The
+[26:33] good news is I do have defined risk.
+[26:36] If we can hold the 733 area, I do
+[26:39] believe we will continue this move up.
+[26:41] If we take 733 out though, we will
+[26:44] either retest the low from May of 709 or
+[26:48] make a deeper downside correction.
+[26:51] As far as the monthly chart goes, we are
+[26:53] looking good. We're not extended. We
+[26:55] have a huge um area that we could run up
+[26:58] to. The targets on the monthly are 152
+[27:02] and 1,155.
+[27:04] Uh so and on the monthly I am looking at
+[27:07] a zone of risk 650 to 674. So it is
+[27:10] quite a bit lower than the risk that I
+[27:14] have on the daily and that there again
+[27:15] that risk on the daily is 733. If we
+[27:18] can't hold it we could take out uh 709
+[27:21] which was the low from May.
+[27:22] >> Well that was quite a packed earnings
+[27:24] lineup. Thank you so much Jason and
+[27:26] Tammy for breaking it all down.
+[27:28] >> Pleasure.
+[27:29] >> Thank you for having me. This market may
+[27:31] be overheated, but with the right tools
+[27:33] and a steady game plan, there's still
+[27:34] opportunity out there even in August.
+[27:37] Thank you so much for watching. Be sure
+[27:39] to like, subscribe, and drop your
+[27:41] thoughts in the comments. We will see
+[27:42] you next Sunday for a new video. Thanks
+[27:45] so much, everyone.
+[27:46] [Applause]
+[27:47] [Music]

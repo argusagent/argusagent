@@ -7,9 +7,1070 @@ Type: video
 Duration: 42:23 (2543s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 1062
+Transcript characters: 38643
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:00] [Music]
+[00:00] [Applause]
+[00:00] [Music]
+[00:13] Hello everyone. Welcome back to Navier
+[00:15] Market Buzz episode 42. I'm Crystal
+[00:17] Navalier and I'm joined again this week
+[00:19] with my father Louis Navalier and we
+[00:21] have a very special guest Serge Burker
+[00:23] who is the mind behind the study trader.
+[00:25] He runs both a successful podcast and a
+[00:27] newsletter. Thank you so much, Serge,
+[00:29] for being here. Thanks for having me,
+[00:31] guys. I much appreciate it. Well, I was
+[00:33] honored to be on uh Serge's uh Steady
+[00:35] Trader podcast recently, and Serge is a
+[00:39] real interesting fellow. He um at this
+[00:41] moment, he's in Florida, but he uh
+[00:44] really lives in Zurich, Switzerland. So,
+[00:47] uh we uh before the podcast started, we
+[00:49] were talking about how expensive it was
+[00:51] in Zurich, and Serge had an interesting
+[00:53] response. So Serge, uh why don't you
+[00:56] compare uh Zurich to living in America?
+[01:00] Yeah. So I mean I live in both places
+[01:01] and um you know the US has gotten very
+[01:04] very expensive. Um you know obviously
+[01:07] the house price is one thing but it's
+[01:09] really just everyday purchases. Uh so
+[01:11] Switzerland has almost no inflation. Um
+[01:14] and their interest interest rates are
+[01:17] they might go to negative rates. Again
+[01:19] we can debate that one but at least very
+[01:21] low rates. So if you think about the
+[01:22] average mortgage price in Switzerland,
+[01:25] you know, sort of your fiveyear mortgage
+[01:27] that usually do kind of that sort of
+[01:28] time frame, it's like, you know,
+[01:30] probably 100 basis points and and go and
+[01:32] declining. Um, and then you've had in
+[01:35] Switzerland, you get a very strong
+[01:37] currency. So that's that's part of the
+[01:40] uh part of the equation there. But what
+[01:43] you've had in Switzerland historically
+[01:44] is very expensive grocery prices.
+[01:47] Restaurant prices are still expensive.
+[01:49] We talked about it how it compares to
+[01:50] New York. forever. So, it's probably on
+[01:52] par with that. But grocery prices,
+[01:54] everyday prices uh are have actually
+[01:58] gotten cheaper. Uh meat has historically
+[02:00] been very expensive, but that literally
+[02:02] just dropped by 30%. And you've had this
+[02:05] influx of the German uh um supermarkets
+[02:09] like Aldi, which are prevalent here in
+[02:12] the US as well, and they have probably
+[02:14] brought the average grocery basket down
+[02:16] by I'm going to say between 30 and 40%.
+[02:19] Um so um and on top of that you've got a
+[02:22] pretty ste you know pretty steady a very
+[02:24] steady middle class uh and insurance
+[02:27] costs have gone up but not skyrocketed.
+[02:30] So it's Switzerland is actually at the
+[02:33] net margin if you were to exclude let's
+[02:35] say living in like a major city like
+[02:37] Zurich where you've had a lot of you
+[02:39] know influx of of expats and a growing
+[02:41] comm of international community it's
+[02:43] probably gotten cheaper certainly
+[02:44] relative to the US over the past 10
+[02:46] years. Wow, that's that's fascinating
+[02:48] news. Um, you know, uh, President Trump
+[02:52] um, uh, did that trade deal with Britain
+[02:55] where they have no reciprocal tariffs.
+[02:57] Of course, we have a a surplus with
+[02:59] Britain. So, there's 10% baseline, but
+[03:01] no reciprocal. And apparently, he's
+[03:04] trying to get Switzerland to do the same
+[03:05] thing, but he wants Switzerland to open
+[03:08] up their agricultural markets a bit. and
+[03:11] uh uh and and if he can do that, then he
+[03:14] can do a pinser move on on the EU
+[03:16] because the EU has all kinds of
+[03:18] protection for 27 nations. So, do you
+[03:20] think he'll have any success uh getting
+[03:23] um you know, uh Switzerland to open up
+[03:26] their markets to US goods? I mean, I
+[03:28] will tell you, I think it's pretty darn
+[03:29] open. You know, I walk around
+[03:30] everything's US goods. So, I'm not quite
+[03:33] sure, you know, where where sort of the
+[03:35] margin is and there's obviously
+[03:36] something otherwise they wouldn't be
+[03:38] working on that. Um I think you know
+[03:40] Switzerland is probably is an extremely
+[03:42] close mindset to the US. It's very it's
+[03:46] a small country got about 9 million you
+[03:49] know people living there now uh about a
+[03:52] million or so plus expats. Um but it's
+[03:56] very small it's very rich but it's one
+[03:59] country. So from from a negotiation
+[04:01] perspective it makes sense to me why you
+[04:03] want to try that one first because
+[04:04] Europe is a con it's a union right? as a
+[04:07] concoction of different countries. Um,
+[04:10] so like I think I think the Swiss are
+[04:12] open to negotiate. I mean I don't think
+[04:14] that's out of the question. I don't
+[04:16] know, you know, the agriculture. Again,
+[04:18] it's a really small country. So, I'm not
+[04:21] quite sure. I don't know the intricacies
+[04:23] there enough to be honest with you to
+[04:24] answer that question. But, you know,
+[04:26] Switzerland's major exports, you know,
+[04:28] are among other things are are between
+[04:31] finance and then you've got obviously
+[04:32] the the drugs to drug companies and
+[04:35] things like that and a lot of services.
+[04:37] So, I would imagine they're open to it.
+[04:39] That would be my guess. Serge um because
+[04:42] Israel is now um striking Iran and it's
+[04:45] supposed to last for up to two weeks. I
+[04:48] I assume Switzerland's going to be an
+[04:51] oasis and um for a lot of international
+[04:54] capital and all, but uh how do you see
+[04:58] you know the surge in oil prices and the
+[05:00] surge in gold prices? Uh do you see this
+[05:02] lasting? I think they're two separate
+[05:04] things. I I have a very bullish thesis
+[05:06] on on basically anything but you know US
+[05:10] equities from an outperformance
+[05:11] perspective. I think the gold price has
+[05:14] has different there's a marginal
+[05:16] ddollarization happening globally as you
+[05:19] obviously know and so we're starting to
+[05:21] see that spillover effect heading into
+[05:23] other materials for some partially other
+[05:25] reasons. So I think gold has a bit of a
+[05:27] different driver. the oil move in my
+[05:31] view I mean we saw the bid in in oil
+[05:33] come in few weeks ago and of course it
+[05:36] popped on the news that you describe um
+[05:40] I'm not sure there is like a sort of you
+[05:43] know absolute liftoff in the price of
+[05:45] oil I would imagine be capped somewhere
+[05:47] maybe around 80 bucks but I think it
+[05:50] could squeeze because I know a lot of
+[05:51] people didn't want to believe in the oil
+[05:54] trade and and I think oil's hard to
+[05:56] trade personally uh I don't know about
+[05:58] you, but but I would imagine it's
+[06:00] probably limited in terms of upside, but
+[06:03] could have more upside from here. Let's
+[06:04] put it that way. I don't think like a
+[06:05] 100 bucks is anywhere near the future,
+[06:07] unless of course something really
+[06:09] escalates. We do. Yeah. You know, the
+[06:12] the history of all this as long as the
+[06:15] conflict doesn't expand to US military
+[06:18] bases or the straight of horm
+[06:21] uh you I think we rebound. I'm get
+[06:23] already getting texts uh from my clients
+[06:26] like why isn't my portfolio down because
+[06:28] I guess I had I have some gold stocks
+[06:31] and I have defense stocks and um so it
+[06:36] looks like there is a silver lining
+[06:37] oasis out there uh and then we just hope
+[06:40] this is over sooner than later because
+[06:42] it's obviously a major distraction. Um
+[06:46] so that's that. Let's uh shift to what's
+[06:49] going on in America though. Um
+[06:52] uh Serge when you go into any uh
+[06:54] brokerage office um you know Maril Lynch
+[06:57] Morgan Stanley UBS
+[07:00] uh they are offering 11% yields to
+[07:03] clients now via private credit. This is
+[07:06] a uh $2 trillion a year industry
+[07:09] and um uh it's apparently going to be
+[07:12] three plus trillion soon and they're
+[07:14] getting those 11% yields by leveraging
+[07:17] debt. So, do you see any issues with
+[07:22] this or is this going to be a black swan
+[07:25] or uh I don't know how long this going
+[07:28] to last? Just for perspective, I traded
+[07:32] at JP Morgan through the um GFC, the
+[07:36] great financial crisis 0809. So, I'm
+[07:39] scarred from that.
+[07:42] So, my view is going going is going to
+[07:44] have to be taken with that in mind. I
+[07:46] think this is a ticking time bomb. Now,
+[07:48] does it have to blow up the world?
+[07:50] Probably not. Can it cause serious
+[07:52] ripple effects? You know, I think I
+[07:54] think private equity is at some point
+[07:57] going to be bubbly. Maybe it is already.
+[07:59] I I just think, you know, when you when
+[08:01] you give so to take a step back so
+[08:04] people know, private private credit,
+[08:06] which has now become a household name,
+[08:07] that's one problem. I see you right
+[08:09] there with everyone's talking about
+[08:10] private credit. Um I think the issue is
+[08:14] that when you take something that is
+[08:16] typically done with highly regulated
+[08:17] institutions and you put it in the hands
+[08:20] of way less regulated institutions. So
+[08:23] you know hedge funds and others are now
+[08:25] basically giving out credit to companies
+[08:27] other companies that buy out other M&A
+[08:29] deals and so on so forth. you are
+[08:32] probably setting this up to be a bit too
+[08:34] frivolous, you know, and it's going to
+[08:36] probably be 12:00 at the fraternity
+[08:39] party at some point. And I just again
+[08:43] having lived through this, you know,
+[08:45] step by step at JP Morgan at the G in
+[08:48] the GFC,
+[08:50] I think animal spirits take over. So to
+[08:53] me, it's more it's more of a a question
+[08:55] of time. time. I was just at an
+[08:56] institutional investor conference two
+[08:58] days ago and when I see people that
+[09:02] barely know the difference between stock
+[09:03] and livestock talk about private credit,
+[09:06] I get nervous. And I don't mean this in
+[09:08] a derogatory way. It's just, you know,
+[09:09] there's a different mindset there. What
+[09:11] What's your take on Oh, I'm horrified.
+[09:14] I'm an ex-banking regulator and um
+[09:17] DoddFrank actually created some of this
+[09:20] because they'll give you a loan if you
+[09:22] have a bank will give you a loan if you
+[09:24] have perfect credit. But if you're less
+[09:27] than perfect, like your credit score is
+[09:29] 780, okay, instead of 850, you know, uh
+[09:33] they're going to throw you out to to
+[09:35] some uh third party that will mark up
+[09:39] the rates and start charging higher
+[09:41] higher higher cost. And you know, um,
+[09:44] half of America has severe debt
+[09:46] problems. So, uh, all I know is the
+[09:49] leverage loan market right now has a
+[09:51] 7.2% default rate. And, uh, it's it's
+[09:55] scary. Um, it's interesting. I mean, um
+[09:57] I know you're in the Palm Beaches uh
+[09:59] some sometimes, but and I'm of course
+[10:02] there most of the time, but what I
+[10:04] remember from 2008
+[10:06] is people bragging to me that uh they
+[10:09] were earning 13 to 16% a year tax-free
+[10:13] in um municipal bond products. And uh
+[10:16] Wall Street had uh figured out a way to
+[10:18] leverage munis. uh it was legally a
+[10:21] hedge fund, a regggd partnership, but
+[10:23] they were using the AIG um credit
+[10:26] default swaps to to leverage these
+[10:27] munis. And uh I got so curious about it,
+[10:31] I went to one of the presentations
+[10:34] and uh sure enough, yeah, they're just
+[10:37] buying A-rated Munis 6 to one and uh
+[10:41] everybody thinks they're a genius.
+[10:42] Anyway, uh the guy that did the
+[10:44] presentation was a guy named Jack Lou
+[10:47] and um when AIG failed, uh they had to
+[10:51] sell the munis all at once. And um
+[10:54] so um uh they lost 97% of their money
+[10:58] and Jack lost uh uh 21.1 billion for
+[11:02] City Bank and he lost his job and and uh
+[11:05] then of course he becomes our treasury
+[11:06] secretary shortly thereafter. So I'm
+[11:09] very skeptical of this. You know, Wall
+[11:11] Street loves to create things that have
+[11:12] spreads and um you know, we have family
+[11:16] members in the securities business and
+[11:19] uh they're really forced to sell this at
+[11:21] their firms, right? Because that's what
+[11:23] makes them the money, you know, and
+[11:25] that's also what people want. So, I
+[11:27] think it's getting uh very scary and
+[11:30] that will be our next black swan, but
+[11:32] will also cause the Fed to slash rates.
+[11:34] So maybe the Fed can get ahead of it,
+[11:36] but you know, our Fed is so seems so far
+[11:39] behind everything, you know, as um so I
+[11:43] think we shall see. Couple if if you
+[11:45] don't mind me just chiming in on this,
+[11:47] there's a couple other points to this
+[11:49] that I that that might be interesting
+[11:51] for the listeners. So when I walk around
+[11:54] the halls of these conferences like the
+[11:56] one I went to the other day, I will tell
+[11:58] you that I for the first time since 2008
+[12:01] or 2007 have the same exact feeling that
+[12:04] I got the at the time back then where
+[12:07] everyone was pitching the CDO squared.
+[12:09] It's collateralized delegations. I'd own
+[12:11] other CDOS's
+[12:13] fun experience like that experience like
+[12:16] like that usually don't end. Um,
+[12:18] however, you know, I'm starting to see
+[12:20] these guys basically be forced to sell.
+[12:23] So, when I was at JP Morgan, we were
+[12:25] forced to sell all the stuff off our
+[12:28] books and we were fortunate enough to
+[12:29] find a whole bunch of clueless Europeans
+[12:31] at the time that were still buying it.
+[12:33] Um, the funny enough, the same banks
+[12:36] that were selling it were buying it.
+[12:37] It's it was wild and it's very similar
+[12:40] now in terms of the narrative. what I
+[12:42] think might be somewhat worse now in a
+[12:45] different way. I don't think it I don't
+[12:47] it's we don't have a bank regulatory
+[12:49] problem. I think that's better at le and
+[12:51] you're the expert here. That's my hunch.
+[12:54] But I think what's worse is the um
+[13:00] really really scary FOMO
+[13:03] and gambling bubble that we live in from
+[13:06] the retail investor. largely a good part
+[13:09] of that uh is is is with the baby boomer
+[13:12] generation and they are doing one of two
+[13:17] things. They're either looking for these
+[13:18] crazy big yields which to your point
+[13:21] they're bragging about. The problem is
+[13:24] even those yields for them are not
+[13:26] enough. They've gotten used to 15 years
+[13:30] of S&P centric nov returns for so 15%
+[13:36] for 15 years and that's their benchmark.
+[13:40] Being in the newsletter business um we
+[13:43] have very close touch with a lot of
+[13:44] these people and I can tell you they've
+[13:45] now adapted their lifestyles to that.
+[13:48] When you have an equity market that's in
+[13:50] my view going to return closer to 5% for
+[13:53] a number of years, they are not going to
+[13:55] know what to do with themselves anymore.
+[13:56] So they're chasing these yields, but
+[13:58] even those big yields are not juicy
+[14:00] enough. So that gets the street to have
+[14:02] to be even more aggressive and maybe
+[14:03] lever up more and it's just one big
+[14:06] disaster waiting to happen. What do you
+[14:09] have any thoughts on that? No, I mean
+[14:11] that's why everybody's excited about
+[14:13] quantum computing stocks which we've
+[14:15] done a lot of reports on. I mean the uh
+[14:19] I mean the worst one's up a,000%. you
+[14:22] know, it's uh there's definitely some
+[14:25] bubbles forming and I'm not anti-quantum
+[14:27] computing, but uh you know, it's still a
+[14:31] very narrow market. You know, we uh we
+[14:34] updated our models, the market brought
+[14:35] out a bit, but it's still shockingly
+[14:37] narrow. Um, but we should add that
+[14:39] Crystal's putting a link um down below
+[14:42] of a a white paper I wrote about the um
+[14:46] the 2008 crisis and uh and uh the the
+[14:50] bubble bursting with the whole AIG fiat
+[14:53] fiasco and uh I essentially blame the
+[14:55] government for everything. But we talk
+[14:57] about Jack Lou and the disaster and and
+[15:00] in in Jack's defense, I mean other firms
+[15:02] were doing what he was doing, so he
+[15:04] wasn't the only one. And uh sometimes
+[15:07] you can get too smart and get ahead of
+[15:09] your skis for lack of a better. You you
+[15:11] have the sort of the clustering effect
+[15:13] or the the you know the it it feels
+[15:15] comfortable to do the same thing when
+[15:17] everyone else is doing the same thing on
+[15:18] on the street and that's that's probably
+[15:21] the problem. Yep. Yep. Serge if someone
+[15:23] wants to achieve steady returns is cover
+[15:26] call option writing a good income
+[15:28] strategy? So cover calls are a bull
+[15:31] market strategy. If you look at the
+[15:35] payoff diagram of a covered call, it's
+[15:38] the same as a short put. Now, for the
+[15:40] viewers, that may not that may be a
+[15:42] foreign language. It basically means you
+[15:44] have a lot more downside than what you
+[15:46] have on the upside in terms of what
+[15:47] you're protected for. So, you know, I
+[15:50] see a lot of newsletters and and we do
+[15:52] cover calls as well. However, you know,
+[15:54] I think there's a time and a place for
+[15:56] them. So when you have linear bull
+[15:57] markets for 15 years, like we alluded to
+[16:00] before, the covered call becomes an
+[16:02] attractive strategy,
+[16:04] you know, outside of the people that
+[16:05] like to buy the out- of- money call for,
+[16:08] you know, the the yolo leap. Look, I
+[16:11] think covered calls work. I don't think
+[16:12] it's a bad strategy, particularly if one
+[16:14] has a portfolio that with stocks that
+[16:17] they want to keep. I'm sure, you know,
+[16:20] that's a probably pretty standard sort
+[16:22] of answer. Um, I just think what people
+[16:25] sometimes fall into the trap of is
+[16:28] believing that the cover call is some
+[16:29] sort of a a pro a sort of protective put
+[16:32] strategy to the portfolio and it's
+[16:34] really not. All it is is, you know, kind
+[16:36] of generating additional income from
+[16:38] some stock that you own. Yeah, good
+[16:41] point. And of course, when you write a
+[16:42] call, you you set a ceiling on your
+[16:44] stock's appreciation that can get called
+[16:46] away. Do you have any idea of what the
+[16:51] optimal time frame is when you write
+[16:53] cover calls? Because you know 42% of
+[16:55] options now are daily. Yeah. So it's
+[16:58] like did you write them out three
+[16:59] months, one month? I mean do you have
+[17:01] any idea what folks should do? Yeah. I
+[17:04] mean that statistic you said before
+[17:05] that's in fact it was the other day was
+[17:07] something like 70 or 80% on the S&P I
+[17:10] think were were DT zero DT options which
+[17:12] is a whole another insanity. Um, but
+[17:16] look, I think it depends a little bit
+[17:17] what the strategy is. At the end of the
+[17:19] day, for a covered call, you probably
+[17:21] want Theta to work. So, I think going
+[17:23] much beyond the the the two three-w week
+[17:25] mark doesn't make that much sense to me.
+[17:28] Um, but I I know some people like to go
+[17:31] out further, right? So, some people will
+[17:33] say, you know, um, I have Exon Mobile,
+[17:36] which pays a dividend, right? It's not
+[17:38] that volatile in general compared to
+[17:41] other stocks at least. and I just want
+[17:43] to set it and forget it and put on put
+[17:45] on you know a 60 70 day expiration or 80
+[17:48] day. So it depends a little bit what
+[17:50] your time frames and I think it depends
+[17:51] on the underlying stock right that might
+[17:53] be the other thing. Cover calls right
+[17:55] now
+[17:57] are also being pitched as as a way to
+[18:00] generate income. So there's a lot of
+[18:01] companies usually really bad companies
+[18:03] that pay huge dividends.
+[18:06] So, I see newsletters out there pitching
+[18:09] these strategies where they're going
+[18:11] after some company paying like a 10%
+[18:13] dividend and then what they do is they
+[18:14] do a covered call on that stock. It's
+[18:18] not always possible because a lot of
+[18:19] stocks that pay such a high dividend are
+[18:20] about to go out of business and have no
+[18:22] options to trade with anyway, but some
+[18:24] people do that. So, you can turn this
+[18:25] into a looney strategy as opposed to
+[18:27] something that really its original
+[18:29] intent I would believe at least was
+[18:31] quite conservative. Great point.
+[18:34] So, what are some of the hottest stock
+[18:37] themes right now? Would it be small
+[18:39] modular reactors or quantum computing
+[18:41] stocks? You know, I I from a thematic
+[18:44] perspective within the United States uh
+[18:47] and and quite frankly, actually more
+[18:49] global, I really believe in the the
+[18:52] materials uh um trade, which is really
+[18:56] an extension of the energy trade. If I
+[18:58] think about, you know, there's two
+[19:00] aspects to it. What is needed in the
+[19:03] world more than anything for the most
+[19:04] part probably is more energy. AI is just
+[19:08] the cherry on top in our research.
+[19:10] That's of course what gets all the
+[19:12] attention. But I think in order for AI
+[19:14] and you know you can we can quote the
+[19:16] Jensen Hangs of the world to be able to
+[19:18] fulfill even a fraction of what it might
+[19:20] in the future which no one really knows
+[19:22] we need more energy. Um so that would go
+[19:24] into the point of what you mentioned.
+[19:26] Now, I would prefer to play this
+[19:28] thematically as opposed to single name
+[19:30] stocks because there will be a lot of
+[19:32] companies that are going to go out of
+[19:33] business unless they're major
+[19:34] established company of course that's a
+[19:36] different story. Um, but there's also so
+[19:38] that's sort of the the the more sort of
+[19:40] idiosyncratic tailwind behind that. Um,
+[19:43] but globally we need more energy like
+[19:46] I'm very bullish on India as an emerging
+[19:48] market country. Uh, a large part of
+[19:51] India has no air conditioning. It's a
+[19:54] you know 24 25 degrees Celsius there
+[19:56] which is what like mid 80s kind of
+[19:59] Fahrenheit uh with decent humidity all
+[20:01] year round they have no AC so as that
+[20:03] country comes you know into more middle
+[20:05] class you have an insatiable demand for
+[20:07] more energy just from an AC perspective
+[20:10] air conditioning units have copper in
+[20:11] them um and the world needs more energy
+[20:13] so it all kind of melts together but
+[20:16] that's number one that's the idiocratic
+[20:17] tailwind story but then you have the
+[20:19] sort of the global um um funds reality
+[20:22] allocation. Sovereigns m you know some
+[20:25] of the largest asset allocators are not
+[20:26] in the US. You think of the Saudis, you
+[20:29] think of the Norwegian pension fund or
+[20:31] the Norwegian uh sovereign fund, you
+[20:33] look at Japanese or European uh
+[20:35] insurance companies or massive pools of
+[20:37] money. Um they are at the margin
+[20:40] rebalancing their dramatic
+[20:42] overallocation to US stocks and they're
+[20:44] looking for pretty much almost anything
+[20:46] else to allocate to reasonably. So
+[20:48] that's just my view, but I'm sure Louis
+[20:50] got some good ideas, too.
+[20:52] Well, yeah. It's uh uh it's an
+[20:54] interesting time we're in because
+[20:58] uh yeah, I I don't know if you know,
+[20:59] Nivity is up to 20% of my portfolios and
+[21:02] uh we're not selling it. And um I I I
+[21:06] like Monopoly, so that's probably why
+[21:08] it's such a big weight, but we're also
+[21:10] too cheap to pay the taxes. But I I I I
+[21:13] really like Jensen. I'm amazed by what
+[21:15] he's done. um you know he's even good
+[21:19] talk getting Trump to talk to China and
+[21:23] everything. He's he really is a a good
+[21:25] diplomat as well. But um do you think uh
+[21:30] the AI craze could be derailed by
+[21:32] another deepseek incident? I don't know.
+[21:35] You know, I think about it all the time.
+[21:37] Um
+[21:39] I I just I just don't know. I'm not sure
+[21:41] anyone knows. Like speaking of Jensen,
+[21:43] you said the other day that that in case
+[21:45] I think it was something to the extent
+[21:46] of like in case uh Nvidia couldn't sell
+[21:49] to China anymore, how Huawei got it
+[21:51] covered, which which which kind of goes
+[21:54] in that direction, you know? I maybe
+[21:57] we're underestimating
+[21:59] what China's capable of in terms of the
+[22:02] really advanced chip stuff.
+[22:05] I I'm always concerned about it. I'm not
+[22:08] selling, you know, I'm not shorting
+[22:10] anything because of it, but I don't
+[22:13] know. Do you have any any deeper insight
+[22:15] on that? Well, you know, China's they
+[22:18] got great engineers there, too. Um,
+[22:21] obviously, um, one of the contentious
+[22:24] issues between us and China because
+[22:26] China apparently doesn't like Trump
+[22:28] deporting all the international
+[22:29] students. Apparently, he wants them to
+[22:32] go to school in the US and whether
+[22:34] they're spies or not is another matter.
+[22:36] But um you know there's a article out
+[22:40] today about Volkswagen buying chips from
+[22:43] China for self-driving and uh you know
+[22:46] we we have recommend one Chinese stock
+[22:48] uh HSAI
+[22:50] which dominates the market for LAR
+[22:52] systems you know that you need for
+[22:53] self-drive well most self-driving Tesla
+[22:56] doesn't use LAR but everybody else does.
+[22:59] So yeah, I would never discount China
+[23:02] and Nvidia obviously is building a place
+[23:05] in Shanghai and Nvidia wants to be in
+[23:08] that market and uh they just have to
+[23:11] figure out what they're going to be
+[23:12] allowed to do because they just had to
+[23:14] take a $15 billion write off for the the
+[23:18] the chips that Biden approved but Trump
+[23:19] denied. So uh yeah, I uh I think China
+[23:23] is very formidable. You know, I I do
+[23:25] like the fact we're having economic wars
+[23:28] versus the other kind of war that's
+[23:30] going on, you know,
+[23:33] the military wars. So, uh it's u clearly
+[23:37] Trump wants to win and China wants to
+[23:39] win. So, it's going to be a good match.
+[23:42] Um but hopefully everybody wins in the
+[23:44] end. You know, that's it just appears to
+[23:46] me that we're kind of codependent, you
+[23:48] know, at least to some extent, you know,
+[23:50] and I think that's to me that gives me
+[23:53] hope. uh which is which is nice. Um but
+[23:56] it also kind of makes me cut out kind of
+[23:58] filter out the noise. Um you know
+[24:01] because you can it can get very jumpy
+[24:03] based on a tweet or a or whatever,
+[24:06] right? And so I just think we're quite
+[24:09] codependent or interdependent. No, we
+[24:12] definitely China removed their tariffs
+[24:14] on 34 US goods over a month ago because
+[24:17] they need them. And then obviously we
+[24:19] need the rare earth. Okay. which we just
+[24:21] had the negotiations in London over. Um
+[24:24] so yeah, we definitely need each other
+[24:26] and to grow and prosper together and um
+[24:30] uh you know, Trump doesn't try to um
+[24:34] tell you how to run your democracy or
+[24:36] your or your dictatorship. So, you know,
+[24:39] it's uh he's pretty pretty matterof
+[24:41] fact. So, I'm sure China appreciates
+[24:44] that. I think what how it got so
+[24:46] contentious is we had this $40 billion
+[24:49] trade deficit with um Mexico that's now
+[24:53] 178 billion and China was doing a lot of
+[24:56] sub assembly not only in Mexico but in
+[25:00] Vietnam to to circumvent some of the
+[25:02] tariffs and I think that's what ticked
+[25:04] every uh ticked some of the trade
+[25:07] experts off. So they they're trying to
+[25:10] address that issue. Uh, I'm sure Mexico
+[25:12] is going to go into recession because
+[25:14] uh, you know, GM just announced that uh,
+[25:18] $4 billion expansion to move production
+[25:20] out of Mexico back to Kansas, Michigan,
+[25:24] and Tennessee. So, uh, it's getting to
+[25:27] be very interesting what's happening. Um
+[25:30] but uh
+[25:32] uh you know you know I'm glad you also
+[25:36] mentioned India because what the US and
+[25:39] India has that the rest of the world
+[25:41] doesn't have is demographic growth. You
+[25:43] know we still create households. Uh plus
+[25:46] in America we do assimilate our
+[25:48] immigrants and uh so as long as we have
+[25:52] household formation
+[25:54] we we should be able to grow and prosper
+[25:56] and lead the world. Yeah. Yeah. That's a
+[25:58] very good point because that's in stark
+[26:00] contrast to Japan of course aging
+[26:03] population, Italy, the disaster in terms
+[26:06] of that. So yeah, Serge, my dad talks
+[26:09] about seasonality a lot and honestly
+[26:11] hates August. Do you have a seasonal
+[26:13] bias? Um, so again, this kind of gets me
+[26:16] back to I think where we're at in this
+[26:18] gam in the gambling bubble is that's not
+[26:20] a valuation bubble. We've got high
+[26:22] moldables, but we could all agree or
+[26:25] disagree on that a little bit.
+[26:27] Um, I see a lot of people pitching
+[26:29] season seasonality analysis right now
+[26:32] and they have been for years, but
+[26:35] their their track record of history goes
+[26:37] back exactly 15 years, which is when the
+[26:39] bull market started. In fact, I allude
+[26:41] to the the conferences before, you walk
+[26:43] around these conferences, you look at
+[26:44] brochures of funds or whatever, they all
+[26:47] go back exactly 15 years. So, a good
+[26:50] friend of mine, he says it's just long
+[26:52] enough to erase memory, which I thought
+[26:54] is brilliant. Um, I think seasonality is
+[26:57] to a good extent a bull market
+[27:00] phenomena, particularly linear bull
+[27:02] market. However, there is certainly, you
+[27:04] know, I and I'm with Louie on the on the
+[27:06] August. It's a crap month. It's it's
+[27:08] frustrating. Um, you could make an
+[27:10] argument for Christmas to New Year and
+[27:13] and quite frankly, a good part of
+[27:14] January being just noisy with money
+[27:16] slloshing around in no real direction.
+[27:19] Um, I think there there is seasonality.
+[27:22] My personal favorite seasonality pattern
+[27:24] is probably the we'll see some weakness
+[27:26] in September October. This is US US US
+[27:30] S&P analysis and then you typically get
+[27:32] some sort of a bid. But it's a little
+[27:34] bit like technical analysis. Does it
+[27:35] work because it works or does it work
+[27:37] because everyone's looking at the same
+[27:38] statistic, right? Um you know I will
+[27:42] tell you that that doesn't always work.
+[27:44] you can have horrible hiccups in that
+[27:46] trade and the longer it works the more
+[27:48] people get bullish on it working and
+[27:50] then you get the the clunk right but I I
+[27:53] I listen seasonality is something to it
+[27:55] for sure and I'm speaking here equity
+[27:57] you know the the traditional seasonality
+[27:59] analysis start with commodities
+[28:02] um but uh on the equity side I think
+[28:04] there's clearly something to it again I
+[28:06] would caution people that if we ever
+[28:07] have a real down year again like a real
+[28:09] cycle the seasonality is best to just go
+[28:12] flush down the toilet
+[28:14] at least to a degree.
+[28:16] So Serge, you talked about um a lot of
+[28:19] international investors in Europe are
+[28:21] trying to diversify away from the
+[28:23] dollar. So, these bond vigilantes that
+[28:25] seem to be in charge um and uh Scott
+[28:30] Bessett's trying to control them, our
+[28:31] Treasury Secretary,
+[28:34] do you think that Treasury bond yields
+[28:36] can fall um uh with a growing uh budget
+[28:41] deficit or just concerns about America
+[28:44] in general? Um I think we have to be
+[28:46] specific about where in the curve. So,
+[28:48] I'm more in the yield curve steepening
+[28:50] camp. Um, we own a bunch of sort of
+[28:53] allocations to that in various different
+[28:55] ways. Uh, uh, Nancy Davis runs a good
+[29:00] ETF on that eyeball. We're not pitching
+[29:02] it just saying like that's a product for
+[29:04] that. And, um, I would have to think
+[29:10] that the long bond, I think the Fed has
+[29:12] probably lost the long bond a long time
+[29:15] ago. Now they're never really in
+[29:17] control. They control the short end.
+[29:20] I you know I was listening to Paul
+[29:22] Tudtor Jones the other day and you know
+[29:25] I wouldn't want to bet against him. I
+[29:27] fact I didn't want to bet against
+[29:28] Bessant either but I would imagine that
+[29:30] the next uh treasury secret not treasury
+[29:35] secretary the next Fed chief after
+[29:37] Powell is going to be way more doubbish
+[29:40] than Powell. I think we could probably
+[29:42] agree to that. I'm not trying to put
+[29:43] words in anyone's mouth but that's you
+[29:45] know you hear Trump's comments. That's
+[29:46] kind of where I'm getting at. So, you
+[29:49] know, the and of course you have the
+[29:50] refinancing uh problem that we have
+[29:52] because right now we're paying more for
+[29:54] for debt than we do for the military.
+[29:56] You know, sort of famous statistic. I
+[29:58] would have to imagine that the short end
+[30:00] can drop, but I think it's limited. I
+[30:02] don't think we go to zero or anything
+[30:04] like that. I think that, you know, I was
+[30:05] listening to um the other famous
+[30:07] economist. I think Biano, Jim Biano was
+[30:09] talking about over 5,000 years of
+[30:11] interested history and apparently you
+[30:12] can go back that far.
+[30:14] But anyway, long time we've had that
+[30:16] once and it'll probably never happen
+[30:18] again and certainly not in our lifetime.
+[30:20] I I would imagine the short it'll be a
+[30:22] yield curve steepener story at some
+[30:24] point, you know, and and Louie, I would
+[30:26] love to hear your story on this, but
+[30:28] some of the biggest money in the hedge
+[30:30] fund world is typically being made being
+[30:31] either long or short to two-year buyer
+[30:33] futures. So when you come out of come
+[30:35] out of a recession or you're s close
+[30:38] enough to it, you basically go uh uh go
+[30:42] go go short the two year because yields
+[30:43] are go up and vice versa. You know, Den
+[30:45] Miller is famous for for doing that
+[30:47] trade. I would imagine at some point we
+[30:49] have that trade setting up again. It
+[30:50] might be too early, but I'm looking
+[30:52] forward to doing it again at some point.
+[30:54] Yeah, it's probably a little too early.
+[30:55] I I uh
+[30:58] I'm not an expert on on how the yield
+[31:00] curve manipulates. I just know Besset is
+[31:02] managing it better than Yellen did. At
+[31:05] least we have a normal yield curve now
+[31:06] that's got a slope to it. Yeah. Yellen
+[31:09] just didn't want to sell long-term debt,
+[31:12] so we were inverted for a long time.
+[31:14] Yeah. But uh it is amusing to watch the
+[31:18] whole
+[31:19] charade. What's going on? You know,
+[31:21] Trump uh called Powell a numskull this
+[31:24] week. So after the CPI and PPI report.
+[31:28] So, uh, I found that interesting. I
+[31:31] mean, what what do you think about
+[31:33] because there's really two there's two
+[31:35] stories. There's the the external
+[31:37] factor, which is what you alluded to
+[31:38] before, which is about basically global
+[31:41] investors, you know, at the margin
+[31:44] dallizing. And and I want to be clear
+[31:46] what I mean by that. They're not selling
+[31:47] dollars and just, you know, going to
+[31:50] Monkeycoin or something. They're selling
+[31:53] dollars to rebalance their portfolios.
+[31:55] there. Everyone's been way overweight at
+[31:57] the US and for good reason by the way,
+[31:58] right? All they're doing is rebalancing.
+[32:01] But that is such a big trade, just a
+[32:03] rebalancing exercise that that can
+[32:05] certainly put upward pressure on yields,
+[32:08] downward pressure on the dollar, which
+[32:09] the dollar trades like with dog breath
+[32:11] right now.
+[32:13] But and then and then again, I think you
+[32:16] have S&P kind of somewhat limited on
+[32:18] what it can do in the upside from a from
+[32:21] a momentum perspective, right? Um, but
+[32:24] that's the external factor and the
+[32:25] internal factor is more, you know,
+[32:27] again, maybe getting a a Fed chief
+[32:29] that's a bit more dovish and then we'll
+[32:32] drop rates due to either political
+[32:34] reasons or just quite frankly because we
+[32:36] have to be able to pay for be able to
+[32:37] finance our own debt. Well, I'm just
+[32:39] amazed that the Fed's ignoring the the
+[32:42] economic data. You know, I thought they
+[32:44] used to follow that. And uh we just had
+[32:46] the fourth month in a row of the CPI
+[32:48] being
+[32:50] um below economist expectations and the
+[32:53] PPI was also below expectations and the
+[32:56] PPI is deflationary and we've got all
+[33:00] this um
+[33:02] um how do I say in a nice way? we've got
+[33:04] all this um noise out there and the Fed
+[33:08] just thinks there's this inflation
+[33:09] bogeyman that didn't materialize
+[33:12] and all I know is everybody's got an
+[33:14] inventory glut.
+[33:17] You know, it's going to be interesting
+[33:18] with a spike in oil because
+[33:21] uh in April our exports went up 3%. So,
+[33:24] a lot of that's energy related, but we
+[33:26] have low oil prices.
+[33:28] So, if we get um high oil prices
+[33:32] persisting for a while, our export
+[33:34] growth could be amazing. Of course,
+[33:35] Trump's always telling everybody to buy
+[33:38] US agricultural goods, US uh energy. Uh
+[33:42] so, he's pushing the exports pretty
+[33:44] hard. So, I don't know. I I think um
+[33:48] it's an interesting new world we're in
+[33:50] and uh uh but in the end it's us and
+[33:54] India are going to lead the world in
+[33:56] growth and uh and and a lot of that's
+[33:59] just demographics. They should have
+[34:00] Brazil still growing but they're they're
+[34:03] supposed to start shrinking households
+[34:05] sooner than later so they won't have our
+[34:08] organic growth. So the Wall Street
+[34:10] Journal recently implied that there's a
+[34:11] problem with the Labor Department
+[34:13] surveys. Do you have any idea what that
+[34:15] might be about? I read the article and
+[34:18] or at least I scanned it pretty
+[34:20] thoroughly. And I think it had to do
+[34:23] with them basically being lacking staff.
+[34:26] So I think it's just people are scared
+[34:29] of the accuracy of the data which I
+[34:30] guess is a reasonable fear. I don't have
+[34:33] any insight. I'm not on the Doge team. I
+[34:35] haven't gotten a call or didn't get a
+[34:36] call time from Elon. So I don't have any
+[34:38] insight. But, you know, any anytime you
+[34:40] get sort of, you know, mass firings, if
+[34:43] that's what happened there, you know,
+[34:45] again, I can only cite the article. Uh,
+[34:48] I I guess it's reasonable for some
+[34:50] people to be somewhat skeptical whether
+[34:52] the data, but I will tell you uh that a
+[34:54] lot of data gets revised every month.
+[34:56] So, you know, you look at, for example,
+[34:58] you know, payrolls numbers, which is a
+[35:01] we could argue whether that's that
+[35:02] important, but it constantly gets
+[35:03] revised like dramatically.
+[35:05] Um, so you know, maybe that's just a
+[35:08] hiccup. We'll see. So, Serge, do you
+[35:11] think the Fed's going to issue a doubish
+[35:12] FOMC statement next week? I if I look at
+[35:16] the data, I have a hard time imagining
+[35:18] that. I think when I talk to people and
+[35:22] I I talked to one of the actually the
+[35:24] world's largest asset manager the other
+[35:26] day and we were talking about this and I
+[35:28] think everyone's kind of confused
+[35:29] whether there's going to be a lag effect
+[35:31] from from the tariff April situation or
+[35:34] not. I think everyone's trying to
+[35:36] handicap that and I would imagine that's
+[35:38] where the Fed is at. I'm not inside the
+[35:41] mind of Powell, but I I would imagine
+[35:45] that's there's a good chance that that's
+[35:47] where we're at. So, I don't know if
+[35:48] they're going to cut rates or not, but
+[35:50] or be dovers. Sorry, excuse me. Um I
+[35:52] they may just need more data points.
+[35:54] What What are you thinking? I I want a
+[35:57] doub statement. I I I don't get what I
+[35:59] wish for.
+[36:02] I I think it might be slightly doubbish
+[36:04] only because the Beigebook survey said
+[36:06] there was an issue with nine of the 12
+[36:09] districts.
+[36:11] So maybe that we'll get something more
+[36:13] accommodating. Uh I I think Pal's goal
+[36:15] is to just stay out of the news, you
+[36:18] know, and serve out his term because
+[36:20] obviously he's going to go go into
+[36:22] retirement soon. What do you think about
+[36:24] retail sales next week? Uh do you do you
+[36:26] have any idea what what's going to
+[36:28] happen? when I walk around the country,
+[36:29] I just travel, you know, through a whole
+[36:31] bunch of states. I don't see people
+[36:34] folding, you know, folding their bags
+[36:36] too much, but I I am a little bit
+[36:39] concerned about, you know, ultimately
+[36:42] what what the unemployment picture looks
+[36:44] like. So, I would imagine that it's not
+[36:46] going to be a catastrophe. It might be
+[36:48] kind of par for the course. So, I I'm
+[36:50] not quite sure we're going to get
+[36:51] anything dramatically shocking. You have
+[36:54] any any views on that? I just look at
+[36:56] the category. So when uh 10 of the 13
+[37:00] categories are up, I'm happy. You know,
+[37:02] we still got fairly low gas prices. So
+[37:05] uh the surge in oil won't impact that uh
+[37:07] that uh for May. So um I just want to
+[37:11] count the categories, you know, and I
+[37:15] you know in April they were spending in
+[37:17] bars and restaurants were up one too. So
+[37:19] that's usually a good sign when people
+[37:21] are out and about drinking. That's a
+[37:22] good sign. But uh and they are. Yeah.
+[37:25] Hopefully everybody cheers up. You know,
+[37:27] um, as we're recording this, we had a
+[37:29] bad University of Michigan consumer
+[37:32] sentiment report, but uh, I ignore that
+[37:34] report, just so you know. I just I just
+[37:37] file the conference board. So, I guess
+[37:40] Michigan was anticipating all this
+[37:42] inflation may not materialize, but you
+[37:44] know, they're probably worried about the
+[37:46] inflation in the auto industry. So, so
+[37:48] we'll see. So, there's a few earning
+[37:50] announcements next week. Dad, what do
+[37:52] you expect for Kroger? Well, their sales
+[37:54] are only supposed to be up a tenth of a
+[37:55] percent. Uh, earnings are forecast to
+[37:57] rise 1.7. They have steady analyst
+[38:00] estimates, a good surprise history. Um,
+[38:02] so I have virtually no expectations for
+[38:05] Kroger. Uh, all I can say is at least
+[38:08] they brought Graater's ice cream to the
+[38:10] masses. Uh, that's a ice cream with
+[38:13] extra cream.
+[38:14] But Sergio pointed out that all these
+[38:16] very formidable uh, food retailers.
+[38:20] I suspect they might be feeling the
+[38:22] competition from Aldi and Sprouts
+[38:25] Farmers Markets. And what do you expect
+[38:26] for Darden restaurants?
+[38:29] Well, their sales are forecast to rise
+[38:30] 9.9%, earnings are forecast to rise uh
+[38:34] 10.9. Their steady estimates uh they
+[38:37] historically have pretty small earning
+[38:39] surprises. You know, Garden is pretty
+[38:41] simple. They serve a lot of carbs and
+[38:44] salt and then we have to drink a lot.
+[38:47] But uh if consumers are spending like
+[38:49] they were in April, hopefully it'll
+[38:50] help. I've noticed they've been taking
+[38:52] profits in some of the restaurant
+[38:53] stocks, Franker and Cabo, which I own.
+[38:56] And uh so uh I I'll be curious at
+[38:59] Darden's guidance as well. And finally,
+[39:02] what do you expect for CarMax? Sales are
+[39:04] forecasted to be up 6.3. Earnings are
+[39:06] forecasted to grow 236.
+[39:08] Uh they had some recent analyst trims.
+[39:10] uh they got an erratic surprise history,
+[39:12] but uh it was interesting that used car
+[39:15] prices did not go up in the most recent
+[39:18] CPI report, but car prices should be
+[39:21] very very firm because uh everybody's
+[39:24] expecting a price increase from the
+[39:26] tariffs. And you know, Ford uh increased
+[39:28] the price of the u the base Bronco, the
+[39:33] Mache,
+[39:35] but some of their higherend stuff like
+[39:37] the Bronco Raptor, they just slashed
+[39:40] Um, but the average cost of a vehicle
+[39:43] should be going up with a tariff. So,
+[39:45] let's wrap on monopoly stocks. There's a
+[39:48] lot of legal monopolies that dominate
+[39:50] their business such as Apple, such as
+[39:52] Amazon, Google, Microsoft,
+[39:58] Netflix, Nvidia, and there's even some
+[40:01] retailers that dominate like Costco and
+[40:04] Walmart. Now Serge, are these monopoly
+[40:07] stocks also a way to achieve steady
+[40:10] returns if people can handle the
+[40:13] girrations?
+[40:15] Well, I think that's kind of the thing,
+[40:16] right? So steady returns on girations is
+[40:19] maybe kind of polar opposites to some
+[40:21] extent. I think it's a time frame
+[40:22] question quite frankly. I would imagine
+[40:24] that these some of these monopolies
+[40:25] particularly the the ones on the um uh
+[40:28] you mentioned that on the tech side so
+[40:30] the Microsofts and those I would imagine
+[40:32] at some point they're turning more into
+[40:33] almost consumer staple stocks um in many
+[40:37] ways because it's you know they have so
+[40:39] much cash and so on so forth um but that
+[40:43] is not to say that they can't gerate you
+[40:45] know I think people have gotten used to
+[40:47] an extremely low volatility environment
+[40:50] a little bit here and there but we've
+[40:51] had all these V-shaped reversals I
+[40:53] people have forgotten what it means to
+[40:54] own a stock and and and for the long
+[40:56] term but have it not make money for a
+[40:58] while Nvidia which I like is the same
+[41:01] spot now as it was one year ago right so
+[41:03] I think people maybe starting to get a
+[41:05] little bit of a taste of that um in my
+[41:07] view you know I should add that
+[41:08] apploving and uh plantair technologies
+[41:12] seem to be the newest monopolies um
+[41:15] Serge do you think their dominance is
+[41:16] going to spread I I app loving I can't
+[41:19] comment on I just don't know enough
+[41:21] pound the seems to be in a pretty unique
+[41:23] position from from all the research that
+[41:25] we've done and it certainly has also
+[41:28] seemed to gotten the attention of the
+[41:29] zod players in the very short end but I
+[41:32] think from more fundamental and
+[41:33] structural perspective which is I'm sure
+[41:34] what you're alluding to it seems to me
+[41:37] they have a bit of a boat thank you
+[41:38] Serge um thank you so much Serge and
+[41:41] where can our viewers find you
+[41:44] um best place is just go to
+[41:46] thestudytrader.com so that's
+[41:48] www.thestudytrader.com the
+[41:49] studytrader.com. Just go to YouTube,
+[41:51] type in the study trader and you'll find
+[41:53] me. Perfect. Well, thank you so much for
+[41:56] joining us and thank you so much for
+[41:58] answering all of my questions. Thank you
+[42:00] to you all again for liking and
+[42:02] subscribing and supporting our channel.
+[42:04] We hope you guys enjoyed and we will see
+[42:06] you all next Sunday for a new video.
+[42:08] Thanks so much everyone.
+[42:10] [Music]

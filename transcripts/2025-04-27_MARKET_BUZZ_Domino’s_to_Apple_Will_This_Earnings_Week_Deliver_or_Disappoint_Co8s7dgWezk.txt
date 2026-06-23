@@ -7,9 +7,427 @@ Type: video
 Duration: 16:57 (1017s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 419
+Transcript characters: 14818
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:14] Hello everyone. Welcome back to Navalier
+[00:15] Market Buzz episode 35. I'm Crystal
+[00:18] Navalier and I'm joined again this week
+[00:19] with my father Louis Navalier. Deb,
+[00:21] before we dive into some of the earning
+[00:22] announcements this week, I would love to
+[00:24] know what you expect for the consumer
+[00:26] confidence on Tuesday. They've plunged
+[00:28] to their lowest levels in 12 years. Do
+[00:30] you think that this is going to be a
+[00:32] major recession signal? No. Consumer
+[00:35] confidence is going to pick up. We had
+[00:36] the uh very strong March retail sales.
+[00:38] We had just the best durable goods
+[00:41] report uh in some time. It's risen for
+[00:43] four consecutive months. Uh spring is
+[00:46] here. Everybody's getting out and about.
+[00:47] Everybody's going to cheer up. Gas
+[00:49] prices are are
+[00:50] low. We're in California. They're not
+[00:52] low here, but that's another matter. But
+[00:56] everywhere else they're low. So, um,
+[00:58] yeah, it's it's just time to be happy.
+[01:01] And hiring seems to be slowing down.
+[01:03] What do you expect for the ADP payroll
+[01:05] numbers on Wednesday? Well, that's the
+[01:07] private payroll report. And there's no
+[01:08] doubt that a lot of businesses um kind
+[01:11] of put their plans on hold because
+[01:13] they're waiting to adapt to all the
+[01:14] tariffs and all the news. And so, we're
+[01:17] going to have to watch that very
+[01:18] carefully. And um you know I was talking
+[01:21] to a Walmart executive u before we
+[01:24] started and you know the there's a
+[01:26] threat that the shelves are going to be
+[01:27] bare in a few weeks because you know
+[01:29] obviously a lot of the goods are from
+[01:30] China but um it's going to get very
+[01:33] interesting and uh so that um if it's a
+[01:36] weak ADP report it's going to cause the
+[01:39] Fed to cut rates. So while inflation
+[01:42] remains a key focus what's your take on
+[01:43] where the PCE index will land this
+[01:46] month? Oh, it should be excellent
+[01:48] because owner's equivalent rent's coming
+[01:49] down. It although it owner's equivalent
+[01:51] rent isn't as high in the PCE as in the
+[01:54] CPI, it's still been the driving force
+[01:57] of inflation. So,
+[02:00] uh it's just another um quiver that's
+[02:04] going to cause the Fed to to cut rates
+[02:06] in May. And so, I'm expecting a very
+[02:08] positive PCE report and uh hopefully
+[02:12] that will uh encourage the Fed to cut.
+[02:14] Manufacturing has been under pressure
+[02:16] lately. How do you think the tariffs are
+[02:18] weighing on the PMI?
+[02:20] Uh well, let's just take a step back. Um
+[02:24] manufacturing contracted for 25 of the
+[02:28] previous 26 months and then it popped
+[02:30] for two months in a row positive. Then
+[02:32] it went down last month negative. But we
+[02:35] just had incredible durable goods
+[02:37] orders. Uh it was skewed by um airline
+[02:41] orders being up 190%. But um and but
+[02:45] we've had a very strong automotive
+[02:47] sector. So uh I'm expecting ISM to
+[02:50] resume improving. Okay. Uh obviously
+[02:54] also President Trump's trying to onshore
+[02:56] a lot. It's probably too early for that
+[02:58] to show up. So um it's imperative though
+[03:01] that we get the manufacturing side of
+[03:03] our economy recovering because it's just
+[03:06] it's a one-two punch. We already have
+[03:07] strong consumers. And finally, what do
+[03:09] you expect for the April payroll report?
+[03:12] Well, the April pay report is going to
+[03:13] show the Doge cuts, okay? Because, um,
+[03:17] the Labor Department report shows
+[03:18] private and government. So, um,
+[03:22] ironically, the faster Elon Musk cuts,
+[03:25] okay, the faster the Fed should cut
+[03:28] interest rates. So, we're actually
+[03:30] hoping for a somewhat of a weak payroll
+[03:32] report. Uh, and, um, that would just
+[03:36] encourage the Fed to cut in May. Now,
+[03:38] let's switch over to some earning
+[03:40] forecasts. Domino's is a well-loved
+[03:42] company. Are they setting up for a
+[03:43] strong quarter? Well, their sales are
+[03:46] forecast to be up about
+[03:47] 3.7. Uh their earnings are supposed
+[03:50] though uh to go up 13.8. So they still
+[03:53] have margin expansion. So that's very
+[03:55] good. They have positive analyst
+[03:57] revisions. And so I expect Dominoes to
+[04:00] surprise. You know, it's um everybody
+[04:02] loves their pizza. And you know, with
+[04:04] Domino's, you get the I think the cheese
+[04:06] and the cruts. Yeah, there you go.
+[04:07] Stuffed crust. So now with AI demand
+[04:10] heating up, is AMD finally about to hit
+[04:12] its stride? That yeah, they their sales
+[04:15] are forecasted to rise 30%, earnings are
+[04:18] forecasted to surge
+[04:20] 51.8%. They've had steady ounce
+[04:22] revisions and um I do expect AMD to
+[04:26] finally surprise. Now after a rocky year
+[04:28] in autos, could GM deliver a surprise?
+[04:30] Yeah, you know, sales are forecasted to
+[04:32] only rise half a percent, but earnings
+[04:35] are forecasted to go up 1.7%. They do
+[04:38] have positive balance visions. So I do
+[04:40] expect GM to surprise. GM like Ford is
+[04:43] depend upon trucks but they make a lot
+[04:45] of high margin things. You know
+[04:47] Escalades, Denali, Suburbans. Uh they
+[04:50] are making a interesting transition to
+[04:52] electric vehicles. Uh you know the GM
+[04:55] electric vehicles weigh a lot because
+[04:57] they got a double battery pack but you
+[04:59] don't have range anxiety but you do have
+[05:01] a 9,000lb vehicle sometimes. Now luckily
+[05:04] co demand is fading. But can Fiser find
+[05:06] a new way to keep investors excited? Not
+[05:09] in my opinion. Their sales are
+[05:11] forecasted to decline 5.2%. Earnings are
+[05:14] forecasted decline
+[05:16] 16.8%. There's been recent analyst cuts.
+[05:19] But ironically, Fizer still has a good
+[05:21] earnings price history. But, you know,
+[05:24] precoid uh they had a lot of drugs uh
+[05:26] patents expiring. So, the generics come
+[05:28] in and compete. So, uh yeah, they're
+[05:32] they're uh shrinking. Shipping volumes
+[05:34] have been weak. Do you think UPS can
+[05:36] turn things around?
+[05:39] I'm not sure. You know, their sales are
+[05:41] forecast to decline uh 3.2%. The
+[05:43] earnings are forecast to decline 3.4. Uh
+[05:46] they've had some big analyst cuts, so
+[05:49] it's going to be hard for UPS to
+[05:50] surprise. Um they're very sensitive to
+[05:53] the economy. You know, they recently
+[05:55] disengaged from helping the the postal
+[05:57] service, and so that's one of the
+[05:59] reasons for the decline in sales. So, we
+[06:02] just need the economy to pick up and
+[06:04] then their business will pick up. Now,
+[06:06] with consumer spending cooling, how much
+[06:08] trouble is Starbucks in? It's in a bit
+[06:11] of trouble. Uh, their sales are supposed
+[06:13] to be up
+[06:14] 3.4%. But earnings are supposed to
+[06:16] decline
+[06:18] 28.5%. Obviously, um I know everybody
+[06:21] likes talking about egg inflation, but
+[06:23] there's been a lot of coffee inflation,
+[06:24] mostly due to the um the drought uh
+[06:27] around the equator. Um, but they had
+[06:31] recent analyst cuts, so I I don't expect
+[06:33] Starbucks's surprise. Infrastructure
+[06:35] spending seems to be improving. Could
+[06:37] that be enough to lift Caterpillar?
+[06:39] Unfortunately, not. Uh, their sales are
+[06:42] forecasted to decline
+[06:44] 7.7%. Earnings are forecasted to decline
+[06:48] 22.3%. There has been recent analyst
+[06:50] cuts. So, Caterpillar may not surprise.
+[06:53] This is a big big international company
+[06:56] and uh they do a lot of just heavy
+[06:59] equipment and um I think the weakness in
+[07:02] economies outside of America have been
+[07:05] impeding them. Now the dollar has gotten
+[07:07] weak this year. Last I saw was down
+[07:10] almost 9% for the year. Uh that might
+[07:13] help their exports eventually but um
+[07:16] once we figure out all the tariffs but
+[07:18] uh especially if they get some the
+[07:20] tariff barriers to fall that would be
+[07:21] very good. So, but not this quarter. Uh,
+[07:25] this is uh I don't expect them to
+[07:27] surprise at all. Now, after Google's
+[07:29] blowout last week, could Meta keep the
+[07:31] AI rally alive? Yes, they could. Uh,
+[07:34] sales are forecasted to rise
+[07:37] 13.4%. Earnings uh are only forecasted
+[07:40] increase 10 and a half%. But, and there
+[07:42] have been some
+[07:44] minor Allen cuts, but what happened with
+[07:46] Google is their advertising revenue was
+[07:49] much stronger than everybody
+[07:50] anticipated. and Meta is pretty good at
+[07:53] that too. So in the wake of what Google
+[07:57] did, I would be shocked if Meta doesn't
+[08:00] surprise. And um and we also want the AI
+[08:04] update from them, you know, because they
+[08:05] are investing a lot in AI and spending a
+[08:08] lot. So we need to get that update.
+[08:10] Well, while we're talking about AI, are
+[08:12] you expecting any surprises for
+[08:14] Microsoft?
+[08:16] Not really, but it looks okay. Their
+[08:18] sales are forecasted to rise 10.6%.
+[08:21] That's excellent. Earnings are
+[08:23] forecasted to improve
+[08:25] 9.6. Uh there are positive balance
+[08:27] revisions under Microsoft. So I am
+[08:30] expecting uh an earnings surprise and of
+[08:33] course an important update on open AI
+[08:35] which they invested in as well as their
+[08:38] sure uh cloud computing division. Uh
+[08:40] there's been rumblings that you know
+[08:42] they're not growing as fast as some of
+[08:44] the other cloud computing companies. So
+[08:46] I'd like a little clarification on that.
+[08:48] So, like most tech companies, you have
+[08:50] to pro provide positive guidance. While
+[08:52] we're still talking about tech stocks,
+[08:54] what do you expect for Qualcomm? Well,
+[08:56] their sales are forecasted to be up
+[08:58] 13.4. Earnings uh are supposed to
+[09:01] improve 15.1. They do have positive
+[09:03] balance revisions, so I do expect them
+[09:05] to surprise. You know, Qualcomm is very
+[09:08] dependent upon cell phones and 5G and
+[09:10] all that good stuff. So, um that that
+[09:14] business looks very solid right now.
+[09:16] Now, with all the weight loss drugs, is
+[09:18] the market underestimating Lily's
+[09:20] momentum?
+[09:22] Uh, well, Lily did pop on its latest
+[09:24] trial. Um, but let's follow up with some
+[09:27] good uh fundamentals. Their sales are
+[09:29] forecast to surge
+[09:31] 45.1%. Earnings are forecasted to
+[09:33] improve
+[09:34] 42.3. They had some recent analyst uh uh
+[09:38] trims, I guess, the best way to describe
+[09:40] it, but I do expect them to surprise. uh
+[09:42] they're beating Nova Nordisk at their
+[09:44] own game. But I should also mention uh
+[09:47] Lily is a major holding on our managed
+[09:49] accounts. Now with food cost rising,
+[09:51] could McDonald's pricing power finally
+[09:53] hit a wall? Yep, they have hit a wall.
+[09:56] Um sales are forecasted to decline uh 9
+[09:59] and a
+[10:00] half%. Earnings are forecasted to drop
+[10:03] 45.9.
+[10:05] Um, there have been some significant
+[10:07] analyst cuts, but uh, McDonald's
+[10:10] nonetheless does have a good earning
+[10:11] surprise history, but expectations are
+[10:13] very low. Uh, we have to give McDonald's
+[10:16] credit for not raising the price of an
+[10:17] Egg McMuffin despite higher egg costs.
+[10:20] Um, also, let's face it, this is one of
+[10:23] President Trump's favorite meals, okay?
+[10:26] And I I really think McDonald's needs to
+[10:28] get Trump to return to that drive-thru
+[10:30] window, get some positive press. And um
+[10:34] um and also, uh President Trump is in
+[10:37] the money management business. It was
+[10:38] announced that Truth Social has entered
+[10:41] the man money management business
+[10:42] through a subvisor agreement. I think
+[10:44] the firm is Yorktown and there's four
+[10:47] Trump themed portfolios. So, it' be
+[10:49] interesting if um uh Trump is actually
+[10:52] recommending McDonald's uh because um
+[10:55] he's a money manager now. Yeah, that he
+[10:58] is. Now, Amazon has been quite on a
+[11:00] tear. Do you think this momentum will
+[11:01] continue this quarter? Yeah, sales are
+[11:04] forecasted to rise 8.2%. Earnings are
+[11:07] supposed to improve
+[11:09] 38.6. Uh they have pretty steady Alice
+[11:12] estimates and and they do have a great
+[11:14] great earning surprise history. So I am
+[11:17] expecting another um uh significant
+[11:19] earning surprise uh from um Amazon and I
+[11:23] I I'd like to get an update on their AWS
+[11:25] cloud computing business. This has been
+[11:27] driving profits more than retail and
+[11:30] cloud computing is on a tear now and uh
+[11:33] AWS does is the leader. They capture a
+[11:36] lot of market share. So I'd like some
+[11:38] guidance on that from them and if they
+[11:40] provide positive guidance stock
+[11:42] shouldn't take off. Now, with Apple,
+[11:44] there's some new product rumors that are
+[11:46] swirling. Is this time for Apple to
+[11:48] spark some excitement?
+[11:51] Yeah, they they should, but they
+[11:53] probably won't. Um, I guess the big news
+[11:57] is iPhone manufacturing is moving from
+[11:59] China to India. Okay, that's a big deal.
+[12:03] And their sales are are forecasted to go
+[12:05] up
+[12:06] 3.6%. Earnings are forecasted to rise
+[12:08] 5.3.
+[12:10] They do have steady analyst uh estimates
+[12:13] and um they do have a good earning
+[12:14] surprise
+[12:15] history. But uh the big news for Apple
+[12:19] is the new iPhone announcement each year
+[12:22] and that comes in September. They
+[12:24] announce in September. So, and they get
+[12:26] a bunch of orders for the fourth quarter
+[12:29] and it's a big holiday thing. Now, Apple
+[12:32] did sign a deal with Samsung Display.
+[12:35] So, we're all waiting for the folding
+[12:38] iPhone. Uh, I'd like it to come out this
+[12:41] year. Uh, they'll sell for
+[12:43] $2,500, but some of the um experts out
+[12:46] there that look at the rumor machine
+[12:48] expect it next year. But when Apple does
+[12:50] announce that folding iPhone, the stock
+[12:53] will go absolutely nuts because, as you
+[12:56] know, all your friends have to have the
+[12:57] latest and greatest phone. Yes, of
+[12:59] course. Now, is Eaton positioned to
+[13:01] capitalize better than expected? Yeah,
+[13:04] Eaten's an interesting company. Uh,
+[13:06] their sales are forecast to rise 5.2%.
+[13:08] 2% earnings are forecast to go up 12.7.
+[13:11] They have steady analyst estimates,
+[13:12] great earnings price history. So I'm
+[13:14] expecting them to surprise again. But uh
+[13:17] you're showing a chart um on something
+[13:19] called the power electronics chart and
+[13:22] uh Eaton is getting more and more of
+[13:25] their money from the utility sector.
+[13:27] Okay. Eaton makes transmissions for
+[13:29] trucks, cars, they even make the the DSG
+[13:33] transmission, the dual clutch
+[13:35] transmission, things like the Corvette
+[13:37] uses. So, uh they make a lot of good
+[13:39] stuff, but uh the power uh energy
+[13:42] business is um is really driving their
+[13:45] bottom line. and uh Verdive Holdings had
+[13:49] a blowout uh results uh and told
+[13:52] everybody that the the whole AI data
+[13:54] center boom is real and that that lifted
+[13:57] eat and a bunch of other stocks. So, I
+[13:59] need them to follow through with
+[14:00] earnings. And finally, oil prices have
+[14:02] been choppy, but can Exxon still pull
+[14:04] off another positive quarter? Maybe. Uh
+[14:08] Exxon sales are forecast to be up
+[14:10] 3.6%. Earnings are forecasted to decline
+[14:13] 15.8.
+[14:15] Uh their analyst estimates are steady
+[14:17] and they have a good earning surprise
+[14:18] history. Um Exxon's all about Guyana. I
+[14:22] think they have their seventh field now.
+[14:24] And Guyana is the most exciting oil oil
+[14:28] um discovery in the in the Western
+[14:31] Hemisphere in a long long time. And they
+[14:33] control that. And um so if they get they
+[14:37] could have a Guyana surprise, but I did
+[14:39] sell Exxon Manage accounts due to the
+[14:41] low oil prices. Uh you know, the whole
+[14:43] Trump drill baby drill thing does help
+[14:46] um midstream companies, pipeline
+[14:48] companies.
+[14:50] It does help LNG natural gas, but uh
+[14:53] crude oil is um I don't see it going up
+[14:57] in price even though we're approaching
+[14:59] the summertime when we're going to get
+[15:00] peak demand. Now, do you have any last
+[15:02] words? Yes, I do. Uh Ed Yardini, who we
+[15:05] had on as a guest a couple weeks ago, he
+[15:08] has this uh service called Quicktakes,
+[15:10] which we highly recommend. We have a
+[15:12] link down below.
+[15:14] uh one of his quick dates reports showed
+[15:17] uh four economist um cover pages that
+[15:20] were very negative about America. The
+[15:23] economist comes from uh Britain and uh a
+[15:25] lot of her negative press has been
+[15:27] emanating from Britain. Financial Times
+[15:29] also has been horribly negative and very
+[15:32] pro-China. Uh you know that China
+[15:34] invests a lot in British infrastructure
+[15:36] and stuff. But anytime you get uh those
+[15:40] negative headlines, it's a screaming buy
+[15:43] signal for the market. And um so I think
+[15:46] uh the the the articles, the magazine
+[15:49] covers, all this negativity means you
+[15:52] should buy. And of course, earning
+[15:53] season is turning out great. Now, Gary
+[15:56] Alexander, who writes for us on Navler
+[15:58] Market Mail, does expand more about what
+[16:00] Ed was talking about. So, uh, not only
+[16:03] do we recommend Ed's QuickTakes, um,
+[16:06] please make sure you subscribe to Navler
+[16:08] Market Mail. Uh, now it's free. We got a
+[16:11] link down below and that's weekly
+[16:13] commentary from myself, Gary Jason
+[16:15] Bonner, we got on the show, Von Marek,
+[16:18] who we've had before, as well as Brian
+[16:20] Perry. So, um, Gary has really good
+[16:24] article in Market Watch this week.
+[16:26] Perfect. Well, thank you so much for
+[16:28] answering all my questions and thank you
+[16:29] to you all again for liking, commenting,
+[16:31] subscribing, and supporting us. If you
+[16:33] want to check out Louis book, it'll be
+[16:35] in the description below as well as all
+[16:37] the other links that we mentioned. But
+[16:39] until then, we will see you next week
+[16:40] for a new video.
+[16:42] [Applause]
+[16:43] [Music]

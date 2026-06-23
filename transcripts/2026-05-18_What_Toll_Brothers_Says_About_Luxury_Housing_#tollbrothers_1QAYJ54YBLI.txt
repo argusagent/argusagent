@@ -7,9 +7,28 @@ Type: short
 Duration: 0:41 (41s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 20
+Transcript characters: 714
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Toll Brothers reports this week. How is
+[00:02] luxury home buyers spending right now?
+[00:04] Well, you know, Toll is one of the
+[00:05] better home builders because the luxury
+[00:08] homes they sell, and they sell a lot to
+[00:10] retirement communities, are more cash
+[00:12] sales, so they're less sensitive to
+[00:14] mortgage rates. But with that said, it's
+[00:16] not an easy builder now. Their overall
+[00:19] sales is supposed to drop 11.8%. Their
+[00:21] earnings is supposed to be down 28.4,
+[00:24] uh, but the analysts have held steady on
+[00:26] their estimates in the last 2 months. In
+[00:28] last quarter, they did have a 3.9%
+[00:30] surprise. So, I have hope for Toll
+[00:33] Brothers. I think it's one of the better
+[00:34] managed home builders out there. But,
+[00:37] uh, until it has absolute sales and
+[00:39] earnings growth, I'm not that
+[00:40] interested.

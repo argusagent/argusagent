@@ -7,9 +7,30 @@ Type: short
 Duration: 0:43 (43s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 22
+Transcript characters: 783
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Wholesale inflation does that hurt chip
+[00:01] stocks?
+[00:02] >> No, cuz they have pricing power. And
+[00:04] stocks are a natural inflation hedge.
+[00:06] Where do you put your money when
+[00:07] interest rates are going higher? You put
+[00:09] it in in growth stocks. You can put your
+[00:11] money in bonds, but your principal's
+[00:13] going to erode. In fact, 6 years ago, if
+[00:16] you bought treasures at the wrong time,
+[00:18] you've lost um
+[00:21] over 55% of your money. Bond market is
+[00:24] is definitely signaling that stocks are
+[00:26] safer place. Now, as interest rates get
+[00:29] higher, they wouldn't actually demand a
+[00:31] lower P ratio, but they haven't gone up
+[00:32] that much. And the bond vigilantes seem
+[00:34] more focused on Japan and Britain right
+[00:36] now, cuz you know, Britain's going to
+[00:37] have to get a new Prime Minister because
+[00:39] pressure on Keir Starmer to resign from
+[00:41] his own Labour Party is immense.

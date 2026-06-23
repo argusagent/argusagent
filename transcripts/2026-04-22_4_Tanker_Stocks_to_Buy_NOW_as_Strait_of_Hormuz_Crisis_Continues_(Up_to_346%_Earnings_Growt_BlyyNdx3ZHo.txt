@@ -7,9 +7,471 @@ Type: video
 Duration: 16:47 (1007s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 463
+Transcript characters: 16179
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The NASDAQ just snapped its 13-day
+[00:02] winning streak. Is this just a healthy
+[00:04] pause that refreshes or are we looking
+[00:06] at something more serious [music] here?
+[00:08] Plus, stick around because Louis going
+[00:09] to share his four favorite taper stocks
+[00:11] that you need to know about. Welcome
+[00:13] back to Navellier Market Buzz.
+[00:17] >> [music]
+[00:20] >> So, dad, I saw that MarketWatch reported
+[00:22] that Micron Technology is literally
+[00:25] accounting for half of all positive
+[00:26] analyst earning revisions right now. Is
+[00:29] that actually true? Yes, but they cited
+[00:31] the wrong quarter. They cited the second
+[00:34] quarter and we're now in the midst of
+[00:36] the first quarter earnings
+[00:37] announcements. So, we don't normally
+[00:40] focus on the second quarter till maybe
+[00:43] late May or so. So, that was an
+[00:46] interesting report and obviously Micron
+[00:49] is the company with the strongest
+[00:51] forecast sales and earnings and which is
+[00:53] why it's a major holding of ours.
+[00:55] Their earnings environment is is just
+[00:57] incredible right now and we just got
+[00:59] news today that buybacks are up 36%
+[01:02] year-to-date. We Things are looking
+[01:04] awfully good right now. So, Kevin
+[01:06] Warsh's Senate confirmation hearing for
+[01:08] Fed chairman is coming up. How do you
+[01:10] think that that's going to play out?
+[01:11] >> I think it'll be fine. Kevin Warsh is a
+[01:13] former Fed governor. He's widely
+[01:15] respected. He's broad support on Capitol
+[01:17] Hill. I mean, obviously [clears throat]
+[01:19] Elizabeth Warren will probably harass
+[01:21] him and some people harass him about
+[01:23] being a a Trump pawn.
+[01:25] But, he's his own man and his big thing
+[01:27] is reducing the Fed's balance sheet, not
+[01:30] getting involved in quantitative easing.
+[01:32] And those things would
+[01:34] increase the value of the dollar
+[01:36] long-term. The other interesting thing
+[01:38] is that he thinks that AI is going to
+[01:42] lead to massive productivity gains and
+[01:45] those productivity gains are not
+[01:46] inflationary. You know, just because the
+[01:48] economy is going to grow strong doesn't
+[01:50] mean we have to raise rates. So, I
+[01:52] expect he still wants to cut a bit
+[01:53] because, you know, we have to get the
+[01:55] housing industry up perking up and that
+[01:59] has been a drag on overall economic
+[02:01] growth. And now the March retail sales
+[02:03] report just came out. What was your take
+[02:04] on it?
+[02:05] >> Stunning. Best in over 3 years. Almost
+[02:07] all of the 13 categories are up. Now,
+[02:09] with that said, what we call the um
+[02:12] uh gasoline prices were up 15.5%
+[02:16] but when you back out gas and autos, it
+[02:18] was more it was up 6/10 of a percent,
+[02:20] double what economists expected. So,
+[02:22] yeah, that that's perfect. I mean, some
+[02:24] people think it was the tax refunds
+[02:27] but uh this is the second month in a row
+[02:29] of exceptionally strong retail sales.
+[02:31] You know, 70% of our GDP is tied to
+[02:33] consumer spending. So, I think we're
+[02:35] going to get some upward uh first
+[02:37] quarter uh GDP estimate revisions. Now,
+[02:40] here's something interesting. The US
+[02:41] Navy is now deploying underwater drones
+[02:44] to check for mines in the Strait of
+[02:46] Hormuz. When do you think we'll actually
+[02:48] see that shipping lane reopen? Hopefully
+[02:50] not more than a week. Uh you know, the
+[02:52] US Navy has very sophisticated drones
+[02:55] and to go scan the seabed and uh there's
+[02:59] different kinds of mines. Some float,
+[03:00] some sit elevated from the seabed. And
+[03:03] um we'll see if the if Iran did lay any
+[03:05] mines. We're not sure because, you know,
+[03:07] the US blew up all their mine-laying
+[03:09] ships almost immediately. I think oh
+[03:12] there were over 16 of them. So, whether
+[03:14] they were able to deploy any mines or
+[03:16] not is is questionable. But we'll we
+[03:19] have to still clear the area and and
+[03:21] then hopefully that will take it will
+[03:23] take no longer than a week and hopefully
+[03:25] traffic will resume. So, that's kind of
+[03:27] where we are. The stock market has been
+[03:29] climbing despite everything that's
+[03:30] happening with Iran. Why isn't Wall
+[03:32] Street more concerned about this?
+[03:34] Because it doesn't affect corporate
+[03:35] earnings. And Wall Street's tied to
+[03:37] earnings. It's as simple as that. And if
+[03:39] anything, the Iran war made it very
+[03:42] clear that the US is the oasis. We are
+[03:44] food and energy independent. We are
+[03:46] largely unaffected by this except for
+[03:48] the prices at the pump. And um we don't
+[03:50] have the jet fuel shortages or other
+[03:52] concerns you hear around the world. And
+[03:54] um
+[03:55] that's why there's 121 oil tankers
+[03:57] headed to the Gulf of America to fill up
+[03:59] with American energy. This is also going
+[04:01] to shove the trade deficit way down
+[04:04] because our exports are soaring.
+[04:06] You know, we've talked before. I don't
+[04:08] know if this is part of uh Trump's
+[04:10] master plan to control world energy
+[04:12] markets, but uh we are in a controlled
+[04:14] world energy markets.
+[04:17] Again, it's not hurting us at all. Well,
+[04:19] I think you're spot-on with that because
+[04:21] I'm seeing some pretty incredible
+[04:23] numbers on corporate buybacks. Are we
+[04:25] about to see a massive wave of corporate
+[04:27] buying hit the market?
+[04:29] >> Yeah, it's it's already up 36% this year
+[04:31] as I mentioned a bit earlier. Um
+[04:34] what that does is it shows the price
+[04:36] earnings ratios down because uh you're
+[04:38] reducing the the supply of stock
+[04:40] outstanding. And um
+[04:42] uh this is a very good sign. The
+[04:44] companies have cash, it's burning a hole
+[04:46] in their pocket, and uh they've decided
+[04:48] to take that cash and
+[04:50] increasing buy back their stock. You
+[04:52] know, even a large cap we're trading at
+[04:54] only 15 times forecast earnings. And um
+[04:56] that's assuming that we'll be up over
+[04:58] 60% this year. And but uh you know, my
+[05:01] earnings are are running right now in
+[05:03] large cap over 120%.
+[05:06] So, I'm expecting that they'll go up
+[05:09] half as much as earnings, and that
+[05:11] there'll be a lot of PE compression
+[05:12] because of the funnel. So, the buybacks
+[05:14] are just part of the PE compression
+[05:16] story. So, this is very, very bullish.
+[05:19] So, all those people that warn about,
+[05:22] you know, AI bubble or an AI apocalypse
+[05:25] are basically clueless. I'm sorry to say
+[05:27] it that way, but
+[05:29] you know, this is a very, very bullish
+[05:31] environment we're in. All right, let's
+[05:32] get to those four tanker stocks you've
+[05:34] been watching. But first, for anyone new
+[05:36] to this sector, what exactly is a day
+[05:38] rate? The day rate is what it costs to
+[05:41] charter a boat. And you're showing two
+[05:43] charts. One is for the oil tankers, and
+[05:45] the other's for dry goods. And the day
+[05:48] rates are both up sharply because of the
+[05:50] disruption in the Middle East, and now
+[05:52] the boats have to travel a lot farther,
+[05:54] so it makes the day rates go up. Now,
+[05:56] the the stocks I'm about to talk about
+[05:58] are all recommended in our newsletters.
+[06:00] They're all in managed accounts that we
+[06:03] manage, and they're all oil tankers. So,
+[06:05] let's start with stock number one.
+[06:07] You've got a stock with earnings that
+[06:08] more than doubled year over year. Well,
+[06:11] yeah, every oil tanker I'm about to talk
+[06:13] about is going to have over 100%
+[06:15] earnings growth. So, let's start with
+[06:17] TN, that's
+[06:19] Teekay Tankers Navigation. Their sales
+[06:21] are supposed to have 34.2%
+[06:23] earnings supposed to be up 120.2. They
+[06:26] have very strong analyst revisions and a
+[06:28] great earnings surprise history. All
+[06:29] right, let's look at stock number two.
+[06:31] We're looking at a company where
+[06:33] earnings nearly tripled. Yeah, this is
+[06:35] International Seaways. Sales are
+[06:37] forecast to be up 40
+[06:39] 1.1%. Earnings for this current quarter
+[06:43] are supposed to be up 167.8%.
+[06:46] Very positive analyst revisions and a
+[06:49] solid earnings surprise history. And now
+[06:51] for stock number three. This one's
+[06:53] really impressive. Sales are up over
+[06:55] 167%.
+[06:57] >> That's correct.
+[06:58] ECO, it's Eco Tankers, but
+[07:02] not only do they have about that 167%
+[07:04] forecast sales growth, their earnings
+[07:06] are forecast to go up 364.2%.
+[07:10] They have a very strong earnings
+[07:11] surprise history. Obviously, this is
+[07:14] actually the strongest one I'm talking
+[07:16] about.
+[07:16] >> And last but not least, let's talk about
+[07:18] stock number four that has earnings
+[07:20] growth that is almost 150%.
+[07:23] Yeah, that's Scorpio Tankers. Their
+[07:24] sales are supposed to be up 33.4.
+[07:26] Earnings are forecast to be up
+[07:28] 148.2, but I'm sure they'll surprise.
+[07:31] They do have positive analyst earnings
+[07:32] revisions
+[07:34] and a very good earnings surprise
+[07:35] history. All these companies are
+[07:37] benefiting from the chaos out there. The
+[07:40] The fact that all these oil tankers
+[07:43] last we we counted 121 were headed to
+[07:45] the Gulf of America to refuel. And their
+[07:48] their trips are longer than ever, so
+[07:50] their day rates remain elevated. So,
+[07:53] we've had them for some time, by the
+[07:54] way. When it rains it pours, and this is
+[07:56] one of our hottest sectors right now.
+[07:58] So, there we have it. Four stocks that
+[08:00] are benefiting from this chaos. Now,
+[08:02] given that this is a midweek update,
+[08:03] let's get into some of your subscriber
+[08:05] questions. Let's start out with Dave who
+[08:08] had asked, "Dad, what are some of the
+[08:10] small caps?" Well, a small-cap stock is
+[08:13] generally considered to be under 10
+[08:15] billion. Smalls are 3 billion and under,
+[08:17] and basically 3 to 10 are mid-caps. What
+[08:20] happens is they're very volume
+[08:21] sensitive. These are the bunnies that
+[08:23] we've talked about many times. You know,
+[08:26] when I recommend them, they often pop.
+[08:28] You know, I guess the latest I
+[08:29] recommended was a stock called IDN,
+[08:32] Intellicheck. And if you're wondering
+[08:34] why it's up a lot,
+[08:37] well,
+[08:38] uh
+[08:39] rightly or wrongly, that was my impact
+[08:41] on the market. It is up over
+[08:44] 54% in the past month. But you can see
+[08:47] that this company has steady sales and
+[08:49] earnings growth. Just so you know, their
+[08:52] sales are supposed to be up
+[08:54] 16.2%
+[08:56] uh earnings are supposed to be up
+[08:58] 152.1%.
+[09:01] We've had the analysts revise their
+[09:03] estimates from 1 cent to 3 cents in the
+[09:06] last 7 days. So, this is looking awfully
+[09:09] good. So, I'm not the only one that
+[09:10] likes this stock, obviously. But why
+[09:13] small caps are fun is, you know, we
+[09:15] don't have a lot of stocks that go up 50
+[09:17] plus percent. And um when it rains it
+[09:20] pours with these kind of stocks, and
+[09:21] these are very volume sensitive stocks.
+[09:23] Dave also asked that, you know, Stock
+[09:26] Trader gives NYT an A. Warren Buffett
+[09:29] bought a ton of this stock. What is he
+[09:31] missing here? Well, I looked at the New
+[09:33] York Times, and it does have improving
+[09:35] sales and earnings growth.
+[09:37] Uh you know, President Trump is good for
+[09:39] the liberal media for lack of a better
+[09:41] word, but it's just not strong enough
+[09:43] for me to recommend it. So, I'm not.
+[09:46] >> Now, Samuel asked if you still like
+[09:48] Netflix. Netflix is not under
+[09:50] management. Your mom owns in her
+[09:52] personal account. They got hit on their
+[09:54] guidance, okay? And um
+[09:57] and of course Reed Hastings, their CEO,
+[10:00] is retiring. So, I I think Netflix has
+[10:03] to spend some money on their uh servers
+[10:05] and all cuz I
+[10:07] I don't know if you remember when they
+[10:08] start to show sports like football, they
+[10:11] were very digital. They couldn't stream
+[10:13] fast enough. You know, a lot of people
+[10:14] have 4K TVs and want a 4K picture, okay?
+[10:17] Not a, you know, 180
+[10:20] thing picture, uh you know, which is
+[10:22] much smaller than 4K, which I think is
+[10:23] 1080. So, they had they Netflix had some
+[10:27] issues with that. So, let's let
+[10:29] Hopefully, they can take some of the
+[10:30] money they got from canceling the Warner
+[10:32] Brothers acquisition and invested in
+[10:34] their hardware. But, they they're very
+[10:36] dominant programming. All the shows are
+[10:39] kind of follow that Netflix formula. We
+[10:41] got another question from Barry who
+[10:42] wants to know your stocks on SMCI right
+[10:45] now.
+[10:45] >> Barry, please lock and load on SMCI.
+[10:47] Their sales are supposed to be up over
+[10:49] 171%.
+[10:51] Um
+[10:51] uh earnings is supposed to be up over
+[10:53] 101.5%.
+[10:55] We have a
+[10:56] um very steady analyst estimates
+[10:58] underneath the stock. Oh, they they've
+[10:59] been revised up in the last 90 days. And
+[11:01] last quarter, SMCI had a 41.4% surprise.
+[11:05] So, this is stock is obviously
+[11:06] controversial because uh one of their
+[11:08] co-founders got indicted by the
+[11:10] government, got hit on that news. But,
+[11:12] I've owned the stock all along. It um uh
+[11:15] it'll probably upgraded to a C rating
+[11:17] here shortly. And I'm very very
+[11:20] comfortable with this. This company
+[11:21] represents 9%
+[11:23] of Nvidia sales. I have friends in the
+[11:25] cloud computing business. Super Micro
+[11:27] makes the best water-cooled rack
+[11:28] systems. They have these huge external
+[11:31] cooling tanks. Um so, you know, the
+[11:33] people behind Supermicro are brilliant
+[11:35] engineers and they still have a massive
+[11:37] order backlog that's going to last over
+[11:39] 3 years. So, I would just hang on and
+[11:42] enjoy the ride. Now, can you give an
+[11:43] update on COLL? COLL, their only issue
+[11:47] is they missed last quarter. They missed
+[11:49] analysts estimates by 10 cents a share.
+[11:51] Their sales for this next quarter is
+[11:53] supposed to be up 5.1%
+[11:55] earnings is supposed to be up 9.4.
+[11:58] Now, in the past month, they analysts
+[12:00] have trimmed their estimates from $1.70
+[12:02] a share to $1.63.
+[12:05] That gives me the heebie-jeebies, to be
+[12:08] honest with you, because
+[12:10] you know, if analysts are revising their
+[12:11] estimates higher, the stock surprises.
+[12:13] If they start to trim the estimates, a
+[12:15] disappointment is more likely. COLL is
+[12:18] not a stock I recommend. It is in Stock
+[12:21] Trader, but
+[12:23] um it's in the doghouse right now until
+[12:25] it can beat analysts estimates and guide
+[12:27] higher. Elemental, ELE, is a mining
+[12:30] royalty company, not just for gold and
+[12:31] silver, but also for industrial metals.
+[12:34] Stock Trader has it at a B right now.
+[12:36] What are your thoughts on this and are
+[12:38] you currently holding it?
+[12:40] >> Well, first of all, just for reference,
+[12:42] Stock Trader is going to recommend over
+[12:44] 1,000 stocks with A and B grades. An A
+[12:47] is a strong buy, B is a buy. I own
+[12:50] barely 80 stocks, okay? Because I do
+[12:53] this deep fundamental dive and I want to
+[12:55] make sure the stocks are checking off
+[12:57] very well in my eight-factor fundamental
+[12:59] model. So, Elemental Royalty, even
+[13:01] though it has a decent grade, did miss
+[13:03] last quarter by 6 cents. And their
+[13:06] earnings are forecast to go down 21.2
+[13:08] next quarter. So, this stock is just not
+[13:11] hitting on all cylinders, okay? And it
+[13:14] had it its earnings disappointment is
+[13:16] concerning. With that said, I can tell
+[13:18] you their revenues are soaring, but
+[13:20] their earnings haven't materialized. And
+[13:22] I normally don't buy stocks until they
+[13:23] have positive earnings. So, I'm going to
+[13:25] pass on this one, Yeah. Someone's asking
+[13:28] what happened to all the missing oil
+[13:29] since the start of the war. Will they
+[13:31] affect the markets in the future? Well,
+[13:33] first of all, when the war started, we
+[13:36] had a surplus of oil. Now, we have um a
+[13:39] shortage, which is why the US has
+[13:41] stepped up and is supplying Europe,
+[13:43] Asia, China, anybody who wants American
+[13:45] oil. Now,
+[13:47] obviously if we get the straight reopen,
+[13:49] it'll help, but you have had facilities
+[13:51] damaged in Saudi Arabia, the Qatar,
+[13:55] Kuwait, etc. Thanks to Iran launching
+[13:57] missiles at those countries, okay? So,
+[14:00] part of the shortage is going to be due
+[14:02] to Iran attacking its neighbors.
+[14:05] Furthermore, it it's also very
+[14:07] interesting to watch this blockade. You
+[14:09] know, 90% of Iran's oil exports come
+[14:12] from Kharg Island. It's a deep water
+[14:14] port. We haven't occupied that island
+[14:16] yet, but we could. You know, we have a
+[14:18] marine force that could occupy it. But
+[14:20] obviously the oil's not leaving. And
+[14:22] Iran doesn't have a lot of storage
+[14:23] facilities and capping wellheads is
+[14:26] complicated because it takes a while to
+[14:28] restart them. So, this is part of the
+[14:30] economic pressure the US is putting on
+[14:32] Iran. So, even if the war is over, okay,
+[14:35] the production of oil from the Middle
+[14:37] East is still going to be hindered by
+[14:40] the damage and the possible fact that um
+[14:43] some of the wellheads have been capped.
+[14:44] Also, you know, Ukraine attacked a lot
+[14:47] of Russian oil facilities. So, Russia's
+[14:49] output is down sharply now, too. So, but
+[14:52] it doesn't affect us because we have
+[14:55] plenty of oil in North America. Trump's
+[14:57] also controlling the oil that comes out
+[14:58] of Caribbean, Venezuela, and Guyana. So,
+[15:02] we're in the catbird seat. So, and
+[15:03] again, I have no idea if this was part
+[15:05] of Trump's master plan to control world
+[15:07] oil markets, but that's exactly what
+[15:09] he's doing at this moment. So, I don't
+[15:12] think you should expect any relief to
+[15:13] maybe the fall when worldwide demand
+[15:15] drops and hopefully all the repairs will
+[15:18] be made by then, too.
+[15:19] >> And last but not least, can you do a
+[15:20] deeper dive into Axon? They've beat on
+[15:23] 18 of their last 20 quarterly reports,
+[15:26] but it also is a very volatile stock.
+[15:28] What do you think about them long term?
+[15:30] I did sell Axon. I had it in our growth
+[15:33] investor letter. I had it in our large
+[15:35] cap managed accounts. I did sell sell it
+[15:37] because it missed in the third quarter
+[15:39] by 37 cents. But then the fourth quarter
+[15:42] beat by 55 cents. So I guess all is
+[15:44] forgiven, okay? Axon is the Taser
+[15:47] company for police departments. They
+[15:49] make the Tasers. Uh they make all the
+[15:51] body cameras. They're a big deal. So
+[15:53] again, when Tiger Woods got arrested the
+[15:55] other day and they
+[15:56] released the tape from the body cams.
+[15:59] The main thing is the stock, uh as you
+[16:02] pointed out, has beaten quite a bit. But
+[16:05] I like stocks to beat 100% of the time,
+[16:07] not just 90% of the time. So I suspect
+[16:10] if the stock continues to beat and guide
+[16:12] higher, it's going to get its mojo back
+[16:14] and uh it will resume appreciating.
+[16:16] Well, there you have it. All of your
+[16:18] questions answered, plus four new stocks
+[16:20] to take a look at. Now we're closing our
+[16:22] giveaway this week for 10,000
+[16:23] subscribers, but now thank you for
+[16:25] 11,000 subscribers. Make sure to give
+[16:27] this video a like and subscribe if you
+[16:29] haven't already, and hit that bell
+[16:31] notification to make sure that you get
+[16:33] notified on every new video that we
+[16:34] have. As always, thank you so much for
+[16:37] watching, and we will see you this
+[16:38] Sunday for a new video.

@@ -7,9 +7,24 @@ Type: short
 Duration: 0:32 (32s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 16
+Transcript characters: 538
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Now, what do you expect from Dicks on
+[00:02] same store sales and guidance for
+[00:04] spending?
+[00:04] >> Their sales are supposed to be up 45.1%
+[00:07] for Dicks. That's that's amazing. That's
+[00:09] the good news. The bad news is their
+[00:11] earnings are supposed to be down 1.6.
+[00:13] Now, the analysts have trimmed their
+[00:15] estimates slightly, but in the last 60
+[00:17] days, there's actually revised up about
+[00:19] 3 cents. I think Dixs is just a very
+[00:22] good retailer. It's a survivor. There is
+[00:24] new technology out there, but uh they
+[00:26] got good traffic in there and uh
+[00:28] hopefully they'll have some good holiday
+[00:30] sales.

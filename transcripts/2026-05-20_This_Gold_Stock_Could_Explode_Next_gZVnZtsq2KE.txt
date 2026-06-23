@@ -7,9 +7,31 @@ Type: short
 Duration: 0:45 (45s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 23
+Transcript characters: 781
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] That's a little gold stock that's more
+[00:02] volatile and it makes it more exciting
+[00:05] to many people. It's a low-priced gold
+[00:06] stock. You know, I I should add that
+[00:08] gold prices are up this year, but
+[00:10] they're down since the military action
+[00:12] against Iran started. So, a lot of
+[00:14] people think I own gold stocks because
+[00:16] I'm I'm betting on a gold. I'm no, I'm
+[00:18] just betting on sales and earnings. It
+[00:20] was the central bank buying pressure
+[00:21] that took me to gold. And um
+[00:24] you know, the French Central Bank lost
+[00:26] money
+[00:27] yeah, trading securities. They had to
+[00:30] cover their losses with their gold
+[00:31] reserve profits. Last I looked, there
+[00:33] was like 9.9 trillion dollars on their
+[00:35] treasuries.
+[00:37] But, the central banks have more money
+[00:38] in gold than they do in our treasuries.
+[00:40] Gold is there to shore up all the
+[00:43] central banks that are under pressure.

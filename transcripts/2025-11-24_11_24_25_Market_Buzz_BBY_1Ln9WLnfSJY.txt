@@ -7,9 +7,19 @@ Type: short
 Duration: 0:22 (22s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 11
+Transcript characters: 378
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] I like Best Buy. I shop there.
+[00:02] >> I bought my TV there.
+[00:03] >> So did Crystal. Yeah. Sales are supposed
+[00:05] to be up uh 1.6, which is pretty good
+[00:08] because electronic retail sales have
+[00:10] been poor. Earnings are supposed to be
+[00:12] up 4.2. Analysts have revised their
+[00:14] estimates slightly higher. So that's
+[00:16] good. And this is another company that
+[00:18] just has very consistent surprises in
+[00:20] the past three quarters.

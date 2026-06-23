@@ -7,9 +7,410 @@ Type: video
 Duration: 15:47 (947s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 402
+Transcript characters: 13992
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] There's a lot happening this week from
+[00:02] the government shutdown to big moves in
+[00:04] markets. But we also want to spend some
+[00:07] time on one of the strongest themes
+[00:08] right now, defense stocks. Welcome back
+[00:11] to Navier Market Buzz.
+[00:13] [Applause]
+[00:14] [Music]
+[00:26] Now, Dad, what does the government
+[00:27] shutdown mean for investors?
+[00:30] >> Well, obviously it doesn't mean anything
+[00:31] because we keep going higher. And uh
+[00:33] Bespoke did an outstanding report on
+[00:35] that that you're showing a little table
+[00:37] of the last six government shutdowns.
+[00:40] And it shows the mean return one week,
+[00:43] one month, 3 months, 6 months, and one
+[00:46] year later is all positive for the S&P
+[00:48] 500. So this is all theatrics, okay?
+[00:52] This is political posturing. And the
+[00:55] reason we have a shutdown is our Senate
+[00:58] and House minority leaders are demanding
+[01:02] they undo some of the things that were
+[01:04] in that big beautiful tax bill. And
+[01:06] essentially what happened is they cut
+[01:08] the health care benefits to the illegal
+[01:11] aliens in the country and they did cut
+[01:14] some of the Medicaid reimbursements to
+[01:16] poor people. So they're trying to have
+[01:19] this stand on healthcare and uh what's
+[01:21] fascinating to watch is, you know, they
+[01:24] weren't going to get this. Once you pass
+[01:26] the belly, it's passed. But what's
+[01:28] fascinating to watch is the retalatory
+[01:30] actions. You know, President Trump has
+[01:33] obviously cut two big uh fundings for
+[01:36] Manhattan projects. Okay. Both Senator
+[01:38] Schumer and Aake Jeff lives and then uh
+[01:42] he just cut something to Chicago. His OM
+[01:45] director is I won't call him vicious,
+[01:48] but he this guy's going to take
+[01:50] advantage of the situation to just lay a
+[01:52] bunch of people off. And uh it looks
+[01:55] like the shutdown is going to go to at
+[01:57] least the 16th of October because that's
+[02:00] the next pay period for federal workers.
+[02:02] And um uh it's it's all politics just to
+[02:06] get ready for the midterm elections. And
+[02:09] you know, we don't like talk politics on
+[02:10] this show, but that's what's what
+[02:12] they're doing.
+[02:14] >> So we know what worked and what didn't
+[02:15] work in September, but what does that
+[02:17] tell us about the overall market
+[02:19] leadership?
+[02:20] Well, that was another excellent Bpoke
+[02:22] report that you're showing. Um,
+[02:26] I I want to rattle off exactly what they
+[02:29] showed. They're showing the the the
+[02:32] Russell 1000 and they break it into
+[02:34] deciles on according to a lot of
+[02:36] criteria, but the stocks that did the
+[02:38] best in September,
+[02:40] uh, believe it or not, uh, were the
+[02:43] stocks that rose the most that quarter.
+[02:45] Okay? So, the big got bigger.
+[02:48] Then the top 10% of companies with the
+[02:50] highest P ratios rose uh impressively.
+[02:53] The top 10% of the companies with the
+[02:55] highest price to sales ratios rose
+[02:57] impressively. And finally, the top 10%
+[02:59] with the highest market capitalization
+[03:01] rose. So September was the big stocks
+[03:04] getting bigger, especially the tech
+[03:06] stocks that overpower the markets. Now,
+[03:08] I've noticed I'm doing good in small cap
+[03:10] and the the small cap's broadening out,
+[03:13] but I must be a minority because the
+[03:16] large cap stocks were were pretty
+[03:18] spectacular in in September. And I know
+[03:21] on accounts we managed, I think they're
+[03:22] up 10.7%.
+[03:24] So, I'm really proud of that because
+[03:26] that's better than anything should for
+[03:29] September.
+[03:29] >> With no federal data during the
+[03:31] shutdown, private reports like the ADP
+[03:34] became more important. Why did the ADP
+[03:36] payroll report battle the bond market?
+[03:39] >> The reason uh treasury yields fell after
+[03:41] the ADP report was first it was below
+[03:44] expectations. It was negative instead of
+[03:46] positive. Second uh the August was
+[03:50] revised down to negative. It was
+[03:52] reported to be 54,000 previously.
+[03:55] So three of the last four months with
+[03:57] ADP we've had job losses.
+[04:00] Um and um I think you're showing a a
+[04:03] CNBC article uh that shows that it's
+[04:07] really hard to get jobs if you're a new
+[04:09] college grad. Um so there is a
+[04:12] definitely a problem in the job market
+[04:13] right now. Uh this is why the Fed's
+[04:16] going to keep cutting rates. So the good
+[04:17] news is if you look at the futures
+[04:20] market, uh we got at least two more rate
+[04:22] cuts in store. Now, uh, I don't care
+[04:25] that we're not going to get this
+[04:26] government data because it has weird
+[04:28] seasonal adjustments and all kinds of
+[04:30] noise in it. I'm happy to to work with
+[04:32] ADP. I like them better than the the
+[04:35] Labor Department reports. Highly respect
+[04:37] the conference board, which had a
+[04:39] consumer conference survey this week
+[04:40] that fell and so that's alarming. And
+[04:43] then, of course, we had the ISM reports
+[04:45] this week on manufacturing, which was
+[04:47] improving. Still under 50, but it's
+[04:49] improving. But the shocker of the week
+[04:52] was ISM services. It uh fell
+[04:54] dramatically. It's a it's sitting at 50
+[04:57] and below 50 is a contraction. Above 50
+[05:00] is an expansion. So we're basically uh
+[05:03] treading water right now. And only 10 of
+[05:06] the 17 service industries were
+[05:07] improving. Uh and uh I I dug in all the
+[05:11] components of that. And there's
+[05:13] definitely some economic problem out
+[05:15] there brewing right now. and the
+[05:17] government shutdown's not going to help
+[05:19] because it just causes more uncertainty.
+[05:21] The other thing is the last time we've
+[05:23] had these shutdowns, we've noticed that
+[05:25] some of the TSA workers are calling
+[05:27] sick. That's not good. Okay. Uh I travel
+[05:31] a lot. I guess we have to get the
+[05:32] airports a little earlier just in case
+[05:36] the lines are longer, but um it can
+[05:39] start to affect commerce. And obviously
+[05:42] if you're a federal employee, you know,
+[05:43] you're worried about your paycheck even
+[05:45] though you got to get paid in the
+[05:46] beginning of October.
+[05:48] Um, so, uh, we're going to have to
+[05:51] resolve a lot of things here, but it
+[05:53] looks like we hit a deceleration, but
+[05:56] then the market celebrates that because
+[05:57] they want the Fed to keep cutting. So,
+[06:00] now we got plenty we got plenty of news,
+[06:02] economic news for the Fed to cut, and
+[06:05] that's one reason the market's rallying.
+[06:07] >> Now, let's switch over to defense
+[06:08] stocks. Defense has been one of your top
+[06:10] themes lately. What are your favorite
+[06:12] defense stocks right now?
+[06:14] >> Okay. The main one I I I want to discuss
+[06:18] is Palunteer. Obviously, that's using AI
+[06:21] to make government efficient. They've
+[06:23] taken over the the entire defense
+[06:25] industry and the intelligence industries
+[06:27] and they seem to know what they're
+[06:29] doing. Um uh ESLT, that's uh Elvet
+[06:32] Systems, that's an Israeli stock. Uh
+[06:35] very good defense contractor. Let's face
+[06:37] it, Israel knows what they're doing in
+[06:39] terms of the military and building
+[06:41] defense systems. That's ownor top rank
+[06:44] stocks. And finally, we have helmet
+[06:46] aerospace HWM.
+[06:49] So, uh, the world is on edge right now.
+[06:51] It's a tinder box. You can see that
+[06:54] President Trump this week was with BB
+[06:57] Netanyahu.
+[06:58] He they proposed a peace plan for for
+[07:01] Gaza. Hamas has accepted or exterminate
+[07:04] them for lack of a better word. He's
+[07:05] situation Russia is not going well. So
+[07:08] he's threatened to help Ukraine a lot
+[07:10] and push Russia out out of Ukraine. So
+[07:14] um you know the world is very tense
+[07:16] right now and military spending was up
+[07:19] 50%
+[07:20] in the last durable goods report. This
+[07:23] is a good time to be in the defense
+[07:25] business. And finally, uh, as I'm
+[07:27] talking to you, they just sunk a fourth
+[07:30] Venezuelan drug boat. There's all these
+[07:33] rumblings that we might invade Venezuela
+[07:37] to take out the drug cartels. You know,
+[07:39] um, uh, this obviously this is very
+[07:42] serious. We have the US Navy down there
+[07:45] and um a lot of a lot of people are
+[07:48] questioning this, but uh they've
+[07:50] classified drug cartels as enemy
+[07:53] combatants and uh and you don't normally
+[07:56] use the military to fix threats
+[07:59] domestically, but that is what they are
+[08:02] are going to do, but they're obviously
+[08:04] military is going to operate outside of
+[08:06] America at this moment.
+[08:07] >> What's driving those picks? I know that
+[08:09] you said that there's a higher defense
+[08:10] spending, but it is it also company
+[08:13] specific catalysts.
+[08:15] >> Oh, yeah. They all have stunning sales
+[08:16] and earnings. So, let me just start with
+[08:19] Palunteer so you can just see how
+[08:22] stunning they are. And by the way,
+[08:24] Palunteer I speak to is down. Uh it's a
+[08:26] very very good buy. But their sales are
+[08:28] forecast to be up 50.5%.
+[08:31] Their earnings are forecast to be up
+[08:34] 67.4.
+[08:36] The analyst community has revised their
+[08:38] estimates higher in the past 60 days to
+[08:40] last two months from 14 cents 17 cents
+[08:43] and Palanteer does have a very good ear
+[08:45] surprise history. This stock is being
+[08:47] attacked by short sellers. Um but I
+[08:51] don't worry about that because uh it's
+[08:55] it uh is very powerful. Elbit systems
+[08:58] ESLT
+[09:00] uh their sales are supposed to be up
+[09:01] 15.7%.
+[09:03] And uh their earnings is supposed to be
+[09:05] up 23.4.
+[09:08] They do have positive balance earnings
+[09:09] revisions and big earnings surprises. In
+[09:12] fact, well none of the surprise in the
+[09:14] last four quarters. Their smallest
+[09:15] surprise was 18.8%.
+[09:18] Last quarter was 25.7.
+[09:20] So uh this is a very very good company.
+[09:23] And then Helmet Aerospace their sales
+[09:25] are supposed to be up 11.2.
+[09:27] Their earnings are supposed to be up
+[09:29] 27.4.
+[09:32] uh they have positive bounce revisions
+[09:34] in the past two months
+[09:36] 87 cents to 90 cents and again a very
+[09:38] good earnings price history. So we find
+[09:41] these stocks through stock grader. We
+[09:43] find these stocks through our eight
+[09:44] factor fundamental model. Everything we
+[09:47] recommend has better sales, earnings of
+[09:49] the market. Uh we like positive balance
+[09:51] revisions. We like big earnings
+[09:53] surprises. So we go under earning season
+[09:55] locked and loaded. And these these are
+[09:57] the three defense stocks in my opinion
+[09:59] of the Kremlin creme right now.
+[10:00] >> Now how do you see these defense stocks
+[10:02] fitting into the bigger market picture?
+[10:04] Are they becoming leaders?
+[10:06] >> No, the leaders are still AI. So on that
+[10:10] note, Palanteer would probably more of a
+[10:12] leader because it's an AI applier. So is
+[10:15] another stock called Apploving A. So you
+[10:18] um there are AI appliers and then
+[10:20] there's the the main AI stocks. One of
+[10:23] the things that we've noticed is super
+[10:25] micro computer was going up a lot
+[10:28] because they are have ordered the the
+[10:31] Nvidia chips and they build the water
+[10:33] cool rack systems for the data centers.
+[10:35] So anyone that has these huge order
+[10:37] backlogs is doing very well. Another one
+[10:40] that uh Adam Johnson mentioned that we
+[10:43] now recommend is GE Vernova. There is a
+[10:45] five-year wait list to get natural gas
+[10:47] turbons to build the D plants and the
+[10:50] backlog is is is again five plus years.
+[10:54] uh whether it's Seammens uh which I
+[10:56] don't recommend
+[10:58] G Nova which I do that's GEV
+[11:02] the companies with these huge order
+[11:04] backlogs have been prospering and uh
+[11:07] they're mostly um um
+[11:10] mostly all related to Nvidia Nvidia's
+[11:13] open AI announcement open IA it's not
+[11:16] public yet is a big deal because they
+[11:18] will literally be selling millions of
+[11:20] their GPUs in those data centers so the
+[11:23] scale of what Nvidia is doing is is
+[11:25] still shocking to to many people.
+[11:27] >> Outside of defense, you've also been
+[11:29] adding names benefiting from this data
+[11:31] center, Boom. Can you share which stocks
+[11:33] are a standout?
+[11:35] >> Well, the two new ones we added to our
+[11:36] growth investor letter were Bloom
+[11:38] Energy. Bloom uh Energy makes the
+[11:40] hydrogen fuel sales that uh Oracle's
+[11:43] putting its data centers. Oracle has
+[11:45] this hu huge uh data center expansion
+[11:48] underway and their guidance made Oracle
+[11:51] stock go up quite a bit. Oracle stock
+[11:53] symbol of course OCL we're not
+[11:55] recommending Oracle at this time but we
+[11:57] may I'd like to buy in a pullback if I
+[11:59] could but Bloom Energy bees a very hot
+[12:03] stock the other one we added was it's UI
+[12:05] is the symbol they speed up all the
+[12:07] fiber uh in the data centers so you know
+[12:10] internet's funny is when you're two gigs
+[12:12] or less you you can do that on copper
+[12:15] but when you get to five gigs or more
+[12:17] you you probably should have fiber and
+[12:19] um your building is fiber and so you you
+[12:22] get really fast internet, but as you
+[12:23] upgrade your speeds, you have to great
+[12:25] upgrade all the switches and everything.
+[12:27] So 10 gigs is pretty common in all the
+[12:29] data centers. So UI gets to upgrade all
+[12:32] the equipment.
+[12:33] >> Now it's time for this week's Wall
+[12:34] Street report card. We grade these
+[12:36] stocks based on our Navler stock grader,
+[12:39] and you can plug in your own tickers for
+[12:41] free using the link in the description.
+[12:43] But dad, upcoming this week, we have
+[12:45] Constellation Brands. Beer and wine
+[12:48] sales are slipping. Forecasts are down.
+[12:50] How do you see this shaping up?
+[12:52] >> Yeah, this is very unfortunate. Their
+[12:54] Constellation sales are forecast to
+[12:56] climb 15.2%.
+[12:58] They have some very, very popular
+[13:00] Mexican beer brands, but beer
+[13:01] consumption is down. Their earnings are
+[13:03] forecast to decline 21%.
+[13:06] Uh they make big margins on wine. You
+[13:08] know, they own Robert Mandavi, for
+[13:09] example, but um wine is going down. It's
+[13:13] it's demographics. I'll be very honest
+[13:16] with you. As proud as I am of my wine
+[13:19] seller in Reno, as you get older, you
+[13:21] drink less. So, I think that's your
+[13:23] wine, you know, be honest with you. But,
+[13:25] uh, I'd be surprised if they surprised
+[13:28] um because they they're just fighting
+[13:30] these huge headwinds where drinking is
+[13:33] becoming increasingly less common.
+[13:34] >> Now, let's talk about McCormick. What's
+[13:36] the outlook here?
+[13:38] >> McCormick sales are forecast to rise
+[13:40] 1.9%, earnings are forecasted to climb
+[13:42] 1.7%. They have steady alance estimates,
+[13:45] but they did surprise last quarter. I am
+[13:48] not a spice expert. Uh, but you're a
+[13:50] better cook and I think you would know
+[13:52] more about this.
+[13:53] >> Now, with Pepsi, we usually get positive
+[13:56] surprises, but how is this looking this
+[13:58] week?
+[13:59] >> Well, their sales are forecast to go up
+[14:01] to 2.3%, earnings are forecast to
+[14:04] decline 2.2. There's some minor analyst
+[14:06] trends, but they did surprise last
+[14:08] quarter. This is a huge multinational
+[14:10] and you're you're fighting weak
+[14:11] economies outside of America.
+[14:14] You got currency risk. Um
+[14:17] it's a very well-run company. Hopefully
+[14:19] they've got all their markets down. So
+[14:22] that's probably why they surprised, but
+[14:25] it's doesn't excite me at all.
+[14:27] >> And lastly, is Delta still the
+[14:29] overachiever?
+[14:30] >> Yeah, I'm I'm actually been flying Delta
+[14:32] a lot lately, especially when I go out
+[14:33] west. Their sales are forecast to rise
+[14:35] 1.7%.
+[14:37] Earnings are forecast to improve 2%. Uh
+[14:39] they've had positive announcement
+[14:40] revisions. They've surprised in the last
+[14:43] three quarters. I think the thing with
+[14:45] airlines is how good are your hubs?
+[14:47] Obviously, the Atlanta hub is huge.
+[14:49] Their Salt Lake hub is very wellrun. Uh
+[14:52] they have their Minneapolis hub as well.
+[14:55] The only glitch with Delta is their
+[14:57] planes collided on the ground in
+[15:00] Lagoria. So that was unfortunate. But uh
+[15:03] other than that little incident and
+[15:05] things are are fine with Delta.
+[15:07] >> Well, that's your quick market report
+[15:09] card for the week. We've already had a
+[15:11] very busy week with a shutdown, shifting
+[15:13] market leadership, defense stocks in
+[15:15] focus, and earnings on tap. That wraps
+[15:18] up the latest market highlights. Thank
+[15:20] you all so much for watching this
+[15:21] episode. Make sure to give this video a
+[15:23] like and subscribe if you haven't
+[15:25] already. If you'd like us to answer any
+[15:27] questions for next week, please leave
+[15:29] them in the comments below. But until
+[15:31] then, we will see you all next week for
+[15:32] a new video.
+[15:34] [Music]

@@ -7,9 +7,26 @@ Type: short
 Duration: 0:44 (44s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 18
+Transcript characters: 638
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] With health trends shifting and
+[00:01] consumers cutting back, is Pepsi losing
+[00:04] its fizz?
+[00:05] >> Well, I guess we'll have to see the
+[00:06] Super Bowl commercials to figure out if
+[00:08] Pepsi's got its mojo back. But in the
+[00:10] meantime, their sales are supposed to be
+[00:12] up 4.3%. Their earnings supposed to be
+[00:14] up 14.1. This is good. Now, this is a
+[00:17] big multinational. There are no analyst
+[00:20] estimate cuts and has a decent surprise
+[00:22] history. So, I have hope for it. But
+[00:26] again, this is this would be considered
+[00:27] a value stock. wouldn't be considered
+[00:30] something strong enough for me to buy.
+[00:31] But uh it is evidence of a of an
+[00:34] improving global economy because they're
+[00:36] also very big internationally.

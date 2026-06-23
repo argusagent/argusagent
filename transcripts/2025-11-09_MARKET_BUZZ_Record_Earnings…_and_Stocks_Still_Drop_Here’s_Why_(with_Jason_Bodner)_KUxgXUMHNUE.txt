@@ -7,9 +7,735 @@ Type: video
 Duration: 30:37 (1837s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 727
+Transcript characters: 25872
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Quarter 3 earning announcements remain
+[00:02] the strongest in four years, but Wall
+[00:04] Street is in a profit-taking mood. We
+[00:06] have ex specialist Jason Bodner to
+[00:09] explain mean reversion and other
+[00:10] algorithms impacting stocks. Welcome
+[00:13] back to Nagar market buzz.
+[00:16] [music]
+[00:21] >> [music]
+[00:27] >> So Jason, isn't the trading algorithm a
+[00:31] little bit like a dog chasing its tail?
+[00:34] >> You know, I I think that's a great
+[00:36] analogy. Right now, the machines are
+[00:39] more or less in control. Really, what
+[00:42] you notice, what I notice going on right
+[00:45] now is a lot of outsized reactions to
+[00:48] earnings, good or bad. you know, these
+[00:50] moves are are multiples of what we would
+[00:53] normally expect. And I think a lot has
+[00:55] to do with buying pressure sort of
+[00:58] easing up. You know, with all the
+[01:00] headlines and and the market feeling
+[01:02] tired and things getting heavy, all of a
+[01:06] sudden, people were pulling back. You
+[01:08] know, they're not as eager to buy. And
+[01:10] as soon as these machines and algorithms
+[01:12] sense that and they test the order book,
+[01:15] they're like, "Woohoo, it's time to
+[01:17] like, you know, spike volatility, move
+[01:20] things around because they move on
+[01:22] spreads." So, right now it is. It's kind
+[01:25] of like uh, you know, the tail that's
+[01:27] wagging the dog. The machines have
+[01:29] control and we're sort of at their mercy
+[01:31] until we we get some positive headlines
+[01:34] to get us back on track for a seasonally
+[01:36] strong period of year. Dad, who is
+[01:38] Michael Bur and why did he disclose that
+[01:40] his firm owns put options on Nvidia and
+[01:44] Palunteer Technologies that are
+[01:46] upsetting the stock market?
+[01:48] >> Well, Michael Bur uh has to file um what
+[01:52] his firm owns. We all do. Uh it's called
+[01:55] a 13F filing. So, he didn't do this to
+[01:58] upset the market. He just said, "Hey, I
+[02:01] have put options on Nvidia and Palanteer
+[02:03] Technologies." And then based on that
+[02:05] public information, the media took that
+[02:08] and said, "Oh my goodness, something
+[02:11] must be wrong with Nvidia or Palunteer."
+[02:12] And that's not the case at all. Nvidia
+[02:15] has obviously been on a run. It's a
+[02:16] monopoly
+[02:18] technologies uh latest quarterly
+[02:20] earnings were perfect. They could have
+[02:22] been better. They got it higher. You're
+[02:24] showing a chart from Bpoke that just
+[02:26] shows how strong Palanteer's business
+[02:28] is. But Michael Bur became famous for
+[02:31] shorting um uh well for profiting from
+[02:35] the housing crisis in 2008. And uh he
+[02:38] was featured in the in the book and the
+[02:40] movie The Big Short. I think Kristen
+[02:42] Bell played his character. So everybody
+[02:47] thinks that because he figured out the
+[02:49] housing crisis, he he's now an expert in
+[02:52] AI and uh that of course is not true at
+[02:55] all. But the markets react. They don't
+[02:57] think. The market is a man of crowd and
+[03:00] crowds are not smart. Okay? And
+[03:02] algorithms are not smart either. Okay?
+[03:05] So we just have to go through this. And
+[03:08] I always like stocks with strong
+[03:10] fundamentals because they always come
+[03:11] back. Good stocks bounce like fresh
+[03:13] tennis balls and bad stocks bounce like
+[03:16] rocks. And Nvidia and Palunteer are like
+[03:19] supercharged tennis balls as far as I'm
+[03:21] concerned. And Jason, is the options
+[03:24] market controlling the stock market? And
+[03:26] can you talk about your big money index?
+[03:30] >> Yeah. Uh, absolutely. I I wouldn't say
+[03:33] the options market is controlling the
+[03:36] stock market, but it's definitely deeply
+[03:39] impacting it, especially when we get
+[03:41] close to expirations. And you have
+[03:43] different types of expirations. There
+[03:45] are weekly expirations every Friday for
+[03:47] the weekly options. zero tde that means
+[03:50] zero days till expiry one day options
+[03:53] there are all these different expireies
+[03:54] but when you get regular expireies
+[03:57] especially quarterly expireies there are
+[03:59] all sorts of shenanigans that happen
+[04:01] people trying to pin strikes it's called
+[04:04] you know trying to manipulate the stock
+[04:06] price so it's in the money or out of the
+[04:08] money so really at those pivotal moments
+[04:11] the answer is yes but it's not all the
+[04:13] time but what it does do is it creates a
+[04:16] lot of volume and extra trading And
+[04:18] typically that equals a little bit of
+[04:21] volatility. Now to your question about
+[04:24] the big money index, what does it tell
+[04:26] us about institutional buying pressure?
+[04:29] Well, right now the big money index is
+[04:31] at 55.5
+[04:33] and that has been falling. That's this
+[04:35] amber line over here. So we peaked
+[04:38] sometime in September.
+[04:40] Now, the only thing that has me a little
+[04:43] bit concerned is that this big money
+[04:45] index is drifting lower for all of
+[04:48] September and October while the big
+[04:51] index indexes, you know, S&P, NASDAQ,
+[04:54] Russell, all of them are moving higher.
+[04:56] That's a divergence and that's something
+[04:58] we want to pay attention to. And we
+[05:01] notice it right now in the stocks as
+[05:03] well as we're seeing like I mentioned
+[05:04] outsiz moved but there are a lot of
+[05:06] outflows in the smaller stocks. The big
+[05:09] stocks mag 7 the mega caps are still
+[05:13] propping up the market but there's a lot
+[05:15] of volatility under the surface and we
+[05:18] can see that over here by looking at the
+[05:21] actual flows and you can see over time
+[05:25] our inflows kind of getting a little
+[05:27] weaker. outflows are picking up and um
+[05:31] we're seeing risk off trades in all
+[05:33] sorts of things like ETFs like Bitcoin
+[05:36] and Ethereum ETFs. But one really
+[05:40] interesting thing that I'd like to show
+[05:42] you, this is what we call at Money Flows
+[05:46] ETVs, elevated trading volumes. So,
+[05:49] these are all the unusually large
+[05:51] trades, whether money's in, out, or it's
+[05:55] just trading at the same price it was
+[05:57] before. Look at this over here. We're
+[06:00] having uh I believe it's
+[06:03] six consecutive days of higher than
+[06:07] average flows. And typically that means
+[06:13] volatility. That means there is weakness
+[06:17] under the surface which is what we're
+[06:19] witnessing now. You know we have some
+[06:20] companies reporting great earnings
+[06:23] missing on guidance like Dolingo by $2
+[06:25] million and it sold off 30%. Really wild
+[06:29] moves. So this equals volatility. But
+[06:32] the good news when this returns back to
+[06:35] normal typically that means a pop in the
+[06:38] stock stock market historically. So,
+[06:41] it's kind of like we got to get through
+[06:43] this uh you know uh turbulent period
+[06:47] here uh to get back to our seasonally
+[06:50] strong expected November.
+[06:52] >> So, we're all noticing how the federal
+[06:54] government shutdown is starting to
+[06:56] impact frankly everything. But how is it
+[06:59] impacting the stock market?
+[07:00] >> Well, it is impacting things now,
+[07:02] especially because the airlines just
+[07:04] lost 10% of their flights at 40 airports
+[07:07] and the air traffic controllers aren't
+[07:09] showing up. I just sold my last airline,
+[07:11] SKWY, Sky West. They they're the
+[07:14] regional planes serving the ski resorts
+[07:16] and
+[07:18] towns. They may not be that disrupted,
+[07:20] but the bigger airlines are going to be
+[07:21] disrupted. And uh I obviously fly a lot,
+[07:25] so it's going to be interesting. I'm I'm
+[07:27] sure I'll just get stuck at airport
+[07:29] hubs. Well, I think um there's obviously
+[07:32] the negative aspect that the shutdown is
+[07:35] starting to really trickle down to
+[07:37] affect not just government workers but
+[07:40] everyday people. There's a positive and
+[07:42] a negative. The negative is obviously
+[07:44] the impact that it is having on the
+[07:46] stock market. Stock market doesn't like
+[07:48] uncertainty which is why we have less
+[07:50] buying pressure which is why we have
+[07:52] more volatility now all these outsized
+[07:54] moves. The positive side of course is
+[07:57] this is inching closer and closer to a
+[08:01] resolution that you know the the powers
+[08:04] that be that are digging their heels in
+[08:06] definitely don't want the entire country
+[08:08] to shut down all the FAA to to ground
+[08:11] all the planes transportation trains.
+[08:14] It's going to have a major colossal
+[08:16] impact. I think, you know, the game of
+[08:19] chicken is going on a little too long
+[08:22] and when things like this start to
+[08:23] happen, I think we're inching closer to
+[08:25] a resolution. And, you know, that's me
+[08:27] just hoping, but logically that seems to
+[08:30] be where we're going to go.
+[08:31] >> Now, let's talk about some economic
+[08:32] news. The ISM manufacturing index has
+[08:35] been shrinking for eight consecutive
+[08:36] months.
+[08:37] >> Yeah, it's a bad sign. It's below 50 and
+[08:40] uh you'd think it would pick up because
+[08:42] we have 4% GDP growth in the third
+[08:44] quarter according to Atlantic Fed.
+[08:46] Most of the growth is due to the data
+[08:48] center expansion. So you think that
+[08:50] would filter in some of the
+[08:52] manufacturing sector, but apparently
+[08:54] it's not. So uh we still have to fix
+[08:56] this. There's going to be a lot of
+[08:57] onshoring automotive pharma industries.
+[09:02] Obviously we're on shoring with
+[09:03] semiconductors with the the fact that
+[09:06] Nvidia can make its black chip now at
+[09:08] the TSM plant in Arizona. But it's it's
+[09:11] discouraging and uh it's just a sign
+[09:14] another sign why the Fed has to cut. A
+[09:16] lot of manufacturing is tied to housing.
+[09:18] You know, there's a lot of manufacturing
+[09:20] bits in a house. So, if we fix the
+[09:22] housing market, we fix manufacturing.
+[09:24] >> Yeah. I think also uh there's the tariff
+[09:27] effect in there as well. A lot of these
+[09:30] manufacturers are manufacturing on thin
+[09:32] margins. If all of a sudden they have to
+[09:34] eat things, there's only so much cost
+[09:37] increase they can do. The the flip side,
+[09:40] the good news is earnings, as Louie
+[09:42] alluded to, are the strongest we've seen
+[09:45] in a long time. I think the latest
+[09:49] statistic as of Halloween, 64% of the
+[09:52] S&P reported 83% beat earnings, 79% beat
+[09:57] sales. So earnings are working, beating
+[09:59] expectations. I think the market's a
+[10:01] little jittery. How long can that go on?
+[10:03] And things like ISM are weighing on
+[10:05] people's minds to shut down. But I think
+[10:08] these are temporary headwinds that we're
+[10:10] going to have to overcome.
+[10:12] >> But now it's interesting that the ISM
+[10:14] service index surged and is at an
+[10:16] all-time highest level since February.
+[10:19] >> That was very welcome because the month
+[10:21] before it was at 50, which is like
+[10:23] treading water. And uh so that
+[10:26] resurgence is good news especially new
+[10:28] orders, strongest in over a year. A lot
+[10:30] of the components were good. More
+[10:32] industries are growing now. Oh, an
+[10:35] outstanding report and evidence that GDP
+[10:38] growth will be fine. So, it's still
+[10:41] mixed news out there economically, but
+[10:43] that's the bright spot.
+[10:44] >> Eli Lily surged in the wake of better
+[10:47] thanex expected results. But how will
+[10:49] its GLP1 agreement with the Trump
+[10:51] administration impact its business?
+[10:54] >> Uh, it should help because uh the Eli
+[10:57] Liy is leading the onshoring of drugs.
+[10:59] Uh, and Trump is getting along great
+[11:02] with the head of Eli Liy. Um, obviously
+[11:05] the drug business is a volume business.
+[11:07] So even though they charge an arm and a
+[11:09] leg for GLP1s, uh, they're now going to
+[11:11] be charging less. Uh, GLP1s are very
+[11:14] healthy, uh, according to Trump. He says
+[11:17] there's no side effects. He asked Howard
+[11:20] Lutnik, the commerce secretary, was he
+[11:21] on them? And Howard said no. But, um, I
+[11:24] think Trump must be on them because, uh,
+[11:27] he was really raving about them.
+[11:30] So that we're going to have the same
+[11:31] prices as the rest of the world. And I I
+[11:34] think if the volume really goes up, it
+[11:36] it's going to help Lily. I don't see any
+[11:38] analyst guts in the Lily. And of course,
+[11:41] when you're a big company, it does help
+[11:42] to suck up the administration. And
+[11:44] that's exactly what Eli Liy is doing
+[11:47] now.
+[11:48] >> Yeah. And I think if we look at Eli Lily
+[11:51] strictly from a technical point of view,
+[11:54] um looking over here, first of all, it
+[11:57] scores very well. Uh great sales and
+[12:00] earnings growth, but look at this. We're
+[12:02] getting a lot of inflows right at the
+[12:05] high. And by the way, this is a
+[12:07] multi-year high. I mean, we have a
+[12:10] little bit of room to eclipse the prior
+[12:13] high, but this stock is right up against
+[12:16] highs. It's got that tailwind. It's got
+[12:18] the GLP1 story. It's got the Trump uh
+[12:21] bump behind it.
+[12:24] You know, I I think there's way more
+[12:26] upside for this stock than downside,
+[12:28] right? But why do companies go up when
+[12:31] they announce these layoffs?
+[12:33] >> Because their operating margins are
+[12:34] improving. They're becoming more
+[12:36] efficient, more productive. And of
+[12:39] course, that's what the AI job
+[12:41] apocalypse is all about. It's about
+[12:43] making companies more efficient and
+[12:45] eliminating jobs. Amazon's the big
+[12:47] leader, but Amazon's not the only one.
+[12:50] You know, Nova Nordisk, which was at the
+[12:52] White House with Eli Liy uh for the GLP1
+[12:56] announcement, just laid off 9,000
+[12:59] you know, Target laid off 1,800,
+[13:03] GM laid off over 3,400, and uh, of
+[13:06] course, UPS laid over laid off over
+[13:08] 48,000.
+[13:10] So, you know, the job market is is not
+[13:13] perfect. ADP reported uh 42,000 private
+[13:17] uh sector jobs were created in October.
+[13:20] Uh, so that's good because before that,
+[13:22] we had job losses through the last four
+[13:24] months. Yeah, we're the Fed's going to
+[13:26] have to keep cutting to to fix the job
+[13:27] market. But yeah, it's we got to get
+[13:30] used to the the effect of AI and any
+[13:33] productivity increase. So that's u
+[13:36] that's the future. You know, it's really
+[13:39] interesting because you have the leaders
+[13:42] of AI, arguably the leader in Jensen
+[13:45] Wang, the CEO of Nvidia, going out and
+[13:48] telling the world,
+[13:50] we're going to need more laborers and,
+[13:53] you know, skilled workers who work with
+[13:55] their hands to build all these big
+[13:58] beautiful factories to handle all the AI
+[14:01] powered robots that are going to do the
+[14:03] manufacturing. So, there is a little uh
+[14:05] silver lining in there.
+[14:08] But you know it does point to potential
+[14:11] crowding in the overeducation of one
+[14:14] sector whereas you know skilled labor is
+[14:17] probably going to be in much higher
+[14:18] demand in the pretty near future. So all
+[14:21] these layoffs might hurt near term but I
+[14:25] think the goal is to have you know
+[14:28] vocational training and and move on to
+[14:31] to more laborbased work.
+[14:34] >> Yeah. you know, Palanteer uh announced
+[14:36] that they're hiring 500 kids out of high
+[14:39] school. They're very bright kids and uh
+[14:42] they're going to see if they can train
+[14:44] them better than colleges can. And then
+[14:46] we also recommend stock called UTI,
+[14:48] Universal Technical Institute. They
+[14:51] certify all the auto mechanics and
+[14:52] everything because, you know, all the
+[14:53] cars are computers now. So, you you have
+[14:56] to be able to do everything
+[14:57] electronically. So, I'm sure UTI can
+[15:01] expand to have a robotics division and
+[15:03] things like that.
+[15:04] >> Now, the Fed President Austin Goulsby
+[15:07] does not want to cut key interest rates
+[15:09] without economic data. But is he right?
+[15:12] >> Well, he is just complaining that he'd
+[15:14] like the government to open so he could
+[15:16] get retail sales, you know, the CPI, the
+[15:20] VPI, and all the data that's not coming
+[15:22] out now. But, uh, I think he has enough
+[15:24] evidence to keep cutting. But, you know,
+[15:26] they they like to cross their eyes and
+[15:28] dot their tees and so he would like to
+[15:31] have that economic down. You know, he's
+[15:33] a former government official and I'm
+[15:35] sure he feels bad for a lot of his peers
+[15:38] are not working right now. You know, it
+[15:40] was an interesting comment he had, but
+[15:42] uh they got to keep cutting. I don't
+[15:44] care what they've said. And and the Fed
+[15:46] basically said that in their statement
+[15:48] like, "Well, we we're not sure what's
+[15:50] going on, so we probably shouldn't do
+[15:51] anything." But uh you can see from all
+[15:54] the private surveys what's going on.
+[15:56] >> Yeah. And you know for every negative
+[15:58] voice there's a positive one. I think uh
+[16:00] three weeks ago it was uh Stephen Moran
+[16:04] wanted to cut 50 basis points when the
+[16:06] general consensus was 25. So even though
+[16:09] the vote was kind of split and the news
+[16:11] was kind of mixed, you know, you're
+[16:14] still going to have your uh Debbie
+[16:16] Downers in in the Fed. the the big key
+[16:19] to stimulate the economy is not the rich
+[16:21] people. It's the bottom 50% of the
+[16:25] country that has a debt problem. And the
+[16:28] only way you're going to fix that is
+[16:30] that'll help the automotive industry.
+[16:31] It'll help the housing industry. They
+[16:33] just announced that the first-time home
+[16:35] buyers are now 40 years old. That's
+[16:37] amazing. And it's worse in New York and
+[16:39] California and other states like that.
+[16:41] So, uh, you know, there's a problem out
+[16:44] there and can all be fixed with lower
+[16:46] interest rates. Now, let's switch over
+[16:47] to some earning announcements for next
+[16:49] week. Vital Farms beat, but what does
+[16:52] that mean for Tyson Foods?
+[16:53] >> Well, as you know, Vital Farms is the
+[16:56] organic chicken company, and uh they had
+[16:59] a 25% surprise, and I like to say
+[17:02] they're the happy chickens running
+[17:03] around having a wonderful life.
+[17:06] The Tyson chickens aren't quite like
+[17:08] that. They are in hen houses up, and if
+[17:11] you open the door, they wouldn't know
+[17:13] what to do because they don't want to
+[17:14] leave their feeding tray. But, you know,
+[17:17] chicken prices are high. Might affect
+[17:19] their bottom line. They also in the beef
+[17:21] business. They bought Iowa beef
+[17:23] processor some time ago. So, hopefully
+[17:26] they're profiting from some food
+[17:27] inflation. But, uh, the bottom line with
+[17:30] Tyson, it has beaten the last four
+[17:32] quarters. Their sales are supposed to be
+[17:34] at 3.7%.
+[17:36] Uh, earnings are supposed to decline
+[17:38] 9.3.
+[17:40] uh analysts have true investments a bit,
+[17:41] but this stock has a very good earning
+[17:43] surprise history. So, it'll be
+[17:46] interesting. And also, they probably
+[17:48] have some labor issues because
+[17:50] historically the the people they've
+[17:52] hired might not have been legal. Not
+[17:54] everywhere, but they have a higher
+[17:55] proportion of people that might not have
+[17:57] had proper green cards. So, it'll be
+[18:00] interesting if they have any statement
+[18:01] on that, too. Well, Tyson is kind of a a
+[18:04] middle-of the road stock compared to um
+[18:08] Vital Farms, you know, on on my scale.
+[18:11] It scores low low technically and at
+[18:14] best very mediocre fundamentally. The
+[18:17] stock's in a downtrend. Uh a lot of
+[18:20] negativity is priced in. So, to your
+[18:22] point, if they come out in surprise, we
+[18:25] could get a pop, but I think it's going
+[18:27] to take a lot to get this stock moving
+[18:29] into an uptrend. You got sort of
+[18:32] stagnant sales growth on one and
+[18:34] three-year basis, negative earnings
+[18:36] growth one and three-year basis. It ees
+[18:39] out a profit margin, obviously a very
+[18:41] high volume business, but there's just
+[18:44] not much to get excited about. And I
+[18:47] think uh it's unrealistic to expect a
+[18:50] major blowout earnings is going to
+[18:53] reverse the trend of this stock, but
+[18:55] there is a lot of negativity priced in.
+[18:57] Moving on to Cisco, are they benefiting
+[19:00] from the data center boom?
+[19:02] >> Yeah, in fact, I noticed they were in a
+[19:05] data center ETF the other day. Their
+[19:07] sales are supposed to be up uh about
+[19:10] 6.8%.
+[19:11] Their earnings are supposed to rise uh
+[19:14] about 7.9. Uh decent analyst comments,
+[19:18] no cuts, uh good surprise history.
+[19:20] Cisco's good. It's just boring. you
+[19:22] know, they're a networking company and
+[19:24] they make great equipment and but
+[19:26] they're not benefiting from the people
+[19:28] actually constructing it. So, but
+[19:31] they're probably selling more bits for
+[19:32] the data centers.
+[19:33] >> Yeah, I think uh they're kind of riding
+[19:36] this wave um this AI wave first of all
+[19:39] scores pretty well. Strong technically,
+[19:43] a little better than middle of the road
+[19:44] fundamentally. We got a lot of these
+[19:46] inflow signals and that's kind of that
+[19:48] riding that AI wave. Um, it hasn't been
+[19:52] featured on my top. It's not a creme de
+[19:55] creme stock. And that's mainly because
+[19:57] of mediocre sales and earnings growth.
+[19:59] Has a nice profit margin, but you know,
+[20:02] to Louis's point, they're they're not
+[20:04] leading the AI revolution. They're
+[20:06] probably really sort of riding the
+[20:08] coattails.
+[20:09] >> Now, what about Disney? They have
+[20:10] surprised, but can they keep it up?
+[20:12] >> There's a lot of changes underway.
+[20:14] Disney is now no longer available on
+[20:17] YouTube TV. So, I guess they're trying
+[20:20] to extract some money uh from Google.
+[20:22] Another change is they have these shows
+[20:25] that talk about sports betting and uh
+[20:27] they used to use Pen Entertainment uh
+[20:30] for that. Now, they've just switched to
+[20:32] DraftKings. So, and that is probably a
+[20:35] growth business for them. So, I'm very
+[20:37] confused by Disney. Obviously, it would
+[20:39] help to have big blowout movies and
+[20:40] things as well versus, you know, just
+[20:42] another version of the same movie we saw
+[20:44] a while ago. Their um sales are supposed
+[20:47] to be up like.9%. Their earnings are
+[20:50] supposed to be down 9.8.
+[20:53] So yeah, Disney doesn't excite me, but
+[20:56] uh they are, as you mentioned, they have
+[20:59] surprised the past four quarters. So
+[21:01] we'll probably get another surprise.
+[21:03] >> Yeah, I think well put Disney is not
+[21:05] exciting, right? Uh it's sort of the the
+[21:08] content equivalent of a cash cow. They
+[21:11] just keep churning out the same stuff.
+[21:14] Um, I think, you know, a lot of people
+[21:16] are getting frustrated with it. That
+[21:18] said, it has very solid fundamentals,
+[21:21] but you know, talk about boring. It's
+[21:23] boring in every way. It's very sideways.
+[21:26] We've seen some outflows, we've seen
+[21:28] some inflows. It's not a super exciting
+[21:31] stock. You know, you got mediocre sales
+[21:33] and earnings growth.
+[21:35] Very nice three-year earnings growth,
+[21:37] but that's the rear view mirror. a
+[21:38] profit margin of 5.5% for a big content
+[21:42] studio actually seems kind of low for me
+[21:45] and they have a mounds of debt.
+[21:49] This is not going to go back into growth
+[21:51] mode anytime soon from my perspective.
+[21:53] >> And what about Sony? Will they post good
+[21:55] results?
+[21:56] >> Yeah, they're like Disney. They have
+[21:58] surprised quite a bit last four
+[21:59] quarters. Their sales are supposed to be
+[22:01] up uh 4.8.
+[22:04] Their earnings are supposed to be flat
+[22:06] as a pancake, but uh they do have
+[22:08] positive balance revisions in the past
+[22:11] um uh three months and their earning
+[22:14] surprises are historically big. Last
+[22:16] quarter they had a 25% surprise and
+[22:19] believe it or not that was their
+[22:20] smallest surprise in the past few
+[22:22] quarters. So, uh Sony's always
+[22:25] interesting. They're obviously a movie
+[22:27] studio plus consumer electronics.
+[22:31] So, um, you know, consumers are a little
+[22:34] fickle, but, uh, I don't think the
+[22:36] tariffs are going to hurt Sony at all.
+[22:38] >> Yeah. Uh, Sony, I mean, to me, it's it's
+[22:41] it's it's another boring one. Uh, you
+[22:45] know, they're not in major growth mode.
+[22:47] They're a massive company. They may have
+[22:48] a great earnings surprise history, which
+[22:50] would be great, but I mean, we're
+[22:53] looking at a gently sloping uptrend,
+[22:55] which is better than Disney, I guess.
+[22:59] But again, kind of like it's not hitting
+[23:01] on the cylinders of of anything
+[23:03] resembling growth. And if they do have a
+[23:06] positive earning surprise, that would be
+[23:07] great, but it kind of be, you know, a a
+[23:12] one data point when you need a lot more
+[23:14] to keep that trend growing. Um,
+[23:19] I don't know. It I I'm kind of like uh
+[23:23] Disney. It's It's not very exciting to
+[23:25] me. And lastly, will applied materials
+[23:28] benefit from a strong semiconductor
+[23:30] sector?
+[23:31] >> They should. Uh they've had nice
+[23:34] surprises the last four quarters, but
+[23:37] unfortunately this upcoming quarter,
+[23:39] their semiconductor equipment. Uh their
+[23:42] sales are supposed to drop 5.2. Their
+[23:45] earnings supposed to decline 9.3
+[23:47] and the owner estimates uh in the last 3
+[23:50] months. So even though they're in a good
+[23:53] sector, uh it doesn't look so good. I
+[23:56] would expect a surprise from them. But
+[23:57] we had this previous week. We had
+[23:59] another semiconductor that's not
+[24:00] participating. So uh you just can't buy
+[24:03] the sectors now. It's all stock picking.
+[24:05] >> You know, you mentioned a strong
+[24:08] semiconductor sector. And if we go over
+[24:12] in here and we look at ETF flows, you're
+[24:16] going to see the top ranked ETFs
+[24:20] are all semiconductors.
+[24:22] Um, and if we pick the biggest one and
+[24:25] we just have a look at it, I mean, look
+[24:27] at that parabolic chart. So, yeah, the
+[24:30] whole semiconductor section has been on
+[24:33] fire. And if we go in here and we look
+[24:36] at the holdings, you know, you're going
+[24:38] to have AAT is right there. AAT is
+[24:42] highly ranked. Um, it could be better
+[24:45] fundamentally, but look at this. You get
+[24:48] a nice sweeping uptrend, but it's not as
+[24:50] steep as the semiconductors ETF. You got
+[24:53] sort of mixed sales and earnings growth.
+[24:55] It's all positive, but it's not double
+[24:57] digits, which is what I like to see.
+[24:58] They do have a really nice profit margin
+[25:00] over here. a manageable debt to equity
+[25:03] ratio, but this thing is trading at
+[25:06] highs and uh any sort of disappointment,
+[25:10] I think we're going to see a slip in the
+[25:12] stock because there's a lot of
+[25:14] positivity built in and they are riding
+[25:16] that semiconductor weight
+[25:18] >> in that ETF. Uh Jason, do you see how
+[25:20] much Nvidia is as a weight?
+[25:23] >> Yeah, let's uh let's go back there. Um,
+[25:25] if we go back to uh ETF ticker lookup,
+[25:29] let's look up SMH. They used to call it
+[25:33] Smash. Here we go. Vidia
+[25:37] is 19% of the ETF.
+[25:40] >> Yeah.
+[25:40] >> I mean, that's a great point, Lou. I
+[25:43] mean, you're talking a fifth of the
+[25:45] entire ETF is of this run is Nvidia.
+[25:49] >> So, building an ETF is kind of like drug
+[25:51] dealing. You can sell pure cocaine or
+[25:55] you can cut it with something. So, I
+[25:58] would like everybody to have a pure
+[26:00] experience and just load up on Nvidia.
+[26:02] >> I'm with you. I have to disclose that I
+[26:05] own it, but I'm with you.
+[26:06] >> Oh, it's my largest holding. I own a ton
+[26:08] of it. Yeah.
+[26:09] >> Now, let's switch over to some
+[26:10] subscriber questions. What are your
+[26:12] thoughts are on Power Solutions?
+[26:15] >> Well, this is a coveted fundamental A
+[26:16] stock. I have very few fundamental A's
+[26:19] that you get a you're in the top 20% of
+[26:21] sales, margin expansion, earning
+[26:23] stability, earnings momentum, cash flow,
+[26:25] return equity. Power Solutions builds um
+[26:27] well, it's involved in all the data
+[26:29] centers is involved in the oil patch,
+[26:31] you know, uh getting all the energy out
+[26:33] there plumbed. Their sales are supposed
+[26:35] to be up 31.8%.
+[26:37] Their uh earnings supposed to be up uh
+[26:40] 30.7%.
+[26:42] Uh we have big upward analyst revisions.
+[26:45] Uh just 7 days ago analysts were
+[26:48] estimating 64 cents. Now they're
+[26:50] estimating 98. So that's a big one.
+[26:53] That's a very good sign. And their
+[26:55] earning surprises are ridiculous. Last
+[26:58] uh uh quarter it was 157.5.
+[27:03] They have a huge earning surprise
+[27:04] history. So this is one of my top
+[27:07] stocks. And this better go to the moon
+[27:09] and beyond because I don't have better
+[27:12] stocks than this
+[27:12] >> except Nvidia.
+[27:14] >> This is actually stronger than the
+[27:16] >> Wow, that's amazing.
+[27:18] >> Prizes not on sales and earnings, okay,
+[27:21] but on surprises, analyst revisions,
+[27:24] institutional accumulation.
+[27:26] Uh yeah, it's um this is this is why the
+[27:30] fundamental a stocks do the best.
+[27:32] >> Wow.
+[27:33] >> And Jason, can you share your opinion on
+[27:35] Nokia?
+[27:35] >> Oh, yeah. Um, I actually used to trade
+[27:39] Nokia when I was living in London
+[27:41] working on the institutional derivatives
+[27:43] desk for Caner Fitzgerald and that was
+[27:46] back when if you had a mobile phone you
+[27:49] had a Nokia. That was before Apple. Um,
+[27:53] it hasn't been that way for a long time.
+[27:55] What we do see is this parabolic spike
+[27:58] here. There's a lot of optimism priced
+[28:01] into that. uh this stock is too thin in
+[28:04] the US to see signals. Um but you know,
+[28:08] fundamentally speaking, it's got
+[28:11] negative sales growth. Uh earnings
+[28:14] growth is pretty good. It does make a
+[28:17] nice respectable profit margin for
+[28:19] equipment makers. Um but uh you know
+[28:24] they're they're
+[28:28] still significantly trailing the mobile
+[28:31] handset game obviously certainly in the
+[28:33] United States. I don't know who you know
+[28:36] who has a Nokia phone over here. Uh
+[28:39] they're the Finnish Nokia maker. They're
+[28:41] more popular in Europe. uh they're not
+[28:44] they hadn't historically been in the
+[28:46] smartphone game and obviously Apple's
+[28:48] still uh quite ahead, but um unless they
+[28:53] get a really significant surprise, I
+[28:55] would expect a little bit of mean
+[28:57] reversion for the stock to trade down
+[28:59] closer to six.
+[29:01] >> And when they did spike, it was because
+[29:03] uh Nvidia made a deal with them. And so
+[29:05] Nvidia kind of boosted them. Now they're
+[29:08] back into filling a bit. I think
+[29:09] >> Nvidia is just boosting everyone
+[29:12] everywhere.
+[29:12] >> Yeah, they're making alliances with
+[29:14] everyone because they don't want
+[29:15] competition.
+[29:16] >> I find that very interesting.
+[29:18] >> Great. Well, thank you so much to you
+[29:20] both for answering all my questions.
+[29:21] Thank you so much, Jason, for joining
+[29:22] us. Thank you to you all for watching
+[29:25] and supporting this channel. If you have
+[29:26] any questions, please leave them in the
+[29:28] comments below. But until then, we will
+[29:29] see you all next week for a new video.
+[29:52] >> [music]
+[30:00] >> Hey,
+[30:12] hey, hey.
+[30:32] >> [music]

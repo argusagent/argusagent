@@ -7,9 +7,422 @@ Type: video
 Duration: 14:35 (875s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 414
+Transcript characters: 14641
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The market exploded off of Jerome
+[00:02] Powell's Jackson Hole comments, but will
+[00:04] the momentum last? Welcome back to
+[00:06] Navalier Market Buzz.
+[00:08] [Applause]
+[00:09] [Music]
+[00:20] >> So, Dad, let's start out with what is
+[00:22] the hot topic given Jackson Hole?
+[00:24] >> Uh, well, Chairman Pal gave a very
+[00:26] doubbish um speech. This is his last
+[00:29] speech as Fed chairman and he basically
+[00:31] acknowledged that there's a problem in
+[00:33] the labor market and that now all of a
+[00:36] sudden the Fed's unemployment mandate is
+[00:38] overpowering its inflation mandate. Why
+[00:40] this was such a big surprise is the
+[00:43] minutes of the last uh uh FMC release 3
+[00:47] weeks after had no discussion about the
+[00:49] weakness in the labor market despite the
+[00:52] fact that uh Governor Christopher Waller
+[00:54] went on Bloomberg and explained this and
+[00:56] then subsequently the labor department
+[00:58] had the big downward revision. So we've
+[01:00] had essentially very little if any job
+[01:02] growth in the last three months. But
+[01:04] there were other things in in the pal
+[01:06] speech that were considered very
+[01:08] doubbish. One was he acknowledged that
+[01:10] the economic growth is slowing, that
+[01:12] consumers are, you know, tightening
+[01:14] their belts a bit. But the biggest one
+[01:16] is he said we're 100 basis points or
+[01:18] full 1% above the Fed's neutral rate,
+[01:21] implying that the Fed might cut a full
+[01:24] 1% in the upcoming months going into
+[01:26] next year. So, no one expected that and
+[01:29] that's why we had the big reversal on
+[01:31] Friday. Now, the other reason we had a
+[01:33] big reversal is we had mean reversion
+[01:35] algorithms hitting a lot of the winning
+[01:37] stocks earlier in the week. And so today
+[01:39] is what we call a short squeeze and
+[01:41] that's where um shorts run for cover.
+[01:44] So, you know, when the mean reversion
+[01:46] was happening a few days ago, I was
+[01:48] telling, you know, clients in the
+[01:50] podcast and things to to hang tight that
+[01:52] good stocks do bounce and today is
+[01:54] evidence that good stocks bounce like
+[01:57] fresh tennis balls, bad stocks bounce
+[01:58] like rocks. So this is a very big deal
+[02:01] today and treasury yields have gone down
+[02:03] dramatically. So it couldn't have been
+[02:05] been better and it's so good that I
+[02:07] don't think President Trump will give
+[02:09] drone pal any grief now.
+[02:10] >> Dad, you've said that these swings
+[02:12] aren't random. What's driving them as
+[02:14] earning season winds down?
+[02:16] >> Well, I like to say there's four months
+[02:18] of efficient markets and eight months of
+[02:20] mean reversion. So the Citadels of the
+[02:22] worlds, the virtue financials, the
+[02:24] algorithmic traders, the James Streets,
+[02:26] these are the people that make markets
+[02:28] and stocks. uh they are notorious for
+[02:31] running mean reversion programs. Uh and
+[02:33] that's just where you take the stocks
+[02:34] that have been winning, you hit them,
+[02:36] you the money rotates to to the weaker
+[02:39] stocks and um this is this is just how
+[02:41] Wall Street works. This is how it tries
+[02:43] to create liquidity. And whether it's
+[02:45] right or wrong, it's just the reality we
+[02:48] live in. Um you know, Avon Marchf uh who
+[02:51] we've had on this guest before is kind
+[02:54] of an expert in this. He calls it Skynet
+[02:56] as it you know from the Terminator movie
+[02:58] and uh we get a lot of his comments on
+[03:01] this as as they implement the programs
+[03:03] during the day. But um uh the bottom
+[03:06] line is it's the reality we have to live
+[03:08] with and this is why I tend not to trade
+[03:10] mainly because I'm holding stocks for
+[03:12] long-term capital gains.
+[03:13] >> But earnings have been strong. You know
+[03:15] Ed Yardini who we had on the podcast
+[03:17] noted that the S&P 500 profits are up
+[03:20] 10.6% with the biggest surprises in
+[03:23] nearly 40 years. So, why the sell-off?
+[03:26] >> Yeah, Ed uh just to clarify said the
+[03:28] average earning surprise was 8.8%.
+[03:31] Uh that's the highest he's ever recorded
+[03:34] uh in the 39 years he's been monitoring
+[03:36] uh earnings on the S&P. But no, you just
+[03:39] have a sell off because it's summertime.
+[03:40] It's a seasonally weak period of time.
+[03:42] Uh you should notice that your neighbors
+[03:44] are probably gone. New York likes to go
+[03:46] on vacation in August. So does Europe.
+[03:48] And uh we like to say the B team is left
+[03:51] in charge. And um uh it's just a
+[03:54] seasonal weak period. We might rally
+[03:56] going into Labor Day weekend next week
+[03:58] cuz it's a happy time of year, but then
+[04:00] after Labor Day, we'll probably
+[04:01] consolidate a bit. The seasonal weakness
+[04:03] tends to persist through September 15th.
+[04:06] That's what we call the estimated tax
+[04:08] payment time. And uh sometimes there's
+[04:10] some selling pressure on stocks so
+[04:12] people can make their estimated tax
+[04:13] payments.
+[04:14] >> And now let's talk about politics. Is
+[04:16] Trump trying to push out another Fed
+[04:17] official? Yeah, Lisa Cook is a Biden
+[04:20] appointee. Apparently, she on her
+[04:22] mortgage application misrepresented her
+[04:25] residency to get a more favorable rate.
+[04:27] And they use this against Adam Schiff to
+[04:30] try to prosecute him. He's the senator
+[04:32] from California. And so Trump's doing to
+[04:35] people what they used to do to him. And
+[04:36] of course, the conviction against him
+[04:38] was just dropped in appellet court. So
+[04:41] Leticia James is not too happy right
+[04:43] now. But um you know, it's it's it is
+[04:46] what it is. And uh I think he already
+[04:48] has a majority on on the FOMC, but he's
+[04:50] trying to remake it with his people. And
+[04:52] uh this Lisa Cook um you know, for a
+[04:56] banking official to lie on a mortgage
+[04:58] application is not a good thing. So
+[05:00] there's no way she can really spend
+[05:02] this.
+[05:02] >> Now, let's get into stocks. We have a
+[05:04] lot of big names announcing this week.
+[05:06] Let's start out with Smuckers. Sales
+[05:08] seem to be slipping, so I guess
+[05:10] everything might not be better with
+[05:12] Jelly.
+[05:13] >> That's true. They do make those things
+[05:15] that don't have the crust. What are
+[05:17] those things called?
+[05:18] >> Crustables. Yeah.
+[05:19] >> Yeah. Yeah. That's probably their
+[05:20] hottest thing. I don't think Twinkies
+[05:22] are selling that well, even though they
+[05:23] last 40 years. Yeah. It's uh it's
+[05:26] interesting. But I I think the main
+[05:28] thing you should be aware of is that
+[05:30] it's really hard to be a food processor
+[05:32] right now. It's, you know, consumers are
+[05:34] just being very very fickle and their
+[05:36] sales are forecast to decline 6 cents a
+[05:38] percent. Earnings supposed to decline uh
+[05:41] 21%. negative balance revisions, but
+[05:43] they do have a good surprise history. So
+[05:46] maybe those things without the crust
+[05:47] will be selling. We'll see.
+[05:49] >> Now, Crowd Strike, the hackers are busy,
+[05:51] sales are flying, but profits seem to be
+[05:54] getting hacked, too.
+[05:55] >> Yeah, you know, Crowd Strike is a is a
+[05:57] good company. They dominate Cyber
+[05:59] Security. Their sales are forecasted to
+[06:01] be up 19.3, but earnings are forecast to
+[06:04] decline 20.2. They do have positive
+[06:06] anisions of good surprise history. I
+[06:08] think the problem is Crowd Strike has
+[06:10] yet to recover.
+[06:12] from the the Microsoft
+[06:15] Azour cloud crash that took out the
+[06:18] European Airlines um about a year ago.
+[06:21] And just so you know, the history of
+[06:22] that is they had a quick patch to to fix
+[06:25] everything, but it was a Friday and
+[06:27] apparently people don't work on Fridays
+[06:28] in Europe. Uh so the airlines remain
+[06:31] grounded for a while. Microsoft uh did
+[06:34] not blame CrowdStrike. They blamed the
+[06:35] EU for having something called an
+[06:37] open-source platform. And this is one of
+[06:39] the big fights between government and
+[06:41] the the tech industry. Uh the Biden
+[06:44] administration was suing to get
+[06:45] everybody to have open source so they
+[06:47] could spy better. But Microsoft is cloud
+[06:50] is open source in Europe and Crowdstrike
+[06:52] tries to protect them. But the more open
+[06:54] your software is the more the hackers
+[06:56] can come in. I think what will really
+[06:58] help Crowd Strike, Palo Alto Networks
+[07:00] and all these other cyber security firms
+[07:02] is just another big hack and then
+[07:04] everybody will spend more money on their
+[07:06] services. Now, Net App storage is
+[07:08] supposed to be reliable, but their
+[07:10] earning history looks more like a
+[07:12] glitchy hard drive.
+[07:13] >> That's right. Their sales are forecast
+[07:14] to decline two tons a percent. Earnings
+[07:16] are forecast to climb 1.4%. They have
+[07:19] negative balance revisions and a very
+[07:21] earning surprise history. So, despite
+[07:23] the fact that storage is a big business,
+[07:25] the cloud is exploding. You know, we did
+[07:26] a a short on the cloud centers coming to
+[07:29] Reno, taking over, NetApp is not
+[07:31] profiting from that trend. So, that's
+[07:33] most unfortunate. Nvidia, the AI
+[07:35] darling. Sales are booming, profits are
+[07:38] booming, but I think everyone's holding
+[07:39] their breath for guidance.
+[07:41] >> As always, their sales are forecasted to
+[07:43] be up uh 52.9%.
+[07:46] Earnings are forecasted to be up 48%.
+[07:48] There's definitely positive ounce
+[07:49] revisions. They have a study earning
+[07:51] surprise history, but as always,
+[07:54] guidance is the key. Now, Nvidia is by
+[07:56] far our largest holding. Sometimes when
+[07:58] Nvidia announces it doesn't go up
+[08:00] largely because of all the call options
+[08:02] and everything that's been written on
+[08:03] the stock um a lot of times the option
+[08:05] writers don't want to exercise the
+[08:07] options so they they do some sort of
+[08:09] algorithmic trading to to hold the stock
+[08:11] back. But Nvidia is the market leader.
+[08:13] You know Nvidia the market cap is bigger
+[08:15] than the entire market cap of of the
+[08:17] stock market in France and some other
+[08:19] countries. So this is a powerhouse and I
+[08:22] I look forward to their guidance. I
+[08:23] think Jensen is just a wonderful,
+[08:25] wonderful chairman and I'm very excited
+[08:27] about what what he'll say.
+[08:28] >> Now, Best Buy is trying to stay relevant
+[08:30] in a world where Amazon actually
+[08:32] delivers faster than a cashier can scan
+[08:34] your DVD.
+[08:35] >> That's right. You know, I I shop at Best
+[08:37] Buy. I like Best Buy, but you are
+[08:39] absolutely right. I I had a um upgrade
+[08:43] the internet switchers at Arena Home and
+[08:46] um Best Buy didn't have them in stock,
+[08:48] so I bought them from Amazon, you know.
+[08:50] So, uh,
+[08:53] their sales are forecast to climb 610 of
+[08:55] a percent, earnings are forecast to
+[08:56] climb 8.7%. There's negative balance
+[08:59] revisions, but they do have good
+[09:00] earnings surprises the past couple
+[09:02] quarters. Guidance will be the key. We
+[09:04] always like Best Buy to uh give us
+[09:06] guidance. Uh, if you go into a Best Buy
+[09:08] store, you're going to see a lot more
+[09:09] home appliances. So, they're struggling.
+[09:11] You know, I know football season's
+[09:12] coming up and that gets a lot of people
+[09:14] excited. They'll have Labor Day sales,
+[09:16] but their guidance is going to be very,
+[09:17] very crucial. Now, Dollar General might
+[09:20] be proving bargains still have value
+[09:22] even on Wall Street.
+[09:23] >> Yeah, their sales are forecasted to grow
+[09:25] 4.6%. Earnings are forecast to decline
+[09:28] seven and a half percent. Their steady
+[09:30] analyst estimates for Dollar General,
+[09:32] but they had a huge surprise last
+[09:33] quarter. So, we'll see. You know, there
+[09:35] was a dumping of goods in the first
+[09:37] quarter trying to beat the tariffs and
+[09:39] uh so there was excess inventory to
+[09:41] move. So, I don't know if that's going
+[09:42] to still help in the second quarter. So,
+[09:44] we'll see if they can surprise
+[09:45] >> or sales are sizzling, but sometimes
+[09:48] earnings come out a little undercooked.
+[09:51] >> Yeah, their sales are forecast to rise
+[09:52] uh 2.9%. Earnings are forecast to rise
+[09:55] 11.4%. They have steady revisions. Uh
+[09:59] but they have a very erratic earning
+[10:01] surprise history. Uh this company is
+[10:03] obviously famous for spam and other um
+[10:07] you know, processed meats. We shall see.
+[10:09] You know, that that stuff's not very
+[10:10] healthy. It's full of salt. There is a
+[10:12] bit of a health craze underway. So,
+[10:13] we'll see if they can ek out any kind of
+[10:16] surprise.
+[10:16] >> Now, Autodesk, this stock might be built
+[10:19] better than half of the houses from
+[10:21] Zillow.
+[10:21] >> Yes, of course, Autodesk makes
+[10:23] architectural software, engineering
+[10:25] software, but their sales are forecasted
+[10:27] to rise 14.5%.
+[10:29] Uh, earnings forecasted to go up 14.
+[10:32] They have positive amounts of revisions,
+[10:33] a great earning surprise history. So, I
+[10:35] have very high expectations for
+[10:37] Autodesk.
+[10:37] >> Dow is looking for a rebound. Funny how
+[10:39] everything old and tech is suddenly new
+[10:42] again. Yeah, you know, their sales are
+[10:43] forecasted to be up 16.7%. Earnings is
+[10:46] supposed to be up 21.1. They have
+[10:48] positive balance revisions, but
+[10:50] unfortunately they missed last quarter.
+[10:51] And I guess one of the confusing things
+[10:53] about Dell is they're waiting for them
+[10:55] and Hullet Packard to basically take
+[10:58] over the cloud storage business. SMCI
+[11:00] Super Microcomput has the still has the
+[11:02] lead on that. So, uh, we'll see. Like a
+[11:06] lot of tech stocks, they're going to
+[11:07] have to give us good guidance. So, I'm
+[11:09] still a little cautious on on Dell,
+[11:10] especially due to last quarter's miss,
+[11:12] but at least their underlying sales and
+[11:14] earnings are positive.
+[11:15] >> And Ulta Beauty sales shine, but profits
+[11:18] are kind of showing their age.
+[11:20] >> Yeah, you know, uh I'm not sure Ulta has
+[11:22] the best model. Uh obviously, you knew
+[11:24] that when you were a teenager. Their
+[11:26] sales are forecasted to rise 4.2%.
+[11:29] Earnings are are forecast to decline
+[11:31] 5.1. They do have positive hands
+[11:33] revisions. They have good earning
+[11:34] surprise history in the past three
+[11:36] quarters. The big thing in beauty was
+[11:38] E.L.F. Beauty took market share from
+[11:40] everybody and uh I'm out of E.L.F. now.
+[11:43] That's ELF, but they were just doing a
+[11:46] better job selling to people direct. Now
+[11:48] they, you know, you can go to Target and
+[11:49] stuff and E.L.F. will be on the the
+[11:51] shelf, but the direct sales were
+[11:53] undermining the storefront sales and so
+[11:56] Ulta Beauty has to do what E.L.F. does.
+[11:58] You know, sell more direct online and uh
+[12:01] and target their customers better. And
+[12:02] lastly, Lulu Lemon still stretching for
+[12:05] growth, but I think investors are
+[12:07] watching to see if the waistband snaps
+[12:09] back.
+[12:09] >> Yeah. And Lulu's secret has been they've
+[12:11] been selling to men. Of course, women
+[12:13] are buying for the men, but uh their
+[12:15] sales are forecasted to go up 7 and a
+[12:17] half%. Earnings are forecast to decline
+[12:20] 8.1%.
+[12:21] There are negative balance revisions,
+[12:23] but they do have a decent earning
+[12:25] surprise history. So, their guidance
+[12:26] will be key.
+[12:27] >> Now, let's move on to subscriber
+[12:28] questions. One of our subscribers wanted
+[12:30] to know when is a good time to sell your
+[12:32] losing stocks.
+[12:33] >> Anytime they bounce, markets have a
+[12:35] natural oscillation and so do stocks.
+[12:38] You know, on Friday, all stocks bounce
+[12:39] in the wake of a drone pal's comments.
+[12:41] That would have been a a good window to
+[12:43] sell into. Hopefully, that will continue
+[12:45] to next week, but I always try to sell
+[12:48] into strength and then buy in dips.
+[12:50] >> Another one of our subscribers brought
+[12:51] up that Trump is really pushing
+[12:54] cryptocurrency. Is that benefiting any
+[12:56] stock?
+[12:58] Yeah, you can um buy Robin Hood. Uh H O
+[13:02] D. Um that would probably be one of the
+[13:05] better ones. Uh you know what Trump
+[13:08] wants? He wants the trading of crypto to
+[13:10] be in America. He doesn't want it to be
+[13:13] in South Korea or India. He wants it to
+[13:15] be in America. So um uh Robin Hood would
+[13:19] be a classic example of a stock that you
+[13:22] could buy that'll benefit from the
+[13:24] growth in cryptocurrency. And finally,
+[13:26] what do you feel about the future of
+[13:28] Szle?
+[13:30] >> I'm not worried about Szle. Their sales
+[13:31] are spectacular. They just had some
+[13:33] confusion on the last earnings
+[13:35] announcement.
+[13:36] I listen to their conference call.
+[13:38] They're still growing at a rapid pace,
+[13:39] over 30%, but this was a hot stock and
+[13:43] bubbles get pricricked every now and
+[13:44] then. And unfortunately, they got hit,
+[13:47] but um they're they should come roaring
+[13:50] back. I'm not worried about them. But
+[13:51] this you're grabbing a tiger by the
+[13:53] tail, so hang on for dear life. But SEO
+[13:55] is still in our portfolios and and uh
+[13:58] and some some people we know at bought
+[14:01] it on the dip and uh it's a good stock.
+[14:05] >> Great. Well, thank you so much for
+[14:06] answering all my questions and thank you
+[14:07] to you all for supporting us and thank
+[14:09] you so much for 3,000 subscribers. We
+[14:11] really appreciate you guys watching and
+[14:14] commenting and make sure to like and
+[14:16] subscribe if you haven't already. But
+[14:18] until then, we will see you all next
+[14:19] Sunday for a new video. Thanks so much.
+[14:23] Heat.
+[14:24] [Music]

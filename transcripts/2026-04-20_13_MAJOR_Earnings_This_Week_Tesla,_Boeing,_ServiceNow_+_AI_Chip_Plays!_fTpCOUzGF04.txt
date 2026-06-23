@@ -7,9 +7,436 @@ Type: video
 Duration: 15:34 (934s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 428
+Transcript characters: 14821
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] 13 companies reporting earnings this
+[00:02] week and we're not doing this one alone.
+[00:04] Paul Hickey's here to help us separate
+[00:06] the noise from what actually moves
+[00:07] stocks. Welcome back to Navellier Market
+[00:09] Buzz.
+[00:15] Earnings season is still heating up and
+[00:16] we have a lot of stocks to talk about.
+[00:19] Let's preview the stocks reporting this
+[00:21] week. Let's start out with housing, the
+[00:23] sector that moves when rates finally
+[00:25] cooperate. D.R. Horton, the home builder
+[00:28] bellwether. Are buyers finally coming
+[00:30] back? Maybe. Sales are supposed to be
+[00:32] down 1.7.
+[00:34] Earnings are supposed to be down 17.3.
+[00:37] We have some analyst cuts in the last 90
+[00:40] days.
+[00:41] Um but they did surprise last quarter. I
+[00:44] think it's really hard in the housing
+[00:45] market. Mortgage rates have fallen um
+[00:48] pretty significantly here for a few
+[00:49] weeks. So,
+[00:51] we're getting there, okay? But um you
+[00:54] know, a lot of these home builders have
+[00:55] to discount to move their inventories.
+[00:57] No matter what D.R. Horton does,
+[00:58] hopefully they'll surprise. They have to
+[01:00] guide higher. And as soon as they guide
+[01:02] higher, it's up, up, and away.
+[01:04] >> Now industrials and aerospace, where
+[01:05] defense spending and manufacturing
+[01:07] strength show up. For 3M Company, the
+[01:11] diversified industrial, is their
+[01:13] restructuring paying off? Well, no. Uh
+[01:16] let me put it as bluntly as I can. Sales
+[01:19] are supposed to be up 3.8.
+[01:21] Earnings are supposed to be up 5.3.
+[01:24] The analysts have trimmed estimates a
+[01:26] tiny bit, not much, but the real problem
+[01:28] with 3M
+[01:30] is they've had huge earnings
+[01:33] disappointments for three quarters in a
+[01:35] row. In fact, last quarter was down
+[01:37] 40.4% less than expected. This is a huge
+[01:41] multinational operating around the
+[01:42] world. So, we we definitely definitely
+[01:45] need them to finally surprise and then
+[01:48] provide guidance. And until they do, I
+[01:50] wouldn't go near this. Now for Boeing,
+[01:52] can they finally turn the corner on
+[01:54] production and quality? Yeah, uh you
+[01:56] know, Boeing really does screw up the
+[01:58] durable goods report
+[02:00] with their uh
+[02:02] their airline orders. And obviously,
+[02:05] there seems to be an airline problem now
+[02:07] cuz there's a shortage of jet fuel. But
+[02:10] uh they'll all get over that and life
+[02:12] will get back to normal.
+[02:14] But their sales are supposed to be up
+[02:15] 13.1.
+[02:17] Their earnings are supposed to be down
+[02:18] 29.5.
+[02:20] And the analysts have slashed their
+[02:22] estimates from 50 cents uh 3 months ago
+[02:24] minus 24 cents right now.
+[02:27] That looks bad, but last quarter,
+[02:31] they had an earnings surprise of
+[02:32] 31,611%.
+[02:36] So,
+[02:37] what can I say? They have an aerospace
+[02:39] business, I know that. And they're
+[02:41] making the the the 47 fighter, you know?
+[02:45] Um
+[02:46] whatever the fighter is named after
+[02:47] Trump. They're making that. I don't
+[02:49] know. It's
+[02:51] it's just a wild card, but it can only
+[02:53] get better. And I do think the point you
+[02:54] said there, we will get back to normal.
+[02:57] You know, normal is secular growth in
+[03:00] air travel, not just in the US, but
+[03:02] around the world. Even more so around
+[03:04] the world. And so, I think Boeing um
+[03:07] has their, you know, new management has
+[03:10] helped improve the quality issues there.
+[03:13] And uh I think the long-term picture
+[03:15] there, as production slowly starts to
+[03:18] ramp back up, uh that will show up in
+[03:20] the results. Maybe not a 31,000%
+[03:22] earnings surprise like last quarter, but
+[03:25] uh we should start to see better numbers
+[03:27] there going forward.
+[03:28] >> Now for Lockheed Martin, defense
+[03:30] spending stays strong. What's the order
+[03:32] flow looking like?
+[03:33] >> You know, Lockheed's an interesting
+[03:35] company. It's uh actually a big IT
+[03:37] company. There's a lot of CIA and NSA
+[03:40] stuff going on with Lockheed, too. But
+[03:42] their sales are supposed to be up 1.7.
+[03:45] Their earnings are supposed to be down
+[03:47] uh 4.5.
+[03:49] We do have analyst trims in the last 90
+[03:51] days, but they've surprised last couple
+[03:53] quarters. So, it's just going to be
+[03:55] guidance. We're supposed to have a UFO
+[03:57] reveal sometime. So, maybe they can say
+[04:00] they've uh cloned the alien technology.
+[04:02] So, that would be good. But um you know,
+[04:05] we'll see. I think we have to have the
+[04:06] Spielberg movie out first and then we
+[04:08] can have the reveal. GE Vernova, the
+[04:10] power generation spin-off riding data
+[04:12] center energy demand. What do you expect
+[04:15] for them? Well, we have this stock under
+[04:17] management. Recommend our newsletters.
+[04:19] Their sales are supposed to be up 15.5%.
+[04:23] Their earnings are supposed to be up
+[04:25] 96.9.
+[04:27] We have uh um pretty steady analyst
+[04:30] estimates, but last quarter they had a
+[04:33] 316%
+[04:34] surprise. So, there's a lot of
+[04:36] excitement over GE Vernova. There is a
+[04:38] shortage of turbines. There is a wait
+[04:40] list. You know, that's the easiest way
+[04:43] to start the data centers is with a
+[04:45] natural gas turbine. And um they make
+[04:48] them in different sizes. Otherwise, you
+[04:49] have to use uh Bloom Energy's natural
+[04:51] gas fuel cells cuz President Trump made
+[04:53] it very clear that don't plug in the
+[04:54] utility grid and drive prices higher.
+[04:57] Just generate electricity yourselves.
+[04:59] And that's what a lot of these uh new
+[05:01] data center companies are doing. Moving
+[05:03] to transportation economic bellwethers.
+[05:05] United Airlines travel demand is
+[05:08] resilient, but are fuel costs eating
+[05:10] into margins? Not for long. It's very
+[05:12] hard to explain, but there's a diesel
+[05:14] shortage and there's a jet fuel
+[05:15] shortage, but it's really not in
+[05:17] America, okay? It's elsewhere. And as
+[05:20] President Trump says, if you need it,
+[05:21] come get it, okay? Cuz we refine all
+[05:24] that stuff. The sales for United are
+[05:27] supposed to be up 8.8%.
+[05:29] Earnings are supposed to be up 20.8.
+[05:32] We have positive analyst revisions and
+[05:34] they
+[05:35] did surprise last couple quarters. Last
+[05:37] quarter was a 9.1% surprise. Obviously,
+[05:39] what's overshadowing United is the
+[05:42] gossip they might merge with American
+[05:44] and create an even bigger airline. So,
+[05:46] that's going to dominate everything,
+[05:49] And obviously, you know, when you have
+[05:51] all these great hubs like they do, you
+[05:53] can charge more. So, we'll find out if
+[05:56] they can extend their monopolistic
+[05:58] dominance of certain airport hubs around
+[06:00] the country. And I mean, it's probably
+[06:02] the most well-run airline currently and
+[06:05] in several decades past. So, I think
+[06:08] that's if you if you're going to own
+[06:09] airlines, that's probably the one to
+[06:11] own. Trades at a very attractive
+[06:13] multiple to to earnings when oil prices
+[06:16] aren't through the roof, but that will
+[06:19] pull back in. Uh and I I think travel
+[06:22] again, on the same subject as Boeing,
+[06:24] United is a company where you want to be
+[06:27] in. And if they do take over American,
+[06:30] which who who knows if they actually
+[06:31] will, they would be adding efficiency to
+[06:34] a poorly run airline and it improve
+[06:36] their business even better, I think. Now
+[06:38] for Union Pacific, the railroad that
+[06:40] tells us what's happening in the real
+[06:42] economy. What are you expecting for
+[06:44] them? It's getting better. Sales are
+[06:46] supposed to be up 3%.
+[06:48] Uh earnings are supposed to be up 5.7.
+[06:52] Uh analysts are are pretty steady with
+[06:54] their estimates. This company surprised
+[06:57] every other quarter. Last quarter, it
+[06:58] you know, missed by a couple cents, no
+[07:01] big deal. You know, agriculture is very
+[07:03] important for Union Pacific. And
+[07:05] hopefully that's going to go to the
+[07:07] bottom line. Not only that, last
+[07:09] quarter, the next quarter. And um
+[07:11] they're going to have to guide higher.
+[07:13] But uh it's not exciting for me right
+[07:15] now, but um hopefully they'll give some
+[07:17] upbeat guidance. And I would think on
+[07:19] the overall, you know, a better
+[07:21] manufacturing economy as far as the
+[07:23] indicators we're seeing, could bode well
+[07:26] for a positive surprise there.
+[07:28] Uh and the US economy is holding up
+[07:30] there. So, I would expect a rails to at
+[07:32] least have decent results coming forward
+[07:34] this earnings season. Now for
+[07:36] healthcare, it's always a wild card with
+[07:38] policy and cost pressures. We have
+[07:41] United Health Group, the managed care
+[07:43] giant. How are medical costs trending?
+[07:45] Okay, United Healthcare is a a bit of an
+[07:47] odd stock because when it moves, it gaps
+[07:49] higher. And it recently gapped higher
+[07:51] when um
+[07:53] Medicare increased their reimbursement.
+[07:55] But uh obviously, this is a big a
+[07:57] company. They have virtually no sales
+[07:59] growth. They're supposed to be up a
+[08:00] tenth of a percent. Their earnings are
+[08:02] supposed to be down 8%.
+[08:04] Uh
+[08:06] the analysts have trimmed their
+[08:07] estimates slightly. So, it's very very
+[08:10] boring. Unless they're going to get more
+[08:12] government money, but they just got it.
+[08:14] So, that's my comment. You know, it's uh
+[08:17] it's big, it's boring, and it already
+[08:19] made its move. A big, boring, and public
+[08:21] sentiment is probably one of the most
+[08:23] negative towards that stock than any
+[08:25] other stock
+[08:26] um you can think of, which is partly
+[08:29] reflected in the performance of the
+[08:30] stock over the last couple of years. But
+[08:32] it's sort of based out here at these
+[08:34] levels. I just recently made a higher
+[08:36] low versus its lows from last year. So,
+[08:39] you know, that's that's the kind of
+[08:41] environment where if you're looking for
+[08:42] a surprise, uh you could see it. And
+[08:45] where we have started to see a lot of
+[08:46] stocks run, you may start looking for
+[08:48] investors looking in other places for
+[08:50] gains and trying to chase any signs of
+[08:53] positive momentum. So, if you do see a
+[08:54] strong report there, could get an added
+[08:56] lift
+[08:57] from investors chasing it. Now for tech
+[09:00] and semiconductors, where the AI boom
+[09:02] lives. We have Lam Research, chip
+[09:04] equipment supplier in the AI boom. What
+[09:07] are you expecting for them? Well, their
+[09:08] sales are supposed to be up 21.9.
+[09:11] Earnings are supposed to be up 31.2.
+[09:14] We have positive analyst revisions in
+[09:16] the last 90 days. That's a good sign.
+[09:18] And it has a very good earnings surprise
+[09:20] history. So, despite all that, it still
+[09:23] has to guide higher. So, as long as it
+[09:24] provides a guidance, it'll go higher.
+[09:26] Yeah, and I mean, I think these the
+[09:28] reason like you said, the results are
+[09:30] going to be strong. We know that. You
+[09:32] just saw Taiwan Semi's results earlier
+[09:34] this week suggesting that.
+[09:36] It's more a matter of expectations. You
+[09:38] have these stocks up 25%, I think, over
+[09:41] over the last couple of weeks here. So,
+[09:43] you've seen a big run. It's at all-time
+[09:45] highs, the
+[09:47] the index itself in the sector. So, it's
+[09:49] going to take, like you said, positive
+[09:51] guidance and potentially a a decent
+[09:54] upside guide to to keep that going. Then
+[09:58] we have ServiceNow enterprise software
+[10:00] riding the AI workflow wave. How are
+[10:03] they looking? Pretty good. Uh sales are
+[10:05] supposed to be up by 21.3%.
+[10:08] Uh earnings are supposed to be up 19.5.
+[10:11] We have slightly positive analyst
+[10:13] revisions and it does have a good
+[10:15] earnings surprise history. Now,
+[10:17] the thing that's odd about ServiceNow is
+[10:19] they are competing with Meta
+[10:21] to see if they who can lay off the most
+[10:23] people. So, if they announce and have
+[10:26] more layoffs, the stock will go up. And
+[10:28] Meta's the same. I don't have the stock
+[10:30] in my portfolio because it's not strong
+[10:32] enough for for me to buy it right now,
+[10:34] but I know it's going to be driven by
+[10:37] its guidance and announcement of
+[10:39] possibly more layoffs. Consumer
+[10:40] discretionary, are people still spending
+[10:42] on the big stuff? Let's start out with
+[10:44] Tesla. Deliveries, margins, and whatever
+[10:46] surprise Elon has for us. Well, Tesla is
+[10:51] um getting more monopolistic because,
+[10:54] let's face it, other companies tried to
+[10:56] compete with them and did not succeed.
+[10:58] So, uh they're enjoying their market
+[11:00] share in in um
+[11:01] in uh the Americas. Now, obviously in um
+[11:05] uh China, they've lost market share. In
+[11:07] Europe, it's mixed, but their sales are
+[11:09] supposed to be up 15.5%, so that's
+[11:11] excellent. Their earnings are supposed
+[11:13] to be up 32.9, that's pretty good,
+[11:16] better than most quarters, but we do
+[11:18] have analyst trims from 41 cents to 36
+[11:21] cents in the last uh couple months, but
+[11:23] they did surprise last quarter. It was
+[11:25] uh basically 11%. So, it's all about the
+[11:27] guidance. You know, uh you know, Elon is
+[11:30] a visionary.
+[11:32] You know, I'm I still remember what he
+[11:34] did at Universal Studios a while ago.
+[11:36] And here's the robo-taxi. Here's the
+[11:38] robo-bus. Here's Optimus serving you
+[11:41] drinks and appetizers. I think the main
+[11:43] thing about Tesla is he said, "I can
+[11:46] take every Tesla and turn it into
+[11:47] robo-taxi." And I don't think that's
+[11:50] going to happen, but if it does happen,
+[11:52] I take it all back and the stock will
+[11:54] take off. But it that that's kind of
+[11:55] funny though cuz you go home, you you go
+[11:57] in your house, and then your car takes
+[11:59] off and pretends it's an an Uber, you
+[12:01] know, so we'll see. I mean, Tesla's
+[12:03] it'll be interesting to see, you know,
+[12:05] they they focused they're trying to take
+[12:07] the focus away from necessarily the the
+[12:09] car business and it's, you know,
+[12:10] robotics and robo-taxi, but it'll be
+[12:13] interesting to see how deliveries come
+[12:15] up and orders for March given the high
+[12:17] oil prices and and gas prices and and
+[12:20] see what it kind of impact that had on
+[12:22] on the business. And
+[12:23] But you you never know what's going to
+[12:25] cause what the stock is going to react
+[12:27] to when they report because you get on
+[12:29] the conference call and Elon is a
+[12:31] wildcard on what he's going to talk
+[12:32] about. And it's a matter of uh what the
+[12:35] market latches onto in this commentary.
+[12:38] Now we have financials, the premium
+[12:40] consumer indicator. We have American
+[12:42] Express, which I recently actually
+[12:44] opened up one of their credit cards
+[12:46] given how great their cash back is. So,
+[12:48] is the premium consumer still spending?
+[12:51] Yes. Obviously, we have this K-shaped
+[12:54] economy. Obviously, the boomers have
+[12:56] more money than everybody else. And that
+[12:59] shows up with American Express. And um
+[13:02] Crystal, if you ever meet someone with a
+[13:04] black card, a black Amex, they have to
+[13:06] spend at least 80,000 a month, so make
+[13:09] sure they buy you drinks, okay? Um their
+[13:11] sales are supposed to be
+[13:13] 9.7%.
+[13:15] Their earnings are supposed to be up by
+[13:16] 9.6.
+[13:18] They have a slightly positive analyst
+[13:20] estimates, but they did miss by penny
+[13:22] last couple pennies last quarter, a
+[13:23] couple cents. So, um you know, it's like
+[13:25] anything, they're going to have to guide
+[13:26] higher, but it is
+[13:28] a a a
+[13:29] good bellwether for the consumer. Yeah,
+[13:32] and I think the you know, the upper end
+[13:34] consumer is even more uh
+[13:36] energy less energy intensive uh as far
+[13:39] as their disposable incomes. Uh
+[13:41] the higher energy prices are going to
+[13:43] have much of less of an impact on higher
+[13:45] income uh consumers, which American
+[13:47] Express caters to. And um
+[13:50] you're a perfect example, Crystal, of
+[13:52] how uh American Express has, you know,
+[13:54] really diversified its um its audience
+[13:57] away from older um boomers and into
+[14:01] younger generations of consumers. And
+[14:03] finally, telecom, the infrastructure
+[14:06] play. AT&T fiber buildout and subscriber
+[14:09] growth, what are you expecting for them?
+[14:11] Boring. Sales are supposed to be up by
+[14:12] 2%.
+[14:14] Uh earnings are supposed to be up um
+[14:17] 8%. Now, that's that's pretty good for
+[14:19] AT&T. And uh we have slightly positive
+[14:22] analyst revisions. So, I have hope.
+[14:24] Surprises were pretty good last quarter,
+[14:26] you know, it was up 11.6. So, if they
+[14:28] can keep that up, I will take it all
+[14:30] back and not think this is a boring
+[14:32] stock. But uh let's see if they can
+[14:33] surprise and guide higher. I mean, the
+[14:35] the stock has performed pretty well over
+[14:37] the last uh year or so, but again, it's
+[14:40] it's really hard to get excited about
+[14:41] these stocks. You know, they they've
+[14:43] good good yields, tend they tend to have
+[14:45] good yields, but uh other than that,
+[14:47] they're they're I think you summed it up
+[14:49] perfectly, Louie. Boring, right? But
+[14:52] sometimes boring's good. Well, a lot to
+[14:54] look for this week. Thank you so much,
+[14:56] Paul, for joining us for this earnings
+[14:58] recap. We hope you all enjoyed watching.
+[15:01] If you enjoyed this video and like our
+[15:03] content, please give this video a like
+[15:04] and subscribe if you haven't already. We
+[15:06] are still having our 10,000 subscriber
+[15:09] giveaway to say thank you to you all,
+[15:11] especially to those of you who've been
+[15:13] here from the start. So, if you'd like a
+[15:15] free signed copy of Louie's new book
+[15:18] shipped to your home, please fill out
+[15:20] the form in the description and I'll
+[15:21] also put in the comments below. But
+[15:23] thank you guys so much for watching.
+[15:24] We'll see you this Wednesday for a
+[15:25] midweek update.

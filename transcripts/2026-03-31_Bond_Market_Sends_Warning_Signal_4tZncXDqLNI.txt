@@ -7,9 +7,41 @@ Type: short
 Duration: 1:10 (70s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 33
+Transcript characters: 1224
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] There's a lot of chatter that the bond
+[00:01] vigilantes are back. Who are they and
+[00:04] why do they wield so much influence? The
+[00:06] bond vigilantes are basically
+[00:09] uh people that try to drive yields
+[00:11] higher. They've been um doing that with
+[00:14] Japan because Japan's spending a lot of
+[00:16] money. Obviously, they have a shrinking
+[00:18] population and their central banks have
+[00:20] to do more quantitative easing. They've
+[00:22] been uh bugging Britain because and all
+[00:24] Canada Britain uh chased its rich people
+[00:27] out and now they have fewer people
+[00:28] paying the system. You have to have
+[00:30] middle-class tax increases and then of
+[00:32] course, you know, half of Britain can't
+[00:34] pay their electric bill. They have to be
+[00:35] subsidized. So, uh Britain has its own
+[00:38] issues. And then uh France has its own
+[00:40] issues, too. The number of households
+[00:42] paying in taxes and everything has
+[00:44] shrunk in France. Their central bank
+[00:46] actually lost money because uh on the
+[00:48] yield curve, they had to shore that up
+[00:50] with profits from their gold reserves.
+[00:52] So, the bond vigilantes are always
+[00:55] looking like, "Where can we drive yields
+[00:56] higher?" So, last week, we had um a less
+[01:00] than ideal treasury financing and yields
+[01:02] did meander higher. Now, since that
+[01:04] re-refinancing's over, yields are coming
+[01:06] back down, but not as low as they were,
+[01:09] you know, a month ago.

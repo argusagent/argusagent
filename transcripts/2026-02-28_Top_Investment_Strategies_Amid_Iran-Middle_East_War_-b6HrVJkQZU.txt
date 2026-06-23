@@ -7,9 +7,41 @@ Type: short
 Duration: 1:13 (73s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 33
+Transcript characters: 1205
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] This is Louis Navalier. I want to give
+[00:01] you a special update on the war with
+[00:04] Iran. This is designed for regime
+[00:06] change. So, all the leaders of the
+[00:09] Iranian regime, including the Illah, are
+[00:11] being targeted. Uh, obviously, the US
+[00:13] and Israel are going to obliterate their
+[00:16] missile facilities, their drone
+[00:17] facilities, and any remaining nuclear
+[00:19] facilities. President Trump has called
+[00:21] for the Iranian people to rise up when
+[00:23] the bombing stops. Uh, he wants them to
+[00:26] shelter in place right now. and um and
+[00:29] he said the US has no interest in
+[00:31] running Iran. Fascinating developments
+[00:33] underway. Your oasis as an investor are
+[00:36] three places. First, the US dollar.
+[00:40] Second is going to be crude oil and a
+[00:42] lot of energy stocks will be doing well.
+[00:44] And finally, gold stocks will be doing
+[00:46] the best because gold is where everybody
+[00:48] runs to when there's this kind of
+[00:49] uncertainty. This is designed to be fast
+[00:51] and furious and hopefully early next
+[00:54] week we'll know the results and it'll
+[00:56] die down. Normally military actions do
+[00:58] not impact the stock market. If
+[01:00] anything, they might help because it
+[01:02] removes uncertainty. So that's your
+[01:04] update. Uh by the way, I'm at the
+[01:06] Builtmore Hotel in Coral Gables. That's
+[01:08] Modana behind me. That's a car show.
+[01:11] Take care everybody. Blue Naval.

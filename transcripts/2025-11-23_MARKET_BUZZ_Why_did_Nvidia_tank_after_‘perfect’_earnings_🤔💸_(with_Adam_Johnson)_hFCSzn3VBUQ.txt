@@ -7,9 +7,953 @@ Type: video
 Duration: 34:13 (2053s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 945
+Transcript characters: 31047
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Nvidia just reported near-perfect
+[00:01] results. Strong sales, earnings, and
+[00:03] higher guidance. Yet, the stock sold off
+[00:06] after an 89% jump in receivables. This
+[00:09] is raising fears of an AI cash crunch.
+[00:12] At the same time, Blue Owl scrapped a
+[00:15] private credit fund merger after
+[00:17] criticism over potential capital losses.
+[00:20] To help make a sense of what's really
+[00:21] going on in the markets, we're joined by
+[00:23] our special guest, Adam Johnson. Welcome
+[00:25] back to Navellier Market Buzz.
+[00:29] >> [music]
+[00:34] [music]
+[00:40] >> Thanks, Crystal. Great to be with you,
+[00:41] Louis. It's an honor to have Adam back.
+[00:43] He has a lot of insight that uh we we
+[00:46] need at this desperate time.
+[00:48] >> So, Adam, it feels like the tail is
+[00:49] wagging the dog when a stock like Nvidia
+[00:52] sells off after perfect results. What is
+[00:54] the market actually worried about here?
+[00:57] Well, I think you actually touched on
+[00:59] that. And and that was the notion of uh
+[01:01] somehow their receivables went up by
+[01:03] what, 89%? I as an optimist look at that
+[01:06] and say, "Oh, wonderful. They're selling
+[01:07] more stuff." But the pessimists out
+[01:09] there would say, "Oh, well, if their
+[01:11] receivables went up by that much, you
+[01:13] got to wonder whether those customers
+[01:15] can actually pay for the chips." And
+[01:17] they can pay for the chips. Uh there's a
+[01:19] lot of money being sloshed around within
+[01:21] AI right now. But the concern is that
+[01:24] these companies, customers of Nvidia,
+[01:26] etc., are paying too much uh for
+[01:29] everything. They're investing too much.
+[01:31] Their capital expenditures are too high.
+[01:33] And the question is, will they ever
+[01:35] generate a return? I think they will. I
+[01:38] am fully invested across um a dozen AI
+[01:41] stocks. It's been a tough couple of
+[01:43] weeks as a result because they've all
+[01:44] gotten hit so hard on all these
+[01:46] concerns. But Crystal, um Louis, I sort
+[01:48] of equate this to what we saw 9 months
+[01:51] ago when China's DeepSeek came out. And
+[01:54] all of a sudden everybody said, "Oh my
+[01:55] gosh, China's going to crush us. Uh they
+[01:58] can do it for free." Well, actually what
+[02:00] we found out was they created DeepSeek
+[02:03] stealing code from ChatGPT and using uh
+[02:07] 2,200 Nvidia chips. So, China can't do
+[02:09] it without us. And once we all figured
+[02:11] that out, we got over our uh angst
+[02:14] concern, and all those AI stocks like
+[02:16] Nvidia that had been sold off came
+[02:18] roaring back. And I think we're going to
+[02:19] see the exact same thing now. Yeah,
+[02:21] there's a lot of money being spent on
+[02:23] AI, but the companies can afford it
+[02:25] because they have earnings. Therefore,
+[02:27] they have cash flow, and we'll realize
+[02:30] that, and then we'll get back to uh
+[02:31] being in the money-making business.
+[02:34] That's a great observation, Adam, of the
+[02:36] DeepSeek analogy. Um
+[02:38] you know, the problem is when the short
+[02:41] sellers create a narrative, it kind of
+[02:43] has to
+[02:44] have a um bit of a lot a life cycle. Um
+[02:49] most of the articles criticizing Nvidia
+[02:51] are emanating from Seeking Alpha or
+[02:54] Substack.
+[02:55] And there a lot of it is about um how
+[02:59] Nvidia will go make an alliance with a
+[03:01] company like OpenAI.
+[03:04] And then, because Nvidia's doing
+[03:06] business, that increases their
+[03:08] valuation, so they can go out and raise
+[03:09] more money to buy their chips. And um
+[03:12] their their alliances are getting
+[03:15] criticism, but that's how you maintain a
+[03:17] monopoly. That's how you generate sales.
+[03:19] So, I I see nothing wrong with this, but
+[03:22] that's what they're trying to insinuate.
+[03:24] And of course, these are very
+[03:25] unscrupulous people trying to take a
+[03:28] advantage of the stock. And uh you know,
+[03:31] as we approach Thanksgiving, we're going
+[03:32] to hit holiday trading. And I hope we
+[03:34] just get a big reversal to bury these
+[03:36] guys because uh you know, these are not
+[03:39] the sharpest tools in the shed out
+[03:41] there. They're just trying to be
+[03:42] disturbers and and throw mud on
+[03:45] something that's just beautiful. And uh
+[03:47] Yeah, agreed. Nvidia has to go higher.
+[03:49] It's by far my largest holding. I don't
+[03:51] want to
+[03:52] you know, pay taxes on a 4,000-plus
+[03:55] percent gain, you know. So, neither do
+[03:57] my clients. So,
+[03:59] we're going to power through this. I'm
+[04:00] happy that um Nvidia's still
+[04:02] accelerating, which is amazing Yeah. for
+[04:05] a company this size and magnitude. So,
+[04:08] yeah.
+[04:08] >> And and and by the way, Louis, you know,
+[04:10] that that 62% growth that they they put
+[04:13] up for the quarter, and then the 50 to
+[04:15] 55% growth they're guiding to for next
+[04:17] quarter, that doesn't even include
+[04:19] China. That's right. You know, they said
+[04:21] we we can't rely on China since we don't
+[04:23] know what the deal is with the White
+[04:24] House. Well,
+[04:25] it looks like the White House is okaying
+[04:27] sales to China, which means the numbers
+[04:29] are actually going to be better than
+[04:31] expected. So, yeah, for so many reasons,
+[04:33] Nvidia's doing everything right. Yeah,
+[04:35] correct. And you know, the replacement
+[04:37] cycle is also going to be pretty
+[04:39] aggressive. So, as they introduce new
+[04:41] chips, they're going to have to replace
+[04:42] older chips. So, this is a perpetual
+[04:45] motion machine of this time. I think so.
+[04:47] Yeah. Now, on private credit, Blue Owl
+[04:49] walked away from that fund merger, but
+[04:51] how big of a warning sign is this?
+[04:53] Well, Jamie Dimon, CEO of JPMorgan,
+[04:56] famously came out a couple of weeks ago
+[04:59] and said he saw cockroaches crawling
+[05:02] around private credit. Simply because
+[05:04] it's not monitored. You know, it's like
+[05:06] off-balance-sheet transactions. You
+[05:07] don't know what's there. It's private,
+[05:09] like private equity, but this is private
+[05:11] credit. Now, in fairness, you would
+[05:13] expect Jamie Dimon to criticize his
+[05:15] competitors, right? Private credit is
+[05:17] trying to take money away from the
+[05:18] banks. But he's got a point, and whether
+[05:21] they're cockroaches or some other
+[05:22] unscrupulous bug crawling around, we
+[05:25] don't exactly know what's there. I've
+[05:27] never bought Blue Owl, in part for this
+[05:29] reason, because it's opaque. You don't
+[05:31] know what's in there. Again, it's
+[05:32] private, and it's just very difficult to
+[05:35] quantify these things. So, um yeah, I've
+[05:37] never touched that. It just doesn't fit
+[05:40] what makes sense to me, you know,
+[05:42] something that I can quantify. And then
+[05:45] the bigger question becomes, does does
+[05:47] what's happening at or is what's
+[05:49] happening at private at Blue Owl uh sort
+[05:51] of symptomatic of what's happening
+[05:53] across the industry as a whole? We don't
+[05:55] really know. And they always say, you
+[05:56] know, you don't know what you don't
+[05:58] know, and that's actually what can bite
+[05:59] you the worst. But I will say the public
+[06:02] banks, the JPMorgans, uh Bank of
+[06:04] America, etc., are so well capitalized
+[06:07] and so much better capitalized than they
+[06:10] were back in 2008. In addition, there is
+[06:13] so much less leverage right now within
+[06:16] real estate, and corporate credit is
+[06:19] extremely strong, which is why corporate
+[06:21] bond spreads are almost as tight as
+[06:23] they've ever been. So, when I look at
+[06:25] credit sort of
+[06:28] in in in in aggregate, I'm okay with it.
+[06:30] I think the bond market's okay with it.
+[06:31] That's why credit spreads are so tight.
+[06:33] But in in private uh credit, yeah, there
+[06:36] there probably are some of those uh
+[06:38] Jamie Dimon cockroaches that he talks
+[06:40] about.
+[06:40] >> Yeah, you know, I've been pretty
+[06:42] critical of private credit, mostly
+[06:43] because, you know, the reason they pay
+[06:45] an 11% yield is they they are leveraging
+[06:48] uh loans, usually two to one,
+[06:50] to get that yield. And but they do plan
+[06:52] a certain default rate. And some of the
+[06:54] private credit deals look pretty good.
+[06:56] Ares Capital Management, that's ARES,
+[06:58] they're helping uh Oracle build out the
+[07:00] data centers. And I think that's a
+[07:02] perfectly legitimate
+[07:05] uh creditor, Oracle. I think they're
+[07:07] going to get paid back, and somebody
+[07:09] tried to
+[07:11] smear Oracle with with that news, and I
+[07:13] don't think that was valid at all. So,
+[07:16] um
+[07:17] um So, it's like anything in life,
+[07:19] there's winners, there's losers, and I
+[07:22] and um
+[07:23] if you want to go bottom fishing in
+[07:24] private credit, I think that ARES would
+[07:27] be a better choice.
+[07:29] Um and uh hopefully Blue Blue Owl will
+[07:31] work out its its kinks.
+[07:33] But uh it's uh it's an interesting
+[07:35] business. It's obviously a shadow
+[07:37] banking system we have in America.
+[07:39] I think it's $3 trillion a year.
+[07:42] So, it's it's something we just have to
+[07:44] keep an eye on. And if there is a
+[07:45] problem, if they're just going to have
+[07:46] to slash rates
+[07:48] and to help this uh industry cuz it's
+[07:50] tied to the banking industry.
+[07:52] That's true. And and I wouldn't exactly
+[07:54] object if the Fed uh slash rates.
+[07:55] >> Well, actually we got that. Uh John
+[07:57] Williams gave a speech in Chile, and he
+[08:00] says we now have to cut. And then we
+[08:02] have uh Stephen Moore and of course he's
+[08:04] pushing for cuts. Stephen Moore is
+[08:05] really interesting. He says, "You don't
+[08:07] have to rely on the economic data if you
+[08:09] know your if your economic forecast is
+[08:11] good." And then of course, uh
+[08:13] Christopher Waller, he uh
+[08:14] he wants to cut, and he's the one that
+[08:16] first saw the all the downward job
+[08:18] revisions before the Labor Department
+[08:20] report them. So, he and he's of course a
+[08:22] candidate for the next Fed chairman.
+[08:24] Yeah. So, I think the last I looked
+[08:27] Thursday, the odds of a of a Fed cut
+[08:30] were slightly under 40%, and now they're
+[08:32] about 71%. Yeah. So,
+[08:35] I I think that helped the market.
+[08:37] >> Yeah. that's for December. And then if
+[08:39] you go out to January, it's virtually
+[08:41] 100. So, in other words, it's just a
+[08:43] question of timing. Right? If it's 100
+[08:45] virtually 100% odds by January, now
+[08:47] we're just debating, is it December or
+[08:49] is it January?
+[08:50] That's a very good point. That's a very
+[08:52] good point. Well, I think the Fed needs
+[08:55] to be in the holiday spirit and cut for
+[08:57] the holidays. I think that would be very
+[08:58] nice to him. I realize they're
+[09:00] frustrated that um
+[09:02] they're not going to get the October um
+[09:05] payroll till December 16th, but uh we'll
+[09:08] get the ADP report, and ADP is pretty
+[09:10] reliable.
+[09:11] Also, Adam, did I think we're just going
+[09:13] to not going to get a CPI for October,
+[09:15] right? We're just going to get one for
+[09:16] November? Yeah, I think that's right.
+[09:18] Sorry.
+[09:21] Okay, you know,
+[09:23] um
+[09:24] I mean, it feels it feels, Louis, like
+[09:27] things have stabilized at about 3%.
+[09:30] I don't see any upward pressures. I
+[09:32] mean, I mean, if anything, you know, oil
+[09:34] down in the 50s pretty consistently
+[09:36] helps uh the cause. Food prices coming
+[09:38] down, you know, Walmart talking about
+[09:40] the Thanksgiving meal this year being I
+[09:43] think as much as 20 or 25% cheaper. I
+[09:45] mean, that's a big deal. So, I know it's
+[09:47] a little volatile, but
+[09:50] Obviously, President Trump told Walmart
+[09:52] to say that. I was happy with that cuz
+[09:55] um I own Walmart. Walmart and Costco are
+[09:57] the only retailers I own and Walmart, of
+[09:58] course, gapped up after its results. And
+[10:01] then President Trump is removing the
+[10:02] tariffs on bananas and coffee and yep.
+[10:06] Beef, apparently we import a lot of beef
+[10:08] cuz all the ground chuck comes from uh
+[10:10] someplace else. Uh I didn't know that.
+[10:13] Yeah. Well, you know, coffee is mostly
+[10:15] due to the drought in Ecuador, but uh
+[10:18] Yeah, I'm uh I I have to pay the premium
+[10:20] for coffee cuz I can't function without
+[10:22] it. Adam, uh the Atlanta Fed is uh
+[10:26] uh saying that the economy is growing at
+[10:28] 4.2% right now. Yeah. And that's
+[10:30] obviously impressive.
+[10:33] Appears a lot of it's data center
+[10:34] related.
+[10:36] Uh but because the data center's uh
+[10:38] order backlog went up 20% from second to
+[10:41] third quarter and they're up uh
+[10:44] anywhere from 50 to 65%.
+[10:46] Uh 12 months, it looks like we're going
+[10:49] to hit 5% GDP growth, especially with
+[10:51] this Fed turbo boost. So, I don't think
+[10:54] this is going to be inflationary because
+[10:56] we're importing a deflation from China.
+[10:58] We have owner's equipment rent. Looks
+[11:00] like it's softened, so that's going to
+[11:02] help the inflation indices. You know,
+[11:05] you know, you GDP growth by itself
+[11:06] doesn't have to be inflationary. Right.
+[11:09] So, it really looks like we're going to
+[11:12] be in economic nirvana next year. Yeah,
+[11:14] I think well, I I think so and I mean
+[11:16] that's why
+[11:17] our American Ingenuity Fund is fully
+[11:19] invested. I mean, think about it. Um
+[11:21] Louis, not only do we have 4.2% GDP
+[11:24] growth, which is way above the 25-year
+[11:27] average of about 2.7%, right? We're at
+[11:29] 4.2, maybe going to five. That's very
+[11:31] strong. Uh we also have now had four
+[11:34] consecutive quarters of double-digit
+[11:36] earnings growth and um
+[11:39] uh profit margins at 13.2%,
+[11:42] which are the highest since 2009. That's
+[11:45] a powerful combination and what's
+[11:46] fascinating is that this has happened in
+[11:49] spite of tariffs,
+[11:51] in spite of inflation that, you know,
+[11:53] it's still a tad higher than we'd like,
+[11:55] in spite of worrying about rate cuts,
+[11:57] will they or won't they,
+[11:59] in spite of all of that, earnings have
+[12:01] been incredibly strong, the economy's
+[12:03] growing. So, yeah, whether it's data
+[12:05] center growth, which, by the way, just
+[12:07] undermines the whole notion that the
+[12:09] shorts are trying to promote, which is
+[12:11] it's not real. No, it is real. That's in
+[12:13] part why GDP is so strong, uh data
+[12:15] center growth. It really argues for
+[12:17] being long and and a very prosperous, I
+[12:21] think, uh 2026 as I look forward.
+[12:24] There's there's so much more to like
+[12:26] than to fear in this market, Louis.
+[12:28] Yeah, you know, I we have a home in Reno
+[12:30] and um I was out there not that long ago
+[12:33] and uh
+[12:34] Apple and Oracle are really big out
+[12:36] there and um as well as Google. I was
+[12:38] just shocked by the data centers moving
+[12:41] in. I was just shocked. It's um
+[12:44] You know, they they all of a sudden they
+[12:46] weren't there, now they're there and I
+[12:47] think they we've added over 13, so
+[12:50] Wow.
+[12:50] >> Um it's uh And you know, you even New
+[12:53] York should get some cuz you have
+[12:54] hydroelectric in the upper part of the
+[12:56] state and that's they always go where
+[12:58] the electricity's cheap, so
+[13:00] I would think they would go they would
+[13:02] go up there. So, um but it's it's um
+[13:04] just amazing. I've never seen anything
+[13:06] like this and it but base based on the
+[13:10] physical footprints, it's real. So. Oh,
+[13:12] yeah. Well, I mean, a third of my
+[13:14] portfolio, there are about 41 names in
+[13:16] in the portfolio right now and about a
+[13:19] third of them are within the compute
+[13:22] theme. Uh there's some data center
+[13:24] plays, some semiconductors, some
+[13:26] companies that focus on building data
+[13:28] centers, right? I mean, it's a whole
+[13:29] ecosystem and again, it's it's about a
+[13:31] third of my portfolio, which is why I
+[13:33] had a tough couple of weeks, but I think
+[13:34] I'm very well positioned for the rebound
+[13:37] that I think will materialize over the
+[13:39] next several weeks. Yeah, I'm pushing
+[13:41] 50% between Nvidia, AI suppliers like
+[13:44] Apple, I mean, and Palantir and then
+[13:46] everybody building out the data centers.
+[13:49] It's it's the cabling, it's the the air
+[13:52] conditioning. Yeah. Excellent. Uh the
+[13:56] the
+[13:57] Thanks to you, we got GE Vernova. Thank
+[14:00] you for that that pick. The winning
+[14:03] natural gas turbines.
+[14:05] And then if they can't get if those
+[14:07] turbines, I guess, are a five-year order
+[14:09] backlog for GE Vernova and Siemens.
+[14:12] But you know, if you just get a natural
+[14:13] gas line to a data center, they can get
+[14:15] a a small turbine, you know, the
+[14:17] aviation industry makes tons of them and
+[14:19] they'll run the whole data center. Yeah,
+[14:21] just it's amazing, right? Just put the
+[14:22] nat gas through effectively a jet
+[14:24] engine, you spin a turbine, create
+[14:26] electricity on site, problem solved. You
+[14:28] don't have to starve the grid for
+[14:30] electricity. So, yeah, I think that's
+[14:31] very exciting.
+[14:32] Correct. So, it's uh
+[14:35] Again, thanks again for GE Vernova. That
+[14:36] was a good call. You be found that one
+[14:38] before I did. Okay. Yeah, well, thank
+[14:40] you. Good.
+[14:42] So, I've lost count of how many gold
+[14:44] stocks my dad recommends. Are gold and
+[14:46] gold miners a real oasis in this
+[14:49] environment or are are investors kind of
+[14:51] over romanticizing them?
+[14:54] No, I think investors are not over
+[14:56] romanticizing gold. They're going with
+[14:58] what works and right now gold works.
+[15:00] Admittedly, I don't own any gold. I
+[15:02] don't own any gold miners. You know, it
+[15:04] doesn't fit my paradigm for American
+[15:06] ingenuity, right? That the US-based
+[15:08] companies, people, and technology is
+[15:10] driving the world forward. I mean, gold,
+[15:12] you know, just kind of sits there. So,
+[15:14] I'm not in gold, but the people who have
+[15:17] owned gold have done extremely well and
+[15:20] Louis, I don't know about you, but
+[15:22] I don't see what upsets the gold apple
+[15:25] cart, you know? I mean, I I think it
+[15:27] keeps going. Yeah, I I think it's it's
+[15:30] in my opinion, it's mostly driven by
+[15:32] central bank demand because central
+[15:34] banks are losing credibility in the
+[15:36] world. I mean, look at China.
+[15:38] Their rates are below Japan. They can't
+[15:40] cut rates. They're they have hideous
+[15:42] deflation. Yeah. Bloomberg had a great
+[15:45] article on on how deflation's really
+[15:47] hurting China.
+[15:49] So, they're going to have to a currency
+[15:51] devaluation. I I don't see how they get
+[15:53] out of this mess they're in.
+[15:55] And you know, let's see, New Zealand
+[15:56] just tipped into recession, Thailand
+[15:58] tipped into recession, Japan tipped into
+[16:01] recession.
+[16:02] The UK has to raise 30 billion pounds,
+[16:06] so I guess that's over
+[16:08] 40 40
+[16:10] billion dollars to make their ends meet
+[16:12] cuz they they chased some of the rich
+[16:13] people out and their tax revenue
+[16:14] dropped. That's for sure. And they're
+[16:16] worried about um
+[16:18] issuing bonds and uh
+[16:21] And then, of course, France is
+[16:22] deadlocked with Marine Le Pen
+[16:24] controlling Parliament and then
+[16:26] Germany finally did the right thing.
+[16:28] They were going to put in all these
+[16:29] natural gas plants to
+[16:31] help help their manufacturing base with
+[16:33] a reasonable electricity costs and then
+[16:35] the Green Party uh got merged to to
+[16:38] eliminate a lot of those. So, there's
+[16:40] still some coming in, but not as many as
+[16:42] planned.
+[16:43] So, it's just the central banks have
+[16:45] lost credibility and um I guess the one
+[16:48] to watch right now is Japan
+[16:51] because their longer-term bond yields
+[16:53] are going up and the the new Japanese
+[16:56] Prime Minister wants to spend some money
+[16:58] and the question is is is she going to
+[17:00] have a a Liz Truss moment like the UK
+[17:03] had cuz remember Liz Truss wanted to
+[17:05] cut taxes, spend a little bit more, and
+[17:08] stimulate the economy. And then the the
+[17:10] bond vigilantes said, "No, no, Liz, you
+[17:12] can't do that." So, it's going to get
+[17:14] interesting here.
+[17:16] She was in like what, two weeks?
+[17:20] Yeah. Yeah, and Trump already met her
+[17:21] and said she's a a great gal and all
+[17:23] that stuff, but she's Japan gets new
+[17:25] Prime Minister every year, so it's uh
+[17:28] It would be nice if they could have some
+[17:29] stability for a change. You know, and it
+[17:32] would be nice if they don't kill their
+[17:33] politicians anymore, too, cuz they had
+[17:35] that incident, so
+[17:37] It's uh it's going to be interesting.
+[17:40] But uh you know, these these central
+[17:42] banks don't have a lot of credibility.
+[17:45] It's interesting to watch what's
+[17:47] happening in crypto. I would hope that
+[17:48] some of those crypto people would try
+[17:50] gold, you know, because uh crypto, I
+[17:52] guess, is at a Bitcoin's a seven-month
+[17:54] low and um
+[17:56] and it's down now down for the year.
+[17:58] So, I think Tom Lee said that we're all
+[18:01] the economy's tied to crypto. I had no
+[18:04] idea what he's talking about and I read
+[18:05] the article, I still have no idea what
+[18:07] he's talking about.
+[18:08] But I do know that
+[18:11] the central banks can uh when they buy
+[18:13] gold, that's a legitimate reserves and
+[18:15] it gives them more credibility. Yeah.
+[18:18] And interesting that they're talking
+[18:19] about now a Bitcoin reserve
+[18:21] in the US. Um and what's really
+[18:24] fascinating is you can pay your taxes. I
+[18:26] don't know if you've heard this. I just
+[18:27] heard this um
+[18:29] Friday. You can pay your taxes with
+[18:31] Bitcoin and if you do,
+[18:34] uh there is no capital gain on the
+[18:36] Bitcoin that you send to the government.
+[18:39] So,
+[18:40] uh that's pretty fascinating to me and I
+[18:43] mean, the
+[18:44] Right?
+[18:45] >> That's un fascinating. I have not heard
+[18:47] that.
+[18:48] >> Yeah.
+[18:49] Yeah. Well, I guess who's invested
+[18:51] >> [laughter]
+[18:52] >> crypto.
+[18:53] I mean, it's amazing, you know, just
+[18:55] Yeah, here. Here, take my Bitcoin that I
+[18:57] made, you know, 10,000% on it. I'll pay
+[19:00] my taxes and great. No no capital gains
+[19:02] on my Bitcoin. Wow. But it also it's a
+[19:05] it's an easy way for the government to
+[19:06] try to start accumulating a Bitcoin. I
+[19:08] guess the reason they did this was
+[19:10] because in various seizures where, you
+[19:12] know, the government seizes assets of
+[19:14] you know, a criminal, for example, or
+[19:16] the the Russian oligarchs, all of a
+[19:19] sudden they realize, "Oh, we've got all
+[19:20] this Bitcoin here. Um what do we do with
+[19:22] it?" They needed a central repository,
+[19:24] so they said, "Oh, we'll create a
+[19:25] Bitcoin trust uh managed by the federal
+[19:27] government." And then as it turns out,
+[19:29] they go, "Oh, yeah, okay, fine. If
+[19:30] people give us their Bitcoin
+[19:32] via tax payments, then we'll
+[19:35] get it that much easier." I mean, it's
+[19:36] it's fascinating. Yeah, Paul Atkins is
+[19:39] the SEC chairman, you know, in his
+[19:41] disclosure documents, he had 6 million
+[19:43] personally in crypto and none of it was
+[19:46] a Bitcoin.
+[19:47] So, I assume he was assuming as they
+[19:49] create this the structure and the
+[19:51] framework for segregated accounts
+[19:54] that
+[19:55] that might firm up. I mean, it's uh
+[19:59] You know, and I think the other thing is
+[20:02] I don't think Trump wanted crypto to be
+[20:05] traded in Korea or India or he wants it
+[20:08] he wants us to be able to control it.
+[20:10] So, yeah.
+[20:11] I had not heard anything about taxes cuz
+[20:13] I think before
+[20:15] Bitcoin was was taxed. That's why you
+[20:17] had to declare it on your or crypto you
+[20:19] had to declare it on your tax return.
+[20:21] And I think it was taxed almost a
+[20:23] collectible rate versus capital gains.
+[20:25] So,
+[20:26] that's a big deal. If you can just fast
+[20:29] and not pay capital gains, wow.
+[20:31] Fascinating.
+[20:32] So, stay tuned. I mean, it's a work in
+[20:34] progress. Who knows? But that's yeah,
+[20:36] Bloomberg was talking about that this
+[20:38] past week and
+[20:39] and generally when Bloomberg talks about
+[20:42] stuff like that, I you know, I pay
+[20:43] attention. They do their homework.
+[20:46] Yeah, it's that's only news
+[20:48] [clears throat] channel I watch, to be
+[20:49] honest with you. I'm an embryo because
+[20:51] you and I
+[20:52] are Mary Ann
+[20:54] and when you're on them, I watch you all
+[20:56] the time. So, good. Yeah, Fox Business
+[20:58] is great.
+[21:00] Now, let's hit some individual stocks
+[21:01] reporting some results this week. Let's
+[21:03] start out with Zoom Video. What do you
+[21:05] expect from Zoom's results?
+[21:08] Well, their sales are supposed to be up
+[21:10] 3.1%.
+[21:12] Their earnings are supposed to be up
+[21:13] 4.2.
+[21:14] The analysts have started revise their
+[21:16] estimates higher and they have been
+[21:18] consistently surprising.
+[21:20] So, I expect them to beat and guide
+[21:23] higher. Zoom's very important.
+[21:26] You know, I know Microsoft
+[21:28] well, they had Skype. Now, they have
+[21:30] Teams, but uh
+[21:32] you know, Zoom is very very important
+[21:34] for for commerce. I expect them to
+[21:35] surprise. Everything here looks pretty
+[21:37] pretty solid. Yep, agreed. Now, for
+[21:39] Analog Devices, what do you expect or
+[21:42] are they going to show us about demand
+[21:44] in industrials and autos this quarter?
+[21:46] Well, I think so because their sales are
+[21:48] supposed to be up 23.5
+[21:50] and that's a pretty nice uh
+[21:53] gain. Their earnings are supposed to be
+[21:55] up 33.8.
+[21:58] There have been no analyst earnings
+[22:00] estimate changes and they have a a good
+[22:03] surprise history. So,
+[22:05] this is a very very reliable stock. I
+[22:07] would add that when your earnings are
+[22:08] going faster than sales,
+[22:10] your margins are expanding. So, you're
+[22:12] well for a nice report.
+[22:14] >> That's amazing. Louis, just think of the
+[22:16] preponderance of semiconductors in our
+[22:18] world now. I mean, there's some cars
+[22:20] that have a couple thousand
+[22:22] semiconductors, right? I mean, something
+[22:24] as simple as just the sensor in your
+[22:26] tire so that you get the notification on
+[22:29] your dashboard
+[22:31] right front tire pressure low, 28 PSI,
+[22:33] right?
+[22:34] There are separate semiconductors that
+[22:36] manage all this stuff. NXP I owned for a
+[22:38] long time because, you know, you
+[22:39] mentioned the ADI component of or the
+[22:42] industrial component for ADI earnings.
+[22:45] And NXP just does industrial
+[22:47] semiconductors. I've since sold it cuz I
+[22:49] I wanted to pivot more to AI focused
+[22:52] semiconductors. But I mean, it's just
+[22:54] incredible. They are absolutely
+[22:55] everywhere. That I mean, this is why
+[22:56] it's so much a part of um
+[22:59] certainly my portfolio and and from what
+[23:01] I'm hearing you say, yours as well. You
+[23:04] just you got to own compute as a theme.
+[23:07] Correct. And and cars are computers now.
+[23:09] So,
+[23:10] I just had to change the um
+[23:13] whole tire sensor system on an Audi we
+[23:15] own. It wasn't cheap. Oh, I know. I
+[23:17] thought it was just the batteries in the
+[23:19] tires cuz we
+[23:20] we we we swapped to put snow tires on um
+[23:24] and
+[23:25] for the winter and the snow
+[23:27] we have separate rims and tires and
+[23:28] anyway, so I said, "It's got to be the
+[23:30] batteries." No, it's the whole system,
+[23:31] sir. Anyway, the whole system. So,
+[23:35] anyway,
+[23:36] it's done.
+[23:37] >> [laughter]
+[23:37] >> Now, we know our tire pressure. Now, for
+[23:40] Abercrombie & Fitch, they just announced
+[23:42] their early Black Friday deals, but what
+[23:44] do you expect for them in terms of their
+[23:45] sales and margins?
+[23:47] Well, this is a leading retailer. Their
+[23:50] sales are supposed to be up 5.8%.
+[23:53] Their earnings are supposed to be down
+[23:56] 4.
+[23:57] No, 14%. Earnings are going to drop 14.
+[24:00] Analysts have trimmed estimates. They've
+[24:02] gone from uh
+[24:04] 256 3 months ago to 216 today. So, I
+[24:07] think this one could surprise. They've
+[24:10] had two big surprises the past two
+[24:12] quarters.
+[24:13] You know, Abercrombie has expanded its
+[24:16] demographic
+[24:17] group and they're very very good
+[24:19] retailer.
+[24:21] We have had some signals that if you
+[24:24] cater to the right demographic group,
+[24:26] sales are pretty good. So, I'm going to
+[24:27] I'm going to bet they surprise again.
+[24:30] Yeah, well, especially on the heels of
+[24:32] what Walmart did last week. I mean,
+[24:34] blowout numbers. They raised guidance.
+[24:36] You know, people are employed and
+[24:38] they're making money. I know we had the
+[24:39] uptick in in unemployment from 4.3 to
+[24:42] 4.4, fine. But there are a lot of people
+[24:46] out there
+[24:47] making money and they're spending it.
+[24:48] That's in part why why earnings so yeah,
+[24:50] I'm with you on retail right now.
+[24:52] And we have cold fronts, you know? So,
+[24:55] when it gets cold, people have to go buy
+[24:57] coats and stuff. So, that that's always
+[24:59] good. I mentioned Black Friday deals, so
+[25:02] we have to talk about Best Buy. What do
+[25:03] you expect for their numbers on the
+[25:05] health of the consumers and big ticket
+[25:07] spending? I like Best Buy. I shop there.
+[25:10] I bought my TV there. I am. I am. So,
+[25:13] the Crystal, yeah. So,
+[25:16] we had a big debate in Crystal's which
+[25:17] she got a big TV or a little one. She
+[25:19] got a little one
+[25:21] and That was very thoughtful. But that's
+[25:24] that's an ongoing debate. Sales are
+[25:26] supposed to be up 1.6, which is pretty
+[25:29] good because electronic retail sales
+[25:31] have been poor. Earnings are supposed to
+[25:33] be up 4.2.
+[25:36] They have analysts have revised their
+[25:38] estimates slightly higher. So, that's
+[25:40] good.
+[25:42] And this is another company that just
+[25:45] has very consistent surprises the past
+[25:47] three quarters.
+[25:49] I don't know. I think
+[25:50] what's going on other than, you know,
+[25:54] we need all uh
+[25:56] the the the Bluetooth devices for music
+[26:00] now and
+[26:01] and we course
+[26:02] every time we upgrade our routers and
+[26:04] stuff, Best Buy has all of that stuff we
+[26:06] need.
+[26:08] I think the main thing is in America,
+[26:10] they want us to have a 115-in TV.
+[26:13] Yeah. And uh
+[26:15] um
+[26:16] you're going to see at least in
+[26:18] suburbia, okay?
+[26:21] Most American males will have a TV of
+[26:24] that magnitude because it's
+[26:26] we will have mental problems if we
+[26:28] don't, okay? So,
+[26:30] Samsung already makes a very reasonably
+[26:32] priced one. TCL, which is a Chinese TV
+[26:36] company, is is capturing market share.
+[26:39] They make them even more reasonably
+[26:40] priced. And of course, you need the Geek
+[26:42] Squad install that cuz that thing's
+[26:43] heavy. So, I know that's probably not
+[26:46] going to be in the
+[26:47] apartments, but everywhere else.
+[26:50] That is what's going to be happening.
+[26:52] Well, I have the Samsung Frame. I think
+[26:54] it's 55-in so, you know, look, I live in
+[26:56] a New York apartment. I couldn't get the
+[26:58] 75-in, but it's amazing. I mean, the
+[27:01] functionality of that thing and it's all
+[27:03] on Wi-Fi and one of my favorite
+[27:05] functions well, my wife loves it. We we
+[27:07] have coffee every morning and there's
+[27:09] this art subscription that's part of
+[27:11] buying the Samsung Frame and you
+[27:13] literally can choose one of like 50,000
+[27:17] images of painting, a photograph,
+[27:18] whatever. And so, when you turn the TV
+[27:20] off, the image just appears on the TV
+[27:23] like a painting on the wall. So, it
+[27:24] doesn't just look like a big black, you
+[27:26] know, void. It's really cool. So, you
+[27:28] can just change the thing. So, we do
+[27:30] that every morning over coffee. We say,
+[27:31] you know, how are we feeling? We want
+[27:33] Monet?
+[27:33] >> [clears throat]
+[27:34] >> So, your your Picasso isn't real? No,
+[27:37] it's not. No.
+[27:40] Nor nor nor was the Monet from yesterday
+[27:42] or whatever.
+[27:43] Well, well, I'm I'm impressed that you
+[27:45] have a Monet and Picasso. So, it's so,
+[27:47] that would make your coffee better in
+[27:49] the morning. Yes, very good.
+[27:52] Now, what do you expect from Dell on AI
+[27:54] servers and PCs?
+[27:57] Dell is definitely making some progress
+[28:00] on
+[28:01] servers.
+[28:02] It's very competitive though. You're
+[28:03] competing with Oracle and
+[28:05] HP and some other companies. Their sales
+[28:07] are supposed to be up 12%, which is
+[28:09] excellent.
+[28:11] Their earnings are supposed to be up
+[28:12] 15.3,
+[28:14] excellent. Analysts have trimmed their
+[28:16] earnings estimates slightly in the last
+[28:18] 90 days, but last 60 days are
+[28:21] they actually went up a penny. Very
+[28:23] consistent surprises. I think Dell's
+[28:25] going to be more about its guidance.
+[28:27] Their data center business has been a
+[28:29] little slower than
+[28:30] some people thought, but it looks like
+[28:32] it's picking up momentum now. So, we
+[28:34] need them to provide good guidance. Now,
+[28:36] what do you expect from Dick's on same
+[28:38] store sales and guidance for spending?
+[28:41] Their sales are supposed to be up 45.1%
+[28:43] for Dick's. That's that's amazing.
+[28:46] That's the good news. The bad news is
+[28:48] their earnings are supposed to be down
+[28:49] 1.6.
+[28:51] Now, the analysts have trimmed their
+[28:52] estimates slightly, but in the last 60
+[28:55] days, they're actually revised up about
+[28:57] 3 cents.
+[28:58] I think Dick's is just a very good
+[29:01] retailer. It's a survivor.
+[29:03] And uh
+[29:05] there is new technology out there to to
+[29:07] go if you want some new equipment like
+[29:10] the new golf clubs
+[29:13] like the Ping 440s are really really
+[29:15] good
+[29:16] golf clubs. They they actually make them
+[29:18] Vietnam.
+[29:20] But like when you go buy the driver like
+[29:22] since when are drivers $650? I thought
+[29:24] they were $500.
+[29:27] So, there's there's some margins built
+[29:29] in
+[29:30] and uh
+[29:32] but obviously, they do a lot more than
+[29:34] just golf. So, uh
+[29:36] but they got good traffic in there and
+[29:38] hopefully, they'll have some good
+[29:39] holiday sales. So, I'm expecting a
+[29:41] surprise. And lastly, what do you expect
+[29:43] for D? Well, I've been very very nasty
+[29:47] to John Deere, Um
+[29:49] critical that they moved
+[29:51] a lot of their manufacturing to Mexico.
+[29:53] This is before Trump got in.
+[29:56] Uh laid off a lot of people.
+[29:58] Uh they've obviously been struggling cuz
+[30:00] the farmers in Europe were struggling
+[30:01] and our farmers were struggling for a
+[30:03] while.
+[30:04] But it looks like things are getting
+[30:06] better. Uh sales are going to be up 5.8%
+[30:10] according to the analyst community.
+[30:12] Brain's going to be down 16.3. That's
+[30:14] pretty good. I mean, they were
+[30:16] struggling at one time.
+[30:18] There's been some minor analyst cuts,
+[30:20] but in the last two quarters they have
+[30:21] surprised. So,
+[30:23] there's hope for John Deere and
+[30:25] obviously the agricultural community
+[30:27] hopefully is getting better now that the
+[30:29] exports are picking up and but this is a
+[30:32] great American company, but they do make
+[30:34] a lot in Mexico.
+[30:35] Yeah, they do. And a lot of the as you
+[30:37] point out the sales are dependent upon
+[30:39] what happens outside the US and a lot of
+[30:41] those agrarian economies have really
+[30:43] been struggling. And I think I think
+[30:44] that's what is weighed on on Deere. I
+[30:47] mean, the technology is amazing, right?
+[30:49] I mean, the the little sensors as as as
+[30:52] a combine's going through a field to
+[30:54] know which stock should be plucked
+[30:56] when or to pass it up or the weeders,
+[30:59] you know, you pull the weeder behind the
+[31:00] tractor and lasers will find weeds and
+[31:04] zap them as the thing's moving, but not
+[31:06] zap the I mean, that's incredible
+[31:07] technology, but yeah, the the sales have
+[31:10] been the issue. Yeah, you know, the
+[31:12] European farmers were obviously hurt by
+[31:14] the net zero goals.
+[31:16] Yeah. Cuz they had to cull their herds
+[31:18] and they had to give up 30% of their
+[31:19] farmland and they had to restore a
+[31:22] natural state and then
+[31:24] there was a big push to do
+[31:26] organic versus chemical fertilizers and
+[31:28] the reason the European farmers
+[31:30] protested is
+[31:32] Europe would then import everything from
+[31:34] Latin America that have those rules, you
+[31:36] know? So,
+[31:38] yeah, the
+[31:39] the assault on farming seems to be dying
+[31:42] down.
+[31:43] You know, you know, New Zealand's a a
+[31:45] very green place and they were trying to
+[31:48] do net zero.
+[31:49] And then they just figured out that
+[31:52] if we kill all our animal herds, we
+[31:53] won't have an economy.
+[31:55] Imagine that. So, there's a pushback.
+[31:58] And then we had COP30 in Brazil and
+[32:00] there was a big pushback there because
+[32:03] 80 countries didn't want to curtail
+[32:04] fossil fuels and then of course
+[32:07] embarrassingly they had this huge fire
+[32:08] breakout in their exhibit area. So,
+[32:12] uh I think that what's hurt the the
+[32:14] climate stuff is
+[32:16] the the poor countries always wanted
+[32:19] money from the richer countries and the
+[32:20] richer countries don't want to do that
+[32:22] anymore. So, you know, of course, we're
+[32:24] not there cuz President Trump doesn't
+[32:26] believe in that kind of stuff.
+[32:28] Neither does India or China. So, I think
+[32:32] it's I think this assault on farming is
+[32:34] is dying down. I certainly hope they
+[32:36] don't cull animal herds anymore. I feel
+[32:38] sorry that Ireland has to keep reducing
+[32:41] their dairy herds every year and
+[32:43] I don't know,
+[32:44] you know, I don't know why they comply.
+[32:46] I would I would just That's crazy. I
+[32:49] would just protect my dairy industry,
+[32:51] but
+[32:52] we'll see. Yeah. Well, Adam, thank you
+[32:54] so much for joining us today and thank
+[32:57] you to you all for joining us and
+[32:58] watching. Make sure to hit that like
+[33:00] button and subscribe if you haven't
+[33:02] already. All of Adam's links will be in
+[33:04] the description below, but until then
+[33:05] we'll see you all next week for a new
+[33:07] video.
+[33:09] >> [music]

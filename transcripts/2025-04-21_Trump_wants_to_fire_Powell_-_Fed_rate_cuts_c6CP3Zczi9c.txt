@@ -7,9 +7,39 @@ Type: short
 Duration: 1:16 (76s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 31
+Transcript characters: 1151
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The stock market seems to be upset that
+[00:03] uh President Trump wants to fire Fed
+[00:07] Chairman Jerome Powell, but I must agree
+[00:09] with President Trump. Uh the Fed should
+[00:12] be cutting rates. European Central Bank
+[00:14] just cut rates for the seventh time.
+[00:16] You'll see the Bank of Canada will cut
+[00:18] rates after their election on April
+[00:20] 28th. And there is a worldwide collapse
+[00:23] in rates. Now, the problem with Chairman
+[00:25] Pal, he keeps uh fighting um an
+[00:29] inflation that hasn't materialized from
+[00:31] the tariffs. Well, there aren't going to
+[00:33] be a lot of tariffs. They're all
+[00:35] dropping their trade bears right now in
+[00:37] negotiations. I realize there's a big
+[00:39] tariff against China, and I realize
+[00:41] Trump did a 10% tariff across the board,
+[00:44] but we've been showing charts of um US
+[00:47] tariff revenue as a percent of um what
+[00:50] we've done historically, and we're still
+[00:51] pretty darn low. So, we're going to have
+[00:54] freer trade. Uh, when all this is said
+[00:57] and done, I don't think we're going to
+[00:59] get um much inflation from the tariffs
+[01:02] to be candid with you. Uh, things will
+[01:04] be on short or they'll rejigger the
+[01:06] supply chains and it's just time for
+[01:10] chairman pal to start cutting rates and
+[01:11] stop worrying about inflation that has
+[01:14] not yet materialized.

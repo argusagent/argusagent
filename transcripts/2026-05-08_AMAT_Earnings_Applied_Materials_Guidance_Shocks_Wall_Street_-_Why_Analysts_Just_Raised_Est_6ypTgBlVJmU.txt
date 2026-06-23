@@ -7,9 +7,29 @@ Type: short
 Duration: 0:37 (37s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 21
+Transcript characters: 683
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] So, Applied Materials just reported,
+[00:02] early, the chip equipment bellwether
+[00:04] speaks.
+[00:04] >> Wall Street loved it and it looks like
+[00:06] next quarter is going to be even
+[00:07] stronger. Sales are supposed to be up
+[00:09] 46.6.
+[00:11] Earnings are supposed to be up 233.2.
+[00:14] We have positive analyst revisions, so
+[00:16] after they announced,
+[00:18] just in the last few days, the analysts
+[00:19] raised their estimates to $1.60. Before
+[00:21] that, they were $1.43. This is for the
+[00:23] second quarter. And Applied Materials
+[00:25] has surprised for three quarters in a
+[00:26] row. So, it's getting a lot closer to
+[00:28] fitting my system on the six. Highly
+[00:31] rated stock right now. It's also looking
+[00:32] better on that eight-factor fundamental
+[00:34] model I have. So, there's a lot to be
+[00:36] excited about.

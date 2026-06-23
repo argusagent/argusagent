@@ -7,9 +7,25 @@ Type: short
 Duration: 0:36 (36s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 17
+Transcript characters: 614
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Seems like Shopify is either about to
+[00:01] explode or implode. Which one is it?
+[00:03] >> Uh it's still growing. Uh sales are
+[00:05] supposed to be up 30.7% earnings are
+[00:08] supposed to be up 32.7%
+[00:10] so their margins are still expanding. We
+[00:12] have slightly positive balance earnings
+[00:13] revisions uh higher. The only issue with
+[00:16] uh Shopify is they did miss the fourth
+[00:19] quarter. But uh no, this is a company
+[00:21] with very very good sales growth, still
+[00:24] good operating margins. There seems to
+[00:26] be some concern on how they price things
+[00:28] but uh this company has a very very
+[00:30] robust business and I'm I'm hoping that
+[00:33] they'll surprise again and guide higher.
+[00:34] I do own the stock.

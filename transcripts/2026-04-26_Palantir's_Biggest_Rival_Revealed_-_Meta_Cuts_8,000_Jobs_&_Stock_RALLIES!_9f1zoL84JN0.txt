@@ -7,9 +7,322 @@ Type: video
 Duration: 12:16 (736s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 314
+Transcript characters: 11127
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Palantir's biggest rival just emerged,
+[00:02] and most investors have never heard of
+[00:03] them. Plus, Meta fired 8,000 workers in
+[00:06] Wall Street cheered. Welcome back to Now
+[00:08] What a Market Bust.
+[00:15] >> [music]
+[00:20] [music]
+[00:23] >> So, that it seems like earning season is
+[00:25] brutal. Stocks have to beat on
+[00:26] everything and guide higher just to
+[00:28] survive, but Meta took a different
+[00:30] approach. They fired 10% of their
+[00:33] workforce, and Wall Street loved it. Why
+[00:36] is that? Well, because they're an AI
+[00:38] supplier, and
+[00:40] the more people they lay off, the more
+[00:42] it means that AI's working. Obviously,
+[00:44] they're spending a a fortune on AI.
+[00:46] Their margins are now under compression,
+[00:48] and this isn't the first time they've
+[00:50] done this. So, those um
+[00:52] 10% of workforce is 8,000 people, plus
+[00:54] they had 6,000 open jobs that they're
+[00:56] not going to fill now. So, that's
+[00:59] 14,000 jobs that are now gone. So, this
+[01:02] is the fear that a lot of people have
+[01:04] that the machines are going to take
+[01:05] over. We don't need people anymore, and
+[01:08] that's not really true, but the
+[01:10] transition is painful. And Meta is
+[01:13] is celebrating that, and
+[01:15] it doesn't fit our criteria at all, but
+[01:18] uh it's interesting to watch. And then
+[01:20] and also Microsoft
+[01:22] just announced that
+[01:24] they're they're going to lay off some
+[01:25] people. They have an early buyout offer.
+[01:27] So,
+[01:28] I think almost 7,000 people.
+[01:31] Yeah, it's getting to be interesting out
+[01:33] there in the in software land. So, it
+[01:35] seems like this is about efficiency.
+[01:37] There's fewer workers, better margins,
+[01:40] but Meta is pouring billions into an AI
+[01:42] infrastructure. Is that sustainable?
+[01:44] Yes. Okay, so
+[01:47] I was actually talking to Jason Bodner
+[01:48] about this. You know, he's always been a
+[01:50] guest on the show, and their facility
+[01:52] that they're Meta is building in
+[01:54] Louisiana
+[01:55] is going to require more concrete than
+[01:57] the Hoover Dam, okay? So, yeah, no, it's
+[02:00] big and it's real. You know, they have
+[02:02] to go where there's gas cuz there's not
+[02:04] enough electricity to hook all this
+[02:06] stuff up, so they have to generate their
+[02:07] own electricity. And fortunately,
+[02:09] Louisiana has a lot of gas for them, but
+[02:11] you know, it's the AI wars are on and
+[02:13] it's going to be accelerating for years.
+[02:16] Well, while we're talking about AI
+[02:17] infrastructure, there's a lot of drama
+[02:19] around Super Micro. Oracle allegedly
+[02:22] canceled their orders. So, is SMCI in
+[02:25] trouble or is this overblown? Well,
+[02:27] we'll see, you know, I haven't seen any
+[02:29] analyst cuts. Uh Super Micro has
+[02:32] over three year order backlog. And most
+[02:34] data center related companies have huge
+[02:36] backlogs. That's what's driving a lot of
+[02:38] stocks right now. Although their sales
+[02:40] are forecast to be up 171%
+[02:44] uh their guidance on future orders is
+[02:46] going to be a big deal. And Oracle's
+[02:48] trying to become the biggest data center
+[02:50] out there. No,
+[02:51] we'll see. Uh that was just a rumor the
+[02:54] shorts have been trying to attack the
+[02:55] data centers this week. I I want to see
+[02:58] if there's any analyst cuts. And if
+[03:00] analysts
+[03:01] start cutting estimates, then I
+[03:03] I'll have to put um
+[03:05] Super Micro on probation, but right now
+[03:08] I'm just want to want to celebrate the
+[03:10] 171%
+[03:12] sales growth that's forecasted. Well,
+[03:14] speaking of all this drama, there was
+[03:16] this Apex news story that posted on
+[03:18] YouTube that was claiming that half of
+[03:20] America's AI data centers are going to
+[03:22] be canceled due to power shortages. How
+[03:25] realistic is that? Should we be worried?
+[03:28] >> That's a bogus article meant to um aid
+[03:31] and abet short sellers um that are
+[03:33] trying to to prick the AI bubble for
+[03:36] lack of better word, but the bubble's
+[03:37] still growing cuz order backlogs getting
+[03:39] bigger and bigger. Um again, during
+[03:41] President Trump's State of the Union
+[03:43] speech, he basically asked the data
+[03:45] centers not to hook up to the utility
+[03:47] grid, okay? Cuz he doesn't want costs to
+[03:50] go up for consumers. So, what they're
+[03:52] doing is they're getting their own
+[03:53] natural gas lines and they're generating
+[03:55] their own electricity
+[03:57] via the turbines from GE Vernova or the
+[03:59] fuel cells from Bloom Energy. So, that
+[04:01] was a bogus article. That basically says
+[04:04] you got to plug your data center into
+[04:05] the grid and that's not what they're
+[04:07] doing. Uh they're they're generating
+[04:09] their own electricity. Remember, we're
+[04:10] the Saudi Arabia of natural gas. We've
+[04:12] got more nat- gas than we know what to
+[04:14] do with. They flare it uh still. So,
+[04:16] instead of flaring it, let's just have
+[04:18] it uh generate some electricity and uh
+[04:21] that's what's going on and this was
+[04:24] again a report to aid and abet short
+[04:26] sellers. And to get views. And to get
+[04:28] views, it's clickbait. Yeah. Yeah. So,
+[04:30] you mentioned GE Vernova. Let's talk
+[04:32] about them because they absolutely
+[04:34] ripped this week. What happened there?
+[04:36] Well, the the biggest news with GE
+[04:38] wasn't so much they beat and guided
+[04:40] higher. Their orders in the first
+[04:43] quarter were double their sales. So,
+[04:45] they had over 9 billion in in sales, but
+[04:48] they had over 18 billion new orders come
+[04:50] in. So, everybody's looking at these
+[04:52] order backlogs. So, that's what's really
+[04:54] driving all the data center related
+[04:57] things and uh Comfort Systems was
+[04:59] another one that announced and their
+[05:01] order backlog is ridiculous and that's
+[05:03] just, you know, HVAC for uh air
+[05:05] conditioning. So, orders are just piling
+[05:07] up. The data center again, construction
+[05:10] is more than half the construction in
+[05:11] America and that's going to go on for
+[05:14] some time. And then we have all the
+[05:16] onshoring because the tariffs and other
+[05:18] things. And of course, Trump pressured
+[05:19] companies onshore as well, like the
+[05:21] pharmaceutical industry and all. So,
+[05:23] yeah, we're we're in the midst of a boom
+[05:25] and it's a very narrow market, but it's
+[05:28] uh it's a real boom. Now, I do want to
+[05:29] talk about Tesla because they did beat
+[05:31] earnings, but there's still a little bit
+[05:33] of drama with them. What's their story?
+[05:35] Well, believe it or not, removing the EV
+[05:38] incentives probably helped them, okay?
+[05:42] Because they were already dominant in
+[05:43] the Americas on car sales and now
+[05:45] they're even more dominant because their
+[05:47] competitors just weren't making money on
+[05:48] EVs. So, their actual sales and earnings
+[05:51] were better than expected. So, that was
+[05:53] a good news and they're probably getting
+[05:55] a lot of orders now cuz of the gas
+[05:56] prices. The bad news is Tesla's always
+[05:59] transitioning uh fast. And of course,
+[06:01] one of their factories is going to be
+[06:02] making the Optimus 3 robot. And Tesla,
+[06:06] you know, is led by this the visionary
+[06:08] Elon and Elon Musk likes to paint a
+[06:10] picture of where we're going. So, the
+[06:11] Optimus is eventually going to be in our
+[06:13] homes doing our dishes, laundry, and
+[06:15] walking the dog, and initially Optimus
+[06:18] is going to go in the factories. In
+[06:19] addition to that, when you go home, your
+[06:22] Tesla car is going to leave and go out
+[06:24] and be a robo-taxi, you know, and be
+[06:26] working hard. So, these are the visions
+[06:29] this man has and
+[06:31] he has to monetize them, they have to
+[06:33] come into fruition. Obviously, on the
+[06:34] robots, I think it's it's going to be a
+[06:37] long, long wait. I'm so
+[06:39] walking the dog will probably be to
+[06:41] Optimus 25. We'll be walking the dog.
+[06:43] Maybe Optimus 32 will be doing the
+[06:45] laundry and the dishes, you know.
+[06:48] It's um it's going to take a while. Now
+[06:51] quickly, Kevin Warsh's Fed confirmation
+[06:53] hearing. Elizabeth Warren called him a
+[06:55] sock puppet. Is he getting confirmed
+[06:58] still? Yeah, he's going to get
+[06:59] confirmed. There's a a senator, Senator
+[07:01] Tillis, that didn't want to vote for him
+[07:02] until they dropped the uh Justice
+[07:04] Department of investigation of Jerome
+[07:06] Powell for the Fed building fiasco, you
+[07:08] know, it's a $3 billion building. And
+[07:10] you know, Trump the builder can't figure
+[07:12] out how they can spend $3 billion on a
+[07:13] building. But, that has been dropped as
+[07:16] we're recording this. So, uh he's going
+[07:18] to get confirmed. But, the sock puppet
+[07:21] um name that Elizabeth Warren Warren
+[07:23] gave him might last a while, you know, I
+[07:25] mean, I'm sure Kevin doesn't appreciate
+[07:27] that at all. And he's his own man, he he
+[07:29] wants to have the the Fed be
+[07:30] independent, but it's important to have
+[07:32] new leadership. Um our Fed has been too
+[07:35] reactive and we need a Fed that's more
+[07:37] proactive with better econometric
+[07:40] models. You know, we had Eddie Ardinie
+[07:42] on. He pointed out that econometric
+[07:44] models are problematic, you know. The
+[07:45] more stuff you put in them, the more
+[07:47] errors you can make. But, you know, our
+[07:50] current Fed is just 18 months behind.
+[07:53] And uh
+[07:54] and that's no way to run the Federal
+[07:56] Reserve. So, I look forward to having
+[07:58] Kevin Warsh come on board. He's doesn't
+[08:00] like quantitative easing. He wants to
+[08:02] shrink the Fed's balance sheet. And um
+[08:04] and he does think AI is generating
+[08:07] incredible productivity gains, which are
+[08:09] non-inflationary. So, there might be
+[08:11] room for more rate cuts. The other thing
+[08:13] that's interesting is our deficit is so
+[08:15] big now, you know, it's bigger than the
+[08:16] entire Defense Department. It is a
+[08:18] problem. Uh Kevin Warsh was uh Scott
+[08:20] Bassett's uh Treasury Secretary's pick.
+[08:22] And um
+[08:23] those two got to work together to try to
+[08:25] get rates down to cuz our our deficit's
+[08:28] just too darn big. And uh it's going to
+[08:30] be a problem. There may be some ex-
+[08:32] special action coming. We're not certain
+[08:34] of that. That did not appear in the
+[08:36] hearings. But, worst case, that's what
+[08:38] they may have to do. So, there has been
+[08:39] a lot of talk that there might be a new
+[08:42] Palantir. What is their competitor? It's
+[08:45] Anthropic, which is private now, but
+[08:47] their Claude um AI is perceived to be
+[08:50] the best right now. And they did get uh
+[08:52] quite a few government contracts. There
+[08:54] were some tension between them and the
+[08:56] Trump administration. I know one
+[08:58] contract was pulled and given back to
+[09:00] Palantir. So, Palantir and Anthropic are
+[09:03] going at it. Anthropic is private now,
+[09:05] so you can't invest in it. Now, I do
+[09:08] want to emphasize with AI, there's
+[09:11] always going to be a new model. First,
+[09:12] it was ChatGPT. Then it was Gemini. Then
+[09:15] it was Grok. Claude has emerged as the
+[09:17] best right now. So, we'll see. We'll see
+[09:19] who wins. But, right now, Anthropic is
+[09:22] winning and they're private, but uh
+[09:24] Palantir is a phenomenal AI player and
+[09:27] has lots of not only government
+[09:28] contracts, but business contracts. Now,
+[09:30] we've been talking a lot about private
+[09:32] credit. Let's talk about Blackstone.
+[09:34] Their earnings did go up, but it seems
+[09:36] like something is still broken within
+[09:38] the private credit market. Yeah. Yeah,
+[09:41] private credit didn't uh add to
+[09:43] Blackstone's bottom line. And they also
+[09:45] mentioned they took a 1.4% hit on bank
+[09:48] loans. And um there's a lot of bank
+[09:51] loans in private credit. So, it just
+[09:53] raised more questions. Also, the SEC is
+[09:55] now investigating private credit more
+[09:57] and more. Essentially, what private
+[09:59] credit is is they're trying to create an
+[10:01] illusion they can get you 11% yield
+[10:03] safely. And what they're doing is
+[10:04] they're leveraging these loans. And I've
+[10:06] been a critic of of it because I think
+[10:08] it's somewhat deceptive. But, the
+[10:10] industry's going to police itself, in my
+[10:12] opinion, because if anybody loses money
+[10:14] in private credit, that industry will
+[10:16] collapse. And private credit is run by a
+[10:18] bunch of ex-bankers. And what happens
+[10:20] when a bank fails or has a problem, the
+[10:22] other banks save it. They all come to
+[10:24] the rescue. And I assume that the
+[10:26] private credit companies are all going
+[10:27] to rescue each other because if anyone
+[10:30] fails, it will trigger a disaster for
+[10:32] that industry. So, but it was a big
+[10:35] warning sign. And uh you know, might
+[10:37] increase the redemptions of private
+[10:38] credit. Well, that's all we have for
+[10:40] this week's video. Thank you all so much
+[10:42] for watching. If you enjoyed it, please
+[10:44] give this video a like and subscribe if
+[10:46] you haven't already. Make sure to hit
+[10:47] that bell notification so you know every
+[10:50] single time that we post a new video. We
+[10:52] will be ending our 10,000 {slash} now
+[10:54] 11,000 giveaway this week. So, make sure
+[10:57] to fill out that link in the description
+[10:59] if you'd like to get a free signed copy
+[11:01] of Louis' new book. Thanks, everybody.
+[11:14] >> [music]
+[11:39] [music]
+[12:15] >> Mhm.

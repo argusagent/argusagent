@@ -7,9 +7,799 @@ Type: video
 Duration: 27:57 (1677s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 791
+Transcript characters: 25534
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] SpaceX, Anthropic, [music]
+[00:02] robotics, space data centers, the
+[00:04] investment landscape is changing faster
+[00:07] than most people even realize. [music]
+[00:09] Brian Hunt has been tracking these mega
+[00:11] trends for years, and today he's going
+[00:13] to break down what [music] is coming
+[00:15] next. Welcome back to Navellier Market
+[00:17] Buzz.
+[00:20] >> I'm excited to have Brian on the Market
+[00:22] Buzz. Brian, I've known you for years,
+[00:24] and
+[00:25] you're obviously one of the best writers
+[00:27] out there, but there's a lot of depth in
+[00:29] your mega trend articles that I think
+[00:31] should get everybody excited.
+[00:33] >> Oh, thank you. Uh, you know, I'm a huge
+[00:34] fan of your work, Louis, and always
+[00:36] enjoy talking markets with you.
+[00:37] >> For your newsletter, you talk a lot
+[00:39] about these mega trends. Is there
+[00:40] something in specific that investors are
+[00:42] missing?
+[00:43] >> Well,
+[00:44] I think one thing we do that's unique is
+[00:48] one of the one of the challenges in our
+[00:50] industry, the investment research
+[00:52] industry or investment management, is
+[00:55] the average investor
+[00:56] they love the idea of buying one stock
+[01:00] to bet on a trend, you know, whether
+[01:02] it's AI,
+[01:03] whether it's smartphones, you know, 10
+[01:05] years ago is everybody wants that one
+[01:08] company that is going to win, and
+[01:11] that is often a loser's mentality to
+[01:15] to bet all of your chips on that one
+[01:17] stock.
+[01:18] On the other hand, you have ETFs, which
+[01:21] have mushroomed in popularity over the
+[01:23] last 20 years. The downside with ETFs is
+[01:27] you might get five good companies along
+[01:29] with 45, you know, average to poor
+[01:32] companies. It's better than nothing in
+[01:34] some cases, and people can do very well
+[01:36] with an ETF, but in my mind, it's not
+[01:39] the ideal way to invest in a trend like
+[01:42] AI or space,
+[01:44] where what we're trying to do is educate
+[01:46] people on the idea of using baskets
+[01:50] to invest in these trends. You don't bet
+[01:52] You don't bet everything on one company,
+[01:55] but you also don't buy an ETF. Instead,
+[01:58] you pick five, six, seven, eight of the
+[02:01] best companies in space, in
+[02:03] semiconductors, in robotics,
+[02:06] and you you take a chunk of money and
+[02:09] you divide it equally, and then you buy
+[02:11] all those companies, and you treat it as
+[02:13] one position.
+[02:14] And so that's what we do with a lot of
+[02:17] these themes that we're talking about,
+[02:19] where we will create baskets, we will
+[02:22] track baskets, and and treat it as one
+[02:24] position.
+[02:26] And in my in my mind, that approach
+[02:29] gives you the ultimate blend in risk and
+[02:33] reward. You're not betting the farm on
+[02:35] just one company, you're not diluting
+[02:36] your returns with 50 crappy companies,
+[02:39] you're buying the best. And you know,
+[02:41] just for example, this year,
+[02:43] one of our themes that I know Louis also
+[02:47] owns is engineering and construction
+[02:48] firms.
+[02:49] A couple of years ago, I got bullish on
+[02:51] this theme because the the White House
+[02:54] and Big Tech wanted to build data
+[02:56] centers like crazy, and there's only a
+[02:58] handful of companies that can
+[03:00] operate on a huge scale, and they
+[03:03] started essentially just naming their
+[03:05] own price. And this this basket of
+[03:08] stocks is up hundreds of percent in the
+[03:10] last 2 years. This year, it's up over
+[03:12] 40%. You know, and it's not an ETF, it's
+[03:15] not an individual stock. And we've seen
+[03:17] the same case with with AI
+[03:19] semiconductors, with memory makers, with
+[03:21] optical networking,
+[03:23] and so anyway, I I see that as something
+[03:27] that I think a lot of investors miss
+[03:29] because
+[03:30] the average investor, bless his heart,
+[03:33] thinks that oh, if I could just find
+[03:34] that one stock, you know, if Louis and I
+[03:36] could only ever give me just that one
+[03:38] stock, everything would be fine, and
+[03:41] that's just it's just a dumb way to
+[03:43] invest. And we're trying to educate
+[03:45] people that there's there's a better way
+[03:47] that they probably have not considered.
+[03:49] >> So right now, SpaceX has some of the
+[03:51] biggest hype right now. For you
+[03:53] personally, what is the next mega trend
+[03:55] that you're seeing?
+[03:56] >> Yeah, I think in the the the wake of the
+[03:59] the SpaceX IPO,
+[04:01] Elon, who is the you know, the greatest
+[04:04] manufacturing
+[04:05] mind of our our time, he's going to have
+[04:08] it looks like over 50 billion dollars to
+[04:11] spend on the next
+[04:13] chapter of his business career.
+[04:15] He'll likely have the likes of Google
+[04:17] and other big tech companies lining up
+[04:20] to pay him big money for for launch
+[04:22] services.
+[04:24] And so, I personally believe the the
+[04:28] the IPO price of SpaceX is likely to be
+[04:30] wildly in- inflated and I'm not
+[04:32] interested in in buying the stock at
+[04:35] IPO, but the the next chapter of this
+[04:39] trade, which is
+[04:40] Elon having this huge amount of capital
+[04:42] in his hands to spend on the next
+[04:45] the the next chapter of his career, I I
+[04:47] believe that's going to to to create a
+[04:50] lot of opportunities over the next 5
+[04:51] years or so.
+[04:52] >> Do you think it's going to be just
+[04:53] expanding the rocket launches or you
+[04:55] think it'll be
+[04:56] Optimus?
+[04:57] >> Yeah, there's there's there's Optimus.
+[04:59] With when it comes to Tesla, you know, I
+[05:02] the
+[05:04] the big challenge with humanoids, you
+[05:07] know, I was speaking with a robotic
+[05:08] specialist just last week,
+[05:10] the even if somebody had all the
+[05:13] breakthroughs needed to build these
+[05:14] humanoids tomorrow,
+[05:16] the the challenge is is we don't have
+[05:18] the manufacturing capacity for all of
+[05:21] the the motors and the the sensory
+[05:23] perception for all of these these
+[05:24] robots. So,
+[05:26] investing in that manufacturing capacity
+[05:28] looks like a big opportunity. As far as
+[05:31] space, yeah, all of the the launch
+[05:34] infrastructure, lunar infrastructure,
+[05:37] the satellites and
+[05:39] yeah, I I'm not so much of a a single
+[05:42] stock picker. I I think in terms of
+[05:44] themes.
+[05:45] So, yeah, I think all of these companies
+[05:48] that provide the picks and shovels
+[05:50] necessary for the likes of Elon to to
+[05:53] get to the moon and get to Mars will
+[05:55] will be a big opportunity.
+[05:56] >> I would hope that when they do go to
+[05:59] Mars that we do send Optimus instead of
+[06:01] a human because you you're getting
+[06:03] bombarded by gamma rays.
+[06:05] So, you should be mutated by the time
+[06:06] you get there, you know? And
+[06:09] >> So, let's just send Optimus.
+[06:10] >> Yeah, let's send Optimus.
+[06:12] >> [laughter]
+[06:12] >> And you know, what's so interesting
+[06:15] about robotics as well as self-driving
+[06:16] is it's all pre-programmed. And
+[06:20] I know they have Optimus 3 now to work
+[06:21] on the Tesla factory floors and Boston
+[06:24] Dynamics is building a robot to work at
+[06:27] the Hyundai factory in Georgia. But, you
+[06:29] know, we're still a ways from Optimus
+[06:31] walking our dog or Optimus doing our
+[06:33] dishes. So,
+[06:35] you know,
+[06:36] robots don't have free will yet. And
+[06:39] it'll be interesting if and when that
+[06:40] arrives.
+[06:42] >> Yeah, well,
+[06:43] I I like I mentioned, I think the big
+[06:45] unanswered question is the
+[06:47] just the manufacturing base to build all
+[06:50] of the humanoids that
+[06:52] Elon and other people are are promising.
+[06:55] Robotics-wise, what are you what
+[06:57] companies are you excited about if any
+[06:59] right now?
+[07:00] >> have a gear company right now. I have
+[07:02] Carpenter Technology, which is metals,
+[07:05] aerospace mostly. But, they do golf
+[07:07] clubs, too. Okay. And then Howmet
+[07:10] Aerospace. Those are my two.
+[07:11] >> Brian, do you see robotics being the
+[07:13] next mega trend?
+[07:15] >> Yeah, I I I think the the future is
+[07:16] very, very bright. And the the neat
+[07:19] thing about this trend is that there's
+[07:22] all these sub-themes inside of it. You
+[07:25] have maritime drones, you know, which
+[07:28] are playing a role in the Iran war. You
+[07:32] have delivery drones. You have military
+[07:34] drones. You have humanoids.
+[07:36] You have AVs, which are, you know,
+[07:39] robots on four wheels.
+[07:41] And, you know, the list goes on and on
+[07:43] about these these things. So,
+[07:46] yeah, I I think it's a no-brainer for
+[07:48] the next 10 years to to
+[07:51] look at five to 10 to 15 of these
+[07:54] suppliers into this this overall
+[07:56] industry and just, you know, close your
+[07:58] eyes, put the stocks in the
+[08:01] the cupboard and forget about them for
+[08:02] five or 10 years. And, you know, the
+[08:04] basket could be up five 10x. When it
+[08:06] comes to drones, I know you've you've
+[08:08] been trading that on and off for two or
+[08:10] three years. Are there any names that
+[08:13] you believe have a bright future?
+[08:15] >> Not a pure play right now. No, I don't
+[08:17] have a pure play. I just have the
+[08:19] the metals companies and Howmet
+[08:22] Aerospace is my best defense-related
+[08:24] contractor.
+[08:26] I would like to pick up a lot more. We
+[08:27] have Elbit Systems over there in Israel
+[08:29] and they're they're mostly the missile
+[08:30] shield, okay, and the defense systems
+[08:33] and they have their own laser to take
+[08:35] the drones down. So, I I would expect if
+[08:38] anyone
+[08:39] could be super successful long-term, it
+[08:41] would be Elbit.
+[08:42] >> But, I I would imagine that a lot of
+[08:44] these drone companies, they don't have
+[08:46] substantial earnings and revenue to to
+[08:48] score on the the grade.
+[08:50] >> That's correct. And, I will not buy it
+[08:52] till it earns money.
+[08:53] >> Yep.
+[08:54] >> Cuz it's just too volatile. But, yeah,
+[08:55] the
+[08:56] I think the big news for us is the order
+[08:58] backlogs. Elbit has an incredible order
+[09:00] backlog. And, obviously, the AI data
+[09:02] center's backlog keeps getting bigger.
+[09:05] So, the good news we we know we have at
+[09:06] least a three-year economic boom just
+[09:08] based on the order backlogs and record
+[09:10] earnings we're having. So,
+[09:12] I'm very very optimistic.
+[09:14] >> I just want to take a moment to thank
+[09:15] you all so much for watching. If you're
+[09:16] enjoying this video, please give this
+[09:18] video a like and subscribe if you
+[09:19] haven't already. But, let's get back to
+[09:21] this wonderful conversation. So, SpaceX
+[09:23] has been the big conversation, the big
+[09:25] hype this week. But, what are you seeing
+[09:27] could be the next big IPO trend?
+[09:30] >> Well, this year, it seems OpenAI and
+[09:32] Anthropic are racing to to get their
+[09:34] share of the money. So, that definitely
+[09:38] seems to be the big story, but as you
+[09:40] mentioned earlier, I'm very interested
+[09:42] in the the defense tech aspect, like
+[09:45] Anduril, but but yeah, OpenAI and
+[09:47] Anthropic seem to be poised to hog all
+[09:50] the attention and the money.
+[09:52] >> And Anthropic does have defense
+[09:53] contractors contracts now. They are
+[09:55] competing with Palantir, but obviously
+[09:58] Palantir's sales and earnings are
+[10:00] ridiculous. And so I think Anthropic is
+[10:03] going to be able to monetize this very,
+[10:05] very quickly.
+[10:06] They had some sort of rift with the
+[10:08] Trump administration, but they kissed
+[10:10] and made up, so
+[10:12] hopefully that's over. But yeah, that's
+[10:14] going to be uh probably the most
+[10:15] successful IPO this year, and then
+[10:18] we'll see how OpenAI does, cuz you know,
+[10:20] they they haven't monetized it as well
+[10:23] as as well as Anthropic has.
+[10:26] >> So, I'll throw out a statement. I'd I'd
+[10:28] like to get your take, Louie, is OpenAI
+[10:30] and Anthropic, they get their hands on
+[10:33] all this money, and you know, obviously
+[10:35] after they have to spend a lot of it on
+[10:37] construction, semiconductors, the power
+[10:39] grid needed to light it all up.
+[10:42] So, there's all these bears coming out
+[10:45] of the woodwork to say the AI
+[10:47] infrastructure boom is a bubble, and a
+[10:50] lot of the investment is going to be
+[10:51] wasted, and it's going to be a disaster.
+[10:54] But I think you can make a case that
+[10:56] these IPOs will give these guys
+[10:59] huge amounts of money to continue
+[11:02] this this megatrend. Like, what's your
+[11:04] take?
+[11:04] >> I know. It's I think we have two things
+[11:06] going for us.
+[11:08] First is the Citron firm, Mr. Andrew
+[11:11] Left, was actually convicted in a
+[11:13] criminal case, and he's appealing it
+[11:15] now.
+[11:16] But he might have 20 years in jail for
+[11:18] just basically planting stories.
+[11:20] And he went after two of my stocks. He
+[11:22] went after Super Micro and Sizzle. I
+[11:25] never sold either one because there was
+[11:27] nothing wrong with them fundamentally.
+[11:29] But they would have innuendo, and
+[11:30] markets react, they don't think, you
+[11:32] know? And he would profit from that.
+[11:35] So, I think short selling is going to uh
+[11:38] for lack of better words, stick its tail
+[11:39] between its legs. So,
+[11:41] I I think it's just going to be less
+[11:43] negative. We go on earning season locked
+[11:45] and loaded, and we count on the
+[11:46] fundamentals are driving this market,
+[11:47] and it's driving our GDP growth.
+[11:49] >> So, the the trends that have benefited
+[11:52] from the already enormous amounts of
+[11:56] infrastruct- infrastructure spending,
+[11:58] the power, the semiconductor, the
+[12:00] cooling stocks, your your recommendation
+[12:03] is stay long?
+[12:04] >> Yeah, we have to cuz our order backlog's
+[12:05] 3 years out now.
+[12:06] >> Yeah.
+[12:07] >> And this could have never happened
+[12:08] unless we the natural gas boom in
+[12:10] America.
+[12:11] Uh we were talking on another segment
+[12:13] that if you know, at one time in 2023,
+[12:17] there was an LNG expansion ban in
+[12:20] America, and 16 states sued.
+[12:22] And that ban doesn't exist now.
+[12:25] Obviously, we're the Saudi Arabia of
+[12:27] natural gas selling LNG to Europe and
+[12:29] everywhere else.
+[12:30] And we need that natural gas to fuel the
+[12:33] data centers because Trump told
+[12:35] everybody in the State of the Union,
+[12:36] "Please don't plug in the power grid."
+[12:37] Okay? You know, it's interesting. So,
+[12:39] this is very exciting, and it's it's a
+[12:41] wonderful era. It's funny, you know, I
+[12:44] think the other reason we're having
+[12:45] record earnings
+[12:47] is they had accelerated depreciation
+[12:49] where you can write off 100%.
+[12:51] So, they've already done that. Now, we
+[12:52] just it's all pure cash flow as all this
+[12:55] gets built out. But as you mentioned
+[12:57] earlier, it's the suppliers to these big
+[13:00] uh mega trends that are making the most
+[13:02] money, and those are a lot of small cap
+[13:04] plays that
+[13:06] I desperately am trying to find more.
+[13:08] >> You you and I have been on the same mind
+[13:11] on the natural gas side of the trade
+[13:13] where a couple years ago, I started to
+[13:16] see natural gas pipelines as one of the
+[13:19] best ways to express that trade. The the
+[13:22] natural gas producers like Range, EQT,
+[13:25] they've been kind of dead money. Yeah. I
+[13:27] mean, you could have traded them
+[13:29] over the last couple years, but they've
+[13:30] largely moved sideways, whereas the
+[13:32] pipeline operators, which
+[13:34] you know, they don't really care if the
+[13:36] price is up 10 or 15%. They're just
+[13:38] making money on the volume.
+[13:39] >> Correct.
+[13:40] >> That's been an incredible run for a
+[13:42] while.
+[13:43] >> and the the pipeline companies, we
+[13:45] recommend quite a few in uh
+[13:48] growth investor, but in the dividend
+[13:49] section, okay?
+[13:51] And that that's the easiest way to to
+[13:53] play from the domestic boom.
+[13:55] But yeah, it's I love it the fact that
+[13:58] when the Strait of Hormuz was closed
+[13:59] that Trump said, "Well, if you you need
+[14:01] energy, just go to the Gulf of America."
+[14:03] And sure enough, a
+[14:04] >> Yeah.
+[14:04] >> 121 ships left there. So, now we own the
+[14:07] tanker companies because the day rates
+[14:09] are up because they're going around. And
+[14:11] we've boosted our production. We got
+[14:13] OPEC boost our production. That's why
+[14:14] UAE left OPEC.
+[14:17] And what's happening is that everybody's
+[14:19] adding to their inventories, but you
+[14:21] were the Worldwide demand's going to
+[14:23] drop in the fall cuz there's more people
+[14:24] in the northern hemisphere than southern
+[14:26] so hemisphere. So, I think
+[14:29] I think despite all the distractions of
+[14:31] the Strait of Hormuz, things are going
+[14:32] to be fine. Brian at Sanford Bernstein
+[14:35] has now
+[14:37] getting all excited about the quantum
+[14:38] computing stocks. Um you know, the Trump
+[14:40] administration just invested $2 billion
+[14:43] in a bunch of them.
+[14:45] But InvestorPlace led the quantum
+[14:47] computing discovery over 2 years ago.
+[14:50] And you had you had a basket of you
+[14:53] know, IonQ and D-Wave and the Rigetti
+[14:55] and
+[14:56] I think I'm missing one or two, but
+[14:58] can you explain how why you're so proud
+[15:00] of that InvestorPlace that we were early
+[15:03] in that trend?
+[15:03] >> Yeah. Yeah, it's it's definitely one of
+[15:06] those trends. When we first started
+[15:08] writing about it, it wasn't even on page
+[15:10] 16. You know, there's the old
+[15:13] investment strategy is you want to
+[15:14] invest what's on page 16 and profit as
+[15:17] it goes to page one. Quantum computing
+[15:20] wasn't even on page 16.
+[15:22] And but I I think it was a a good
+[15:24] example of
+[15:25] staying plugged in to industry experts
+[15:28] and and keeping an eye on what the most
+[15:30] exciting bleeding edge companies in the
+[15:32] world are doing. And
+[15:34] for better or worse, I I feel like even
+[15:36] right now, investing in these companies,
+[15:39] which are up, in some cases have gone on
+[15:41] extraordinary runs off and on over the
+[15:43] past couple years,
+[15:44] investing in them is
+[15:46] is still kind of like investing in a
+[15:48] science project
+[15:49] >> Yeah.
+[15:49] >> rather than an operating business that
+[15:51] scores well on your on your system. But
+[15:54] yeah, I believe that
+[15:56] it's it can be a great idea to buy a
+[15:58] basket of these very speculative stocks,
+[16:00] treat it as one position,
+[16:02] and you know, forget about forget that
+[16:04] you own it for three or four years, and
+[16:05] it could be a big deal.
+[16:08] >> Well, that was. I know the first
+[16:09] thousand percent was due to
+[16:10] InvestorPlace. So.
+[16:12] >> [laughter]
+[16:12] >> Yeah. Yeah, I I
+[16:14] to my knowledge, from October to
+[16:17] December
+[16:18] that in 2024, the run they went on,
+[16:21] which I believe as a group they went up
+[16:23] 1,800%.
+[16:24] >> Yeah.
+[16:25] >> That's not 1.8x, that's like, you know,
+[16:27] 1,800%.
+[16:29] That's the biggest industry move in US
+[16:32] stock market history.
+[16:33] >> Correct.
+[16:34] >> And, you know, someone was reading
+[16:36] InvestorPlace back then, they would have
+[16:38] known that it was high potential trade.
+[16:39] So.
+[16:40] >> Yep. Yep. So, kudos to you for
+[16:41] discovering that and leading that
+[16:43] charge.
+[16:44] So, the other a big theme that you've
+[16:46] had, cuz you've been at InvestorPlace
+[16:48] for a long time,
+[16:49] is this exponential growth, where the
+[16:52] companies can grow without adding a lot
+[16:54] of overhead, or or sometimes companies
+[16:56] can lay people off cuz they're getting
+[16:58] more efficient, and the stock goes up
+[17:00] more. Can you explain why exponential
+[17:03] growth is so important?
+[17:05] >> Yeah.
+[17:06] I believe it was 2014, I read the book
+[17:08] The Second Machine Age by at the time a
+[17:12] couple MIT professors wrote it, and
+[17:15] you know, it explained exponential
+[17:17] growth, you know, Moore's law, doubling,
+[17:19] and then
+[17:20] you know, getting not linear growth, but
+[17:23] exponential growth, like, you know,
+[17:24] rabbits, you know, multiplying.
+[17:27] And I saw that chart, I understood it,
+[17:31] and I just felt like it was the most
+[17:33] important thing I'd ever read.
+[17:35] I felt like I saw the future. And
+[17:40] ever since then, I've spent at least 80%
+[17:43] of my professional time investing in
+[17:45] tech, studying tech, researching tech,
+[17:47] and talking about technology, because it
+[17:49] just seemed like
+[17:51] everything else was tiny compared to
+[17:53] what could happen. And it's turned out
+[17:55] to be a good trade. The The stocks have
+[17:59] have produced these gigantic returns,
+[18:01] but even here in 2026,
+[18:04] I believe that when sometimes when we
+[18:06] have these investment conferences, we'll
+[18:08] be talking about this phenomenon where
+[18:11] companies can be small one year, and due
+[18:13] to exponential progress, they can be
+[18:15] 10x, 20x larger in 2 to 3 years. We
+[18:18] explain that to people, they still don't
+[18:20] understand what's going on, even with
+[18:23] professional investors. And I think
+[18:26] that's the source of a lot of
+[18:27] bearishness is they don't have the right
+[18:30] mental framework through which to
+[18:32] understand what's going on with OpenAI,
+[18:35] Anthropic, where a company goes from
+[18:37] zero revenue to $50 billion in annual
+[18:40] revenue in less than 2 years. I feel
+[18:42] like that that framework that we operate
+[18:45] with is a big advantage, because you
+[18:47] realize that these things are not
+[18:49] bubbles. They are the natural
+[18:51] progression of exponential technology.
+[18:53] And so, it's still it's still a big
+[18:56] advantage, and you know, I know that
+[18:58] you've leveraged that, I've leveraged
+[18:59] that.
+[19:00] And just as as powerful as it is as it
+[19:04] has been the last 10 years, I feel like
+[19:06] less than 1% of the public know that
+[19:09] it's a thing. And so, everybody says,
+[19:11] "Oh, it's a bubble, it's a bubble, it's
+[19:12] a bubble." It's like no, dumb ass, it's
+[19:14] it's exponential technology.
+[19:16] >> That's right. [laughter] That's right.
+[19:17] We're
+[19:18] our costs are fixed and we have no extra
+[19:20] costs as our revenue grows. So, the
+[19:23] margins expand. You know, margin
+[19:24] expansion's always been a big thing for
+[19:26] me, you know.
+[19:27] >> Brian, I know one of the keys to be
+[19:29] healthy is we have to pick our parents,
+[19:31] okay? As we all know, we have a certain
+[19:35] predestined gene pool that that you and
+[19:38] I are keenly aware of and but you know,
+[19:40] something like the GLP-1 craze lowers
+[19:43] your A1C. It's obviously helps people
+[19:46] lose weight. Obviously, I'm trying to
+[19:47] get there and catch up with you cuz
+[19:49] you're in shape. What is the next big
+[19:51] breakthrough you see in longevity?
+[19:54] >> The I actually think the the
+[19:57] breakthrough is here.
+[19:59] Will that translate into public
+[20:00] sentiment to pile into these
+[20:03] investments?
+[20:04] I think the answer is yes, it will. The
+[20:06] breakthrough is GLP-1 drugs.
+[20:08] >> Yeah.
+[20:09] >> I I believe genomics and biotech could
+[20:12] be a very high upside trade and I've
+[20:14] been in it for years and it's
+[20:16] disappointed me
+[20:18] for years, but now almost everybody
+[20:21] knows
+[20:22] someone who is on a GLP-1 drug or
+[20:24] they're on one themselves and
+[20:27] now research is showing that it may
+[20:29] reduce heart disease, may reduce
+[20:31] cholesterol, may slow cancer growth. So,
+[20:35] it seems like GLP-1s are the closest
+[20:37] thing to a longevity miracle drug
+[20:40] uh that's out there. It's so pervasive.
+[20:43] I believe Lilly could start attracting a
+[20:45] lot of attention to this trade
+[20:48] and that could benefit the biotech
+[20:51] sector. It could benefit genomics. I
+[20:53] think if we could get a couple more big
+[20:56] announcements of of a gene therapy
+[20:58] really helping some people,
+[21:00] then you could light the fire under a
+[21:03] genomics/biotech
+[21:05] bull market. You got companies like
+[21:08] Tempus AI that are using AI
+[21:11] to
+[21:12] to uh run simulations and run tests.
+[21:14] And it could it could get painted with
+[21:17] the AI trade. So, I think there's a a
+[21:19] lot of potential upside there
+[21:21] financially in addition to lengthening
+[21:23] our lives.
+[21:24] >> It's a volume business and they're
+[21:25] onshoring.
+[21:27] You know, I did sell Novo Nordisk a
+[21:29] couple years ago. They dominated the
+[21:30] diabetes medication. They've been
+[21:32] grossly mismanaged. They got new
+[21:34] leadership now.
+[21:35] Hopefully they'll they'll get back
+[21:37] going, but I know Lilly just announced a
+[21:40] new drug that the average trial was
+[21:42] 79-lb weight loss. That's huge.
+[21:44] >> Yeah.
+[21:44] >> I don't know how they found those
+[21:45] people. That's a lot of weight, you
+[21:47] know, per patient.
+[21:49] >> So, that got everybody excited. So,
+[21:50] everybody wants can I have that one now?
+[21:52] >> Yes. Yes. Any other
+[21:54] stocks that you are interested in in
+[21:57] this world that are
+[21:58] registering excellent grades on the
+[22:00] grader?
+[22:00] >> Well, you know, that's that's funny. We
+[22:03] have a a covariance model that tells us
+[22:05] how to weight stocks.
+[22:07] And by far
+[22:08] the highest weight is now Lilly. Okay?
+[22:11] And it's calling for over eight uh 8.8%
+[22:14] portfolio weight. 8.84 actually.
+[22:16] And that's I don't normally weight a new
+[22:18] stock that high.
+[22:19] >> Mhm.
+[22:20] >> But uh yeah, load up on Lilly.
+[22:23] >> Yeah, the overall I think it's a a
+[22:25] sector with very high upside over the
+[22:27] next 5 years.
+[22:27] >> Brian, I've been noticing that in some
+[22:29] of your articles data centers might be
+[22:31] into space. Can you share with our
+[22:33] viewers what your thought process is?
+[22:35] >> Yeah, sure.
+[22:37] You know, it really all comes down to
+[22:38] the
+[22:39] the the plans of the greatest
+[22:40] manufacturing mind of our time, Elon
+[22:43] Musk. Elon knows a lot more about the
+[22:45] the physics and the material science
+[22:47] involved in it than I do. And
+[22:50] Elon is he's both a blessing and a curse
+[22:52] as a tech investor because he's
+[22:54] obviously very successful and investing
+[22:57] with him has in many cases turned out to
+[22:59] be very successful. On the other hand,
+[23:01] he's notorious for saying something is
+[23:04] just around the corner, but it's
+[23:05] actually 5 to 10 years away. Case in
+[23:07] point, full self-driving.
+[23:10] But, I it's it's one of these things
+[23:12] where I think he's right, and it's not
+[23:14] just Elon, it's a lot of tech companies
+[23:17] with with the with deep pockets that are
+[23:19] are betting on this. So, it it all comes
+[23:22] down to
+[23:23] can you lower the cost of these orbital
+[23:25] compute centers relative to terrestrial
+[23:28] data centers?
+[23:29] And it's probably going to take longer
+[23:33] than Elon says it will, but even if it
+[23:36] does, you know, investing in that
+[23:38] infrastructure that helps expand
+[23:42] that economy, I think it'd be a winner.
+[23:44] But, my gut is that
+[23:46] again, it's probably going to take a lot
+[23:48] longer than what Elon says it will.
+[23:50] >> Brian, I don't think most people know
+[23:52] that some of our competitors
+[23:55] are AI.
+[23:56] I know one of our competitors, you can't
+[23:58] work for them unless you have AI write
+[24:00] everything.
+[24:01] I know another competitor that when the
+[24:03] earnings come out, they have a report
+[24:06] that's totally AI
+[24:08] generated.
+[24:10] So, can you explain to our subscribers
+[24:13] why we're special? Like, we have
+[24:15] we have real people versus a machine
+[24:17] generating this content.
+[24:19] >> Yeah, definitely. I I believe the the
+[24:21] ideal blend is you have the human, you
+[24:25] know, with the knowledge that you can
+[24:27] accumulate over decades augmented by
+[24:30] data analytics, AI.
+[24:32] If you go 100% AI with, you know, in the
+[24:36] wrong direction, you know, it's slop,
+[24:38] it's hallucination. But, you know,
+[24:40] obviously there are some quantitative
+[24:41] hedge funds that
+[24:43] use it as a high level, but I think what
+[24:45] we're seeing in the research space is
+[24:48] people are using it at a really dumb,
+[24:50] sloppy level.
+[24:51] >> Yeah.
+[24:51] >> And you can you can pick up on it in
+[24:55] about two sentences.
+[24:56] >> Yeah.
+[24:57] >> So, yeah, I
+[24:59] you know, we're passionate about humans
+[25:02] augmented by data analytics using AI to
+[25:05] speed up the research process. I know
+[25:07] it's massively helped me with with what
+[25:10] I do in terms of just analyzing huge
+[25:12] amounts of information, but you know,
+[25:15] when you turn that into communication
+[25:18] for humans, I've seen Claude do some
+[25:20] some great things as far as writing
+[25:22] quality and analytics, but you know,
+[25:25] it's not quite there yet with the way
+[25:28] some of the competitors are using it to
+[25:30] to crank out slop that that really has
+[25:32] no knowledge behind it. It has a lot of
+[25:34] data and no knowledge. And I think
+[25:37] that's the big mistake some are making.
+[25:38] >> Yeah, I agree. We have to have a leash
+[25:40] on AI until they expand some of the new
+[25:42] data centers with some better chips and
+[25:44] all and networking.
+[25:46] >> Biggest takeaway that I've gotten from
+[25:47] today is identifying some of the larger
+[25:50] trends before they become obvious. You
+[25:52] have a wonderful newsletter at Money and
+[25:54] Megatrends, which is actually free. How
+[25:57] can our viewers learn more about your
+[25:59] newsletter and also sign up?
+[26:01] >> Yeah, uh very easy. Go to
+[26:03] marketwise.com.
+[26:05] You'll see up top Money Megatrends right
+[26:07] there. You can just click on it and it's
+[26:10] it's obvious how to read, how to sign
+[26:11] up. It's absolutely free. And you know,
+[26:14] what we try to do is is share what the
+[26:18] biggest trends are, where to invest with
+[26:20] a a gale force tailwind at your back.
+[26:23] And you know, the the long-term goal of
+[26:25] the business is to expand awareness of
+[26:28] MarketWatch's products and quote and and
+[26:31] share research from from guys like Louis
+[26:34] who are
+[26:35] writing incredible products and
+[26:36] providing incredible service and have
+[26:39] fun along the way.
+[26:40] >> Yeah, that's a a great comment and I
+[26:43] think for everybody out there, while she
+[26:45] doesn't sell stocks the way they used
+[26:47] to, they obviously get excited about the
+[26:48] IPOs and stuff cuz they're going to make
+[26:50] a lot of money on the underwriting fees.
+[26:52] But if you go to your average financial
+[26:53] advisor, they're not selling stocks.
+[26:55] They're selling private credit, uh
+[26:57] private equity. They're selling
+[26:59] structured notes. You know, the covering
+[27:02] stocks has kind of died. And it's really
+[27:05] the burden has fallen on us here at
+[27:06] InvestorPlace and MarketWatch to go out
+[27:09] and tell everybody about stocks. And
+[27:10] that's why myself and other editors have
+[27:13] these databases you can use and access
+[27:16] and empower you. So, we're here to
+[27:18] empower you. And Brian's leading the
+[27:20] charge, uh and we're grateful to have
+[27:22] him on Navellier MarketWatch.
+[27:24] >> Yep, great to be here. Always a
+[27:25] pleasure.
+[27:25] >> Thank you.
+[27:26] >> Thank you so much, Brian. Well, thank
+[27:27] you all so much for watching. As always,
+[27:30] Brian's links will be in the description
+[27:31] below. Please give this video a like and
+[27:34] subscribe. If you enjoyed us and enjoyed
+[27:36] us being in the studio, it helps us so
+[27:37] much. But thank you all so much for
+[27:39] joining us, and we will see you in our
+[27:41] midweek update.

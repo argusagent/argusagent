@@ -7,9 +7,19 @@ Type: short
 Duration: 0:24 (24s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 11
+Transcript characters: 373
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] What do you expect for Fordinet?
+[00:02] Uh Fordinet is uh sales are supposed to
+[00:04] rise 13.9%. Earnings is supposed to be
+[00:07] up 24.3. That's healthy. That means
+[00:10] their margins are expanding. We got
+[00:12] steady analyst assessments of very good
+[00:13] earnings price history. This is a cyber
+[00:15] security company for all the cloud
+[00:18] networks and that's obviously very very
+[00:20] important. So, um, uh, they they're
+[00:23] going to

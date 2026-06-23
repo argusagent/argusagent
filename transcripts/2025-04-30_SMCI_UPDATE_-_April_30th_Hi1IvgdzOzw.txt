@@ -7,9 +7,45 @@ Type: short
 Duration: 1:40 (100s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 37
+Transcript characters: 1243
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Well, there's some news from Super
+[00:01] Micro. They warned that a big March
+[00:05] shortfall based on quote unquote delayed
+[00:09] customer platform decisions cause it to
+[00:12] lower its quarterly revenue guidance to
+[00:15] 4.5 billion to 4.6 billion. This is down
+[00:19] from its previous forecast of 5 billion
+[00:23] to 6
+[00:24] billion. Okay, that's not good news.
+[00:27] They also lowered their earnings uh
+[00:30] forecast to 29 cents to 31 cents and
+[00:35] that's below their previous guidance of
+[00:36] 42 to 62 cents. So
+[00:40] ouch. Now there is no evidence that
+[00:43] Super Micro's lower guidance is
+[00:45] impacting Nvidia
+[00:48] um because Nvidia has already sold all
+[00:50] the black chips that it can make.
+[00:53] Interesting. Super Micro said quote
+[00:55] unquote it saw some order pushouts in
+[00:58] the quarter as customers appeared to be
+[01:00] opting for next generation pro uh
+[01:03] products over the current ones which was
+[01:05] essentially the
+[01:06] H20. So this comment just means the
+[01:10] demand for Nvidia's Blackwell chips
+[01:12] remains super strong and um obviously um
+[01:15] Super Micro makes the best water cooled
+[01:18] rack systems in the uh in the server
+[01:21] farms. So, um, uh, Nvidia, um, don't
+[01:25] worry about it. Super Micro obviously is
+[01:28] getting hit on this news, but we'll
+[01:30] regroup because again they make the best
+[01:32] water cool rack systems and it just
+[01:35] apparently all the customers want the
+[01:36] latest and greatest chips, not the old
+[01:38] generation.

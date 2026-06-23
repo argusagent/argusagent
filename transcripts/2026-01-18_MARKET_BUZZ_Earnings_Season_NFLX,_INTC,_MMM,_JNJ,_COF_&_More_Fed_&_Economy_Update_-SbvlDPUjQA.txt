@@ -7,9 +7,349 @@ Type: video
 Duration: 13:28 (808s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 341
+Transcript characters: 12226
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Earning season is here and next week is
+[00:02] packed with quarterly reports. Before we
+[00:05] dive into stocks, let's take a look at
+[00:06] the latest economic signals driving the
+[00:09] market. Welcome back to Naval Market
+[00:11] Buzz.
+[00:25] Dad, let's first talk about December
+[00:27] retail sales report. What did you think
+[00:29] about it?
+[00:29] >> Well, it was outstanding. 10 out of the
+[00:31] 13 categories rose. Obviously, it came
+[00:33] in better than expected. And you're
+[00:35] showing a chart from Ed Yardini that
+[00:38] shows just how strong retail sales were
+[00:40] across all the categories. So, again,
+[00:42] outstanding, good for GDP growth and um
+[00:45] so that's great news.
+[00:46] >> Chairman Powell testified in front of
+[00:48] Congress. Any insight?
+[00:49] >> Well, unfortunately, the hearing was
+[00:52] mostly about the subpoena he um
+[00:55] announced that the Fed got. So
+[00:56] essentially the Fed is spending two and
+[00:58] a half billion on their Washington DC
+[01:00] facility. Um you know obviously
+[01:03] President Trump thinks that's outrageous
+[01:04] and uh there's cost overruns etc. So
+[01:08] obviously President Trump is also trying
+[01:11] to intimidate drone pal to retire. So it
+[01:13] turned out to be just a sideeshow. Um a
+[01:16] couple things we should mention. All
+[01:18] these Federal Reserve banks hold a lot
+[01:20] of cash and obviously they have to build
+[01:22] a fortress to protect that cash. And I
+[01:26] probably should tell you an interesting
+[01:27] story. I remember I was flying from Fort
+[01:29] Lauderdale to New Orleans one day on
+[01:31] Southwest and they came in, the pilot
+[01:34] and everybody came in the cabin and
+[01:36] explained that we would have to sit in
+[01:38] the back because there were very few
+[01:40] people booked on this flight. And why we
+[01:42] had to move to the back is the Federal
+[01:44] Reserve was putting all this money in
+[01:46] the cargo hole. Okay? And so I watched
+[01:49] the the money go up. It was in these big
+[01:51] green bags. And then of course a man
+[01:54] with a gun rode in the cargo hole. This
+[01:56] is where you'd put your dog and stuff.
+[01:58] So that's probably why the building is
+[02:00] so expensive is because it has to be
+[02:02] built uh as a fortress. The big Fed news
+[02:05] this week was of course the Beigebook
+[02:07] survey which came out on Wednesday. And
+[02:09] what happened is is only two of the 12
+[02:12] districts said they had slight
+[02:14] inflation. The other 10 said they had
+[02:16] bubbling inflationary pressure. I didn't
+[02:18] like that Beigebook survey because that
+[02:21] means the Fed's trying to find an excuse
+[02:23] not to um cut interest rates. So, I
+[02:26] think that's interesting. If they do
+[02:28] cut, they mostly have to cut for labor
+[02:30] market reasons. But apparently the
+[02:32] people in the Fed thinks in inflation is
+[02:34] bubbling even though we we're not seeing
+[02:36] it in the PPI or CPI.
+[02:38] >> And we saw a big jump in existing home
+[02:40] sales in December. Do you think this
+[02:42] could be the start of a broader housing?
+[02:44] >> Well, it could be the start. Uh December
+[02:46] is obviously a seasonally weak month,
+[02:47] but uh that was the strongest surge in
+[02:50] home sales in 2 years. Now mortgage
+[02:52] rates have come down and prices tend to
+[02:54] be soft cuz homes have to sit a lot
+[02:56] longer to sell. So it's a good start,
+[02:59] but it's also a signal that if we can
+[03:01] get mortgage rates down significantly,
+[03:04] uh then maybe this will continue. This
+[03:07] is a big part of the economy.
+[03:08] Residential investment has been a 5.1%
+[03:11] drag on GDP growth in the second and
+[03:14] third quarters. So the fact that we're
+[03:16] now growing over 5% with this with a
+[03:20] housing drag is a big deal. So this is
+[03:23] why President Trump is intervening in
+[03:25] the mortgage markets and he's diverted a
+[03:27] bunch of money to buy mortgages, shove
+[03:28] the rates down. The Fed, to their
+[03:30] credit, is trying to get short-term
+[03:33] rates down with their market
+[03:34] intervention. Uh I hope I hope that's
+[03:36] the start of something big, but the big
+[03:38] selling months are of course in the
+[03:39] spring and we have to see if it carries
+[03:41] over to then.
+[03:42] >> All right, let's turn to earnings.
+[03:43] There's a lot of big names reporting
+[03:45] next week. Let's start out with 3M. What
+[03:47] do you expect for their report?
+[03:49] >> Well, their sales are supposed to be up
+[03:50] 3.7%. Their earnings are supposed to be
+[03:52] up 7.3.
+[03:54] There's minor analyst cuts. 3M has a
+[03:57] good earning surprise history. Now, this
+[03:59] is a big multinational and um I don't
+[04:02] think any of the multinationals will be
+[04:03] that spectacular because once you leave
+[04:06] the US growth around the world is pretty
+[04:09] anemic. You know, they're they're doing
+[04:11] a lot better than they have been doing
+[04:12] in the past. How about Dr. R Horton,
+[04:14] especially given what we're seeing with
+[04:16] housing?
+[04:16] >> Well, their sales are supposed to be
+[04:17] down uh 12.6%.
+[04:19] He's supposed to be down 26.4%.
+[04:23] There are analyst earnings estimate
+[04:24] cuts, and they have an erratic earnings
+[04:26] surprise history. So, I'm not that
+[04:28] optimistic on Dr. Horton, but uh if they
+[04:31] can surprise or provide more upbeat
+[04:33] guidance, that would help. But, uh I
+[04:35] expect the stock to remain weak.
+[04:37] >> Netflix reports after the close. What's
+[04:39] your outlook here?
+[04:40] >> Well, this is a big one. Their sales are
+[04:42] supposed to be up 16.8%. Their earnings
+[04:45] is supposed to be up uh 29.5%.
+[04:49] But they had a big miss last quarter and
+[04:50] the Warner Brothers acquisitions is
+[04:52] still hanging over the stock. Now, if
+[04:55] Paramont gets Warner Brothers and
+[04:57] Netflix doesn't, they're going to get a
+[04:59] a multi-billion dollar payment. So,
+[05:02] we'll see. The other issue with Netflix
+[05:04] is, you know, they're trying to get into
+[05:05] sports, but every time they stream a
+[05:07] football game, it's digital. So they've
+[05:10] they've got uh some issues out there and
+[05:13] of course everybody wants to know are
+[05:14] they adding subscribers but um you know
+[05:17] this company is going to be more about
+[05:19] its guidance going forward and comments
+[05:22] on the Warner Brothers acquisition and
+[05:24] then we'll take our cue from from there.
+[05:26] >> United Airlines is another closely
+[05:28] watched name. What should investors
+[05:30] focus on?
+[05:30] >> Sales are supposed to be at 4.4% but
+[05:33] earnings are supposed to decline 9.8%.
+[05:36] They have a good surprise history. There
+[05:37] are lower lower fuel costs right now.
+[05:39] So, I think that's helping all the
+[05:41] airlines, the cruise ships. The one
+[05:42] thing I would say about United, you
+[05:44] know, there's no snow in the Rocky
+[05:45] Mountains, and I don't know if that's
+[05:47] affecting their Denver hub, but um you
+[05:50] know, if we get a lot of snow, they'll
+[05:51] get a lot more flights. So, we have to
+[05:53] keep an eye on that. But, you know, it's
+[05:54] a big airline. It's got a lot of hubs
+[05:56] everywhere. Of course, you know,
+[05:58] Chicago, Denver, San Francisco, they're
+[06:01] big in Newark. So, they've got some good
+[06:03] hubs, but I think they'd like to see
+[06:05] some snow so their Colorado business
+[06:07] takes off. Johnson and Johnson reports
+[06:09] midweek. What are your expectations?
+[06:11] >> Well, sales are up uh supposed to be up
+[06:13] 7.3%, earnings supposed to be up 22.1%.
+[06:17] Um
+[06:18] they have a a good earnings price
+[06:21] history, but it's pretty small. So, I
+[06:22] expect another surprise. Uh you know,
+[06:24] the drug companies are increasingly on
+[06:26] shoring and the more they onshore, the
+[06:28] more they're going to prosper. Uh
+[06:30] because that's the the Trump mandate.
+[06:32] And of course, that's been one reason
+[06:34] our trade deficit is falling. So I have
+[06:37] hope for Johnson Johnson.
+[06:38] >> Hi Burton gives us a read on energy.
+[06:40] What are you looking for?
+[06:42] >> Well, this is of course a big uh oil
+[06:43] service company. Their sales are
+[06:45] supposed to be down 3.6%.
+[06:47] Earnings supposed to be down 22.6.
+[06:49] There are positive analyst earnings
+[06:51] revisions though recently and this
+[06:52] company has a good um earnings well
+[06:55] actually had a really big earnings
+[06:56] surprise last quarter. So uh it might
+[06:59] get more upbeat. You know, Hallebertton
+[07:00] is um notorious for uh doing huge mega
+[07:04] oil projects. Well, I really got to see
+[07:07] their guidance.
+[07:07] >> Let's move to Proctor and Gamble. How
+[07:09] does this one look?
+[07:10] >> Well, this is another big multinational.
+[07:12] Their sales are supposed to be up 2.1%.
+[07:15] Earnings supposed to be down 8/10 of a
+[07:16] percent. There's some minor analyst
+[07:18] estimate cuts, but this company um 3M
+[07:22] has a a pretty good earning surprise
+[07:24] history. So, I have hope for Proctor and
+[07:27] Gamble. But again, this is a
+[07:28] multinational. Once you leave the United
+[07:30] States, economic growth is very anemic.
+[07:33] So that's their headwind right now.
+[07:34] >> Intel had a big surprise last quarter.
+[07:36] What are you expecting this time?
+[07:38] >> Yeah, that's going to be interesting.
+[07:40] Sales are supposed to be down 6.3%,
+[07:42] earnings supposed to be down 37.4%.
+[07:46] Um, but yeah, as you you point out, they
+[07:48] had that huge surprise. So, we'll see if
+[07:49] they can surprise us again. You know,
+[07:52] President Trump made them do an alliance
+[07:54] with Nvidia. Just so you know the
+[07:55] history of this, the Biden
+[07:57] administration gave Intel a bunch of
+[07:59] money uh to to build a semiconductor
+[08:02] plant in Ohio and it didn't happen
+[08:04] because uh the the defense department
+[08:07] was supposed to order two and a half
+[08:08] billion a year in chips from Intel and
+[08:11] they reneged. So due to the internal
+[08:13] government issues, uh Intel got money
+[08:15] but never built the plant. So, President
+[08:17] Trump basically demanded equity in the
+[08:18] company and then once the US had equity
+[08:21] uh he demanded that um Nvidia and Intel
+[08:24] collaborate together. So, we'll see if
+[08:26] this Nvidia alliance helps uh Intel but
+[08:29] the but like uh a lot of stocks their
+[08:31] guidance is going to be crucial.
+[08:32] >> Capital One has been strong. Does that
+[08:34] continue with this report?
+[08:36] >> Yeah, their sales are supposed to be up
+[08:38] 51 a.5%. Their earnings supposed to be
+[08:39] up 33.8. Uh there's positive balance
+[08:42] revisions and this company does have a
+[08:44] great earning surprise history. Now, of
+[08:46] course, this company's an extremely
+[08:47] aggressive u credit card lender. See,
+[08:50] President Trump is uh wants to cap the
+[08:53] credit card interest rates at 10%. And
+[08:56] the stock got hit on that news.
+[08:58] President Trump also called Senator
+[09:00] Elizabeth Warren to to try to get her
+[09:02] backing for his proposal. So, this might
+[09:06] affect Capital One's business plan and
+[09:08] profitability going forward. So despite
+[09:11] their anticipated great results, they're
+[09:13] going to have to give us some good
+[09:15] guidance on the future moving forward.
+[09:17] >> CSX is a good economic bellweather. What
+[09:20] should investors watch?
+[09:21] >> Well, this is of course a railroad.
+[09:23] Their sales are supposed to be up an
+[09:24] anemic 2%. Earnings supposed to be down
+[09:27] 1.5%. There are minor analyst cuts. U
+[09:31] but they did post nice earning surprises
+[09:33] in the past two quarters. you know,
+[09:34] railroads are very very dependent on um
+[09:38] you know, transporting ethanol from the
+[09:41] heartland from transporting agriculture
+[09:43] items and and just commerce in general.
+[09:47] Uh you know, the fact that manufacturing
+[09:50] is contracted for 10 months is probably
+[09:52] way and it's tough in the farm patch
+[09:54] still. So, you know, I really have very
+[09:56] low expectations for CSX. We'll see what
+[10:00] the um what their guidance is. And
+[10:02] finally, SLB. What does this report tell
+[10:04] us about global energy demand?
+[10:06] >> Well, this is lumberj. It's a big oil
+[10:09] service company. Their sales are
+[10:10] supposed to be up 2.8%. Supposed to be
+[10:12] down 19.2. They did post uh pretty good
+[10:15] earning surprises quarters. We should
+[10:17] talk about the energy patch. Crude oil
+[10:20] is very sensitive to what's going on in
+[10:21] Iran right now. And um uh it was rising.
+[10:25] Now it's as I talked to is starting to
+[10:27] to fall back. Obviously, President Trump
+[10:29] had put the 25% tariffs on any country
+[10:33] doing business in Iran, and he's trying
+[10:35] to to cut off the Iranian oil from the
+[10:37] world markets. So, you know, the oil
+[10:40] service companies are very sensitive to
+[10:42] big projects and demand. But because
+[10:45] President Trump has sent three missile
+[10:46] destroyers to the Middle East, he's
+[10:48] signing an aircraft carrier there. He's
+[10:51] obviously trying to intimidate the
+[10:52] leadership of Iran because obviously the
+[10:54] people have been revoling for three
+[10:56] weeks. It's reported at least 200 people
+[10:59] have been killed. It's very unclear
+[11:00] whether they're executing people. They
+[11:02] we're supposed to start doing that and
+[11:04] you know they obviously want the regime
+[11:07] to fall in Iran and if that happens, you
+[11:10] know, we Iran could join the global
+[11:12] community and stop being a state sponsor
+[11:14] terrorism. So this is all affecting the
+[11:16] oil markets around the world. The other
+[11:18] reason they I don't want to do this now
+[11:20] is worldwide demand for crude oil is
+[11:22] very weak in the winter time. In the
+[11:24] spring it's going to pick up. So, so
+[11:26] this is part of the chaos in the in the
+[11:29] uh oil patch. Of course, we have the
+[11:30] whole Venezuela issue as well. And the
+[11:33] USS sees that oil and I guess we're
+[11:35] supposed to give that money to the
+[11:37] people if the the leftover regime and
+[11:40] authorities in Venezuela cooperate with
+[11:42] the Trump administration. You know, when
+[11:44] Exxon met with President Trump, they
+[11:47] were very reluctant to go back in Vene
+[11:49] Venezuela because they've been burnt
+[11:50] before. Plus, Exxon is so busy in
+[11:53] Guyana. So, you know, that's that's one
+[11:56] reason these oil service stocks just
+[11:59] might not be as exciting as you might
+[12:01] think, but as soon as crude oil prices
+[12:03] start to rise, they'll get very busy
+[12:05] very quickly.
+[12:06] >> Well, plenty to watch as earning season
+[12:08] heats up. Thank you all so much for
+[12:10] watching. Please give this video a like
+[12:12] and subscribe if you haven't already,
+[12:14] but we will see you next Wednesday for a
+[12:16] midweek update.
+[12:29] Hey,
+[12:41] hey, hey.

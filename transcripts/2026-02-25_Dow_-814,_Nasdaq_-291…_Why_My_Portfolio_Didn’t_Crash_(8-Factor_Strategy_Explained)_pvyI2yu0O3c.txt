@@ -7,9 +7,376 @@ Type: video
 Duration: 14:54 (894s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 368
+Transcript characters: 13441
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Tariff and AI fears spook the stock
+[00:02] market, but my portfolio of 79 stocks
+[00:05] barely budges. We will reveal how to
+[00:07] find that silver lining critical path in
+[00:10] this chaotic market. Welcome back to
+[00:11] Navier Market Buzz.
+[00:19] Dow industrials dropped 814 points. The
+[00:22] Nasdaq dropped 291 points. and my
+[00:26] account of 79 stocks still goes up 2%.
+[00:30] >> Well, that's a good question. A lot of
+[00:31] it is the gold stocks you own, well over
+[00:34] 20 gold stocks because gold is an oasis
+[00:36] amidst this chaotic environment we're
+[00:38] in. Some of it's the excitement that
+[00:41] Nvidia is going to be announcing this
+[00:42] week. That's helping lift all your data
+[00:44] center stocks and Eli Liy has been
+[00:46] incredibly strong. That's a big weight
+[00:48] in your portfolio. This year is very
+[00:50] odd. This year is like last year. Um
+[00:53] it's just like we hit a rewind or
+[00:55] something. And um you know we are up
+[00:58] well over 10% ahead of the S&P 500 this
+[01:00] year on our large cap growth portfolio
+[01:03] which I have to say actually did better
+[01:05] than your account today. Okay. It was up
+[01:08] 3/10en of a percent. And um so we're
+[01:10] very proud of that. Um but yeah it's um
+[01:14] uh if you break the market down the
+[01:18] selling pressure is in still in software
+[01:20] stocks. People are scared that AI is
+[01:22] going to destroy all the software
+[01:24] stocks. It's still in the private credit
+[01:26] stocks. Essentially, private credit
+[01:29] started to crack up last week when Blue
+[01:31] announced that um it wouldn't be
+[01:34] allowing redemptions from one of its
+[01:35] funds. And so, the media is all over
+[01:38] Blue now. The Financial Times in the UK,
+[01:41] Bloomberg's been on them. Uh you know,
+[01:44] we have a friend um that uh knows the
+[01:47] basically the spokesperson for Blue O.
+[01:49] So, we've been having chats with him
+[01:51] today. He says everything's still fine,
+[01:52] but uh you know, obviously something's
+[01:55] not fine because you can't get out. So,
+[01:57] this is the problem. This is a $3
+[01:59] trillion year industry and and so the
+[02:02] credit markets are very very nervous,
+[02:03] but not the Treasury markets. The
+[02:05] Treasury bond yields are lower and and
+[02:07] that's that. And I think the main thing,
+[02:09] the tariff fears are totally unfounded.
+[02:12] Okay? Because you got to realize the
+[02:15] Trump administration negotiated deals
+[02:17] with all these countries. They have
+[02:19] their laws. We have our laws. And for
+[02:22] the Supreme Court to say that we
+[02:24] couldn't impose a tariff after we just
+[02:26] negotiated it is somewhat controversial.
+[02:28] And uh basically they're they have other
+[02:32] ways to impose tariffs. So I don't think
+[02:35] these countries are going to try to get
+[02:36] their 170 billion back, dollars back. I
+[02:39] think this is just a big brewhaha over
+[02:42] nothing. President Trump is still very
+[02:44] perturbed by all this. Last Friday when
+[02:47] the Supreme Court ruling came out, he
+[02:49] imposed 10% tariffs and on Saturday he
+[02:51] raised it to 15. You know, in theory,
+[02:52] this hurts like Britain because Britain
+[02:54] had a 10% tariff. Why should they pay a
+[02:56] 15 when they negotiated a 10? So, I
+[02:58] think all this will get sorted out.
+[02:59] We'll all be back to normal soon. And,
+[03:01] uh, you know, it's up to President Trump
+[03:04] to clarify all this in the State of the
+[03:05] Union, uh, which hopefully he'll be
+[03:08] doing. Uh, most of the State of the
+[03:09] Union will be telling everybody how
+[03:11] great thing things are. So, uh, we're
+[03:13] just very proud that we've been able to
+[03:15] find the the silver lining critical path
+[03:16] in the market. I always say that good
+[03:19] stocks bounce and are resilient, and
+[03:21] that's exactly what we found.
+[03:23] >> Now, let's dig a little bit deeper. You
+[03:24] always talk about alpha for our
+[03:26] audience. What exactly is alpha? It's
+[03:28] >> how much the stock goes up irregardless
+[03:30] of the market. And we're only buying
+[03:32] high alpha, predominantly low, low
+[03:34] standard deviation stocks. So sometimes
+[03:36] we find stocks meta would be an example
+[03:39] where they do better than the market but
+[03:41] their alpha is sometimes very low or
+[03:43] negative. So in theory just so you
+[03:45] understand how the system works let's
+[03:47] just say the market's up 50% and we have
+[03:49] a stock that goes up 100%. If that stock
+[03:52] moves in tandem with the market it gets
+[03:54] a beta of two and an alpha of zero.
+[03:56] It'll miss my system. The only way a
+[03:58] stock can get on my system is the zig
+[04:00] when the market zags. And our stocks are
+[04:04] non-correlating. See, most money
+[04:06] managers have to be correlated to
+[04:08] benchmarks. What I do isn't allowed in
+[04:11] most money management platforms. You
+[04:13] can't have 18% of your portfolio in one
+[04:16] stock, namely Nvidia. You can't uh, you
+[04:19] know, have 30% in 20 plus gold stocks.
+[04:23] Uh, you can't avoid a bunch of sectors
+[04:25] out there, which I do. I don't have any
+[04:27] financials, okay? So, I'm not worried
+[04:30] about the private credit woes, okay? I
+[04:34] only have uh two software stocks, both
+[04:37] of which had blowout results. I'd sold
+[04:39] one that was good, but I there was there
+[04:41] was the neighborhood for software was
+[04:43] weak. You know, it it's what I do is
+[04:46] just not what you get when you buy a
+[04:49] product from Wall Street and uh because
+[04:51] they want the money managers to track
+[04:53] the benchmarks and we don't do that. We
+[04:55] just want to find the the sweet spot and
+[04:58] alpha is where we start and then we go
+[05:00] out and confirm that there's a
+[05:03] fundamental reason that that alpha is
+[05:04] emerging and and um to be honest with
+[05:07] you barely 8% of our A-rated stocks are
+[05:11] are passing our eight factor fundamental
+[05:13] model and then we buy.
+[05:14] >> This might be the perfect moment to
+[05:16] revisit your eight factor stock
+[05:18] selection model. In a chaotic headline
+[05:20] driven market like this, what is the
+[05:22] critical path investors should follow?
+[05:24] Okay, we like stocks with one, strong
+[05:27] sales growth. Two, um, expanding
+[05:30] operating margins. Three, steady
+[05:32] earnings growth, consistent growth.
+[05:34] Four, accelerating earnings momentum. It
+[05:37] means they're growing faster. Five, we
+[05:39] like them to have a high return on
+[05:40] equity. Six, we like them to have very
+[05:42] strong cash flow. Seven, we like them to
+[05:44] have positive balance revisions. And
+[05:46] eight, we like them to have a very
+[05:48] strong earnings surprise history.
+[05:49] Basically what we're doing with that
+[05:51] eight factor fundamental model is
+[05:53] finding the stocks the institutional
+[05:55] investors are discovering and the
+[05:56] institutional investors move like
+[05:58] lemmings one after the other. The
+[06:00] analysts are slow to raise their
+[06:02] estimates higher one after the other. So
+[06:04] we we get on as these stocks break out.
+[06:08] We're probably catching them in the
+[06:09] third inning and we're going to ride
+[06:10] them as long as it lasts and that's
+[06:12] typically four to six quarters as the
+[06:14] stock gets discovered. Now, when you get
+[06:16] a monopoly, which is a company that just
+[06:18] dominates its business, it can last a
+[06:20] lot longer. And and so we would declare
+[06:23] Nvidia a monopoly, for example. Okay? I
+[06:26] would respectfully say Palunteer is a
+[06:28] monopoly. Okay? And uh Peter Theel, this
+[06:31] is one of the greatest investors out
+[06:32] there, has made it very clear when he
+[06:34] invests, he doesn't want to find a
+[06:36] company that competes. He wants to find
+[06:38] a company that is a monopoly that
+[06:40] dominates its respective niche, and
+[06:41] that's what we'd like to.
+[06:42] >> Let's pivot to the Fed. Christopher
+[06:44] Waller said he's suspicious of the
+[06:46] January private payroll numbers and
+[06:48] suggested that if February comes in
+[06:49] weak, he may push for a March rate cut.
+[06:52] How realistic is that?
+[06:54] >> Somewhat. Uh Christopher Waller has
+[06:56] tremendous credibility because he
+[06:59] foresaw uh the decline in payroll jobs
+[07:02] well before it got reported. I suspect
+[07:05] he's thinks there might be some seasonal
+[07:07] adjustments in that number and um it
+[07:11] could get revised down the January
+[07:13] number and the February number could
+[07:16] come in weaker than expected. The only
+[07:17] problem with pushing for a rate cut in
+[07:20] March is it's kind of delaying the the
+[07:23] intro of Kevin who will be the new
+[07:26] Federal Reserve chairman in May. But if
+[07:27] the data is there, they should cut.
+[07:30] Okay? And then Kevin may continue to cut
+[07:33] because it's his opinion that AI is
+[07:35] going to lead to these incredible
+[07:37] productivity gains and that that won't
+[07:38] be inflationary and that will allow more
+[07:41] rate cuts and is not a fan of
+[07:43] quantitative easing which is essentially
+[07:45] money printing. So when these countries
+[07:47] u you know run these big deficits and uh
+[07:50] they basically print money to make ends
+[07:53] meet and um he's not a fan of that. So,
+[07:56] uh, let's let, uh, Kevin take over, but,
+[07:58] uh, I think a May rate cut is is almost
+[08:00] certain. March is a potential 20 cost.
+[08:04] >> The Atlanta Fed is estimating 3.1% first
+[08:07] quarter GDP growth with its GDP now
+[08:10] model, but you've been forecasting we'll
+[08:11] eventually see 5% GDP growth. When does
+[08:14] that happen, and what does that have to
+[08:16] line up? Well, I don't want to make
+[08:19] excuses for myself, but the severe
+[08:22] winter weather is going to hold back
+[08:23] first quarter GDP growth. As you know,
+[08:25] had you been in New York during the the
+[08:28] second big snowstorm, you were not
+[08:30] allowed to leave your apartment. The
+[08:31] subway stopped, everything stopped and
+[08:33] it's much worse up in Boston and the
+[08:35] winds are, you know, horrific, 70, 80
+[08:37] miles an hour. So, this disrupts
+[08:40] economic growth, you know, disrupts
+[08:41] airlines, it disrupts commerce. So first
+[08:44] quarter GDP growth will be held back by
+[08:47] the weather. And then we we have this
+[08:49] government partial government shutdown
+[08:51] that is on again off again still can
+[08:54] mess with things just a bit. But the
+[08:56] good news is when spring comes the
+[08:57] daffodils pop out. Everybody cheers up
+[09:00] and everybody gets busy again and
+[09:02] there'll be a lot of catchup. So
+[09:04] hopefully we'll hit that 5% number in
+[09:06] the second quarter. Still have to fix
+[09:07] housing. Housing is not fixed. whether
+[09:10] we look at um existing home sales or new
+[09:12] home sales, it's just not fixed. It's
+[09:14] not going to be fixed until interest
+[09:16] rates go significantly lower and Fed
+[09:17] cuts multiple times and and there's some
+[09:19] insurance reforms out west. They need
+[09:21] insurance reforms because, you know,
+[09:22] they build homes in in fire areas and
+[09:24] it's hard to get fire insurance now.
+[09:26] >> Any thoughts on Nvidia's earnings? All
+[09:28] eyes are on Nvidia as the poster child
+[09:30] of the AI trade.
+[09:31] >> Yeah, it's going to be wonderful. It's
+[09:34] it's February 25th is going to be
+[09:37] stunning. We know it because their
+[09:39] customers have had stunning results.
+[09:41] 123% sales growth for Super Micro.
+[09:44] Vertive Holdings just blew it out.
+[09:46] Sales, earnings, guidance. The company
+[09:48] that makes the Nvidia chips, Taiwan
+[09:50] Semi, sales are are much stronger than
+[09:53] anticipated. I'm really looking forward
+[09:55] to not only the results, but the
+[09:57] guidance. There's going to be a
+[09:58] replacement cycle because the new Ver
+[10:01] Rubin chips that are being made now,
+[10:03] although they don't ship to the fall,
+[10:04] are not only five times faster, but 10
+[10:06] times more energy efficient. And
+[10:08] obviously, there's a lot of fuss about
+[10:10] all the energy data centers suck. So
+[10:12] that means you got to start replacing
+[10:14] the older ships. So it's going to be
+[10:16] wonderful. And Nvidia is acting very
+[10:18] well. It was up the the day that the Dow
+[10:20] dropped 814 points. And um it's going to
+[10:24] be wonderful. Now, will it go up the day
+[10:26] the earnings come out? sometimes not
+[10:27] because they write so many cover call
+[10:29] options, but I hope it just blows
+[10:31] through uh uh the option writing and and
+[10:35] gaps higher and um I would love to see
+[10:37] that. Now, it's a $5 trillion company
+[10:40] and you start to fight physics at that
+[10:42] size, but uh this is I have to say the
+[10:45] best stock I've ever found ever. And I
+[10:48] don't have companies operating margin
+[10:49] like this. I don't have an inspirational
+[10:51] leader like Jensen Mong other companies.
+[10:53] I mean, you know, I'm proud of, you
+[10:55] know, Monster Energy and Tyson Foods and
+[10:58] Conair and all these other big home runs
+[11:01] I've hit, but Nvidia's the best and it
+[11:04] it will change your life. So, everybody
+[11:06] has to back up the truck, bite it on any
+[11:08] dip, and uh this week will be
+[11:10] incredible. And I'm not going to let
+[11:12] tariffs or AI concerns or anything ruin
+[11:16] the party, okay? This is going to be an
+[11:19] incredible week, so we should all enjoy
+[11:21] it. One of our subscribers wanted you to
+[11:23] comment on the upcoming Cotera Energy
+[11:25] Devon Energy merger. Is it a buy, sell,
+[11:28] or hold?
+[11:28] >> Well, for disclosure reasons, your mom
+[11:30] does own Devon Energy. And uh I've
+[11:33] explained to your mom multiple times
+[11:35] that it's very sensitive to natural gas
+[11:38] prices. And we have sky-high natural gas
+[11:41] prices now because of the extreme winter
+[11:43] weather in the big metro areas, mostly
+[11:45] the Northeast, the Midwest, and you
+[11:47] know, be honest with you, it was even
+[11:49] cold in Florida today, but of course, no
+[11:50] one in Boston or New York sympathize
+[11:52] with us in Florida at this moment. But,
+[11:55] um, you know, it's not recommended by me
+[11:57] now. Okay. I like more mid-stream
+[12:00] companies and if you could show on
+[12:03] growth investor the elite dividend list
+[12:05] that'll be a little snapshot of the best
+[12:08] high dividend energy related stocks
+[12:10] people can buy. But Devon is dominates
+[12:13] natural gas and if we have extreme
+[12:16] weather they will do better. So you want
+[12:18] to root for one freezing cold winters
+[12:20] hot miserable summers. The worst thing
+[12:22] that can happen to Devon Energy is mild
+[12:24] weather because natural gas demand is
+[12:26] hyper sensitive to uh weather.
+[12:28] >> Another one of our subscribers wanted
+[12:30] you to comment again on PLTR. Before it
+[12:33] was back the truck up and now you know
+[12:36] Palunteer is kind of on a downward
+[12:38] trend. What thoughts and opinions do you
+[12:40] have for them?
+[12:41] >> Palanteer's last quarter was perfect. It
+[12:43] couldn't have been better. The stock got
+[12:44] its mojo back a bit when it announced it
+[12:46] was moving from Colorado to Miami, but
+[12:49] they're still selling in software
+[12:50] related stocks and so that selling
+[12:52] pressure persists. Palunteer is very
+[12:54] embedded in our military.
+[12:57] Uh if we take action against Iran,
+[13:00] they're going to be involved behind the
+[13:01] scenes. They're making our government
+[13:03] more efficient and right now they're the
+[13:06] the best um users of AI out there in the
+[13:09] world. So I don't want you to worry
+[13:11] about Palunteer. I would buy it on any
+[13:13] dip. Uh it's led by Alex Karp, a very
+[13:16] interesting fellow, but uh the truth of
+[13:18] the matter is that um uh this gentleman
+[13:22] knows what what he's doing and uh I
+[13:24] would definitely invest with him and
+[13:26] he's obviously a Peter field protege.
+[13:29] >> Perfect. Well, thank you so much for
+[13:30] answering all my questions. Thank you
+[13:32] all so much for watching this midweek
+[13:33] update. As always, if you have any
+[13:35] questions that you want us to answer in
+[13:37] this week's Sunday video, please leave
+[13:39] them in the comments below. But until
+[13:41] then, thank you all so much for
+[13:42] watching.
+[14:02] Hey, hey, hey.

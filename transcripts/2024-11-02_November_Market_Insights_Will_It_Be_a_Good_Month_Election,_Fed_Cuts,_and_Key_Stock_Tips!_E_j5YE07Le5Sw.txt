@@ -7,9 +7,485 @@ Type: video
 Duration: 19:29 (1169s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 477
+Transcript characters: 17286
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:06] hello everyone welcome back to nav
+[00:07] Market Buzz episode 10 thank you all
+[00:10] again so much for joining us excited to
+[00:12] be already at episode 10 I'm Crystal
+[00:15] navier I'm joined again this week with
+[00:17] my father Louie naier Dad we have to
+[00:20] talk about November what is this month
+[00:22] going to bring is it looking good let's
+[00:24] talk about it well we're off to a great
+[00:26] start based on what happened on Friday
+[00:28] um November is seasoning super strong
+[00:31] month uh we have a chart we're shown
+[00:33] everybody from bepoke which shows in the
+[00:36] last 10 years how we've steadily risen
+[00:39] uh almost every day in November and the
+[00:42] reason November's so good is there's
+[00:44] still earnings coming out we often get
+[00:46] an early January effect which is a surge
+[00:49] in small caps but November's a happy
+[00:53] time of year it's um a time to to get
+[00:55] together with friends and family and
+[00:57] because of Thanksgiving and all and it's
+[00:59] just
+[01:00] again a wonderful time of year and the
+[01:03] market U reflects that you know if
+[01:06] consumers are happy the Market's happy
+[01:08] so simple as that now what did you think
+[01:11] of the October payroll
+[01:13] report well that was devastating um it
+[01:16] was only up 12,000 but there's so many
+[01:19] seasonal adjustments I'm sure it's going
+[01:22] to get restated I I think the big news
+[01:24] wasn't so much the October paper report
+[01:26] being disting is the revisions uh in um
+[01:30] August September were severely down you
+[01:32] know the government keeps overshooting
+[01:34] its Mark you know uh early in the year
+[01:37] they um overstated jobs by 88,000
+[01:41] trailing 12 months through through March
+[01:43] so you know the government has all these
+[01:46] weird seasonal adjustments but there's
+[01:48] no doubt the paper report was held uh
+[01:50] down by all the Boeing
+[01:52] layoffs uh it was also held down by um
+[01:55] continued contraction manufacturing
+[01:58] 46,000 Manufacturing jobs
+[02:00] disappeared um the other comment I have
+[02:04] about it is that um per a Milton did
+[02:07] screw up the data so this is going to
+[02:10] get revised again but uh the probably
+[02:13] the most frustrating thing is despite
+[02:16] this horrible payer report and the
+[02:18] number of unemployed going up by 150,000
+[02:20] on a cumulative number uh they wouldn't
+[02:23] raise unemployment rate because they
+[02:25] rejiggered the the size of the labor
+[02:27] force so I'm was very very frustrated
+[02:31] and it was just confusing uh it's not a
+[02:33] good report for coma but you know a lot
+[02:35] of people have already voted now what
+[02:37] did that ISM Manufacturing report show
+[02:40] shows that we're still in recession it
+[02:42] fell again and we've been in recession
+[02:45] for uh over two years some of this is
+[02:48] related to housing you know when the
+[02:50] housing turns down you know people order
+[02:52] fewer appliances and things that's why
+[02:55] the elections going to be determined by
+[02:57] the manufacturing States the blue wall
+[03:00] as they call it Wisconsin Michigan
+[03:02] Pennsylvania and uh um it's they this is
+[03:07] part of the country that's very
+[03:08] frustrated it's not as prosperous as
+[03:10] some other parts of the country so um we
+[03:14] have to fix this and first thing to do
+[03:16] is fix the housing market the second
+[03:18] thing to do is lower interest rates so
+[03:20] people have more access to credit and
+[03:23] then we can have a manufacturing
+[03:24] turnaround of course we can also onshore
+[03:27] you know one of the biggest on Shores
+[03:29] that the B Administration was pushing
+[03:31] was Intel well guess what they just
+[03:34] announced another third quarter loss
+[03:36] okay furthermore uh they had another
+[03:39] round of layoffs thousands of people and
+[03:43] they're being booted from the Dow nid is
+[03:46] going to replace him in the Dow so you
+[03:48] know that's that's why on Shoring didn't
+[03:50] work in the case of Intel and it's
+[03:53] really sad you know I was in um oh
+[03:56] Central Ohio where the the Intel plant
+[03:58] was supposed to go in and the one of the
+[04:00] reasons they couldn't break ground on
+[04:02] the plant is the defense department
+[04:05] renaged on their commitment to order 2
+[04:07] and a half billion in chips from them a
+[04:09] year so you know it's funny the
+[04:11] government passes one incentive to
+[04:14] onshore and uh to re re uh
+[04:18] America and get us growing again and
+[04:19] then another division of the government
+[04:21] namely the defense department um um you
+[04:24] know goes um changes its mind so it's
+[04:28] it's very frustrating and I I feel bad
+[04:30] for Intel and I feel bad for all those
+[04:32] people getting laid off but there's
+[04:35] definitely a problem on in with
+[04:37] manufacturing what do you expect from
+[04:38] Super Micro computers official update on
+[04:41] Tuesday well I expect that they will
+[04:44] announce they have a new auditor uh I
+[04:46] think they've engaged a new law firm and
+[04:49] uh they will have a committee reviewing
+[04:52] their accounting practices so what's
+[04:54] going on with super micro is there
+[04:57] auditor erns Young quit and um this is
+[05:01] all in the wake of the Hindenberg report
+[05:03] a short seller report insinuating that
+[05:06] super micro is inflating sales now as an
+[05:09] ex account accountant I don't know how
+[05:10] you do that uh you know you book an
+[05:13] order it goes into a backlog but I think
+[05:15] we're probably going to find out that
+[05:18] super micro has a four or fiveyear order
+[05:21] backlog and whether you count that as
+[05:23] current sales or not uh is is probably
+[05:26] the accounting issue uh you know the
+[05:28] shortage of those nid chips is acute
+[05:31] everybody wants them uh it's hard to
+[05:34] build the data centers until we improve
+[05:36] the utility grid but um that is the
+[05:41] conundrum was super micro you know was
+[05:42] the hottest stock of the Year got out of
+[05:45] the s&p500 even did a secondary stock
+[05:47] offering early in the year with
+[05:49] Goldman and I don't see any handlist
+[05:54] cutting their estimates for the stock
+[05:56] you know the the issue is not earnings
+[05:57] the issue is how they book their salale
+[06:00] so I think we're going to get some
+[06:01] clarification on Tuesday uh it's too
+[06:04] late to sell the stock in my opinion
+[06:07] also this is the strongest stock I have
+[06:09] for sales growth so it's not like I have
+[06:11] a better stock to go to but it's been
+[06:14] slimed by um the short sellers has been
+[06:17] hurt by the erns and young quitting and
+[06:21] the people might understand why isn't
+[06:23] the company talking and the answer is
+[06:25] you can't talk before your earnings come
+[06:27] out there's a quiet period so hopefully
+[06:29] they're going to clarify things a bit on
+[06:31] Tuesday and I suspect that they will um
+[06:35] um have a date for when their new audits
+[06:38] will announce their earnings now the
+[06:40] other thing that hurt the stock is Jim
+[06:42] Kramer and CNBC mentioned it could be
+[06:44] delisted by NASDAQ I don't anticipate
+[06:47] that I expect the ear the company to
+[06:50] come through their earnings I think the
+[06:51] problem is going to be their their sales
+[06:53] order backlog is just too darn big
+[06:55] that's a nice problem they have is it
+[06:57] unusual for a company to issue an update
+[06:59] while everyone's watching the um
+[07:01] presidential election results somewhat
+[07:04] you know because that's not the date you
+[07:06] normally now Char but they probably want
+[07:08] to be on record and they have to do as
+[07:10] soon as possible so I'm going to give
+[07:11] them the benefit of the doubt and uh but
+[07:14] yeah uh Tuesday night everybody's going
+[07:15] to be watching to see which states uh
+[07:18] aama and Trump have won and uh and who
+[07:21] the next president's going to be and
+[07:22] hopefully of course we'll know out we'll
+[07:24] know on Tuesday uh night um sometimes
+[07:28] you know they have to count on Wednesday
+[07:30] and then but it would sure be nice to
+[07:33] have a decisive election outcome do you
+[07:35] think the presidential election will be
+[07:37] contested no I think the Electoral
+[07:40] College is very very clear you know
+[07:42] what's interesting is they think Trump's
+[07:44] going to win the overall vote largely
+[07:46] did to Florida being such a big state
+[07:47] Real Clear Politics as the Electoral
+[07:49] College a lot closer they have comma
+[07:51] winning Wisconsin Michigan now and Trump
+[07:53] winning Pennsylvania but whoever wins
+[07:55] Pennsylvania becomes the next president
+[07:58] it's pretty much as simple as
+[07:59] I'm uh very confident we'll have a
+[08:01] decisive outcome the lawyers are all
+[08:03] ready to contest and fight and uh that
+[08:06] would not be good for the country we do
+[08:08] expect a lot of congressional races to
+[08:10] be contested especially in in California
+[08:13] New York because the bo the votes are
+[08:15] going to be
+[08:16] close because uh whoever controls the
+[08:18] House of Representative controls
+[08:20] spending so that's a big deal so you
+[08:22] know if we have a democratic
+[08:24] house and uh a trump presidency you know
+[08:28] Trump's not going to be able to do what
+[08:29] he wants to do so that will be
+[08:31] interesting and then then of course the
+[08:33] house can unleash more investigations
+[08:36] more impeachments and all all the stuff
+[08:38] they did before moving on to Thursday
+[08:40] with the productivity report do you
+[08:42] expect
+[08:43] Improvement yes that is really the
+[08:45] secret to American growth so AI uh
+[08:48] improves our productivity so when you
+[08:50] shop online you you are being productive
+[08:53] because you're not wasting time going to
+[08:55] a store and walking around and just
+[08:57] gawking at things you're more efficient
+[09:00] online another example is you know
+[09:02] America has these huge big box stores
+[09:05] like Costco and that's very efficient
+[09:08] another example is the oil industry
+[09:10] there was a good Wall Street Journal
+[09:12] article how that is the most efficient
+[09:14] industry uh uh out there and they have
+[09:17] massive productivity gains a lot of that
+[09:19] has to do with horizontal drilling you
+[09:21] know you can have one well drill
+[09:22] sideways up to 2 miles and they drill
+[09:25] typically in a star pattern and that's
+[09:28] why even in the Administration which has
+[09:31] stopped uh drilling on some federal
+[09:33] lands and and is not that fracking
+[09:36] friendly Tred to ban LG expansion we
+[09:39] have record not only oil production we
+[09:41] have record gas production so we got to
+[09:44] decide what we're going to do with all
+[09:45] these resources because a a lot of them
+[09:47] were just FL like the gas we just flare
+[09:50] because we have nowhere to to to send it
+[09:52] we have no pipeline to put it in and uh
+[09:54] so hopefully this will get resolved and
+[09:57] um uh and but the productivity gains are
+[10:01] are in the US are massive and um and you
+[10:05] know another economy that really grew uh
+[10:08] with productivity gains was Japan so um
+[10:12] I'm expecting that to be very good also
+[10:15] on Thursday we have the fomc statement
+[10:17] do you expect any
+[10:20] surprises not really we know they're
+[10:23] going to cut rates because we had the
+[10:25] bad payroll report we had the PC
+[10:28] inflation come in at to 2.1 trailing 12
+[10:31] months they've also telegraphed these
+[10:33] rate cuts um but I think we want to look
+[10:36] at the FMC statement to see any language
+[10:39] change I think that what the fed's going
+[10:41] to have to do
+[10:42] is um lower expectations for rate Cuts
+[10:45] in 2025 because we did have a big backup
+[10:48] in treasury yields and the FED never
+[10:51] fights Market rates so um if not
+[10:55] November and by December they're going
+[10:57] to have to say that we're not going to
+[10:58] have that any rate Cuts in 2025 but the
+[11:02] FMC statement's always closely
+[11:04] scrutinized now let's switch over to
+[11:06] stocks after meta and Microsoft be
+[11:08] analyst expectations why was it that all
+[11:11] AI related stocks went
+[11:14] down well because um they're not
+[11:17] monetizing their gains as fast as
+[11:19] everybody wants them to meta Microsoft
+[11:22] beat they're going to be spending huge
+[11:23] amounts on AI there is a growing concern
+[11:26] that we're not going to have the power
+[11:28] to run AI you know Trump's already said
+[11:30] he's got to literally double our power
+[11:32] grid to do that and the problem with our
+[11:34] power grid is that you can put a bunch
+[11:36] of like solar in the in the desert but
+[11:39] by the time you transmit it to Salt Lake
+[11:41] City or somewhere else um you lose a lot
+[11:44] of electricity in the transmission lines
+[11:46] that's that crackle sound you hear
+[11:49] that's why the birds that sit on
+[11:50] transmission lines have such fluffy
+[11:52] feathers so if we were serious about
+[11:55] some of the green energy we'd have to
+[11:57] put in what we call more direct current
+[11:59] grip grids which is how you send
+[12:01] electricity a long distance uh New York
+[12:03] has a direct current grid from Quebec
+[12:06] for hydro California has a direct
+[12:08] current grid from Pacific Northwest for
+[12:10] Hydra so the easiest way to uh uh boost
+[12:15] our our um electric grid is just to put
+[12:18] in a bunch of natural gas
+[12:19] turbin but the problem is is a lot of
+[12:22] states are still pushing back so uh we
+[12:25] got to figure this out once and for all
+[12:28] uh right now we're just flaring natural
+[12:30] gas we're just wasting it we've capped a
+[12:33] bunch of Wells are leaking and my
+[12:36] argument is instead of having it leak or
+[12:38] just uh get flared why don't we just
+[12:40] have it spin a turbine uh natural gas is
+[12:43] a transition fuel it's a cleanest
+[12:44] burning fossil fuel we have and again
+[12:48] instead of flaring or wasting it I I
+[12:49] think we ought to have it spin a turbine
+[12:52] but that's only being done in certain
+[12:54] certain red States and that's what we're
+[12:56] going to need to to double the utility
+[12:58] GR I I know the
+[13:01] U um Amazon Google and Microsoft all
+[13:05] want nuclear Microsoft actually convince
+[13:08] Consolation Energy to reopen Three Mile
+[13:11] Island but um a lot of these other
+[13:13] companies want these small modular
+[13:14] reactors and they're just they're a
+[13:16] decade away and there's no companies
+[13:19] that are going to be profiting from them
+[13:20] immediately so um if we're serious about
+[13:23] AI we um we have to double the power
+[13:26] grid so those those concerns uh
+[13:29] reemerged last week and then of course
+[13:32] our stocks that um uh support building
+[13:36] out the power grid increasing the data
+[13:38] centers they all they've largely
+[13:41] announced it's like eaten uh Quant
+[13:43] Services which is pwr and verta VRT one
+[13:47] of our subscribers wrote if you were
+[13:49] going to keep
+[13:50] semmi oh we're keeping it we're still up
+[13:53] in it believe it or not we've been in a
+[13:55] long long time you know it's a it's
+[13:57] falling my rating system if you look at
+[13:59] my rating system it doesn't look very
+[14:01] good right now but uh I don't like to
+[14:03] panic I don't like the short sellers to
+[14:06] have to win on Indo Endo I I read that
+[14:08] henderberg report inside out about
+[14:10] forwards backwards I cannot find the
+[14:14] problem they were insinuating and um
+[14:17] being the ex accountant I am I'm going
+[14:19] to hold it and uh um I I do want to know
+[14:23] what the earnings are this is not an
+[14:25] Enron this is not a fraud situation it's
+[14:29] a company that has a huge order backlog
+[14:32] and the question is if you book orders
+[14:35] four or five years out should that be
+[14:37] counted in current sales I think that's
+[14:39] the real conundrum now you had a market
+[14:41] watch opinion piece on Apple and Amazon
+[14:44] were you happy with their results yeah
+[14:46] they both beat um ironically they're
+[14:48] both c-rated stocks so people are
+[14:51] wondering why is Louis writing up
+[14:53] c-rated stocks the issue is is I get
+[14:55] calls from the media they want my
+[14:58] opinion so I I rushed and put together
+[15:01] an article uh Apple of course is
+[15:03] upgrading its computers now with a new
+[15:05] M4 chips which are um supposed to work
+[15:08] better with artificial intelligence they
+[15:10] are faster more efficient and um so
+[15:13] that's always
+[15:15] exciting uh Apple uh after its earnings
+[15:18] announcement um they had a couple things
+[15:21] weighing them down one is you know
+[15:23] Warren Buffett has sold 25% of his Apple
+[15:25] Holdings in the third quarter the other
+[15:27] is their iPhone sales in China which
+[15:29] started strong seem to have tailed off
+[15:30] just a tad so there was just that
+[15:32] concern but you know Apple's a monopoly
+[15:35] it's um increasingly becoming a service
+[15:37] company as well as a hardware company
+[15:40] the obviously the phones dominates
+[15:41] business so um but yeah if you want to
+[15:45] hold stocks for long term I'm not
+[15:46] worried about Apple you know in fact
+[15:48] your mom owns Apple and and of her
+[15:51] accounts Amazon which another stock your
+[15:53] mom owns and I don't own it in in many
+[15:57] accounts if I own it it's because a
+[15:58] client transfer and and sold it but um
+[16:01] Amazon is doing a lot better under the
+[16:03] new leadership in the old days Amazon
+[16:05] would make most of its money in cloud
+[16:07] computing the AWS division now Amazon's
+[16:10] are making a lot of money in retail and
+[16:12] as I'm sure you know they dominate
+[16:14] retail uh now the the FTC is suing them
+[16:18] and we don't expect the FTC to Prevail
+[16:21] that's Lita KH and she's has a horrible
+[16:23] record trying to assert antitrust uh
+[16:27] actions so Amazon did Gap up after its
+[16:29] earnings report was very impressive
+[16:31] stock and five of the seven um five of
+[16:36] The Magnificent Seven stocks announced
+[16:37] earnings last week and so that really
+[16:40] helped put a really good foundation
+[16:42] under the stock market and and and
+[16:44] raises a lot of optimism for the future
+[16:46] now finally I'd love to ask what are
+[16:48] your favorite stock picks right now well
+[16:51] we've had a lot of earnings come out um
+[16:53] you know we're not batting 100% but
+[16:55] we're batting 90 plus and uh but I still
+[16:58] love the fundamental a stocks you know
+[16:59] one of them that we've been talking
+[17:01] about in in the past was P industries
+[17:03] that gapped up but uh there's a couple
+[17:05] fundamental a stocks I I still really
+[17:07] really like right now one is czzle
+[17:11] szl another is FTI it's a chip company
+[17:16] and another is uh Energy Service Corp of
+[17:20] America that's
+[17:22] esoa so what a fundamental a stock is
+[17:25] it's a stock that's in the top 20% of
+[17:27] sales growth Market expansion earnings
+[17:30] stability earnings momentum cash flow
+[17:33] return Equity oun earnings revisions and
+[17:35] earnings
+[17:36] surprises so you know we grade the
+[17:39] stocks on our and our stock grader on
+[17:41] these criteria and literally these
+[17:44] stocks are the the the
+[17:47] 0.01% uh I have less than 10 fundamental
+[17:50] a stocks at this moment and so every
+[17:53] time I find one I buy them and so those
+[17:56] three stocks I'm extremely excited about
+[17:59] as earning season continues one of our
+[18:01] subscribers wanted to know how the gold
+[18:03] stocks are doing as well oh they're
+[18:05] still doing good uh gold prices are
+[18:08] contining to meander higher because of
+[18:10] uncertainty about central banks you know
+[18:12] the European Central Bank is going to
+[18:13] cut interest rates uh again even though
+[18:16] inflation in Europe just went from 17 to
+[18:19] 2% um but they've telegraphed they're
+[18:21] going to be cutting again uh we are
+[18:24] still going to cut one or two times this
+[18:26] year and uh the Federal IFI whether
+[18:29] they're going to cut some more next year
+[18:30] so his interest rates settle back down
+[18:32] around the world uh there and there's
+[18:35] just a lack of confidence in central
+[18:37] banks um gold prospers uh also a lot of
+[18:41] trade is being done in Gold um between
+[18:44] China and Russia uh because of the
+[18:47] sanctions and you can go to certain
+[18:49] places like Dubai and you can see how
+[18:52] thriving the gold markets are and if you
+[18:54] like to buy gold in America you can buy
+[18:56] it from Costco which is extra stock we
+[18:58] recommend and own but I think SE several
+[19:01] episodes ago we were talking about our
+[19:03] gold mining stocks like AEM IDR
+[19:06] a um we're very very happy with them
+[19:09] right now perfect well thank you so much
+[19:11] for answering all my questions and once
+[19:13] again thank you to you all for liking
+[19:15] and subscribing once again if you have
+[19:17] any questions please leave in the
+[19:19] comments below but until then we'll see
+[19:21] you next week
+[19:22] [Applause]
+[19:23] [Music]

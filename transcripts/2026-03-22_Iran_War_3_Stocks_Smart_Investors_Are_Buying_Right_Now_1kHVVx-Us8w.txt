@@ -7,9 +7,665 @@ Type: video
 Duration: 24:52 (1492s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 657
+Transcript characters: 23486
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] The market is all over the place right
+[00:02] now. War is going on, tension with Iran,
+[00:05] gold is at an all-time high, and most
+[00:07] people are just frozen, scared to touch
+[00:10] anything. But, here's what I've learned.
+[00:12] The best investors don't run from chaos.
+[00:14] They run towards it. Today, I've got
+[00:16] Lily with me, and we're breaking down
+[00:18] three stocks that are actually set up to
+[00:21] win in this environment. We've got a
+[00:22] defense name, a gold play, and one
+[00:25] infrastructure pick that most people are
+[00:27] completely sleeping on. Honestly, that
+[00:29] might be the most interesting one. Let's
+[00:31] get into it. Welcome back to Navellier
+[00:33] Market Buzz.
+[00:48] So, now, Dad, before we get into the
+[00:49] names, can you set the scene for people?
+[00:51] What is going on right now? Well, we're
+[00:53] oscillating. You know, a good example is
+[00:56] um
+[00:57] we thought crude oil prices had peaked,
+[00:59] um but then um Israel struck uh
+[01:02] Iran's natural gas facilities in um
+[01:06] southwestern
+[01:07] in uh Iran. And um
+[01:10] that caused oil prices to spike again.
+[01:12] Now, that's interesting because
+[01:14] apparently we approved that strike, and
+[01:17] I don't know if that's tit-for-tat
+[01:19] because they hit Qatar's uh LNG natural
+[01:22] gas facilities. I don't know if that's
+[01:23] because we dominate uh worldwide LNG
+[01:26] shipments, but I find that very
+[01:28] interesting. Obviously, Israel continues
+[01:30] to take out big leaders. So, we'll see
+[01:35] if new leadership emerges, but I would
+[01:37] hope this all would be over soon. It's
+[01:39] futile, and we want to integrate Iran
+[01:42] with the rest of the world. The Persian
+[01:44] culture's a a great historical culture,
+[01:46] and they're very smart people, and this
+[01:48] is the pop the population. So, it'd be
+[01:50] great if they could be integrated back
+[01:52] in the world. But, um
+[01:54] you know, we just have to finish doing
+[01:57] what they're doing. Apparently, the US
+[01:59] has hit over 7,000 targets and then you
+[02:01] throw in all the Israeli targets. So,
+[02:04] this is this is quite interesting, but
+[02:07] it promotes uncertainty and it is a
+[02:09] distraction. Now, also going on in the
+[02:11] markets, Morgan Stanley this week
+[02:13] predicted up to an 8% default rate in
+[02:16] private credit. What's going on there?
+[02:18] Well, that's really interesting because
+[02:20] Morgan Stanley really pioneered the
+[02:22] selling private credit. Morgan Stanley
+[02:25] was run by McKinsey people, Mr. Gorman
+[02:28] and company, he's since retired, and
+[02:30] they basically pushed a lot of their
+[02:32] investors into private credit and uh
+[02:34] private equity. And um I think when they
+[02:36] say there's going to be an 8% default
+[02:39] rate or up to an 8% default rate, I
+[02:40] think they're just trying to cover their
+[02:42] butt. I think that those defaults will
+[02:44] be eaten by the originators and I don't
+[02:47] think there will be many, if any,
+[02:50] losses. In the event there is investor
+[02:52] loss, it will destroy the industry. So,
+[02:54] I think the industry has to step in and
+[02:57] cover the losses and so they protect the
+[02:59] investors. They might have to lower
+[03:01] their yields to investors. Uh that might
+[03:03] be a a better thing to do. They're
+[03:04] already restricting the outflows.
+[03:06] Choose your 5 to 7% uh you can get out
+[03:08] each quarter, but Morgan Stanley is
+[03:11] warning people they because they sold so
+[03:13] much of this. You know, I I've been a
+[03:15] big critic of private credit, but I'm
+[03:18] watching what the how the industry's
+[03:19] responding and I think they are they are
+[03:22] going to um
+[03:24] uh try to prevent investor losses at at
+[03:27] all costs. And um even hurting their
+[03:30] pro- profitability. So, Blackstone,
+[03:33] BlackRock, Blue Owl, KKR, Cliffwater,
+[03:37] all are going to try to make sure no one
+[03:39] loses money. And uh because the day
+[03:42] somebody loses money in private credit,
+[03:44] the industry will collapse and that will
+[03:46] also take out some of the private equity
+[03:48] firms cuz they rely on private credit
+[03:50] for financing. So, this is a big deal
+[03:53] and if there is a problem, the Fed will
+[03:55] have to slash rates up to 100 basis
+[03:57] points because private credit
+[03:59] is a shadow banking system in America
+[04:02] largely caused by Dodd-Frank.
+[04:04] Dodd-Frank made lending impossible
+[04:06] unless your credit score is perfect. So,
+[04:08] for everybody with a less than perfect
+[04:09] credit score,
+[04:11] there's a $3 trillion private credit
+[04:13] industry ready, willing, and to serve
+[04:15] you. But the banks buy the loans from
+[04:18] the private credit, you know, they Jamie
+[04:20] Dimon called them cockroaches. Ed
+[04:22] Yardeni in one of his articles said
+[04:23] they're sweeping the cockroaches under
+[04:25] the rug. Ed's very colorful. So, and
+[04:27] that's what I think they'll do. I think
+[04:29] they will basically try to make sure no
+[04:31] investor loses money, but that's just my
+[04:34] opinion and I'm not in this business,
+[04:37] but everybody's been warned.
+[04:38] >> So, why does 2026 feel like such a weird
+[04:41] and specific moment for markets? Well,
+[04:44] what's weird about 2026 is that what's
+[04:47] working is what worked last year. We're
+[04:49] basically in a rerun of last year, which
+[04:51] is data center related stocks, Eli
+[04:54] Lilly. I know Lilly got downgraded by a
+[04:56] firm, but its forecast sales and
+[04:58] earnings are great and its year-to-date
+[05:00] performance is magnificent. And the gold
+[05:02] stocks, and the gold stocks are clearly
+[05:03] more volatile than they have been, but
+[05:05] the gold remains an oasis. Central banks
+[05:08] around the world are going to continue
+[05:09] their quantitative easing and the only
+[05:11] way they can shore up their credibility
+[05:12] is to buy more gold. We saw that in the
+[05:15] in the January trading figures that US
+[05:17] exports soared due to gold exports. So,
+[05:20] I still think we should have a big gold
+[05:22] bet. I think that's the a good place to
+[05:24] go for safety. The US dollar is another
+[05:26] place for safety, but their new
+[05:28] environment is incredible. You know,
+[05:29] Nvidia had their developers conference
+[05:31] this week and everybody excited. Micron,
+[05:33] of course, announced incredible results.
+[05:37] You know, there's a lot to be excited
+[05:38] about out there. There's not an earnings
+[05:40] problem. Now, the new glitch we have is
+[05:43] the producer price index came out and
+[05:45] this is before the war. This was the
+[05:47] February number. And what happened is is
+[05:50] uh food prices wholesale food prices
+[05:52] were up uh 2.4%.
+[05:55] And wholesale energy prices
+[05:56] unfortunately also rose uh
+[05:58] significantly. So, this is before the
+[06:01] war. So, that means when we get the
+[06:02] March PPI, it's going to be much worse.
+[06:04] So, this is obviously a cause the Fed
+[06:07] did not to hesitate not raise rates
+[06:10] despite of a bad labor market. And I
+[06:12] think a lot of this inflation is
+[06:14] transitory, okay? But, there is a
+[06:17] problem. You know, there's a a big
+[06:19] strike at the packing plants where they
+[06:21] process food and everything, mostly
+[06:23] beef. And uh that strike's just going to
+[06:25] keep beef prices extra high. And uh
+[06:27] chicken's the new protein that most
+[06:30] people will be eating because uh beef is
+[06:32] has gotten so expensive. Uh so, this is
+[06:34] real inflation that people feel. They'll
+[06:36] feel it at the gas pump. And hopefully,
+[06:39] it will all be fleeting. I think the
+[06:40] other thing we got to watch is, you
+[06:42] know, they've implemented 4-day work
+[06:44] weeks in Asia because the gas shortage.
+[06:47] But, they're not talking about how
+[06:48] California gets its gas a lot of its gas
+[06:51] from Korea because you know, they've
+[06:52] been shutting down refineries and
+[06:53] pipelines. Although, they did reopen the
+[06:55] Santa Barbara pipeline. Uh the Trump
+[06:57] administration did it. California's
+[06:58] protesting it, but that's from the
+[07:00] offshore oil fields. But, California
+[07:02] still has to import gas uh mostly made
+[07:04] in in Korea, but it could be made uh
+[07:05] elsewhere. And so, the the the uh gas
+[07:09] shortages could hit the West Coast cuz
+[07:11] they're just not hooked up to
+[07:13] uh our energy infrastructure in, you
+[07:16] know, uh Texas, Louisiana, Montana, etc.
+[07:19] This is going to get interesting. So, uh
+[07:21] next time if you visit California and
+[07:23] gas is eight bucks a gallon, you know
+[07:25] what happened. Yeah, I agree. This all
+[07:27] is pretty wild. And what I think is
+[07:28] interesting is that there's three
+[07:30] completely different ways to play all of
+[07:32] it, and they're not all obvious. So, I
+[07:34] think we should start out with the most
+[07:35] direct one, our defense play. Elbit
+[07:38] Systems. Dad, a lot of people watching
+[07:40] probably have never heard of this one.
+[07:42] What does Elbit actually do?
+[07:43] >> Uh well, they have big contracts with
+[07:45] Raytheon and other big US defense
+[07:47] contractors. And they do They're an
+[07:49] integrated defense contractor in Israel,
+[07:50] but they're also behind all the missile
+[07:53] shields. And let's face it, those
+[07:55] missile shields are godsend, you know,
+[07:56] they they block uh 90% of the missiles
+[07:59] coming in. And those missile shields
+[08:01] were were deployed everywhere throughout
+[08:02] the Middle East. But, you know, Iran
+[08:05] could
+[08:06] you know, can poke through every now and
+[08:08] then. And especially with the drones,
+[08:11] where they create a swarm. But,
+[08:12] obviously, they won't be launching
+[08:14] missiles or drones much longer because
+[08:16] all those facilities are taken out. And
+[08:18] the last missile they launched on Israel
+[08:20] was a cluster one, where it opens up
+[08:22] with a bunch of little bombs, and that
+[08:24] was That's really tragic, cuz that's
+[08:26] hard to stop. And even if you blow it
+[08:28] out of the sky, you know, they the
+[08:29] little cluster bombs come down. So, I
+[08:31] think that's increasing desperation on
+[08:33] Iran's part, but obviously, it can it
+[08:36] cause a lot of death on the ground, and
+[08:39] you have to go in the shelters when the
+[08:41] air raid sirens come off, cuz when the
+[08:43] missiles are incoming, cuz
+[08:45] just all the shrapnel that falls out of
+[08:46] the sky, even if the interceptor system
+[08:49] works.
+[08:50] So, um this is a very tragic
+[08:52] development, and hopefully, it's going
+[08:53] to be over soon. So, the numbers are
+[08:55] kind of insane. Elbit just reported a
+[08:57] backlog of 25 billion. And that's like 3
+[09:01] years of revenue already locked in. So,
+[09:02] Dad, when you see a number like that,
+[09:04] what does that actually mean for someone
+[09:06] investing in it?
+[09:07] >> their earnings are guaranteed, you know,
+[09:09] just like Nvidia guided that they're
+[09:11] going to have a trillion dollars in
+[09:12] sales next year. And that's 100% sales
+[09:15] growth. So, um yeah, when companies have
+[09:17] an order backlog, it's a wonderful
+[09:19] thing. So, make the case. Why buy ESLT
+[09:22] right now and not wait 6 months? Because
+[09:24] they're going to get more orders. You
+[09:26] need these missile shields. And believe
+[09:28] it or not, it's one of the reasons we
+[09:29] want Greenland, to put a missile shield
+[09:32] up there. Not an Elbit shield, but from
+[09:34] other defense contractors. This is for
+[09:36] big, long-range missiles. So, I'm not
+[09:38] trying to make the case for Greenland,
+[09:40] but that was one of the reasons. All
+[09:42] right. Not everyone wants to own a
+[09:43] defense stock, and I totally get that.
+[09:45] So, our second pick is completely
+[09:47] different on the same environment. Let's
+[09:49] talk about our gold play, Iamgold. Now,
+[09:52] gold just broke over $5,000 an ounce.
+[09:55] Dad, for people who might not be
+[09:57] following gold that closely, how crazy
+[09:59] of a number is that historically? It's
+[10:01] not that crazy cuz it'll be $10,000 an
+[10:03] ounce by the end of the decade. And
+[10:05] that's coming from central bank buying
+[10:07] pressure. That's coming from a lot of
+[10:09] the crypto people will probably
+[10:11] increasingly switch to gold
+[10:13] because crypto was a very poor
+[10:15] investment last year and a volatile
+[10:17] investment this year. I know it's
+[10:18] recovered a bit,
+[10:20] but uh I don't think everybody wants 40%
+[10:22] a year volatility on their assets. Um
+[10:25] gold is just a traditional safe haven.
+[10:27] There's The only place to invest is the
+[10:29] US dollar and gold. All the other
+[10:31] currencies around the world are weak.
+[10:34] The governments going to be doing
+[10:35] quantitative easing or devaluing their
+[10:36] currencies. Interest rates will continue
+[10:39] to plunge
+[10:40] uh due to recessionary fears. You know,
+[10:42] as we talked in a previous issue of
+[10:44] Market Buzz, Canada's clearly in a
+[10:46] recession. They've lost the equivalent
+[10:48] of a million jobs in America. You know,
+[10:51] they can't withstand that. Germany had
+[10:53] its factory orders decline 11% in a
+[10:56] month. There's a lot of problems out
+[10:58] there. And and a lot of it is
+[11:00] demographically based. And Trump had the
+[11:03] Irish prime minister in the White House,
+[11:06] and the Irish prime minister is very
+[11:07] proud of how international Ireland is
+[11:09] becoming, you know, because a lot of
+[11:11] foreign companies set up shop there and
+[11:13] and all and
+[11:15] but Trump was also bugging Europe about,
+[11:17] you know, letting in immigrants they
+[11:19] can't assimilate and things like that.
+[11:20] And and I The Irish prime minister was
+[11:23] trying to assure everybody, "No, no,
+[11:24] people come here to work, and they're
+[11:26] productive people." So, you know, I I'm
+[11:28] not arguing on any side. I just think
+[11:30] that if you can't have household
+[11:33] formation and you can't have organic
+[11:35] growth, you're in trouble. And that is
+[11:37] basically Asia and and most of northern
+[11:40] Europe. The only countries growing are
+[11:42] the US and India. Now, Iran is a very
+[11:45] young country. So, if that if they can
+[11:47] join the world community again, that
+[11:49] would be wonderful. So, you're bullish
+[11:51] on gold. Why not just buy like a gold
+[11:54] ETF or physical gold? Why do you want a
+[11:56] miner like IAG specifically? Well, you
+[11:59] can buy a gold ETF. You know, we are
+[12:01] recommending WisdomTree as a stock cuz
+[12:03] it um that's WT cuz it um fits our
+[12:06] criteria. But when we dig into
+[12:08] WisdomTree, a lot of their strength is
+[12:11] tied to their gold ETFs. And they they
+[12:13] have some that are up over 200% in a
+[12:15] year. So, the construction of them was
+[12:18] better than most, okay? So, if you do
+[12:20] want to buy gold ETF, I would recommend
+[12:22] that the WisdomTree ones.
+[12:24] But yeah, you can the stocks are showing
+[12:25] up on my radar with very strong sales
+[12:27] and earnings. And I'm I'm not anti uh
+[12:30] gold ETFs. Just make sure you buy one of
+[12:32] the better ones. And every time you buy
+[12:34] an ETF, just check the spread on
+[12:36] Morningstar. The spread should be very
+[12:38] tight in the morning and very tight at
+[12:39] the close. Just be careful what time of
+[12:41] day you trade. But all ETFs do have
+[12:43] spreads as do stocks. But you can go to
+[12:45] morningstar.com and check out that
+[12:47] spread. And analysts seem to be waking
+[12:49] up on this one, too. Bank of America has
+[12:51] a buy on it. Scotiabank just raised
+[12:53] their price target. Dad, what does it
+[12:55] mean when you start seeing that kind of
+[12:56] institutional attention on a smaller
+[12:59] miner like this? Well, the reason you're
+[13:02] getting analyst upgrades is their
+[13:03] earnings, okay? Gold prices go up, your
+[13:06] margins expand. And so, they're just
+[13:08] following the the results higher. But I
+[13:11] don't see I I know gold doesn't go up
+[13:13] every day, okay? And I encourage people
+[13:15] to buy it on on every dip. But yeah, the
+[13:18] fundamentals underneath it are
+[13:19] incredible. So, that's
+[13:22] that's what the analyst community is
+[13:23] doing. You know, our whole thing is
+[13:25] surfing institutional buying pressure.
+[13:27] And the analysts rightly or wrongly are
+[13:29] lemmings. They're slow to upgrade. They
+[13:31] like to underestimate cuz if they
+[13:33] overestimate, it's embarrassing for them
+[13:35] and they got a lot of explanations and
+[13:36] they could be held liable and all kinds
+[13:38] of things. So, they just always
+[13:39] underestimate. And so, we like this
+[13:42] institutional parade in the stocks and
+[13:44] the institutional parade into the good
+[13:45] gold stocks like I'm gold is is
+[13:48] Okay, so we have a defense and a gold
+[13:50] stock. Now, here's one I think is going
+[13:52] to surprise people the most because it
+[13:54] doesn't really sound like a war stock at
+[13:56] all. And this is Quanta Services. Dad,
+[13:59] most people hear the word infrastructure
+[14:01] and their eyes glaze over. But, let's
+[14:04] wake them up. Why is this relevant right
+[14:05] now in a world that's dealing with all
+[14:07] this geopolitical chaos? Because they
+[14:09] help build the data centers. And the
+[14:11] data centers are driving, depending who
+[14:14] you talk to, one time last year they
+[14:16] said it was 88% of our GDP growth. I
+[14:18] think that was an overstatement, but
+[14:20] it's a lot of our GDP growth. And you
+[14:22] know, if you don't live in a state that
+[14:24] where there's adding data centers, you
+[14:26] don't see that. But, I'm in Reno, Nevada
+[14:28] now and clearly it's it's a boom here.
+[14:31] You know, the data centers go where the
+[14:32] internet's really fast, with
+[14:34] electricity's more reasonable or green,
+[14:36] and the data centers also go where it's
+[14:38] cold cuz they have to vent these
+[14:40] buildings at night. So, Reno, Boise, all
+[14:44] along the Columbia River Gorge with the
+[14:46] hydroelectric dams. I can take you to
+[14:48] Sioux Falls, hydroelectric there and
+[14:52] it's kind of cold there in South Dakota.
+[14:54] So, you know, that's Owen's super fast
+[14:56] internet. You know, and it Chattanooga's
+[14:59] another place. So, again, super fast
+[15:02] internet, very reasonable electricity
+[15:04] from hydro and and other sources. It's
+[15:06] just unbelievable what's happening on
+[15:09] on, you know, with AI and we can see
+[15:11] that how good it's gotten the past year.
+[15:13] You know, chat GPT is not the leader. I
+[15:15] would most of us see Gemini from Google.
+[15:17] Most of us are you still using Google?
+[15:19] But, Claude from Anthropic looks
+[15:22] wonderful. And um obviously Elon's got
+[15:25] Grok and all these search engines are
+[15:27] and and AI queries are going to get
+[15:30] better and better. And um
+[15:32] right now I would argue that Claude's
+[15:34] the best from Anthropic.
+[15:35] >> So when we look at these numbers, a
+[15:37] quarter four revenue was almost 7.9
+[15:40] billion, up from 6.5 billion the year
+[15:43] before. And their backlog is nearly 44
+[15:46] billion. Dad, 44 billion backlog for a
+[15:49] company most retail investors never
+[15:52] heard of, how do you even process that?
+[15:55] What's happening with data centers?
+[15:57] Their order backlogs um this quarter or
+[15:59] quarter continue to rise. They usually
+[16:02] 20 35% year over year, it's
+[16:05] 50 to 65%.
+[16:07] Um they are they can be constrained by
+[16:11] um
+[16:12] the Nvidia chips, which are throttling
+[16:13] up with the new Vera Rubin coming out.
+[16:16] They can be um
+[16:19] constrained by storage. That's why we
+[16:21] have a Micron and Seagate, but there's
+[16:23] other storage companies doing well.
+[16:25] They're constantly trying to speed them
+[16:26] up internally, which are all the optical
+[16:29] plays. So one that we don't own right
+[16:31] now is Corning, uh GLW, but it's looking
+[16:34] pretty good. Another is obviously Ciena,
+[16:38] C I E N and uh UI Ubiquity. You know,
+[16:41] like I'm in Reno here and when we
+[16:44] upgraded the internet, we had to change
+[16:46] all our our our routers and uh uh
+[16:49] switches for the internet. Cuz if you
+[16:52] run through the old routers, you only
+[16:54] get a a gigabyte and you have to we had
+[16:57] to upgrade to two and a half. But the
+[16:58] data centers are usually running at 10
+[17:00] gigabyte and and have to do everything
+[17:02] with fiber. And there's an upgrade cycle
+[17:05] and you know, it's
+[17:07] that's what's going on. Everybody is
+[17:09] trying to outdo each other. So before we
+[17:11] get into earnings, we looked up a bunch
+[17:13] of other names for this video and there
+[17:14] were a few that almost made the cut. You
+[17:16] just mentioned Ciena, Can you talk a
+[17:18] little bit more about them? Yeah, that
+[17:20] is a a stock that was out of the S&P. It
+[17:23] got a boost. When you get out of the
+[17:24] S&P, usually your your trading volume
+[17:27] gets more consistent. So, you move less
+[17:30] like a bunny. You know, we've talked in
+[17:32] the past how when you venture into the
+[17:34] mid-small cap world, your start your
+[17:36] stocks are going to behave more like
+[17:37] bunnies cuz they sit and they hop. But
+[17:39] once you're out of the major indices,
+[17:41] especially the S&P 500, volatility will
+[17:44] drop. Now, we calculate that volatility.
+[17:46] There's all kinds of ways to do it, but
+[17:48] the big one for us is something called
+[17:49] residual variance, which is the risk we
+[17:51] can't diversify away. It's It's
+[17:53] basically the random movement of a
+[17:55] stock. And so, in Ciena's case, that
+[17:57] should continue to drop. That will
+[17:58] inspire investor confidence. The total
+[18:00] standard deviation is mathematically
+[18:03] residual variance,
+[18:05] which is unsystematic risk plus
+[18:06] systematic risk. The systematic risk is
+[18:09] beta times the benchmark. Anyway, so
+[18:11] that's just a formula we calculate. But
+[18:13] that goes into the stock's total
+[18:14] standard deviation. And so, I would I
+[18:17] would expect Ciena's standard deviation
+[18:18] would drop. That means it's
+[18:20] cuz it's now in the S&P, that means that
+[18:22] its quantitative grade will rise cuz
+[18:24] alpha over standard deviation is my top
+[18:26] secret quantitative grade. So, it's a
+[18:29] big deal. And it's fun to watch these
+[18:30] stocks grow up. And you know, there's a
+[18:33] lot of fuss about the Magnificent Seven
+[18:35] now because some of them don't look as
+[18:37] strong as they used to. But there's
+[18:38] definitely going to be new stocks being
+[18:40] that will take over the Magnificent
+[18:42] Seven. I would argue Palantir should be
+[18:44] in there right now. PLTR All right, to
+[18:46] recap, we have three completely
+[18:48] different ways to play the same chaotic
+[18:50] macro environment. ESLT for defense, IAG
+[18:53] for gold, and PWR for infrastructure.
+[18:57] Brad, what would you say to the person
+[18:59] watching this who's just sitting in cash
+[19:00] right now scared to do anything? Well, I
+[19:03] want you to come in when you're ready,
+[19:05] okay? And I have no problem if you're
+[19:07] scared, but I would highly recommend you
+[19:10] come in before the next round of
+[19:11] earnings cuz they should be a awesome.
+[19:13] That would be uh
+[19:15] third week of April, okay? I do want to
+[19:17] remind everybody that the second half of
+[19:19] March is seasonally strong, a lot of
+[19:20] positive analyst upgrades. We're seeing
+[19:22] that. So, we're not worried about that.
+[19:25] Yeah, but you know, just realize the
+[19:27] media's always trying to scare you. And
+[19:29] the question is, do you want to be a
+[19:31] pawn? Do you want to be manipulated? And
+[19:34] you know, we live in a world where you
+[19:36] only get headlines or you'll hit on the
+[19:38] internet if they're outrageous. So, the
+[19:41] world will always be bearish. The world
+[19:42] will always be ending, okay? I mean, you
+[19:45] know, I mean, or you can just enjoy your
+[19:48] life. So, it's your choice. But,
+[19:51] if you watch the wrong TV stations, you
+[19:54] will be perpetually depressed. And I
+[19:56] highly recommend you stop watching those
+[19:59] stations. So, you mentioned earnings.
+[20:01] Let's talk about a few companies that
+[20:02] are reporting next week. Let's start out
+[20:05] with Caledonia Mining. Gold is at its
+[20:07] all-time highs, and it's a lesser-known
+[20:10] miner. What are you expecting for them?
+[20:12] >> All right. Uh Caledonia Mining, CMCL, is
+[20:15] in our managed accounts, recommended in
+[20:16] our newsletters. This is a more volatile
+[20:18] one, but their revenue is
+[20:21] steadily rising. Their sales are
+[20:23] forecasted
+[20:24] to be up 51.3% and earnings should far
+[20:27] outpace that. They don't have the
+[20:29] strongest surprise history, so um
+[20:32] I'm hoping they do surprise us next
+[20:34] quarter. The previous quarter, they did
+[20:36] have miss by a penny, which isn't a lot.
+[20:38] Before that, they they did surprise.
+[20:40] But, yeah, this
+[20:41] um
+[20:42] uh this is a one of the more volatile
+[20:44] gold stocks, but we have this under
+[20:45] management. And just so you know, when I
+[20:47] buy a stock like this, it's usually like
+[20:49] 0.3% of our accounts. So, it's not going
+[20:52] to be a big weight, but we have you
+[20:54] know, when you add all 20 together, it
+[20:56] can be like 15% of the portfolio. But,
+[20:59] um
+[21:00] this would be a um
+[21:01] a
+[21:02] a more explosive one, and hopefully
+[21:05] they'll beat, and they'll they should
+[21:07] provide good guidance. Staying in
+[21:08] minors, Integra Resources, is this a
+[21:11] legitimate opportunity or is it too
+[21:14] small and risky for most people? Well,
+[21:16] believe it or not, this is more volatile
+[21:18] than the one we just talked about uh
+[21:20] CMCL uh cuz it's smaller. I do have this
+[21:23] under management, too. It's a very small
+[21:24] allocation. But um they uh have very
+[21:29] steady um earnings growth and uh the
+[21:32] forecast earnings is supposed to be
+[21:33] 140%. We'll see what they surprise. When
+[21:36] I get When I get into the small miners,
+[21:38] sometimes the surprises get more erratic
+[21:40] cuz of their overseas operations and
+[21:42] all. But um yeah, no, this is another
+[21:45] great gold stock out there that you can
+[21:46] buy. And the other thing I like about
+[21:48] this stock is the upside potential is
+[21:50] ridiculous when these things get uh
+[21:53] volume in them. This one also does have
+[21:55] more of a silver play in addition to
+[21:57] gold, so just be aware of that.
+[21:59] >> On a completely different sector, KB
+[22:01] Home, home builders have had a rough
+[22:04] stretch. Is this a buying opportunity or
+[22:07] is there more pain ahead? There's more
+[22:09] pain in the housing industry. KB Home is
+[22:13] uh which is of course the old Kaufman
+[22:14] and Broad. This particular company will
+[22:17] discount the homes to sell them. And
+[22:19] they're doing better than most home
+[22:20] builders. Their sales are supposed to be
+[22:21] up 8.5%.
+[22:23] But um
+[22:24] I have no confidence in the earnings at
+[22:26] all. Most home builders are discounting
+[22:28] homes to sell them. And um if they uh
+[22:30] have a big beat and uh provide good
+[22:32] guidance, I take it all back. But it's
+[22:34] too early for me to pay attention to
+[22:36] this right now. And lastly, we have
+[22:38] Paychex, PAYX.
+[22:40] Now, some people think of this as a
+[22:42] steady, boring payroll company, but does
+[22:45] it still belong in a portfolio in this
+[22:47] environment?
+[22:48] >> Well, uh their sales are supposed to be
+[22:49] up by 17.9%. That's good. Their earnings
+[22:52] are supposed to be up by 12.1.
+[22:55] That's okay. Their Their analyst
+[22:57] assessments are steady and their
+[22:58] surprises have been
+[23:00] small in the past. So, this is kind of a
+[23:03] boring stock, but uh uh
+[23:06] you know, I'm more curious about their
+[23:08] labor market insight, you know, cuz
+[23:10] we're having uh job issues out there.
+[23:12] Uh and I would be curious what they say
+[23:15] on that front. But uh yeah, I'm not
+[23:17] going to be buying this stock anytime
+[23:18] soon. Well said. All right, if this was
+[23:20] helpful, please hit that like button. It
+[23:22] genuinely helps us out. And subscribe if
+[23:25] you're not already. If you have any
+[23:26] questions that you want us to talk about
+[23:28] in next week's mid-week update, please
+[23:31] leave them in the comments below. Of
+[23:32] course, we do read all of them and we
+[23:34] love all your comments. But until then,
+[23:36] we'll see you this Wednesday for a new
+[23:37] video.

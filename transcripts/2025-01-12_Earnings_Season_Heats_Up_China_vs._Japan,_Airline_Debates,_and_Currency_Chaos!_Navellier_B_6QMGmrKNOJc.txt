@@ -7,9 +7,952 @@ Type: video
 Duration: 41:36 (2496s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 944
+Transcript characters: 33610
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] [Applause]
+[00:01] [Music]
+[00:06] hello everyone welcome back to navier
+[00:07] Market Buzz episode 20 I'm Crystal
+[00:09] navier and I'm joined again this week
+[00:11] with my father Lou navier and of course
+[00:13] we have our special guest Jason Bodner
+[00:15] who's the co-founder of map signals
+[00:17] Jason it's great to have you again
+[00:20] thanks for having me GL glad to be here
+[00:23] so it's earning announcement season
+[00:25] which Dad I know is more exciting than
+[00:27] the football playoffs let's first talk
+[00:29] about what you guys think about Bank of
+[00:32] America well their uh revenue is
+[00:35] supposed to be up uh
+[00:36] 14.3% uh those that's the anal estimates
+[00:40] earnings supposed to be up 11
+[00:43] 19.5% but despite that spectacular sales
+[00:45] and revenue uh their guidance is going
+[00:48] to be very critical because you know
+[00:50] consumer default rates are at the
+[00:51] highest levels since uh 2010 Banks often
+[00:55] have these loan loss reserves so if they
+[00:58] can provide update guidance um
+[01:01] the stock should do very well yeah so
+[01:03] you know we at map signals a lot like uh
+[01:06] Lou your stock grader we we assign a
+[01:09] ranking so we go by the map score um our
+[01:12] sweet spot is typically 70 to 85 this is
+[01:16] just outside it's got a 69 overall score
+[01:19] with a strong 73 and a half technical
+[01:22] score where it's getting penalized for
+[01:25] us is fundamental and that's with
+[01:27] negative oneyear sales growth um the
+[01:32] oneyear sales and threeyear sales growth
+[01:35] looks positive along with three-year
+[01:36] earnings growth they do make a nice
+[01:38] profit margin but they are heavily
+[01:40] levered I guess on the good side uh
+[01:43] oneyear sales and earnings estimates are
+[01:47] positive so overall um I like this
+[01:51] company except for the the heavy debt to
+[01:54] leverage ratio now what do you guys
+[01:56] think about Black Rock of course they're
+[01:57] taking over the world as you might know
+[02:00] Larry FS there chairman their um revenue
+[02:03] is forecasted to go up
+[02:06] 21.6% their earnings are forecast to go
+[02:08] up 17.3 so anytime the earnings aren't
+[02:11] going growing as fast as Revenue the
+[02:13] margins under compression um they're
+[02:16] going to have to give good guidance now
+[02:18] they're entering the private credit
+[02:19] business a little late um this is a$2
+[02:22] trillion doll year industry and um
+[02:26] private credit is out there promising up
+[02:28] to 11% yields through uh
+[02:30] various brokerage firms out there and um
+[02:33] uh I think they better be careful
+[02:35] because last I looked The Leverage loan
+[02:37] Market which is behind private credit
+[02:40] had a 7.2% def Vault rate so um you know
+[02:44] this is like um Bank of America they're
+[02:47] going to have to provide good update
+[02:48] guidance adding on to that our map score
+[02:52] is
+[02:54] 62.1 uh and this has a really decent
+[02:57] fundamental score I think it's being
+[02:59] punished technically it's been you know
+[03:03] trading range bound slightly down I
+[03:05] think it's down 5.4% the last month and
+[03:09] it's down 4% on the year uh single digit
+[03:12] sales and earnings growth for one in
+[03:14] three years that's sort of mediocre it
+[03:17] could be better I'm kind of very choosy
+[03:19] I look for double digit sales and
+[03:21] earnings growth does make a very nice
+[03:23] profit margin of
+[03:25] 29% um and they have you know almost 3.8
+[03:30] billion dollar of free cash flow less
+[03:32] their Capital
+[03:33] expenditures uh like Louis said positive
+[03:36] sales and earnings estimates for next
+[03:38] year um but another place that it gets
+[03:41] penalized is when you take their cash
+[03:44] less their debt it's negative so it is a
+[03:47] a levered company but after all it is
+[03:49] Black Rock So fundamentally it's pretty
+[03:52] healthy uh technically it's um a little
+[03:56] depressed so like Louis said if they
+[03:57] come out and they guide higher I would
+[03:59] expect this talk to zoom along the
+[04:01] similar lines what do you guys think
+[04:03] about JP
+[04:04] Morgan uh JP Morgan is um the biggest
+[04:07] most dominant Bank in America it's led
+[04:10] by Jamie Diamond who's a very good CEO
+[04:14] and uh their um revenue is supposed to
+[04:16] be up
+[04:17] 7.8% their um earnings supposed to be up
+[04:20] 32.7 those are the analy estimates uh I
+[04:23] expect they'll be pretty up beat now
+[04:25] sometimes um after they announce Jamie
+[04:28] throws cold water
+[04:30] with his commentary
+[04:32] expectations so I think Jamie's
+[04:34] commentaries could be actually more
+[04:36] important than the actual results uh a
+[04:41] lot of people wanted Jamie Diamond to be
+[04:42] the next treasury
+[04:43] secretary um and um that might still
+[04:46] happen one day but uh his comments are
+[04:49] going to be very very crucial I think
+[04:51] it's worth noting that JP Morgan is
+[04:54] America's Bank you know uh organizing
+[04:57] the very first bailout of the US
+[05:00] government was James ppot Morgan so
+[05:02] there's a very hand inhand relationship
+[05:04] forever our map score is 63.8 it's
+[05:07] strong technically it's mediocre middle
+[05:09] of the road fundamental again we're
+[05:11] really choosy I mean this company has
+[05:13] great sales and earnings growth on one
+[05:15] in three years it's very profitable 21%
+[05:19] profit margin um but they do have a debt
+[05:22] to equity ratio over 200% so they're
+[05:26] heavily levered um yes so in a vacuum
+[05:31] that could penalize them but again when
+[05:33] you're America's bank and you're sort of
+[05:35] hand inhand with everything with great
+[05:37] leadership uh like Louie said if they
+[05:39] they post good guidance have a strong
+[05:42] beat and raise you know I would expect
+[05:44] good things for for JP Morgan in terms
+[05:47] of its share price and the and the
+[05:49] sector in general because it's a sector
+[05:51] leader so now do you think that City
+[05:53] Bank is going to have similar
+[05:56] earnings no um their revenues is
+[05:59] supposed to be up
+[06:01] 11.9% their earnings supposed to be up
+[06:03] 47.3 that's slightly better but City
+[06:07] Bank uh has a higher consumer default
+[06:11] ratio um they G give out credit cards to
+[06:14] department stores and other vendors you
+[06:17] know like when you fly on an airline
+[06:19] they everybody's trying to get you to
+[06:21] buy their credit card and um uh so they
+[06:25] don't quite have the um the credit
+[06:28] quality that JP Morgan ch has so again
+[06:31] they're going to have to uh provide good
+[06:33] guidance because the consumer loan
+[06:36] defaults are the highest since
+[06:37] 2010 uh they're going to have to address
+[06:40] that and um and also their third party
+[06:42] credit card business but um yeah the
+[06:46] near term the earnings and sales are
+[06:47] supposed to be better than uh than JP
+[06:50] Morgan but it's a riskier stock I'm sort
+[06:52] of seeing a a mirror here uh City group
+[06:56] has a map score of 70.7 which is sort of
+[06:59] right inside that green range but it's
+[07:02] got a really inflated technical score so
+[07:04] it's been bought up
+[07:06] significantly um I think it's up uh you
+[07:10] know it's up almost four and change
+[07:13] percent year-to date fundamentally is
+[07:16] where it gets sort of penalized in the
+[07:18] map uh scoring system it's got really
+[07:21] great one-year sales growth 55% but onee
+[07:25] earnings growth is down 42% and we use
+[07:28] fact set statistics for this uh
+[07:31] three-year sales growth and earnings
+[07:32] growth are positive but it's got a kind
+[07:35] of a low profit margin 6% when you
+[07:37] compare that to JP Morgan and uh uh Bank
+[07:41] of America what we were talking about
+[07:43] before they have larger profit margins
+[07:46] and City Group when you take their um
+[07:49] cash flow less Capital expenditures it's
+[07:52] negative -4 billion dollar so it's a
+[07:55] heavily levered firm 289 per debt to
+[07:58] equity rati
+[08:00] so really like Louis said if you get any
+[08:02] of those defaults higher than expected
+[08:06] it could really send the stock reeling
+[08:08] because they're sort of cutting it so
+[08:11] close to the Bone um but again if they
+[08:14] come in they guide higher and they
+[08:17] exceed those sales and earnings
+[08:19] estimates for next year we could see
+[08:21] good things from it but you know from a
+[08:23] fundamental standpoint I personally
+[08:26] think there are better fish in the sea
+[08:28] and just so everybody understands
+[08:29] the credit problem in America are
+[08:32] largely for the people 30 and under uh
+[08:35] the Boomers the people that own homes
+[08:37] and money in the stock market their
+[08:39] credit's great so this is why um uh we
+[08:43] have an issue in America the kids are
+[08:45] trying to figure out how they can live
+[08:47] as well as their parents and uh so
+[08:50] everybody under 30 is still struggling
+[08:52] now I'd love to talk about what you guys
+[08:54] think about Kinder Morgan as well well
+[08:57] this is a mid-stream company and the
+[08:59] more that goes through the pipelines and
+[09:01] and the Midstream terminals the more
+[09:03] money they make nice dividend yield on
+[09:05] this stock uh the revenues are only
+[09:08] supposed to be up 2.3 according to the
+[09:09] analy community um the earning supposed
+[09:12] to be up 168 uh this is one that should
+[09:15] benefit immensely under Trump uh because
+[09:18] this is what he's going to do he's going
+[09:19] to do drill baby drill and and uh
+[09:22] they're going to Pro profit from all the
+[09:25] the uh the flows of natural gas and
+[09:26] crude oil through their pipelines yeah
+[09:28] so uh KMI Kinder Morgan gets a map score
+[09:32] of 72.4 it's in that sweet spot again
+[09:36] technically inflated
+[09:38] 79.4% and I think it's important to just
+[09:40] mention that um it's not like a school
+[09:43] grade where you get a 100 and that's
+[09:45] perfect if you get a technical score of
+[09:46] a 100 it's very extended and possibly
+[09:49] parabolic and you would think it might
+[09:51] even fall back so I do like where it is
+[09:54] technically fundamentally it's a little
+[09:57] bit better than middle of the road with
+[09:58] 6 2 and a half um and really what's
+[10:02] pulling that down is negative one-year
+[10:05] sales and earnings growth uh three-year
+[10:08] trend is a different story so three-year
+[10:11] sales growth is up 14% And threeyear
+[10:13] earnings growth is up a whopping 536
+[10:17] per. they have a great profit margin of
+[10:20] 16% and plenty of free cash flow minus
+[10:23] their Capital expenditures of over $4
+[10:26] billion their debt to equity is right
+[10:29] around
+[10:30] 100% so these higher debt to equity
+[10:33] ratios are are more desirable in a
+[10:36] falling rate environment which is what
+[10:38] we're in now and like Louie said they
+[10:41] have positive oneyear sales and earnings
+[10:44] uh expectations so with Trump coming in
+[10:47] um like he said drill baby drill this
+[10:49] could be a very good uh Tailwind for a
+[10:53] stock that's already had a strong
+[10:54] three-year run so I'm liking Kinder
+[10:57] Morgan now what are your expectations
+[10:58] for
+[11:00] Lumber well this is an oil service
+[11:02] company huge big International uh
+[11:05] company revenues are supposed to be up
+[11:07] 2.2% R is supposed to be at 4.9 but
+[11:10] again under drill baby drill they should
+[11:12] do better this is a a big International
+[11:15] um company you know uh the new British
+[11:18] prime minister did uh basically stop the
+[11:21] expansion of drilling in the North Sea
+[11:23] Biden just uh um passed a um an
+[11:26] executive order trying to protect a lot
+[11:28] of po to water in America kind of tick
+[11:31] Trump off he's going to try to reverse
+[11:33] that but the um uh they are a huge Oil
+[11:37] Service Company so they should benefit
+[11:40] under Trump but they have a couple
+[11:42] near-term hurdles thanks to the British
+[11:45] prime minister and Biden yeah
+[11:47] schlum um Major Oil Company like uh
+[11:51] Louie just mentioned
+[11:54] so you know from a pure score
+[11:56] perspective this thing gets a below
+[12:00] middleof the road map score of
+[12:03] 44.8 uh we're talking a technical score
+[12:05] of 26.5 that's pretty bottom of the
+[12:08] barrel and that's because it's been in a
+[12:10] one-year downtrend and stocks are near
+[12:13] lows um fundamentally though it looks
+[12:17] pretty good 70.8 and we're talking about
+[12:21] double digit percent one year sales and
+[12:24] earnings growth and the same goes for
+[12:26] one and threee earnings growth threee
+[12:28] earnings growth of 5 1% that's great
+[12:30] does have a profit margin of 133% and
+[12:33] it's got free cash flow minus capex of
+[12:37] $4.5 billion it does carry uh some debt
+[12:41] 63% but significantly less than Kinder
+[12:44] Morgan and some of those banking
+[12:46] companies um but really what's hurting
+[12:49] it right now is this stock is in a deep
+[12:51] downtrend it it does have negative cash
+[12:54] when you take away its debt and it's
+[12:57] natural for these oil companies to have
+[12:59] tons of debt uh to fund you know rigs
+[13:02] drilling operations things like that so
+[13:06] from my perspective to really get this
+[13:08] stock moving you would have to see a
+[13:10] monster beat and a Monster raise where
+[13:13] it catches everybody off guard uh
+[13:15] because if that does happen and a
+[13:17] Stock's trading near its 52- we lows a
+[13:20] lot of the shorts are going to have to
+[13:21] cover people are going to Pile in buy
+[13:23] and it could reverse their Direction in
+[13:25] the stock so it'll be really interesting
+[13:27] to see what happens with schlum
+[13:29] great and finally I'd love to ask what
+[13:31] your expectations are for fast and all
+[13:33] well um revenue is supposed to be up 4.2
+[13:36] Accord all Community or supposed to be
+[13:37] up uh 4.8 but as the manufacturing
+[13:41] sector improves um uh hopefully it will
+[13:44] improve stock has a decent earning
+[13:46] surprise history um but uh again it's
+[13:49] going to be tied to the manufacturing
+[13:51] sector of our economy we had a very good
+[13:54] ISM um uh manufacturing report new
+[13:57] orders were up so there's some green
+[13:58] shoot even though technically
+[14:00] manufacturing America's contracted uh 25
+[14:04] of the last 26 months but when we do
+[14:07] recover and this is what Trump wants to
+[14:09] do get our manufactur sector going fast
+[14:11] and all should be a winner yeah uh it's
+[14:14] it's sort of a PLL position company in
+[14:16] the you know tools and uh hardware store
+[14:20] Land uh this thing gets a map score of
+[14:24] 56.9 technically it's really middle of
+[14:27] the road right around 50 3 and the
+[14:30] fundamental score is 62 and a half um
+[14:33] now where it it has sort of green across
+[14:37] the board in terms of fundamentals but
+[14:39] they're not as strong as I would like to
+[14:41] see them oneyear sales and earnings
+[14:44] growth five and 7% respectively
+[14:47] three-year sales growth of 9% and
+[14:49] threeyear earnings growth of 11% those
+[14:52] are all good uh but generally I like to
+[14:54] see double digit they do make a profit
+[14:57] margin of uh 16% they have plenty of
+[14:59] free cash flow less Capital expenditures
+[15:02] $1.2 billion now the stock is down 10%
+[15:05] in a month um so you know there's a lot
+[15:10] of uh potential bottled up energy if
+[15:13] they come and they beat and they raise
+[15:15] earnings and they as as Louie mentioned
+[15:18] are expected to have one in year onee
+[15:20] sales and earnings estimates uh positive
+[15:24] I'd like to see that double digits but
+[15:27] you know we'll see I think one area
+[15:29] where it is getting punished is uh their
+[15:32] cash per share is negative so a lot of
+[15:35] these leverage
+[15:36] companies like I said it's not a trait
+[15:39] that I'm looking for in a stock I like
+[15:41] lower debt to equity ratios and lower uh
+[15:44] and higher cash per share but in a
+[15:47] falling interest rate environment where
+[15:49] the cost of their financing looks to be
+[15:52] going down on the horizon this is uh
+[15:54] good news for heavier levered companies
+[15:57] and I should have for disclosure um my
+[15:59] firm does own Kinder Morgan some
+[16:01] dividend accounts it's not in the growth
+[16:03] accounts so the stocks we just talked
+[16:05] about are all the ones are announcing
+[16:07] next week and we'll be keep doing this
+[16:09] uh every week uh as earen season
+[16:11] progresses so um uh we are talking about
+[16:15] stocks that we don't always
+[16:17] own now let's switch over to stocks in
+[16:20] the news perimeter Solutions was popping
+[16:21] up what are your guys's thoughts about
+[16:23] them well I own the stock uh they make
+[16:27] the fire uh retardant that you spray
+[16:29] around homes and um uh you know I'm
+[16:34] filming right now in Reno and uh
+[16:36] obviously they use fire retardant around
+[16:38] here when we have our fires but uh
+[16:42] obviously when the uh fire hydrants stop
+[16:46] working the fire retardant it's a bigger
+[16:48] deal and this is what the planes are
+[16:50] dropping on the fires so this stock has
+[16:53] popped uh this week just because of the
+[16:55] horrible tragedy in Los Angeles uh you
+[16:58] know this is going to arrival Hurricane
+[17:00] Katrina for losses and uh it's very very
+[17:03] tragic and I've already talked to
+[17:05] clients of lost homes it's just horrific
+[17:08] um looks like it's going to be much
+[17:10] worse than the Maui fire fire but it was
+[17:12] similar very odd winds pouring out to
+[17:14] the SE um anyway we own it um it's
+[17:18] benefitting from the the tragedy we've
+[17:21] had this week stock um my analytics
+[17:24] doesn't really love it gets a a map
+[17:26] score of
+[17:27] 46.6 technical score right in the middle
+[17:31] um it was depressed it has popped since
+[17:33] the fire fundamental score 41.1
+[17:38] and you know I'm just seeing negative
+[17:40] sales and earnings growth on a one and
+[17:42] threeyear basis now that obviously can
+[17:44] all change if they have a huge pop from
+[17:47] this uh unfortunate disaster they do
+[17:51] make a profit margin of 21% that's great
+[17:54] um their debt to equity ratio is uh
+[17:59] elevated at 69% and they have negative
+[18:02] free cash flow less Capital expenditures
+[18:05] uh the other thing that's showing up in
+[18:07] my data oneye estimated earnings growth
+[18:10] and estimated sales growth is negative
+[18:13] but that obviously is not taking into
+[18:16] account what's going on in the past
+[18:18] couple of days um lastly it has negative
+[18:22] cash per share so it'll be really
+[18:25] interesting to see the guidance because
+[18:27] you know last numbers are already in
+[18:29] that's what they're going to report um
+[18:32] when they report which is March 20th uh
+[18:35] we're going to really get to see what
+[18:36] kind of boost this this comes in as so
+[18:40] be very interesting to see I should add
+[18:42] that there for the this current quarter
+[18:45] their revenues are forecast to be up
+[18:48] 20.2% earnings are supposed to be up
+[18:51] 24.1 and um this company's a little like
+[18:54] an agriculture uh uh um company the egg
+[18:59] socks have two strong quarters a year
+[19:01] and then two weak quarters energy is
+[19:03] also similar to that especially crude
+[19:05] oil um because demand goes up in the
+[19:07] spring goes down in the fall um but uh
+[19:10] this particular company does sell a lot
+[19:12] more of its fire retardant uh products
+[19:14] just before Fire season so U I think
+[19:18] what's happening is their sales got off
+[19:20] to an early start along the same lines
+[19:22] Arch Capital group was also popping up
+[19:25] well it's popping up but um it's
+[19:27] fighting two problem problems I own the
+[19:29] stock it's a reinsurance company and it
+[19:32] has two problems one is rising bond
+[19:34] yields um our treasure yields are at the
+[19:38] highest level um since 2007 and there's
+[19:42] headed uh higher after the very strong
+[19:44] payroll report um you know the 30-year
+[19:47] treasury's
+[19:48] um up uh over 5% and the 10year treasury
+[19:52] uh was 479 the last I looked and uh
+[19:56] that's a lot of people don't think the
+[19:58] FED will be cutting rates so this stock
+[20:00] will do better when rates go down
+[20:02] because reinsurance companies have huge
+[20:04] Bond portfolios that'll appreciate when
+[20:06] rates go down but in the interm what's
+[20:09] Weighing on this company is it's
+[20:10] liability from the fire so all these
+[20:13] insurance companies and obviously
+[20:15] there's an insurance problem in
+[20:16] California some people are insured some
+[20:19] are not but the people that are insured
+[20:22] they're insurance company whether it's
+[20:24] State Farm or Progressive or whoever
+[20:27] will often uh rely on the reinsurance
+[20:29] companies to help pay and so uh Arch
+[20:33] capital is going to be sitting there um
+[20:36] waiting to
+[20:37] see um how much their liability is but
+[20:41] this is a horrific
+[20:43] tragedy uh you know Crystal um where you
+[20:46] went to um high school you know you had
+[20:48] friends in the reinsurance business um
+[20:51] they remember they were always going to
+[20:52] Bermuda and um the issue with
+[20:55] reinsurance is um uh
+[20:59] they really are hurt by natural disaster
+[21:01] so the floods in Houston when the
+[21:03] hurricane stalled over Houston were
+[21:05] devastating the reinsurance I'm sure
+[21:08] these fires in LA are going to be
+[21:11] horrific too so we'll just have to see
+[21:13] what the liability is and we just don't
+[21:15] know right now and we do have this under
+[21:17] management and dividend portfolios as
+[21:19] well as some growth portfolios at map
+[21:22] signals we have this stock in several
+[21:25] accounts uh some managed some publishing
+[21:27] as well I personally love this stock um
+[21:30] right now it's getting a map score of 53
+[21:33] and 0.4 so a lot of map scores we're
+[21:35] looking backwards so obviously we're
+[21:37] talking about you know current events
+[21:39] and how their potential exposure is in
+[21:42] this
+[21:43] fire um but a technical score it's 41.2
+[21:48] so because it's sold off from highs
+[21:49] about a few months ago uh on a
+[21:52] fundamental score we got 70.8 and that's
+[21:55] because historically we're looking at
+[21:57] onee sales growth of 41% one-year
+[22:00] earnings growth at
+[22:02] 207% three-year sales growth 18%
+[22:05] threeyear earnings growth is 79% these
+[22:08] are awesome metrics a profit margin of
+[22:11] 33% free cash flow less capex of $5.7
+[22:15] billion and that's because insurance
+[22:17] companies they have to carry cash in the
+[22:19] form of float to pay for claims um but
+[22:24] the scope of the disaster you know
+[22:26] that's going to be a drop in the bucket
+[22:28] so like Louie said it'll be really
+[22:30] interesting to see what their exposure
+[22:32] is and a lot of that hinges on um
+[22:35] there's a story floating around that uh
+[22:38] California the state of California was
+[22:39] negotiating with insurance companies
+[22:41] such as State Farm and local carriers on
+[22:45] not raising their rates and insurance
+[22:47] companies were like well we see
+[22:49] increased liability to fire because of
+[22:52] the underbrush management problem or
+[22:54] whatever they were citing uh so a lot of
+[22:57] insurance companies attempt to cancel
+[22:59] Insurance on a lot of homeowners who are
+[23:02] now just getting faced with total
+[23:05] devastation so it'll be really
+[23:06] interesting to see what the level of
+[23:09] exposure is because there's potential
+[23:12] legal battle uh with this one so um it
+[23:16] is a newsworthy stock but typically with
+[23:18] reinsurance companies like these you're
+[23:20] looking at longer time Horizons because
+[23:23] they make their money over years and
+[23:25] years and years of no disaster and the
+[23:28] disaster comes along you have a setback
+[23:31] and then they move forward so it'll be
+[23:33] interesting to see switching over to
+[23:35] subscriber questions could you comment
+[23:37] on uh United Airline versus American
+[23:40] Airlines well sure in in our portfolios
+[23:43] and our newsletters we recommend United
+[23:45] Airlines we don't recommend
+[23:47] American uh as someone that flies a lot
+[23:50] um I would add that um I think United is
+[23:54] better run than American um I think it's
+[23:57] Hubb and spoke systems a little bit
+[23:59] better and um unfortunately American had
+[24:02] to cancel a lot of flights including me
+[24:04] this week U because of the ice storm in
+[24:07] Dallas but um Delta did beat um um they
+[24:12] announced and they were rewarded the
+[24:14] stock kept up so the airlines are hot
+[24:17] and in addition to recommending the
+[24:19] united we also recommend Alaska Air
+[24:22] which is ALK and we have those in
+[24:23] portfolios from an Airlines perspective
+[24:26] I can't say that I've ever been a huge
+[24:28] fan of airlines in the past the airlines
+[24:30] that I've liked were Alaska Airlines as
+[24:32] well Spirit Airlines um what I'm seeing
+[24:36] you know real quick from a perspective
+[24:39] of uh u United Airlines um we have a map
+[24:45] score of
+[24:46] 75.9 really strong technicals decent
+[24:49] fundamentals for a an airline very
+[24:52] strong sales and earnings growth in one
+[24:55] and three years and a 5% profit margin
+[24:58] now expectedly uh it's a heavily levered
+[25:02] company a lot of debt pay for equipment
+[25:04] and and uh uh fuel Etc but they're
+[25:08] forecasted to grow sales and earnings
+[25:11] and obviously ever since covid there's
+[25:13] been a boom of traveling that sort of
+[25:15] sees no end in sight so I am liking um
+[25:19] United Airlines I also like American
+[25:23] it's got a 69 map score with a 80
+[25:26] Technical and a 54 fundamental again
+[25:30] really strong sales and earnings growth
+[25:32] uh a lower profit margin a 2% gross
+[25:35] profit margin but they do have plenty of
+[25:38] free cash flow again a levered company
+[25:41] but they have very strong sales and
+[25:43] earnings estimates for next year so as
+[25:46] far as Airlines go I typically don't
+[25:48] love them given the debt to equity ratio
+[25:51] but these two are hitting all the marks
+[25:54] Jason how does Sky West look that's SK
+[25:57] YW
+[26:00] feeder feeder for Alaska and United and
+[26:04] uh that's the first airline that showed
+[26:05] up in our system we own it so that one's
+[26:08] got a map score of 65.5 technical score
+[26:12] is 73.5 which is nice and strong
+[26:15] fundamental around 54.2 but again
+[26:18] Airlines get punished with debt because
+[26:21] I don't factor in debt for this industry
+[26:23] versus Tech say um it has negative sales
+[26:28] in earnings growth last year -2% sales
+[26:31] growth Nega 46% earnings growth
+[26:34] threeyear sales growth of 12% but
+[26:36] three-year earnings growth of negative
+[26:39] 40% they just eek out a profit margin of
+[26:43] 1% um they have plenty of free cash flow
+[26:46] they're levered about
+[26:49] 150% uh but they do have estimated sales
+[26:53] and earnings growth next year so it's
+[26:56] kind of a middle-of the road fundamental
+[26:58] stock for me with some technical
+[26:59] strength right now in the absence of
+[27:01] anything else I can confirm Sky West
+[27:04] will have blowout uh earnings since the
+[27:07] the current quarter is looking awfully
+[27:09] good that's great it's one to keep on
+[27:12] the radar no pun
+[27:16] intended another one of our subscribers
+[27:18] wanted to know what your thoughts were
+[27:19] on
+[27:21] usap yeah that's Universal um alloy and
+[27:24] stainless steel metal fabricator sales
+[27:27] are only supposed to about uh 4% but
+[27:29] earnings are supposed to be up over
+[27:32] 240 um we have a lot of companies that
+[27:35] Supply
+[27:36] Aviation um and then of course um
+[27:40] Automotive is getting increasingly
+[27:42] sophisticated um it was interesting um
+[27:45] you we bought that Escalade Crystal and
+[27:48] uh I thought it was all steel but the
+[27:50] doors are aluminum the Hood's aluminum
+[27:53] and um um I found that to be interesting
+[27:57] that's a big vehicle I guess trying to
+[27:58] keep the weight down and then of course
+[28:00] we have the cybertruck nowadays uh which
+[28:03] is an example of um really high-end uh
+[28:07] stainless steel being put in some
+[28:09] Vehicles so um Universal um alloy and
+[28:13] stainless steel products are benefiting
+[28:16] from both the automotive Industries
+[28:18] increasing uh demand but especially
+[28:21] Aviation like you said Alloys nickel
+[28:23] Alloys tool steel all that stuff um this
+[28:26] is a middle of the road stock for me map
+[28:28] score
+[28:30] 55.2 technical 53 fundamental 58 so
+[28:34] stronger fundamental than technical I
+[28:36] generally like that represents potential
+[28:39] value um strong one-year sales growth
+[28:43] but negative threeyear earnings growth
+[28:45] which indicates it's probably bit of a
+[28:47] newcomer um although this company's been
+[28:50] around it's been founded uh in
+[28:53] 1994 uh does make a 2% profit margin I'd
+[28:57] like to see more it has a little bit of
+[29:00] free cash flow um but a 38% debt to
+[29:04] equity ratio so generally I like to see
+[29:07] all greens like if we're looking at
+[29:08] 6,000 stocks like we're just talking
+[29:11] about stocks in the news and what people
+[29:13] want to know about um I think Louie you
+[29:16] have the same general feeling you're
+[29:18] looking for the creme de La Creme the
+[29:20] best of the best yeah it's it's still
+[29:22] not a sector Market it's still a stock
+[29:24] picking market so you know it's just
+[29:27] like Nidia scores high in our system but
+[29:30] Advanced Micro Devices AMD and Intel
+[29:33] INTC score very poorly so uh and you
+[29:37] know it's funny we um we uh do sector
+[29:41] Management on ETFs and that's our
+[29:43] slowest portfolio last year we were
+[29:46] recommending
+[29:47] financials but that actually got sold in
+[29:50] the sector of
+[29:52] management so that's why this um earning
+[29:55] season is going to be interesting next
+[29:56] week because this is when the finan
+[29:58] report um but
+[30:01] um yeah it's it's still stock picking
+[30:03] and even as we record this it's a sloppy
+[30:07] day and um we got a lot of strength on
+[30:09] the surface so I'm pretty happy now
+[30:12] switching over to global economic news I
+[30:14] was quite surprised to see that the
+[30:15] Chinese bond yield drop below Japan can
+[30:18] you explain
+[30:19] why yeah uh China's in a lot of trouble
+[30:23] uh in fact they are probably the next
+[30:25] Japan we expect their rates to be
+[30:28] uh low and possibly negative for up the
+[30:31] next two decades and the reason is
+[30:34] simple they're just losing people um I I
+[30:37] don't have the number what they lost
+[30:38] last year but I'm sure it's at least 2
+[30:40] million the year before was 2.08 Million
+[30:44] this is what happens when demographics
+[30:46] hurt your country and this is a
+[30:48] worldwide phenomena It's really hurting
+[30:51] Europe it's hurting much of Asia and um
+[30:56] China also like Japan
+[30:59] has a lot of bad bank loans and uh the
+[31:01] banking crisis in Japan was triggered by
+[31:03] this well over 30 years
+[31:06] ago but what happened in China is people
+[31:09] were buying real estate for
+[31:11] speculation and uh and never moved in
+[31:14] the homes and so there's all these
+[31:17] houses and high-rise condos that are
+[31:20] empty and um it's a real problem and um
+[31:25] they're masking their their loan
+[31:27] problems
+[31:28] and um and then also president Chi the
+[31:32] the president for life in China has uh
+[31:35] terminated a lot of the reformers
+[31:37] so lot the the world doesn't have
+[31:40] confidence that China is being managed
+[31:42] uh fiscally um um well and the other
+[31:47] comment they have rampid
+[31:48] deflation uh so we hope that deflation
+[31:52] spreads to America and U we'll find out
+[31:55] soon yeah it's interesting I mean they
+[31:57] had uh
+[31:58] population limitation going back to
+[32:00] Chairman ma right um it's pretty
+[32:03] ingrained in the culture and then
+[32:04] speaking to your uh comments about real
+[32:08] estate I mean starting in 2020 they had
+[32:11] a major real estate crisis with a lot of
+[32:13] Leverage debt unoccupied real estate
+[32:16] overdevelopment so that's still working
+[32:18] its way through the system um so yeah
+[32:22] it's uh it's really interesting because
+[32:25] that works its way into all Chinese
+[32:28] stocks and you're talking about a large
+[32:30] you know contingent of tech leadership
+[32:32] in China Etc that gets under pressure
+[32:35] with the whole region so um it it really
+[32:39] is a bit of a a mess right now over
+[32:43] there now can you explain to me why
+[32:44] currencies around the world are so weak
+[32:46] can you start with
+[32:48] Vietnam yeah that's a bit of a surprise
+[32:50] uh Vietnam has record e exports to
+[32:53] America I think it was over 110 billion
+[32:56] last year but their currencies is very
+[32:58] weak so they get they're more
+[32:59] competitive and the weaker your currency
+[33:02] the the more the us is going to buy so
+[33:05] um uh it's up to Vietnam to convince the
+[33:09] world that they're uh well-managed uh
+[33:12] they've obviously had an incredible
+[33:16] success story but um yeah they um they
+[33:21] just I was shocked how weak their
+[33:23] currency was versus the US dollar now
+[33:26] you already mentioned about China but
+[33:28] can you expand a little bit more about
+[33:29] them sure um China is part of the brics
+[33:33] Nations that's Brazil um uh China India
+[33:38] Russia I think South Africa considered
+[33:40] itself a bricks nation and they were
+[33:43] trying to trade more direct with each
+[33:45] other and not use US
+[33:48] Dollars and uh the Brazilian president
+[33:52] uh he went Lulu Lulu went all the way to
+[33:55] Shanghai and announced that everybody in
+[33:57] the world that was at this conference
+[33:59] that you must trade in Chinese Juan
+[34:02] versus US Dollars well incoming
+[34:05] president-elect Trump uh said if you
+[34:08] promote that kind of trade policy we're
+[34:10] going to have a 100% tariff on
+[34:12] you that's one of the reasons he wants
+[34:15] to put a tariff on China but he will
+[34:17] also do it to Brazil India uh South
+[34:20] Africa and of course Russia we always
+[34:22] got so many sanctions it's another
+[34:24] matter but uh ever since he said that
+[34:27] Brazil's been quiet so um you know it's
+[34:32] uh uh so this policy is is not being
+[34:36] rewarded and um most of the bricks
+[34:39] countries uh have very weak currencies I
+[34:42] would say with the exception of
+[34:44] India and finally what about
+[34:47] Mexico shocking the peso fell 19%
+[34:52] against the US dollar last year a lot of
+[34:55] that was in the summer months after the
+[34:56] election I guess there was some concern
+[34:58] of the new legislator's um messing with
+[35:02] the judicial branch um but no uh Mexico
+[35:06] should have a strong currency because
+[35:08] they they're a huge exporter to America
+[35:12] and uh we're growing un last I look
+[35:14] we're still growing over 3% so um I was
+[35:18] shocked by that but it'll be up to the
+[35:20] new Mexican president to uh install
+[35:24] confidence and of course right now she's
+[35:28] she's um a very colorful politician I
+[35:31] guess best way to describe
+[35:33] her they're they're feuding about uh
+[35:37] Gulf of America right and and getting
+[35:40] into a spat there yes and she wants to
+[35:44] Trump wants to rename the Gulf of Mexico
+[35:46] to the the Gulf of America and then she
+[35:49] uh uh countered that uh she would like
+[35:53] um us to be renamed the Mexican America
+[35:57] so uh um it's uh her and Trump are
+[36:00] having fun with each other and so that's
+[36:02] going to be one of the more interesting
+[36:04] meetings and uh the truth is we do a lot
+[36:07] of trade with each other we need each
+[36:09] other so uh I'm sure it'll all end end
+[36:12] fine but in the meantime they're having
+[36:14] fun insulting each other it would be
+[36:16] great if they could resolve it on Cinco
+[36:18] DEA and give everybody a real reason to
+[36:21] uh celebrate there yeah
+[36:23] yeah but you know NAFTA allow Mexico to
+[36:27] Boom
+[36:28] and uh that whole Monteray Mexico area
+[36:31] is a huge manufacturing Hub and um
+[36:34] interestingly uh Mexico needs natural
+[36:36] gas from the US to keep their electric
+[36:38] cost down and uh we do export a lot of
+[36:41] refined product to them because uh uh
+[36:44] pmco their their oil company that um
+[36:47] there um doesn't have the output it once
+[36:49] did the producer price index is going to
+[36:51] be announced on Tuesday what do you
+[36:53] expect from
+[36:54] that uh that's more of a wild card but
+[36:58] uh I'm expecting Goods prices to fall
+[37:00] due to the strong dollar uh we want to
+[37:02] see where wholesale service costs are
+[37:04] but the dollar is so strong we should
+[37:07] get a wholesale good prices falling um
+[37:10] and also comod are price in dollars so
+[37:13] that would be the big thing in the
+[37:15] PPI and of course the CPI will be
+[37:17] announced on
+[37:19] Wednesday that's all owners equipent
+[37:22] rent shelter costs um 90% of our
+[37:24] inflation is is that um I should mention
+[37:28] that um there has been some food
+[37:30] inflation both the PPI and CPI uh due to
+[37:33] the bird flu out west but as you know
+[37:35] that's okay because we own those egg
+[37:37] stocks um Cal mine already announced and
+[37:40] beat uh acted well and then of course
+[37:43] vital Farms will be announcing in the
+[37:45] upcoming
+[37:47] weeks yeah I think um from the CPI
+[37:51] perspective you
+[37:54] know we've just been in a slow descent
+[37:57] and obviously every time there's a
+[37:59] report the market gets Jitters over one
+[38:02] tenth of a percent here or there but you
+[38:05] know this time last year uh CPI was 3.1
+[38:09] and a year prior to that it was 6.3 and
+[38:13] you know we had an inflation all-time
+[38:15] high during covid of 99.2% so steadily
+[38:20] falling steadily falling and like Louie
+[38:22] said there's such a sensitivity to
+[38:24] owners equivalent rent but everywhere
+[38:26] else prices are either stabilizing or
+[38:29] continuing to fall so yeah I would
+[38:31] expect this same the reason there's no
+[38:34] housing inflation in like Europe is
+[38:36] they're not creating households they're
+[38:38] getting old and they're dying and uh so
+[38:41] they don't have household
+[38:42] formation and uh like we do so um the
+[38:47] other thing is of course in America we
+[38:48] assimilate immigrants better than these
+[38:50] other countries do you know Britain um
+[38:53] uh obviously has Sharia 84 Sharia courts
+[38:56] Now France isn't
+[38:58] assimilating um Germany used to
+[39:01] assimilate Turks and syrians pretty well
+[39:03] but the last wave they got isn't working
+[39:06] that out that well for them and um then
+[39:09] when you have these countries where
+[39:10] people are fleeing the richest the most
+[39:13] educated people flee first and then but
+[39:16] when you get to the fourth or fifth year
+[39:17] of the of the flight it's uh you know
+[39:20] the people might not be as educated or
+[39:22] as productive and um so in America we're
+[39:26] just very unique um obviously Trump's
+[39:29] going to proceed to deport the um the
+[39:32] criminals and gang members and uh he
+[39:36] might Deport several hundred, people but
+[39:38] I cannot imagine he'll Deport people
+[39:40] with jobs uh even if they got here
+[39:42] illegally so this is going to be very
+[39:44] interesting if he does it's going to
+[39:46] make food prices go up so uh because you
+[39:49] know the Tyson Foods the horels uh you
+[39:51] know they they will hire these uh
+[39:54] immigrants and then they will process
+[39:56] their paperwork with the immigration
+[39:58] agencies yeah it's a good point you know
+[40:01] a lot of
+[40:02] those illegal immigrants who have
+[40:05] legitimate you know work ethics and
+[40:08] things like that will do a lot of the
+[40:09] jobs that people don't want to do so if
+[40:12] we export all those people the cost to
+[40:17] fund that labor will significantly
+[40:20] increase and you know that's been a big
+[40:22] Topic at this it will not be possible to
+[40:24] rebuild Los Angeles without that labor
+[40:27] so right
+[40:30] right and finally what are your
+[40:32] expectations the retail sales that will
+[40:34] be announced on Thursday should be
+[40:36] pretty good um based on what we're
+[40:38] seeing with the consumers um uh we
+[40:42] should be growing close to
+[40:45] 3% um you know 70% of our economic
+[40:49] growth is tied to consumer spending the
+[40:52] holiday shopping season looked pretty
+[40:54] good um but and uh but again we have two
+[40:58] tiers of consumers people above 30 are
+[41:00] doing better than the people below 30 so
+[41:03] uh so uh but the Boomers have all the
+[41:06] money so um we're spending so it it
+[41:09] should turn out great perfect well thank
+[41:11] you to you both for answering all my
+[41:13] questions and thank you to you all for
+[41:14] liking and subscribing once again if you
+[41:16] have any questions please leave in the
+[41:18] comments below but until then we'll see
+[41:20] you all next week as we'll go through a
+[41:22] new round of stocks for their earning
+[41:24] announcement season thank you so much
+[41:27] thank you
+[41:29] [Applause]
+[41:29] [Music]

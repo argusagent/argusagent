@@ -7,9 +7,350 @@ Type: video
 Duration: 12:03 (723s)
 Caption language: en
 Caption kind: asr
-Transcript status: pending
+Transcript status: success
+Transcript segments: 342
+Transcript characters: 11840
 ============================================================
 
-[NO TRANSCRIPT] Transcript not yet retrieved.
-
-This file is a placeholder. No caption text was fabricated.
+[00:00] Nvidia reports on Wednesday, but Dad, I
+[00:02] think you believe that there's a
+[00:03] different chip stock with a setup that
+[00:05] could actually beat it, and President
+[00:07] Trump just bought it.
+[00:08] >> Yeah, there's one memory stock that has
+[00:10] even more stunning sales and earnings
+[00:12] than Nvidia, ridiculous order backlog.
+[00:14] It's a major holding of mine. Obviously,
+[00:17] President Trump believes in this
+[00:19] technology-led rally that we're in.
+[00:21] Well, first up, why is now the moment
+[00:23] for chip stocks? Let's just take a look
+[00:24] at Trump's list. Up to 750 million in
+[00:28] trades. And you know, he's buying
+[00:30] Nvidia, Broadcom, Intel, Apple, almost
+[00:33] all AI chips. The president is loading
+[00:36] up. Yeah, and this is unusual cuz you
+[00:38] know, our president's a real estate guy.
+[00:40] He's not known as a stock guy. I guess
+[00:41] he
+[00:42] wants to be more famous than Nancy
+[00:44] Pelosi for stock trading. But I agree
+[00:46] with his his picks. He he knows there's
+[00:48] a record order backlog. He can see that
+[00:51] the data centers are over 50% of
+[00:53] construction in America. Because of the
+[00:55] growing order backlog though, that this
+[00:57] construction's going to continue for 2
+[00:59] to 3 years. And you know, normally we
+[01:01] don't hold stocks for
+[01:03] 2 or 3 years. You know, usually we hold
+[01:05] them for
+[01:06] maybe, you know, 15, 18 months, but
+[01:10] all these stocks we just keep holding on
+[01:12] and enjoying the ride because they uh
+[01:16] things are still accelerating. But
+[01:17] that's the that's what's so shocking
+[01:19] this quarter is wasn't so much the
+[01:22] strong guidance, it was which companies
+[01:24] got more orders than the than sales. A
+[01:27] good example is Bloom Energy had over 9
+[01:29] billion in sales in the last quarter,
+[01:31] but their orders were over 18 billion,
+[01:34] literally double the sales. So that's
+[01:36] what everybody's looking at, who's got
+[01:37] the big order backlogs. And it's going
+[01:39] to take years
+[01:41] uh for the companies to deliver what
+[01:44] what they have in the pipeline now. So
+[01:46] their earnings are a lock, and they have
+[01:48] pricing power. Things aren't being
+[01:50] discounted. And we have some of the top
+[01:53] CEOs recently meeting with President
+[01:55] Trump in Beijing. What do you make of
+[01:57] all that? Yeah, they they booked record
+[01:59] orders. Boeing, Nvidia got some chip
+[02:02] sales done. Obviously, Apple was on the
+[02:04] plane. Apple's huge in China. So, a lot
+[02:07] of exciting things are going on. Exxon
+[02:09] Mobil was there. The US is trying to get
+[02:12] China to buy oil for US oil companies.
+[02:15] So, a lot of deals were done. This was a
+[02:17] Chamber of Commerce meeting. Almost
+[02:19] every company that was on that plane
+[02:22] and in those meetings walked away with
+[02:24] new orders. So, let's start with what
+[02:25] everyone knows. Nvidia reports on
+[02:27] Wednesday. Tell us, what are you
+[02:29] expecting for them? Well, their sales
+[02:31] are going to be up over 79%.
+[02:36] They will guide higher.
+[02:39] You know, that's the ramp up of the Vera
+[02:40] Rubin, the new
+[02:42] GPU. And they've already announced that
+[02:45] next year their sales and earnings will
+[02:47] be doubling, okay? In 2027. So, it's
+[02:51] just stunning. It's just stunning. I
+[02:53] mean, Nvidia in the end might be 20% of
+[02:56] our GAAP. Last I looked was 14%.
+[02:59] So, the pricing power is amazing.
+[03:01] Earnings are growing fast and sales and
+[03:03] margin expansion. I mean, the analysts
+[03:05] will pick through how much is data
+[03:07] centers, how much gaming, and everything
+[03:08] else. But, this this stock is just
+[03:11] unbelievable. It it it rallied
+[03:13] immensely. It hasn't hit $6 trillion
+[03:16] yet. It's about to. And the only issue
+[03:17] is when those earnings come out, there's
+[03:19] a lot of call options written on Nvidia.
+[03:21] And sometimes I think the tail wags the
+[03:24] dog in that the the Citadel's, the Jane
+[03:27] Streets, Hudson Valleys, the Virtu
+[03:29] Financials writing the the call options.
+[03:31] They don't really want to deliver the
+[03:32] stock if the option hits strike price.
+[03:35] So, sometimes they run a mean reversion
+[03:36] program to hold Nvidia back. But, I
+[03:39] personally hope Nvidia just blows out of
+[03:41] the park and the option market goes
+[03:42] nuts. So, I'm very excited about it.
+[03:45] >> And you've got close to $200 million in
+[03:48] Nvidia for clients. So, you're not just
+[03:49] talking, you're in it.
+[03:50] >> Oh, yeah.
+[03:51] And I have no intention of selling it.
+[03:53] I I think Nvidia will be over $300 by
+[03:56] the end of this year. I think it will be
+[03:58] over $500 by the end of the decade. I've
+[04:00] written all these editorials
+[04:02] uh in you know, MarketWatch to think to
+[04:04] hold Nvidia through the end of the
+[04:05] decade as a minimum. The only um thing
+[04:09] that I want to emphasize is that
+[04:12] their last GPU in 2018, it's perceived
+[04:15] they can't make the chips faster and
+[04:17] they have to pivot to quantum computing,
+[04:19] but they have a quantum plot simulator.
+[04:21] They had a quantum day with that D-Wave
+[04:23] one, the programming contest. So, if you
+[04:26] want to invest in quantum computing down
+[04:28] the road, I think Nvidia will be a
+[04:29] winner. I think Google will be a winner.
+[04:32] And then of course we have the pure
+[04:33] quantum computing stocks that that will
+[04:35] hopefully start to make some money.
+[04:36] Okay, so Nvidia is the headliner, but
+[04:39] you've been telling me that there's
+[04:40] another chip stock whose numbers
+[04:41] actually blowing Nvidia's out of the
+[04:43] water. Which one is that? That's Micron.
+[04:45] And uh their sales are supposed to be up
+[04:47] 256%
+[04:48] earnings are supposed to be up uh
+[04:50] literally almost 900%.
+[04:53] And uh that's just stunning. They are
+[04:56] the memory chip company. They also trade
+[04:58] at a low multiple
+[04:59] because memory chips have historically
+[05:01] been volatile and um but they have the
+[05:04] uh fast memory chips that the data
+[05:06] centers need. And they dominate that now
+[05:08] and they're building factories and
+[05:10] adding more capacity. So, Micron is uh
+[05:13] just an incredible company right now and
+[05:15] it is not overvalued relative to techs.
+[05:17] Now, can you compare these side by side?
+[05:19] I mean, without Micron, Nvidia's chips
+[05:21] can't do their job. Yeah, yeah, cuz they
+[05:23] need memory. And uh the other memory
+[05:26] related stocks are rallying. They're
+[05:28] Seagate or Western Digital earnings,
+[05:29] Sandisk,
+[05:30] which we have in some accounts.
+[05:32] And of course Western Digital, which was
+[05:34] last year's best performing stock, WDC.
+[05:36] But all the memory stocks are doing
+[05:38] very, very well. And uh the problem with
+[05:40] the data center build out, you hit these
+[05:41] bottlenecks and memory became a
+[05:43] bottleneck.
+[05:45] So, that's why all these stocks took
+[05:46] off. But you know, we just had Cisco
+[05:48] systems as example release some of the
+[05:51] best earnings it's ever released because
+[05:53] they're helping expand the data centers.
+[05:55] And all the networking and optical
+[05:57] connections, etc. So it is a a boom for
+[06:00] the entire tech industry. And so Nvidia
+[06:04] we trust and then all the suppliers to
+[06:06] the data centers we trust. Well, here's
+[06:08] the part that ties it all together. The
+[06:10] CEO of Micron was also rubbing elbows
+[06:12] with Trump right next to Jensen Huang.
+[06:15] So that's not a coincidence.
+[06:16] >> No. No, and again, I'm
+[06:19] I I love the fact that our president's
+[06:21] buying these stocks. So the fact that he
+[06:23] wants to buy my stocks is wonderful. And
+[06:26] you know, when I was on Fox and it was
+[06:28] kind of a depressing moment cuz the PPI
+[06:30] came out and it was wasn't a perfect
+[06:32] day, but I kept saying that I'm sure
+[06:34] Trump's going to do something on that
+[06:36] trip to help spark the market. And I
+[06:38] think the disclosure of all the tech
+[06:40] stocks he's been buying is that spark. I
+[06:42] also just want to take a moment to thank
+[06:44] you all so much for watching. Please
+[06:46] give this video a like and subscribe if
+[06:47] you haven't already. This Wednesday
+[06:49] we're going to go live in the second
+[06:51] Nvidia reports. We'll also cover Micron
+[06:53] right alongside it. So Dad, I have to
+[06:55] ask, anyone watching this is thinking
+[06:57] this kind of sounds like 1999. Bloomberg
+[07:00] came out with a chart recently. Are we
+[07:02] near the top? No. That chart shows
+[07:05] internet boom that was uh, started by
+[07:07] Netscape.
+[07:09] And the AI boom that was started by
+[07:11] ChatGPT.
+[07:12] And you can see where we're living it.
+[07:15] And so there's a debate, are we in 1998
+[07:17] or 1999? I'm just following that chart.
+[07:20] We got a long ways to go. So uh, I'm I'm
+[07:23] planning to be up another
+[07:26] 30, 40% between now and the end of the
+[07:28] year. And uh, that's because I know I've
+[07:30] got phenomenal sales and earnings in my
+[07:32] the pipeline. Next year you would think
+[07:34] we'd have more difficult year-over-year
+[07:36] comparisons. But uh,
+[07:38] uh, you know, we have uh, Uh,
+[07:41] good GDP growth. We have a growing
+[07:43] economy. And again, we have all those
+[07:45] record order backlogs that they'll still
+[07:47] be working off next year. So, I'm very,
+[07:49] very bullish and I think we have a a lot
+[07:51] of money we can make between now and the
+[07:53] end of the year.
+[07:54] So, the bubble talk is overblown. Yeah,
+[07:56] and also got to realize that when you
+[07:58] have record earnings, it shows P ratios
+[08:00] down. So, the stocks haven't by and
+[08:03] large gone up more than their earnings.
+[08:05] So, uh, all the concern over P ratios is
+[08:08] mute.
+[08:09] >> All right, Dad, let's talk risks. You
+[08:10] were on Maria's show on Wednesday and
+[08:12] you weren't very happy about the
+[08:13] inflation. Yeah, I didn't mean to be a
+[08:15] buzzkill, um, but the PPI was very
+[08:18] disappointing. It was up 1.4. It's up 6%
+[08:21] past year. Core rates not quite as bad,
+[08:24] but, uh,
+[08:25] the wholesale goods are up 2% and
+[08:27] wholesale services are up 1.1. That's
+[08:30] intolerable. It is very clear
+[08:33] that the high energy costs, like the
+[08:35] diesel for transport,
+[08:37] all our goods or even jet fuel that for
+[08:40] air freight, that the the high energy
+[08:42] stocks are causing the price of goods
+[08:45] and unfortunately services to rise. So,
+[08:47] we have got to get oil prices down. That
+[08:50] will definitely happen by the fall. I
+[08:51] will see if President Trump can expedite
+[08:53] this, but, uh, yeah, that is going to
+[08:55] postpone any Fed rate cut. Obviously,
+[08:57] Kevin Warsh is our new Fed chairman and
+[09:00] it'll be his goal to get the FOMC to
+[09:03] start thinking like him and I still
+[09:05] think we'll have a rate cut later in the
+[09:07] year, but, um, yeah, it's postponing the
+[09:09] rate cut, so it's kind of a buzzkill.
+[09:11] But that wholesale inflation, does that
+[09:13] hurt chip stocks? No, cuz they have
+[09:15] pricing power.
+[09:17] And stocks are a natural inflation
+[09:18] hedge. Oh, what
+[09:20] Where do you put your money? I mean, um,
+[09:23] when, uh,
+[09:24] interest rates are going higher, you put
+[09:26] it in in s- growth stocks. You can put
+[09:28] your money in bonds, but your
+[09:29] principal's going to erode. Uh, in fact,
+[09:32] 6 years ago, if you bought, uh,
+[09:34] Treasuries at the wrong time, uh, you've
+[09:36] lost, um,
+[09:38] over 55% of your money. So, um yeah,
+[09:41] yeah,
+[09:42] the bond market is um
+[09:44] is uh definitely signaling that uh
+[09:47] stocks are safer place. Now, as interest
+[09:50] rates get higher, they would naturally
+[09:52] demand a lower P ratio, but they haven't
+[09:53] gone up that much. And the bond
+[09:55] vigilantes seem more focused on Japan
+[09:57] and Britain right now cuz you know,
+[09:58] Britain's uh
+[09:59] going to have to get a new Prime
+[10:00] Minister because um
+[10:03] the pressure on Keir Starmer to resign
+[10:05] from his own Labour Party is immense.
+[10:07] So, we'll we'll see what happens, but
+[10:09] I'm very, very excited that we have our
+[10:12] new
+[10:13] Fed chairman. I know he's going to be
+[10:14] working with uh Scott Bessent. We could
+[10:17] have coordinated action later in the
+[10:18] year to shove rates down, but uh I think
+[10:20] they got to get the inflation to cool
+[10:22] off just a tad.
+[10:23] >> But, the Atlanta Fed just raised their
+[10:25] own rates. So, we have hot inflation and
+[10:27] a strong economy. Which one wins? Both.
+[10:30] Uh the the Atlanta Fed's estimating 4%
+[10:32] GDP growth. Kevin Hassett said that
+[10:35] we're going to hit six this year. The
+[10:36] GDP growth is coming from all the
+[10:39] onshoring, massive productivity gains
+[10:41] thanks to AI. It's also coming uh from
+[10:44] other robotics and other things that add
+[10:46] to productivity. Our trade deficit is
+[10:48] not that bad cuz our exports are booming
+[10:51] thanks to uh energy exports, buying
+[10:53] product, natural gas, and of course
+[10:55] crude oil. And then finally, the
+[10:56] consumer's in a pretty good mood. We had
+[10:58] another retail sales report and they
+[11:00] were spending. And then of course, you
+[11:01] mentioned oil, it's still at $105. Yeah.
+[11:05] But, it's uh how do I say it in a nice
+[11:07] way? It's inelastic, okay? And that's
+[11:10] economics 101 is is you have to use it
+[11:13] or not. So, people start to
+[11:15] adjust their spending patterns. Maybe
+[11:18] they go to the store a little less,
+[11:20] okay?
+[11:21] Uh or or when they go to the store, they
+[11:23] really load up on things.
+[11:25] Uh or maybe they go to Costco and of
+[11:27] course fill up the tank. The consumers
+[11:29] adjust, okay? They're very resilient.
+[11:33] And they don't want high uh
+[11:35] prices at the pump to
+[11:37] to ruin their spending.
+[11:39] Maybe it affects Starbucks, maybe it
+[11:40] affects McDonald's. We'll have to see
+[11:43] the sales. But based on the retail sales
+[11:45] report, consumers are spending money. So
+[11:47] that's where we are. Two AI chip stocks
+[11:50] both backed by what Trump is doing with
+[11:52] his own money. The question is now,
+[11:53] which one are you betting on? I want to
+[11:55] see in the comments, Nvidia or Micron
+[11:57] and why. My dad and I will read those
+[11:59] before next week's episode, but we'll
+[12:00] see you this Wednesday for a mid-week
+[12:02] update.
