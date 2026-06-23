@@ -221,6 +221,10 @@ captions (marked accordingly). Captions are the videos' own text — faithful, n
                 fp = os.path.join(root, fn)
                 z.write(fp, os.path.relpath(fp, out_root))
 
+    zip_name = os.path.basename(zip_path)
+    ascii_name = zip_name.encode("ascii", "ignore").decode("ascii") or "transcripts.zip"
+    if not ascii_name.endswith(".zip"):
+        ascii_name += ".zip"
     stats = {"total": total, "counts": counts, "chunks": n_chunks,
-             "dateRange": [date_lo, date_hi], "zipName": os.path.basename(zip_path)}
+             "dateRange": [date_lo, date_hi], "zipName": zip_name, "zipNameAscii": ascii_name}
     return zip_path, stats

@@ -2,7 +2,9 @@
 -> package into a compressed zip. Reports progress through a callback so a UI can
 render a live progress bar."""
 import concurrent.futures
+import sys
 import threading
+import traceback
 
 from . import innertube as it
 from . import packager
@@ -67,7 +69,15 @@ def run(channel_input, out_root, progress=None, max_videos=None, workers=6):
                  "total": stats["total"]}
         emit(**final)
         return final
-    except Exception as e:  # noqa: BLE001 - surface failure to the UI
-        final = {"phase": "error", "percent": 100, "message": f"{type(e).__name__}: {e}"}
+    except ValueError as e:
+        # expected, user-facing problems (bad channel, no videos, etc.)
+        final = {"phase": "error", "percent": 100, "message": str(e), "errorKind": "input"}
+        emit(**final)
+        return final
+    except Exception as e:  # noqa: BLE001 - unexpected; log detail, show generic
+        traceback.print_exc(file=sys.stderr)
+        final = {"phase": "error", "percent": 100, "errorKind": "internal",
+                 "message": "Something went wrong while scraping this channel. "
+                            "It may be temporarily unavailable — please try again."}
         emit(**final)
         return final

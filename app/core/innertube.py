@@ -13,9 +13,13 @@ import os
 import ssl
 import time
 import html
+import threading
 import urllib.request
 import urllib.error
+import urllib.parse
 import xml.etree.ElementTree as ET
+
+ALLOWED_HOSTS = {"www.youtube.com", "youtube.com", "m.youtube.com", "youtu.be"}
 
 KEY = "AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8"  # public InnerTube web key
 _CA = "/root/.ccr/ca-bundle.crt"
@@ -64,10 +68,19 @@ def post(path, body, retries=4, timeout=60):
     raise last
 
 
-def http_get(url, timeout=40):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-    with _opener().open(req, timeout=timeout) as r:
-        return r.read()
+def http_get(url, timeout=40, retries=3):
+    last = None
+    for i in range(retries):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+            with _opener().open(req, timeout=timeout) as r:
+                return r.read()
+        except Exception as e:  # noqa: BLE001 - retry transient network errors
+            last = e
+            if i == retries - 1:
+                raise
+            time.sleep(2 ** i)
+    raise last
 
 
 def walk_find(obj, key, out):
@@ -83,28 +96,43 @@ def walk_find(obj, key, out):
 
 # ---------------------------------------------------------------- visitor data
 _VISITOR = {"token": None}
+_VISITOR_LOCK = threading.Lock()
 
 
 def visitor_data():
     if _VISITOR["token"]:
         return _VISITOR["token"]
-    b = post("browse", {"context": {"client": WEB_CLIENT},
-                        "browseId": "UCBR8-60-B28hp2BmDPdntcQ"})  # YouTube channel, any
-    _VISITOR["token"] = b.get("responseContext", {}).get("visitorData")
+    with _VISITOR_LOCK:
+        if _VISITOR["token"]:
+            return _VISITOR["token"]
+        b = post("browse", {"context": {"client": WEB_CLIENT},
+                            "browseId": "UCBR8-60-B28hp2BmDPdntcQ"})  # YouTube's own channel
+        _VISITOR["token"] = b.get("responseContext", {}).get("visitorData")
     return _VISITOR["token"]
 
 
 # ------------------------------------------------------------------- resolution
 def resolve_channel(url_or_handle):
-    """Resolve a channel URL / @handle / UC id to (channelId, channelTitle)."""
+    """Resolve a channel URL / @handle / UC id to (channelId, channelTitle).
+
+    Only YouTube hosts are accepted for full URLs (defense-in-depth: this keeps
+    the resolver from being pointed at arbitrary hosts)."""
     s = (url_or_handle or "").strip()
+    if not s:
+        raise ValueError("Please enter a channel URL, @handle, or channel id.")
+    if len(s) > 2048:
+        raise ValueError("Input is too long.")
     # direct UC id
     if s.startswith("UC") and len(s) >= 20 and "/" not in s and " " not in s:
         cid = s
     else:
-        if s.startswith("@"):
+        if s.startswith("http://") or s.startswith("https://"):
+            host = (urllib.parse.urlparse(s).hostname or "").lower()
+            if host not in ALLOWED_HOSTS:
+                raise ValueError("Please enter a YouTube channel URL, @handle, or UC… id.")
+        elif s.startswith("@"):
             s = "https://www.youtube.com/" + s
-        elif not s.startswith("http"):
+        else:
             # bare handle or name
             s = "https://www.youtube.com/@" + s.lstrip("/")
         if "/channel/" in s:
@@ -119,8 +147,11 @@ def resolve_channel(url_or_handle):
                 raise
             ep = r.get("endpoint", {})
             cid = ep.get("browseEndpoint", {}).get("browseId")
-            if not cid or not cid.startswith("UC"):
-                raise ValueError(f"Could not resolve a channel from: {url_or_handle!r}")
+    # A YouTube channel id is always "UC" + 22 chars. Reject anything else
+    # (e.g. a playlist or video URL that resolved to a non-channel browseId).
+    if not (cid and cid.startswith("UC") and len(cid) == 24):
+        raise ValueError(f"That doesn't look like a channel: {url_or_handle!r}. "
+                         "Enter a channel URL, @handle, or UC… id (not a video or playlist).")
     # fetch the channel header for a human title
     title = cid
     try:

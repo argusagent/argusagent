@@ -2,6 +2,12 @@ const $ = (id) => document.getElementById(id);
 let poll = null;
 let currentJob = null;
 
+// Optional access token (for token-gated deployments): read from ?token=… and
+// forward it on API calls + the download link.
+const TOKEN = new URLSearchParams(location.search).get("token") || "";
+const authHeaders = TOKEN ? { "X-Access-Token": TOKEN } : {};
+const withToken = (url) => (TOKEN ? url + (url.includes("?") ? "&" : "?") + "token=" + encodeURIComponent(TOKEN) : url);
+
 const form = $("form");
 const go = $("go");
 const btnLabel = go.querySelector(".btn-label");
@@ -33,7 +39,7 @@ form.addEventListener("submit", async (e) => {
   try {
     const res = await fetch("/api/scrape", {
       method: "POST",
-      headers: { "Content-Type": "application/json" },
+      headers: { "Content-Type": "application/json", ...authHeaders },
       body: JSON.stringify({ channel, max_videos: max ? Number(max) : null }),
     });
     const data = await res.json();
@@ -54,7 +60,7 @@ function startPolling(job) {
 async function tick(job) {
   let st;
   try {
-    const res = await fetch(`/api/status?job=${job}`);
+    const res = await fetch(withToken(`/api/status?job=${job}`), { headers: authHeaders });
     st = await res.json();
   } catch {
     return; // transient; keep polling
@@ -107,7 +113,7 @@ function finish(st) {
   $("done-sub").textContent =
     `${c.success || 0} transcripts captured · ${c.no_captions || 0} without captions · ` +
     `${s.chunks || 1} upload chunk(s) · ${range}`;
-  const url = `/api/download?job=${currentJob}`;
+  const url = withToken(`/api/download?job=${currentJob}`);
   $("download").href = url;
   // auto-download
   const a = document.createElement("a");

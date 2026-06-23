@@ -8,7 +8,7 @@ It scales the one-off Navellier Market Buzz archiving job into a reusable tool:
 paste any channel URL/@handle/`UC…` id → click **Scrape Video Transcripts** →
 watch a live progress bar → the finished `.zip` downloads automatically.
 
-## Run it
+## Run it locally
 
 No installs needed — pure Python standard library (Python 3.9+).
 
@@ -18,12 +18,55 @@ python3 server.py
 # then open http://127.0.0.1:8000
 ```
 
-Options:
+## Deploy
+
+The app is a single dependency-free process; any container or PaaS works.
+
+**Docker**
 
 ```bash
-PORT=9000 HOST=0.0.0.0 python3 server.py     # change bind address/port
-OUTPUT_DIR=/path/to/zips python3 server.py    # where finished zips are written
+cd app
+docker build -t transcript-scraper .
+docker run -p 8000:8000 -e ACCESS_TOKEN=choose-a-secret transcript-scraper
+# open http://localhost:8000/?token=choose-a-secret
 ```
+
+**PaaS (Render / Railway / Fly / Heroku-style)** — a `Procfile` (`web: python3 server.py`)
+is included. Set the start command to `python3 server.py`, bind via the platform's
+`$PORT`, and set `HOST=0.0.0.0` and the env vars below.
+
+> The remote container this was developed in is ephemeral, so a permanent public
+> URL has to be created on a hosting platform you control — the Docker image above
+> is the portable artifact for that.
+
+### Configuration (environment variables)
+
+| Var | Default | Purpose |
+|---|---|---|
+| `HOST` | `127.0.0.1` | Bind address. Use `0.0.0.0` in containers. |
+| `PORT` | `8000` | Port to listen on. |
+| `OUTPUT_DIR` | `app/output` | Where job folders + zips are written (ephemeral). |
+| `MAX_VIDEOS` | `2000` | Hard per-job cap (protects memory on huge channels). |
+| `MAX_CONCURRENT_JOBS` | `2` | Simultaneous scrapes; excess requests get HTTP 429. |
+| `JOB_TTL_SECONDS` | `1800` | Finished jobs + their zips are deleted after this. |
+| `WORKERS` | `6` | Per-job fetch concurrency. |
+| `ACCESS_TOKEN` | _(unset)_ | If set, `/api/*` requires it. The UI forwards `?token=…`. |
+
+### Security & safety
+
+- **Public exposure:** set `ACCESS_TOKEN` (and serve behind HTTPS) before binding to
+  `0.0.0.0`. Without a token the API is open to anyone who can reach the port.
+- **Input is validated:** only YouTube hosts/handles/`UC…` ids are accepted (the
+  resolver can't be pointed at arbitrary hosts), with length and value caps; the
+  request-body size is capped.
+- **Resource limits:** per-job video cap, concurrency cap, and TTL cleanup of jobs
+  and zips prevent unbounded memory/disk growth.
+- **No path traversal:** downloads are looked up by server-issued job id (never a
+  user path); static files are confined to `static/`; output filenames are sanitized.
+- **Headers:** every response sends a strict CSP, `nosniff`, `X-Frame-Options: DENY`,
+  and `no-referrer`. Internal errors are logged server-side and shown to users only
+  as a generic message (no stack traces or hostnames leaked).
+- **Runs as non-root** in the Docker image.
 
 ## What's in the downloaded zip
 
