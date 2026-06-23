@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>YouTube Transcript Scraper</title>
+  <link rel="stylesheet" href="/style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📂</text></svg>" />
+</head>
+<body>
+  <main class="card">
+    <header>
+      <div class="logo">▶</div>
+      <h1>Channel Transcript Scraper</h1>
+      <p class="sub">Paste a YouTube channel link. Get every video's transcript &amp; metadata
+        in one tidy, compressed package — ready to upload to a chat for analysis.</p>
+    </header>
+
+    <form id="form" autocomplete="off">
+      <label for="channel" class="field-label">YouTube channel</label>
+      <div class="input-row">
+        <input id="channel" name="channel" type="text" required
+               placeholder="https://www.youtube.com/@handle  ·  channel URL  ·  UC… id" />
+      </div>
+      <details class="adv">
+        <summary>Advanced</summary>
+        <label for="max">Limit (optional) — max number of videos to fetch</label>
+        <input id="max" name="max" type="number" min="1" placeholder="all videos" />
+      </details>
+      <button id="go" type="submit">
+        <span class="btn-label">Scrape Video Transcripts</span>
+        <span class="spinner" hidden></span>
+      </button>
+    </form>
+
+    <section id="progress" class="progress" hidden>
+      <div class="bar-track"><div id="bar" class="bar"></div></div>
+      <div class="status-row">
+        <span id="phase" class="phase">Starting…</span>
+        <span id="pct" class="pct">0%</span>
+      </div>
+      <p id="msg" class="msg"></p>
+      <div id="stats" class="stats" hidden></div>
+    </section>
+
+    <section id="done" class="done" hidden>
+      <div class="check">✓</div>
+      <h2 id="done-title">Package ready</h2>
+      <p id="done-sub" class="msg"></p>
+      <a id="download" class="download" href="#">Download .zip again</a>
+      <button id="again" class="ghost" type="button">Scrape another channel</button>
+    </section>
+
+    <section id="error" class="error" hidden>
+      <div class="x">!</div>
+      <p id="error-msg"></p>
+      <button id="retry" class="ghost" type="button">Try again</button>
+    </section>
+
+    <footer>
+      <span>Faithful captions only — nothing is fabricated. Videos without captions are marked.</span>
+    </footer>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>
