@@ -1,4 +1,5 @@
-import json, time, os, urllib.request, ssl, re
+import json, time, os, urllib.request, ssl, re, html
+import xml.etree.ElementTree as ET
 from innertube import post
 PROXY=os.environ.get("HTTPS_PROXY")
 _ctx=ssl.create_default_context(cafile="/root/.ccr/ca-bundle.crt")
@@ -39,6 +40,47 @@ def parse_json3(raw):
         lines.append((t,txt))
     return lines
 
+def parse_timedtext_xml(raw):
+    """Parse the timedtext 'format=3' XML (<p t=..><s>word</s>..) and the older
+    srv1 (<text start=..>..) layouts. Returns [(start_ms, text), ...]."""
+    root=ET.fromstring(raw)
+    lines=[]
+    # format=3: <body><p t=".." d=".."><s>..</s>..</p>
+    body=root.find("body")
+    ps = body.findall("p") if body is not None else []
+    for p in ps:
+        try: t=int(p.get("t","0"))
+        except ValueError: t=0
+        parts=[]
+        if p.text: parts.append(p.text)
+        for s in p:
+            if s.text: parts.append(s.text)
+            if s.tail: parts.append(s.tail)
+        txt="".join(parts).strip()
+        if txt: lines.append((t,txt))
+    if lines: return lines
+    # srv1: <transcript><text start="1.23" dur="..">..</text>
+    for tx in root.findall(".//text"):
+        try: t=int(float(tx.get("start","0"))*1000)
+        except ValueError: t=0
+        txt=html.unescape((tx.text or "").strip())
+        if txt: lines.append((t,txt))
+    return lines
+
+def parse_captions(raw):
+    """Try json3 first, then fall back to the XML timedtext formats."""
+    head=raw[:64].lstrip()
+    if head[:1] in (b"{", b"["):
+        try:
+            l=parse_json3(raw)
+            if l: return l
+        except Exception:
+            pass
+    try:
+        return parse_timedtext_xml(raw)
+    except Exception:
+        return []
+
 def main():
     meta=json.load(open("metadata.json"))
     results={}
@@ -58,16 +100,14 @@ def main():
                 results[vid]=rec; continue
             track=pick_track(ct)
             base=track["baseUrl"]
+            # Try json3 explicitly; the endpoint often still returns format=3 XML,
+            # which parse_captions handles. Fall back to the raw baseUrl response.
             url=base + ("&" if "?" in base else "?") + "fmt=json3"
             raw=http_get(url)
-            lines=parse_json3(raw)
+            lines=parse_captions(raw)
             if not lines:
-                # try without fmt (xml) fallback
                 raw2=http_get(base)
-                # parse xml
-                txts=re.findall(r"<text[^>]*>(.*?)</text>",raw2.decode("utf-8","replace"),re.S)
-                import html
-                lines=[(0,html.unescape(re.sub("<[^>]+>","",t)).strip()) for t in txts if t.strip()]
+                lines=parse_captions(raw2)
             rec["status"]="success" if lines else "empty"
             rec["lang"]=track.get("languageCode")
             rec["kind"]=track.get("kind","manual")
