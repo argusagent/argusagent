@@ -1,0 +1,50 @@
+<meta charset="utf-8">
+<style>
+  * { margin: 0; box-sizing: border-box; }
+  body { width: 1280px; height: 720px; overflow: hidden; font-family: "Segoe UI", -apple-system, Arial, sans-serif; }
+  .cover {
+    width: 1280px; height: 720px; padding: 80px 90px;
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 55%, #1e3a8a 100%);
+    color: #fff; display: flex; flex-direction: column; justify-content: space-between;
+    position: relative;
+  }
+  .grid {
+    position: absolute; inset: 0; opacity: 0.08;
+    background-image: linear-gradient(#93c5fd 1px, transparent 1px), linear-gradient(90deg, #93c5fd 1px, transparent 1px);
+    background-size: 48px 48px;
+  }
+  .kicker { font-size: 22px; letter-spacing: 6px; text-transform: uppercase; color: #60a5fa; font-weight: 700; }
+  h1 { font-size: 88px; line-height: 1.05; margin: 18px 0 24px; }
+  h1 .ts { color: #60a5fa; }
+  .sub { font-size: 30px; color: #cbd5e1; max-width: 700px; line-height: 1.4; }
+  .badges { display: flex; gap: 16px; margin-top: 36px; }
+  .badge { border: 2px solid #3b82f6; color: #93c5fd; border-radius: 999px; padding: 10px 26px; font-size: 22px; font-weight: 600; }
+  .foot { display: flex; justify-content: space-between; align-items: center; font-size: 24px; color: #94a3b8; position: relative; }
+  .code {
+    position: absolute; right: 90px; top: 96px; width: 330px;
+    background: rgba(2, 6, 23, 0.75); border: 1px solid #334155; border-radius: 14px;
+    padding: 26px 28px; font-family: Consolas, Menlo, monospace; font-size: 21px; line-height: 1.6;
+    color: #e2e8f0;
+  }
+  .k { color: #93c5fd; } .t { color: #6ee7b7; } .s { color: #fcd34d; } .cm { color: #64748b; }
+</style>
+<div class="cover">
+  <div class="grid"></div>
+  <div>
+    <div class="kicker">A field guide for working developers</div>
+    <h1>Practical<br><span class="ts">TypeScript</span></h1>
+    <div class="sub">Utility types, narrowing, generics &amp; real-world patterns — every page is something you'll paste into a project.</div>
+    <div class="badges">
+      <div class="badge">23 pages</div>
+      <div class="badge">50+ snippets</div>
+      <div class="badge">TS 5.x · strict</div>
+    </div>
+  </div>
+  <div class="code">
+<span class="cm">// make bugs impossible</span><br>
+<span class="k">type</span> <span class="t">State</span> =<br>
+&nbsp;&nbsp;| { s: <span class="s">"ok"</span>; data: <span class="t">User</span>[] }<br>
+&nbsp;&nbsp;| { s: <span class="s">"err"</span>; error: <span class="t">string</span> };
+  </div>
+  <div class="foot"><span>by argusagent</span><span>github.com/argusagent</span></div>
+</div>

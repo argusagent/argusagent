@@ -1,0 +1,48 @@
+<meta charset="utf-8">
+<style>
+  * { margin: 0; box-sizing: border-box; }
+  body { width: 1280px; height: 720px; overflow: hidden; font-family: "Segoe UI", -apple-system, Arial, sans-serif; }
+  .cover {
+    width: 1280px; height: 720px; padding: 80px 90px;
+    background: linear-gradient(135deg, #1c0a0a 0%, #2d1215 55%, #7f1d1d 100%);
+    color: #fff; display: flex; flex-direction: column; justify-content: space-between; position: relative;
+  }
+  .grid {
+    position: absolute; inset: 0; opacity: 0.07;
+    background-image: linear-gradient(#fca5a5 1px, transparent 1px), linear-gradient(90deg, #fca5a5 1px, transparent 1px);
+    background-size: 48px 48px;
+  }
+  .kicker { font-size: 22px; letter-spacing: 6px; text-transform: uppercase; color: #f87171; font-weight: 700; }
+  h1 { font-size: 92px; line-height: 1.06; margin: 18px 0 24px; }
+  h1 em { font-style: normal; color: #f87171; }
+  .sub { font-size: 30px; color: #e7d8d8; max-width: 800px; line-height: 1.4; }
+  .badges { display: flex; gap: 16px; margin-top: 36px; }
+  .badge { border: 2px solid #ef4444; color: #fca5a5; border-radius: 999px; padding: 10px 26px; font-size: 22px; font-weight: 600; }
+  .free { background: #ef4444; color: #fff; border-color: #ef4444; }
+  .foot { display: flex; justify-content: space-between; align-items: center; font-size: 24px; color: #b89b9b; position: relative; }
+  .code {
+    position: absolute; right: 90px; top: 110px; width: 330px;
+    background: rgba(12, 3, 3, 0.8); border: 1px solid #57302f; border-radius: 14px;
+    padding: 26px 28px; font-family: Consolas, Menlo, monospace; font-size: 21px; line-height: 1.65; color: #fecaca;
+  }
+  .cm { color: #8b6b6b; }
+</style>
+<div class="cover">
+  <div class="grid"></div>
+  <div>
+    <div class="kicker">Keep calm and reflog</div>
+    <h1>🚨 The Git<br><em>Rescue Kit</em></h1>
+    <div class="sub">14 ways out of any git mess — wrong branch, lost commits, leaked secrets — ranked by panic level.</div>
+    <div class="badges">
+      <div class="badge free">Pay what you want</div>
+      <div class="badge">2-page PDF</div>
+      <div class="badge">Print &amp; pin it</div>
+    </div>
+  </div>
+  <div class="code">
+<span class="cm"># it's never truly lost</span><br>
+git reflog<br>
+git branch rescued SHA
+  </div>
+  <div class="foot"><span>by argusagent</span><span>github.com/argusagent</span></div>
+</div>

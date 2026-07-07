@@ -1,0 +1,614 @@
+<meta charset="utf-8">
+<title>Practical TypeScript — The Utility Types & Patterns Field Guide</title>
+<style>
+  :root {
+    --ink: #1a2333;
+    --muted: #5b6779;
+    --accent: #2563eb;
+    --accent-dark: #1e40af;
+    --code-bg: #0f172a;
+    --code-ink: #e2e8f0;
+    --rule: #dbe2ec;
+    --tip-bg: #eff6ff;
+    --warn-bg: #fef3c7;
+  }
+  * { box-sizing: border-box; }
+  @page { size: letter; margin: 0.85in 0.9in; }
+  body {
+    font-family: "Segoe UI", -apple-system, "Helvetica Neue", Arial, sans-serif;
+    color: var(--ink); font-size: 10.5pt; line-height: 1.55; margin: 0;
+  }
+  h1, h2, h3 { line-height: 1.25; }
+  h1 { font-size: 21pt; margin: 0 0 4pt; }
+  h2 {
+    font-size: 15pt; color: var(--accent-dark); margin: 22pt 0 8pt;
+    padding-bottom: 4pt; border-bottom: 2px solid var(--rule);
+    page-break-after: avoid;
+  }
+  h3 { font-size: 11.5pt; margin: 14pt 0 5pt; page-break-after: avoid; }
+  p { margin: 6pt 0; }
+  .chapter { page-break-before: always; }
+  .kicker {
+    font-size: 8.5pt; letter-spacing: 2.5px; text-transform: uppercase;
+    color: var(--accent); font-weight: 700; margin: 0 0 3pt;
+  }
+  pre {
+    background: var(--code-bg); color: var(--code-ink);
+    border-radius: 6px; padding: 9pt 11pt; font-size: 8.9pt; line-height: 1.5;
+    font-family: "SF Mono", "Cascadia Code", Consolas, Menlo, monospace;
+    white-space: pre-wrap; page-break-inside: avoid; margin: 7pt 0;
+  }
+  code {
+    font-family: "SF Mono", "Cascadia Code", Consolas, Menlo, monospace;
+    font-size: 9pt; background: #eef2f8; border-radius: 3px; padding: 0.5pt 3.5pt;
+  }
+  pre code { background: none; padding: 0; font-size: inherit; }
+  .k { color: #93c5fd; }          /* keyword */
+  .t { color: #6ee7b7; }          /* type */
+  .s { color: #fcd34d; }          /* string */
+  .c { color: #7c8aa5; font-style: italic; } /* comment */
+  .tip, .warn {
+    border-radius: 6px; padding: 8pt 11pt; margin: 8pt 0; page-break-inside: avoid;
+  }
+  .tip  { background: var(--tip-bg);  border-left: 3px solid var(--accent); }
+  .warn { background: var(--warn-bg); border-left: 3px solid #d97706; }
+  .tip strong, .warn strong { display: block; font-size: 8.5pt; letter-spacing: 1.5px; text-transform: uppercase; margin-bottom: 2pt; }
+  table { border-collapse: collapse; width: 100%; margin: 8pt 0; font-size: 9.5pt; page-break-inside: avoid; }
+  th { text-align: left; background: #f1f5fb; color: var(--accent-dark); }
+  th, td { border: 1px solid var(--rule); padding: 4.5pt 7pt; vertical-align: top; }
+  td code { white-space: nowrap; }
+  ul, ol { margin: 6pt 0; padding-left: 18pt; }
+  li { margin: 3pt 0; }
+
+  /* Cover */
+  .cover {
+    height: 9.1in; display: flex; flex-direction: column; justify-content: center;
+    page-break-after: always;
+  }
+  .cover .band { width: 64px; height: 8px; background: var(--accent); border-radius: 4px; margin-bottom: 22pt; }
+  .cover h1 { font-size: 34pt; margin: 0 0 10pt; }
+  .cover .sub { font-size: 13.5pt; color: var(--muted); max-width: 5.4in; }
+  .cover .meta { margin-top: 40pt; font-size: 10pt; color: var(--muted); }
+  .toc { page-break-after: always; }
+  .toc ol { font-size: 11pt; line-height: 2; }
+</style>
+
+<div class="cover">
+  <div class="band"></div>
+  <p class="kicker">A field guide for working developers</p>
+  <h1>Practical TypeScript</h1>
+  <p class="sub">Utility types, narrowing, generics, and the real-world patterns that make TypeScript work <em>for</em> you instead of against you. No theory marathons — every page is something you'll paste into a project.</p>
+  <p class="meta">First edition · by argusagent · TypeScript 5.x</p>
+</div>
+
+<div class="toc">
+  <p class="kicker">Contents</p>
+  <h1>What's inside</h1>
+  <ol>
+    <li>How to read this guide</li>
+    <li>The built-in utility types, with real jobs to do</li>
+    <li>Narrowing: make the compiler do your defensive coding</li>
+    <li>Discriminated unions &amp; exhaustive checks</li>
+    <li><code>as const</code>, <code>satisfies</code>, and keeping literals literal</li>
+    <li>Mapped types you'll actually write</li>
+    <li>Conditional types and <code>infer</code>, demystified</li>
+    <li>Generics that pull their weight</li>
+    <li>Recipes: branded types, DeepPartial, typed events, and more</li>
+    <li>The tsconfig flags that matter</li>
+    <li>Decoding TypeScript's five scariest errors</li>
+    <li>The one-page cheatsheet</li>
+  </ol>
+</div>
+
+<section>
+  <p class="kicker">Chapter 1</p>
+  <h1>How to read this guide</h1>
+  <p>This guide assumes you already write TypeScript day to day. You know what an interface is; you've written a generic function; you've also probably typed <code>as any</code> at 6pm on a Friday and felt bad about it. The goal here is to close the gap between "I use TypeScript" and "TypeScript catches my bugs before I run the code."</p>
+  <p>Three rules shape everything that follows:</p>
+  <ul>
+    <li><strong>Types should describe reality, not aspiration.</strong> If a field can be missing at runtime, its type says so. Lying to the compiler with <code>!</code> and <code>as</code> converts compile-time errors into production incidents.</li>
+    <li><strong>Derive, don't duplicate.</strong> Every time you write the same shape twice, one of them will rot. Utility types exist so a single source of truth can produce every variant you need.</li>
+    <li><strong>Prefer boring types.</strong> A clever 4-level conditional type nobody on the team can read is worse than two plain interfaces. Reach for the advanced tools when they delete duplication, not to show off.</li>
+  </ul>
+  <p>Snippets are TypeScript 5.x with <code>strict: true</code>. Everything compiles as shown.</p>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 2</p>
+  <h1>The built-in utility types, with real jobs to do</h1>
+  <p>TypeScript ships with a toolbox of utility types. Most tutorials list them alphabetically; this chapter organizes them by the job you're trying to get done.</p>
+
+  <h2>Job 1: "I need a looser version of this type"</h2>
+  <h3>Partial&lt;T&gt; — everything optional</h3>
+  <pre><code><span class="k">interface</span> <span class="t">User</span> {
+  id: <span class="t">string</span>;
+  name: <span class="t">string</span>;
+  email: <span class="t">string</span>;
+}
+
+<span class="c">// The classic use: update functions.</span>
+<span class="c">// Callers pass only the fields they're changing.</span>
+<span class="k">function</span> updateUser(id: <span class="t">string</span>, patch: <span class="t">Partial</span>&lt;<span class="t">User</span>&gt;) {
+  <span class="c">// patch.name is string | undefined here</span>
+}
+
+updateUser(<span class="s">"u_1"</span>, { email: <span class="s">"new@site.com"</span> }); <span class="c">// ✅</span>
+updateUser(<span class="s">"u_1"</span>, { emial: <span class="s">"typo@site.com"</span> }); <span class="c">// ❌ compile error</span></code></pre>
+  <div class="warn"><strong>Watch out</strong><code>Partial</code> is shallow. <code>Partial&lt;Config&gt;</code> makes <code>config.server</code> optional, but if present, <code>config.server</code> must still be complete. For nested patches, see the <code>DeepPartial</code> recipe in Chapter 9.</div>
+
+  <h3>Omit&lt;T, K&gt; and Pick&lt;T, K&gt; — subsets with intent</h3>
+  <pre><code><span class="c">// The database row is the source of truth…</span>
+<span class="k">interface</span> <span class="t">UserRow</span> {
+  id: <span class="t">string</span>;
+  name: <span class="t">string</span>;
+  email: <span class="t">string</span>;
+  passwordHash: <span class="t">string</span>;
+  createdAt: <span class="t">Date</span>;
+}
+
+<span class="c">// …and every variant is derived, never re-typed:</span>
+<span class="k">type</span> <span class="t">PublicUser</span> = <span class="t">Omit</span>&lt;<span class="t">UserRow</span>, <span class="s">"passwordHash"</span>&gt;;
+<span class="k">type</span> <span class="t">NewUser</span>    = <span class="t">Omit</span>&lt;<span class="t">UserRow</span>, <span class="s">"id"</span> | <span class="s">"createdAt"</span>&gt;;
+<span class="k">type</span> <span class="t">UserRef</span>    = <span class="t">Pick</span>&lt;<span class="t">UserRow</span>, <span class="s">"id"</span> | <span class="s">"name"</span>&gt;;</code></pre>
+  <p>Rule of thumb: <code>Pick</code> when you want a few fields, <code>Omit</code> when you want to exclude a few. If you find yourself listing more than half the keys, switch to the other one.</p>
+  <div class="warn"><strong>Watch out</strong><code>Omit</code> does not error on misspelled keys — <code>Omit&lt;UserRow, "passwordHsh"&gt;</code> silently omits nothing. When the key must exist, write <code>Omit&lt;UserRow, keyof UserRow &amp; "passwordHash"&gt;</code>, or better, define <code>type StrictOmit&lt;T, K extends keyof T&gt; = Omit&lt;T, K&gt;</code> once and use it everywhere.</div>
+
+  <h3>Required&lt;T&gt; and Readonly&lt;T&gt;</h3>
+  <pre><code><span class="k">interface</span> <span class="t">Options</span> { retries?: <span class="t">number</span>; timeoutMs?: <span class="t">number</span>; }
+
+<span class="k">const</span> DEFAULTS: <span class="t">Required</span>&lt;<span class="t">Options</span>&gt; = { retries: 3, timeoutMs: 5000 };
+
+<span class="k">function</span> init(opts: <span class="t">Options</span>) {
+  <span class="c">// Merge user options over defaults → fully resolved config</span>
+  <span class="k">const</span> config: <span class="t">Required</span>&lt;<span class="t">Options</span>&gt; = { ...DEFAULTS, ...opts };
+}</code></pre>
+  <p><code>Readonly&lt;T&gt;</code> shines for values that must never be mutated after creation — reducer state, config loaded at boot, cached lookups. It's shallow too; for deep immutability, freeze at runtime and type with the <code>DeepReadonly</code> recipe (Chapter 9).</p>
+
+  <h2>Job 2: "I need a keyed collection"</h2>
+  <h3>Record&lt;K, V&gt;</h3>
+  <pre><code><span class="k">type</span> <span class="t">Env</span> = <span class="s">"dev"</span> | <span class="s">"staging"</span> | <span class="s">"prod"</span>;
+
+<span class="c">// The compiler now REQUIRES an entry for every Env.</span>
+<span class="c">// Add "qa" to Env and this line errors until you handle it.</span>
+<span class="k">const</span> apiUrl: <span class="t">Record</span>&lt;<span class="t">Env</span>, <span class="t">string</span>&gt; = {
+  dev:     <span class="s">"http://localhost:3000"</span>,
+  staging: <span class="s">"https://staging.api.example.com"</span>,
+  prod:    <span class="s">"https://api.example.com"</span>,
+};</code></pre>
+  <div class="tip"><strong>Pro move</strong>A <code>Record</code> keyed by a union is an exhaustiveness check in disguise. It turns "someone forgot to add the new enum case to this lookup table" from a runtime bug into a compile error. Prefer it over <code>switch</code> for pure value lookups.</div>
+  <p>For open-ended keys, <code>Record&lt;string, V&gt;</code> works but every read returns <code>V</code> even for missing keys. With <code>noUncheckedIndexedAccess</code> (Chapter 10) reads correctly become <code>V | undefined</code> — turn it on.</p>
+
+  <h2>Job 3: "I need to slice a union"</h2>
+  <h3>Extract and Exclude</h3>
+  <pre><code><span class="k">type</span> <span class="t">Event</span> =
+  | { type: <span class="s">"click"</span>; x: <span class="t">number</span>; y: <span class="t">number</span> }
+  | { type: <span class="s">"keypress"</span>; key: <span class="t">string</span> }
+  | { type: <span class="s">"scroll"</span>; delta: <span class="t">number</span> };
+
+<span class="c">// Pull one member out of the union by its discriminant:</span>
+<span class="k">type</span> <span class="t">ClickEvent</span> = <span class="t">Extract</span>&lt;<span class="t">Event</span>, { type: <span class="s">"click"</span> }&gt;;
+
+<span class="c">// Everything except one member:</span>
+<span class="k">type</span> <span class="t">NonScroll</span> = <span class="t">Exclude</span>&lt;<span class="t">Event</span>, { type: <span class="s">"scroll"</span> }&gt;;
+
+<span class="c">// Also great on plain string unions:</span>
+<span class="k">type</span> <span class="t">Method</span> = <span class="s">"GET"</span> | <span class="s">"POST"</span> | <span class="s">"PUT"</span> | <span class="s">"DELETE"</span>;
+<span class="k">type</span> <span class="t">SafeMethod</span> = <span class="t">Extract</span>&lt;<span class="t">Method</span>, <span class="s">"GET"</span>&gt;;</code></pre>
+  <h3>NonNullable&lt;T&gt;</h3>
+  <pre><code><span class="k">type</span> <span class="t">MaybeUser</span> = <span class="t">User</span> | <span class="t">null</span> | <span class="t">undefined</span>;
+<span class="k">type</span> <span class="t">DefinitelyUser</span> = <span class="t">NonNullable</span>&lt;<span class="t">MaybeUser</span>&gt;; <span class="c">// User</span></code></pre>
+
+  <h2>Job 4: "I need types from a function I don't control"</h2>
+  <pre><code><span class="c">// Some library function without exported result types:</span>
+<span class="k">declare function</span> loadDashboard(userId: <span class="t">string</span>, days: <span class="t">number</span>):
+  <span class="t">Promise</span>&lt;{ charts: <span class="t">unknown</span>[]; generatedAt: <span class="t">Date</span> }&gt;;
+
+<span class="k">type</span> <span class="t">DashboardArgs</span>   = <span class="t">Parameters</span>&lt;<span class="k">typeof</span> loadDashboard&gt;;   <span class="c">// [string, number]</span>
+<span class="k">type</span> <span class="t">DashboardResult</span> = <span class="t">Awaited</span>&lt;<span class="t">ReturnType</span>&lt;<span class="k">typeof</span> loadDashboard&gt;&gt;;
+<span class="c">// { charts: unknown[]; generatedAt: Date }</span></code></pre>
+  <p>The <code>Awaited&lt;ReturnType&lt;typeof fn&gt;&gt;</code> combo is one of the highest-value lines in this guide: it lets you name the result type of any async function — yours or a dependency's — without duplicating its shape. When the function changes, your derived type follows automatically.</p>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 3</p>
+  <h1>Narrowing: make the compiler do your defensive coding</h1>
+  <p>Narrowing is how a broad type (<code>string | null</code>, <code>unknown</code>, a union) becomes a specific one inside a code path. Master it and you almost never need <code>as</code>.</p>
+
+  <h2>The built-in narrowers</h2>
+  <pre><code><span class="k">function</span> describe(value: <span class="t">string</span> | <span class="t">number</span> | <span class="t">Date</span> | <span class="t">null</span>) {
+  <span class="k">if</span> (value === <span class="k">null</span>) <span class="k">return</span> <span class="s">"nothing"</span>;          <span class="c">// equality narrowing</span>
+  <span class="k">if</span> (<span class="k">typeof</span> value === <span class="s">"string"</span>) <span class="k">return</span> value.toUpperCase();
+  <span class="k">if</span> (value <span class="k">instanceof</span> <span class="t">Date</span>) <span class="k">return</span> value.toISOString();
+  <span class="k">return</span> value.toFixed(2);                       <span class="c">// only number remains</span>
+}</code></pre>
+  <p>The <code>in</code> operator narrows by structure — handy when there's no shared discriminant field:</p>
+  <pre><code><span class="k">type</span> <span class="t">Cat</span> = { meow: () =&gt; <span class="t">void</span> };
+<span class="k">type</span> <span class="t">Dog</span> = { bark: () =&gt; <span class="t">void</span> };
+
+<span class="k">function</span> speak(pet: <span class="t">Cat</span> | <span class="t">Dog</span>) {
+  <span class="k">if</span> (<span class="s">"meow"</span> <span class="k">in</span> pet) pet.meow(); <span class="k">else</span> pet.bark();
+}</code></pre>
+
+  <h2>Custom type guards: teach the compiler your rules</h2>
+  <pre><code><span class="k">interface</span> <span class="t">ApiError</span> { code: <span class="t">string</span>; message: <span class="t">string</span>; }
+
+<span class="k">function</span> isApiError(value: <span class="t">unknown</span>): value <span class="k">is</span> <span class="t">ApiError</span> {
+  <span class="k">return</span> (
+    <span class="k">typeof</span> value === <span class="s">"object"</span> &amp;&amp; value !== <span class="k">null</span> &amp;&amp;
+    <span class="s">"code"</span> <span class="k">in</span> value &amp;&amp; <span class="s">"message"</span> <span class="k">in</span> value &amp;&amp;
+    <span class="k">typeof</span> (value <span class="k">as</span> <span class="t">ApiError</span>).code === <span class="s">"string"</span>
+  );
+}
+
+<span class="k">try</span> {
+  <span class="k">await</span> saveOrder(order);
+} <span class="k">catch</span> (err) {              <span class="c">// err is unknown — good!</span>
+  <span class="k">if</span> (isApiError(err)) {
+    logger.warn(err.code);   <span class="c">// fully typed access</span>
+  } <span class="k">else</span> {
+    <span class="k">throw</span> err;               <span class="c">// don't swallow surprises</span>
+  }
+}</code></pre>
+  <div class="warn"><strong>Watch out</strong>A type guard is a promise you make to the compiler. If <code>isApiError</code> returns <code>true</code> for something that isn't an <code>ApiError</code>, every downstream type is wrong and TypeScript can't save you. Keep guards honest: actually check the fields you claim.</div>
+
+  <h2>Narrowing assignment: the "parse, don't validate" pattern</h2>
+  <p>The most robust codebases narrow <em>at the boundary</em> — where JSON, env vars, or user input enter — and use precise types everywhere inside:</p>
+  <pre><code><span class="k">function</span> parseUser(data: <span class="t">unknown</span>): <span class="t">User</span> {
+  <span class="k">if</span> (!isUser(data)) <span class="k">throw new</span> <span class="t">Error</span>(<span class="s">"Malformed user payload"</span>);
+  <span class="k">return</span> data;   <span class="c">// from here on, it's a real User everywhere</span>
+}</code></pre>
+  <p>Everything downstream of <code>parseUser</code> gets full type safety for free, and there is exactly one place to look when payloads go wrong. Libraries like Zod industrialize this pattern; the principle works with hand-written guards too.</p>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 4</p>
+  <h1>Discriminated unions &amp; exhaustive checks</h1>
+  <p>If you take one modeling technique from this guide, take this one. A discriminated union is a union of object types that share one literal-typed field (the <em>discriminant</em>). It's how you make illegal states unrepresentable.</p>
+
+  <h2>Before and after</h2>
+  <pre><code><span class="c">// ❌ The "bag of optionals" — allows impossible states:</span>
+<span class="c">//    loading && data? error && data? all three at once?</span>
+<span class="k">interface</span> <span class="t">FetchState</span> {
+  loading: <span class="t">boolean</span>;
+  data?: <span class="t">User</span>[];
+  error?: <span class="t">string</span>;
+}
+
+<span class="c">// ✅ Exactly one state at a time, each with exactly its own data:</span>
+<span class="k">type</span> <span class="t">FetchState</span> =
+  | { status: <span class="s">"idle"</span> }
+  | { status: <span class="s">"loading"</span> }
+  | { status: <span class="s">"success"</span>; data: <span class="t">User</span>[] }
+  | { status: <span class="s">"error"</span>; error: <span class="t">string</span> };</code></pre>
+  <pre><code><span class="k">function</span> render(state: <span class="t">FetchState</span>) {
+  <span class="k">switch</span> (state.status) {
+    <span class="k">case</span> <span class="s">"idle"</span>:    <span class="k">return</span> <span class="s">"Ready."</span>;
+    <span class="k">case</span> <span class="s">"loading"</span>: <span class="k">return</span> <span class="s">"Spinner…"</span>;
+    <span class="k">case</span> <span class="s">"success"</span>: <span class="k">return</span> state.data.length + <span class="s">" users"</span>; <span class="c">// data exists here — no ?. needed</span>
+    <span class="k">case</span> <span class="s">"error"</span>:   <span class="k">return</span> state.error;                   <span class="c">// error exists here</span>
+  }
+}</code></pre>
+
+  <h2>The exhaustiveness trick</h2>
+  <p>Add a <code>never</code>-typed default and the compiler will flag every <code>switch</code> in the codebase the moment someone adds a union member:</p>
+  <pre><code><span class="k">function</span> assertNever(x: <span class="t">never</span>): <span class="t">never</span> {
+  <span class="k">throw new</span> <span class="t">Error</span>(<span class="s">"Unhandled case: "</span> + <span class="t">JSON</span>.stringify(x));
+}
+
+<span class="k">function</span> label(state: <span class="t">FetchState</span>): <span class="t">string</span> {
+  <span class="k">switch</span> (state.status) {
+    <span class="k">case</span> <span class="s">"idle"</span>:    <span class="k">return</span> <span class="s">"Idle"</span>;
+    <span class="k">case</span> <span class="s">"loading"</span>: <span class="k">return</span> <span class="s">"Loading"</span>;
+    <span class="k">case</span> <span class="s">"success"</span>: <span class="k">return</span> <span class="s">"Done"</span>;
+    <span class="k">case</span> <span class="s">"error"</span>:   <span class="k">return</span> <span class="s">"Failed"</span>;
+    <span class="k">default</span>:        <span class="k">return</span> assertNever(state);
+    <span class="c">// Add { status: "cancelled" } to FetchState and THIS LINE</span>
+    <span class="c">// becomes a compile error in every switch that forgot it.</span>
+  }
+}</code></pre>
+  <div class="tip"><strong>Pro move</strong>Discriminated unions are the correct type for: API responses (<code>ok</code>/<code>err</code>), redux-style actions, state machines, form steps, websocket messages, and permission results. Anywhere you're tempted to write two optional fields that are "never both set," reach for one instead.</div>
+
+  <h2>Result types: errors without exceptions</h2>
+  <pre><code><span class="k">type</span> <span class="t">Result</span>&lt;<span class="t">T</span>, <span class="t">E</span> = <span class="t">Error</span>&gt; =
+  | { ok: <span class="k">true</span>;  value: <span class="t">T</span> }
+  | { ok: <span class="k">false</span>; error: <span class="t">E</span> };
+
+<span class="k">async function</span> fetchUser(id: <span class="t">string</span>): <span class="t">Promise</span>&lt;<span class="t">Result</span>&lt;<span class="t">User</span>, <span class="s">"not_found"</span> | <span class="s">"network"</span>&gt;&gt; {
+  <span class="k">try</span> {
+    <span class="k">const</span> res = <span class="k">await</span> fetch(<span class="s">`/api/users/${id}`</span>);
+    <span class="k">if</span> (res.status === 404) <span class="k">return</span> { ok: <span class="k">false</span>, error: <span class="s">"not_found"</span> };
+    <span class="k">return</span> { ok: <span class="k">true</span>, value: <span class="k">await</span> res.json() };
+  } <span class="k">catch</span> {
+    <span class="k">return</span> { ok: <span class="k">false</span>, error: <span class="s">"network"</span> };
+  }
+}
+
+<span class="k">const</span> result = <span class="k">await</span> fetchUser(<span class="s">"u_1"</span>);
+<span class="k">if</span> (result.ok) console.log(result.value.name);
+<span class="k">else if</span> (result.error === <span class="s">"not_found"</span>) show404();</code></pre>
+  <p>Unlike thrown exceptions, the failure modes are <em>in the signature</em>. Callers can't forget the 404 case — the compiler won't let them touch <code>value</code> without checking <code>ok</code> first.</p>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 5</p>
+  <h1><code>as const</code>, <code>satisfies</code>, and keeping literals literal</h1>
+
+  <h2>The widening problem</h2>
+  <pre><code><span class="k">const</span> config = { env: <span class="s">"prod"</span>, retries: 3 };
+<span class="c">// type: { env: string; retries: number } — "prod" got widened to string</span>
+
+<span class="k">const</span> config2 = { env: <span class="s">"prod"</span>, retries: 3 } <span class="k">as const</span>;
+<span class="c">// type: { readonly env: "prod"; readonly retries: 3 } — exact</span></code></pre>
+  <p><code>as const</code> also turns arrays into readonly tuples, which unlocks deriving union types from data:</p>
+  <pre><code><span class="k">const</span> ROLES = [<span class="s">"admin"</span>, <span class="s">"editor"</span>, <span class="s">"viewer"</span>] <span class="k">as const</span>;
+<span class="k">type</span> <span class="t">Role</span> = (<span class="k">typeof</span> ROLES)[<span class="t">number</span>]; <span class="c">// "admin" | "editor" | "viewer"</span>
+
+<span class="c">// ONE list drives the runtime check AND the type:</span>
+<span class="k">function</span> isRole(s: <span class="t">string</span>): s <span class="k">is</span> <span class="t">Role</span> {
+  <span class="k">return</span> (ROLES <span class="k">as</span> <span class="t">readonly string</span>[]).includes(s);
+}</code></pre>
+
+  <h2><code>satisfies</code>: validate without widening</h2>
+  <p>Before <code>satisfies</code>, you had to choose: annotate (get checking, lose literal types) or don't (keep literals, lose checking). Now you get both:</p>
+  <pre><code><span class="k">type</span> <span class="t">RouteDef</span> = { path: <span class="t">string</span>; auth: <span class="t">boolean</span> };
+
+<span class="k">const</span> routes = {
+  home:     { path: <span class="s">"/"</span>,          auth: <span class="k">false</span> },
+  settings: { path: <span class="s">"/settings"</span>, auth: <span class="k">true</span>  },
+} <span class="k">satisfies</span> <span class="t">Record</span>&lt;<span class="t">string</span>, <span class="t">RouteDef</span>&gt;;
+
+routes.settings.auth;  <span class="c">// ✅ still knows the exact keys — autocomplete works</span>
+routes.setings;        <span class="c">// ❌ compile error (with annotation, this would pass!)</span>
+
+<span class="k">const</span> bad = {
+  home: { path: <span class="s">"/"</span>, auth: <span class="s">"yes"</span> },  <span class="c">// ❌ caught: string is not boolean</span>
+} <span class="k">satisfies</span> <span class="t">Record</span>&lt;<span class="t">string</span>, <span class="t">RouteDef</span>&gt;;</code></pre>
+  <div class="tip"><strong>Pro move</strong>Default to <code>satisfies</code> for config objects, lookup tables, and theme definitions. Use a plain annotation only when you deliberately want the wider type (e.g., a variable that will be reassigned).</div>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 6</p>
+  <h1>Mapped types you'll actually write</h1>
+  <p>A mapped type loops over the keys of another type and produces a new one. <code>Partial</code>, <code>Required</code>, <code>Readonly</code>, and <code>Record</code> are all mapped types under the hood — here's how to write your own when the built-ins run out.</p>
+
+  <h2>The anatomy</h2>
+  <pre><code><span class="k">type</span> <span class="t">Nullable</span>&lt;<span class="t">T</span>&gt; = {
+  [<span class="t">K</span> <span class="k">in keyof</span> <span class="t">T</span>]: <span class="t">T</span>[<span class="t">K</span>] | <span class="t">null</span>;
+};
+<span class="c">// Nullable&lt;{ a: string; b: number }&gt; → { a: string | null; b: number | null }</span></code></pre>
+  <p>Modifiers <code>?</code> and <code>readonly</code> can be added or stripped with <code>+</code>/<code>-</code>:</p>
+  <pre><code><span class="k">type</span> <span class="t">Mutable</span>&lt;<span class="t">T</span>&gt;  = { -<span class="k">readonly</span> [<span class="t">K</span> <span class="k">in keyof</span> <span class="t">T</span>]: <span class="t">T</span>[<span class="t">K</span>] };
+<span class="k">type</span> <span class="t">Concrete</span>&lt;<span class="t">T</span>&gt; = { [<span class="t">K</span> <span class="k">in keyof</span> <span class="t">T</span>]-?: <span class="t">T</span>[<span class="t">K</span>] };  <span class="c">// strip optionality</span></code></pre>
+
+  <h2>Key remapping with <code>as</code></h2>
+  <pre><code><span class="c">// Generate getter names from a model:</span>
+<span class="k">type</span> <span class="t">Getters</span>&lt;<span class="t">T</span>&gt; = {
+  [<span class="t">K</span> <span class="k">in keyof</span> <span class="t">T</span> <span class="k">as</span> <span class="s">`get${Capitalize&lt;string &amp; K&gt;}`</span>]: () =&gt; <span class="t">T</span>[<span class="t">K</span>];
+};
+
+<span class="k">type</span> <span class="t">UserGetters</span> = <span class="t">Getters</span>&lt;<span class="t">User</span>&gt;;
+<span class="c">// { getId: () =&gt; string; getName: () =&gt; string; getEmail: () =&gt; string }</span></code></pre>
+  <p>Remapping to <code>never</code> filters keys — this is how you build "PickByValue":</p>
+  <pre><code><span class="c">// Keep only the keys whose values match V:</span>
+<span class="k">type</span> <span class="t">PickByValue</span>&lt;<span class="t">T</span>, <span class="t">V</span>&gt; = {
+  [<span class="t">K</span> <span class="k">in keyof</span> <span class="t">T</span> <span class="k">as</span> <span class="t">T</span>[<span class="t">K</span>] <span class="k">extends</span> <span class="t">V</span> ? <span class="t">K</span> : <span class="t">never</span>]: <span class="t">T</span>[<span class="t">K</span>];
+};
+
+<span class="k">interface</span> <span class="t">Form</span> { name: <span class="t">string</span>; age: <span class="t">number</span>; agreed: <span class="t">boolean</span>; note: <span class="t">string</span>; }
+<span class="k">type</span> <span class="t">StringFields</span> = <span class="t">PickByValue</span>&lt;<span class="t">Form</span>, <span class="t">string</span>&gt;; <span class="c">// { name: string; note: string }</span></code></pre>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 7</p>
+  <h1>Conditional types and <code>infer</code>, demystified</h1>
+  <p>A conditional type is an if-expression for types: <code>A extends B ? X : Y</code>. Combined with <code>infer</code> — which lets you capture part of a type into a variable — it powers most of the standard library's magic.</p>
+
+  <h2>Reading <code>infer</code> without fear</h2>
+  <pre><code><span class="c">// "If T looks like a function, capture its return type as R and give me R."</span>
+<span class="k">type</span> <span class="t">MyReturnType</span>&lt;<span class="t">T</span>&gt; =
+  <span class="t">T</span> <span class="k">extends</span> (...args: <span class="t">any</span>[]) =&gt; <span class="k">infer</span> <span class="t">R</span> ? <span class="t">R</span> : <span class="t">never</span>;
+
+<span class="c">// "If T is an array, give me the element type."</span>
+<span class="k">type</span> <span class="t">ElementOf</span>&lt;<span class="t">T</span>&gt; = <span class="t">T</span> <span class="k">extends</span> (<span class="k">infer</span> <span class="t">E</span>)[] ? <span class="t">E</span> : <span class="t">T</span>;
+
+<span class="c">// "Unwrap one layer of Promise."</span>
+<span class="k">type</span> <span class="t">UnwrapPromise</span>&lt;<span class="t">T</span>&gt; = <span class="t">T</span> <span class="k">extends</span> <span class="t">Promise</span>&lt;<span class="k">infer</span> <span class="t">U</span>&gt; ? <span class="t">U</span> : <span class="t">T</span>;</code></pre>
+
+  <h2>Distribution: the behavior that surprises everyone</h2>
+  <p>When the checked type is a <em>naked</em> type parameter, conditional types distribute over unions — the condition runs per member:</p>
+  <pre><code><span class="k">type</span> <span class="t">ToArray</span>&lt;<span class="t">T</span>&gt; = <span class="t">T</span> <span class="k">extends</span> <span class="t">unknown</span> ? <span class="t">T</span>[] : <span class="t">never</span>;
+<span class="k">type</span> <span class="t">A</span> = <span class="t">ToArray</span>&lt;<span class="t">string</span> | <span class="t">number</span>&gt;;  <span class="c">// string[] | number[]  (distributed)</span>
+
+<span class="c">// Wrap both sides in a tuple to turn distribution OFF:</span>
+<span class="k">type</span> <span class="t">ToArrayAll</span>&lt;<span class="t">T</span>&gt; = [<span class="t">T</span>] <span class="k">extends</span> [<span class="t">unknown</span>] ? <span class="t">T</span>[] : <span class="t">never</span>;
+<span class="k">type</span> <span class="t">B</span> = <span class="t">ToArrayAll</span>&lt;<span class="t">string</span> | <span class="t">number</span>&gt;; <span class="c">// (string | number)[]</span></code></pre>
+  <div class="warn"><strong>Watch out</strong>Distribution is why <code>Exclude</code> works (<code>Exclude&lt;T, U&gt; = T extends U ? never : T</code> runs per union member) — and why your own conditional type may "explode" a union when you didn't want it to. If a conditional type misbehaves on unions, try the <code>[T] extends [U]</code> form first.</div>
+
+  <h2>Template literal types: strings the compiler checks</h2>
+  <pre><code><span class="k">type</span> <span class="t">HttpMethod</span> = <span class="s">"GET"</span> | <span class="s">"POST"</span>;
+<span class="k">type</span> <span class="t">Route</span> = <span class="s">`/api/${string}`</span>;
+<span class="k">type</span> <span class="t">Endpoint</span> = <span class="s">`${HttpMethod} ${Route}`</span>;
+
+<span class="k">const</span> ok: <span class="t">Endpoint</span> = <span class="s">"GET /api/users"</span>;   <span class="c">// ✅</span>
+<span class="k">const</span> no: <span class="t">Endpoint</span> = <span class="s">"PATCH /api/users"</span>; <span class="c">// ❌</span>
+
+<span class="c">// Parse pieces back OUT of strings with infer:</span>
+<span class="k">type</span> <span class="t">ParamName</span>&lt;<span class="t">S</span>&gt; = <span class="t">S</span> <span class="k">extends</span> <span class="s">`${string}:${infer P}/${infer Rest}`</span>
+  ? <span class="t">P</span> | <span class="t">ParamName</span>&lt;<span class="s">`/${Rest}`</span>&gt;
+  : <span class="t">S</span> <span class="k">extends</span> <span class="s">`${string}:${infer P}`</span> ? <span class="t">P</span> : <span class="t">never</span>;
+
+<span class="k">type</span> <span class="t">P</span> = <span class="t">ParamName</span>&lt;<span class="s">"/users/:userId/posts/:postId"</span>&gt;; <span class="c">// "userId" | "postId"</span></code></pre>
+  <p>That last pattern is how libraries like Express router wrappers and tRPC give you typed route params from a plain string. You rarely need to write it — but now you can read it.</p>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 8</p>
+  <h1>Generics that pull their weight</h1>
+
+  <h2>The golden rule: a type parameter must appear at least twice</h2>
+  <pre><code><span class="c">// ❌ Pointless generic — T appears once; this is just "any" with makeup:</span>
+<span class="k">function</span> log&lt;<span class="t">T</span>&gt;(value: <span class="t">T</span>): <span class="t">void</span> { console.log(value); }
+
+<span class="c">// ✅ T links the input to the output — THAT's what generics are for:</span>
+<span class="k">function</span> first&lt;<span class="t">T</span>&gt;(items: <span class="t">T</span>[]): <span class="t">T</span> | <span class="t">undefined</span> { <span class="k">return</span> items[0]; }</code></pre>
+
+  <h2>Constraints make generics useful</h2>
+  <pre><code><span class="c">// K is REQUIRED to be a key of T — callers get autocomplete and safety:</span>
+<span class="k">function</span> pluck&lt;<span class="t">T</span>, <span class="t">K</span> <span class="k">extends keyof</span> <span class="t">T</span>&gt;(items: <span class="t">T</span>[], key: <span class="t">K</span>): <span class="t">T</span>[<span class="t">K</span>][] {
+  <span class="k">return</span> items.map(item =&gt; item[key]);
+}
+
+<span class="k">const</span> users = [{ id: <span class="s">"a"</span>, age: 30 }, { id: <span class="s">"b"</span>, age: 25 }];
+pluck(users, <span class="s">"age"</span>); <span class="c">// number[] — inferred, no annotations needed</span>
+pluck(users, <span class="s">"nope"</span>); <span class="c">// ❌ compile error</span></code></pre>
+  <pre><code><span class="c">// Constrain to a shape instead of a concrete type — accepts anything with an id:</span>
+<span class="k">function</span> indexById&lt;<span class="t">T</span> <span class="k">extends</span> { id: <span class="t">string</span> }&gt;(items: <span class="t">T</span>[]): <span class="t">Map</span>&lt;<span class="t">string</span>, <span class="t">T</span>&gt; {
+  <span class="k">return new</span> <span class="t">Map</span>(items.map(i =&gt; [i.id, i]));
+}</code></pre>
+
+  <h2>Defaults, and when NOT to use generics</h2>
+  <pre><code><span class="k">interface</span> <span class="t">PaginatedResponse</span>&lt;<span class="t">T</span> = <span class="t">unknown</span>&gt; {
+  items: <span class="t">T</span>[];
+  nextCursor: <span class="t">string</span> | <span class="t">null</span>;
+}</code></pre>
+  <ul>
+    <li>If callers never name the type parameter and it doesn't connect two positions — delete it.</li>
+    <li>If a union of two known types works — use the union. <code>function len(x: string | unknown[])</code> beats <code>len&lt;T extends string | unknown[]&gt;</code>.</li>
+    <li>If you're stacking 3+ type parameters, extract intermediate named types. Readability is a feature.</li>
+  </ul>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 9</p>
+  <h1>Recipes: paste these into your project</h1>
+
+  <h2>Branded types: stop mixing up your strings</h2>
+  <pre><code><span class="k">type</span> <span class="t">Brand</span>&lt;<span class="t">T</span>, <span class="t">B</span> <span class="k">extends</span> <span class="t">string</span>&gt; = <span class="t">T</span> &amp; { <span class="k">readonly</span> __brand: <span class="t">B</span> };
+
+<span class="k">type</span> <span class="t">UserId</span>  = <span class="t">Brand</span>&lt;<span class="t">string</span>, <span class="s">"UserId"</span>&gt;;
+<span class="k">type</span> <span class="t">OrderId</span> = <span class="t">Brand</span>&lt;<span class="t">string</span>, <span class="s">"OrderId"</span>&gt;;
+
+<span class="k">const</span> toUserId = (raw: <span class="t">string</span>): <span class="t">UserId</span> =&gt; raw <span class="k">as</span> <span class="t">UserId</span>;
+
+<span class="k">function</span> cancelOrder(orderId: <span class="t">OrderId</span>) { <span class="c">/* … */</span> }
+
+<span class="k">const</span> userId = toUserId(<span class="s">"u_42"</span>);
+cancelOrder(userId); <span class="c">// ❌ compile error — caught a real bug class!</span></code></pre>
+  <p>The brand exists only at compile time — zero runtime cost. Use it for IDs, sanitized HTML, validated emails, currency amounts (cents vs dollars!), and absolute vs relative paths.</p>
+
+  <h2>DeepPartial and DeepReadonly</h2>
+  <pre><code><span class="k">type</span> <span class="t">DeepPartial</span>&lt;<span class="t">T</span>&gt; = <span class="t">T</span> <span class="k">extends</span> <span class="t">Function</span> ? <span class="t">T</span>
+  : <span class="t">T</span> <span class="k">extends</span> <span class="t">object</span> ? { [<span class="t">K</span> <span class="k">in keyof</span> <span class="t">T</span>]?: <span class="t">DeepPartial</span>&lt;<span class="t">T</span>[<span class="t">K</span>]&gt; }
+  : <span class="t">T</span>;
+
+<span class="k">type</span> <span class="t">DeepReadonly</span>&lt;<span class="t">T</span>&gt; = <span class="t">T</span> <span class="k">extends</span> <span class="t">Function</span> ? <span class="t">T</span>
+  : <span class="t">T</span> <span class="k">extends</span> <span class="t">object</span> ? { <span class="k">readonly</span> [<span class="t">K</span> <span class="k">in keyof</span> <span class="t">T</span>]: <span class="t">DeepReadonly</span>&lt;<span class="t">T</span>[<span class="t">K</span>]&gt; }
+  : <span class="t">T</span>;
+
+<span class="c">// Perfect for test fixtures — override only what the test cares about:</span>
+<span class="k">function</span> makeUser(overrides: <span class="t">DeepPartial</span>&lt;<span class="t">User</span>&gt; = {}): <span class="t">User</span> {
+  <span class="k">return</span> merge(defaultUser(), overrides);
+}</code></pre>
+
+  <h2>Typed event emitter</h2>
+  <pre><code><span class="k">type</span> <span class="t">Events</span> = {
+  <span class="s">"user:login"</span>:  { userId: <span class="t">string</span> };
+  <span class="s">"user:logout"</span>: { userId: <span class="t">string</span>; reason: <span class="s">"manual"</span> | <span class="s">"timeout"</span> };
+  <span class="s">"error"</span>:       { message: <span class="t">string</span> };
+};
+
+<span class="k">class</span> <span class="t">TypedEmitter</span>&lt;<span class="t">E</span> <span class="k">extends</span> <span class="t">Record</span>&lt;<span class="t">string</span>, <span class="t">unknown</span>&gt;&gt; {
+  <span class="k">private</span> handlers: { [<span class="t">K</span> <span class="k">in keyof</span> <span class="t">E</span>]?: ((payload: <span class="t">E</span>[<span class="t">K</span>]) =&gt; <span class="t">void</span>)[] } = {};
+
+  on&lt;<span class="t">K</span> <span class="k">extends keyof</span> <span class="t">E</span>&gt;(event: <span class="t">K</span>, handler: (payload: <span class="t">E</span>[<span class="t">K</span>]) =&gt; <span class="t">void</span>) {
+    (<span class="k">this</span>.handlers[event] ??= []).push(handler);
+  }
+  emit&lt;<span class="t">K</span> <span class="k">extends keyof</span> <span class="t">E</span>&gt;(event: <span class="t">K</span>, payload: <span class="t">E</span>[<span class="t">K</span>]) {
+    <span class="k">this</span>.handlers[event]?.forEach(h =&gt; h(payload));
+  }
+}
+
+<span class="k">const</span> bus = <span class="k">new</span> <span class="t">TypedEmitter</span>&lt;<span class="t">Events</span>&gt;();
+bus.on(<span class="s">"user:logout"</span>, p =&gt; p.reason);       <span class="c">// ✅ payload fully typed</span>
+bus.emit(<span class="s">"user:login"</span>, { userId: 42 });      <span class="c">// ❌ number is not string</span>
+bus.emit(<span class="s">"user:signup"</span>, { userId: <span class="s">"u1"</span> });  <span class="c">// ❌ unknown event</span></code></pre>
+
+  <h2>Type-safe Object.keys and Object.entries</h2>
+  <pre><code><span class="c">// Object.keys returns string[] by design (objects can have extra keys).</span>
+<span class="c">// When YOU own the object and know it's exact, wrap it:</span>
+<span class="k">const</span> typedKeys = <span class="t">Object</span>.keys <span class="k">as</span> &lt;<span class="t">T</span>&gt;(obj: <span class="t">T</span>) =&gt; (<span class="k">keyof</span> <span class="t">T</span>)[];
+
+<span class="k">const</span> theme = { primary: <span class="s">"#2563eb"</span>, danger: <span class="s">"#dc2626"</span> };
+<span class="k">for</span> (<span class="k">const</span> key <span class="k">of</span> typedKeys(theme)) {
+  theme[key]; <span class="c">// ✅ key is "primary" | "danger", not string</span>
+}</code></pre>
+
+  <h2>Exact-optional updates with <code>keyof</code> pairs</h2>
+  <pre><code><span class="c">// A setter that only accepts valid key/value PAIRS:</span>
+<span class="k">function</span> setField&lt;<span class="t">T</span>, <span class="t">K</span> <span class="k">extends keyof</span> <span class="t">T</span>&gt;(obj: <span class="t">T</span>, key: <span class="t">K</span>, value: <span class="t">T</span>[<span class="t">K</span>]) {
+  obj[key] = value;
+}
+
+setField(user, <span class="s">"name"</span>, <span class="s">"Ada"</span>); <span class="c">// ✅</span>
+setField(user, <span class="s">"name"</span>, 42);     <span class="c">// ❌ 42 is not assignable to string</span></code></pre>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 10</p>
+  <h1>The tsconfig flags that matter</h1>
+  <p><code>"strict": true</code> is the baseline, not the ceiling. These are the flags that change how many bugs the compiler catches, in rough order of impact:</p>
+  <table>
+    <tr><th>Flag</th><th>What it buys you</th></tr>
+    <tr><td><code>strict</code></td><td>Umbrella for <code>strictNullChecks</code>, <code>noImplicitAny</code>, and friends. Non-negotiable on new projects; adopt file-by-file on legacy ones.</td></tr>
+    <tr><td><code>noUncheckedIndexedAccess</code></td><td><code>arr[i]</code> and <code>record[key]</code> become <code>T | undefined</code>. The single biggest catcher of real crashes not covered by <code>strict</code>. Expect friction; it's worth it.</td></tr>
+    <tr><td><code>exactOptionalPropertyTypes</code></td><td>Distinguishes "absent" from "explicitly undefined" — <code>{ a?: string }</code> no longer accepts <code>{ a: undefined }</code>. Matters for spread-merge logic and JSON serialization.</td></tr>
+    <tr><td><code>noImplicitOverride</code></td><td>Requires the <code>override</code> keyword — renames in a base class stop silently orphaning subclasses' methods.</td></tr>
+    <tr><td><code>noFallthroughCasesInSwitch</code></td><td>Catches missing <code>break</code>s — a classic source of "why did both branches run."</td></tr>
+    <tr><td><code>verbatimModuleSyntax</code></td><td>Forces <code>import type</code> for type-only imports, so build tools can safely strip them. Prevents an entire class of bundler/transpiler issues.</td></tr>
+  </table>
+  <div class="tip"><strong>Pro move</strong>On a legacy codebase, don't flip everything at once. Turn a flag on, run <code>tsc --noEmit</code>, count errors. If it's under ~50, fix them now. If it's hundreds, enable it with a lint suppression baseline and burn errors down per-file. Motion beats purity.</div>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 11</p>
+  <h1>Decoding TypeScript's five scariest errors</h1>
+
+  <h3>1. "Type 'X' is not assignable to type 'Y'" (with a 40-line tail)</h3>
+  <p>Read the <em>last</em> "Types of property … are incompatible" line first — the innermost mismatch is the real one; everything above is the path to it. Fix that one property and the whole tower usually collapses.</p>
+
+  <h3>2. "Property 'x' does not exist on type 'never'"</h3>
+  <p>A variable was narrowed out of existence. Usually: an impossible condition (<code>if (a === "x" &amp;&amp; a === "y")</code>), or an empty array literal that TypeScript typed as <code>never[]</code> — annotate it: <code>const items: string[] = []</code>.</p>
+
+  <h3>3. "Object is possibly 'undefined'"</h3>
+  <p>The compiler is right more often than you think. Prefer narrowing (<code>if (!user) return</code>) or defaults (<code>user ?? anonymous</code>) over <code>!</code>. Every <code>!</code> is a small IOU that production eventually collects.</p>
+
+  <h3>4. "Type instantiation is excessively deep and possibly infinite"</h3>
+  <p>A recursive conditional type has no base case for some input (often <code>any</code> or a self-referencing type). Add an explicit terminator (<code>T extends Function ? T : …</code>) or bound the recursion depth. If it comes from a library, check for a version bump — these often get fixed.</p>
+
+  <h3>5. "The inferred type of X cannot be named without a reference to Y"</h3>
+  <p>You're exporting a value whose type mentions a transitive dependency's private types. Add an explicit annotation to the exported symbol, or re-export the type. Annotating exported API surfaces is good practice anyway — it makes your public types intentional.</p>
+
+  <div class="tip"><strong>Pro move</strong>For any gnarly error: hover the value in your editor and read the <em>resolved</em> type, not the written one. Half of all "impossible" errors dissolve when you see what the compiler actually inferred. The other half dissolve in <a href="https://www.typescriptlang.org/play">TS Playground</a> when you reduce them to 10 lines.</div>
+</section>
+
+<section class="chapter">
+  <p class="kicker">Chapter 12</p>
+  <h1>The one-page cheatsheet</h1>
+  <table>
+    <tr><th>You want…</th><th>Reach for</th></tr>
+    <tr><td>Update/patch parameter</td><td><code>Partial&lt;T&gt;</code></td></tr>
+    <tr><td>Strip sensitive fields</td><td><code>Omit&lt;T, "secret"&gt;</code></td></tr>
+    <tr><td>Lookup table covering a union</td><td><code>Record&lt;Union, V&gt;</code></td></tr>
+    <tr><td>Result type of an async fn</td><td><code>Awaited&lt;ReturnType&lt;typeof fn&gt;&gt;</code></td></tr>
+    <tr><td>One member of a union</td><td><code>Extract&lt;U, { type: "x" }&gt;</code></td></tr>
+    <tr><td>State that can't be invalid</td><td>Discriminated union + <code>assertNever</code></td></tr>
+    <tr><td>Errors in the signature</td><td><code>Result&lt;T, E&gt;</code> union</td></tr>
+    <tr><td>Union from a const array</td><td><code>(typeof ARR)[number]</code> + <code>as const</code></td></tr>
+    <tr><td>Check config w/o widening</td><td><code>satisfies</code></td></tr>
+    <tr><td>IDs that can't be swapped</td><td>Branded types</td></tr>
+    <tr><td>Validate unknown input</td><td>Type guard at the boundary</td></tr>
+    <tr><td>Safer indexing</td><td><code>noUncheckedIndexedAccess</code></td></tr>
+  </table>
+  <p style="margin-top:14pt">Thanks for reading. If this guide saved you an afternoon, the best compliment is telling another developer about it.</p>
+  <p style="color:var(--muted)">— argusagent · Found an error or have a suggestion? Open an issue on github.com/argusagent.</p>
+</section>
