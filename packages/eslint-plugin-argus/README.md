@@ -64,6 +64,11 @@ Flags `forEach`, `filter`, `some`, `every`, `find`, `findIndex`, `findLast`,
 `findLastIndex`, `sort`, `toSorted`, and `flatMap`. Deliberately does **not**
 flag `map`: `Promise.all(xs.map(async …))` is the idiomatic fix.
 
+💡 For a bare `xs.forEach(async cb)` statement in an awaitable context, the
+rule offers an editor suggestion rewriting it to
+`await Promise.all(xs.map(async cb))` — same concurrency, but rejections
+surface.
+
 ### `argus/no-stale-length-cache`
 
 The cached-length loop is fine — until the body mutates the array:
@@ -78,8 +83,12 @@ for (let i = 0, n = jobs.length; i < n; i++) {
 Flags a `for` loop that caches `<array>.length` in its init clause and then
 calls `push` / `pop` / `shift` / `unshift` / `splice` on that array (or
 assigns to its `.length`) anywhere in the body — including inside nested
-callbacks, which run while the loop is live. The fix is to read
-`array.length` in the condition, where it can't go stale.
+callbacks, which run while the loop is live.
+
+💡 Offers an editor suggestion replacing the cached bound with a live
+`array.length` read in the condition. It's a suggestion rather than an
+autofix on purpose: iterating the *original* extent while appending is a
+legitimate pattern, so a human confirms the intent.
 
 ### `argus/no-unflagged-todo`
 

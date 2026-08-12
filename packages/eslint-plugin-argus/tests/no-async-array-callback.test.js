@@ -27,12 +27,45 @@ tester.run("no-async-array-callback", rule, {
   ],
   invalid: [
     {
+      // top level of a module: top-level await makes the rewrite legal
       code: "xs.forEach(async (x) => { await save(x); });",
-      errors: [{ messageId: "discarded" }],
+      errors: [
+        {
+          messageId: "discarded",
+          suggestions: [
+            {
+              messageId: "suggestPromiseAll",
+              output:
+                "await Promise.all(xs.map(async (x) => { await save(x); }));",
+            },
+          ],
+        },
+      ],
     },
     {
-      code: "xs.forEach(async function (x) { await save(x); });",
-      errors: [{ messageId: "discarded" }],
+      code: "async function f() { queue.jobs.forEach(async function (x) { await save(x); }); }",
+      errors: [
+        {
+          messageId: "discarded",
+          suggestions: [
+            {
+              messageId: "suggestPromiseAll",
+              output:
+                "async function f() { await Promise.all(queue.jobs.map(async function (x) { await save(x); })); }",
+            },
+          ],
+        },
+      ],
+    },
+    {
+      // inside a sync function there is nowhere to await: no suggestion
+      code: "function f() { xs.forEach(async (x) => { await save(x); }); }",
+      errors: [{ messageId: "discarded", suggestions: [] }],
+    },
+    {
+      // result of forEach is (bizarrely) consumed: no rewrite offered
+      code: "const r = xs.forEach(async (x) => { await save(x); });",
+      errors: [{ messageId: "discarded", suggestions: [] }],
     },
     {
       code: "xs.filter(async (x) => await isValid(x));",

@@ -34,11 +34,14 @@ const ALL = new Set([...DISCARDED, ...PREDICATE, ...COMPARATOR, ...FLATTENING]);
 export default {
   meta: {
     type: "problem",
+    hasSuggestions: true,
     docs: {
       description:
         "Disallow async callbacks in array methods that cannot handle a returned Promise",
     },
     messages: {
+      suggestPromiseAll:
+        "Rewrite as `await Promise.all({{object}}.map(…))`",
       discarded:
         "Async callback passed to `{{method}}`: the returned promises are discarded, so nothing awaits them and rejections are lost. Use `for…of` with `await`, or `Promise.all` over `map`.",
       predicate:
@@ -52,6 +55,24 @@ export default {
   },
 
   create(context) {
+    const sourceCode = context.sourceCode;
+
+    /** `await` is legal here: inside an async function, or at the top level
+     * of a module. A class static block is its own await-free island. */
+    function canAwait(node) {
+      for (const ancestor of [...sourceCode.getAncestors(node)].reverse()) {
+        if (
+          ancestor.type === "FunctionDeclaration" ||
+          ancestor.type === "FunctionExpression" ||
+          ancestor.type === "ArrowFunctionExpression"
+        ) {
+          return ancestor.async === true;
+        }
+        if (ancestor.type === "StaticBlock") return false;
+      }
+      return context.languageOptions?.sourceType === "module";
+    }
+
     return {
       CallExpression(node) {
         const callee = node.callee;
@@ -80,7 +101,32 @@ export default {
             : COMPARATOR.has(method)
               ? "comparator"
               : "flattening";
-        context.report({ node: cb, messageId, data: { method } });
+
+        // The one case with a canonical mechanical rewrite: a bare
+        // `xs.forEach(async cb)` statement becomes
+        // `await Promise.all(xs.map(async cb))` — same concurrency, but the
+        // promises are awaited and rejections surface. Only offered where
+        // `await` is legal and only when forEach's result isn't used.
+        const suggest = [];
+        if (
+          method === "forEach" &&
+          node.arguments.length === 1 &&
+          node.parent.type === "ExpressionStatement" &&
+          canAwait(node)
+        ) {
+          const objectText = sourceCode.getText(callee.object);
+          suggest.push({
+            messageId: "suggestPromiseAll",
+            data: { object: objectText },
+            fix: (fixer) =>
+              fixer.replaceText(
+                node,
+                `await Promise.all(${objectText}.map(${sourceCode.getText(cb)}))`,
+              ),
+          });
+        }
+
+        context.report({ node: cb, messageId, data: { method }, suggest });
       },
     };
   },

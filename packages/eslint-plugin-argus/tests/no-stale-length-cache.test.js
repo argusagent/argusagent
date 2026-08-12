@@ -27,33 +27,110 @@ tester.run("no-stale-length-cache", rule, {
   invalid: [
     {
       code: "for (let i = 0, n = xs.length; i < n; i++) { xs.push(xs[i]); }",
-      errors: [{ messageId: "stale" }],
+      errors: [
+        {
+          messageId: "stale",
+          suggestions: [
+            {
+              messageId: "suggestLiveLength",
+              output:
+                "for (let i = 0, n = xs.length; i < xs.length; i++) { xs.push(xs[i]); }",
+            },
+          ],
+        },
+      ],
     },
     {
       code: "for (let i = 0, len = xs.length; i < len; i++) { if (bad(xs[i])) xs.splice(i, 1); }",
-      errors: [{ messageId: "stale" }],
+      errors: [
+        {
+          messageId: "stale",
+          suggestions: [
+            {
+              messageId: "suggestLiveLength",
+              output:
+                "for (let i = 0, len = xs.length; i < xs.length; i++) { if (bad(xs[i])) xs.splice(i, 1); }",
+            },
+          ],
+        },
+      ],
     },
     {
       code: "for (let i = 0, n = xs.length; i < n; i++) { xs.pop(); }",
-      errors: [{ messageId: "stale" }],
+      errors: [
+        {
+          messageId: "stale",
+          suggestions: [
+            {
+              messageId: "suggestLiveLength",
+              output:
+                "for (let i = 0, n = xs.length; i < xs.length; i++) { xs.pop(); }",
+            },
+          ],
+        },
+      ],
     },
     {
       code: "for (let i = 0, n = xs.length; i < n; i++) { xs.shift(); }",
-      errors: [{ messageId: "stale" }],
+      errors: [
+        {
+          messageId: "stale",
+          suggestions: [
+            {
+              messageId: "suggestLiveLength",
+              output:
+                "for (let i = 0, n = xs.length; i < xs.length; i++) { xs.shift(); }",
+            },
+          ],
+        },
+      ],
     },
     {
       // mutation buried in a branch and a nested callback still runs mid-loop
       code: "for (let i = 0, n = xs.length; i < n; i++) { maybe(() => { xs.unshift(0); }); }",
-      errors: [{ messageId: "stale" }],
+      errors: [
+        {
+          messageId: "stale",
+          suggestions: [
+            {
+              messageId: "suggestLiveLength",
+              output:
+                "for (let i = 0, n = xs.length; i < xs.length; i++) { maybe(() => { xs.unshift(0); }); }",
+            },
+          ],
+        },
+      ],
     },
     {
       code: "for (let i = 0, n = xs.length; i < n; i++) { xs.length = 0; }",
-      errors: [{ messageId: "stale" }],
+      errors: [
+        {
+          messageId: "stale",
+          suggestions: [
+            {
+              messageId: "suggestLiveLength",
+              output:
+                "for (let i = 0, n = xs.length; i < xs.length; i++) { xs.length = 0; }",
+            },
+          ],
+        },
+      ],
     },
     {
       // cached length declared second in the init clause
       code: "for (let i = 0, j = 1, n = xs.length; i < n; i++) { xs.push(i); }",
-      errors: [{ messageId: "stale" }],
+      errors: [
+        {
+          messageId: "stale",
+          suggestions: [
+            {
+              messageId: "suggestLiveLength",
+              output:
+                "for (let i = 0, j = 1, n = xs.length; i < xs.length; i++) { xs.push(i); }",
+            },
+          ],
+        },
+      ],
     },
   ],
 });

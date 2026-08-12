@@ -41,6 +41,7 @@ function referencesIdentifier(root, name) {
 export default {
   meta: {
     type: "problem",
+    hasSuggestions: true,
     docs: {
       description:
         "Disallow mutating an array inside a for-loop that cached its length as the bound",
@@ -48,6 +49,8 @@ export default {
     messages: {
       stale:
         "This loop's bound `{{cached}}` caches `{{array}}.length`, but `{{array}}` is mutated inside the loop, so the cached bound goes stale. Read `{{array}}.length` in the loop condition instead.",
+      suggestLiveLength:
+        "Read `{{array}}.length` directly in the loop condition",
     },
     schema: [],
   },
@@ -97,10 +100,25 @@ export default {
               inner.left.property.name === "length";
 
             if (isMutatorCall || isLengthWrite) {
+              // Not an autofix: iterating the ORIGINAL extent while appending
+              // is a legitimate pattern, so a human confirms the intent.
+              const boundReads = [...walk(node.test)].filter(
+                (n) => n.type === "Identifier" && n.name === cachedName,
+              );
               context.report({
                 node: inner,
                 messageId: "stale",
                 data: { array: arrayName, cached: cachedName },
+                suggest: [
+                  {
+                    messageId: "suggestLiveLength",
+                    data: { array: arrayName },
+                    fix: (fixer) =>
+                      boundReads.map((read) =>
+                        fixer.replaceText(read, `${arrayName}.length`),
+                      ),
+                  },
+                ],
               });
               break;
             }
