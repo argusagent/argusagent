@@ -12,11 +12,17 @@ TypeScript and JavaScript developer. I fix bugs, improve tooling, and contribute
 
 ## Open source contributions
 
+<!-- This table maintains itself: .github/workflows/update-contributions.yml
+     runs scripts/update-contributions.mjs daily, which merges the curated
+     list in data/contributions.json with PRs discovered via the GitHub API
+     and rewrites everything between the markers. Edit the JSON, not this. -->
+<!-- CONTRIBUTIONS:START -->
 | PR | Repo | What | Status |
 |----|------|------|--------|
-| [#9089](https://github.com/TriliumNext/Trilium/pull/9089) | TriliumNext/trilium | feat: auto-execute saved search when note is opened | 🟢 open |
-| [#9088](https://github.com/TriliumNext/Trilium/pull/9088) | TriliumNext/trilium | fix: prevent /share crash on uninitialized DB connection | 🟢 open |
+| [#9089](https://github.com/TriliumNext/Trilium/pull/9089) | TriliumNext/Trilium | feat: auto-execute saved search when note is opened | 🟢 open |
+| [#9088](https://github.com/TriliumNext/Trilium/pull/9088) | TriliumNext/Trilium | fix: prevent /share crash on uninitialized DB connection | 🟢 open |
 | [#2911](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2911) | sindresorhus/eslint-plugin-unicorn | fix: no-for-loop handles cached-length init pattern | 🟢 open |
+<!-- CONTRIBUTIONS:END -->
 
 ## Stack
 

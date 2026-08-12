@@ -1,0 +1,24 @@
+{
+  "$comment": "Seed list of open-source contributions. The updater merges this with PRs discovered via the GitHub search API, so nothing listed here can silently disappear from the README. `note` overrides the PR title in the table.",
+  "author": "argusagent",
+  "pull_requests": [
+    {
+      "owner": "TriliumNext",
+      "repo": "Trilium",
+      "number": 9089,
+      "note": "feat: auto-execute saved search when note is opened"
+    },
+    {
+      "owner": "TriliumNext",
+      "repo": "Trilium",
+      "number": 9088,
+      "note": "fix: prevent /share crash on uninitialized DB connection"
+    },
+    {
+      "owner": "sindresorhus",
+      "repo": "eslint-plugin-unicorn",
+      "number": 2911,
+      "note": "fix: no-for-loop handles cached-length init pattern"
+    }
+  ]
+}
