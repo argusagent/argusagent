@@ -24,6 +24,10 @@ TypeScript and JavaScript developer. I fix bugs, improve tooling, and contribute
 | [#2911](https://github.com/sindresorhus/eslint-plugin-unicorn/pull/2911) | sindresorhus/eslint-plugin-unicorn | fix: no-for-loop handles cached-length init pattern | 🟢 open |
 <!-- CONTRIBUTIONS:END -->
 
+## Now building
+
+**[eslint-plugin-argus](packages/eslint-plugin-argus)** — the hundred-eyed ESLint plugin. Three rules for bugs that look fine in review: async callbacks whose promises array methods silently discard, cached loop bounds invalidated by a `splice` three branches deeper, and TODOs with no issue to their name. Zero dependencies, fully tested, flat-config native.
+
 ## Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
